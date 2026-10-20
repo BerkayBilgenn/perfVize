@@ -1,0 +1,77 @@
+{
+  "id": "doc-eeeebde51299566b",
+  "title": "1. sınıf · Perfüzyon teknikleri",
+  "category": "Perfüzyon",
+  "kind": "document",
+  "order": 5,
+  "tags": [
+    "PDF",
+    "5 sayfa"
+  ],
+  "sections": [
+    {
+      "title": "Sayfa 1",
+      "text": "1. Sınıf Perfüzyon Teknikleri / Teknolojisi\n UTF-8 / Unicode uyumlu ders notu • Türkçe karakter destekli\nÖnemli: Bu dosya Türkçe karakterlerin (ç, ğ, ı, İ, ö, ş, ü) bozulmaması için Unicode destekli TrueType font\nile oluşturulmuştur.\n1. EKSTRAKORPOREAL DOLAŞIM (EKD)\nTemel mantık\n• Kalp-akciğer makinesi (KPB/CPB), ameliyat sırasında kalbin pompalama ve akciğerlerin gaz değişimi\ngörevlerini geçici olarak üstlenir.\n• Venöz kan → venöz rezervuar → pompa → oksijenatör → ısı değiştirici → arteriyel filtre/hat → hasta\nşeklinde temel akış mantığı düşünülür.\n• Perfüzyonun amacı yalnızca kanı dolaştırmak değil; organlara yeterli oksijen sunumu ve kontrollü\ndolaşım sağlamaktır.\nTemel kavramlar\n• Kardiyak debi (CO) = Kalp hızı × Atım hacmi.\n• Preload kalbin dolumuyla, afterload ise kanı ileri atarken karşılaşılan dirençle ilişkilidir.\n• Perfüzyonda akım, basınç, oksijen taşıma kapasitesi, kan gazları ve sıcaklık birlikte değerlendirilir.\n2. KALP-AKCİĞER MAKİNESİNİN ANA PARÇALARI\n• Venöz kanül ve venöz hat: Kanı hastadan devreye taşır.\n• Venöz rezervuar: Venöz kanın toplandığı bölümdür.\n• Pompa: Kanı devrede ileri taşır.\n• Oksijenatör: O₂ ekler, CO₂ uzaklaştırır.\n• Isı değiştirici: Kan sıcaklığını kontrol eder.\n• Arteriyel filtre: Partikül ve mikroembolilerin geçiş riskini azaltmaya yardımcı olur.\n• Arteriyel hat ve kanül: Oksijenlenmiş kanı hastaya geri verir.\n• Bubble detector ve level sensor gibi güvenlik sistemleri devrenin güvenli takibine yardımcı olur.\nPompa tipleri\n• Roller pompa: Tubingi mekanik olarak sıkıştıran peristaltik pompadır.\n• Santrifüj pompa: Dönen sistem aracılığıyla kan hareketi oluşturur; çıkış akımı sistem direnci ve giriş\nkoşullarından etkilenir.\n3. KANÜLASYON\nVenöz kanülasyon\n• Venöz kanülasyonun amacı venöz kanı KPB devresine yönlendirmektir.\n• Tek venöz kanül veya bicaval kanülasyon kullanılabilir.\n• Bicaval yaklaşımda vena cava superior ve vena cava inferior ayrı ayrı kanüle edilir.\nArteriyel kanülasyon\n• Arteriyel kanül, oksijenlenmiş kanın hastanın arteriyel sistemine verilmesini sağlar.",
+      "images": [
+        {
+          "url": "/assets/doc-eeeebde51299566b/page-1.jpg",
+          "alt": "1. sınıf · Perfüzyon teknikleri · Sayfa 1"
+        }
+      ]
+    },
+    {
+      "title": "Sayfa 2",
+      "text": "• Aortik kanülasyon temel arteriyel kanülasyon yöntemlerinden biridir.\n• Kanülasyon sırasında hava, malpozisyon ve damar hasarı gibi riskler önemlidir.\nAntegrad / retrograd / osteal\n• Antegrad: Akım fizyolojik yönde ilerler.\n• Retrograd: Akım ters yönde ilerler.\n• Osteal kanülasyon: Koroner arter ostiumları üzerinden kan verilmesiyle ilişkilidir.\n4. OKSİJENATÖR VE GAZ DEĞİŞİMİ\n• Oksijenatör akciğerin gaz değişimi görevini KPB devresinde üstlenir.\n• O₂'nin kana geçmesini ve CO₂'nin kandan uzaklaştırılmasını sağlar.\n• FiO₂, oksijenatöre verilen gazdaki oksijen konsantrasyonunu ifade eder.\n• PaO₂ oksijenlenme, PaCO₂ ise CO₂ uzaklaştırılması/ventilasyon hakkında bilgi verir.\n5. ISI YÖNETİMİ\n• Isı değiştirici kanın sıcaklığını kontrollü biçimde düşürmek veya artırmak için kullanılır.\n• Sıcaklık; metabolizma, oksijen tüketimi, pıhtılaşma ve ilaç etkileri üzerinde değişiklik oluşturabilir.\n• Yeniden ısıtma kontrollü yapılır ve farklı bölgelerden sıcaklık takibi önemlidir.\n6. ANTİKOAGÜLASYON\n• Kanın yapay yüzeylerle teması koagülasyon sistemini aktive edebilir; bu nedenle KPB sırasında\nantikoagülasyon gerekir.\n• Heparin temel antikoagülandır.\n• ACT (Activated Clotting Time), antikoagülasyonun izlenmesinde kullanılan temel testlerden biridir.\n• Protamin, heparinin etkisini antagonize etmek amacıyla kullanılır.\nEzber\n• Heparin → antikoagülasyon.\n• ACT → antikoagülasyon takibi.\n• Protamin → heparin etkisinin antagonizasyonu.\n7. PRIME, HEMODİLÜSYON VE HEMATOKRİT\n• Prime, KPB devresinin hasta bağlanmadan önce doldurulmasında kullanılan sıvı/solüsyonlardır.\n• Prime hacmi kanı seyrelterek hemodilüsyon oluşturabilir.\n• Hematokrit düşüşü kanın oksijen taşıma kapasitesini etkileyebilir.\n• Bu nedenle hematokrit, kan gazları, akım, basınç ve klinik durum birlikte değerlendirilir.\n8. ULTRAFİLTRASYON / HEMOFİLTRASYON\n• Ultrafiltrasyon, plazma suyunun ve bazı çözünmüş maddelerin membran üzerinden uzaklaştırılmasına\nyardımcı olur.\n• Hemofiltrasyon konveksiyon temelli sıvı ve solüt uzaklaştırma yöntemidir.\n• Her iki uygulamanın kullanım şekli cihaz ve kurum protokolüne göre değişebilir.",
+      "images": [
+        {
+          "url": "/assets/doc-eeeebde51299566b/page-2.jpg",
+          "alt": "1. sınıf · Perfüzyon teknikleri · Sayfa 2"
+        }
+      ]
+    },
+    {
+      "title": "Sayfa 3",
+      "text": "9. KARDİYOPLEJİ VE MİYOKARD KORUNMASI\n• Kardiyoplejinin temel amacı kontrollü kardiyak arrest sağlamak ve miyokardı korumaktır.\n• Antegrad kardiyopleji koroner dolaşıma fizyolojik yönde verilir.\n• Retrograd kardiyopleji koroner sinüs üzerinden verilir.\n• Kan veya kristalloid bazlı kardiyopleji protokolleri bulunabilir.\n• Hiperkalemik kardiyopleji membran potansiyelini değiştirerek diyastolik arrest oluşturulmasına\nyardımcı olur.\n10. KAN GAZI VE ASİT-BAZ\n• pH: Asit-baz durumunu gösterir.\n• PaCO₂: Respiratuvar/CO₂ komponenti hakkında bilgi verir.\n• PaO₂: Plazmada çözünmüş oksijen basıncıdır.\n• HCO₃⁻: Metabolik komponent hakkında bilgi verir.\n• SaO₂: Hemoglobinin oksijen satürasyonudur.\n• BE: Metabolik asit-baz değerlendirmesine yardımcı olur.\nBasit yorum\n• pH ↓ + PaCO₂ ↑ → respiratuvar asidoz yönünde.\n• pH ↑ + PaCO₂ ↓ → respiratuvar alkaloz yönünde.\n• pH ↓ + HCO₃⁻ ↓ → metabolik asidoz yönünde.\n• pH ↑ + HCO₃⁻ ↑ → metabolik alkaloz yönünde.\n11. PERİFÜZYONDA TAKİP EDİLENLER\n• Arteriyel basınç, pompa akımı, venöz dönüş, rezervuar seviyesi, kan gazları, hemoglobin/hematokrit,\nelektrolitler, sıcaklık, ACT ve oksijenatör performansı birlikte takip edilir.\n• Temel prensip: Tek bir değere bakarak perfüzyon yeterliliği hakkında karar verilmez.\n12. KPB GÜVENLİĞİ\n• Devreye hava girişi ciddi bir güvenlik sorunudur.\n• Bubble detector, arteriyel filtre ve dikkatli devre yönetimi önemlidir.\n• Venöz dönüş azalırsa kanül pozisyonu, hat kıvrılması, drenaj problemi ve cerrahi koşullar sistematik\nşekilde değerlendirilir.\n• Devre bağlantıları, klempler, gaz kaynağı, rezervuar seviyesi ve pompa sistemi sürekli kontrol\nedilmelidir.\nSINAV İÇİN EZBER KARTI\n• Venöz kanül → Hastadan devreye kan.\n• Arteriyel kanül → Devreden hastaya kan.\n• Rezervuar → Venöz kanın toplandığı bölüm.\n• Pompa → Kanı hareket ettirir.\n• Oksijenatör → O₂ ekler, CO₂ uzaklaştırır.",
+      "images": [
+        {
+          "url": "/assets/doc-eeeebde51299566b/page-3.jpg",
+          "alt": "1. sınıf · Perfüzyon teknikleri · Sayfa 3"
+        }
+      ]
+    },
+    {
+      "title": "Sayfa 4",
+      "text": "• Isı değiştirici → Sıcaklık yönetimi.\n• Heparin → Antikoagülan.\n• ACT → Antikoagülasyon takibi.\n• Protamin → Heparin antagonizasyonu.\n• Kardiyopleji → Kardiyak arrest + miyokard korunması.\n• Antegrad → İleri/fizyolojik yön.\n• Retrograd → Ters yön.\n• Hemodilüsyon → Kanın sıvıyla seyrelmesi.\n• CO → Kalp hızı × atım hacmi.",
+      "images": [
+        {
+          "url": "/assets/doc-eeeebde51299566b/page-4.jpg",
+          "alt": "1. sınıf · Perfüzyon teknikleri · Sayfa 4"
+        }
+      ]
+    },
+    {
+      "title": "Sayfa 5",
+      "text": "7 GÜNLÜK ÇALIŞMA PLANI\n1. gün — EKD ve KPB devresini baştan sona öğren.\n2. gün — Kanülasyon, antegrad-retrograd ve kanül çeşitlerini çalış.\n3. gün — Oksijenatör, gaz değişimi ve kan gazlarını çalış.\n4. gün — Heparin, ACT, protamin ve antikoagülasyonu tekrar et.\n5. gün — Kardiyopleji ve sıcaklık yönetimini çalış.\n6. gün — Prime, hemodilüsyon, ultrafiltrasyon ve güvenlik sistemlerini tekrar et.\n7. gün — Tüm konulardan soru çöz ve kavramları ezberden anlat.\nNot: Bu eğitim notudur. Klinik uygulamalarda cihaz ayarları, antikoagülasyon ve ilaç uygulamaları\nsorumlu perfüzyonist/hekim ve kurum protokollerine göre yapılır.",
+      "images": [
+        {
+          "url": "/assets/doc-eeeebde51299566b/page-5.jpg",
+          "alt": "1. sınıf · Perfüzyon teknikleri · Sayfa 5"
+        }
+      ]
+    }
+  ],
+  "attachments": [
+    {
+      "name": "1_Sinif_Perfuzyon_Teknikleri_UTF8.pdf",
+      "url": "/assets/doc-eeeebde51299566b/original.pdf"
+    }
+  ],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "sourceName": "1_Sinif_Perfuzyon_Teknikleri_UTF8.pdf",
+  "scanned": false,
+  "description": "1. Sınıf Perfüzyon Teknikleri / Teknolojisi UTF-8 / Unicode uyumlu ders notu • Türkçe karakter destekli Önemli: Bu dosya Türkçe karakterlerin (ç, ğ, ı, İ, ö, ş, ü) bozulmaması için Unicode destekli TrueType font ile oluşturulmuştur. 1. EKSTRAKORPOREA"
+}

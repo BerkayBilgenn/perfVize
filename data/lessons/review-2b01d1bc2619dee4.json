@@ -1,0 +1,637 @@
+{
+  "id": "review-2b01d1bc2619dee4",
+  "title": "Pediatrik koroner hastalıklar",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Koroner çalma",
+      "text": "Coronary steal\nKanın düşük dirençli bir yola (ALCAPA'da pulmoner artere, fistülde sağ kalbe) kaçıp miyokardı iskemik bırakması.",
+      "images": [],
+      "card": {
+        "id": "PER241-14acglj",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "term",
+        "importance": 1,
+        "source": "Radiopaedia",
+        "term": "Koroner çalma",
+        "en": "Coronary steal",
+        "definition": "Kanın düşük dirençli bir yola (ALCAPA'da pulmoner artere, fistülde sağ kalbe) kaçıp miyokardı iskemik bırakması."
+      }
+    },
+    {
+      "title": "ALCAPA",
+      "text": "Anomalous left coronary artery from the pulmonary artery\nSol koronerin pulmoner arterden çıkması; pulmoner vasküler direnç düşünce miyokard iskemisi.\nBland, White, Garland (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-19bd6wv",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "term",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "term": "ALCAPA",
+        "en": "Anomalous left coronary artery from the pulmonary artery",
+        "definition": "Sol koronerin pulmoner arterden çıkması; pulmoner vasküler direnç düşünce miyokard iskemisi.",
+        "origin": "Bland, White, Garland (eponim)"
+      }
+    },
+    {
+      "title": "Kawasaki hastalığı",
+      "text": "Kawasaki disease\nÇocuklukta orta çaplı arterlerin (özellikle koroner) akut vasküliti; edinsel kalp hastalığının en sık nedeni.\nT. Kawasaki (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-090hfjx",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Kawasaki hastalığı",
+        "en": "Kawasaki disease",
+        "definition": "Çocuklukta orta çaplı arterlerin (özellikle koroner) akut vasküliti; edinsel kalp hastalığının en sık nedeni.",
+        "origin": "T. Kawasaki (eponim)"
+      }
+    },
+    {
+      "title": "Dev koroner anevrizma",
+      "text": "Giant coronary aneurysm\nAHA 2017 sınıflamasında Z-skoru **≥10** veya mutlak çapı **≥8 mm** olan koroner anevrizma.",
+      "images": [],
+      "card": {
+        "id": "PER241-1u0mgkt",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "term",
+        "importance": 1,
+        "source": "AHA Kawasaki 2017",
+        "term": "Dev koroner anevrizma",
+        "en": "Giant coronary aneurysm",
+        "definition": "AHA 2017 sınıflamasında Z-skoru **≥10** veya mutlak çapı **≥8 mm** olan koroner anevrizma."
+      }
+    },
+    {
+      "title": "Koroner arter fistülü",
+      "text": "Coronary artery fistula\nKoroner arter ile kalp boşluğu/büyük damar arasında anormal bağlantı.\nLat. fistula = boru",
+      "images": [],
+      "card": {
+        "id": "PER241-1k82ssx",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Koroner arter fistülü",
+        "en": "Coronary artery fistula",
+        "definition": "Koroner arter ile kalp boşluğu/büyük damar arasında anormal bağlantı.",
+        "origin": "Lat. fistula = boru"
+      }
+    },
+    {
+      "title": "AAOCA",
+      "text": "Anomalous aortic origin of a coronary artery\nKoronerin aortadan yanlış Valsalva sinüsünden çıkması; interarteriyel seyirde ani ölüm riski.",
+      "images": [],
+      "card": {
+        "id": "PER241-0em6n2k",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "AAOCA",
+        "en": "Anomalous aortic origin of a coronary artery",
+        "definition": "Koronerin aortadan yanlış Valsalva sinüsünden çıkması; interarteriyel seyirde ani ölüm riski."
+      }
+    },
+    {
+      "title": "ALCAPA'da doğum sonrası iskemi",
+      "text": "Pulmoner direnç ve basınç düştüğünde anormal sol koronerin beslenmesi yetersiz kalır; **sol ventrikül iskemisi** gelişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1bn5h3c",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "title": "ALCAPA'da doğum sonrası iskemi",
+        "body": "Pulmoner direnç ve basınç düştüğünde anormal sol koronerin beslenmesi yetersiz kalır; **sol ventrikül iskemisi** gelişebilir."
+      }
+    },
+    {
+      "title": "ALCAPA'da lateral Q dalgası",
+      "text": "Lateral derivasyonlardaki **derin Q dalgaları** iskemi ipucudur; her hastada bulunmayabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-11u0wnm",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "title": "ALCAPA'da lateral Q dalgası",
+        "body": "Lateral derivasyonlardaki **derin Q dalgaları** iskemi ipucudur; her hastada bulunmayabilir."
+      }
+    },
+    {
+      "title": "ALCAPA'da onarımın amacı",
+      "text": "Tercih edilen doğrudan aortaya reimplantasyon, **çift koroner sistemini** yeniden kurmayı amaçlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-1fr6ctw",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wang ve An 2025",
+        "title": "ALCAPA'da onarımın amacı",
+        "body": "Tercih edilen doğrudan aortaya reimplantasyon, **çift koroner sistemini** yeniden kurmayı amaçlar."
+      }
+    },
+    {
+      "title": "ALCAPA'da kardiyopleji nereye kaçabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0t1dtk4",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Wang ve An 2025",
+        "question": "ALCAPA'da kardiyopleji nereye kaçabilir?",
+        "answer": "Anormal koroner ağızdan **pulmoner arterin düşük basınçlı yatağına** kaçabilir; uygulamada pulmoner arter de oklüde edilir."
+      }
+    },
+    {
+      "title": "ALCAPA'da pulmoner arter kontrolü",
+      "text": "Kardiyopleji sırasında aortik klemp yanında **pulmoner arter oklüzyonu**, solüsyonun anormal koronerden kaçmasını önler.",
+      "images": [],
+      "card": {
+        "id": "PER241-0or787k",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Wang ve An 2025",
+        "title": "ALCAPA'da pulmoner arter kontrolü",
+        "body": "Kardiyopleji sırasında aortik klemp yanında **pulmoner arter oklüzyonu**, solüsyonun anormal koronerden kaçmasını önler."
+      }
+    },
+    {
+      "title": "Kawasaki'de tutulan damar yatağı",
+      "text": "Kawasaki hastalığında **orta çaplı arterlerin, özellikle koronerlerin vasküliti** önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0fu12bz",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Kawasaki'de tutulan damar yatağı",
+        "body": "Kawasaki hastalığında **orta çaplı arterlerin, özellikle koronerlerin vasküliti** önemlidir."
+      }
+    },
+    {
+      "title": "Kawasaki'de greft tercihi",
+      "text": "Koroner revaskülarizasyonda internal mammarian arter greftleri **çocuğun büyümesine uyum sağlayabilir**; uzun dönem açıklık avantajları vardır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1fglc6u",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "AHA Kawasaki 2017",
+        "title": "Kawasaki'de greft tercihi",
+        "body": "Koroner revaskülarizasyonda internal mammarian arter greftleri **çocuğun büyümesine uyum sağlayabilir**; uzun dönem açıklık avantajları vardır."
+      }
+    },
+    {
+      "title": "Koroner fistül hangi komplikasyonlara yol açabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1ot2wb2",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "question": "Koroner fistül hangi komplikasyonlara yol açabilir?",
+        "answer": "Koroner çalma, kalp yetmezliği, pulmoner hipertansiyon ve **tromboza bağlı miyokard enfarktüsü** görülebilir."
+      }
+    },
+    {
+      "title": "AAOCA'da riskli seyir",
+      "text": "Koroner arterin **aort ile pulmoner arter arasındaki interarteriyel seyri**, ani kardiyak ölüm riskiyle ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-10f72fd",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "AAOCA'da riskli seyir",
+        "body": "Koroner arterin **aort ile pulmoner arter arasındaki interarteriyel seyri**, ani kardiyak ölüm riskiyle ilişkilidir."
+      }
+    },
+    {
+      "title": "Dev koroner anevrizmanın eşiği",
+      "text": "**AHA 2017** sınıflamasında dev anevrizma: Z-skoru ≥10 veya mutlak çap ≥8 mm. Çap ve Z-skorunu birlikte hatırla.",
+      "images": [],
+      "card": {
+        "id": "PER241-1iq5j87",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "AHA Kawasaki 2017",
+        "title": "Dev koroner anevrizmanın eşiği",
+        "body": "**AHA 2017** sınıflamasında dev anevrizma: Z-skoru ≥10 veya mutlak çap ≥8 mm. Çap ve Z-skorunu birlikte hatırla."
+      }
+    },
+    {
+      "title": "Kawasaki'de IVIG ve zaman",
+      "text": "**AHA 2017**, tanı sonrası ilk 10 gün içinde 2 g/kg IV immünoglobulini tek infüzyon olarak önerir; bu kaynakta erken uygulama vurgulanır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0lu75cl",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "fact",
+        "importance": 2,
+        "source": "AHA Kawasaki 2017",
+        "title": "Kawasaki'de IVIG ve zaman",
+        "body": "**AHA 2017**, tanı sonrası ilk 10 gün içinde 2 g/kg IV immünoglobulini tek infüzyon olarak önerir; bu kaynakta erken uygulama vurgulanır."
+      }
+    },
+    {
+      "title": "ALCAPA'da sol koroner arter nereden çıkar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-133kx1g",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "question": "ALCAPA'da sol koroner arter nereden çıkar?",
+        "options": [
+          "Sol aortik sinüs",
+          "Sağ aortik sinüs",
+          "Subklavyen arter",
+          "Pulmoner arter"
+        ],
+        "correct": 3,
+        "explanation": "ALCAPA sol koroner arterin pulmoner arterden anormal çıkışıdır."
+      }
+    },
+    {
+      "title": "Koroner arter ile kalp boşluğu arasında doğrudan anormal bağlantı hangi terimdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-15kjoag",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "question": "Koroner arter ile kalp boşluğu arasında doğrudan anormal bağlantı hangi terimdir?",
+        "options": [
+          "Koroner arter fistülü",
+          "Aort koarktasyonu",
+          "Atriyal septal defekt",
+          "Pulmoner kapak stenozu"
+        ],
+        "correct": 0,
+        "explanation": "Fistül, koroner arterle kalp boşluğu veya büyük damar arasındaki anormal bağlantıdır."
+      }
+    },
+    {
+      "title": "AAOCA'daki temel anatomik sorun hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0v8sjyu",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "AAOCA'daki temel anatomik sorun hangisidir?",
+        "options": [
+          "Sol koronerin pulmoner arterden çıkması",
+          "Koronerin yanlış aortik sinüsten çıkması",
+          "Pulmoner venlerin sağ atriyuma dönmesi",
+          "Aort kapağının tamamen kapalı olması"
+        ],
+        "correct": 1,
+        "explanation": "AAOCA aortadan anormal koroner çıkışıdır; ALCAPA pulmoner kökenlidir."
+      }
+    },
+    {
+      "title": "AAOCA, pulmoner venlerin yanlış atriyuma açılmasını ifade eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-18ocg74",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Wikipedia",
+        "statement": "AAOCA, pulmoner venlerin yanlış atriyuma açılmasını ifade eder.",
+        "isTrue": false,
+        "explanation": "AAOCA koroner arterin aortada yanlış sinüsten çıkmasını ifade eder."
+      }
+    },
+    {
+      "title": "Kawasaki tedavisinde IV immünoglobuline aspirin eşlik edebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1n4teer",
+        "course": "PER241",
+        "topic": "Pediatrik koroner hastalıklar",
+        "type": "tf",
+        "importance": 3,
+        "source": "AHA Kawasaki 2017",
+        "statement": "Kawasaki tedavisinde IV immünoglobuline aspirin eşlik edebilir.",
+        "isTrue": true,
+        "explanation": "Araştırmanın Kawasaki tedavi maddesi IVIG ile aspirin kullanımını birlikte ele alır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-14acglj",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "term",
+      "importance": 1,
+      "source": "Radiopaedia",
+      "term": "Koroner çalma",
+      "en": "Coronary steal",
+      "definition": "Kanın düşük dirençli bir yola (ALCAPA'da pulmoner artere, fistülde sağ kalbe) kaçıp miyokardı iskemik bırakması."
+    },
+    {
+      "id": "PER241-19bd6wv",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "term",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "term": "ALCAPA",
+      "en": "Anomalous left coronary artery from the pulmonary artery",
+      "definition": "Sol koronerin pulmoner arterden çıkması; pulmoner vasküler direnç düşünce miyokard iskemisi.",
+      "origin": "Bland, White, Garland (eponim)"
+    },
+    {
+      "id": "PER241-090hfjx",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Kawasaki hastalığı",
+      "en": "Kawasaki disease",
+      "definition": "Çocuklukta orta çaplı arterlerin (özellikle koroner) akut vasküliti; edinsel kalp hastalığının en sık nedeni.",
+      "origin": "T. Kawasaki (eponim)"
+    },
+    {
+      "id": "PER241-1u0mgkt",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "term",
+      "importance": 1,
+      "source": "AHA Kawasaki 2017",
+      "term": "Dev koroner anevrizma",
+      "en": "Giant coronary aneurysm",
+      "definition": "AHA 2017 sınıflamasında Z-skoru **≥10** veya mutlak çapı **≥8 mm** olan koroner anevrizma."
+    },
+    {
+      "id": "PER241-1k82ssx",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Koroner arter fistülü",
+      "en": "Coronary artery fistula",
+      "definition": "Koroner arter ile kalp boşluğu/büyük damar arasında anormal bağlantı.",
+      "origin": "Lat. fistula = boru"
+    },
+    {
+      "id": "PER241-0em6n2k",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "AAOCA",
+      "en": "Anomalous aortic origin of a coronary artery",
+      "definition": "Koronerin aortadan yanlış Valsalva sinüsünden çıkması; interarteriyel seyirde ani ölüm riski."
+    },
+    {
+      "id": "PER241-1bn5h3c",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "ALCAPA'da doğum sonrası iskemi",
+      "body": "Pulmoner direnç ve basınç düştüğünde anormal sol koronerin beslenmesi yetersiz kalır; **sol ventrikül iskemisi** gelişebilir."
+    },
+    {
+      "id": "PER241-11u0wnm",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "ALCAPA'da lateral Q dalgası",
+      "body": "Lateral derivasyonlardaki **derin Q dalgaları** iskemi ipucudur; her hastada bulunmayabilir."
+    },
+    {
+      "id": "PER241-1fr6ctw",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wang ve An 2025",
+      "title": "ALCAPA'da onarımın amacı",
+      "body": "Tercih edilen doğrudan aortaya reimplantasyon, **çift koroner sistemini** yeniden kurmayı amaçlar."
+    },
+    {
+      "id": "PER241-0t1dtk4",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Wang ve An 2025",
+      "question": "ALCAPA'da kardiyopleji nereye kaçabilir?",
+      "answer": "Anormal koroner ağızdan **pulmoner arterin düşük basınçlı yatağına** kaçabilir; uygulamada pulmoner arter de oklüde edilir."
+    },
+    {
+      "id": "PER241-0or787k",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Wang ve An 2025",
+      "title": "ALCAPA'da pulmoner arter kontrolü",
+      "body": "Kardiyopleji sırasında aortik klemp yanında **pulmoner arter oklüzyonu**, solüsyonun anormal koronerden kaçmasını önler."
+    },
+    {
+      "id": "PER241-0fu12bz",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kawasaki'de tutulan damar yatağı",
+      "body": "Kawasaki hastalığında **orta çaplı arterlerin, özellikle koronerlerin vasküliti** önemlidir."
+    },
+    {
+      "id": "PER241-1fglc6u",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "AHA Kawasaki 2017",
+      "title": "Kawasaki'de greft tercihi",
+      "body": "Koroner revaskülarizasyonda internal mammarian arter greftleri **çocuğun büyümesine uyum sağlayabilir**; uzun dönem açıklık avantajları vardır."
+    },
+    {
+      "id": "PER241-1ot2wb2",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Koroner fistül hangi komplikasyonlara yol açabilir?",
+      "answer": "Koroner çalma, kalp yetmezliği, pulmoner hipertansiyon ve **tromboza bağlı miyokard enfarktüsü** görülebilir."
+    },
+    {
+      "id": "PER241-10f72fd",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "AAOCA'da riskli seyir",
+      "body": "Koroner arterin **aort ile pulmoner arter arasındaki interarteriyel seyri**, ani kardiyak ölüm riskiyle ilişkilidir."
+    },
+    {
+      "id": "PER241-1iq5j87",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "AHA Kawasaki 2017",
+      "title": "Dev koroner anevrizmanın eşiği",
+      "body": "**AHA 2017** sınıflamasında dev anevrizma: Z-skoru ≥10 veya mutlak çap ≥8 mm. Çap ve Z-skorunu birlikte hatırla."
+    },
+    {
+      "id": "PER241-0lu75cl",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "fact",
+      "importance": 2,
+      "source": "AHA Kawasaki 2017",
+      "title": "Kawasaki'de IVIG ve zaman",
+      "body": "**AHA 2017**, tanı sonrası ilk 10 gün içinde 2 g/kg IV immünoglobulini tek infüzyon olarak önerir; bu kaynakta erken uygulama vurgulanır."
+    },
+    {
+      "id": "PER241-133kx1g",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "ALCAPA'da sol koroner arter nereden çıkar?",
+      "options": [
+        "Sol aortik sinüs",
+        "Sağ aortik sinüs",
+        "Subklavyen arter",
+        "Pulmoner arter"
+      ],
+      "correct": 3,
+      "explanation": "ALCAPA sol koroner arterin pulmoner arterden anormal çıkışıdır."
+    },
+    {
+      "id": "PER241-15kjoag",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Koroner arter ile kalp boşluğu arasında doğrudan anormal bağlantı hangi terimdir?",
+      "options": [
+        "Koroner arter fistülü",
+        "Aort koarktasyonu",
+        "Atriyal septal defekt",
+        "Pulmoner kapak stenozu"
+      ],
+      "correct": 0,
+      "explanation": "Fistül, koroner arterle kalp boşluğu veya büyük damar arasındaki anormal bağlantıdır."
+    },
+    {
+      "id": "PER241-0v8sjyu",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "AAOCA'daki temel anatomik sorun hangisidir?",
+      "options": [
+        "Sol koronerin pulmoner arterden çıkması",
+        "Koronerin yanlış aortik sinüsten çıkması",
+        "Pulmoner venlerin sağ atriyuma dönmesi",
+        "Aort kapağının tamamen kapalı olması"
+      ],
+      "correct": 1,
+      "explanation": "AAOCA aortadan anormal koroner çıkışıdır; ALCAPA pulmoner kökenlidir."
+    },
+    {
+      "id": "PER241-18ocg74",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "AAOCA, pulmoner venlerin yanlış atriyuma açılmasını ifade eder.",
+      "isTrue": false,
+      "explanation": "AAOCA koroner arterin aortada yanlış sinüsten çıkmasını ifade eder."
+    },
+    {
+      "id": "PER241-1n4teer",
+      "course": "PER241",
+      "topic": "Pediatrik koroner hastalıklar",
+      "type": "tf",
+      "importance": 3,
+      "source": "AHA Kawasaki 2017",
+      "statement": "Kawasaki tedavisinde IV immünoglobuline aspirin eşlik edebilir.",
+      "isTrue": true,
+      "explanation": "Araştırmanın Kawasaki tedavi maddesi IVIG ile aspirin kullanımını birlikte ele alır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

@@ -1,0 +1,793 @@
+{
+  "id": "review-dd480500cffc1cc9",
+  "title": "Hipotermi, DHCA ve serebral perfüzyon",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hipotermi",
+      "text": "Hypothermia\nVücut sıcaklığının düşürülmesi. Kalp cerrahisinde metabolik gereksinimleri azaltmak amacıyla kullanılır.\nYun. hypo + therme = ısı",
+      "images": [],
+      "card": {
+        "id": "PER241-1falzfg",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Yan ve ark. 2013",
+        "term": "Hipotermi",
+        "en": "Hypothermia",
+        "definition": "Vücut sıcaklığının düşürülmesi. Kalp cerrahisinde metabolik gereksinimleri azaltmak amacıyla kullanılır.",
+        "origin": "Yun. hypo + therme = ısı"
+      }
+    },
+    {
+      "title": "DHCA",
+      "text": "Deep hypothermic circulatory arrest\nDerin hipotermide KPB akımının tamamen durdurulması.",
+      "images": [],
+      "card": {
+        "id": "PER241-1sqinhl",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "DHCA",
+        "en": "Deep hypothermic circulatory arrest",
+        "definition": "Derin hipotermide KPB akımının tamamen durdurulması."
+      }
+    },
+    {
+      "title": "Düşük akımlı KPB",
+      "text": "Low-flow bypass\nHipotermi sırasında tüm vücuda azaltılmış pompa akımının sürdürüldüğü kardiyopulmoner bypass tekniği.",
+      "images": [],
+      "card": {
+        "id": "PER241-1yn831n",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "term": "Düşük akımlı KPB",
+        "en": "Low-flow bypass",
+        "definition": "Hipotermi sırasında tüm vücuda azaltılmış pompa akımının sürdürüldüğü kardiyopulmoner bypass tekniği."
+      }
+    },
+    {
+      "title": "SACP",
+      "text": "Selective antegrade cerebral perfusion\nArk cerrahisinde beyne seçici antegrad akım verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-19bg8xy",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "term": "SACP",
+        "en": "Selective antegrade cerebral perfusion",
+        "definition": "Ark cerrahisinde beyne seçici antegrad akım verilmesi."
+      }
+    },
+    {
+      "title": "Alfa-stat",
+      "text": "Alpha-stat\nKan gazını standart ölçüm sıcaklığındaki, hasta sıcaklığına göre düzeltilmemiş değerlerle değerlendiren yaklaşım.\nα = imidazol iyonlaşma oranı",
+      "images": [],
+      "card": {
+        "id": "PER241-15k44my",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "term": "Alfa-stat",
+        "en": "Alpha-stat",
+        "definition": "Kan gazını standart ölçüm sıcaklığındaki, hasta sıcaklığına göre düzeltilmemiş değerlerle değerlendiren yaklaşım.",
+        "origin": "α = imidazol iyonlaşma oranı"
+      }
+    },
+    {
+      "title": "pH-stat",
+      "text": "pH-stat\nKan gazını hastanın sıcaklığına düzeltilmiş değerlerle değerlendiren yaklaşım. Karbondioksit eklenmesi serebral vazodilatasyona katkıda bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0b8gx0m",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 1,
+        "source": "Groom ve ark. 2005",
+        "term": "pH-stat",
+        "en": "pH-stat",
+        "definition": "Kan gazını hastanın sıcaklığına düzeltilmiş değerlerle değerlendiren yaklaşım. Karbondioksit eklenmesi serebral vazodilatasyona katkıda bulunur."
+      }
+    },
+    {
+      "title": "Elektroserebral sessizlik",
+      "text": "Electrocerebral silence\nElektroensefalogramda beyin elektriksel aktivitesinin saptanamaz düzeye inmesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-0gzy96o",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Elektroserebral sessizlik",
+        "en": "Electrocerebral silence",
+        "definition": "Elektroensefalogramda beyin elektriksel aktivitesinin saptanamaz düzeye inmesi."
+      }
+    },
+    {
+      "title": "NIRS",
+      "text": "Near-infrared spectroscopy\nYakın kızılötesi ışıkla doku (serebral/somatik) oksijen satürasyonunun invaziv olmadan ölçümü.",
+      "images": [],
+      "card": {
+        "id": "PER241-01nxm37",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "NIRS",
+        "en": "Near-infrared spectroscopy",
+        "definition": "Yakın kızılötesi ışıkla doku (serebral/somatik) oksijen satürasyonunun invaziv olmadan ölçümü."
+      }
+    },
+    {
+      "title": "Nazofaringeal sıcaklık",
+      "text": "Nasopharyngeal temperature\nBeyin sıcaklığını izlemek için kullanılan nazofarinks bölgesinden sıcaklık ölçümü.",
+      "images": [],
+      "card": {
+        "id": "PER241-1eayq9h",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "source": "Yan ve ark. 2013",
+        "term": "Nazofaringeal sıcaklık",
+        "en": "Nasopharyngeal temperature",
+        "definition": "Beyin sıcaklığını izlemek için kullanılan nazofarinks bölgesinden sıcaklık ölçümü."
+      }
+    },
+    {
+      "title": "Kan gazını hangi sıcaklıkta yorumlarız?",
+      "text": "Alfa-stat\nHasta sıcaklığına göre düzeltme yapılmaz\nOtoregülasyonun korunmasıyla ilişkilidir\n\npH-stat\nHasta sıcaklığına düzeltilmiş değerler kullanılır\nCO2 eklenmesi serebral vazodilatasyon sağlar",
+      "images": [],
+      "card": {
+        "id": "PER241-1fwm7rs",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "compare",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "title": "Kan gazını hangi sıcaklıkta yorumlarız?",
+        "left": {
+          "title": "Alfa-stat",
+          "points": [
+            "Hasta sıcaklığına göre düzeltme yapılmaz",
+            "Otoregülasyonun korunmasıyla ilişkilidir"
+          ]
+        },
+        "right": {
+          "title": "pH-stat",
+          "points": [
+            "Hasta sıcaklığına düzeltilmiş değerler kullanılır",
+            "CO2 eklenmesi serebral vazodilatasyon sağlar"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Arrest ve beyin akımı",
+      "text": "DHCA\nKPB akımı tamamen durdurulur\nBeyin korumasında hipotermiye dayanılır\n\nSACP\nBeyne seçici antegrad akım sürdürülür\nAortik ark cerrahisinde kullanılır",
+      "images": [],
+      "card": {
+        "id": "PER241-0aa3ugz",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "compare",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "title": "Arrest ve beyin akımı",
+        "left": {
+          "title": "DHCA",
+          "points": [
+            "KPB akımı tamamen durdurulur",
+            "Beyin korumasında hipotermiye dayanılır"
+          ]
+        },
+        "right": {
+          "title": "SACP",
+          "points": [
+            "Beyne seçici antegrad akım sürdürülür",
+            "Aortik ark cerrahisinde kullanılır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Yan 2013 hipotermi sınıfları",
+      "text": "**Yan 2013**: derin-ötesi ≤14 °C; derin 14,1–20 °C; orta 20,1–28 °C; hafif 28,1–34 °C. Bu konsensusun sınıflaması olarak öğren.",
+      "images": [],
+      "card": {
+        "id": "PER241-12gzzw0",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "Yan ve ark. 2013",
+        "title": "Yan 2013 hipotermi sınıfları",
+        "body": "**Yan 2013**: derin-ötesi ≤14 °C; derin 14,1–20 °C; orta 20,1–28 °C; hafif 28,1–34 °C. Bu konsensusun sınıflaması olarak öğren."
+      }
+    },
+    {
+      "title": "Hipotermi ve beyin metabolizması",
+      "text": "Sıcaklık düştükçe **serebral metabolik gereksinim azalır**; dolaşım arrestinde koruma bu ilişkiye dayanır.",
+      "images": [],
+      "card": {
+        "id": "PER241-09e93hx",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "Yan ve ark. 2013",
+        "title": "Hipotermi ve beyin metabolizması",
+        "body": "Sıcaklık düştükçe **serebral metabolik gereksinim azalır**; dolaşım arrestinde koruma bu ilişkiye dayanır."
+      }
+    },
+    {
+      "title": "Mesane sıcaklığı neden tek başına yeterli değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0t5ot16",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "source": "Yan ve ark. 2013",
+        "question": "Mesane sıcaklığı neden tek başına yeterli değildir?",
+        "answer": "Mesane ölçümü kraniyal bölgenin sıcaklık değişikliklerinin **gerisinde kalabilir**; beyin sıcaklığını doğrudan temsil etmez."
+      }
+    },
+    {
+      "title": "Karma kan gazı stratejisi",
+      "text": "Groom ve ark. anketindeki karma yaklaşım **soğutmada pH-stat**, daha sonraki dönemde alfa-stat kullanımını içerir; kurumsal uygulamalar değişir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1frfhgh",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "title": "Karma kan gazı stratejisi",
+        "body": "Groom ve ark. anketindeki karma yaklaşım **soğutmada pH-stat**, daha sonraki dönemde alfa-stat kullanımını içerir; kurumsal uygulamalar değişir."
+      }
+    },
+    {
+      "title": "Şantlı hastada düşük karbondioksit",
+      "text": "Düşük PaCO2, **serebral vazokonstriksiyon** ve pulmoner vazodilatasyon yoluyla beyne giden akımı azaltabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-19qnr7k",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "title": "Şantlı hastada düşük karbondioksit",
+        "body": "Düşük PaCO2, **serebral vazokonstriksiyon** ve pulmoner vazodilatasyon yoluyla beyne giden akımı azaltabilir."
+      }
+    },
+    {
+      "title": "pH-stat ile soğutmanın ilişkisi",
+      "text": "CO2 eklenmesiyle artan serebral akım, **beynin daha homojen soğumasına** katkıda bulunabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-01w1evf",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "title": "pH-stat ile soğutmanın ilişkisi",
+        "body": "CO2 eklenmesiyle artan serebral akım, **beynin daha homojen soğumasına** katkıda bulunabilir."
+      }
+    },
+    {
+      "title": "NIRS'in ölçtüğü alan",
+      "text": "Yakın kızılötesi spektroskopi, **serebral veya somatik dokunun oksijenlenmesini** invaziv olmadan izlemeye yarar.",
+      "images": [],
+      "card": {
+        "id": "PER241-1uximt3",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "NIRS'in ölçtüğü alan",
+        "body": "Yakın kızılötesi spektroskopi, **serebral veya somatik dokunun oksijenlenmesini** invaziv olmadan izlemeye yarar."
+      }
+    },
+    {
+      "title": "Sıcaklığın yeri de önemlidir",
+      "text": "Nazofaringeal ölçüm, beyin sıcaklığına yakınlığı nedeniyle kullanılır; **bir ölçüm bölgesinin değerini tüm vücudun değeri sayma**.",
+      "images": [],
+      "card": {
+        "id": "PER241-0r87r9r",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "remember",
+        "importance": 3,
+        "source": "Yan ve ark. 2013",
+        "title": "Sıcaklığın yeri de önemlidir",
+        "body": "Nazofaringeal ölçüm, beyin sıcaklığına yakınlığı nedeniyle kullanılır; **bir ölçüm bölgesinin değerini tüm vücudun değeri sayma**."
+      }
+    },
+    {
+      "title": "SACP ark cerrahisinde neyi sağlamayı amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0nnhr2n",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "question": "SACP ark cerrahisinde neyi sağlamayı amaçlar?",
+        "answer": "Selektif antegrad serebral perfüzyon, **ark rekonstrüksiyonu sırasında beyne akımın sürdürülmesini** amaçlar."
+      }
+    },
+    {
+      "title": "DHCA'nın süre sınırı",
+      "text": "Arrest uzadıkça nörolojik risk artar; süreyi tek bir **evrensel güvenli eşik** olarak ezberlemek yerine sıcaklık ve tekniğin bağlamını öğren.",
+      "images": [],
+      "card": {
+        "id": "PER241-0i64s9a",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "remember",
+        "importance": 3,
+        "source": "Wikipedia",
+        "title": "DHCA'nın süre sınırı",
+        "body": "Arrest uzadıkça nörolojik risk artar; süreyi tek bir **evrensel güvenli eşik** olarak ezberlemek yerine sıcaklık ve tekniğin bağlamını öğren."
+      }
+    },
+    {
+      "title": "DHCA'da pompa akımının durumu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0hia1c8",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Yan ve ark. 2013",
+        "question": "DHCA'da pompa akımının durumu hangisidir?",
+        "options": [
+          "Yalnız pulmoner artere artırılır",
+          "Normotermik tam akım sürer",
+          "Tamamen durdurulur",
+          "Yalnız koroner sinüse yönlendirilir"
+        ],
+        "correct": 2,
+        "explanation": "DHCA derin hipotermi altında tüm dolaşım akımının durdurulmasıdır."
+      }
+    },
+    {
+      "title": "Elektroserebral sessizlik hangi izlemede saptanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-09sdidg",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Yan ve ark. 2013",
+        "question": "Elektroserebral sessizlik hangi izlemede saptanır?",
+        "options": [
+          "Elektrokardiyogram",
+          "Arteriyel kan gazı",
+          "Merkezi venöz basınç",
+          "Elektroensefalogram"
+        ],
+        "correct": 3,
+        "explanation": "EEG, serebral elektriksel aktivitenin baskılanmasını ve sessizliği gösterir."
+      }
+    },
+    {
+      "title": "Düşük akımlı KPB'yi DHCA'dan ayıran özellik hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-13g1o7z",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Groom ve ark. 2005",
+        "question": "Düşük akımlı KPB'yi DHCA'dan ayıran özellik hangisidir?",
+        "options": [
+          "Azaltılmış sistemik akımın sürmesi",
+          "Sistemik akımın sıfıra indirilmesi",
+          "Hipoterminin hiç kullanılmaması",
+          "Yalnız venöz basıncın izlenmesi"
+        ],
+        "correct": 0,
+        "explanation": "Düşük akımda tüm vücuda azaltılmış akım devam eder; DHCA'da akım durur."
+      }
+    },
+    {
+      "title": "NIRS yalnızca kalbin elektriksel ritmini ölçer.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0k6g5sc",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "tf",
+        "importance": 3,
+        "source": "Wikipedia",
+        "statement": "NIRS yalnızca kalbin elektriksel ritmini ölçer.",
+        "isTrue": false,
+        "explanation": "NIRS yakın kızılötesi ışıkla dokunun oksijenlenmesini izler; ritim ölçümü değildir."
+      }
+    },
+    {
+      "title": "Selektif serebral perfüzyonda ark cerrahisi sırasında beyne akım sürdürülebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0zckwf7",
+        "course": "PER241",
+        "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+        "type": "tf",
+        "importance": 3,
+        "source": "Groom ve ark. 2005",
+        "statement": "Selektif serebral perfüzyonda ark cerrahisi sırasında beyne akım sürdürülebilir.",
+        "isTrue": true,
+        "explanation": "Tekniğin amacı beyne seçici antegrad perfüzyon sağlamaktır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-1falzfg",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "term": "Hipotermi",
+      "en": "Hypothermia",
+      "definition": "Vücut sıcaklığının düşürülmesi. Kalp cerrahisinde metabolik gereksinimleri azaltmak amacıyla kullanılır.",
+      "origin": "Yun. hypo + therme = ısı"
+    },
+    {
+      "id": "PER241-1sqinhl",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "DHCA",
+      "en": "Deep hypothermic circulatory arrest",
+      "definition": "Derin hipotermide KPB akımının tamamen durdurulması."
+    },
+    {
+      "id": "PER241-1yn831n",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "Düşük akımlı KPB",
+      "en": "Low-flow bypass",
+      "definition": "Hipotermi sırasında tüm vücuda azaltılmış pompa akımının sürdürüldüğü kardiyopulmoner bypass tekniği."
+    },
+    {
+      "id": "PER241-19bg8xy",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "SACP",
+      "en": "Selective antegrade cerebral perfusion",
+      "definition": "Ark cerrahisinde beyne seçici antegrad akım verilmesi."
+    },
+    {
+      "id": "PER241-15k44my",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "Alfa-stat",
+      "en": "Alpha-stat",
+      "definition": "Kan gazını standart ölçüm sıcaklığındaki, hasta sıcaklığına göre düzeltilmemiş değerlerle değerlendiren yaklaşım.",
+      "origin": "α = imidazol iyonlaşma oranı"
+    },
+    {
+      "id": "PER241-0b8gx0m",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 1,
+      "source": "Groom ve ark. 2005",
+      "term": "pH-stat",
+      "en": "pH-stat",
+      "definition": "Kan gazını hastanın sıcaklığına düzeltilmiş değerlerle değerlendiren yaklaşım. Karbondioksit eklenmesi serebral vazodilatasyona katkıda bulunur."
+    },
+    {
+      "id": "PER241-0gzy96o",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Elektroserebral sessizlik",
+      "en": "Electrocerebral silence",
+      "definition": "Elektroensefalogramda beyin elektriksel aktivitesinin saptanamaz düzeye inmesi."
+    },
+    {
+      "id": "PER241-01nxm37",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Yakın kızılötesi ışıkla doku (serebral/somatik) oksijen satürasyonunun invaziv olmadan ölçümü."
+    },
+    {
+      "id": "PER241-1eayq9h",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "term": "Nazofaringeal sıcaklık",
+      "en": "Nasopharyngeal temperature",
+      "definition": "Beyin sıcaklığını izlemek için kullanılan nazofarinks bölgesinden sıcaklık ölçümü."
+    },
+    {
+      "id": "PER241-1fwm7rs",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "compare",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Kan gazını hangi sıcaklıkta yorumlarız?",
+      "left": {
+        "title": "Alfa-stat",
+        "points": [
+          "Hasta sıcaklığına göre düzeltme yapılmaz",
+          "Otoregülasyonun korunmasıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "pH-stat",
+        "points": [
+          "Hasta sıcaklığına düzeltilmiş değerler kullanılır",
+          "CO2 eklenmesi serebral vazodilatasyon sağlar"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0aa3ugz",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "compare",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Arrest ve beyin akımı",
+      "left": {
+        "title": "DHCA",
+        "points": [
+          "KPB akımı tamamen durdurulur",
+          "Beyin korumasında hipotermiye dayanılır"
+        ]
+      },
+      "right": {
+        "title": "SACP",
+        "points": [
+          "Beyne seçici antegrad akım sürdürülür",
+          "Aortik ark cerrahisinde kullanılır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-12gzzw0",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "title": "Yan 2013 hipotermi sınıfları",
+      "body": "**Yan 2013**: derin-ötesi ≤14 °C; derin 14,1–20 °C; orta 20,1–28 °C; hafif 28,1–34 °C. Bu konsensusun sınıflaması olarak öğren."
+    },
+    {
+      "id": "PER241-09e93hx",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "title": "Hipotermi ve beyin metabolizması",
+      "body": "Sıcaklık düştükçe **serebral metabolik gereksinim azalır**; dolaşım arrestinde koruma bu ilişkiye dayanır."
+    },
+    {
+      "id": "PER241-0t5ot16",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "source": "Yan ve ark. 2013",
+      "question": "Mesane sıcaklığı neden tek başına yeterli değildir?",
+      "answer": "Mesane ölçümü kraniyal bölgenin sıcaklık değişikliklerinin **gerisinde kalabilir**; beyin sıcaklığını doğrudan temsil etmez."
+    },
+    {
+      "id": "PER241-1frfhgh",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Karma kan gazı stratejisi",
+      "body": "Groom ve ark. anketindeki karma yaklaşım **soğutmada pH-stat**, daha sonraki dönemde alfa-stat kullanımını içerir; kurumsal uygulamalar değişir."
+    },
+    {
+      "id": "PER241-19qnr7k",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "Şantlı hastada düşük karbondioksit",
+      "body": "Düşük PaCO2, **serebral vazokonstriksiyon** ve pulmoner vazodilatasyon yoluyla beyne giden akımı azaltabilir."
+    },
+    {
+      "id": "PER241-01w1evf",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "title": "pH-stat ile soğutmanın ilişkisi",
+      "body": "CO2 eklenmesiyle artan serebral akım, **beynin daha homojen soğumasına** katkıda bulunabilir."
+    },
+    {
+      "id": "PER241-1uximt3",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "NIRS'in ölçtüğü alan",
+      "body": "Yakın kızılötesi spektroskopi, **serebral veya somatik dokunun oksijenlenmesini** invaziv olmadan izlemeye yarar."
+    },
+    {
+      "id": "PER241-0r87r9r",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "remember",
+      "importance": 3,
+      "source": "Yan ve ark. 2013",
+      "title": "Sıcaklığın yeri de önemlidir",
+      "body": "Nazofaringeal ölçüm, beyin sıcaklığına yakınlığı nedeniyle kullanılır; **bir ölçüm bölgesinin değerini tüm vücudun değeri sayma**."
+    },
+    {
+      "id": "PER241-0nnhr2n",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "question": "SACP ark cerrahisinde neyi sağlamayı amaçlar?",
+      "answer": "Selektif antegrad serebral perfüzyon, **ark rekonstrüksiyonu sırasında beyne akımın sürdürülmesini** amaçlar."
+    },
+    {
+      "id": "PER241-0i64s9a",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "DHCA'nın süre sınırı",
+      "body": "Arrest uzadıkça nörolojik risk artar; süreyi tek bir **evrensel güvenli eşik** olarak ezberlemek yerine sıcaklık ve tekniğin bağlamını öğren."
+    },
+    {
+      "id": "PER241-0hia1c8",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Yan ve ark. 2013",
+      "question": "DHCA'da pompa akımının durumu hangisidir?",
+      "options": [
+        "Yalnız pulmoner artere artırılır",
+        "Normotermik tam akım sürer",
+        "Tamamen durdurulur",
+        "Yalnız koroner sinüse yönlendirilir"
+      ],
+      "correct": 2,
+      "explanation": "DHCA derin hipotermi altında tüm dolaşım akımının durdurulmasıdır."
+    },
+    {
+      "id": "PER241-09sdidg",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Yan ve ark. 2013",
+      "question": "Elektroserebral sessizlik hangi izlemede saptanır?",
+      "options": [
+        "Elektrokardiyogram",
+        "Arteriyel kan gazı",
+        "Merkezi venöz basınç",
+        "Elektroensefalogram"
+      ],
+      "correct": 3,
+      "explanation": "EEG, serebral elektriksel aktivitenin baskılanmasını ve sessizliği gösterir."
+    },
+    {
+      "id": "PER241-13g1o7z",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Groom ve ark. 2005",
+      "question": "Düşük akımlı KPB'yi DHCA'dan ayıran özellik hangisidir?",
+      "options": [
+        "Azaltılmış sistemik akımın sürmesi",
+        "Sistemik akımın sıfıra indirilmesi",
+        "Hipoterminin hiç kullanılmaması",
+        "Yalnız venöz basıncın izlenmesi"
+      ],
+      "correct": 0,
+      "explanation": "Düşük akımda tüm vücuda azaltılmış akım devam eder; DHCA'da akım durur."
+    },
+    {
+      "id": "PER241-0k6g5sc",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "NIRS yalnızca kalbin elektriksel ritmini ölçer.",
+      "isTrue": false,
+      "explanation": "NIRS yakın kızılötesi ışıkla dokunun oksijenlenmesini izler; ritim ölçümü değildir."
+    },
+    {
+      "id": "PER241-0zckwf7",
+      "course": "PER241",
+      "topic": "Hipotermi, DHCA ve serebral perfüzyon",
+      "type": "tf",
+      "importance": 3,
+      "source": "Groom ve ark. 2005",
+      "statement": "Selektif serebral perfüzyonda ark cerrahisi sırasında beyne akım sürdürülebilir.",
+      "isTrue": true,
+      "explanation": "Tekniğin amacı beyne seçici antegrad perfüzyon sağlamaktır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

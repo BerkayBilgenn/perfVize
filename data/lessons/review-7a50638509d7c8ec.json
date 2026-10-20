@@ -1,0 +1,504 @@
+{
+  "id": "review-7a50638509d7c8ec",
+  "title": "CABG, aort ve mitral cerrahisinde perfüzyon",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "OPCAB",
+      "text": "Off-pump coronary artery bypass\nKPB kullanılmadan atan kalpte yapılan koroner bypass; perfüzyonist ve kurulu makine hazır bekler.",
+      "images": [],
+      "card": {
+        "id": "PER141-1swagc0",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "OPCAB",
+        "definition": "KPB kullanılmadan atan kalpte yapılan koroner bypass; perfüzyonist ve kurulu makine hazır bekler.",
+        "en": "Off-pump coronary artery bypass",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Anastomoz",
+      "text": "Anastomosis\nİki damarın/yapının birleştirilmesi (CABG'de greft–koroner bağlantısı).",
+      "images": [],
+      "card": {
+        "id": "PER141-03za4o7",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Anastomoz",
+        "definition": "İki damarın/yapının birleştirilmesi (CABG'de greft–koroner bağlantısı).",
+        "en": "Anastomosis",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "Stenoz",
+      "text": "Stenosis\nDamar veya kapakta darlık.",
+      "images": [],
+      "card": {
+        "id": "PER141-0rib47g",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Stenoz",
+        "definition": "Damar veya kapakta darlık.",
+        "en": "Stenosis",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "Koroner arter bypass greftleme",
+      "text": "Coronary artery bypass grafting (CABG)\nDaralmış veya tıkalı koroner segmentin ötesine greft aracılığıyla kan akımı sağlanan cerrahi işlem.",
+      "images": [],
+      "card": {
+        "id": "PER141-0811dw6",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Koroner arter bypass greftleme",
+        "definition": "Daralmış veya tıkalı koroner segmentin ötesine greft aracılığıyla kan akımı sağlanan cerrahi işlem.",
+        "en": "Coronary artery bypass grafting (CABG)",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Minimal invaziv mitral cerrahi",
+      "text": "Minimally invasive mitral valve surgery (MIMVS)\nMitral kapağa küçük torakotomiyle ulaşılan, sıklıkla periferik kanülasyonla perfüzyon sağlanan cerrahi yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER141-0vqi5qw",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Minimal invaziv mitral cerrahi",
+        "definition": "Mitral kapağa küçük torakotomiyle ulaşılan, sıklıkla periferik kanülasyonla perfüzyon sağlanan cerrahi yaklaşım.",
+        "en": "Minimally invasive mitral valve surgery (MIMVS)",
+        "source": "MIMVS kanülasyon çalışmaları 2026"
+      }
+    },
+    {
+      "title": "Aort yetmezliğinde kök uygulaması",
+      "text": "Belirgin aort yetmezliğinde köke verilen kardiyopleji **sol ventriküle kaçabilir**. Ostial ve/veya retrograd yol, miyokard koruması için değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0edwvg5",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Aort yetmezliğinde kök uygulaması",
+        "body": "Belirgin aort yetmezliğinde köke verilen kardiyopleji **sol ventriküle kaçabilir**. Ostial ve/veya retrograd yol, miyokard koruması için değerlendirilir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Aort yetmezliğinde vent gereği",
+      "text": "Aorttan geri kaçan kan, sol atriyum boşken bile sol ventrikülü doldurabilir. **Sol ventrikül distansiyonu** ve vent yeterliliği ayrıca izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER141-02s6rb4",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Aort yetmezliğinde vent gereği",
+        "body": "Aorttan geri kaçan kan, sol atriyum boşken bile sol ventrikülü doldurabilir. **Sol ventrikül distansiyonu** ve vent yeterliliği ayrıca izlenir.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Mitral transseptal yaklaşım",
+      "text": "Sağ atriyum açılacaksa bikaval kanülasyon ve **kaval turnikeler**, venöz dönüşü izole ederek kalp boşluğuna hava girişini önlemeye yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER141-168ix3o",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Mitral transseptal yaklaşım",
+        "body": "Sağ atriyum açılacaksa bikaval kanülasyon ve **kaval turnikeler**, venöz dönüşü izole ederek kalp boşluğuna hava girişini önlemeye yardım eder.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Minimal invaziv mitral cerrahide uzun venöz kanül neden yardımlı drenaj gerektirebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0dvm71b",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Minimal invaziv mitral cerrahide uzun venöz kanül neden yardımlı drenaj gerektirebilir?",
+        "answer": "Uzun ve küçük çaplı kanülün direnci yüksek olabilir; **VAVD veya KAVD** yeterli venöz dönüşü destekler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ağır koroner hastalıkta kardiyopleji dağılımını iyileştirmek için hangi yollar birleştirilebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-008ao9e",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Ağır koroner hastalıkta kardiyopleji dağılımını iyileştirmek için hangi yollar birleştirilebilir?",
+        "answer": "**Antegrad ve retrograd kardiyopleji**; retrograd yol tıkalı koroner segmentlerin distalindeki perfüzyonu tamamlayabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB'siz işlemde hazırlık sürer",
+      "text": "Off-pump CABG gibi acil KPB'ye geçiş olasılığı bulunan işlemlerde **atanmış perfüzyonist ve steril kurulu makine** hazır olmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1m5x1cp",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "KPB'siz işlemde hazırlık sürer",
+        "body": "Off-pump CABG gibi acil KPB'ye geçiş olasılığı bulunan işlemlerde **atanmış perfüzyonist ve steril kurulu makine** hazır olmalıdır.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Basics of CPB'de ciddi aort darlığı ve LV hipertrofisiyle klemp kaldırılması sonrası hangi aritmi ilişkilendirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0g09c1i",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Basics of CPB'de ciddi aort darlığı ve LV hipertrofisiyle klemp kaldırılması sonrası hangi aritmi ilişkilendirilir?",
+        "answer": "**Ventrikül fibrilasyonu**. Kaynak bunu özellikle ciddi aort darlığına bağlı sol ventrikül hipertrofisiyle ilişkilendirir; bu bağlamda görülebilecek tek ritim olduğu anlamına gelmez.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kalp boşlukları açılmayan tipik CABG'de hangi venöz kanül düzeni kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1as6csl",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kalp boşlukları açılmayan tipik CABG'de hangi venöz kanül düzeni kullanılır?",
+        "options": [
+          "Yalnız koroner sinüs kanülü",
+          "Yalnız pulmoner ven kanülü",
+          "Yalnız sol ventrikül apeks kanülü",
+          "İki kademeli kavo-atriyal kanül"
+        ],
+        "correct": 3,
+        "explanation": "CABG'de tipik venöz dönüş iki kademeli kavo-atriyal kanülle sağlanır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Minimal invaziv mitral cerrahide femoral venöz kanül ucunun konumu neyle doğrulanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0mkcwnt",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Minimal invaziv mitral cerrahide femoral venöz kanül ucunun konumu neyle doğrulanır?",
+        "options": [
+          "Gaz oksijen analizörü",
+          "Transözofageal ekokardiyografi",
+          "Kan gazı pH ölçümü",
+          "Rezervuar seviye sensörü"
+        ],
+        "correct": 1,
+        "explanation": "TEE kılavuz tel ve venöz kanülün hedef konumda olduğunu doğrulamada kullanılır.",
+        "source": "MIMVS kanülasyon çalışmaları 2026"
+      }
+    },
+    {
+      "title": "CABG'de epiaortik ultrasonun başlıca amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-17maabj",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "CABG'de epiaortik ultrasonun başlıca amacı nedir?",
+        "options": [
+          "Kardiyopleji oranını hesaplamak",
+          "Gaz karışımını doğrulamak",
+          "Aort ateromlarını değerlendirmek",
+          "Kaval turnike basıncını ölçmek"
+        ],
+        "correct": 2,
+        "explanation": "Aort manipülasyonu planlanırken ateromların saptanması serebral emboli riskini azaltmaya yardımcı olur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "OPCAB, KPB kullanılarak durmuş kalpte yapılan koroner cerrahidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1jp9uzw",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "OPCAB, KPB kullanılarak durmuş kalpte yapılan koroner cerrahidir.",
+        "isTrue": false,
+        "explanation": "OPCAB, KPB'siz atan kalpte yapılan koroner bypass cerrahisidir.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Sol kalp boşlukları açılan kapak cerrahisinde de-airing önemlidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0gacgks",
+        "course": "PER141",
+        "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Sol kalp boşlukları açılan kapak cerrahisinde de-airing önemlidir.",
+        "isTrue": true,
+        "explanation": "Sol tarafta kalan hava sistemik dolaşıma taşınabilir; venting, dolum ve TEE değerlendirmesi kullanılır.",
+        "source": "De-airing derlemesi 2026"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1swagc0",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "OPCAB",
+      "definition": "KPB kullanılmadan atan kalpte yapılan koroner bypass; perfüzyonist ve kurulu makine hazır bekler.",
+      "en": "Off-pump coronary artery bypass",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-03za4o7",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Anastomoz",
+      "definition": "İki damarın/yapının birleştirilmesi (CABG'de greft–koroner bağlantısı).",
+      "en": "Anastomosis",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-0rib47g",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Stenoz",
+      "definition": "Damar veya kapakta darlık.",
+      "en": "Stenosis",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-0811dw6",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner arter bypass greftleme",
+      "definition": "Daralmış veya tıkalı koroner segmentin ötesine greft aracılığıyla kan akımı sağlanan cerrahi işlem.",
+      "en": "Coronary artery bypass grafting (CABG)",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0vqi5qw",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Minimal invaziv mitral cerrahi",
+      "definition": "Mitral kapağa küçük torakotomiyle ulaşılan, sıklıkla periferik kanülasyonla perfüzyon sağlanan cerrahi yaklaşım.",
+      "en": "Minimally invasive mitral valve surgery (MIMVS)",
+      "source": "MIMVS kanülasyon çalışmaları 2026"
+    },
+    {
+      "id": "PER141-0edwvg5",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Aort yetmezliğinde kök uygulaması",
+      "body": "Belirgin aort yetmezliğinde köke verilen kardiyopleji **sol ventriküle kaçabilir**. Ostial ve/veya retrograd yol, miyokard koruması için değerlendirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-02s6rb4",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Aort yetmezliğinde vent gereği",
+      "body": "Aorttan geri kaçan kan, sol atriyum boşken bile sol ventrikülü doldurabilir. **Sol ventrikül distansiyonu** ve vent yeterliliği ayrıca izlenir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-168ix3o",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Mitral transseptal yaklaşım",
+      "body": "Sağ atriyum açılacaksa bikaval kanülasyon ve **kaval turnikeler**, venöz dönüşü izole ederek kalp boşluğuna hava girişini önlemeye yardım eder.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0dvm71b",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Minimal invaziv mitral cerrahide uzun venöz kanül neden yardımlı drenaj gerektirebilir?",
+      "answer": "Uzun ve küçük çaplı kanülün direnci yüksek olabilir; **VAVD veya KAVD** yeterli venöz dönüşü destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-008ao9e",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Ağır koroner hastalıkta kardiyopleji dağılımını iyileştirmek için hangi yollar birleştirilebilir?",
+      "answer": "**Antegrad ve retrograd kardiyopleji**; retrograd yol tıkalı koroner segmentlerin distalindeki perfüzyonu tamamlayabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1m5x1cp",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "KPB'siz işlemde hazırlık sürer",
+      "body": "Off-pump CABG gibi acil KPB'ye geçiş olasılığı bulunan işlemlerde **atanmış perfüzyonist ve steril kurulu makine** hazır olmalıdır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0g09c1i",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Basics of CPB'de ciddi aort darlığı ve LV hipertrofisiyle klemp kaldırılması sonrası hangi aritmi ilişkilendirilir?",
+      "answer": "**Ventrikül fibrilasyonu**. Kaynak bunu özellikle ciddi aort darlığına bağlı sol ventrikül hipertrofisiyle ilişkilendirir; bu bağlamda görülebilecek tek ritim olduğu anlamına gelmez.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1as6csl",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp boşlukları açılmayan tipik CABG'de hangi venöz kanül düzeni kullanılır?",
+      "options": [
+        "Yalnız koroner sinüs kanülü",
+        "Yalnız pulmoner ven kanülü",
+        "Yalnız sol ventrikül apeks kanülü",
+        "İki kademeli kavo-atriyal kanül"
+      ],
+      "correct": 3,
+      "explanation": "CABG'de tipik venöz dönüş iki kademeli kavo-atriyal kanülle sağlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0mkcwnt",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Minimal invaziv mitral cerrahide femoral venöz kanül ucunun konumu neyle doğrulanır?",
+      "options": [
+        "Gaz oksijen analizörü",
+        "Transözofageal ekokardiyografi",
+        "Kan gazı pH ölçümü",
+        "Rezervuar seviye sensörü"
+      ],
+      "correct": 1,
+      "explanation": "TEE kılavuz tel ve venöz kanülün hedef konumda olduğunu doğrulamada kullanılır.",
+      "source": "MIMVS kanülasyon çalışmaları 2026"
+    },
+    {
+      "id": "PER141-17maabj",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "CABG'de epiaortik ultrasonun başlıca amacı nedir?",
+      "options": [
+        "Kardiyopleji oranını hesaplamak",
+        "Gaz karışımını doğrulamak",
+        "Aort ateromlarını değerlendirmek",
+        "Kaval turnike basıncını ölçmek"
+      ],
+      "correct": 2,
+      "explanation": "Aort manipülasyonu planlanırken ateromların saptanması serebral emboli riskini azaltmaya yardımcı olur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1jp9uzw",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "OPCAB, KPB kullanılarak durmuş kalpte yapılan koroner cerrahidir.",
+      "isTrue": false,
+      "explanation": "OPCAB, KPB'siz atan kalpte yapılan koroner bypass cerrahisidir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0gacgks",
+      "course": "PER141",
+      "topic": "CABG, aort ve mitral cerrahisinde perfüzyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sol kalp boşlukları açılan kapak cerrahisinde de-airing önemlidir.",
+      "isTrue": true,
+      "explanation": "Sol tarafta kalan hava sistemik dolaşıma taşınabilir; venting, dolum ve TEE değerlendirmesi kullanılır.",
+      "source": "De-airing derlemesi 2026"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

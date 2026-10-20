@@ -1,0 +1,541 @@
+{
+  "id": "review-1b5e2660efd4a3fb",
+  "title": "Prionlar ve CJD",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Prion",
+      "text": "Prion\nNormal prion proteininin anormal konformasyonlu izoformundan oluşan, sterilizasyona en dirençli ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ovlf7r",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Prion",
+        "definition": "Normal prion proteininin anormal konformasyonlu izoformundan oluşan, sterilizasyona en dirençli ajan.",
+        "en": "Prion"
+      }
+    },
+    {
+      "title": "Creutzfeldt-Jakob hastalığı",
+      "text": "Creutzfeldt-Jakob disease\nPrionların yol açtığı insan nörodejeneratif hastalığı.",
+      "images": [],
+      "card": {
+        "id": "PER247-0appied",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Creutzfeldt-Jakob hastalığı",
+        "definition": "Prionların yol açtığı insan nörodejeneratif hastalığı.",
+        "en": "Creutzfeldt-Jakob disease"
+      }
+    },
+    {
+      "title": "Yüksek enfektiviteli doku",
+      "text": "High-infectivity tissue\nCJD'de beyin, omurilik ve göz.",
+      "images": [],
+      "card": {
+        "id": "PER247-0p4pe2w",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "term": "Yüksek enfektiviteli doku",
+        "definition": "CJD'de beyin, omurilik ve göz.",
+        "en": "High-infectivity tissue"
+      }
+    },
+    {
+      "title": "Düşük enfektiviteli doku",
+      "text": "Low-infectivity tissue\nCJD'de BOS, böbrek, karaciğer, akciğer, lenf nodu, dalak, plasenta.",
+      "images": [],
+      "card": {
+        "id": "PER247-0t5wyez",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC CJD 2026",
+        "term": "Düşük enfektiviteli doku",
+        "definition": "CJD'de BOS, böbrek, karaciğer, akciğer, lenf nodu, dalak, plasenta.",
+        "en": "Low-infectivity tissue"
+      }
+    },
+    {
+      "title": "CJD aleti: yöntem 1",
+      "text": "CDC’de yöntem 1: **1 N NaOH içinde, gravite otoklavda 121 °C–30 dk**; ardından temizlik, suyla durulama ve rutin sterilizasyon. Bu sıra rutin cihaz işlemiyle karıştırılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-0d2sb20",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "title": "CJD aleti: yöntem 1",
+        "body": "CDC’de yöntem 1: **1 N NaOH içinde, gravite otoklavda 121 °C–30 dk**; ardından temizlik, suyla durulama ve rutin sterilizasyon. Bu sıra rutin cihaz işlemiyle karıştırılmaz."
+      }
+    },
+    {
+      "title": "CJD aleti: yöntem 2",
+      "text": "CDC’de yöntem 2: **1 N NaOH veya 20.000 ppm klorda 1 saat**, sonra suya aktarma ve **121 °C gravitede 1 saat**; ardından temizlik ve rutin sterilizasyon.",
+      "images": [],
+      "card": {
+        "id": "PER247-1974aeu",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "title": "CJD aleti: yöntem 2",
+        "body": "CDC’de yöntem 2: **1 N NaOH veya 20.000 ppm klorda 1 saat**, sonra suya aktarma ve **121 °C gravitede 1 saat**; ardından temizlik ve rutin sterilizasyon."
+      }
+    },
+    {
+      "title": "CJD aleti: yöntem 3",
+      "text": "CDC’de yöntem 3: **1 N NaOH veya 20.000 ppm serbest klorlu hipokloritte 1 saat** → suyla durulama → açık kapta **121 °C gravite veya 134 °C gözenekli yükte 1 saat** → temizlik ve rutin sterilizasyon. Üretici uyumu gözetilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-01ziqnj",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "title": "CJD aleti: yöntem 3",
+        "body": "CDC’de yöntem 3: **1 N NaOH veya 20.000 ppm serbest klorlu hipokloritte 1 saat** → suyla durulama → açık kapta **121 °C gravite veya 134 °C gözenekli yükte 1 saat** → temizlik ve rutin sterilizasyon. Üretici uyumu gözetilir."
+      }
+    },
+    {
+      "title": "Prionla kontamine yüzeyler",
+      "text": "CDC, ilgili yüzey ve ısıya duyarlı yeniden kullanılabilir malzemede **2 N NaOH veya seyreltilmemiş hipokloritle 1 saat** temas ve ardından suyla durulamayı tarif eder. Özel prion protokolüdür.",
+      "images": [],
+      "card": {
+        "id": "PER247-1nw46jt",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "title": "Prionla kontamine yüzeyler",
+        "body": "CDC, ilgili yüzey ve ısıya duyarlı yeniden kullanılabilir malzemede **2 N NaOH veya seyreltilmemiş hipokloritle 1 saat** temas ve ardından suyla durulamayı tarif eder. Özel prion protokolüdür."
+      }
+    },
+    {
+      "title": "En güvenli seçenek",
+      "text": "CDC, yüksek enfektiviteli dokuyla temas eden ısıya dayanıklı cerrahi aletler için **imhanın en güvenli seçenek** olduğunu belirtir; uygulanamıyorsa tanımlı özel yeniden işleme yöntemleri kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1s6jzje",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "title": "En güvenli seçenek",
+        "body": "CDC, yüksek enfektiviteli dokuyla temas eden ısıya dayanıklı cerrahi aletler için **imhanın en güvenli seçenek** olduğunu belirtir; uygulanamıyorsa tanımlı özel yeniden işleme yöntemleri kullanılır."
+      }
+    },
+    {
+      "title": "CJD’de yüksek enfektiviteli dokular hangileridir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-01gvco6",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "question": "CJD’de yüksek enfektiviteli dokular hangileridir?",
+        "answer": "**Beyin, omurilik ve gözler**. Beyin-omurilik sıvısı gibi bazı diğer dokular CDC listesinde düşük enfektiviteli gruptadır."
+      }
+    },
+    {
+      "title": "Şüpheli prion aletlerinde kuruma niçin önlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1ttmt1r",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "question": "Şüpheli prion aletlerinde kuruma niçin önlenir?",
+        "answer": "İşlem sırasında aletler **su veya uygun solüsyonda nemli** tutulur. Kuruma, kontaminasyonun yüzeye bağlanmasını ve özel dekontaminasyonu güçleştirebilir."
+      }
+    },
+    {
+      "title": "Prion protokolünü rutinle karıştırma",
+      "text": "CJD aletlerinde özel kimyasal/ısı adımlarından **sonra temizlik ve rutin sterilizasyon** da yer alır. Tek bir sıcaklık veya süreyi alıp tüm özel yöntemin yerine kullanma.",
+      "images": [],
+      "card": {
+        "id": "PER247-0mwnkyc",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC CJD 2026",
+        "title": "Prion protokolünü rutinle karıştırma",
+        "body": "CJD aletlerinde özel kimyasal/ısı adımlarından **sonra temizlik ve rutin sterilizasyon** da yer alır. Tek bir sıcaklık veya süreyi alıp tüm özel yöntemin yerine kullanma."
+      }
+    },
+    {
+      "title": "CDC yöntem 3’te kimyasal temas sonrasında hangi adım otoklavdan önce gelir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0ufoo46",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC CJD 2026",
+        "question": "CDC yöntem 3’te kimyasal temas sonrasında hangi adım otoklavdan önce gelir?",
+        "options": [
+          "NaOH içinde doğrudan otoklava alma",
+          "Kimyasaldan su dolu kaba aktarma",
+          "Temizleyip rutin döngüye geçme",
+          "Suyla durulama"
+        ],
+        "correct": 3,
+        "explanation": "Yöntem 3’te kimyasal temasın ardından **suyla durulama**, sonra açık kapta belirtilen otoklav işlemi vardır. Yöntem 2’de suya aktarılma ayrı adımdır."
+      }
+    },
+    {
+      "title": "Prionlu dokuyla temas eden tek kullanımlık alet için özel yaklaşım hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1ivy74n",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC CJD 2026",
+        "question": "Prionlu dokuyla temas eden tek kullanımlık alet için özel yaklaşım hangisidir?",
+        "options": [
+          "Yakılarak imha",
+          "Düşük düzey dezenfeksiyon",
+          "Alkolle silip yeniden kullanma",
+          "Ultrasonik temizleyip paketleme"
+        ],
+        "correct": 0,
+        "explanation": "CDC, şüpheli/doğrulanmış CJD dokusuyla temas eden **tek kullanımlıkları yakmayı** önerir."
+      }
+    },
+    {
+      "title": "CDC dezenfeksiyon direnç şemasının en dirençli grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0nqn94z",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "CDC dezenfeksiyon direnç şemasının en dirençli grubu hangisidir?",
+        "options": [
+          "Bakteri sporları",
+          "Prionlar",
+          "Mikobakteriler",
+          "Vejetatif bakteriler"
+        ],
+        "correct": 1,
+        "explanation": "Prionlar direnç şemasının **en üstündedir**; rutin cihaz sınıflaması özel inaktivasyon sorununu çözmez."
+      }
+    },
+    {
+      "title": "CDC yöntem 2’de kimyasal temas sonrası otoklavdan önce ne yapılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1pj74aa",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC CJD 2026",
+        "question": "CDC yöntem 2’de kimyasal temas sonrası otoklavdan önce ne yapılır?",
+        "options": [
+          "Aletler NaOH içinde otoklava alınır",
+          "Aletler durulanıp kuru açık kaba alınır",
+          "Aletler suya aktarılır",
+          "Aletler temizlenip rutin döngüye alınır"
+        ],
+        "correct": 2,
+        "explanation": "Yöntem 2’de kimyasalda bekletme sonrası **suya aktarılır**, sonra 121 °C gravitede 1 saat işlenir."
+      }
+    },
+    {
+      "title": "Beyin-omurilik sıvısı, CDC’nin düşük enfektiviteli CJD doku örneklerindendir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-022g69b",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "statement": "Beyin-omurilik sıvısı, CDC’nin düşük enfektiviteli CJD doku örneklerindendir.",
+        "isTrue": true,
+        "explanation": "CDC’de BOS düşük; beyin, omurilik ve gözler yüksek enfektiviteli gruptadır."
+      }
+    },
+    {
+      "title": "NaOH, özel prion işlemlerinde alet korozyonu riski taşımayan bir kimyasaldır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1eybysj",
+        "course": "PER247",
+        "topic": "Prionlar ve CJD",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC CJD 2026",
+        "statement": "NaOH, özel prion işlemlerinde alet korozyonu riski taşımayan bir kimyasaldır.",
+        "isTrue": false,
+        "explanation": "CDC, **NaOH’nin bazı aletleri aşındırabileceğini** belirtir; materyal toleransı üreticiyle değerlendirilir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-1ovlf7r",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Prion",
+      "definition": "Normal prion proteininin anormal konformasyonlu izoformundan oluşan, sterilizasyona en dirençli ajan.",
+      "en": "Prion"
+    },
+    {
+      "id": "PER247-0appied",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Creutzfeldt-Jakob hastalığı",
+      "definition": "Prionların yol açtığı insan nörodejeneratif hastalığı.",
+      "en": "Creutzfeldt-Jakob disease"
+    },
+    {
+      "id": "PER247-0p4pe2w",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "term": "Yüksek enfektiviteli doku",
+      "definition": "CJD'de beyin, omurilik ve göz.",
+      "en": "High-infectivity tissue"
+    },
+    {
+      "id": "PER247-0t5wyez",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC CJD 2026",
+      "term": "Düşük enfektiviteli doku",
+      "definition": "CJD'de BOS, böbrek, karaciğer, akciğer, lenf nodu, dalak, plasenta.",
+      "en": "Low-infectivity tissue"
+    },
+    {
+      "id": "PER247-0d2sb20",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "title": "CJD aleti: yöntem 1",
+      "body": "CDC’de yöntem 1: **1 N NaOH içinde, gravite otoklavda 121 °C–30 dk**; ardından temizlik, suyla durulama ve rutin sterilizasyon. Bu sıra rutin cihaz işlemiyle karıştırılmaz."
+    },
+    {
+      "id": "PER247-1974aeu",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "title": "CJD aleti: yöntem 2",
+      "body": "CDC’de yöntem 2: **1 N NaOH veya 20.000 ppm klorda 1 saat**, sonra suya aktarma ve **121 °C gravitede 1 saat**; ardından temizlik ve rutin sterilizasyon."
+    },
+    {
+      "id": "PER247-01ziqnj",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "title": "CJD aleti: yöntem 3",
+      "body": "CDC’de yöntem 3: **1 N NaOH veya 20.000 ppm serbest klorlu hipokloritte 1 saat** → suyla durulama → açık kapta **121 °C gravite veya 134 °C gözenekli yükte 1 saat** → temizlik ve rutin sterilizasyon. Üretici uyumu gözetilir."
+    },
+    {
+      "id": "PER247-1nw46jt",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "title": "Prionla kontamine yüzeyler",
+      "body": "CDC, ilgili yüzey ve ısıya duyarlı yeniden kullanılabilir malzemede **2 N NaOH veya seyreltilmemiş hipokloritle 1 saat** temas ve ardından suyla durulamayı tarif eder. Özel prion protokolüdür."
+    },
+    {
+      "id": "PER247-1s6jzje",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "title": "En güvenli seçenek",
+      "body": "CDC, yüksek enfektiviteli dokuyla temas eden ısıya dayanıklı cerrahi aletler için **imhanın en güvenli seçenek** olduğunu belirtir; uygulanamıyorsa tanımlı özel yeniden işleme yöntemleri kullanılır."
+    },
+    {
+      "id": "PER247-01gvco6",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "question": "CJD’de yüksek enfektiviteli dokular hangileridir?",
+      "answer": "**Beyin, omurilik ve gözler**. Beyin-omurilik sıvısı gibi bazı diğer dokular CDC listesinde düşük enfektiviteli gruptadır."
+    },
+    {
+      "id": "PER247-1ttmt1r",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "question": "Şüpheli prion aletlerinde kuruma niçin önlenir?",
+      "answer": "İşlem sırasında aletler **su veya uygun solüsyonda nemli** tutulur. Kuruma, kontaminasyonun yüzeye bağlanmasını ve özel dekontaminasyonu güçleştirebilir."
+    },
+    {
+      "id": "PER247-0mwnkyc",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC CJD 2026",
+      "title": "Prion protokolünü rutinle karıştırma",
+      "body": "CJD aletlerinde özel kimyasal/ısı adımlarından **sonra temizlik ve rutin sterilizasyon** da yer alır. Tek bir sıcaklık veya süreyi alıp tüm özel yöntemin yerine kullanma."
+    },
+    {
+      "id": "PER247-0ufoo46",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC CJD 2026",
+      "question": "CDC yöntem 3’te kimyasal temas sonrasında hangi adım otoklavdan önce gelir?",
+      "options": [
+        "NaOH içinde doğrudan otoklava alma",
+        "Kimyasaldan su dolu kaba aktarma",
+        "Temizleyip rutin döngüye geçme",
+        "Suyla durulama"
+      ],
+      "correct": 3,
+      "explanation": "Yöntem 3’te kimyasal temasın ardından **suyla durulama**, sonra açık kapta belirtilen otoklav işlemi vardır. Yöntem 2’de suya aktarılma ayrı adımdır."
+    },
+    {
+      "id": "PER247-1ivy74n",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC CJD 2026",
+      "question": "Prionlu dokuyla temas eden tek kullanımlık alet için özel yaklaşım hangisidir?",
+      "options": [
+        "Yakılarak imha",
+        "Düşük düzey dezenfeksiyon",
+        "Alkolle silip yeniden kullanma",
+        "Ultrasonik temizleyip paketleme"
+      ],
+      "correct": 0,
+      "explanation": "CDC, şüpheli/doğrulanmış CJD dokusuyla temas eden **tek kullanımlıkları yakmayı** önerir."
+    },
+    {
+      "id": "PER247-0nqn94z",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "CDC dezenfeksiyon direnç şemasının en dirençli grubu hangisidir?",
+      "options": [
+        "Bakteri sporları",
+        "Prionlar",
+        "Mikobakteriler",
+        "Vejetatif bakteriler"
+      ],
+      "correct": 1,
+      "explanation": "Prionlar direnç şemasının **en üstündedir**; rutin cihaz sınıflaması özel inaktivasyon sorununu çözmez."
+    },
+    {
+      "id": "PER247-1pj74aa",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC CJD 2026",
+      "question": "CDC yöntem 2’de kimyasal temas sonrası otoklavdan önce ne yapılır?",
+      "options": [
+        "Aletler NaOH içinde otoklava alınır",
+        "Aletler durulanıp kuru açık kaba alınır",
+        "Aletler suya aktarılır",
+        "Aletler temizlenip rutin döngüye alınır"
+      ],
+      "correct": 2,
+      "explanation": "Yöntem 2’de kimyasalda bekletme sonrası **suya aktarılır**, sonra 121 °C gravitede 1 saat işlenir."
+    },
+    {
+      "id": "PER247-022g69b",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "statement": "Beyin-omurilik sıvısı, CDC’nin düşük enfektiviteli CJD doku örneklerindendir.",
+      "isTrue": true,
+      "explanation": "CDC’de BOS düşük; beyin, omurilik ve gözler yüksek enfektiviteli gruptadır."
+    },
+    {
+      "id": "PER247-1eybysj",
+      "course": "PER247",
+      "topic": "Prionlar ve CJD",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC CJD 2026",
+      "statement": "NaOH, özel prion işlemlerinde alet korozyonu riski taşımayan bir kimyasaldır.",
+      "isTrue": false,
+      "explanation": "CDC, **NaOH’nin bazı aletleri aşındırabileceğini** belirtir; materyal toleransı üreticiyle değerlendirilir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

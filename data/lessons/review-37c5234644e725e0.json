@@ -1,0 +1,527 @@
+{
+  "id": "review-37c5234644e725e0",
+  "title": "KPB ve perfüzyonun tarihçesi",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kontrollü çapraz dolaşım",
+      "text": "Controlled cross-circulation\nCerrahi sırasında hastanın dolaşımını bir donörün dolaşımına bağlayıp donörün akciğerini biyolojik oksijenatör olarak kullanma yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1li2bx6",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "term",
+        "importance": 3,
+        "term": "Kontrollü çapraz dolaşım",
+        "definition": "Cerrahi sırasında hastanın dolaşımını bir donörün dolaşımına bağlayıp donörün akciğerini biyolojik oksijenatör olarak kullanma yöntemi.",
+        "en": "Controlled cross-circulation",
+        "source": "Gott 2005"
+      }
+    },
+    {
+      "title": "İnflow stasis",
+      "text": "Inflow stasis\nKalbe gelen kan akımının geçici olarak durdurulması; tarihsel açık kalp cerrahisinde total vücut hipotermisiyle birlikte kullanılmıştır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1yp7us5",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "term",
+        "importance": 1,
+        "term": "İnflow stasis",
+        "definition": "Kalbe gelen kan akımının geçici olarak durdurulması; tarihsel açık kalp cerrahisinde total vücut hipotermisiyle birlikte kullanılmıştır.",
+        "en": "Inflow stasis",
+        "source": "Gott 2005"
+      }
+    },
+    {
+      "title": "Autojector",
+      "text": "Autojector\nBrukhonenko tarafından geliştirilen, deneysel vücut dışı dolaşımda kullanılan erken kalp-akciğer aygıtı.",
+      "images": [],
+      "card": {
+        "id": "PER141-151ugct",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "term",
+        "importance": 1,
+        "term": "Autojector",
+        "definition": "Brukhonenko tarafından geliştirilen, deneysel vücut dışı dolaşımda kullanılan erken kalp-akciğer aygıtı.",
+        "en": "Autojector",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Mayo-Gibbon makinesi",
+      "text": "Mayo-Gibbon heart-lung machine\nGibbon–IBM tasarımının Mayo Clinic tarafından seri açık kalp ameliyatlarında kullanılmak üzere değiştirilmiş biçimi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0amo5fq",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "term",
+        "importance": 1,
+        "term": "Mayo-Gibbon makinesi",
+        "definition": "Gibbon–IBM tasarımının Mayo Clinic tarafından seri açık kalp ameliyatlarında kullanılmak üzere değiştirilmiş biçimi.",
+        "en": "Mayo-Gibbon heart-lung machine",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Gibbon'un başarısı",
+      "text": "**6 Mayıs 1953**'te Gibbon, Cecelia Bavolek'in atriyal septal defektini kalp-akciğer makinesiyle onardı. Bu, makineyle ilk başarılı açık kalp ameliyatı olarak anılır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1bnqda4",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Gibbon'un başarısı",
+        "body": "**6 Mayıs 1953**'te Gibbon, Cecelia Bavolek'in atriyal septal defektini kalp-akciğer makinesiyle onardı. Bu, makineyle ilk başarılı açık kalp ameliyatı olarak anılır.",
+        "source": "Jefferson Magazine 2020"
+      }
+    },
+    {
+      "title": "Elekten membrana",
+      "text": "Gibbon'un makinesinde kan, **dikey elek üzerinde ince film** oluşturuyordu; bu tasarım gazı kandan ayıran modern membran oksijenatörden farklıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-0u6pvp7",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Elekten membrana",
+        "body": "Gibbon'un makinesinde kan, **dikey elek üzerinde ince film** oluşturuyordu; bu tasarım gazı kandan ayıran modern membran oksijenatörden farklıdır.",
+        "source": "Jefferson Magazine 2020"
+      }
+    },
+    {
+      "title": "DeBakey ve roller pompa",
+      "text": "DeBakey'in transfüzyon için geliştirdiği roller pompa düzeni KPB'ye uyarlandı. Roller pompanın bütün tarihini tek bir kişiye ait ilk patent olarak sunmak doğru değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1kobj3f",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "fact",
+        "importance": 1,
+        "title": "DeBakey ve roller pompa",
+        "body": "DeBakey'in transfüzyon için geliştirdiği roller pompa düzeni KPB'ye uyarlandı. Roller pompanın bütün tarihini tek bir kişiye ait ilk patent olarak sunmak doğru değildir.",
+        "source": "Passaroni 2015"
+      }
+    },
+    {
+      "title": "Heparinin teknolojik katkısı",
+      "text": "Heparinin keşfi ve kullanıma girmesi, kanın vücut dışı devrede pıhtılaşmasını sınırlayarak KPB teknolojisinin gelişimini destekledi.",
+      "images": [],
+      "card": {
+        "id": "PER141-11woxq5",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Heparinin teknolojik katkısı",
+        "body": "Heparinin keşfi ve kullanıma girmesi, kanın vücut dışı devrede pıhtılaşmasını sınırlayarak KPB teknolojisinin gelişimini destekledi.",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Türkiye tarihindeki iki farklı başlangıç",
+      "text": "Aytaç'ın tarih anlatısında Türkiye'deki ilk EKD girişimi Mehmet Tekdoğan ile, düzenli seri ameliyatların başlaması ise Aydın Aytaç ile ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0c0zohg",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Türkiye tarihindeki iki farklı başlangıç",
+        "body": "Aytaç'ın tarih anlatısında Türkiye'deki ilk EKD girişimi Mehmet Tekdoğan ile, düzenli seri ameliyatların başlaması ise Aydın Aytaç ile ilişkilidir.",
+        "source": "Aytaç: Kalp cerrahisi tarihi"
+      }
+    },
+    {
+      "title": "Lillehei'nin kontrollü çapraz dolaşımında gaz değişimini hangi yapı sağlıyordu?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-141hdzl",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Lillehei'nin kontrollü çapraz dolaşımında gaz değişimini hangi yapı sağlıyordu?",
+        "answer": "Donör olarak kullanılan ebeveynin **akciğerleri**, biyolojik oksijenatör işlevi görüyordu.",
+        "source": "Gott 2005"
+      }
+    },
+    {
+      "title": "Kirklin'in KPB tarihindeki katkısı nasıl özetlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1f31um8",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kirklin'in KPB tarihindeki katkısı nasıl özetlenir?",
+        "answer": "Gibbon–IBM makinesini geliştirerek Mayo Clinic'te **seri açık kalp cerrahisi** programını yürütmesi.",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "PMP membranlar uzamış ekstrakorporeal destekte hangi teknik soruna yanıt verdi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1qvsiwu",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "flip",
+        "importance": 2,
+        "question": "PMP membranlar uzamış ekstrakorporeal destekte hangi teknik soruna yanıt verdi?",
+        "answer": "Oksijenatörün plazmayla ıslanmasına ve **plazma sızıntısına** karşı daha dirençli bir gaz değişim yüzeyi sağladı.",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Tarih sorusunun klasik eşleşmesi",
+      "text": "Makineyle **ilk başarılı açık kalp ameliyatı**: Gibbon, 6 Mayıs 1953; işlem atriyal septal defekt onarımıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-17sl4kd",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Tarih sorusunun klasik eşleşmesi",
+        "body": "Makineyle **ilk başarılı açık kalp ameliyatı**: Gibbon, 6 Mayıs 1953; işlem atriyal septal defekt onarımıdır.",
+        "source": "Jefferson Magazine 2020"
+      }
+    },
+    {
+      "title": "Gibbon'un ilk başarılı makine destekli ameliyatında onarılan lezyon hangisiydi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1ra91z9",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Gibbon'un ilk başarılı makine destekli ameliyatında onarılan lezyon hangisiydi?",
+        "options": [
+          "Aort koarktasyonu",
+          "Fallot tetralojisi",
+          "Patent duktus arteriyozus",
+          "Atriyal septal defekt"
+        ],
+        "correct": 3,
+        "explanation": "Jefferson'un tarih anlatısında Cecelia Bavolek'te ASD onarımı açıklanır.",
+        "source": "Jefferson Magazine 2020"
+      }
+    },
+    {
+      "title": "Kolobow'un oksijenatörü hangi membran malzemesiyle ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0zuohin",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kolobow'un oksijenatörü hangi membran malzemesiyle ilişkilidir?",
+        "options": [
+          "Silikon kauçuk",
+          "Polivinil klorür",
+          "Paslanmaz çelik",
+          "Fosforilkolin"
+        ],
+        "correct": 0,
+        "explanation": "Kolobow'un tarihsel sarmal membran oksijenatörü silikon kauçuk kullanıyordu.",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Kontrollü çapraz dolaşım yöntemiyle en çok ilişkilendirilen cerrah kimdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-07cxqbk",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kontrollü çapraz dolaşım yöntemiyle en çok ilişkilendirilen cerrah kimdir?",
+        "options": [
+          "Gibbon",
+          "Lillehei",
+          "Bretschneider",
+          "Kolobow"
+        ],
+        "correct": 1,
+        "explanation": "Lillehei hasta ve donör arasında kontrollü çapraz dolaşımı kullandı.",
+        "source": "Gott 2005"
+      }
+    },
+    {
+      "title": "Film oksijenatörler kanı ince bir film hâlinde gazla temas ettirir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1riwskv",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Film oksijenatörler kanı ince bir film hâlinde gazla temas ettirir.",
+        "isTrue": true,
+        "explanation": "Film tasarımında gaz değişimi, kanın elek veya disk üzerindeki ince filmiyle sağlanır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Bubble oksijenatörde gaz değişimi kanla gazı ayıran yoğun membran üzerinden gerçekleşir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-09gi9uw",
+        "course": "PER141",
+        "topic": "KPB ve perfüzyonun tarihçesi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Bubble oksijenatörde gaz değişimi kanla gazı ayıran yoğun membran üzerinden gerçekleşir.",
+        "isTrue": false,
+        "explanation": "Bubble oksijenatörde doğrudan kan-gaz teması vardır; ayırıcı membran modern membran oksijenatörün özelliğidir.",
+        "source": "National Heart Center 2026"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1li2bx6",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "term",
+      "importance": 3,
+      "term": "Kontrollü çapraz dolaşım",
+      "definition": "Cerrahi sırasında hastanın dolaşımını bir donörün dolaşımına bağlayıp donörün akciğerini biyolojik oksijenatör olarak kullanma yöntemi.",
+      "en": "Controlled cross-circulation",
+      "source": "Gott 2005"
+    },
+    {
+      "id": "PER141-1yp7us5",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "term",
+      "importance": 1,
+      "term": "İnflow stasis",
+      "definition": "Kalbe gelen kan akımının geçici olarak durdurulması; tarihsel açık kalp cerrahisinde total vücut hipotermisiyle birlikte kullanılmıştır.",
+      "en": "Inflow stasis",
+      "source": "Gott 2005"
+    },
+    {
+      "id": "PER141-151ugct",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "term",
+      "importance": 1,
+      "term": "Autojector",
+      "definition": "Brukhonenko tarafından geliştirilen, deneysel vücut dışı dolaşımda kullanılan erken kalp-akciğer aygıtı.",
+      "en": "Autojector",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-0amo5fq",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "term",
+      "importance": 1,
+      "term": "Mayo-Gibbon makinesi",
+      "definition": "Gibbon–IBM tasarımının Mayo Clinic tarafından seri açık kalp ameliyatlarında kullanılmak üzere değiştirilmiş biçimi.",
+      "en": "Mayo-Gibbon heart-lung machine",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-1bnqda4",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Gibbon'un başarısı",
+      "body": "**6 Mayıs 1953**'te Gibbon, Cecelia Bavolek'in atriyal septal defektini kalp-akciğer makinesiyle onardı. Bu, makineyle ilk başarılı açık kalp ameliyatı olarak anılır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "id": "PER141-0u6pvp7",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Elekten membrana",
+      "body": "Gibbon'un makinesinde kan, **dikey elek üzerinde ince film** oluşturuyordu; bu tasarım gazı kandan ayıran modern membran oksijenatörden farklıdır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "id": "PER141-1kobj3f",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "fact",
+      "importance": 1,
+      "title": "DeBakey ve roller pompa",
+      "body": "DeBakey'in transfüzyon için geliştirdiği roller pompa düzeni KPB'ye uyarlandı. Roller pompanın bütün tarihini tek bir kişiye ait ilk patent olarak sunmak doğru değildir.",
+      "source": "Passaroni 2015"
+    },
+    {
+      "id": "PER141-11woxq5",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Heparinin teknolojik katkısı",
+      "body": "Heparinin keşfi ve kullanıma girmesi, kanın vücut dışı devrede pıhtılaşmasını sınırlayarak KPB teknolojisinin gelişimini destekledi.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-0c0zohg",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Türkiye tarihindeki iki farklı başlangıç",
+      "body": "Aytaç'ın tarih anlatısında Türkiye'deki ilk EKD girişimi Mehmet Tekdoğan ile, düzenli seri ameliyatların başlaması ise Aydın Aytaç ile ilişkilidir.",
+      "source": "Aytaç: Kalp cerrahisi tarihi"
+    },
+    {
+      "id": "PER141-141hdzl",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Lillehei'nin kontrollü çapraz dolaşımında gaz değişimini hangi yapı sağlıyordu?",
+      "answer": "Donör olarak kullanılan ebeveynin **akciğerleri**, biyolojik oksijenatör işlevi görüyordu.",
+      "source": "Gott 2005"
+    },
+    {
+      "id": "PER141-1f31um8",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kirklin'in KPB tarihindeki katkısı nasıl özetlenir?",
+      "answer": "Gibbon–IBM makinesini geliştirerek Mayo Clinic'te **seri açık kalp cerrahisi** programını yürütmesi.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-1qvsiwu",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "flip",
+      "importance": 2,
+      "question": "PMP membranlar uzamış ekstrakorporeal destekte hangi teknik soruna yanıt verdi?",
+      "answer": "Oksijenatörün plazmayla ıslanmasına ve **plazma sızıntısına** karşı daha dirençli bir gaz değişim yüzeyi sağladı.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-17sl4kd",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Tarih sorusunun klasik eşleşmesi",
+      "body": "Makineyle **ilk başarılı açık kalp ameliyatı**: Gibbon, 6 Mayıs 1953; işlem atriyal septal defekt onarımıdır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "id": "PER141-1ra91z9",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Gibbon'un ilk başarılı makine destekli ameliyatında onarılan lezyon hangisiydi?",
+      "options": [
+        "Aort koarktasyonu",
+        "Fallot tetralojisi",
+        "Patent duktus arteriyozus",
+        "Atriyal septal defekt"
+      ],
+      "correct": 3,
+      "explanation": "Jefferson'un tarih anlatısında Cecelia Bavolek'te ASD onarımı açıklanır.",
+      "source": "Jefferson Magazine 2020"
+    },
+    {
+      "id": "PER141-0zuohin",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kolobow'un oksijenatörü hangi membran malzemesiyle ilişkilidir?",
+      "options": [
+        "Silikon kauçuk",
+        "Polivinil klorür",
+        "Paslanmaz çelik",
+        "Fosforilkolin"
+      ],
+      "correct": 0,
+      "explanation": "Kolobow'un tarihsel sarmal membran oksijenatörü silikon kauçuk kullanıyordu.",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-07cxqbk",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kontrollü çapraz dolaşım yöntemiyle en çok ilişkilendirilen cerrah kimdir?",
+      "options": [
+        "Gibbon",
+        "Lillehei",
+        "Bretschneider",
+        "Kolobow"
+      ],
+      "correct": 1,
+      "explanation": "Lillehei hasta ve donör arasında kontrollü çapraz dolaşımı kullandı.",
+      "source": "Gott 2005"
+    },
+    {
+      "id": "PER141-1riwskv",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Film oksijenatörler kanı ince bir film hâlinde gazla temas ettirir.",
+      "isTrue": true,
+      "explanation": "Film tasarımında gaz değişimi, kanın elek veya disk üzerindeki ince filmiyle sağlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-09gi9uw",
+      "course": "PER141",
+      "topic": "KPB ve perfüzyonun tarihçesi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Bubble oksijenatörde gaz değişimi kanla gazı ayıran yoğun membran üzerinden gerçekleşir.",
+      "isTrue": false,
+      "explanation": "Bubble oksijenatörde doğrudan kan-gaz teması vardır; ayırıcı membran modern membran oksijenatörün özelliğidir.",
+      "source": "National Heart Center 2026"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

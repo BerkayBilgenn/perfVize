@@ -1,0 +1,687 @@
+{
+  "id": "review-6dfcbfaf7795ca4a",
+  "title": "Mediasten anatomisi",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Mediasten",
+      "text": "Mediastinum\nİki plevra kesesi arasında, akciğerler dışındaki göğüs organlarını içeren orta bölme.",
+      "images": [],
+      "card": {
+        "id": "PER245-1gb3rg3",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Mediasten",
+        "en": "Mediastinum",
+        "definition": "İki plevra kesesi arasında, akciğerler dışındaki göğüs organlarını içeren orta bölme.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Angulus sterni",
+      "text": "Sternal angle\nManubrium ile sternum gövdesinin birleşimindeki açı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0v6ux2b",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Angulus sterni",
+        "en": "Sternal angle",
+        "definition": "Manubrium ile sternum gövdesinin birleşimindeki açı.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Üst mediasten",
+      "text": "Angulus sterni düzleminin üstünde kalan; timus, arkus aorta, trakea ve büyük venleri içeren mediasten bölümü.",
+      "images": [],
+      "card": {
+        "id": "PER245-1q1qw1o",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Üst mediasten",
+        "definition": "Angulus sterni düzleminin üstünde kalan; timus, arkus aorta, trakea ve büyük venleri içeren mediasten bölümü.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Alt mediasten",
+      "text": "Transvers torasik düzlemin altında kalan ve perikarda göre ön, orta ve arka bölümlere ayrılan bölge.",
+      "images": [],
+      "card": {
+        "id": "PER245-0erdflw",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Alt mediasten",
+        "definition": "Transvers torasik düzlemin altında kalan ve perikarda göre ön, orta ve arka bölümlere ayrılan bölge.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Ön mediasten",
+      "text": "Sternum ile perikard arasındaki; yağ, bağ dokusu ve lenf yapıları içeren alt mediasten bölümü.",
+      "images": [],
+      "card": {
+        "id": "PER245-1ygnmxt",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Ön mediasten",
+        "definition": "Sternum ile perikard arasındaki; yağ, bağ dokusu ve lenf yapıları içeren alt mediasten bölümü.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Median sternotomi",
+      "text": "Sternumun orta hattan açılmasıyla kalp ve mediastene erişim sağlayan cerrahi yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER245-1lki6qh",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Median sternotomi",
+        "definition": "Sternumun orta hattan açılmasıyla kalp ve mediastene erişim sağlayan cerrahi yaklaşım.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Azygos sistemi",
+      "text": "Toraks duvarının venöz kanını üst vena kavaya taşıyan azygos ve hemiazygos ven ağı.",
+      "images": [],
+      "card": {
+        "id": "PER245-08ec674",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Azygos sistemi",
+        "definition": "Toraks duvarının venöz kanını üst vena kavaya taşıyan azygos ve hemiazygos ven ağı.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Ductus thoracicus",
+      "text": "Lenfin sistemik venöz dolaşıma taşınmasını sağlayan, arka mediastenden geçen ana lenf kanalı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xe9acq",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Ductus thoracicus",
+        "definition": "Lenfin sistemik venöz dolaşıma taşınmasını sağlayan, arka mediastenden geçen ana lenf kanalı.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Frenik sinir",
+      "text": "Diyaframın motor siniri; perikardla yakın seyreder ve kalp cerrahisinde hasarlanması diyafram işlevini bozabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-13ohtkb",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Frenik sinir",
+        "definition": "Diyaframın motor siniri; perikardla yakın seyreder ve kalp cerrahisinde hasarlanması diyafram işlevini bozabilir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Mediastenin dış sınırları",
+      "text": "Mediastenin yan sınırlarını mediastinal plevra, alt sınırını diyafram oluşturur. Akciğerler bu orta bölmenin dışında bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER245-0lxt873",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Mediastenin dış sınırları",
+        "body": "Mediastenin yan sınırlarını mediastinal plevra, alt sınırını diyafram oluşturur. Akciğerler bu orta bölmenin dışında bulunur.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Üst-alt ayırıcı düzlem",
+      "text": "Angulus sterni ile T4–T5 intervertebral disk arasındaki transvers düzlem, klasik anatomide üst ve alt mediasteni ayırır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0esrsp6",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Üst-alt ayırıcı düzlem",
+        "body": "Angulus sterni ile T4–T5 intervertebral disk arasındaki transvers düzlem, klasik anatomide üst ve alt mediasteni ayırır.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Ön bölmenin yaşla değişimi",
+      "text": "Timus çocukta ön mediastene uzanabilir; erişkinde timik dokunun yerini giderek yağ dokusu alır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1bnagm1",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ön bölmenin yaşla değişimi",
+        "body": "Timus çocukta ön mediastene uzanabilir; erişkinde timik dokunun yerini giderek yağ dokusu alır.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Arkusun dalları",
+      "text": "Arkus aortanın klasik dalları brakiyosefalik trunkus, sol ortak karotis ve sol subklavyen arterdir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0y20ny7",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arkusun dalları",
+        "body": "Arkus aortanın klasik dalları brakiyosefalik trunkus, sol ortak karotis ve sol subklavyen arterdir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Tekrar sternotomi",
+      "text": "Önceki ameliyata bağlı yapışıklıklar kalp veya grefti sternuma yaklaştırabilir. Bu nedenle yeniden giriş öncesi görüntüleme ve alternatif kanülasyon hazırlığı önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-18f4awd",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Tekrar sternotomi",
+        "body": "Önceki ameliyata bağlı yapışıklıklar kalp veya grefti sternuma yaklaştırabilir. Bu nedenle yeniden giriş öncesi görüntüleme ve alternatif kanülasyon hazırlığı önemlidir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Mediastenin ön ve arka anatomik sınırları nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1b4d8ak",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Mediastenin ön ve arka anatomik sınırları nelerdir?",
+        "answer": "Önde sternum, arkada torakal vertebra korpusları bulunur; bu sınırlar mediasteni toraksın orta bölmesi olarak tanımlar.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Alt mediastenin üç bölümünü ayırmada hangi yapı referans alınır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-02t62ee",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Alt mediastenin üç bölümünü ayırmada hangi yapı referans alınır?",
+        "answer": "Perikard kesesi. Ön bölüm kesenin önünde, orta bölüm kese ve içerikleri çevresinde, arka bölüm kesenin arkasındadır.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Kalp cerrahisinde frenik sinir hasarı neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-183avhc",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kalp cerrahisinde frenik sinir hasarı neden önemlidir?",
+        "answer": "Diyafram hareketini bozabilir ve solunum sorunlarına yol açabilir; soğuk, traksiyon veya koterle hasar oluşabilir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Kalp orta mediastendedir",
+      "text": "Kalp ve perikardın **orta mediasten** içinde bulunduğunu hatırla; inen torakal aorta ve özofagus arka mediastendedir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0tbciku",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kalp orta mediastendedir",
+        "body": "Kalp ve perikardın **orta mediasten** içinde bulunduğunu hatırla; inen torakal aorta ve özofagus arka mediastendedir.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Klasik üst mediastende hangi yapı yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1uvjjni",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Klasik üst mediastende hangi yapı yer alır?",
+        "options": [
+          "Arkus aorta",
+          "Sol ventrikül apeksi",
+          "Perikardın oblik sinüsü",
+          "Mitral kapak"
+        ],
+        "correct": 0,
+        "explanation": "Arkus aorta üst mediasten içeriğidir; diğer yapılar kalp veya perikardla ilişkili orta mediasten yapılarıdır.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Azygos veninin terminal drenajı hangi damara olur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0x0jp7z",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Azygos veninin terminal drenajı hangi damara olur?",
+        "options": [
+          "Sağ pulmoner ven",
+          "Superior vena kava",
+          "İnferior vena kava",
+          "Sol pulmoner ven"
+        ],
+        "correct": 1,
+        "explanation": "Azygos sistemi toraks duvarının venöz kanını superior vena kavaya taşır.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Perikardın arkasında birlikte bulunması beklenen yapı grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-19eowem",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Perikardın arkasında birlikte bulunması beklenen yapı grubu hangisidir?",
+        "options": [
+          "Truncus pulmonalis ve kalp",
+          "Timus ve aort kökü",
+          "Özofagus ve inen aorta",
+          "Kalp ve çıkan aorta"
+        ],
+        "correct": 2,
+        "explanation": "Özofagus ve inen torakal aorta arka mediastenin temel yapılarıdır.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "Toraksın iki plevra kesesi arasındaki bölmesi hangi adla anılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1larrmy",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Toraksın iki plevra kesesi arasındaki bölmesi hangi adla anılır?",
+        "options": [
+          "Plevral boşluk",
+          "Perikard boşluğu",
+          "Periton boşluğu",
+          "Mediasten"
+        ],
+        "correct": 3,
+        "explanation": "Mediasten plevra keseleri arasında bulunan orta toraks bölmesidir.",
+        "source": "Kenhub Anatomi"
+      }
+    },
+    {
+      "title": "İnternal torasik damarların dalları ön mediasten içeriklerine katkı sağlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1yy4chd",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "İnternal torasik damarların dalları ön mediasten içeriklerine katkı sağlar.",
+        "isTrue": true,
+        "explanation": "Ön mediastende bağ dokusu, yağ, lenf yapıları ve internal torasik damar dalları bulunur.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Mediastenin yan sınırını akciğer parankimi oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1tzmvfa",
+        "course": "PER245",
+        "topic": "Mediasten anatomisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Mediastenin yan sınırını akciğer parankimi oluşturur.",
+        "isTrue": false,
+        "explanation": "Klasik anatomik sınır mediastinal parietal plevradır; akciğer parankimi mediastenin dışında kalır.",
+        "source": "Kenhub Anatomi"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-1gb3rg3",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Mediasten",
+      "en": "Mediastinum",
+      "definition": "İki plevra kesesi arasında, akciğerler dışındaki göğüs organlarını içeren orta bölme.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-0v6ux2b",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Angulus sterni",
+      "en": "Sternal angle",
+      "definition": "Manubrium ile sternum gövdesinin birleşimindeki açı.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-1q1qw1o",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Üst mediasten",
+      "definition": "Angulus sterni düzleminin üstünde kalan; timus, arkus aorta, trakea ve büyük venleri içeren mediasten bölümü.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-0erdflw",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Alt mediasten",
+      "definition": "Transvers torasik düzlemin altında kalan ve perikarda göre ön, orta ve arka bölümlere ayrılan bölge.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-1ygnmxt",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Ön mediasten",
+      "definition": "Sternum ile perikard arasındaki; yağ, bağ dokusu ve lenf yapıları içeren alt mediasten bölümü.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1lki6qh",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Median sternotomi",
+      "definition": "Sternumun orta hattan açılmasıyla kalp ve mediastene erişim sağlayan cerrahi yaklaşım.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-08ec674",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Azygos sistemi",
+      "definition": "Toraks duvarının venöz kanını üst vena kavaya taşıyan azygos ve hemiazygos ven ağı.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0xe9acq",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Ductus thoracicus",
+      "definition": "Lenfin sistemik venöz dolaşıma taşınmasını sağlayan, arka mediastenden geçen ana lenf kanalı.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-13ohtkb",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Frenik sinir",
+      "definition": "Diyaframın motor siniri; perikardla yakın seyreder ve kalp cerrahisinde hasarlanması diyafram işlevini bozabilir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0lxt873",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Mediastenin dış sınırları",
+      "body": "Mediastenin yan sınırlarını mediastinal plevra, alt sınırını diyafram oluşturur. Akciğerler bu orta bölmenin dışında bulunur.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-0esrsp6",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Üst-alt ayırıcı düzlem",
+      "body": "Angulus sterni ile T4–T5 intervertebral disk arasındaki transvers düzlem, klasik anatomide üst ve alt mediasteni ayırır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-1bnagm1",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ön bölmenin yaşla değişimi",
+      "body": "Timus çocukta ön mediastene uzanabilir; erişkinde timik dokunun yerini giderek yağ dokusu alır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0y20ny7",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arkusun dalları",
+      "body": "Arkus aortanın klasik dalları brakiyosefalik trunkus, sol ortak karotis ve sol subklavyen arterdir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-18f4awd",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Tekrar sternotomi",
+      "body": "Önceki ameliyata bağlı yapışıklıklar kalp veya grefti sternuma yaklaştırabilir. Bu nedenle yeniden giriş öncesi görüntüleme ve alternatif kanülasyon hazırlığı önemlidir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1b4d8ak",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Mediastenin ön ve arka anatomik sınırları nelerdir?",
+      "answer": "Önde sternum, arkada torakal vertebra korpusları bulunur; bu sınırlar mediasteni toraksın orta bölmesi olarak tanımlar.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-02t62ee",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Alt mediastenin üç bölümünü ayırmada hangi yapı referans alınır?",
+      "answer": "Perikard kesesi. Ön bölüm kesenin önünde, orta bölüm kese ve içerikleri çevresinde, arka bölüm kesenin arkasındadır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-183avhc",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kalp cerrahisinde frenik sinir hasarı neden önemlidir?",
+      "answer": "Diyafram hareketini bozabilir ve solunum sorunlarına yol açabilir; soğuk, traksiyon veya koterle hasar oluşabilir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0tbciku",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kalp orta mediastendedir",
+      "body": "Kalp ve perikardın **orta mediasten** içinde bulunduğunu hatırla; inen torakal aorta ve özofagus arka mediastendedir.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-1uvjjni",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Klasik üst mediastende hangi yapı yer alır?",
+      "options": [
+        "Arkus aorta",
+        "Sol ventrikül apeksi",
+        "Perikardın oblik sinüsü",
+        "Mitral kapak"
+      ],
+      "correct": 0,
+      "explanation": "Arkus aorta üst mediasten içeriğidir; diğer yapılar kalp veya perikardla ilişkili orta mediasten yapılarıdır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-0x0jp7z",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Azygos veninin terminal drenajı hangi damara olur?",
+      "options": [
+        "Sağ pulmoner ven",
+        "Superior vena kava",
+        "İnferior vena kava",
+        "Sol pulmoner ven"
+      ],
+      "correct": 1,
+      "explanation": "Azygos sistemi toraks duvarının venöz kanını superior vena kavaya taşır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-19eowem",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Perikardın arkasında birlikte bulunması beklenen yapı grubu hangisidir?",
+      "options": [
+        "Truncus pulmonalis ve kalp",
+        "Timus ve aort kökü",
+        "Özofagus ve inen aorta",
+        "Kalp ve çıkan aorta"
+      ],
+      "correct": 2,
+      "explanation": "Özofagus ve inen torakal aorta arka mediastenin temel yapılarıdır.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-1larrmy",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Toraksın iki plevra kesesi arasındaki bölmesi hangi adla anılır?",
+      "options": [
+        "Plevral boşluk",
+        "Perikard boşluğu",
+        "Periton boşluğu",
+        "Mediasten"
+      ],
+      "correct": 3,
+      "explanation": "Mediasten plevra keseleri arasında bulunan orta toraks bölmesidir.",
+      "source": "Kenhub Anatomi"
+    },
+    {
+      "id": "PER245-1yy4chd",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "İnternal torasik damarların dalları ön mediasten içeriklerine katkı sağlar.",
+      "isTrue": true,
+      "explanation": "Ön mediastende bağ dokusu, yağ, lenf yapıları ve internal torasik damar dalları bulunur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1tzmvfa",
+      "course": "PER245",
+      "topic": "Mediasten anatomisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Mediastenin yan sınırını akciğer parankimi oluşturur.",
+      "isTrue": false,
+      "explanation": "Klasik anatomik sınır mediastinal parietal plevradır; akciğer parankimi mediastenin dışında kalır.",
+      "source": "Kenhub Anatomi"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

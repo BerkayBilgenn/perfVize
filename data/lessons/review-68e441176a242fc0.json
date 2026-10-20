@@ -1,0 +1,863 @@
+{
+  "id": "review-68e441176a242fc0",
+  "title": "Embriyoloji ve fetal dolaşım",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kalp tüpü",
+      "text": "Heart tube\nEmbriyonik endokardiyal tüplerin orta hatta birleşmesiyle oluşan, gelişen kalbin ilk tübüler yapısı.",
+      "images": [],
+      "card": {
+        "id": "PER245-17jvyq7",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Kalp tüpü",
+        "en": "Heart tube",
+        "definition": "Embriyonik endokardiyal tüplerin orta hatta birleşmesiyle oluşan, gelişen kalbin ilk tübüler yapısı.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kardiyak looping",
+      "text": "Cardiac looping\nKalp tüpünün kıvrılıp dönerek gelecekteki kalp odacıklarının uzamsal yerleşimini oluşturması.",
+      "images": [],
+      "card": {
+        "id": "PER245-14pr08z",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyak looping",
+        "en": "Cardiac looping",
+        "definition": "Kalp tüpünün kıvrılıp dönerek gelecekteki kalp odacıklarının uzamsal yerleşimini oluşturması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Sinus venosus",
+      "text": "Sinus venosus\nKalp tüpünün kaudal segmenti; sağ atriyumun düz kısmını, SA düğümü ve koroner sinüsü oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER245-1qkcds6",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 3,
+        "term": "Sinus venosus",
+        "en": "Sinus venosus",
+        "definition": "Kalp tüpünün kaudal segmenti; sağ atriyumun düz kısmını, SA düğümü ve koroner sinüsü oluşturur.",
+        "source": "OpenStax ve UMN Embriyoloji"
+      }
+    },
+    {
+      "title": "Bulbus cordis",
+      "text": "Bulbus cordis\nPrimitif kalp tüpü segmenti; sağ ventrikülü oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER245-0v5uph2",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 1,
+        "term": "Bulbus cordis",
+        "en": "Bulbus cordis",
+        "definition": "Primitif kalp tüpü segmenti; sağ ventrikülü oluşturur.",
+        "source": "OpenStax ve UMN Embriyoloji"
+      }
+    },
+    {
+      "title": "Truncus arteriosus (embriyolojik)",
+      "text": "Truncus arteriosus\nKalp tüpünün kraniyal segmenti; çıkan aorta ve truncus pulmonalise ayrılır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1pg2m2p",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Truncus arteriosus (embriyolojik)",
+        "en": "Truncus arteriosus",
+        "definition": "Kalp tüpünün kraniyal segmenti; çıkan aorta ve truncus pulmonalise ayrılır.",
+        "source": "OpenStax ve UMN Embriyoloji"
+      }
+    },
+    {
+      "title": "Septum primum",
+      "text": "Septum primum\nOrtak atriyumdan atriyoventriküler kanala doğru büyüyen ilk ince atriyal septum.",
+      "images": [],
+      "card": {
+        "id": "PER245-1wqkapr",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Septum primum",
+        "en": "Septum primum",
+        "definition": "Ortak atriyumdan atriyoventriküler kanala doğru büyüyen ilk ince atriyal septum.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Ostium primum",
+      "text": "Ostium primum\nSeptum primumun alt kenarı ile AV bölge arasında kalan ilk açıklık.",
+      "images": [],
+      "card": {
+        "id": "PER245-0adp07c",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 3,
+        "term": "Ostium primum",
+        "en": "Ostium primum",
+        "definition": "Septum primumun alt kenarı ile AV bölge arasında kalan ilk açıklık.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Ostium sekundum",
+      "text": "Ostium secundum\nSeptum primumun üst kısmında programlı hücre ölümüyle oluşan ikinci açıklık.",
+      "images": [],
+      "card": {
+        "id": "PER245-1nd6bs2",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Ostium sekundum",
+        "en": "Ostium secundum",
+        "definition": "Septum primumun üst kısmında programlı hücre ölümüyle oluşan ikinci açıklık.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Septum sekundum",
+      "text": "Septum secundum\nSeptum primumun sağında gelişen, daha kalın ikinci atriyal septum.",
+      "images": [],
+      "card": {
+        "id": "PER245-1vkri9l",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 1,
+        "term": "Septum sekundum",
+        "en": "Septum secundum",
+        "definition": "Septum primumun sağında gelişen, daha kalın ikinci atriyal septum.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Foramen ovale",
+      "text": "Foramen ovale\nFetüste sağdan sola akıma izin veren, septum primumun flap-kapak gibi örttüğü atriyal açıklık.",
+      "images": [],
+      "card": {
+        "id": "PER245-1cxr8m6",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Foramen ovale",
+        "en": "Foramen ovale",
+        "definition": "Fetüste sağdan sola akıma izin veren, septum primumun flap-kapak gibi örttüğü atriyal açıklık.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Endokardiyal yastık",
+      "text": "Endocardial cushion\nAV kanalı bölen ve septumlara katılan mezenkimal kabartılar.",
+      "images": [],
+      "card": {
+        "id": "PER245-1mqrmv3",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 3,
+        "term": "Endokardiyal yastık",
+        "en": "Endocardial cushion",
+        "definition": "AV kanalı bölen ve septumlara katılan mezenkimal kabartılar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Aortik (faringeal) ark arterleri",
+      "text": "Aortic arch arteries\nEmbriyonik yutak arklarında oluşan ve yeniden şekillenerek büyük arterlerin bölümlerine katkıda bulunan damar çiftleri.",
+      "images": [],
+      "card": {
+        "id": "PER245-1xyyayp",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Aortik (faringeal) ark arterleri",
+        "en": "Aortic arch arteries",
+        "definition": "Embriyonik yutak arklarında oluşan ve yeniden şekillenerek büyük arterlerin bölümlerine katkıda bulunan damar çiftleri.",
+        "source": "Aortik arklar, eğitim kaynağı"
+      }
+    },
+    {
+      "title": "Duktus arteriyozus",
+      "text": "Ductus arteriosus\nFetüste pulmoner arteri inen aortaya bağlayan damar (sol 6. ark).",
+      "images": [],
+      "card": {
+        "id": "PER245-0gxowb4",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Duktus arteriyozus",
+        "en": "Ductus arteriosus",
+        "definition": "Fetüste pulmoner arteri inen aortaya bağlayan damar (sol 6. ark).",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Duktus venozus",
+      "text": "Ductus venosus\nUmbilikal ven kanının bir kısmını karaciğeri atlatarak VCI'ya ileten fetal şant.",
+      "images": [],
+      "card": {
+        "id": "PER245-0py5cdp",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 3,
+        "term": "Duktus venozus",
+        "en": "Ductus venosus",
+        "definition": "Umbilikal ven kanının bir kısmını karaciğeri atlatarak VCI'ya ileten fetal şant.",
+        "source": "GLOWM Fetal dolaşım"
+      }
+    },
+    {
+      "title": "Prostaglandin E1",
+      "text": "Prostaglandin E1 (alprostadil)\nDuktus arteriyozusun kapanmasını geciktirmek için kullanılan prostaglandin ilacı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ibay7t",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Prostaglandin E1",
+        "en": "Prostaglandin E1 (alprostadil)",
+        "definition": "Duktus arteriyozusun kapanmasını geciktirmek için kullanılan prostaglandin ilacı.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kalp tüpünün duvarı",
+      "text": "Primitif kalp tüpünde içte endotel, dışta miyokard ve aralarında hücresiz kardiyak jel bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER245-0zxtu06",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kalp tüpünün duvarı",
+        "body": "Primitif kalp tüpünde içte endotel, dışta miyokard ve aralarında hücresiz kardiyak jel bulunur.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kalbin ilk kasılması",
+      "text": "UMN atlası, primitif kalp tüpünün yaklaşık 22. günde peristaltik dalgalarla atmaya başladığını belirtir.",
+      "images": [],
+      "card": {
+        "id": "PER245-10h4opn",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kalbin ilk kasılması",
+        "body": "UMN atlası, primitif kalp tüpünün yaklaşık 22. günde peristaltik dalgalarla atmaya başladığını belirtir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Konotrunkal ayrılma",
+      "text": "Çıkış yolunun aort ve pulmoner gövdeye ayrılmasında nöral krest hücreleri rol oynar; bu sürecin bozulması konotrunkal anomalilerle ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-05k8nrs",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Konotrunkal ayrılma",
+        "body": "Çıkış yolunun aort ve pulmoner gövdeye ayrılmasında nöral krest hücreleri rol oynar; bu sürecin bozulması konotrunkal anomalilerle ilişkilidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Doğumda basınç geçişi",
+      "text": "Akciğer kan akımı arttığında sol atriyum basıncı yükselir ve foramen ovalenin flap'i septuma bastırılır; fonksiyonel kapanma böyle başlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-0cw9g9x",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Doğumda basınç geçişi",
+        "body": "Akciğer kan akımı arttığında sol atriyum basıncı yükselir ve foramen ovalenin flap'i septuma bastırılır; fonksiyonel kapanma böyle başlar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fetal kalıntılar",
+      "text": "Kapanmış duktus arteriyozus ligamentum arteriosuma; umbilikal ven ligamentum teres hepatis'e dönüşür.",
+      "images": [],
+      "card": {
+        "id": "PER245-1ku7l1x",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Fetal kalıntılar",
+        "body": "Kapanmış duktus arteriyozus ligamentum arteriosuma; umbilikal ven ligamentum teres hepatis'e dönüşür.",
+        "source": "OpenStax ve UMN Embriyoloji"
+      }
+    },
+    {
+      "title": "Primitif ventrikül ve bulbus cordis hangi ventriküllere katkı sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1idj72m",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "flip",
+        "importance": 2,
+        "question": "Primitif ventrikül ve bulbus cordis hangi ventriküllere katkı sağlar?",
+        "answer": "Primitif ventrikül sol ventriküle; bulbus cordis sağ ventrikülün büyük bölümüne katkı sağlar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fetal umbilikal kanın karaciğeri kısmen atladığı yol hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-15yhth4",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "flip",
+        "importance": 2,
+        "question": "Fetal umbilikal kanın karaciğeri kısmen atladığı yol hangisidir?",
+        "answer": "Duktus venozus, umbilikal ven kanının bir bölümünü inferior vena kavaya iletir.",
+        "source": "GLOWM Fetal dolaşım"
+      }
+    },
+    {
+      "title": "Duktusa bağımlı konjenital lezyonlarda PGE1'in eğitimde vurgulanan rolü nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0st6sqa",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "flip",
+        "importance": 2,
+        "question": "Duktusa bağımlı konjenital lezyonlarda PGE1'in eğitimde vurgulanan rolü nedir?",
+        "answer": "Duktus arteriyozusun açık kalmasını sağlayarak gereken pulmoner veya sistemik kan akımını desteklemek.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fetal üç bağlantı",
+      "text": "Fetal dolaşımın üç şantı **duktus venozus, foramen ovale ve duktus arteriyozustur**; birbirinin yerine kullanılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-1ckmmes",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "remember",
+        "importance": 3,
+        "title": "Fetal üç bağlantı",
+        "body": "Fetal dolaşımın üç şantı **duktus venozus, foramen ovale ve duktus arteriyozustur**; birbirinin yerine kullanılmaz.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Septum primumun üst kısmındaki açıklık hangi adla anılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0zid8g1",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Septum primumun üst kısmındaki açıklık hangi adla anılır?",
+        "options": [
+          "Ostium sekundum",
+          "Ostium primum",
+          "Foramen ovale",
+          "Sinüs venozus"
+        ],
+        "correct": 0,
+        "explanation": "Ostium sekundum septum primumun üst bölümünde oluşur; ostium primum alt kenarda kalır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fetüste sağ atriyumdan sol atriyuma geçişi hangi bağlantı sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1epwyus",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Fetüste sağ atriyumdan sol atriyuma geçişi hangi bağlantı sağlar?",
+        "options": [
+          "Umbilikal arter",
+          "Foramen ovale",
+          "Duktus arteriyozus",
+          "Duktus venozus"
+        ],
+        "correct": 1,
+        "explanation": "Foramen ovale atriyal geçiştir; duktus arteriyozus pulmoner arter ile aorta arasındadır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Embriyolojik truncus arteriosus hangi yapılara ayrılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0ahjply",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Embriyolojik truncus arteriosus hangi yapılara ayrılır?",
+        "options": [
+          "Sağ ve sol ventrikül",
+          "Üst ve alt vena kava",
+          "Çıkan aorta ve pulmoner gövde",
+          "Sağ ve sol atriyum"
+        ],
+        "correct": 2,
+        "explanation": "Truncus arteriosus çıkış yolunda aort ve pulmoner gövdeye katkı sağlar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "AV endokardiyal yastıkların birleşme kusuru hangi lezyon spektrumuyla ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0q829iz",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "mcq",
+        "importance": 2,
+        "question": "AV endokardiyal yastıkların birleşme kusuru hangi lezyon spektrumuyla ilişkilidir?",
+        "options": [
+          "İzole sekundum ASD",
+          "Konotrunkal çıkış anomalisi",
+          "İzole valvüler aort darlığı",
+          "AVSD"
+        ],
+        "correct": 3,
+        "explanation": "Endokardiyal yastıklar AV septum ve kapak gelişimine katılır; kusurları AVSD spektrumuna yol açar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fetal dolaşımda oksijenlenmiş kan plasentadan umbilikal venle gelir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0ez3pd0",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Fetal dolaşımda oksijenlenmiş kan plasentadan umbilikal venle gelir.",
+        "isTrue": true,
+        "explanation": "Fetüsün gaz değişimi plasentadadır; umbilikal ven bu kanı fetüse taşır.",
+        "source": "OpenStax ve UMN Embriyoloji"
+      }
+    },
+    {
+      "title": "Ligamentum arteriosum, duktus venozusun kapanmasıyla oluşur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-06reuiv",
+        "course": "PER245",
+        "topic": "Embriyoloji ve fetal dolaşım",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Ligamentum arteriosum, duktus venozusun kapanmasıyla oluşur.",
+        "isTrue": false,
+        "explanation": "Ligamentum arteriosum duktus arteriyozusun kalıntısıdır; duktus venozusun kalıntısı ligamentum venosumdur.",
+        "source": "OpenStax ve UMN Embriyoloji"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-17jvyq7",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Kalp tüpü",
+      "en": "Heart tube",
+      "definition": "Embriyonik endokardiyal tüplerin orta hatta birleşmesiyle oluşan, gelişen kalbin ilk tübüler yapısı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-14pr08z",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyak looping",
+      "en": "Cardiac looping",
+      "definition": "Kalp tüpünün kıvrılıp dönerek gelecekteki kalp odacıklarının uzamsal yerleşimini oluşturması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1qkcds6",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 3,
+      "term": "Sinus venosus",
+      "en": "Sinus venosus",
+      "definition": "Kalp tüpünün kaudal segmenti; sağ atriyumun düz kısmını, SA düğümü ve koroner sinüsü oluşturur.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "id": "PER245-0v5uph2",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 1,
+      "term": "Bulbus cordis",
+      "en": "Bulbus cordis",
+      "definition": "Primitif kalp tüpü segmenti; sağ ventrikülü oluşturur.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "id": "PER245-1pg2m2p",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Truncus arteriosus (embriyolojik)",
+      "en": "Truncus arteriosus",
+      "definition": "Kalp tüpünün kraniyal segmenti; çıkan aorta ve truncus pulmonalise ayrılır.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "id": "PER245-1wqkapr",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Septum primum",
+      "en": "Septum primum",
+      "definition": "Ortak atriyumdan atriyoventriküler kanala doğru büyüyen ilk ince atriyal septum.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0adp07c",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 3,
+      "term": "Ostium primum",
+      "en": "Ostium primum",
+      "definition": "Septum primumun alt kenarı ile AV bölge arasında kalan ilk açıklık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1nd6bs2",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Ostium sekundum",
+      "en": "Ostium secundum",
+      "definition": "Septum primumun üst kısmında programlı hücre ölümüyle oluşan ikinci açıklık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1vkri9l",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 1,
+      "term": "Septum sekundum",
+      "en": "Septum secundum",
+      "definition": "Septum primumun sağında gelişen, daha kalın ikinci atriyal septum.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1cxr8m6",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Foramen ovale",
+      "en": "Foramen ovale",
+      "definition": "Fetüste sağdan sola akıma izin veren, septum primumun flap-kapak gibi örttüğü atriyal açıklık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1mqrmv3",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 3,
+      "term": "Endokardiyal yastık",
+      "en": "Endocardial cushion",
+      "definition": "AV kanalı bölen ve septumlara katılan mezenkimal kabartılar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1xyyayp",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Aortik (faringeal) ark arterleri",
+      "en": "Aortic arch arteries",
+      "definition": "Embriyonik yutak arklarında oluşan ve yeniden şekillenerek büyük arterlerin bölümlerine katkıda bulunan damar çiftleri.",
+      "source": "Aortik arklar, eğitim kaynağı"
+    },
+    {
+      "id": "PER245-0gxowb4",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Duktus arteriyozus",
+      "en": "Ductus arteriosus",
+      "definition": "Fetüste pulmoner arteri inen aortaya bağlayan damar (sol 6. ark).",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0py5cdp",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 3,
+      "term": "Duktus venozus",
+      "en": "Ductus venosus",
+      "definition": "Umbilikal ven kanının bir kısmını karaciğeri atlatarak VCI'ya ileten fetal şant.",
+      "source": "GLOWM Fetal dolaşım"
+    },
+    {
+      "id": "PER245-0ibay7t",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Prostaglandin E1",
+      "en": "Prostaglandin E1 (alprostadil)",
+      "definition": "Duktus arteriyozusun kapanmasını geciktirmek için kullanılan prostaglandin ilacı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0zxtu06",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalp tüpünün duvarı",
+      "body": "Primitif kalp tüpünde içte endotel, dışta miyokard ve aralarında hücresiz kardiyak jel bulunur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-10h4opn",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalbin ilk kasılması",
+      "body": "UMN atlası, primitif kalp tüpünün yaklaşık 22. günde peristaltik dalgalarla atmaya başladığını belirtir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-05k8nrs",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Konotrunkal ayrılma",
+      "body": "Çıkış yolunun aort ve pulmoner gövdeye ayrılmasında nöral krest hücreleri rol oynar; bu sürecin bozulması konotrunkal anomalilerle ilişkilidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0cw9g9x",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Doğumda basınç geçişi",
+      "body": "Akciğer kan akımı arttığında sol atriyum basıncı yükselir ve foramen ovalenin flap'i septuma bastırılır; fonksiyonel kapanma böyle başlar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1ku7l1x",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Fetal kalıntılar",
+      "body": "Kapanmış duktus arteriyozus ligamentum arteriosuma; umbilikal ven ligamentum teres hepatis'e dönüşür.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "id": "PER245-1idj72m",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "flip",
+      "importance": 2,
+      "question": "Primitif ventrikül ve bulbus cordis hangi ventriküllere katkı sağlar?",
+      "answer": "Primitif ventrikül sol ventriküle; bulbus cordis sağ ventrikülün büyük bölümüne katkı sağlar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-15yhth4",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "flip",
+      "importance": 2,
+      "question": "Fetal umbilikal kanın karaciğeri kısmen atladığı yol hangisidir?",
+      "answer": "Duktus venozus, umbilikal ven kanının bir bölümünü inferior vena kavaya iletir.",
+      "source": "GLOWM Fetal dolaşım"
+    },
+    {
+      "id": "PER245-0st6sqa",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "flip",
+      "importance": 2,
+      "question": "Duktusa bağımlı konjenital lezyonlarda PGE1'in eğitimde vurgulanan rolü nedir?",
+      "answer": "Duktus arteriyozusun açık kalmasını sağlayarak gereken pulmoner veya sistemik kan akımını desteklemek.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1ckmmes",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "remember",
+      "importance": 3,
+      "title": "Fetal üç bağlantı",
+      "body": "Fetal dolaşımın üç şantı **duktus venozus, foramen ovale ve duktus arteriyozustur**; birbirinin yerine kullanılmaz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0zid8g1",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Septum primumun üst kısmındaki açıklık hangi adla anılır?",
+      "options": [
+        "Ostium sekundum",
+        "Ostium primum",
+        "Foramen ovale",
+        "Sinüs venozus"
+      ],
+      "correct": 0,
+      "explanation": "Ostium sekundum septum primumun üst bölümünde oluşur; ostium primum alt kenarda kalır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1epwyus",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fetüste sağ atriyumdan sol atriyuma geçişi hangi bağlantı sağlar?",
+      "options": [
+        "Umbilikal arter",
+        "Foramen ovale",
+        "Duktus arteriyozus",
+        "Duktus venozus"
+      ],
+      "correct": 1,
+      "explanation": "Foramen ovale atriyal geçiştir; duktus arteriyozus pulmoner arter ile aorta arasındadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ahjply",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Embriyolojik truncus arteriosus hangi yapılara ayrılır?",
+      "options": [
+        "Sağ ve sol ventrikül",
+        "Üst ve alt vena kava",
+        "Çıkan aorta ve pulmoner gövde",
+        "Sağ ve sol atriyum"
+      ],
+      "correct": 2,
+      "explanation": "Truncus arteriosus çıkış yolunda aort ve pulmoner gövdeye katkı sağlar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0q829iz",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "mcq",
+      "importance": 2,
+      "question": "AV endokardiyal yastıkların birleşme kusuru hangi lezyon spektrumuyla ilişkilidir?",
+      "options": [
+        "İzole sekundum ASD",
+        "Konotrunkal çıkış anomalisi",
+        "İzole valvüler aort darlığı",
+        "AVSD"
+      ],
+      "correct": 3,
+      "explanation": "Endokardiyal yastıklar AV septum ve kapak gelişimine katılır; kusurları AVSD spektrumuna yol açar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ez3pd0",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fetal dolaşımda oksijenlenmiş kan plasentadan umbilikal venle gelir.",
+      "isTrue": true,
+      "explanation": "Fetüsün gaz değişimi plasentadadır; umbilikal ven bu kanı fetüse taşır.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    },
+    {
+      "id": "PER245-06reuiv",
+      "course": "PER245",
+      "topic": "Embriyoloji ve fetal dolaşım",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ligamentum arteriosum, duktus venozusun kapanmasıyla oluşur.",
+      "isTrue": false,
+      "explanation": "Ligamentum arteriosum duktus arteriyozusun kalıntısıdır; duktus venozusun kalıntısı ligamentum venosumdur.",
+      "source": "OpenStax ve UMN Embriyoloji"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

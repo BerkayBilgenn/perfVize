@@ -1,0 +1,563 @@
+{
+  "id": "review-daea64b2970e4b52",
+  "title": "Isıya duyarlı ve tek kullanımlık malzemeler",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "İmplante edilebilir cihaz",
+      "text": "Implantable device\nVücut boşluğuna yerleştirilip **30 gün veya daha uzun** kalması amaçlanan cihaz; CDC sözlüğündeki FDA tanımı.",
+      "images": [],
+      "card": {
+        "id": "PER247-0tpej9j",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "İmplante edilebilir cihaz",
+        "definition": "Vücut boşluğuna yerleştirilip **30 gün veya daha uzun** kalması amaçlanan cihaz; CDC sözlüğündeki FDA tanımı.",
+        "en": "Implantable device"
+      }
+    },
+    {
+      "title": "Tek kullanımlık cihaz",
+      "text": "Single-use device\nTek kullanım için etiketlenmiş cihaz; yeniden kullanımı tartışmalı.",
+      "images": [],
+      "card": {
+        "id": "PER247-1qmltif",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Tek kullanımlık cihaz",
+        "definition": "Tek kullanım için etiketlenmiş cihaz; yeniden kullanımı tartışmalı.",
+        "en": "Single-use device"
+      }
+    },
+    {
+      "title": "H2O2 plazma ve VHP",
+      "text": "H2O2 gaz plazma\nGazın enerjiyle uyarılması ve plazma aşaması vardır\nDüşük sıcaklık ve vakumlu işlem kullanılır\n\nBuharlaştırılmış H2O2\nBuharlaştırılmış ajanla çalışır, plazma adıyla eş tutulmaz\nNaylon kırılganlaşması gibi materyal etkileri değerlendirilir",
+      "images": [],
+      "card": {
+        "id": "PER247-1b3bzbm",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "compare",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "H2O2 plazma ve VHP",
+        "left": {
+          "title": "H2O2 gaz plazma",
+          "points": [
+            "Gazın enerjiyle uyarılması ve plazma aşaması vardır",
+            "Düşük sıcaklık ve vakumlu işlem kullanılır"
+          ]
+        },
+        "right": {
+          "title": "Buharlaştırılmış H2O2",
+          "points": [
+            "Buharlaştırılmış ajanla çalışır, plazma adıyla eş tutulmaz",
+            "Naylon kırılganlaşması gibi materyal etkileri değerlendirilir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Malzemeye göre yöntem seçimi",
+      "text": "Isıya dayanıklı kritik cihazda buhar tercih edilir. **Isı/nem duyarlılığında** üreticiyle uyumlu düşük sıcaklık yöntemi seçilir; her plastik için aynı yöntem uygun değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1olzr7g",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "fact",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Malzemeye göre yöntem seçimi",
+        "body": "Isıya dayanıklı kritik cihazda buhar tercih edilir. **Isı/nem duyarlılığında** üreticiyle uyumlu düşük sıcaklık yöntemi seçilir; her plastik için aynı yöntem uygun değildir."
+      }
+    },
+    {
+      "title": "Lümenin sınırları",
+      "text": "H2O2 gaz plazmada uzun ve dar lümenlerin işlenmesi **üreticinin çap-uzunluk sınırlarına** bağlıdır. Dış yüzeyin işlenmesi kanal içine yeterli sterilan ulaştığını kanıtlamaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-14cfxyw",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Lümenin sınırları",
+        "body": "H2O2 gaz plazmada uzun ve dar lümenlerin işlenmesi **üreticinin çap-uzunluk sınırlarına** bağlıdır. Dış yüzeyin işlenmesi kanal içine yeterli sterilan ulaştığını kanıtlamaz."
+      }
+    },
+    {
+      "title": "VHP ve naylon",
+      "text": "CDC, buharlaştırılmış hidrojen peroksitin **naylonu kırılganlaştırabileceğini** belirtir. Düşük sıcaklıkta işlem, otomatik olarak tam materyal uyumu demek değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0gqro6w",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "VHP ve naylon",
+        "body": "CDC, buharlaştırılmış hidrojen peroksitin **naylonu kırılganlaştırabileceğini** belirtir. Düşük sıcaklıkta işlem, otomatik olarak tam materyal uyumu demek değildir."
+      }
+    },
+    {
+      "title": "Polietilende radyasyon etkisi",
+      "text": "İyonize radyasyon **polietilende oksidasyon** oluşturabilir. CDC’de polietilen protez yataklarında delaminasyon ve çatlama gibi materyal etkileri anlatılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1f615yr",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Polietilende radyasyon etkisi",
+        "body": "İyonize radyasyon **polietilende oksidasyon** oluşturabilir. CDC’de polietilen protez yataklarında delaminasyon ve çatlama gibi materyal etkileri anlatılır."
+      }
+    },
+    {
+      "title": "Silikon kateter ve iyodofor",
+      "text": "CDC, **silikon kateterlerde iyodofor kullanımından kaçınılmasını** belirtir. Dezenfektan seçimi, mikrobiyal spektrum kadar materyal uyumunu da gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0kwamm4",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Silikon kateter ve iyodofor",
+        "body": "CDC, **silikon kateterlerde iyodofor kullanımından kaçınılmasını** belirtir. Dezenfektan seçimi, mikrobiyal spektrum kadar materyal uyumunu da gerektirir."
+      }
+    },
+    {
+      "title": "Düşük sıcaklık yönteminde malzeme uyumu neyi içerir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1v6qym8",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Düşük sıcaklık yönteminde malzeme uyumu neyi içerir?",
+        "answer": "Isı/nem toleransı yanında **sterilan, ambalaj, lümen ve işlem sonrası kalıntı** uyumu. Yalnız \"plastik\" adıyla bütün ürünlere ortak döngü seçilmez."
+      }
+    },
+    {
+      "title": "H2O2 gaz plazma cihazında nemli yük hangi sorunu doğurur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-06zz5cg",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "H2O2 gaz plazma cihazında nemli yük hangi sorunu doğurur?",
+        "answer": "Gerekli vakumun sağlanmasını engelleyerek **döngünün iptaline** yol açabilir. Düşük sıcaklık yöntemi öncesinde uygun kurutma gerekir."
+      }
+    },
+    {
+      "title": "Endüstriyel tek kullanımlık ürünlerde EtO niçin önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0rpl4sg",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "flip",
+        "importance": 2,
+        "source": "FDA Tıbbi cihaz sterilizasyonu",
+        "question": "Endüstriyel tek kullanımlık ürünlerde EtO niçin önemlidir?",
+        "answer": "Bazı polimerlerde, çok katlı ambalajlarda ve erişilmesi güç bölgelerde, **cihaza zarar vermeden penetrasyon** sağlayabilir. Belirli ürünün yöntemi etiket/talimattan öğrenilir."
+      }
+    },
+    {
+      "title": "Eldiven yeniden kullanılmaz",
+      "text": "Cerrahi ve muayene eldivenleri **tek kullanımlıktır**. Ameliyat sırasında alkolle temizleyerek yeniden kullanmak uygun yeniden işleme yöntemi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1nawfvq",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "remember",
+        "importance": 3,
+        "source": "WHO 2018",
+        "title": "Eldiven yeniden kullanılmaz",
+        "body": "Cerrahi ve muayene eldivenleri **tek kullanımlıktır**. Ameliyat sırasında alkolle temizleyerek yeniden kullanmak uygun yeniden işleme yöntemi değildir."
+      }
+    },
+    {
+      "title": "EtO’yu diğer düşük sıcaklık yöntemlerinden ayıran dezavantaj hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0p3jtue",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "EtO’yu diğer düşük sıcaklık yöntemlerinden ayıran dezavantaj hangisidir?",
+        "options": [
+          "Selüloz içeren tüm yükleri reddetmesi",
+          "Kalıntı yönetimi gerektirmemesi",
+          "Yalnız ısıya dayanıklı yağları işlemesi",
+          "Uzun işlem ve aerasyon süresi"
+        ],
+        "correct": 3,
+        "explanation": "EtO’nun **uzun döngüsü ve aerasyonu** sınırlılıktır; yöntem seçimi etkinlik, malzeme uyumu ve işleme süresini birlikte içerir."
+      }
+    },
+    {
+      "title": "CDC’de H2O2 plazmada sterilize edilmiş cihaz işlem sonrası nasıl sunulabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0wgkhd9",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "CDC’de H2O2 plazmada sterilize edilmiş cihaz işlem sonrası nasıl sunulabilir?",
+        "options": [
+          "Uygun ambalajıyla hemen kullanım veya depolama",
+          "Yalnız sekiz saat EtO aerasyonundan sonra",
+          "Yalnız sıvı perasetik asitle durulandıktan sonra",
+          "Yalnız ambalajı açılıp yeniden sarıldıktan sonra"
+        ],
+        "correct": 0,
+        "explanation": "Uyumlu ambalajlı H2O2 plazma cihazı **hemen kullanım veya depolama** için sunulabilir. İşleme yöntemi ve ambalaj koşulları korunur."
+      }
+    },
+    {
+      "title": "Steril tek kullanımlık cihazın yöntemini belirlemek için öncelikle neye bakılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1os8npb",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "FDA Tıbbi cihaz sterilizasyonu",
+        "question": "Steril tek kullanımlık cihazın yöntemini belirlemek için öncelikle neye bakılır?",
+        "options": [
+          "Aynı plastikten başka cihazın döngüsü",
+          "Ürün etiketi ve kullanım talimatı",
+          "Kurumdaki en kısa düşük ısı döngüsü",
+          "Aynı amaçlı yeniden kullanılabilir aletin döngüsü"
+        ],
+        "correct": 1,
+        "explanation": "Belirli ürüne ait sterilizasyon yöntemi **etiket/talimatta** doğrulanır; ürün grubu üzerinden tahmin edilmez."
+      }
+    },
+    {
+      "title": "Kullanılmış cerrahi eldivene uygun yaklaşım hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0jyrzx7",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO 2018",
+        "question": "Kullanılmış cerrahi eldivene uygun yaklaşım hangisidir?",
+        "options": [
+          "Alkolle silip yeniden giymek",
+          "Yıkayıp aynı ameliyatta giymek",
+          "Tek kullanımlık olarak atmak",
+          "Kurutup başka hastada giymek"
+        ],
+        "correct": 2,
+        "explanation": "Cerrahi eldivenler **tek kullanımlıktır**; alkolle dekontaminasyon yeniden kullanım sağlamaz."
+      }
+    },
+    {
+      "title": "Gaz plazmada uzun dar lümenler üreticinin çap-uzunluk sınırlarıyla değerlendirilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0ompilb",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Gaz plazmada uzun dar lümenler üreticinin çap-uzunluk sınırlarıyla değerlendirilir.",
+        "isTrue": true,
+        "explanation": "Genel yöntem adı tek başına lümen içinde yeterli sterilizasyonu garanti etmez."
+      }
+    },
+    {
+      "title": "Radyasyonun polietilene etkisi oksidasyon yerine sadece kurutmadır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-14y8mxw",
+        "course": "PER247",
+        "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Radyasyonun polietilene etkisi oksidasyon yerine sadece kurutmadır.",
+        "isTrue": false,
+        "explanation": "İyonize radyasyon **polietilende oksidasyon** oluşturabilir; çatlama/delaminasyon gibi materyal etkileri görülebilir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0tpej9j",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İmplante edilebilir cihaz",
+      "definition": "Vücut boşluğuna yerleştirilip **30 gün veya daha uzun** kalması amaçlanan cihaz; CDC sözlüğündeki FDA tanımı.",
+      "en": "Implantable device"
+    },
+    {
+      "id": "PER247-1qmltif",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Tek kullanımlık cihaz",
+      "definition": "Tek kullanım için etiketlenmiş cihaz; yeniden kullanımı tartışmalı.",
+      "en": "Single-use device"
+    },
+    {
+      "id": "PER247-1b3bzbm",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "H2O2 plazma ve VHP",
+      "left": {
+        "title": "H2O2 gaz plazma",
+        "points": [
+          "Gazın enerjiyle uyarılması ve plazma aşaması vardır",
+          "Düşük sıcaklık ve vakumlu işlem kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Buharlaştırılmış H2O2",
+        "points": [
+          "Buharlaştırılmış ajanla çalışır, plazma adıyla eş tutulmaz",
+          "Naylon kırılganlaşması gibi materyal etkileri değerlendirilir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1olzr7g",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Malzemeye göre yöntem seçimi",
+      "body": "Isıya dayanıklı kritik cihazda buhar tercih edilir. **Isı/nem duyarlılığında** üreticiyle uyumlu düşük sıcaklık yöntemi seçilir; her plastik için aynı yöntem uygun değildir."
+    },
+    {
+      "id": "PER247-14cfxyw",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Lümenin sınırları",
+      "body": "H2O2 gaz plazmada uzun ve dar lümenlerin işlenmesi **üreticinin çap-uzunluk sınırlarına** bağlıdır. Dış yüzeyin işlenmesi kanal içine yeterli sterilan ulaştığını kanıtlamaz."
+    },
+    {
+      "id": "PER247-0gqro6w",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "VHP ve naylon",
+      "body": "CDC, buharlaştırılmış hidrojen peroksitin **naylonu kırılganlaştırabileceğini** belirtir. Düşük sıcaklıkta işlem, otomatik olarak tam materyal uyumu demek değildir."
+    },
+    {
+      "id": "PER247-1f615yr",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Polietilende radyasyon etkisi",
+      "body": "İyonize radyasyon **polietilende oksidasyon** oluşturabilir. CDC’de polietilen protez yataklarında delaminasyon ve çatlama gibi materyal etkileri anlatılır."
+    },
+    {
+      "id": "PER247-0kwamm4",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Silikon kateter ve iyodofor",
+      "body": "CDC, **silikon kateterlerde iyodofor kullanımından kaçınılmasını** belirtir. Dezenfektan seçimi, mikrobiyal spektrum kadar materyal uyumunu da gerektirir."
+    },
+    {
+      "id": "PER247-1v6qym8",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Düşük sıcaklık yönteminde malzeme uyumu neyi içerir?",
+      "answer": "Isı/nem toleransı yanında **sterilan, ambalaj, lümen ve işlem sonrası kalıntı** uyumu. Yalnız \"plastik\" adıyla bütün ürünlere ortak döngü seçilmez."
+    },
+    {
+      "id": "PER247-06zz5cg",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "H2O2 gaz plazma cihazında nemli yük hangi sorunu doğurur?",
+      "answer": "Gerekli vakumun sağlanmasını engelleyerek **döngünün iptaline** yol açabilir. Düşük sıcaklık yöntemi öncesinde uygun kurutma gerekir."
+    },
+    {
+      "id": "PER247-0rpl4sg",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "flip",
+      "importance": 2,
+      "source": "FDA Tıbbi cihaz sterilizasyonu",
+      "question": "Endüstriyel tek kullanımlık ürünlerde EtO niçin önemlidir?",
+      "answer": "Bazı polimerlerde, çok katlı ambalajlarda ve erişilmesi güç bölgelerde, **cihaza zarar vermeden penetrasyon** sağlayabilir. Belirli ürünün yöntemi etiket/talimattan öğrenilir."
+    },
+    {
+      "id": "PER247-1nawfvq",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "remember",
+      "importance": 3,
+      "source": "WHO 2018",
+      "title": "Eldiven yeniden kullanılmaz",
+      "body": "Cerrahi ve muayene eldivenleri **tek kullanımlıktır**. Ameliyat sırasında alkolle temizleyerek yeniden kullanmak uygun yeniden işleme yöntemi değildir."
+    },
+    {
+      "id": "PER247-0p3jtue",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "EtO’yu diğer düşük sıcaklık yöntemlerinden ayıran dezavantaj hangisidir?",
+      "options": [
+        "Selüloz içeren tüm yükleri reddetmesi",
+        "Kalıntı yönetimi gerektirmemesi",
+        "Yalnız ısıya dayanıklı yağları işlemesi",
+        "Uzun işlem ve aerasyon süresi"
+      ],
+      "correct": 3,
+      "explanation": "EtO’nun **uzun döngüsü ve aerasyonu** sınırlılıktır; yöntem seçimi etkinlik, malzeme uyumu ve işleme süresini birlikte içerir."
+    },
+    {
+      "id": "PER247-0wgkhd9",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "CDC’de H2O2 plazmada sterilize edilmiş cihaz işlem sonrası nasıl sunulabilir?",
+      "options": [
+        "Uygun ambalajıyla hemen kullanım veya depolama",
+        "Yalnız sekiz saat EtO aerasyonundan sonra",
+        "Yalnız sıvı perasetik asitle durulandıktan sonra",
+        "Yalnız ambalajı açılıp yeniden sarıldıktan sonra"
+      ],
+      "correct": 0,
+      "explanation": "Uyumlu ambalajlı H2O2 plazma cihazı **hemen kullanım veya depolama** için sunulabilir. İşleme yöntemi ve ambalaj koşulları korunur."
+    },
+    {
+      "id": "PER247-1os8npb",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "FDA Tıbbi cihaz sterilizasyonu",
+      "question": "Steril tek kullanımlık cihazın yöntemini belirlemek için öncelikle neye bakılır?",
+      "options": [
+        "Aynı plastikten başka cihazın döngüsü",
+        "Ürün etiketi ve kullanım talimatı",
+        "Kurumdaki en kısa düşük ısı döngüsü",
+        "Aynı amaçlı yeniden kullanılabilir aletin döngüsü"
+      ],
+      "correct": 1,
+      "explanation": "Belirli ürüne ait sterilizasyon yöntemi **etiket/talimatta** doğrulanır; ürün grubu üzerinden tahmin edilmez."
+    },
+    {
+      "id": "PER247-0jyrzx7",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Kullanılmış cerrahi eldivene uygun yaklaşım hangisidir?",
+      "options": [
+        "Alkolle silip yeniden giymek",
+        "Yıkayıp aynı ameliyatta giymek",
+        "Tek kullanımlık olarak atmak",
+        "Kurutup başka hastada giymek"
+      ],
+      "correct": 2,
+      "explanation": "Cerrahi eldivenler **tek kullanımlıktır**; alkolle dekontaminasyon yeniden kullanım sağlamaz."
+    },
+    {
+      "id": "PER247-0ompilb",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Gaz plazmada uzun dar lümenler üreticinin çap-uzunluk sınırlarıyla değerlendirilir.",
+      "isTrue": true,
+      "explanation": "Genel yöntem adı tek başına lümen içinde yeterli sterilizasyonu garanti etmez."
+    },
+    {
+      "id": "PER247-14y8mxw",
+      "course": "PER247",
+      "topic": "Isıya duyarlı ve tek kullanımlık malzemeler",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Radyasyonun polietilene etkisi oksidasyon yerine sadece kurutmadır.",
+      "isTrue": false,
+      "explanation": "İyonize radyasyon **polietilende oksidasyon** oluşturabilir; çatlama/delaminasyon gibi materyal etkileri görülebilir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

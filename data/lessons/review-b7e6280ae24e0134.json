@@ -1,0 +1,958 @@
+{
+  "id": "review-b7e6280ae24e0134",
+  "title": "Kardiyak cerrahide monitörizasyon",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "İnvaziv arter basıncı",
+      "text": "Invasive arterial pressure\nArter kateteriyle atım atım basınç izlemi ve kan gazı örneklemesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1pwyfur",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "İnvaziv arter basıncı",
+        "en": "Invasive arterial pressure",
+        "definition": "Arter kateteriyle atım atım basınç izlemi ve kan gazı örneklemesi.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Allen testi",
+      "text": "Allen test\nRadial ve ulnar arterin oluşturduğu palmar ark yoluyla el kollateral dolaşımını değerlendiren test.",
+      "images": [],
+      "card": {
+        "id": "PER243-0qcu7ww",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Allen testi",
+        "en": "Allen test",
+        "definition": "Radial ve ulnar arterin oluşturduğu palmar ark yoluyla el kollateral dolaşımını değerlendiren test.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Santral venöz basınç",
+      "text": "Central venous pressure\nSağ atriyum basıncını yansıtan merkezi venöz basınç ölçümü.",
+      "images": [],
+      "card": {
+        "id": "PER243-030l76z",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Santral venöz basınç",
+        "en": "Central venous pressure",
+        "definition": "Sağ atriyum basıncını yansıtan merkezi venöz basınç ölçümü.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Pulmoner arter kateteri",
+      "text": "Pulmonary artery catheter (Swan-Ganz)\nSağ kalp ve pulmoner arter basınçlarını, PCWP'yi, termodilüsyonla debiyi ve SvO2'yi ölçen balon uçlu kateter.",
+      "images": [],
+      "card": {
+        "id": "PER243-086wnvm",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Pulmoner arter kateteri",
+        "en": "Pulmonary artery catheter (Swan-Ganz)",
+        "definition": "Sağ kalp ve pulmoner arter basınçlarını, PCWP'yi, termodilüsyonla debiyi ve SvO2'yi ölçen balon uçlu kateter.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "PCWP",
+      "text": "Pulmonary capillary wedge pressure\nPulmoner arter dalı balonla tıkandığında ölçülen, sol atriyum basıncının dolaylı tahminini sağlayan kama basıncı.",
+      "images": [],
+      "card": {
+        "id": "PER243-0whz03z",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "PCWP",
+        "en": "Pulmonary capillary wedge pressure",
+        "definition": "Pulmoner arter dalı balonla tıkandığında ölçülen, sol atriyum basıncının dolaylı tahminini sağlayan kama basıncı.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Termodilüsyon",
+      "text": "Thermodilution\nKan sıcaklığındaki değişimden kalp debisini hesaplama yöntemi (PAK ile).",
+      "images": [],
+      "card": {
+        "id": "PER243-067l36u",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Termodilüsyon",
+        "en": "Thermodilution",
+        "definition": "Kan sıcaklığındaki değişimden kalp debisini hesaplama yöntemi (PAK ile).",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "SvO2",
+      "text": "Mixed venous O2 saturation\nPulmoner arterdeki karışık venöz kanın oksijen satürasyonu; oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0lwnsx9",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "SvO2",
+        "en": "Mixed venous O2 saturation",
+        "definition": "Pulmoner arterdeki karışık venöz kanın oksijen satürasyonu; oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Oksijen sunumu",
+      "text": "Oxygen delivery\nDokulara dakikada taşınan oksijen miktarı; arteriyel oksijen içeriği ve kan akımıyla belirlenir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0b63frb",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Oksijen sunumu",
+        "en": "Oxygen delivery",
+        "definition": "Dokulara dakikada taşınan oksijen miktarı; arteriyel oksijen içeriği ve kan akımıyla belirlenir.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "O2 ekstraksiyon oranı",
+      "text": "O2 extraction ratio\nArteriyel kanın taşıdığı oksijenin dokular tarafından kullanılan kısmının oranı.",
+      "images": [],
+      "card": {
+        "id": "PER243-068jd2y",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "O2 ekstraksiyon oranı",
+        "en": "O2 extraction ratio",
+        "definition": "Arteriyel kanın taşıdığı oksijenin dokular tarafından kullanılan kısmının oranı.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "TÖE",
+      "text": "Transesophageal echocardiography\nÖzofagustan yapılan ekokardiyografi; kapak, ventrikül fonksiyonu, kanül yeri, hava ve diseksiyon değerlendirmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-01z6a96",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "TÖE",
+        "en": "Transesophageal echocardiography",
+        "definition": "Özofagustan yapılan ekokardiyografi; kapak, ventrikül fonksiyonu, kanül yeri, hava ve diseksiyon değerlendirmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bispektral indeks",
+      "text": "Bispectral index\nElektroensefalografi sinyalinden türetilen, hipnoz derinliğini sayısal olarak değerlendiren işlenmiş indeks.",
+      "images": [],
+      "card": {
+        "id": "PER243-18io6wy",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Bispektral indeks",
+        "en": "Bispectral index",
+        "definition": "Elektroensefalografi sinyalinden türetilen, hipnoz derinliğini sayısal olarak değerlendiren işlenmiş indeks.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "NIRS",
+      "text": "Near-infrared spectroscopy\nYakın kızılötesi ışıkla bölgesel serebral doku oksijenasyonunun non-invaziv ölçümü.",
+      "images": [],
+      "card": {
+        "id": "PER243-01nxm37",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "NIRS",
+        "en": "Near-infrared spectroscopy",
+        "definition": "Yakın kızılötesi ışıkla bölgesel serebral doku oksijenasyonunun non-invaziv ölçümü.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Atriyum basınçları",
+      "text": "CVP\nSağ atriyum basıncını yansıtır\nSantral venöz kateterden ölçülür\n\nPCWP\nSol atriyum basıncını dolaylı yansıtır\nPulmoner arter kateterinde kama konumu gerekir",
+      "images": [],
+      "card": {
+        "id": "PER243-16t707r",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Atriyum basınçları",
+        "left": {
+          "title": "CVP",
+          "points": [
+            "Sağ atriyum basıncını yansıtır",
+            "Santral venöz kateterden ölçülür"
+          ]
+        },
+        "right": {
+          "title": "PCWP",
+          "points": [
+            "Sol atriyum basıncını dolaylı yansıtır",
+            "Pulmoner arter kateterinde kama konumu gerekir"
+          ]
+        },
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "KPB'de düşük radial ölçüm",
+      "text": "Kardiyopulmoner bypass sırasında beklenmedik düşük radial basınç, femoral/brakiyal hat ya da aort kökü ölçümüyle doğrulanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0hqh063",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "KPB'de düşük radial ölçüm",
+        "body": "Kardiyopulmoner bypass sırasında beklenmedik düşük radial basınç, femoral/brakiyal hat ya da aort kökü ölçümüyle doğrulanabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "PAK ilerletme sırası",
+      "text": "Pulmoner arter kateteri venöz yoldan **sağ atriyum → sağ ventrikül → pulmoner arter** sırasıyla ilerler; konum basınç dalga formuyla tanınır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0oqkkxm",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "PAK ilerletme sırası",
+        "body": "Pulmoner arter kateteri venöz yoldan **sağ atriyum → sağ ventrikül → pulmoner arter** sırasıyla ilerler; konum basınç dalga formuyla tanınır.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "TÖE ve hava boşaltma",
+      "text": "Transözofageal ekokardiyografi, kardiyopulmoner bypasstan ayrılmadan önce **rezidüel havayı** ve hava boşaltmanın yeterliliğini değerlendirmeye yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER243-0wfu7yv",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "TÖE ve hava boşaltma",
+        "body": "Transözofageal ekokardiyografi, kardiyopulmoner bypasstan ayrılmadan önce **rezidüel havayı** ve hava boşaltmanın yeterliliğini değerlendirmeye yardım eder.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hipotermi ve BİS",
+      "text": "Hipotermi bispektral indeksi düşürebilir. Bu nedenle düşük değerin yorumunda **sıcaklık** da dikkate alınır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0e7dr4u",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hipotermi ve BİS",
+        "body": "Hipotermi bispektral indeksi düşürebilir. Bu nedenle düşük değerin yorumunda **sıcaklık** da dikkate alınır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "NIRS düşüşünün değerlendirilmesi",
+      "text": "Serebral oksimetri düşüşü için kullanılan algoritmalar baş pozisyonu, perfüzyon basıncı, hematokrit ve arteriyel karbondioksiti değerlendirir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0b16dl6",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 1,
+        "title": "NIRS düşüşünün değerlendirilmesi",
+        "body": "Serebral oksimetri düşüşü için kullanılan algoritmalar baş pozisyonu, perfüzyon basıncı, hematokrit ve arteriyel karbondioksiti değerlendirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Isı ölçüm bölgesi",
+      "text": "Kardiyopulmoner bypassta **nazofarengeal ısı** yaygın izlenir; farklı ölçüm bölgeleri aynı hızda değişmeyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-15t42zp",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Isı ölçüm bölgesi",
+        "body": "Kardiyopulmoner bypassta **nazofarengeal ısı** yaygın izlenir; farklı ölçüm bölgeleri aynı hızda değişmeyebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Pulmoner arter kateteriyle debi hangi yöntemle ölçülebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0gq8ust",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Pulmoner arter kateteriyle debi hangi yöntemle ölçülebilir?",
+        "answer": "**Termodilüsyon** yöntemiyle kan sıcaklığındaki değişimden kalp debisi hesaplanabilir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Arter kateterinin başlıca yerel komplikasyonları nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-12xjq1t",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Arter kateterinin başlıca yerel komplikasyonları nelerdir?",
+        "answer": "**Enfeksiyon, tromboz ve iskemi** başlıca yerel komplikasyonlardır.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "TÖE kanülasyon sırasında hangi anatomik sorunu gösterebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0lilki5",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "TÖE kanülasyon sırasında hangi anatomik sorunu gösterebilir?",
+        "answer": "Kanülasyonu etkileyen **anatomik anomalileri** ve yanlış kanül yerleşimini gösterebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "NIRS bulgularının klinik sonuç kanıtında hangi sınır vardır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0zpqkxy",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "NIRS bulgularının klinik sonuç kanıtında hangi sınır vardır?",
+        "answer": "Serebral malperfüzyonu fark etmeye yardımcı olsa da ağır klinik sonuçları iyileştirdiğini gösteren **kanıt sınırlıdır**.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "TÖE'de özofagus güvenliği",
+      "text": "**Özofagus darlığı, fistül, travma veya özofagus cerrahisi** transözofageal ekokardiyografi için önemli kontrendikasyonlardır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0vf2gp8",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "TÖE'de özofagus güvenliği",
+        "body": "**Özofagus darlığı, fistül, travma veya özofagus cerrahisi** transözofageal ekokardiyografi için önemli kontrendikasyonlardır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Edwards: sağ ve sol doluş basıncı",
+      "text": "Edwards 2022 normal aralıkları: **santral venöz basınç 2–6 mmHg**, pulmoner kapiller kama basıncı **6–12 mmHg**. Bunlar klinik bağlamdan bağımsız tedavi hedefleri değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1y3a2u2",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Edwards: sağ ve sol doluş basıncı",
+        "body": "Edwards 2022 normal aralıkları: **santral venöz basınç 2–6 mmHg**, pulmoner kapiller kama basıncı **6–12 mmHg**. Bunlar klinik bağlamdan bağımsız tedavi hedefleri değildir.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Edwards: pulmoner arter basıncı",
+      "text": "Edwards 2022'de normal pulmoner arter basıncı **15–25/8–15 mmHg**, ortalama pulmoner arter basıncı **10–20 mmHg** olarak verilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1memyrr",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Edwards: pulmoner arter basıncı",
+        "body": "Edwards 2022'de normal pulmoner arter basıncı **15–25/8–15 mmHg**, ortalama pulmoner arter basıncı **10–20 mmHg** olarak verilir.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Edwards: oksijen sunumu",
+      "text": "Edwards 2022'de normal oksijen sunumu **950–1.150 mL/dk**, indekslenmiş sunum **500–600 mL/dk/m²** olarak verilir; dinlenim aralıkları KPB hedefi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ddiymo",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Edwards: oksijen sunumu",
+        "body": "Edwards 2022'de normal oksijen sunumu **950–1.150 mL/dk**, indekslenmiş sunum **500–600 mL/dk/m²** olarak verilir; dinlenim aralıkları KPB hedefi değildir.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Pulmoner arter kateterinden hangi oksijen satürasyonu örneklenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0ufmo78",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Pulmoner arter kateterinden hangi oksijen satürasyonu örneklenir?",
+        "options": [
+          "Arteriyel satürasyon",
+          "Karışık venöz satürasyon",
+          "Koroner sinüs satürasyonu",
+          "Bölgesel serebral satürasyon"
+        ],
+        "correct": 1,
+        "explanation": "Pulmoner arterdeki kan karışık venöz kanı temsil eder; SvO2 ölçülür.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Modifiye Allen testi neyi değerlendirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0i6yz8x",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Modifiye Allen testi neyi değerlendirir?",
+        "options": [
+          "Sol ventrikül kasılmasını",
+          "Pulmoner kapak açıklığını",
+          "Elin kollateral dolaşımını",
+          "Beynin elektriksel etkinliğini"
+        ],
+        "correct": 2,
+        "explanation": "Test radial-ulnar palmar ark yoluyla elin kollateral kan akımını değerlendirir.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Arter dalga formundan kalp debisi tahmin eden yöntem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-04f8any",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Arter dalga formundan kalp debisi tahmin eden yöntem hangisidir?",
+        "options": [
+          "Termodilüsyon",
+          "Kapnografi",
+          "Serebral oksimetri",
+          "Nabız kontur analizi"
+        ],
+        "correct": 3,
+        "explanation": "Nabız kontur analizi arter dalga formuna dayanır; kalp cerrahisinde rutin kullanımı önerilmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Güvenli KPB'de arteriyel pompa akımı hangi noktaya yakın ölçülmelidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1sqq3yt",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Güvenli KPB'de arteriyel pompa akımı hangi noktaya yakın ölçülmelidir?",
+        "options": [
+          "Hastaya yakın noktadan",
+          "Pompa başlığına yakın noktadan",
+          "Venöz rezervuar girişinden",
+          "Kardiyotomi dönüş hattından"
+        ],
+        "correct": 0,
+        "explanation": "2024 KPB kılavuzu pompa akımının hastaya yakın ölçülmesini önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "2024 KPB kılavuzunda pulmoner arter kateteri seçilmiş hastalarda kullanılabilir; rutin kullanım desteklenmez.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0t7fvpd",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "2024 KPB kılavuzunda pulmoner arter kateteri seçilmiş hastalarda kullanılabilir; rutin kullanım desteklenmez.",
+        "isTrue": true,
+        "explanation": "Rutin kullanım için yeterli randomize kanıt yoktur; seçilmiş hastalarda rolü bulunur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Serebral NIRS, bölgesel doku oksijenasyonunu invaziv arter kanülünden ölçer.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1ior367",
+        "course": "PER243",
+        "topic": "Kardiyak cerrahide monitörizasyon",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Serebral NIRS, bölgesel doku oksijenasyonunu invaziv arter kanülünden ölçer.",
+        "isTrue": false,
+        "explanation": "NIRS yakın kızılötesi ışıkla noninvaziv bölgesel doku oksijenasyonu değerlendirmesidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1pwyfur",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "İnvaziv arter basıncı",
+      "en": "Invasive arterial pressure",
+      "definition": "Arter kateteriyle atım atım basınç izlemi ve kan gazı örneklemesi.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-0qcu7ww",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Allen testi",
+      "en": "Allen test",
+      "definition": "Radial ve ulnar arterin oluşturduğu palmar ark yoluyla el kollateral dolaşımını değerlendiren test.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-030l76z",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Santral venöz basınç",
+      "en": "Central venous pressure",
+      "definition": "Sağ atriyum basıncını yansıtan merkezi venöz basınç ölçümü.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-086wnvm",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Pulmoner arter kateteri",
+      "en": "Pulmonary artery catheter (Swan-Ganz)",
+      "definition": "Sağ kalp ve pulmoner arter basınçlarını, PCWP'yi, termodilüsyonla debiyi ve SvO2'yi ölçen balon uçlu kateter.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0whz03z",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "PCWP",
+      "en": "Pulmonary capillary wedge pressure",
+      "definition": "Pulmoner arter dalı balonla tıkandığında ölçülen, sol atriyum basıncının dolaylı tahminini sağlayan kama basıncı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-067l36u",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Termodilüsyon",
+      "en": "Thermodilution",
+      "definition": "Kan sıcaklığındaki değişimden kalp debisini hesaplama yöntemi (PAK ile).",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0lwnsx9",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "SvO2",
+      "en": "Mixed venous O2 saturation",
+      "definition": "Pulmoner arterdeki karışık venöz kanın oksijen satürasyonu; oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-0b63frb",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen sunumu",
+      "en": "Oxygen delivery",
+      "definition": "Dokulara dakikada taşınan oksijen miktarı; arteriyel oksijen içeriği ve kan akımıyla belirlenir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-068jd2y",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "O2 ekstraksiyon oranı",
+      "en": "O2 extraction ratio",
+      "definition": "Arteriyel kanın taşıdığı oksijenin dokular tarafından kullanılan kısmının oranı.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-01z6a96",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "TÖE",
+      "en": "Transesophageal echocardiography",
+      "definition": "Özofagustan yapılan ekokardiyografi; kapak, ventrikül fonksiyonu, kanül yeri, hava ve diseksiyon değerlendirmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-18io6wy",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Bispektral indeks",
+      "en": "Bispectral index",
+      "definition": "Elektroensefalografi sinyalinden türetilen, hipnoz derinliğini sayısal olarak değerlendiren işlenmiş indeks.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-01nxm37",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Yakın kızılötesi ışıkla bölgesel serebral doku oksijenasyonunun non-invaziv ölçümü.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-16t707r",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Atriyum basınçları",
+      "left": {
+        "title": "CVP",
+        "points": [
+          "Sağ atriyum basıncını yansıtır",
+          "Santral venöz kateterden ölçülür"
+        ]
+      },
+      "right": {
+        "title": "PCWP",
+        "points": [
+          "Sol atriyum basıncını dolaylı yansıtır",
+          "Pulmoner arter kateterinde kama konumu gerekir"
+        ]
+      },
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0hqh063",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB'de düşük radial ölçüm",
+      "body": "Kardiyopulmoner bypass sırasında beklenmedik düşük radial basınç, femoral/brakiyal hat ya da aort kökü ölçümüyle doğrulanabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0oqkkxm",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "PAK ilerletme sırası",
+      "body": "Pulmoner arter kateteri venöz yoldan **sağ atriyum → sağ ventrikül → pulmoner arter** sırasıyla ilerler; konum basınç dalga formuyla tanınır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0wfu7yv",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "TÖE ve hava boşaltma",
+      "body": "Transözofageal ekokardiyografi, kardiyopulmoner bypasstan ayrılmadan önce **rezidüel havayı** ve hava boşaltmanın yeterliliğini değerlendirmeye yardım eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0e7dr4u",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hipotermi ve BİS",
+      "body": "Hipotermi bispektral indeksi düşürebilir. Bu nedenle düşük değerin yorumunda **sıcaklık** da dikkate alınır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0b16dl6",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 1,
+      "title": "NIRS düşüşünün değerlendirilmesi",
+      "body": "Serebral oksimetri düşüşü için kullanılan algoritmalar baş pozisyonu, perfüzyon basıncı, hematokrit ve arteriyel karbondioksiti değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-15t42zp",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Isı ölçüm bölgesi",
+      "body": "Kardiyopulmoner bypassta **nazofarengeal ısı** yaygın izlenir; farklı ölçüm bölgeleri aynı hızda değişmeyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0gq8ust",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Pulmoner arter kateteriyle debi hangi yöntemle ölçülebilir?",
+      "answer": "**Termodilüsyon** yöntemiyle kan sıcaklığındaki değişimden kalp debisi hesaplanabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-12xjq1t",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Arter kateterinin başlıca yerel komplikasyonları nelerdir?",
+      "answer": "**Enfeksiyon, tromboz ve iskemi** başlıca yerel komplikasyonlardır.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-0lilki5",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "TÖE kanülasyon sırasında hangi anatomik sorunu gösterebilir?",
+      "answer": "Kanülasyonu etkileyen **anatomik anomalileri** ve yanlış kanül yerleşimini gösterebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0zpqkxy",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "NIRS bulgularının klinik sonuç kanıtında hangi sınır vardır?",
+      "answer": "Serebral malperfüzyonu fark etmeye yardımcı olsa da ağır klinik sonuçları iyileştirdiğini gösteren **kanıt sınırlıdır**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0vf2gp8",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "TÖE'de özofagus güvenliği",
+      "body": "**Özofagus darlığı, fistül, travma veya özofagus cerrahisi** transözofageal ekokardiyografi için önemli kontrendikasyonlardır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1y3a2u2",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: sağ ve sol doluş basıncı",
+      "body": "Edwards 2022 normal aralıkları: **santral venöz basınç 2–6 mmHg**, pulmoner kapiller kama basıncı **6–12 mmHg**. Bunlar klinik bağlamdan bağımsız tedavi hedefleri değildir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-1memyrr",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: pulmoner arter basıncı",
+      "body": "Edwards 2022'de normal pulmoner arter basıncı **15–25/8–15 mmHg**, ortalama pulmoner arter basıncı **10–20 mmHg** olarak verilir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-1ddiymo",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: oksijen sunumu",
+      "body": "Edwards 2022'de normal oksijen sunumu **950–1.150 mL/dk**, indekslenmiş sunum **500–600 mL/dk/m²** olarak verilir; dinlenim aralıkları KPB hedefi değildir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-0ufmo78",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner arter kateterinden hangi oksijen satürasyonu örneklenir?",
+      "options": [
+        "Arteriyel satürasyon",
+        "Karışık venöz satürasyon",
+        "Koroner sinüs satürasyonu",
+        "Bölgesel serebral satürasyon"
+      ],
+      "correct": 1,
+      "explanation": "Pulmoner arterdeki kan karışık venöz kanı temsil eder; SvO2 ölçülür.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0i6yz8x",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Modifiye Allen testi neyi değerlendirir?",
+      "options": [
+        "Sol ventrikül kasılmasını",
+        "Pulmoner kapak açıklığını",
+        "Elin kollateral dolaşımını",
+        "Beynin elektriksel etkinliğini"
+      ],
+      "correct": 2,
+      "explanation": "Test radial-ulnar palmar ark yoluyla elin kollateral kan akımını değerlendirir.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-04f8any",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Arter dalga formundan kalp debisi tahmin eden yöntem hangisidir?",
+      "options": [
+        "Termodilüsyon",
+        "Kapnografi",
+        "Serebral oksimetri",
+        "Nabız kontur analizi"
+      ],
+      "correct": 3,
+      "explanation": "Nabız kontur analizi arter dalga formuna dayanır; kalp cerrahisinde rutin kullanımı önerilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1sqq3yt",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Güvenli KPB'de arteriyel pompa akımı hangi noktaya yakın ölçülmelidir?",
+      "options": [
+        "Hastaya yakın noktadan",
+        "Pompa başlığına yakın noktadan",
+        "Venöz rezervuar girişinden",
+        "Kardiyotomi dönüş hattından"
+      ],
+      "correct": 0,
+      "explanation": "2024 KPB kılavuzu pompa akımının hastaya yakın ölçülmesini önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0t7fvpd",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "2024 KPB kılavuzunda pulmoner arter kateteri seçilmiş hastalarda kullanılabilir; rutin kullanım desteklenmez.",
+      "isTrue": true,
+      "explanation": "Rutin kullanım için yeterli randomize kanıt yoktur; seçilmiş hastalarda rolü bulunur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1ior367",
+      "course": "PER243",
+      "topic": "Kardiyak cerrahide monitörizasyon",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Serebral NIRS, bölgesel doku oksijenasyonunu invaziv arter kanülünden ölçer.",
+      "isTrue": false,
+      "explanation": "NIRS yakın kızılötesi ışıkla noninvaziv bölgesel doku oksijenasyonu değerlendirmesidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

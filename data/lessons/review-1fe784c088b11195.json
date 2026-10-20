@@ -1,0 +1,1029 @@
+{
+  "id": "review-1fe784c088b11195",
+  "title": "Kardiyopleji ve miyokard koruma",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kardiyopleji",
+      "text": "Cardioplegia\nKalbi elektromekanik olarak durdurup koruyan solüsyon/yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER141-093uw2s",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyopleji",
+        "definition": "Kalbi elektromekanik olarak durdurup koruyan solüsyon/yöntem.",
+        "en": "Cardioplegia",
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "Aort kros klempi",
+      "text": "Aortic cross-clamp\nAort kanülü ile kalp arasında aortayı kapatan klemp; iskemi süresini başlatır.",
+      "images": [],
+      "card": {
+        "id": "PER141-13qdris",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Aort kros klempi",
+        "definition": "Aort kanülü ile kalp arasında aortayı kapatan klemp; iskemi süresini başlatır.",
+        "en": "Aortic cross-clamp",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Antegrad kardiyopleji",
+      "text": "Antegrade cardioplegia\nKlempin proksimalinden aort köküne veya ostiumlara normal yönde verilen kardiyopleji.",
+      "images": [],
+      "card": {
+        "id": "PER141-0sjg9x2",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Antegrad kardiyopleji",
+        "definition": "Klempin proksimalinden aort köküne veya ostiumlara normal yönde verilen kardiyopleji.",
+        "en": "Antegrade cardioplegia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Retrograd kardiyopleji",
+      "text": "Retrograde cardioplegia\nKoroner sinüse yerleştirilen balonlu kanülden venöz yolla ters yönde verilen kardiyopleji.",
+      "images": [],
+      "card": {
+        "id": "PER141-0w9e4ag",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Retrograd kardiyopleji",
+        "definition": "Koroner sinüse yerleştirilen balonlu kanülden venöz yolla ters yönde verilen kardiyopleji.",
+        "en": "Retrograde cardioplegia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ostial kardiyopleji",
+      "text": "Ostial (selective) cardioplegia\nAortotomi sonrası doğrudan koroner ostiumlara verilen kardiyopleji (ciddi aort yetmezliği).",
+      "images": [],
+      "card": {
+        "id": "PER141-13gtp5y",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Ostial kardiyopleji",
+        "definition": "Aortotomi sonrası doğrudan koroner ostiumlara verilen kardiyopleji (ciddi aort yetmezliği).",
+        "en": "Ostial (selective) cardioplegia",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kan kardiyoplejisi",
+      "text": "Blood cardioplegia\nOksijenli kan ile kristaloid solüsyonun karıştırılarak miyokard korumasında kullanılması.",
+      "images": [],
+      "card": {
+        "id": "PER141-1nffqi2",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Kan kardiyoplejisi",
+        "definition": "Oksijenli kan ile kristaloid solüsyonun karıştırılarak miyokard korumasında kullanılması.",
+        "en": "Blood cardioplegia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kristaloid kardiyopleji",
+      "text": "Crystalloid cardioplegia\nKan içermeyen kardiyopleji (HTK, St Thomas).",
+      "images": [],
+      "card": {
+        "id": "PER141-1j7724s",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Kristaloid kardiyopleji",
+        "definition": "Kan içermeyen kardiyopleji (HTK, St Thomas).",
+        "en": "Crystalloid cardioplegia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "del Nido kardiyoplejisi",
+      "text": "del Nido cardioplegia\nLidokain ve magnezyum içeren, kan ile kristaloidin karıştırıldığı tek doz kardiyopleji stratejisi.",
+      "images": [],
+      "card": {
+        "id": "PER141-12fu63n",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "del Nido kardiyoplejisi",
+        "definition": "Lidokain ve magnezyum içeren, kan ile kristaloidin karıştırıldığı tek doz kardiyopleji stratejisi.",
+        "en": "del Nido cardioplegia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HTK (Custodiol)",
+      "text": "Histidine–tryptophan–ketoglutarate\nHistidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji solüsyonu.",
+      "images": [],
+      "card": {
+        "id": "PER141-1x5igcl",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "HTK (Custodiol)",
+        "definition": "Histidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji solüsyonu.",
+        "en": "Histidine–tryptophan–ketoglutarate",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "St Thomas solüsyonu",
+      "text": "St Thomas' Hospital solution\nEkstrasellüler tipte, magnezyum içeren depolarizan kristaloid kardiyopleji solüsyonu.",
+      "images": [],
+      "card": {
+        "id": "PER141-0up299c",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "St Thomas solüsyonu",
+        "definition": "Ekstrasellüler tipte, magnezyum içeren depolarizan kristaloid kardiyopleji solüsyonu.",
+        "en": "St Thomas' Hospital solution",
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "Hot shot",
+      "text": "Terminal warm blood cardioplegia\nKlemp kaldırılmadan önce verilen sıcak, zenginleştirilmiş kan kardiyoplejisi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0775qzs",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Hot shot",
+        "definition": "Klemp kaldırılmadan önce verilen sıcak, zenginleştirilmiş kan kardiyoplejisi.",
+        "en": "Terminal warm blood cardioplegia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Depolarize arrest",
+      "text": "Depolarized arrest\nYüksek hücre dışı potasyumla membranın depolarize tutulması ve kalbin diyastolde durdurulması.",
+      "images": [],
+      "card": {
+        "id": "PER141-14ggd4d",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Depolarize arrest",
+        "definition": "Yüksek hücre dışı potasyumla membranın depolarize tutulması ve kalbin diyastolde durdurulması.",
+        "en": "Depolarized arrest",
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "Polarize arrest",
+      "text": "Polarized arrest\nMembranı istirahat potansiyeline yakın tutan arrest (adenozin, lidokain, Mg; esmolol).",
+      "images": [],
+      "card": {
+        "id": "PER141-0ium8kc",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Polarize arrest",
+        "definition": "Membranı istirahat potansiyeline yakın tutan arrest (adenozin, lidokain, Mg; esmolol).",
+        "en": "Polarized arrest",
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "Miyokard koruma",
+      "text": "Myocardial protection\nKlemp sırasında iskemi–reperfüzyon hasarını azaltan stratejiler bütünü.",
+      "images": [],
+      "card": {
+        "id": "PER141-12fapxe",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Miyokard koruma",
+        "definition": "Klemp sırasında iskemi–reperfüzyon hasarını azaltan stratejiler bütünü.",
+        "en": "Myocardial protection",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Fibrilasyonlu kalp tekniği",
+      "text": "Fibrillating heart technique\nKlempsiz, sürekli koroner perfüzyonla ventrikül fibrilasyonundaki kalpte çalışma.",
+      "images": [],
+      "card": {
+        "id": "PER141-17h2dgb",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Fibrilasyonlu kalp tekniği",
+        "definition": "Klempsiz, sürekli koroner perfüzyonla ventrikül fibrilasyonundaki kalpte çalışma.",
+        "en": "Fibrillating heart technique",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Kardiyoplejinin giriş yolu",
+      "text": "Antegrad kök uygulaması\nAort kökünden koroner arterlere ilerler\nYeterli aort kapağı işlevi gerektirir\n\nRetrograd uygulama\nKoroner sinüsten venöz yönde ilerler\nSağ ventrikül koruması eksik kalabilir",
+      "images": [],
+      "card": {
+        "id": "PER141-044gufs",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kardiyoplejinin giriş yolu",
+        "left": {
+          "title": "Antegrad kök uygulaması",
+          "points": [
+            "Aort kökünden koroner arterlere ilerler",
+            "Yeterli aort kapağı işlevi gerektirir"
+          ]
+        },
+        "right": {
+          "title": "Retrograd uygulama",
+          "points": [
+            "Koroner sinüsten venöz yönde ilerler",
+            "Sağ ventrikül koruması eksik kalabilir"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arrest mekanizması",
+      "text": "Depolarize arrest\nHücre dışı potasyum artışıyla oluşturulur\nMembran depolarize durumda tutulur\n\nPolarize arrest\nAdenozin, lidokain, magnezyum gibi ajanlarla sağlanır\nMembran istirahat potansiyeline yakın tutulur",
+      "images": [],
+      "card": {
+        "id": "PER141-1mqa0i9",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "compare",
+        "importance": 2,
+        "title": "Arrest mekanizması",
+        "left": {
+          "title": "Depolarize arrest",
+          "points": [
+            "Hücre dışı potasyum artışıyla oluşturulur",
+            "Membran depolarize durumda tutulur"
+          ]
+        },
+        "right": {
+          "title": "Polarize arrest",
+          "points": [
+            "Adenozin, lidokain, magnezyum gibi ajanlarla sağlanır",
+            "Membran istirahat potansiyeline yakın tutulur"
+          ]
+        },
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "Buckberg karışım oranı",
+      "text": "EACTS 2024'e göre Buckberg kardiyoplejisinde **4 kısım kan : 1 kısım kristaloid** vardır. Bazı derlemelerde ters aktarım bulunduğundan oran kaynak adıyla öğrenilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0737est",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "fact",
+        "importance": 3,
+        "title": "Buckberg karışım oranı",
+        "body": "EACTS 2024'e göre Buckberg kardiyoplejisinde **4 kısım kan : 1 kısım kristaloid** vardır. Bazı derlemelerde ters aktarım bulunduğundan oran kaynak adıyla öğrenilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "del Nido oranı ve süre",
+      "text": "EACTS 2024, del Nido için **1 kısım kan : 4 kısım kristaloid** ve tek dozla yaklaşık 90 dakikaya kadar kullanım bildirir; yeniden dozlama işlem ve protokole bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ggungp",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "del Nido oranı ve süre",
+        "body": "EACTS 2024, del Nido için **1 kısım kan : 4 kısım kristaloid** ve tek dozla yaklaşık 90 dakikaya kadar kullanım bildirir; yeniden dozlama işlem ve protokole bağlıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyoplejide basıncın ölçüm yeri",
+      "text": "EACTS 2024 antegrad **aort kökünü 60–100 mmHg**, retrograd koroner sinüsü 30–50 mmHg olarak verir. Hat basıncıyla kök veya sinüs basıncı aynı ölçüm değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-038qpe1",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "fact",
+        "importance": 3,
+        "title": "Kardiyoplejide basıncın ölçüm yeri",
+        "body": "EACTS 2024 antegrad **aort kökünü 60–100 mmHg**, retrograd koroner sinüsü 30–50 mmHg olarak verir. Hat basıncıyla kök veya sinüs basıncı aynı ölçüm değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Aralıklı kardiyoplejinin yenilenmesi",
+      "text": "EACTS 2024'te çok dozlu soğuk kardiyoplejinin genellikle **20–30 dakikada** yenilendiği belirtilir. Tek doz stratejileri ve merkez protokolleri farklıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1sg3hev",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aralıklı kardiyoplejinin yenilenmesi",
+        "body": "EACTS 2024'te çok dozlu soğuk kardiyoplejinin genellikle **20–30 dakikada** yenilendiği belirtilir. Tek doz stratejileri ve merkez protokolleri farklıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "St Thomas potasyum değerleri",
+      "text": "Francica 2021'e göre St Thomas No.1 **20 mmol/L**, No.2 16 mmol/L potasyum içerir; her ikisinde magnezyum 16 mmol/L'dir.",
+      "images": [],
+      "card": {
+        "id": "PER141-15kfnk6",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "St Thomas potasyum değerleri",
+        "body": "Francica 2021'e göre St Thomas No.1 **20 mmol/L**, No.2 16 mmol/L potasyum içerir; her ikisinde magnezyum 16 mmol/L'dir.",
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "del Nido'daki lidokain ve magnezyum miyokardı nasıl korumayı amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-180a8bp",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "flip",
+        "importance": 2,
+        "question": "del Nido'daki lidokain ve magnezyum miyokardı nasıl korumayı amaçlar?",
+        "answer": "Lidokain sodyum kanallarını bloke eder; magnezyum kalsiyum antagonizması sağlar. Hücre içi kalsiyum yüklenmesi sınırlanır.",
+        "source": "del Nido RKÇ 2022"
+      }
+    },
+    {
+      "title": "Kardiyopleji ile hipotermi birlikte miyokardın hangi gereksinimini azaltır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0dc1xye",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "flip",
+        "importance": 3,
+        "question": "Kardiyopleji ile hipotermi birlikte miyokardın hangi gereksinimini azaltır?",
+        "answer": "Elektromekanik arrest ve soğuma, **miyokard oksijen gereksinimini** azaltır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sıcak kardiyoplejinin kesintisiz ve homojen verilmesi neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0e8vs94",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sıcak kardiyoplejinin kesintisiz ve homojen verilmesi neden önemlidir?",
+        "answer": "Akımın kesilmesi sıcak iskemiye yol açabilir; sıcak miyokardın metabolik gereksinimi sürer.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HTK sonrası sodyumu bağlamıyla yorumla",
+      "text": "HTK'nin düşük sodyumu **izo-ozmotik hiponatremi** oluşturabilir. EACTS 2024 bu düşüşü otomatik düzeltmemeyi vurgular; uygunsuz düzeltme hiperozmolarite riski taşır.",
+      "images": [],
+      "card": {
+        "id": "PER141-0rgo06x",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "remember",
+        "importance": 3,
+        "title": "HTK sonrası sodyumu bağlamıyla yorumla",
+        "body": "HTK'nin düşük sodyumu **izo-ozmotik hiponatremi** oluşturabilir. EACTS 2024 bu düşüşü otomatik düzeltmemeyi vurgular; uygunsuz düzeltme hiperozmolarite riski taşır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyopleji güvenliği ayrı izlenir",
+      "text": "Kardiyopleji **dozu, yolu, basıncı ve iskemi süresi** izlenir. Set havasız olmalı, solüsyon doğrulanmalı ve basınçlandırmada kaçak bulunmamalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-03s3gva",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kardiyopleji güvenliği ayrı izlenir",
+        "body": "Kardiyopleji **dozu, yolu, basıncı ve iskemi süresi** izlenir. Set havasız olmalı, solüsyon doğrulanmalı ve basınçlandırmada kaçak bulunmamalıdır.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Kan içermeyen intrasellüler tip kardiyopleji hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1oudko7",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kan içermeyen intrasellüler tip kardiyopleji hangisidir?",
+        "options": [
+          "Buckberg",
+          "Microplegia",
+          "HTK",
+          "Sıcak kan hot shot"
+        ],
+        "correct": 2,
+        "explanation": "HTK düşük sodyumlu, intrasellüler tip kristaloid solüsyondur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hücre dışı potasyumun yüksek tutulması hangi arrest mekanizmasını oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0tegkdl",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hücre dışı potasyumun yüksek tutulması hangi arrest mekanizmasını oluşturur?",
+        "options": [
+          "Polarize arrest",
+          "Gravite drenajı",
+          "Mekanik defibrilasyon",
+          "Depolarize arrest"
+        ],
+        "correct": 3,
+        "explanation": "Yüksek potasyum membranı depolarize durumda tutarak diyastolik arrest oluşturur.",
+        "source": "Francica ve ark. 2021"
+      }
+    },
+    {
+      "title": "Hot shot hangi evrede uygulanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-062oh2e",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hot shot hangi evrede uygulanır?",
+        "options": [
+          "Kros klemp kaldırılmadan önce",
+          "Arteriyel kanülasyon öncesinde",
+          "Venöz kanül çıkarıldıktan sonra",
+          "Protamin tamamlandıktan sonra"
+        ],
+        "correct": 0,
+        "explanation": "Hot shot terminal sıcak kan kardiyoplejisidir; klemp kalkmadan önce reperfüzyon sağlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Retrograd kardiyoplejinin önemli anatomik sınırlaması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1af8m4k",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Retrograd kardiyoplejinin önemli anatomik sınırlaması hangisidir?",
+        "options": [
+          "Sol ana koronerin doğrudan kanüllenmesi",
+          "Sağ ventrikül korumasının eksik kalması",
+          "Aort kökünün ayrı filtrelenmesi",
+          "Venöz rezervuarın tamamen boşalması"
+        ],
+        "correct": 1,
+        "explanation": "Sağ ventrikülün bazı venöz yolları koroner sinüsü bypass eder; retrograd koruma eksik olabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Microplegia hangi bileşim özelliğiyle tanımlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-194qo32",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Microplegia hangi bileşim özelliğiyle tanımlanır?",
+        "options": [
+          "Yalnız kristaloid içeren soğuk solüsyon",
+          "Yalnız su içeren vent sıvısı",
+          "Çok az kristaloid içeren kan kardiyoplejisi",
+          "Yalnız karbondioksit içeren gaz"
+        ],
+        "correct": 2,
+        "explanation": "Microplegia, kristaloid hacmi çok düşük kan kardiyoplejisi varyantıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyopleji stratejisi hastaya ve işleme göre seçilmelidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1b96qyb",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Kardiyopleji stratejisi hastaya ve işleme göre seçilmelidir.",
+        "isTrue": true,
+        "explanation": "EACTS 2024 sabit tek solüsyon yerine hastaya ve prosedüre özgü miyokard korumasını önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kristaloid kardiyopleji kan kardiyoplejisine göre daha az hemodilüsyon yapar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0fmm2gn",
+        "course": "PER141",
+        "topic": "Kardiyopleji ve miyokard koruma",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Kristaloid kardiyopleji kan kardiyoplejisine göre daha az hemodilüsyon yapar.",
+        "isTrue": false,
+        "explanation": "Kristaloid kardiyopleji daha fazla hemodilüsyon, kanama ve transfüzyonla ilişkili olabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-093uw2s",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyopleji",
+      "definition": "Kalbi elektromekanik olarak durdurup koruyan solüsyon/yöntem.",
+      "en": "Cardioplegia",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-13qdris",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Aort kros klempi",
+      "definition": "Aort kanülü ile kalp arasında aortayı kapatan klemp; iskemi süresini başlatır.",
+      "en": "Aortic cross-clamp",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0sjg9x2",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Antegrad kardiyopleji",
+      "definition": "Klempin proksimalinden aort köküne veya ostiumlara normal yönde verilen kardiyopleji.",
+      "en": "Antegrade cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0w9e4ag",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Retrograd kardiyopleji",
+      "definition": "Koroner sinüse yerleştirilen balonlu kanülden venöz yolla ters yönde verilen kardiyopleji.",
+      "en": "Retrograde cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-13gtp5y",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Ostial kardiyopleji",
+      "definition": "Aortotomi sonrası doğrudan koroner ostiumlara verilen kardiyopleji (ciddi aort yetmezliği).",
+      "en": "Ostial (selective) cardioplegia",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1nffqi2",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Kan kardiyoplejisi",
+      "definition": "Oksijenli kan ile kristaloid solüsyonun karıştırılarak miyokard korumasında kullanılması.",
+      "en": "Blood cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1j7724s",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Kristaloid kardiyopleji",
+      "definition": "Kan içermeyen kardiyopleji (HTK, St Thomas).",
+      "en": "Crystalloid cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-12fu63n",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "del Nido kardiyoplejisi",
+      "definition": "Lidokain ve magnezyum içeren, kan ile kristaloidin karıştırıldığı tek doz kardiyopleji stratejisi.",
+      "en": "del Nido cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1x5igcl",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "HTK (Custodiol)",
+      "definition": "Histidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji solüsyonu.",
+      "en": "Histidine–tryptophan–ketoglutarate",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0up299c",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "St Thomas solüsyonu",
+      "definition": "Ekstrasellüler tipte, magnezyum içeren depolarizan kristaloid kardiyopleji solüsyonu.",
+      "en": "St Thomas' Hospital solution",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-0775qzs",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Hot shot",
+      "definition": "Klemp kaldırılmadan önce verilen sıcak, zenginleştirilmiş kan kardiyoplejisi.",
+      "en": "Terminal warm blood cardioplegia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-14ggd4d",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Depolarize arrest",
+      "definition": "Yüksek hücre dışı potasyumla membranın depolarize tutulması ve kalbin diyastolde durdurulması.",
+      "en": "Depolarized arrest",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-0ium8kc",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Polarize arrest",
+      "definition": "Membranı istirahat potansiyeline yakın tutan arrest (adenozin, lidokain, Mg; esmolol).",
+      "en": "Polarized arrest",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-12fapxe",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Miyokard koruma",
+      "definition": "Klemp sırasında iskemi–reperfüzyon hasarını azaltan stratejiler bütünü.",
+      "en": "Myocardial protection",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-17h2dgb",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Fibrilasyonlu kalp tekniği",
+      "definition": "Klempsiz, sürekli koroner perfüzyonla ventrikül fibrilasyonundaki kalpte çalışma.",
+      "en": "Fibrillating heart technique",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-044gufs",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kardiyoplejinin giriş yolu",
+      "left": {
+        "title": "Antegrad kök uygulaması",
+        "points": [
+          "Aort kökünden koroner arterlere ilerler",
+          "Yeterli aort kapağı işlevi gerektirir"
+        ]
+      },
+      "right": {
+        "title": "Retrograd uygulama",
+        "points": [
+          "Koroner sinüsten venöz yönde ilerler",
+          "Sağ ventrikül koruması eksik kalabilir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1mqa0i9",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "compare",
+      "importance": 2,
+      "title": "Arrest mekanizması",
+      "left": {
+        "title": "Depolarize arrest",
+        "points": [
+          "Hücre dışı potasyum artışıyla oluşturulur",
+          "Membran depolarize durumda tutulur"
+        ]
+      },
+      "right": {
+        "title": "Polarize arrest",
+        "points": [
+          "Adenozin, lidokain, magnezyum gibi ajanlarla sağlanır",
+          "Membran istirahat potansiyeline yakın tutulur"
+        ]
+      },
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-0737est",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "fact",
+      "importance": 3,
+      "title": "Buckberg karışım oranı",
+      "body": "EACTS 2024'e göre Buckberg kardiyoplejisinde **4 kısım kan : 1 kısım kristaloid** vardır. Bazı derlemelerde ters aktarım bulunduğundan oran kaynak adıyla öğrenilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1ggungp",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "del Nido oranı ve süre",
+      "body": "EACTS 2024, del Nido için **1 kısım kan : 4 kısım kristaloid** ve tek dozla yaklaşık 90 dakikaya kadar kullanım bildirir; yeniden dozlama işlem ve protokole bağlıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-038qpe1",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "fact",
+      "importance": 3,
+      "title": "Kardiyoplejide basıncın ölçüm yeri",
+      "body": "EACTS 2024 antegrad **aort kökünü 60–100 mmHg**, retrograd koroner sinüsü 30–50 mmHg olarak verir. Hat basıncıyla kök veya sinüs basıncı aynı ölçüm değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1sg3hev",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aralıklı kardiyoplejinin yenilenmesi",
+      "body": "EACTS 2024'te çok dozlu soğuk kardiyoplejinin genellikle **20–30 dakikada** yenilendiği belirtilir. Tek doz stratejileri ve merkez protokolleri farklıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-15kfnk6",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "St Thomas potasyum değerleri",
+      "body": "Francica 2021'e göre St Thomas No.1 **20 mmol/L**, No.2 16 mmol/L potasyum içerir; her ikisinde magnezyum 16 mmol/L'dir.",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-180a8bp",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "flip",
+      "importance": 2,
+      "question": "del Nido'daki lidokain ve magnezyum miyokardı nasıl korumayı amaçlar?",
+      "answer": "Lidokain sodyum kanallarını bloke eder; magnezyum kalsiyum antagonizması sağlar. Hücre içi kalsiyum yüklenmesi sınırlanır.",
+      "source": "del Nido RKÇ 2022"
+    },
+    {
+      "id": "PER141-0dc1xye",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "flip",
+      "importance": 3,
+      "question": "Kardiyopleji ile hipotermi birlikte miyokardın hangi gereksinimini azaltır?",
+      "answer": "Elektromekanik arrest ve soğuma, **miyokard oksijen gereksinimini** azaltır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0e8vs94",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sıcak kardiyoplejinin kesintisiz ve homojen verilmesi neden önemlidir?",
+      "answer": "Akımın kesilmesi sıcak iskemiye yol açabilir; sıcak miyokardın metabolik gereksinimi sürer.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rgo06x",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "remember",
+      "importance": 3,
+      "title": "HTK sonrası sodyumu bağlamıyla yorumla",
+      "body": "HTK'nin düşük sodyumu **izo-ozmotik hiponatremi** oluşturabilir. EACTS 2024 bu düşüşü otomatik düzeltmemeyi vurgular; uygunsuz düzeltme hiperozmolarite riski taşır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-03s3gva",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kardiyopleji güvenliği ayrı izlenir",
+      "body": "Kardiyopleji **dozu, yolu, basıncı ve iskemi süresi** izlenir. Set havasız olmalı, solüsyon doğrulanmalı ve basınçlandırmada kaçak bulunmamalıdır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1oudko7",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kan içermeyen intrasellüler tip kardiyopleji hangisidir?",
+      "options": [
+        "Buckberg",
+        "Microplegia",
+        "HTK",
+        "Sıcak kan hot shot"
+      ],
+      "correct": 2,
+      "explanation": "HTK düşük sodyumlu, intrasellüler tip kristaloid solüsyondur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0tegkdl",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hücre dışı potasyumun yüksek tutulması hangi arrest mekanizmasını oluşturur?",
+      "options": [
+        "Polarize arrest",
+        "Gravite drenajı",
+        "Mekanik defibrilasyon",
+        "Depolarize arrest"
+      ],
+      "correct": 3,
+      "explanation": "Yüksek potasyum membranı depolarize durumda tutarak diyastolik arrest oluşturur.",
+      "source": "Francica ve ark. 2021"
+    },
+    {
+      "id": "PER141-062oh2e",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hot shot hangi evrede uygulanır?",
+      "options": [
+        "Kros klemp kaldırılmadan önce",
+        "Arteriyel kanülasyon öncesinde",
+        "Venöz kanül çıkarıldıktan sonra",
+        "Protamin tamamlandıktan sonra"
+      ],
+      "correct": 0,
+      "explanation": "Hot shot terminal sıcak kan kardiyoplejisidir; klemp kalkmadan önce reperfüzyon sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1af8m4k",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Retrograd kardiyoplejinin önemli anatomik sınırlaması hangisidir?",
+      "options": [
+        "Sol ana koronerin doğrudan kanüllenmesi",
+        "Sağ ventrikül korumasının eksik kalması",
+        "Aort kökünün ayrı filtrelenmesi",
+        "Venöz rezervuarın tamamen boşalması"
+      ],
+      "correct": 1,
+      "explanation": "Sağ ventrikülün bazı venöz yolları koroner sinüsü bypass eder; retrograd koruma eksik olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-194qo32",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Microplegia hangi bileşim özelliğiyle tanımlanır?",
+      "options": [
+        "Yalnız kristaloid içeren soğuk solüsyon",
+        "Yalnız su içeren vent sıvısı",
+        "Çok az kristaloid içeren kan kardiyoplejisi",
+        "Yalnız karbondioksit içeren gaz"
+      ],
+      "correct": 2,
+      "explanation": "Microplegia, kristaloid hacmi çok düşük kan kardiyoplejisi varyantıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1b96qyb",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kardiyopleji stratejisi hastaya ve işleme göre seçilmelidir.",
+      "isTrue": true,
+      "explanation": "EACTS 2024 sabit tek solüsyon yerine hastaya ve prosedüre özgü miyokard korumasını önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0fmm2gn",
+      "course": "PER141",
+      "topic": "Kardiyopleji ve miyokard koruma",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kristaloid kardiyopleji kan kardiyoplejisine göre daha az hemodilüsyon yapar.",
+      "isTrue": false,
+      "explanation": "Kristaloid kardiyopleji daha fazla hemodilüsyon, kanama ve transfüzyonla ilişkili olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

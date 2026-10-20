@@ -1,0 +1,1214 @@
+{
+  "id": "review-554835395cf86f51",
+  "title": "Hipotermi, kan gazı ve kardiyopleji",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hipotermi",
+      "text": "Hypothermia\nVücut sıcaklığının düşürülmesi; kalp cerrahisinde metabolik oksijen gereksinimini azaltmak amacıyla uygulanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1falzfg",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 3,
+        "term": "Hipotermi",
+        "en": "Hypothermia",
+        "definition": "Vücut sıcaklığının düşürülmesi; kalp cerrahisinde metabolik oksijen gereksinimini azaltmak amacıyla uygulanabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Alfa-stat",
+      "text": "Alpha-stat\nHipotermide kan gazını standart laboratuvar sıcaklığındaki ölçümle, hasta sıcaklığına düzeltmeden yorumlama yaklaşımı.",
+      "images": [],
+      "card": {
+        "id": "PER245-15k44my",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Alfa-stat",
+        "en": "Alpha-stat",
+        "definition": "Hipotermide kan gazını standart laboratuvar sıcaklığındaki ölçümle, hasta sıcaklığına düzeltmeden yorumlama yaklaşımı.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "pH-stat",
+      "text": "pH-stat\nKan gazı hedeflerinin hastanın sıcaklığına düzeltilmiş değerlerle yönetildiği yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER245-0b8gx0m",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "pH-stat",
+        "en": "pH-stat",
+        "definition": "Kan gazı hedeflerinin hastanın sıcaklığına düzeltilmiş değerlerle yönetildiği yaklaşım.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel çıkış sıcaklığı",
+      "text": "Arterial outlet temperature\nOksijenatörden hastaya dönen kanın sıcaklığı.",
+      "images": [],
+      "card": {
+        "id": "PER245-1mwbm4p",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Arteriyel çıkış sıcaklığı",
+        "en": "Arterial outlet temperature",
+        "definition": "Oksijenatörden hastaya dönen kanın sıcaklığı.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "Kardiyopleji",
+      "text": "Cardioplegia\nKalbi diyastolde durdurup koruyan solüsyon ve uygulama yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER245-093uw2s",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyopleji",
+        "en": "Cardioplegia",
+        "definition": "Kalbi diyastolde durdurup koruyan solüsyon ve uygulama yöntemi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kristaloid kardiyopleji",
+      "text": "Crystalloid cardioplegia\nKan içermeyen, elektrolit ve metabolik koruyucu bileşenleri sıvı taşıyıcı içinde sunan miyokard koruma solüsyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-1j7724s",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 1,
+        "term": "Kristaloid kardiyopleji",
+        "en": "Crystalloid cardioplegia",
+        "definition": "Kan içermeyen, elektrolit ve metabolik koruyucu bileşenleri sıvı taşıyıcı içinde sunan miyokard koruma solüsyonu.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kan kardiyoplejisi",
+      "text": "Blood cardioplegia\nHasta kanı ile kristaloid bileşenin karıştırıldığı miyokard koruma solüsyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-1nffqi2",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Kan kardiyoplejisi",
+        "en": "Blood cardioplegia",
+        "definition": "Hasta kanı ile kristaloid bileşenin karıştırıldığı miyokard koruma solüsyonu.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "St. Thomas No.2 (Plegisol)",
+      "text": "St Thomas' Hospital solution No.2\nEkstrasellüler tip, hiperkalemik ve genellikle çok dozlu kullanılan kristaloid miyokard koruma solüsyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-03vc7pn",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "St. Thomas No.2 (Plegisol)",
+        "en": "St Thomas' Hospital solution No.2",
+        "definition": "Ekstrasellüler tip, hiperkalemik ve genellikle çok dozlu kullanılan kristaloid miyokard koruma solüsyonu.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HTK (Custodiol)",
+      "text": "Histidine-tryptophan-ketoglutarate (Bretschneider)\nHistidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji.",
+      "images": [],
+      "card": {
+        "id": "PER245-1x5igcl",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 3,
+        "term": "HTK (Custodiol)",
+        "en": "Histidine-tryptophan-ketoglutarate (Bretschneider)",
+        "definition": "Histidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji.",
+        "source": "HTK, J Cardiovasc Dev Dis 2022"
+      }
+    },
+    {
+      "title": "del Nido solüsyonu",
+      "text": "del Nido cardioplegia\nLidokain ve magnezyum katkıları içeren kan-kristaloid miyokard koruma solüsyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-1bp1d5o",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "del Nido solüsyonu",
+        "en": "del Nido cardioplegia",
+        "definition": "Lidokain ve magnezyum katkıları içeren kan-kristaloid miyokard koruma solüsyonu.",
+        "source": "Boston Children’s, del Nido 2012"
+      }
+    },
+    {
+      "title": "Buckberg kardiyoplejisi",
+      "text": "Buckberg (integrated) blood cardioplegia\nSoğuk kan kardiyoplejisi indüksiyonu ve idamesini sıcak terminal reperfüzyonla birleştiren entegre miyokard koruma yaklaşımı.",
+      "images": [],
+      "card": {
+        "id": "PER245-1blmmgp",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 1,
+        "term": "Buckberg kardiyoplejisi",
+        "en": "Buckberg (integrated) blood cardioplegia",
+        "definition": "Soğuk kan kardiyoplejisi indüksiyonu ve idamesini sıcak terminal reperfüzyonla birleştiren entegre miyokard koruma yaklaşımı.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hot shot",
+      "text": "Terminal warm reperfusion\nKlemp kaldırılmadan hemen önce verilen sıcak, hiperkalemik, zenginleştirilmiş kan kardiyoplejisi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0775qzs",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Hot shot",
+        "en": "Terminal warm reperfusion",
+        "definition": "Klemp kaldırılmadan hemen önce verilen sıcak, hiperkalemik, zenginleştirilmiş kan kardiyoplejisi.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Antegrad kardiyopleji",
+      "text": "Antegrade cardioplegia\nKoroner arterlere doğal akım yönünde verilen kardiyopleji; aort kökünden veya doğrudan koroner ağızlarından uygulanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0sjg9x2",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 3,
+        "term": "Antegrad kardiyopleji",
+        "en": "Antegrade cardioplegia",
+        "definition": "Koroner arterlere doğal akım yönünde verilen kardiyopleji; aort kökünden veya doğrudan koroner ağızlarından uygulanabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Retrograd kardiyopleji",
+      "text": "Retrograde cardioplegia\nKoroner sinüsten venöz sistem yoluyla geriye doğru verilen kardiyopleji.",
+      "images": [],
+      "card": {
+        "id": "PER245-0w9e4ag",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Retrograd kardiyopleji",
+        "en": "Retrograde cardioplegia",
+        "definition": "Koroner sinüsten venöz sistem yoluyla geriye doğru verilen kardiyopleji.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Ostial kardiyopleji",
+      "text": "Ostial (direct coronary) cardioplegia\nKardiyoplejinin koroner ağızlarına doğrudan verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-13gtp5y",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Ostial kardiyopleji",
+        "en": "Ostial (direct coronary) cardioplegia",
+        "definition": "Kardiyoplejinin koroner ağızlarına doğrudan verilmesi.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Aort kros-klempi",
+      "text": "Aortic cross-clamp\nÇıkan aortanın klemplenmesi; kalp dolaşımdan ayrılır, iskemi süresi başlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-12yiq5z",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 1,
+        "term": "Aort kros-klempi",
+        "en": "Aortic cross-clamp",
+        "definition": "Çıkan aortanın klemplenmesi; kalp dolaşımdan ayrılır, iskemi süresi başlar.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "De-airing",
+      "text": "De-airing\nKlemp kaldırma ve ejeksiyon öncesi kalp ve aortadan havanın çıkarılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0oovofp",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "De-airing",
+        "en": "De-airing",
+        "definition": "Klemp kaldırma ve ejeksiyon öncesi kalp ve aortadan havanın çıkarılması.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Trendelenburg pozisyonu",
+      "text": "Trendelenburg position\nBaşın gövdeye göre aşağıda tutulduğu pozisyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-08irsk8",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "term",
+        "importance": 2,
+        "term": "Trendelenburg pozisyonu",
+        "en": "Trendelenburg position",
+        "definition": "Başın gövdeye göre aşağıda tutulduğu pozisyon.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Kan gazını sıcaklıkla yorumlama",
+      "text": "Alfa-stat\nÖlçüm 37 °C'de, sıcaklık düzeltmesi kullanılmaz\nSoğumayla oluşan doğal pH değişimine izin verilir\n\npH-stat\nHasta sıcaklığına düzeltilmiş değerler kullanılır\nHedef pH için CO2 eklenmesi gerekebilir",
+      "images": [],
+      "card": {
+        "id": "PER245-1fwm7rs",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kan gazını sıcaklıkla yorumlama",
+        "left": {
+          "title": "Alfa-stat",
+          "points": [
+            "Ölçüm 37 °C'de, sıcaklık düzeltmesi kullanılmaz",
+            "Soğumayla oluşan doğal pH değişimine izin verilir"
+          ]
+        },
+        "right": {
+          "title": "pH-stat",
+          "points": [
+            "Hasta sıcaklığına düzeltilmiş değerler kullanılır",
+            "Hedef pH için CO2 eklenmesi gerekebilir"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyopleji yolları",
+      "text": "Antegrad kök yolu\nAort kökünden koronerlere doğal yönde\nAort kapak yeterliliği dağılımı etkiler\n\nRetrograd yol\nKoroner sinüsten venöz sistem üzerinden\nSağ ventrikül dağılımı sınırlı olabilir",
+      "images": [],
+      "card": {
+        "id": "PER245-15fj3fp",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kardiyopleji yolları",
+        "left": {
+          "title": "Antegrad kök yolu",
+          "points": [
+            "Aort kökünden koronerlere doğal yönde",
+            "Aort kapak yeterliliği dağılımı etkiler"
+          ]
+        },
+        "right": {
+          "title": "Retrograd yol",
+          "points": [
+            "Koroner sinüsten venöz sistem üzerinden",
+            "Sağ ventrikül dağılımı sınırlı olabilir"
+          ]
+        },
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Kristaloid kardiyopleji tipleri",
+      "text": "HTK\nİntrasellüler tip, düşük sodyumlu yaklaşım\nGenellikle tek doz stratejisi\n\nSt. Thomas No.2\nEkstrasellüler tip, yüksek potasyumlu yaklaşım\nGenellikle tekrarlanan doz stratejisi",
+      "images": [],
+      "card": {
+        "id": "PER245-0e8ir5x",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kristaloid kardiyopleji tipleri",
+        "left": {
+          "title": "HTK",
+          "points": [
+            "İntrasellüler tip, düşük sodyumlu yaklaşım",
+            "Genellikle tek doz stratejisi"
+          ]
+        },
+        "right": {
+          "title": "St. Thomas No.2",
+          "points": [
+            "Ekstrasellüler tip, yüksek potasyumlu yaklaşım",
+            "Genellikle tekrarlanan doz stratejisi"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kan-kristaloid oranı",
+      "text": "del Nido\nKan:kristaloid genellikle 1:4\nÇoğu kez tek doz yaklaşımı\n\nBuckberg\nKan:kristaloid tipik olarak 4:1\nÇok dozlu entegre yaklaşım",
+      "images": [],
+      "card": {
+        "id": "PER245-0p7wk78",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kan-kristaloid oranı",
+        "left": {
+          "title": "del Nido",
+          "points": [
+            "Kan:kristaloid genellikle 1:4",
+            "Çoğu kez tek doz yaklaşımı"
+          ]
+        },
+        "right": {
+          "title": "Buckberg",
+          "points": [
+            "Kan:kristaloid tipik olarak 4:1",
+            "Çok dozlu entegre yaklaşım"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sıcaklık için genel gradyan",
+      "text": "STS/SCA/AmSECT 2015, soğutma ve ısıtmada oksijenatör arteriyel çıkışı ile venöz giriş arasındaki sıcaklık farkının 10 °C'yi aşmamasını önerir.",
+      "images": [],
+      "card": {
+        "id": "PER245-192kl7h",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Sıcaklık için genel gradyan",
+        "body": "STS/SCA/AmSECT 2015, soğutma ve ısıtmada oksijenatör arteriyel çıkışı ile venöz giriş arasındaki sıcaklık farkının 10 °C'yi aşmamasını önerir.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "Isıtmada daha dar sınır",
+      "text": "STS/SCA/AmSECT 2015'e göre arteriyel çıkış ≥30 °C iken ısıtma gradyanı ≤4 °C ve ısıtma hızı ≤0,5 °C/dk olmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-11ck7lh",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Isıtmada daha dar sınır",
+        "body": "STS/SCA/AmSECT 2015'e göre arteriyel çıkış ≥30 °C iken ısıtma gradyanı ≤4 °C ve ısıtma hızı ≤0,5 °C/dk olmalıdır.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "del Nido karışım oranı",
+      "text": "Boston Children's tarifinde 4 kısım kristaloid, 1 kısım hasta kanıyla karıştırılır; kan:kristaloid oranı 1:4'tür.",
+      "images": [],
+      "card": {
+        "id": "PER245-0yyjakz",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "fact",
+        "importance": 2,
+        "title": "del Nido karışım oranı",
+        "body": "Boston Children's tarifinde 4 kısım kristaloid, 1 kısım hasta kanıyla karıştırılır; kan:kristaloid oranı 1:4'tür.",
+        "source": "Boston Children’s, del Nido 2012"
+      }
+    },
+    {
+      "title": "Sıcak terminal reperfüzyon",
+      "text": "Hot shot, aort klempi kaldırılmadan hemen önce sıcak zenginleştirilmiş kan kardiyoplejisi verilmesidir; miyokard metabolik toparlanmasını desteklemeyi amaçlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-026btq7",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Sıcak terminal reperfüzyon",
+        "body": "Hot shot, aort klempi kaldırılmadan hemen önce sıcak zenginleştirilmiş kan kardiyoplejisi verilmesidir; miyokard metabolik toparlanmasını desteklemeyi amaçlar.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Retrograd yöntemin sınırları",
+      "text": "Koroner sinüs yoluyla uygulamanın sağ ventriküle dağılımı yetersiz olabilir; persistan sol üst vena kava da solüsyon kaçışına yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1603c3u",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Retrograd yöntemin sınırları",
+        "body": "Koroner sinüs yoluyla uygulamanın sağ ventriküle dağılımı yetersiz olabilir; persistan sol üst vena kava da solüsyon kaçışına yol açabilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "pH-stat yönetiminde CO2 eklenmesi serebral dolaşımı nasıl etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-172zg0u",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "flip",
+        "importance": 2,
+        "question": "pH-stat yönetiminde CO2 eklenmesi serebral dolaşımı nasıl etkiler?",
+        "answer": "Serebral vazodilatasyonu ve kan akımını artırabilir; soğutma daha homojen olabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sol ventrikül ventinin duvar gerilimini azaltması ne sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0t9qyqh",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sol ventrikül ventinin duvar gerilimini azaltması ne sağlar?",
+        "answer": "Distansiyonu ve miyokard oksijen gereksinimini azaltmaya; subendokardiyal perfüzyonu kolaylaştırmaya yardımcı olur.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Serebral hipertermiden kaçın",
+      "text": "2024 EACTS, oksijenatör arteriyel çıkışını **en fazla 37 °C** ile sınırlamayı önerir; ısıtma kontrollü yürütülür.",
+      "images": [],
+      "card": {
+        "id": "PER245-06yh5ko",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "remember",
+        "importance": 3,
+        "title": "Serebral hipertermiden kaçın",
+        "body": "2024 EACTS, oksijenatör arteriyel çıkışını **en fazla 37 °C** ile sınırlamayı önerir; ısıtma kontrollü yürütülür.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HTK hiponatremisinde osmolalite",
+      "text": "HTK sonrası düşük sodyum, solüsyonun bileşimi nedeniyle **izo-ozmotik** olabilir. Sodyum sayısını tek başına değerlendirmek hatalı düzeltmeye yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-17moc5i",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "remember",
+        "importance": 3,
+        "title": "HTK hiponatremisinde osmolalite",
+        "body": "HTK sonrası düşük sodyum, solüsyonun bileşimi nedeniyle **izo-ozmotik** olabilir. Sodyum sayısını tek başına değerlendirmek hatalı düzeltmeye yol açabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "del Nido'daki lidokainin başlıca kanal etkisi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0lt7koh",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "del Nido'daki lidokainin başlıca kanal etkisi hangisidir?",
+        "options": [
+          "Kalsiyum kanal aktivasyonu",
+          "Sodyum kanal blokajı",
+          "Potasyum kanal açılması",
+          "Klor kanal blokajı"
+        ],
+        "correct": 1,
+        "explanation": "Lidokain sodyum kanal blokajıyla kardiyomiyosit elektriksel aktivitesini etkiler.",
+        "source": "Boston Children’s, del Nido 2012"
+      }
+    },
+    {
+      "title": "Aort kökü yerine koroner ağızlara doğrudan solüsyon verilmesi hangi yoldur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1es2zb1",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aort kökü yerine koroner ağızlara doğrudan solüsyon verilmesi hangi yoldur?",
+        "options": [
+          "Aort kökünden antegrad kardiyopleji",
+          "Koroner sinüsten retrograd kardiyopleji",
+          "Ostial kardiyopleji",
+          "Koroner greft üzerinden antegrad kardiyopleji"
+        ],
+        "correct": 2,
+        "explanation": "Ostial uygulama koroner ağızlara doğrudandır; retrograd uygulama koroner sinüs yoludur.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Isıtma sırasında oksijenatör çıkış sıcaklığı serebral perfüzat sıcaklığını nasıl yansıtabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0zwcx9q",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Isıtma sırasında oksijenatör çıkış sıcaklığı serebral perfüzat sıcaklığını nasıl yansıtabilir?",
+        "options": [
+          "Her zaman eşittir",
+          "Serebral perfüzat sıcaklığını daima fazla gösterir",
+          "Yalnız miyokard sıcaklığını gösterir",
+          "Serebral perfüzat sıcaklığını olduğundan düşük gösterebilir"
+        ],
+        "correct": 3,
+        "explanation": "2015 STS/SCA/AmSECT, oksijenatör arteriyel çıkış sıcaklığının ısıtma sırasında serebral perfüzat sıcaklığını olduğundan düşük gösterebileceğini belirtir.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "Venting hangi mekanik sorunu önlemeyi amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1761zev",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Venting hangi mekanik sorunu önlemeyi amaçlar?",
+        "options": [
+          "Ventrikül distansiyonu",
+          "Arteriyel kanül jet hasarı",
+          "Venöz kanül kollapsı",
+          "Koroner sinüs perforasyonu"
+        ],
+        "correct": 0,
+        "explanation": "Vent kalbe dönen kanı uzaklaştırarak distansiyon ve duvar gerilmesini sınırlar.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Aort klemp süresi kaydı hangi temel süreyi izlemede kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0qy2k4u",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aort klemp süresi kaydı hangi temel süreyi izlemede kullanılır?",
+        "options": [
+          "Toplam KPB destek süresi",
+          "Miyokard iskemi süresi",
+          "Sistemik dolaşım arresti süresi",
+          "Yeniden ısıtma süresi"
+        ],
+        "correct": 1,
+        "explanation": "Klemp miyokardı sistemik arteriyel dolaşımdan ayırır; iskemi ve koruma planı bu süreyle ilişkilidir.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Hipotermi, pıhtılaşma ve trombosit işlevlerini olumsuz etkileyebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1wi01fz",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Hipotermi, pıhtılaşma ve trombosit işlevlerini olumsuz etkileyebilir.",
+        "isTrue": true,
+        "explanation": "Soğutma metabolik gereksinimi düşürürken koagülopatiye katkıda bulunabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyoplejide yüksek potasyum kalbi fizyolojik olarak sistolde durdurmayı amaçlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0kjo0un",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Kardiyoplejide yüksek potasyum kalbi fizyolojik olarak sistolde durdurmayı amaçlar.",
+        "isTrue": false,
+        "explanation": "Hiperkalemik kardiyopleji diyastolik elektromekanik arest sağlamak için kullanılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "De-airing, kalbin içindeki havayı bırakıp ejeksiyonu başlatma işlemidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0vfjsov",
+        "course": "PER245",
+        "topic": "Hipotermi, kan gazı ve kardiyopleji",
+        "type": "tf",
+        "importance": 2,
+        "statement": "De-airing, kalbin içindeki havayı bırakıp ejeksiyonu başlatma işlemidir.",
+        "isTrue": false,
+        "explanation": "De-airing kalp ve aortadan havanın uzaklaştırılmasıdır; TEE gibi yöntemlerle değerlendirilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-1falzfg",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 3,
+      "term": "Hipotermi",
+      "en": "Hypothermia",
+      "definition": "Vücut sıcaklığının düşürülmesi; kalp cerrahisinde metabolik oksijen gereksinimini azaltmak amacıyla uygulanabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-15k44my",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Alfa-stat",
+      "en": "Alpha-stat",
+      "definition": "Hipotermide kan gazını standart laboratuvar sıcaklığındaki ölçümle, hasta sıcaklığına düzeltmeden yorumlama yaklaşımı.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0b8gx0m",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "pH-stat",
+      "en": "pH-stat",
+      "definition": "Kan gazı hedeflerinin hastanın sıcaklığına düzeltilmiş değerlerle yönetildiği yaklaşım.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1mwbm4p",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel çıkış sıcaklığı",
+      "en": "Arterial outlet temperature",
+      "definition": "Oksijenatörden hastaya dönen kanın sıcaklığı.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER245-093uw2s",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyopleji",
+      "en": "Cardioplegia",
+      "definition": "Kalbi diyastolde durdurup koruyan solüsyon ve uygulama yöntemi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1j7724s",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 1,
+      "term": "Kristaloid kardiyopleji",
+      "en": "Crystalloid cardioplegia",
+      "definition": "Kan içermeyen, elektrolit ve metabolik koruyucu bileşenleri sıvı taşıyıcı içinde sunan miyokard koruma solüsyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1nffqi2",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Kan kardiyoplejisi",
+      "en": "Blood cardioplegia",
+      "definition": "Hasta kanı ile kristaloid bileşenin karıştırıldığı miyokard koruma solüsyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-03vc7pn",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "St. Thomas No.2 (Plegisol)",
+      "en": "St Thomas' Hospital solution No.2",
+      "definition": "Ekstrasellüler tip, hiperkalemik ve genellikle çok dozlu kullanılan kristaloid miyokard koruma solüsyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1x5igcl",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 3,
+      "term": "HTK (Custodiol)",
+      "en": "Histidine-tryptophan-ketoglutarate (Bretschneider)",
+      "definition": "Histidin, triptofan ve ketoglutarat içeren, düşük sodyumlu intrasellüler tip kristaloid kardiyopleji.",
+      "source": "HTK, J Cardiovasc Dev Dis 2022"
+    },
+    {
+      "id": "PER245-1bp1d5o",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "del Nido solüsyonu",
+      "en": "del Nido cardioplegia",
+      "definition": "Lidokain ve magnezyum katkıları içeren kan-kristaloid miyokard koruma solüsyonu.",
+      "source": "Boston Children’s, del Nido 2012"
+    },
+    {
+      "id": "PER245-1blmmgp",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 1,
+      "term": "Buckberg kardiyoplejisi",
+      "en": "Buckberg (integrated) blood cardioplegia",
+      "definition": "Soğuk kan kardiyoplejisi indüksiyonu ve idamesini sıcak terminal reperfüzyonla birleştiren entegre miyokard koruma yaklaşımı.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0775qzs",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Hot shot",
+      "en": "Terminal warm reperfusion",
+      "definition": "Klemp kaldırılmadan hemen önce verilen sıcak, hiperkalemik, zenginleştirilmiş kan kardiyoplejisi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0sjg9x2",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 3,
+      "term": "Antegrad kardiyopleji",
+      "en": "Antegrade cardioplegia",
+      "definition": "Koroner arterlere doğal akım yönünde verilen kardiyopleji; aort kökünden veya doğrudan koroner ağızlarından uygulanabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0w9e4ag",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd kardiyopleji",
+      "en": "Retrograde cardioplegia",
+      "definition": "Koroner sinüsten venöz sistem yoluyla geriye doğru verilen kardiyopleji.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-13gtp5y",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Ostial kardiyopleji",
+      "en": "Ostial (direct coronary) cardioplegia",
+      "definition": "Kardiyoplejinin koroner ağızlarına doğrudan verilmesi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-12yiq5z",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 1,
+      "term": "Aort kros-klempi",
+      "en": "Aortic cross-clamp",
+      "definition": "Çıkan aortanın klemplenmesi; kalp dolaşımdan ayrılır, iskemi süresi başlar.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0oovofp",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "De-airing",
+      "en": "De-airing",
+      "definition": "Klemp kaldırma ve ejeksiyon öncesi kalp ve aortadan havanın çıkarılması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-08irsk8",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "term",
+      "importance": 2,
+      "term": "Trendelenburg pozisyonu",
+      "en": "Trendelenburg position",
+      "definition": "Başın gövdeye göre aşağıda tutulduğu pozisyon.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1fwm7rs",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan gazını sıcaklıkla yorumlama",
+      "left": {
+        "title": "Alfa-stat",
+        "points": [
+          "Ölçüm 37 °C'de, sıcaklık düzeltmesi kullanılmaz",
+          "Soğumayla oluşan doğal pH değişimine izin verilir"
+        ]
+      },
+      "right": {
+        "title": "pH-stat",
+        "points": [
+          "Hasta sıcaklığına düzeltilmiş değerler kullanılır",
+          "Hedef pH için CO2 eklenmesi gerekebilir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-15fj3fp",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kardiyopleji yolları",
+      "left": {
+        "title": "Antegrad kök yolu",
+        "points": [
+          "Aort kökünden koronerlere doğal yönde",
+          "Aort kapak yeterliliği dağılımı etkiler"
+        ]
+      },
+      "right": {
+        "title": "Retrograd yol",
+        "points": [
+          "Koroner sinüsten venöz sistem üzerinden",
+          "Sağ ventrikül dağılımı sınırlı olabilir"
+        ]
+      },
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0e8ir5x",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kristaloid kardiyopleji tipleri",
+      "left": {
+        "title": "HTK",
+        "points": [
+          "İntrasellüler tip, düşük sodyumlu yaklaşım",
+          "Genellikle tek doz stratejisi"
+        ]
+      },
+      "right": {
+        "title": "St. Thomas No.2",
+        "points": [
+          "Ekstrasellüler tip, yüksek potasyumlu yaklaşım",
+          "Genellikle tekrarlanan doz stratejisi"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0p7wk78",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan-kristaloid oranı",
+      "left": {
+        "title": "del Nido",
+        "points": [
+          "Kan:kristaloid genellikle 1:4",
+          "Çoğu kez tek doz yaklaşımı"
+        ]
+      },
+      "right": {
+        "title": "Buckberg",
+        "points": [
+          "Kan:kristaloid tipik olarak 4:1",
+          "Çok dozlu entegre yaklaşım"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-192kl7h",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Sıcaklık için genel gradyan",
+      "body": "STS/SCA/AmSECT 2015, soğutma ve ısıtmada oksijenatör arteriyel çıkışı ile venöz giriş arasındaki sıcaklık farkının 10 °C'yi aşmamasını önerir.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER245-11ck7lh",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Isıtmada daha dar sınır",
+      "body": "STS/SCA/AmSECT 2015'e göre arteriyel çıkış ≥30 °C iken ısıtma gradyanı ≤4 °C ve ısıtma hızı ≤0,5 °C/dk olmalıdır.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER245-0yyjakz",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "fact",
+      "importance": 2,
+      "title": "del Nido karışım oranı",
+      "body": "Boston Children's tarifinde 4 kısım kristaloid, 1 kısım hasta kanıyla karıştırılır; kan:kristaloid oranı 1:4'tür.",
+      "source": "Boston Children’s, del Nido 2012"
+    },
+    {
+      "id": "PER245-026btq7",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Sıcak terminal reperfüzyon",
+      "body": "Hot shot, aort klempi kaldırılmadan hemen önce sıcak zenginleştirilmiş kan kardiyoplejisi verilmesidir; miyokard metabolik toparlanmasını desteklemeyi amaçlar.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1603c3u",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Retrograd yöntemin sınırları",
+      "body": "Koroner sinüs yoluyla uygulamanın sağ ventriküle dağılımı yetersiz olabilir; persistan sol üst vena kava da solüsyon kaçışına yol açabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-172zg0u",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "flip",
+      "importance": 2,
+      "question": "pH-stat yönetiminde CO2 eklenmesi serebral dolaşımı nasıl etkiler?",
+      "answer": "Serebral vazodilatasyonu ve kan akımını artırabilir; soğutma daha homojen olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0t9qyqh",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ventrikül ventinin duvar gerilimini azaltması ne sağlar?",
+      "answer": "Distansiyonu ve miyokard oksijen gereksinimini azaltmaya; subendokardiyal perfüzyonu kolaylaştırmaya yardımcı olur.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-06yh5ko",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "remember",
+      "importance": 3,
+      "title": "Serebral hipertermiden kaçın",
+      "body": "2024 EACTS, oksijenatör arteriyel çıkışını **en fazla 37 °C** ile sınırlamayı önerir; ısıtma kontrollü yürütülür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-17moc5i",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "remember",
+      "importance": 3,
+      "title": "HTK hiponatremisinde osmolalite",
+      "body": "HTK sonrası düşük sodyum, solüsyonun bileşimi nedeniyle **izo-ozmotik** olabilir. Sodyum sayısını tek başına değerlendirmek hatalı düzeltmeye yol açabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0lt7koh",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "del Nido'daki lidokainin başlıca kanal etkisi hangisidir?",
+      "options": [
+        "Kalsiyum kanal aktivasyonu",
+        "Sodyum kanal blokajı",
+        "Potasyum kanal açılması",
+        "Klor kanal blokajı"
+      ],
+      "correct": 1,
+      "explanation": "Lidokain sodyum kanal blokajıyla kardiyomiyosit elektriksel aktivitesini etkiler.",
+      "source": "Boston Children’s, del Nido 2012"
+    },
+    {
+      "id": "PER245-1es2zb1",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort kökü yerine koroner ağızlara doğrudan solüsyon verilmesi hangi yoldur?",
+      "options": [
+        "Aort kökünden antegrad kardiyopleji",
+        "Koroner sinüsten retrograd kardiyopleji",
+        "Ostial kardiyopleji",
+        "Koroner greft üzerinden antegrad kardiyopleji"
+      ],
+      "correct": 2,
+      "explanation": "Ostial uygulama koroner ağızlara doğrudandır; retrograd uygulama koroner sinüs yoludur.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0zwcx9q",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isıtma sırasında oksijenatör çıkış sıcaklığı serebral perfüzat sıcaklığını nasıl yansıtabilir?",
+      "options": [
+        "Her zaman eşittir",
+        "Serebral perfüzat sıcaklığını daima fazla gösterir",
+        "Yalnız miyokard sıcaklığını gösterir",
+        "Serebral perfüzat sıcaklığını olduğundan düşük gösterebilir"
+      ],
+      "correct": 3,
+      "explanation": "2015 STS/SCA/AmSECT, oksijenatör arteriyel çıkış sıcaklığının ısıtma sırasında serebral perfüzat sıcaklığını olduğundan düşük gösterebileceğini belirtir.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER245-1761zev",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Venting hangi mekanik sorunu önlemeyi amaçlar?",
+      "options": [
+        "Ventrikül distansiyonu",
+        "Arteriyel kanül jet hasarı",
+        "Venöz kanül kollapsı",
+        "Koroner sinüs perforasyonu"
+      ],
+      "correct": 0,
+      "explanation": "Vent kalbe dönen kanı uzaklaştırarak distansiyon ve duvar gerilmesini sınırlar.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0qy2k4u",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort klemp süresi kaydı hangi temel süreyi izlemede kullanılır?",
+      "options": [
+        "Toplam KPB destek süresi",
+        "Miyokard iskemi süresi",
+        "Sistemik dolaşım arresti süresi",
+        "Yeniden ısıtma süresi"
+      ],
+      "correct": 1,
+      "explanation": "Klemp miyokardı sistemik arteriyel dolaşımdan ayırır; iskemi ve koruma planı bu süreyle ilişkilidir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1wi01fz",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Hipotermi, pıhtılaşma ve trombosit işlevlerini olumsuz etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Soğutma metabolik gereksinimi düşürürken koagülopatiye katkıda bulunabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0kjo0un",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kardiyoplejide yüksek potasyum kalbi fizyolojik olarak sistolde durdurmayı amaçlar.",
+      "isTrue": false,
+      "explanation": "Hiperkalemik kardiyopleji diyastolik elektromekanik arest sağlamak için kullanılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0vfjsov",
+      "course": "PER245",
+      "topic": "Hipotermi, kan gazı ve kardiyopleji",
+      "type": "tf",
+      "importance": 2,
+      "statement": "De-airing, kalbin içindeki havayı bırakıp ejeksiyonu başlatma işlemidir.",
+      "isTrue": false,
+      "explanation": "De-airing kalp ve aortadan havanın uzaklaştırılmasıdır; TEE gibi yöntemlerle değerlendirilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

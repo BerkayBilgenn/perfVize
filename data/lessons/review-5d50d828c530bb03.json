@@ -1,0 +1,564 @@
+{
+  "id": "review-5d50d828c530bb03",
+  "title": "Perfüzyonda sterilite ve M. chimaera",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Isıtıcı-soğutucu cihaz",
+      "text": "Heater-cooler device (HCD)\nHastanın sıcaklığını düzenlemek için kapalı sıvı devresini ısı değiştirici veya battaniyeye bağlayan cihaz. Tank sıvısı kan dolaşımından izoledir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0w6wzgk",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "term",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "term": "Isıtıcı-soğutucu cihaz",
+        "definition": "Hastanın sıcaklığını düzenlemek için kapalı sıvı devresini ısı değiştirici veya battaniyeye bağlayan cihaz. Tank sıvısı kan dolaşımından izoledir.",
+        "en": "Heater-cooler device (HCD)"
+      }
+    },
+    {
+      "title": "Mycobacterium chimaera",
+      "text": "Su bazlı HCD'lerde üreyen, yavaş üreyen tüberküloz dışı mikobakteri; açık kalp cerrahisi sonrası enfeksiyon.",
+      "images": [],
+      "card": {
+        "id": "PER247-0dsr0zd",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "term",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "term": "Mycobacterium chimaera",
+        "definition": "Su bazlı HCD'lerde üreyen, yavaş üreyen tüberküloz dışı mikobakteri; açık kalp cerrahisi sonrası enfeksiyon."
+      }
+    },
+    {
+      "title": "Tüberküloz dışı mikobakteri",
+      "text": "Nontuberculous mycobacteria\nTüberküloza yol açan gruptan farklı, su ve toprak gibi çevresel kaynaklarda bulunabilen mikobakteriler. **M. chimaera** bu gruba örnektir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1wozosd",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "term",
+        "importance": 1,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "term": "Tüberküloz dışı mikobakteri",
+        "definition": "Tüberküloza yol açan gruptan farklı, su ve toprak gibi çevresel kaynaklarda bulunabilen mikobakteriler. **M. chimaera** bu gruba örnektir.",
+        "en": "Nontuberculous mycobacteria"
+      }
+    },
+    {
+      "title": "Kardiyopulmoner baypas",
+      "text": "Cardiopulmonary bypass\nKalp-akciğer makinesiyle dolaşımın ve oksijenasyonun geçici olarak sağlanması; HCD kullanılan işlemler.",
+      "images": [],
+      "card": {
+        "id": "PER247-1b7o47o",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "term",
+        "importance": 1,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "term": "Kardiyopulmoner baypas",
+        "definition": "Kalp-akciğer makinesiyle dolaşımın ve oksijenasyonun geçici olarak sağlanması; HCD kullanılan işlemler.",
+        "en": "Cardiopulmonary bypass"
+      }
+    },
+    {
+      "title": "Tank suyu kanla birleşmez",
+      "text": "Isıtıcı-soğutucunun sıcaklık kontrollü tank sıvısı, **hastadan, kardiyopleji solüsyonundan ve kan devresinden izoledir**. Enfeksiyon riski yalnız doğrudan sıvı karışmasıyla açıklanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1u7t8f5",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "fact",
+        "importance": 2,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "title": "Tank suyu kanla birleşmez",
+        "body": "Isıtıcı-soğutucunun sıcaklık kontrollü tank sıvısı, **hastadan, kardiyopleji solüsyonundan ve kan devresinden izoledir**. Enfeksiyon riski yalnız doğrudan sıvı karışmasıyla açıklanmaz."
+      }
+    },
+    {
+      "title": "HCD için su kaynağı",
+      "text": "FDA, tank durulama/doldurmada **musluk suyu kullanılmamasını**; steril veya **≤0,22 µm** filtreden geçirilmiş suyu belirtir. Cihaz üreticisinin kullanım talimatı izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-01l8ez3",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "fact",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "title": "HCD için su kaynağı",
+        "body": "FDA, tank durulama/doldurmada **musluk suyu kullanılmamasını**; steril veya **≤0,22 µm** filtreden geçirilmiş suyu belirtir. Cihaz üreticisinin kullanım talimatı izlenir."
+      }
+    },
+    {
+      "title": "Egzozun yönü",
+      "text": "FDA, ısıtıcı-soğutucu egzozunun **steril alandan uzağa** ve ameliyathane egzozuna yönlendirilmesini önerir. Sadece su devresinin kapalı olması aerosol riskini kaldırmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1p6c8gn",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "fact",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "title": "Egzozun yönü",
+        "body": "FDA, ısıtıcı-soğutucu egzozunun **steril alandan uzağa** ve ameliyathane egzozuna yönlendirilmesini önerir. Sadece su devresinin kapalı olması aerosol riskini kaldırmaz."
+      }
+    },
+    {
+      "title": "Gecikmiş enfeksiyon",
+      "text": "M. chimaera yavaş üreyebilir; ısıtıcı-soğutucu maruziyetiyle ilişkili enfeksiyon **aylar sonra veya bir yılı aşan sürede** ortaya çıkabilir. Erken belirti yokluğu riski dışlamaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1s13c3p",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "fact",
+        "importance": 2,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "title": "Gecikmiş enfeksiyon",
+        "body": "M. chimaera yavaş üreyebilir; ısıtıcı-soğutucu maruziyetiyle ilişkili enfeksiyon **aylar sonra veya bir yılı aşan sürede** ortaya çıkabilir. Erken belirti yokluğu riski dışlamaz."
+      }
+    },
+    {
+      "title": "Ultra temiz hava da yeterli olmadı",
+      "text": "Sommerstein’in 2016 deneyinde cihazdan yönlenen **deney dumanı 23 sn’de** cerrahi alana ulaşmış; ayrı havalandırmasız deneyde **5 m’ye kadar** kültür pozitifliği görülmüştür. Duman zamanı, bakteriyel aerosolün ölçülmüş ulaşma zamanı değildir. Bunlar çalışma koşullarına ait bulgulardır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0wo7tem",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "fact",
+        "importance": 1,
+        "source": "Sommerstein, EID 2016",
+        "title": "Ultra temiz hava da yeterli olmadı",
+        "body": "Sommerstein’in 2016 deneyinde cihazdan yönlenen **deney dumanı 23 sn’de** cerrahi alana ulaşmış; ayrı havalandırmasız deneyde **5 m’ye kadar** kültür pozitifliği görülmüştür. Duman zamanı, bakteriyel aerosolün ölçülmüş ulaşma zamanı değildir. Bunlar çalışma koşullarına ait bulgulardır."
+      }
+    },
+    {
+      "title": "HCD sıvı hattında bulanıklık görülünce ne yapılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1q6dj4u",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "flip",
+        "importance": 2,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "question": "HCD sıvı hattında bulanıklık görülünce ne yapılır?",
+        "answer": "Cihaz **hemen kullanımdan kaldırılır** ve enfeksiyon kontrol ekibiyle uygun değerlendirme yürütülür. Bulanıklık/renk değişimi olası kontaminasyon işaretidir."
+      }
+    },
+    {
+      "title": "M. chimaera salgınında genom incelemesi neyi destekledi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0kozexj",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "flip",
+        "importance": 1,
+        "source": "CDC MMWR M. chimaera 2016",
+        "question": "M. chimaera salgınında genom incelemesi neyi destekledi?",
+        "answer": "Hasta ve cihaz izolatlarının yakınlığı, **üretim yerindeki ortak nokta kaynaklı kontaminasyonu** destekledi. Bulgular 2016 salgın araştırmasının bağlamında yorumlanır."
+      }
+    },
+    {
+      "title": "HCD’de talimata sadık kal",
+      "text": "Cihazın **güncel temizlik/dezenfeksiyon talimatı** çalışanların erişiminde olmalıdır. Daha güçlü solüsyon veya daha sık işlem, üretici onayı olmadan daha güvenli sayılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1q2rrc5",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "remember",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "title": "HCD’de talimata sadık kal",
+        "body": "Cihazın **güncel temizlik/dezenfeksiyon talimatı** çalışanların erişiminde olmalıdır. Daha güçlü solüsyon veya daha sık işlem, üretici onayı olmadan daha güvenli sayılmaz."
+      }
+    },
+    {
+      "title": "Saf su sözü tek başına yeterli değil",
+      "text": "FDA, ısıtıcı-soğutucuda **deiyonize veya ters ozmoz suyunu önermez**; metal bileşenlerde korozyona katkı sağlayabilir. Steril ya da uygun filtreli su seçimi, üretici talimatıyla birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1t575vb",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "remember",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "title": "Saf su sözü tek başına yeterli değil",
+        "body": "FDA, ısıtıcı-soğutucuda **deiyonize veya ters ozmoz suyunu önermez**; metal bileşenlerde korozyona katkı sağlayabilir. Steril ya da uygun filtreli su seçimi, üretici talimatıyla birlikte değerlendirilir."
+      }
+    },
+    {
+      "title": "Kanla temas eden oksijenatör/perfüzyon devresi hangi risk grubudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-09m7e0w",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Kanla temas eden oksijenatör/perfüzyon devresi hangi risk grubudur?",
+        "options": [
+          "Yarı kritik malzeme",
+          "Kritik olmayan malzeme",
+          "Çevre yüzeyi",
+          "Kritik malzeme"
+        ],
+        "correct": 3,
+        "explanation": "Damar sistemi/kanla temas nedeniyle perfüzyon bileşenleri **kritik**tir ve steril olmalıdır."
+      }
+    },
+    {
+      "title": "HCD kaynaklı M. chimaera bulaşını açıklayan yol hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-110mrlf",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "mcq",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "question": "HCD kaynaklı M. chimaera bulaşını açıklayan yol hangisidir?",
+        "options": [
+          "Kontamine tank suyunun aerosolü",
+          "Tank suyunun normalde kana karışması",
+          "Kardiyopleji ilacının kimyasal bozulması",
+          "Oksijen gazının kan devresine geçişi"
+        ],
+        "correct": 0,
+        "explanation": "FDA, kontamine tank suyunun **aerosolize olup cerrahi alana ulaşmasını** temel risk olarak açıklar."
+      }
+    },
+    {
+      "title": "HCD temizlik sıklığı ve dezenfektan gücü hangi kaynaktan seçilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-03abddn",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "mcq",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "question": "HCD temizlik sıklığı ve dezenfektan gücü hangi kaynaktan seçilir?",
+        "options": [
+          "Başka modelin eski temizlik listesi",
+          "Güncel üretici kullanım talimatı",
+          "Yalnız cihazın görünür temizliği",
+          "Personelin gelişigüzel tercihleri"
+        ],
+        "correct": 1,
+        "explanation": "FDA, güncel **üretici talimatına kesin uyumu** önerir; daha yoğun dezenfektan cihazı hasarlayabilir."
+      }
+    },
+    {
+      "title": "HCD ilişkili enfeksiyonda öne çıkan hasta grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1oql5xh",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "mcq",
+        "importance": 3,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "question": "HCD ilişkili enfeksiyonda öne çıkan hasta grubu hangisidir?",
+        "options": [
+          "Yalnız kapalı periferik kateter işlemi yapılanlar",
+          "İmplantsız yüzeysel deri cerrahisi geçirenler",
+          "Açık göğüs cerrahisi ve implant alanlar",
+          "Isıtıcı-soğutucu kullanılmadan diyaliz alanlar"
+        ],
+        "correct": 2,
+        "explanation": "Açık göğüs kardiyotorasik cerrahi ve **kapak/vasküler greft implantları** önemli maruziyet bağlamıdır."
+      }
+    },
+    {
+      "title": "Başka HCD’ye geçerken yeni aksesuar, hortum ve bağlantılar yeniden kontaminasyonu azaltır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0lgag6t",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "tf",
+        "importance": 2,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "statement": "Başka HCD’ye geçerken yeni aksesuar, hortum ve bağlantılar yeniden kontaminasyonu azaltır.",
+        "isTrue": true,
+        "explanation": "FDA, farklı cihaz kullanıldığında **yeni aksesuar/hortum/bağlantı** kullanmayı belirtir."
+      }
+    },
+    {
+      "title": "HCD’de daha yüksek dezenfektan konsantrasyonu üretici talimatından bağımsız güvenle uygulanabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0d44r3q",
+        "course": "PER247",
+        "topic": "Perfüzyonda sterilite ve M. chimaera",
+        "type": "tf",
+        "importance": 2,
+        "source": "FDA Isıtıcı-soğutucu cihazlar",
+        "statement": "HCD’de daha yüksek dezenfektan konsantrasyonu üretici talimatından bağımsız güvenle uygulanabilir.",
+        "isTrue": false,
+        "explanation": "Daha sık temizlik veya **daha yüksek konsantrasyon cihazı hasarlayabilir**; üretici talimatı esas alınır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0w6wzgk",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "term",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Isıtıcı-soğutucu cihaz",
+      "definition": "Hastanın sıcaklığını düzenlemek için kapalı sıvı devresini ısı değiştirici veya battaniyeye bağlayan cihaz. Tank sıvısı kan dolaşımından izoledir.",
+      "en": "Heater-cooler device (HCD)"
+    },
+    {
+      "id": "PER247-0dsr0zd",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "term",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Mycobacterium chimaera",
+      "definition": "Su bazlı HCD'lerde üreyen, yavaş üreyen tüberküloz dışı mikobakteri; açık kalp cerrahisi sonrası enfeksiyon."
+    },
+    {
+      "id": "PER247-1wozosd",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "term",
+      "importance": 1,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Tüberküloz dışı mikobakteri",
+      "definition": "Tüberküloza yol açan gruptan farklı, su ve toprak gibi çevresel kaynaklarda bulunabilen mikobakteriler. **M. chimaera** bu gruba örnektir.",
+      "en": "Nontuberculous mycobacteria"
+    },
+    {
+      "id": "PER247-1b7o47o",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "term",
+      "importance": 1,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "term": "Kardiyopulmoner baypas",
+      "definition": "Kalp-akciğer makinesiyle dolaşımın ve oksijenasyonun geçici olarak sağlanması; HCD kullanılan işlemler.",
+      "en": "Cardiopulmonary bypass"
+    },
+    {
+      "id": "PER247-1u7t8f5",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "fact",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Tank suyu kanla birleşmez",
+      "body": "Isıtıcı-soğutucunun sıcaklık kontrollü tank sıvısı, **hastadan, kardiyopleji solüsyonundan ve kan devresinden izoledir**. Enfeksiyon riski yalnız doğrudan sıvı karışmasıyla açıklanmaz."
+    },
+    {
+      "id": "PER247-01l8ez3",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "fact",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "HCD için su kaynağı",
+      "body": "FDA, tank durulama/doldurmada **musluk suyu kullanılmamasını**; steril veya **≤0,22 µm** filtreden geçirilmiş suyu belirtir. Cihaz üreticisinin kullanım talimatı izlenir."
+    },
+    {
+      "id": "PER247-1p6c8gn",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "fact",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Egzozun yönü",
+      "body": "FDA, ısıtıcı-soğutucu egzozunun **steril alandan uzağa** ve ameliyathane egzozuna yönlendirilmesini önerir. Sadece su devresinin kapalı olması aerosol riskini kaldırmaz."
+    },
+    {
+      "id": "PER247-1s13c3p",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "fact",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Gecikmiş enfeksiyon",
+      "body": "M. chimaera yavaş üreyebilir; ısıtıcı-soğutucu maruziyetiyle ilişkili enfeksiyon **aylar sonra veya bir yılı aşan sürede** ortaya çıkabilir. Erken belirti yokluğu riski dışlamaz."
+    },
+    {
+      "id": "PER247-0wo7tem",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "fact",
+      "importance": 1,
+      "source": "Sommerstein, EID 2016",
+      "title": "Ultra temiz hava da yeterli olmadı",
+      "body": "Sommerstein’in 2016 deneyinde cihazdan yönlenen **deney dumanı 23 sn’de** cerrahi alana ulaşmış; ayrı havalandırmasız deneyde **5 m’ye kadar** kültür pozitifliği görülmüştür. Duman zamanı, bakteriyel aerosolün ölçülmüş ulaşma zamanı değildir. Bunlar çalışma koşullarına ait bulgulardır."
+    },
+    {
+      "id": "PER247-1q6dj4u",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "flip",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "question": "HCD sıvı hattında bulanıklık görülünce ne yapılır?",
+      "answer": "Cihaz **hemen kullanımdan kaldırılır** ve enfeksiyon kontrol ekibiyle uygun değerlendirme yürütülür. Bulanıklık/renk değişimi olası kontaminasyon işaretidir."
+    },
+    {
+      "id": "PER247-0kozexj",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC MMWR M. chimaera 2016",
+      "question": "M. chimaera salgınında genom incelemesi neyi destekledi?",
+      "answer": "Hasta ve cihaz izolatlarının yakınlığı, **üretim yerindeki ortak nokta kaynaklı kontaminasyonu** destekledi. Bulgular 2016 salgın araştırmasının bağlamında yorumlanır."
+    },
+    {
+      "id": "PER247-1q2rrc5",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "remember",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "HCD’de talimata sadık kal",
+      "body": "Cihazın **güncel temizlik/dezenfeksiyon talimatı** çalışanların erişiminde olmalıdır. Daha güçlü solüsyon veya daha sık işlem, üretici onayı olmadan daha güvenli sayılmaz."
+    },
+    {
+      "id": "PER247-1t575vb",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "remember",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "title": "Saf su sözü tek başına yeterli değil",
+      "body": "FDA, ısıtıcı-soğutucuda **deiyonize veya ters ozmoz suyunu önermez**; metal bileşenlerde korozyona katkı sağlayabilir. Steril ya da uygun filtreli su seçimi, üretici talimatıyla birlikte değerlendirilir."
+    },
+    {
+      "id": "PER247-09m7e0w",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kanla temas eden oksijenatör/perfüzyon devresi hangi risk grubudur?",
+      "options": [
+        "Yarı kritik malzeme",
+        "Kritik olmayan malzeme",
+        "Çevre yüzeyi",
+        "Kritik malzeme"
+      ],
+      "correct": 3,
+      "explanation": "Damar sistemi/kanla temas nedeniyle perfüzyon bileşenleri **kritik**tir ve steril olmalıdır."
+    },
+    {
+      "id": "PER247-110mrlf",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "mcq",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "question": "HCD kaynaklı M. chimaera bulaşını açıklayan yol hangisidir?",
+      "options": [
+        "Kontamine tank suyunun aerosolü",
+        "Tank suyunun normalde kana karışması",
+        "Kardiyopleji ilacının kimyasal bozulması",
+        "Oksijen gazının kan devresine geçişi"
+      ],
+      "correct": 0,
+      "explanation": "FDA, kontamine tank suyunun **aerosolize olup cerrahi alana ulaşmasını** temel risk olarak açıklar."
+    },
+    {
+      "id": "PER247-03abddn",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "mcq",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "question": "HCD temizlik sıklığı ve dezenfektan gücü hangi kaynaktan seçilir?",
+      "options": [
+        "Başka modelin eski temizlik listesi",
+        "Güncel üretici kullanım talimatı",
+        "Yalnız cihazın görünür temizliği",
+        "Personelin gelişigüzel tercihleri"
+      ],
+      "correct": 1,
+      "explanation": "FDA, güncel **üretici talimatına kesin uyumu** önerir; daha yoğun dezenfektan cihazı hasarlayabilir."
+    },
+    {
+      "id": "PER247-1oql5xh",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "mcq",
+      "importance": 3,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "question": "HCD ilişkili enfeksiyonda öne çıkan hasta grubu hangisidir?",
+      "options": [
+        "Yalnız kapalı periferik kateter işlemi yapılanlar",
+        "İmplantsız yüzeysel deri cerrahisi geçirenler",
+        "Açık göğüs cerrahisi ve implant alanlar",
+        "Isıtıcı-soğutucu kullanılmadan diyaliz alanlar"
+      ],
+      "correct": 2,
+      "explanation": "Açık göğüs kardiyotorasik cerrahi ve **kapak/vasküler greft implantları** önemli maruziyet bağlamıdır."
+    },
+    {
+      "id": "PER247-0lgag6t",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "tf",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "statement": "Başka HCD’ye geçerken yeni aksesuar, hortum ve bağlantılar yeniden kontaminasyonu azaltır.",
+      "isTrue": true,
+      "explanation": "FDA, farklı cihaz kullanıldığında **yeni aksesuar/hortum/bağlantı** kullanmayı belirtir."
+    },
+    {
+      "id": "PER247-0d44r3q",
+      "course": "PER247",
+      "topic": "Perfüzyonda sterilite ve M. chimaera",
+      "type": "tf",
+      "importance": 2,
+      "source": "FDA Isıtıcı-soğutucu cihazlar",
+      "statement": "HCD’de daha yüksek dezenfektan konsantrasyonu üretici talimatından bağımsız güvenle uygulanabilir.",
+      "isTrue": false,
+      "explanation": "Daha sık temizlik veya **daha yüksek konsantrasyon cihazı hasarlayabilir**; üretici talimatı esas alınır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

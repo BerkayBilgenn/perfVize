@@ -1,0 +1,945 @@
+{
+  "id": "review-a0e94a90b1925b59",
+  "title": "ECMO yönetimi, ayırma ve transport",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Akciğer dinlendirme",
+      "text": "Lung rest\nECMO sırasında ventilatör basınç, hacim, hız ve FiO2'nin akciğer hasarını önlemek için düşük tutulması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1jwqiqi",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 3,
+        "term": "Akciğer dinlendirme",
+        "en": "Lung rest",
+        "definition": "ECMO sırasında ventilatör basınç, hacim, hız ve FiO2'nin akciğer hasarını önlemek için düşük tutulması.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VILI",
+      "text": "Ventilator-induced lung injury\nYüksek basınç/hacimle mekanik ventilasyonun yaptığı akciğer hasarı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1m6wkab",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 3,
+        "term": "VILI",
+        "en": "Ventilator-induced lung injury",
+        "definition": "Yüksek basınç/hacimle mekanik ventilasyonun yaptığı akciğer hasarı.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Prone pozisyon",
+      "text": "Prone positioning\nYüzüstü yatırma; ARDS’de mortalite yararı kanıtlıdır. VV ECMO öncesi, kontrendikasyon yoksa denenmesi önerilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1qbyzom",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 2,
+        "term": "Prone pozisyon",
+        "en": "Prone positioning",
+        "definition": "Yüzüstü yatırma; ARDS’de mortalite yararı kanıtlıdır. VV ECMO öncesi, kontrendikasyon yoksa denenmesi önerilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Weaning",
+      "text": "Weaning\nNativ organ işlevi düzelirken ekstrakorporeal desteğin kademeli olarak azaltılması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0jepwvu",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 3,
+        "term": "Weaning",
+        "en": "Weaning",
+        "definition": "Nativ organ işlevi düzelirken ekstrakorporeal desteğin kademeli olarak azaltılması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Trial-off",
+      "text": "Trial off\nNativ organın yeterliliğini değerlendirmek için ekstrakorporeal desteğin geçici olarak azaltıldığı veya kaldırıldığı ayırma denemesi; yöntem ECMO moduna bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0bi49wr",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 3,
+        "term": "Trial-off",
+        "en": "Trial off",
+        "definition": "Nativ organın yeterliliğini değerlendirmek için ekstrakorporeal desteğin geçici olarak azaltıldığı veya kaldırıldığı ayırma denemesi; yöntem ECMO moduna bağlıdır.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "PCRTO",
+      "text": "Pump-controlled retrograde trial off\nVA ECMO’dan ayırmada pompa hızıyla kontrollü retrograd akım oluşturularak nativ kalp işlevinin değerlendirildiği deneme.",
+      "images": [],
+      "card": {
+        "id": "PER207-1024u1n",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 1,
+        "term": "PCRTO",
+        "en": "Pump-controlled retrograde trial off",
+        "definition": "VA ECMO’dan ayırmada pompa hızıyla kontrollü retrograd akım oluşturularak nativ kalp işlevinin değerlendirildiği deneme.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "LVOT VTI",
+      "text": "LV outflow tract velocity-time integral\nEkokardiyografide sol ventrikül çıkış yolu akım hızının zamana göre integrali; atım hacmini değerlendirmeye yardım eden uzunluk ölçüsü.",
+      "images": [],
+      "card": {
+        "id": "PER207-1icblp5",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 1,
+        "term": "LVOT VTI",
+        "en": "LV outflow tract velocity-time integral",
+        "definition": "Ekokardiyografide sol ventrikül çıkış yolu akım hızının zamana göre integrali; atım hacmini değerlendirmeye yardım eden uzunluk ölçüsü.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Dekanülasyon",
+      "text": "Decannulation\nEkstrakorporeal destek sonlandırılırken damar içindeki kanüllerin çıkarılması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1akitv6",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 2,
+        "term": "Dekanülasyon",
+        "en": "Decannulation",
+        "definition": "Ekstrakorporeal destek sonlandırılırken damar içindeki kanüllerin çıkarılması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hub-and-spoke ağı",
+      "text": "Hub-and-spoke network\nDeneyimli merkez (hub) ile çevre hastaneler (spoke) arasında bölgesel ECMO ağı.",
+      "images": [],
+      "card": {
+        "id": "PER207-05b1p1i",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 1,
+        "term": "Hub-and-spoke ağı",
+        "en": "Hub-and-spoke network",
+        "definition": "Deneyimli merkez (hub) ile çevre hastaneler (spoke) arasında bölgesel ECMO ağı.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Time-out ve debriefing",
+      "text": "Time-out / debriefing\nİşlem öncesi doğrulama duraklaması / işlem sonrası ekip değerlendirmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1j4yjpt",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 1,
+        "term": "Time-out ve debriefing",
+        "en": "Time-out / debriefing",
+        "definition": "İşlem öncesi doğrulama duraklaması / işlem sonrası ekip değerlendirmesi.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Uyanık ECMO",
+      "text": "Awake ECMO\nEkstübe, uyanık ve mobilize hastanın ECMO ile desteklenmesi (ör. akciğer nakline köprü).",
+      "images": [],
+      "card": {
+        "id": "PER207-14n0kww",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "term",
+        "importance": 1,
+        "term": "Uyanık ECMO",
+        "en": "Awake ECMO",
+        "definition": "Ekstübe, uyanık ve mobilize hastanın ECMO ile desteklenmesi (ör. akciğer nakline köprü).",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Destek azaltma ve ayırma denemesi",
+      "text": "Weaning\nDestek kademeli olarak azaltılır\nNativ işlevdeki toparlanmayı izler\n\nTrial-off\nDestek geçici olarak kaldırılır/azaltılır\nNativ işlevin yeterliliğini sınar",
+      "images": [],
+      "card": {
+        "id": "PER207-18eeomt",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "compare",
+        "importance": 2,
+        "title": "Destek azaltma ve ayırma denemesi",
+        "left": {
+          "title": "Weaning",
+          "points": [
+            "Destek kademeli olarak azaltılır",
+            "Nativ işlevdeki toparlanmayı izler"
+          ]
+        },
+        "right": {
+          "title": "Trial-off",
+          "points": [
+            "Destek geçici olarak kaldırılır/azaltılır",
+            "Nativ işlevin yeterliliğini sınar"
+          ]
+        },
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV’de hemodinamik hedefler",
+      "text": "ELSO VV 2021, yeterli dolaşım için **OAB ≥ 65 mmHg**, kardiyak indeks > 2,2 L/dk/m² ve normal laktatı birlikte değerlendirir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0z6xbvr",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "VV’de hemodinamik hedefler",
+        "body": "ELSO VV 2021, yeterli dolaşım için **OAB ≥ 65 mmHg**, kardiyak indeks > 2,2 L/dk/m² ve normal laktatı birlikte değerlendirir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV ayırmada oksijenasyon",
+      "text": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde **FiO2 ≤ %60**, PEEP ≤ 10 cmH2O ve PaO2 ≥ 70 mmHg yer alır; akciğer iyileşmesi birlikte aranır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1e9puxg",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "VV ayırmada oksijenasyon",
+        "body": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde **FiO2 ≤ %60**, PEEP ≤ 10 cmH2O ve PaO2 ≥ 70 mmHg yer alır; akciğer iyileşmesi birlikte aranır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV ayırmada ventilasyon",
+      "text": "ELSO VV 2021, ayırma değerlendirmesinde Vt ≤ 6 mL/kg **öngörülen vücut ağırlığı (PBW)**, plato basıncı ≤ 28 cmH2O ve solunum sayısı ≤ 28/dk ile kabul edilebilir ventilasyonu arar.",
+      "images": [],
+      "card": {
+        "id": "PER207-1n6l69t",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "VV ayırmada ventilasyon",
+        "body": "ELSO VV 2021, ayırma değerlendirmesinde Vt ≤ 6 mL/kg **öngörülen vücut ağırlığı (PBW)**, plato basıncı ≤ 28 cmH2O ve solunum sayısı ≤ 28/dk ile kabul edilebilir ventilasyonu arar.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Sweep kapalı denemenin süresi",
+      "text": "ELSO VV 2021’de sweep kapalı deneme **2–3 saat veya daha uzun** sürdürülür; kan gazı ve solunum yükü izlenir. Bu süre evrensel tek merkez protokolü değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0gcdo7p",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "Sweep kapalı denemenin süresi",
+        "body": "ELSO VV 2021’de sweep kapalı deneme **2–3 saat veya daha uzun** sürdürülür; kan gazı ve solunum yükü izlenir. Bu süre evrensel tek merkez protokolü değildir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VA ayırmada akım basamakları",
+      "text": "ELSO VA 2021’de akım **5–10 dakikada bir 500 mL/dk** azaltılarak nativ kalbin yanıtı değerlendirilir; hemodinami ve ekokardiyografi birlikte izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1kknxwq",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "VA ayırmada akım basamakları",
+        "body": "ELSO VA 2021’de akım **5–10 dakikada bir 500 mL/dk** azaltılarak nativ kalbin yanıtı değerlendirilir; hemodinami ve ekokardiyografi birlikte izlenir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VA ayırmada ekokardiyografi",
+      "text": "ELSO VA 2021’de LVEF ≥ %25–30 ve lateral mitral anülüs sistolik hızı ≥ 6 cm/sn destekleyici bulgulardır. Tek ölçüm ayırma kararını belirlemez.",
+      "images": [],
+      "card": {
+        "id": "PER207-0c5y4ev",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "VA ayırmada ekokardiyografi",
+        "body": "ELSO VA 2021’de LVEF ≥ %25–30 ve lateral mitral anülüs sistolik hızı ≥ 6 cm/sn destekleyici bulgulardır. Tek ölçüm ayırma kararını belirlemez.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Dekanülasyon sonrası tromboz taraması",
+      "text": "ELSO VV 2021, dekanülasyondan **24 saat sonra** derin ven trombozunun değerlendirilmesini önerir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0oq4lcb",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "fact",
+        "importance": 3,
+        "title": "Dekanülasyon sonrası tromboz taraması",
+        "body": "ELSO VV 2021, dekanülasyondan **24 saat sonra** derin ven trombozunun değerlendirilmesini önerir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV ECMO desteği azaltılırken solunum yükü neden izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1mny7me",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "flip",
+        "importance": 2,
+        "question": "VV ECMO desteği azaltılırken solunum yükü neden izlenir?",
+        "answer": "Kabul edilebilir kan gazı, hastanın aşırı solunum çabasıyla sağlanıyor olabilir. Ayırma değerlendirmesi gaz değişimini ve **solunum eforunu** birlikte kapsar.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VA ECMO ayırma denemesinde neden ekokardiyografi kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-10a09jk",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "flip",
+        "importance": 2,
+        "question": "VA ECMO ayırma denemesinde neden ekokardiyografi kullanılır?",
+        "answer": "Azaltılmış destek altında **sol ve sağ ventrikül işlevi**, dolum ve ejeksiyon değerlendirilir; arter basıncı tek başına kalbin yeterliliğini göstermez.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Hastaneler arası ECMO transportunda ekibin kendine yeterli olması ne anlama gelir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1h5y5vk",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "flip",
+        "importance": 2,
+        "question": "Hastaneler arası ECMO transportunda ekibin kendine yeterli olması ne anlama gelir?",
+        "answer": "Gaz ve güç kaynakları yanında yedek devre parçaları, uygun kanüller, gerekli ilaçlar ve acil müdahale ekipmanı taşımasıdır.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "ECMO sırasında sıvı yönetimi neden başlangıç ve stabil dönemde farklıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1jwdeg2",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "flip",
+        "importance": 2,
+        "question": "ECMO sırasında sıvı yönetimi neden başlangıç ve stabil dönemde farklıdır?",
+        "answer": "Başlangıçta yeterli dolaşım ve venöz drenaj sağlanır. Stabilizasyon sonrası fazla sıvının uzaklaştırılması ve akciğer ödeminin azaltılması değerlendirilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Dinlenme ventilasyonunun amacı",
+      "text": "ECMO gaz değişimini üstlenirken ventilasyon **akciğer hasarını azaltmak** için düzenlenir. Hipoksemide önce hasta ve devre nedenleri değerlendirilir; akciğer koruma yaklaşımı korunur.",
+      "images": [],
+      "card": {
+        "id": "PER207-11tmh45",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "remember",
+        "importance": 3,
+        "title": "Dinlenme ventilasyonunun amacı",
+        "body": "ECMO gaz değişimini üstlenirken ventilasyon **akciğer hasarını azaltmak** için düzenlenir. Hipoksemide önce hasta ve devre nedenleri değerlendirilir; akciğer koruma yaklaşımı korunur.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Transporttan önce kaynakları dene",
+      "text": "Hareketten önce ECMO sistemi **taşınabilir güç ve gaz kaynaklarına** geçirilip çalıştığı doğrulanır; hatların çekilmesini önleyen ekip düzeni kurulmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0jxat8z",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "remember",
+        "importance": 3,
+        "title": "Transporttan önce kaynakları dene",
+        "body": "Hareketten önce ECMO sistemi **taşınabilir güç ve gaz kaynaklarına** geçirilip çalıştığı doğrulanır; hatların çekilmesini önleyen ekip düzeni kurulmalıdır.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde FiO2 için hangi üst sınır verilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-023w0r2",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde FiO2 için hangi üst sınır verilir?",
+        "options": [
+          "%90",
+          "%60",
+          "%80",
+          "%100"
+        ],
+        "correct": 1,
+        "explanation": "Tablo 5’te FiO2 ≤ %60 yer alır; PEEP, PaO2 ve akciğer iyileşmesi de değerlendirilir. Tek başına FiO2 ayırma kararı değildir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV ECMO’da sweep kapalı ayırma denemesi sırasında ne izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1417x8q",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "mcq",
+        "importance": 2,
+        "question": "VV ECMO’da sweep kapalı ayırma denemesi sırasında ne izlenir?",
+        "options": [
+          "Balon augmentasyon dalgası",
+          "LVAD sürücü kablosunun akımı",
+          "Kan gazı ve solunum eforu",
+          "Purge basıncı ve solüsyonu"
+        ],
+        "correct": 2,
+        "explanation": "Sweep kapatılınca gaz değişimi nativ akciğere bırakılır; kan gazı ve solunum yükü değerlendirilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VA ECMO ayırma denemesinde düşük akım altında hangi inceleme özellikle nativ kalp işlevini gösterir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0eh9utn",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "mcq",
+        "importance": 2,
+        "question": "VA ECMO ayırma denemesinde düşük akım altında hangi inceleme özellikle nativ kalp işlevini gösterir?",
+        "options": [
+          "Akciğer oskültasyonu",
+          "Bronkoskopi",
+          "Plevral ultrasonografi",
+          "Ekokardiyografi"
+        ],
+        "correct": 3,
+        "explanation": "Ekokardiyografi, ventrikül işlevi ve ejeksiyonun destek azalırken nasıl değiştiğini gösterir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "ECMO transportunda tüp gerilimini azaltan hazırlık hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1qk3wcm",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ECMO transportunda tüp gerilimini azaltan hazırlık hangisidir?",
+        "options": [
+          "Hasta ve ECMO arabasının eşgüdümlü hareketi",
+          "Drenaj hattının daha fazla gerilmesi",
+          "Kanül sabitlemesinin gevşetilmesi",
+          "Devrenin hasta yatağından uzaklaştırılması"
+        ],
+        "correct": 0,
+        "explanation": "Hasta ve devre birlikte hareket ettirilir; bağlantıların çekilmesi önlenir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hemodinamik stabilizasyon sonrası ECMO’da fazla sıvının uzaklaştırılmasında hangi yöntem kullanılabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1dud08h",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hemodinamik stabilizasyon sonrası ECMO’da fazla sıvının uzaklaştırılmasında hangi yöntem kullanılabilir?",
+        "options": [
+          "Aort balon oklüzyonu",
+          "Hemofiltrasyon",
+          "Sefalik kanülasyon",
+          "Atriyal septostomi"
+        ],
+        "correct": 1,
+        "explanation": "Hemofiltrasyon sıvı dengesine yardım eder; diğer seçenekler drenaj veya yapısal destek yöntemleridir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde plato basıncı ≤ 28 cmH2O yer alır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0kixugb",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde plato basıncı ≤ 28 cmH2O yer alır.",
+        "isTrue": true,
+        "explanation": "Bu tarihli kılavuzda ≤ 28 cmH2O, düşük tidal hacim ve kabul edilebilir solunum yüküyle birlikte değerlendirilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ECMO hastaneler arası transportunda gaz ve güç kaynaklarına ek yedek malzeme hazırlığı da gerekir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-13eyk7s",
+        "course": "PER207",
+        "topic": "ECMO yönetimi, ayırma ve transport",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ECMO hastaneler arası transportunda gaz ve güç kaynaklarına ek yedek malzeme hazırlığı da gerekir.",
+        "isTrue": true,
+        "explanation": "Transport ekibi devre arızası ve kanül sorunu gibi olaylara karşı kendine yeterli olmalıdır.",
+        "source": "ELSO Genel 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1jwqiqi",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 3,
+      "term": "Akciğer dinlendirme",
+      "en": "Lung rest",
+      "definition": "ECMO sırasında ventilatör basınç, hacim, hız ve FiO2'nin akciğer hasarını önlemek için düşük tutulması.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1m6wkab",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 3,
+      "term": "VILI",
+      "en": "Ventilator-induced lung injury",
+      "definition": "Yüksek basınç/hacimle mekanik ventilasyonun yaptığı akciğer hasarı.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1qbyzom",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 2,
+      "term": "Prone pozisyon",
+      "en": "Prone positioning",
+      "definition": "Yüzüstü yatırma; ARDS’de mortalite yararı kanıtlıdır. VV ECMO öncesi, kontrendikasyon yoksa denenmesi önerilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0jepwvu",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 3,
+      "term": "Weaning",
+      "en": "Weaning",
+      "definition": "Nativ organ işlevi düzelirken ekstrakorporeal desteğin kademeli olarak azaltılması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0bi49wr",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 3,
+      "term": "Trial-off",
+      "en": "Trial off",
+      "definition": "Nativ organın yeterliliğini değerlendirmek için ekstrakorporeal desteğin geçici olarak azaltıldığı veya kaldırıldığı ayırma denemesi; yöntem ECMO moduna bağlıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1024u1n",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 1,
+      "term": "PCRTO",
+      "en": "Pump-controlled retrograde trial off",
+      "definition": "VA ECMO’dan ayırmada pompa hızıyla kontrollü retrograd akım oluşturularak nativ kalp işlevinin değerlendirildiği deneme.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1icblp5",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 1,
+      "term": "LVOT VTI",
+      "en": "LV outflow tract velocity-time integral",
+      "definition": "Ekokardiyografide sol ventrikül çıkış yolu akım hızının zamana göre integrali; atım hacmini değerlendirmeye yardım eden uzunluk ölçüsü.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1akitv6",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 2,
+      "term": "Dekanülasyon",
+      "en": "Decannulation",
+      "definition": "Ekstrakorporeal destek sonlandırılırken damar içindeki kanüllerin çıkarılması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-05b1p1i",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 1,
+      "term": "Hub-and-spoke ağı",
+      "en": "Hub-and-spoke network",
+      "definition": "Deneyimli merkez (hub) ile çevre hastaneler (spoke) arasında bölgesel ECMO ağı.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1j4yjpt",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 1,
+      "term": "Time-out ve debriefing",
+      "en": "Time-out / debriefing",
+      "definition": "İşlem öncesi doğrulama duraklaması / işlem sonrası ekip değerlendirmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-14n0kww",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "term",
+      "importance": 1,
+      "term": "Uyanık ECMO",
+      "en": "Awake ECMO",
+      "definition": "Ekstübe, uyanık ve mobilize hastanın ECMO ile desteklenmesi (ör. akciğer nakline köprü).",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-18eeomt",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "compare",
+      "importance": 2,
+      "title": "Destek azaltma ve ayırma denemesi",
+      "left": {
+        "title": "Weaning",
+        "points": [
+          "Destek kademeli olarak azaltılır",
+          "Nativ işlevdeki toparlanmayı izler"
+        ]
+      },
+      "right": {
+        "title": "Trial-off",
+        "points": [
+          "Destek geçici olarak kaldırılır/azaltılır",
+          "Nativ işlevin yeterliliğini sınar"
+        ]
+      },
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0z6xbvr",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "VV’de hemodinamik hedefler",
+      "body": "ELSO VV 2021, yeterli dolaşım için **OAB ≥ 65 mmHg**, kardiyak indeks > 2,2 L/dk/m² ve normal laktatı birlikte değerlendirir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1e9puxg",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "VV ayırmada oksijenasyon",
+      "body": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde **FiO2 ≤ %60**, PEEP ≤ 10 cmH2O ve PaO2 ≥ 70 mmHg yer alır; akciğer iyileşmesi birlikte aranır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1n6l69t",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "VV ayırmada ventilasyon",
+      "body": "ELSO VV 2021, ayırma değerlendirmesinde Vt ≤ 6 mL/kg **öngörülen vücut ağırlığı (PBW)**, plato basıncı ≤ 28 cmH2O ve solunum sayısı ≤ 28/dk ile kabul edilebilir ventilasyonu arar.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0gcdo7p",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "Sweep kapalı denemenin süresi",
+      "body": "ELSO VV 2021’de sweep kapalı deneme **2–3 saat veya daha uzun** sürdürülür; kan gazı ve solunum yükü izlenir. Bu süre evrensel tek merkez protokolü değildir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1kknxwq",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "VA ayırmada akım basamakları",
+      "body": "ELSO VA 2021’de akım **5–10 dakikada bir 500 mL/dk** azaltılarak nativ kalbin yanıtı değerlendirilir; hemodinami ve ekokardiyografi birlikte izlenir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0c5y4ev",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "VA ayırmada ekokardiyografi",
+      "body": "ELSO VA 2021’de LVEF ≥ %25–30 ve lateral mitral anülüs sistolik hızı ≥ 6 cm/sn destekleyici bulgulardır. Tek ölçüm ayırma kararını belirlemez.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0oq4lcb",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "fact",
+      "importance": 3,
+      "title": "Dekanülasyon sonrası tromboz taraması",
+      "body": "ELSO VV 2021, dekanülasyondan **24 saat sonra** derin ven trombozunun değerlendirilmesini önerir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1mny7me",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "flip",
+      "importance": 2,
+      "question": "VV ECMO desteği azaltılırken solunum yükü neden izlenir?",
+      "answer": "Kabul edilebilir kan gazı, hastanın aşırı solunum çabasıyla sağlanıyor olabilir. Ayırma değerlendirmesi gaz değişimini ve **solunum eforunu** birlikte kapsar.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-10a09jk",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "flip",
+      "importance": 2,
+      "question": "VA ECMO ayırma denemesinde neden ekokardiyografi kullanılır?",
+      "answer": "Azaltılmış destek altında **sol ve sağ ventrikül işlevi**, dolum ve ejeksiyon değerlendirilir; arter basıncı tek başına kalbin yeterliliğini göstermez.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1h5y5vk",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "flip",
+      "importance": 2,
+      "question": "Hastaneler arası ECMO transportunda ekibin kendine yeterli olması ne anlama gelir?",
+      "answer": "Gaz ve güç kaynakları yanında yedek devre parçaları, uygun kanüller, gerekli ilaçlar ve acil müdahale ekipmanı taşımasıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1jwdeg2",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO sırasında sıvı yönetimi neden başlangıç ve stabil dönemde farklıdır?",
+      "answer": "Başlangıçta yeterli dolaşım ve venöz drenaj sağlanır. Stabilizasyon sonrası fazla sıvının uzaklaştırılması ve akciğer ödeminin azaltılması değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-11tmh45",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "remember",
+      "importance": 3,
+      "title": "Dinlenme ventilasyonunun amacı",
+      "body": "ECMO gaz değişimini üstlenirken ventilasyon **akciğer hasarını azaltmak** için düzenlenir. Hipoksemide önce hasta ve devre nedenleri değerlendirilir; akciğer koruma yaklaşımı korunur.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0jxat8z",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "remember",
+      "importance": 3,
+      "title": "Transporttan önce kaynakları dene",
+      "body": "Hareketten önce ECMO sistemi **taşınabilir güç ve gaz kaynaklarına** geçirilip çalıştığı doğrulanır; hatların çekilmesini önleyen ekip düzeni kurulmalıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-023w0r2",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde FiO2 için hangi üst sınır verilir?",
+      "options": [
+        "%90",
+        "%60",
+        "%80",
+        "%100"
+      ],
+      "correct": 1,
+      "explanation": "Tablo 5’te FiO2 ≤ %60 yer alır; PEEP, PaO2 ve akciğer iyileşmesi de değerlendirilir. Tek başına FiO2 ayırma kararı değildir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1417x8q",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "mcq",
+      "importance": 2,
+      "question": "VV ECMO’da sweep kapalı ayırma denemesi sırasında ne izlenir?",
+      "options": [
+        "Balon augmentasyon dalgası",
+        "LVAD sürücü kablosunun akımı",
+        "Kan gazı ve solunum eforu",
+        "Purge basıncı ve solüsyonu"
+      ],
+      "correct": 2,
+      "explanation": "Sweep kapatılınca gaz değişimi nativ akciğere bırakılır; kan gazı ve solunum yükü değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0eh9utn",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "mcq",
+      "importance": 2,
+      "question": "VA ECMO ayırma denemesinde düşük akım altında hangi inceleme özellikle nativ kalp işlevini gösterir?",
+      "options": [
+        "Akciğer oskültasyonu",
+        "Bronkoskopi",
+        "Plevral ultrasonografi",
+        "Ekokardiyografi"
+      ],
+      "correct": 3,
+      "explanation": "Ekokardiyografi, ventrikül işlevi ve ejeksiyonun destek azalırken nasıl değiştiğini gösterir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1qk3wcm",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ECMO transportunda tüp gerilimini azaltan hazırlık hangisidir?",
+      "options": [
+        "Hasta ve ECMO arabasının eşgüdümlü hareketi",
+        "Drenaj hattının daha fazla gerilmesi",
+        "Kanül sabitlemesinin gevşetilmesi",
+        "Devrenin hasta yatağından uzaklaştırılması"
+      ],
+      "correct": 0,
+      "explanation": "Hasta ve devre birlikte hareket ettirilir; bağlantıların çekilmesi önlenir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1dud08h",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hemodinamik stabilizasyon sonrası ECMO’da fazla sıvının uzaklaştırılmasında hangi yöntem kullanılabilir?",
+      "options": [
+        "Aort balon oklüzyonu",
+        "Hemofiltrasyon",
+        "Sefalik kanülasyon",
+        "Atriyal septostomi"
+      ],
+      "correct": 1,
+      "explanation": "Hemofiltrasyon sıvı dengesine yardım eder; diğer seçenekler drenaj veya yapısal destek yöntemleridir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0kixugb",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO VV 2021’de entübe hastanın ayırmaya hazır olma değerlendirmesinde plato basıncı ≤ 28 cmH2O yer alır.",
+      "isTrue": true,
+      "explanation": "Bu tarihli kılavuzda ≤ 28 cmH2O, düşük tidal hacim ve kabul edilebilir solunum yüküyle birlikte değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-13eyk7s",
+      "course": "PER207",
+      "topic": "ECMO yönetimi, ayırma ve transport",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ECMO hastaneler arası transportunda gaz ve güç kaynaklarına ek yedek malzeme hazırlığı da gerekir.",
+      "isTrue": true,
+      "explanation": "Transport ekibi devre arızası ve kanül sorunu gibi olaylara karşı kendine yeterli olmalıdır.",
+      "source": "ELSO Genel 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

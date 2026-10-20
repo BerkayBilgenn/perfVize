@@ -1,0 +1,752 @@
+{
+  "id": "review-ace95213b3396c52",
+  "title": "Alet setleri, paketleme ve izlenebilirlik",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Sterilizasyon sargısı",
+      "text": "Sterilization wrap (woven/nonwoven)\nSterilanı geçiren, mikrobiyal bariyer sağlayan dokuma veya dokuma olmayan sargı.",
+      "images": [],
+      "card": {
+        "id": "PER247-12s8p5x",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sterilizasyon sargısı",
+        "definition": "Sterilanı geçiren, mikrobiyal bariyer sağlayan dokuma veya dokuma olmayan sargı.",
+        "en": "Sterilization wrap (woven/nonwoven)"
+      }
+    },
+    {
+      "title": "Muslin",
+      "text": "Muslin\nSterilizasyon paketlemesinde tarihsel olarak kullanılan gevşek dokumalı **pamuklu kumaş**.",
+      "images": [],
+      "card": {
+        "id": "PER247-0ttjx17",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Muslin",
+        "definition": "Sterilizasyon paketlemesinde tarihsel olarak kullanılan gevşek dokumalı **pamuklu kumaş**.",
+        "en": "Muslin"
+      }
+    },
+    {
+      "title": "Soyulabilir poşet",
+      "text": "Peel pouch\nKendinden yapışkanlı veya ısıyla kapatılan laminat poşet.",
+      "images": [],
+      "card": {
+        "id": "PER247-1tmpakx",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Soyulabilir poşet",
+        "definition": "Kendinden yapışkanlı veya ısıyla kapatılan laminat poşet.",
+        "en": "Peel pouch"
+      }
+    },
+    {
+      "title": "Rulo ambalaj",
+      "text": "Roll stock / reel\nKesilip uçları kapatılarak poşet yapılan kağıt-plastik tüp.",
+      "images": [],
+      "card": {
+        "id": "PER247-0mvp3q3",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Rulo ambalaj",
+        "definition": "Kesilip uçları kapatılarak poşet yapılan kağıt-plastik tüp.",
+        "en": "Roll stock / reel"
+      }
+    },
+    {
+      "title": "Sert konteyner",
+      "text": "Rigid container system\nSterilizasyon, depolama, taşıma ve aseptik sunum için kapaklı kap.",
+      "images": [],
+      "card": {
+        "id": "PER247-051myik",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sert konteyner",
+        "definition": "Sterilizasyon, depolama, taşıma ve aseptik sunum için kapaklı kap.",
+        "en": "Rigid container system"
+      }
+    },
+    {
+      "title": "Ardışık çift sarma",
+      "text": "Sequential wrapping\nMalzemenin iki sargıyla birbiri ardına sarılması; **paket içinde paket** düzeni oluşturulur.",
+      "images": [],
+      "card": {
+        "id": "PER247-1uzf27o",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Ardışık çift sarma",
+        "definition": "Malzemenin iki sargıyla birbiri ardına sarılması; **paket içinde paket** düzeni oluşturulur.",
+        "en": "Sequential wrapping"
+      }
+    },
+    {
+      "title": "Eşzamanlı çift sarma",
+      "text": "Simultaneous wrapping\nİki sterilizasyon sargısının tek sarma işlemiyle birlikte uygulanması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1te19vf",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Eşzamanlı çift sarma",
+        "definition": "İki sterilizasyon sargısının tek sarma işlemiyle birlikte uygulanması.",
+        "en": "Simultaneous wrapping"
+      }
+    },
+    {
+      "title": "Çadırlaşma ve boşluk",
+      "text": "Tenting and gapping\nSterilizasyon sargısının kabarıp açıklık bırakmasıyla oluşan paketleme hataları. Sargı düzgün ve bariyer bütünlüğünü koruyacak biçimde uygulanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ucgvkx",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Çadırlaşma ve boşluk",
+        "definition": "Sterilizasyon sargısının kabarıp açıklık bırakmasıyla oluşan paketleme hataları. Sargı düzgün ve bariyer bütünlüğünü koruyacak biçimde uygulanır.",
+        "en": "Tenting and gapping"
+      }
+    },
+    {
+      "title": "İzlenebilirlik",
+      "text": "Traceability\nBir malzemenin **işlem ve kullanım yolunun kayıtlardan geriye doğru takip edilebilmesi**. Sterilizasyon kayıtlarıyla ilgili kullanım arasında bağlantı kurulur.",
+      "images": [],
+      "card": {
+        "id": "PER247-1xdpwwg",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "term",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "İzlenebilirlik",
+        "definition": "Bir malzemenin **işlem ve kullanım yolunun kayıtlardan geriye doğru takip edilebilmesi**. Sterilizasyon kayıtlarıyla ilgili kullanım arasında bağlantı kurulur.",
+        "en": "Traceability"
+      }
+    },
+    {
+      "title": "İki çift sarma biçimi",
+      "text": "Ardışık çift sarma\nİki sargı birbiri ardına uygulanır\nPaket içinde paket düzeni oluşur\n\nEşzamanlı çift sarma\nİki sargı tek sarma adımında uygulanır\nKatlar aynı işlemde birlikte yerleştirilir",
+      "images": [],
+      "card": {
+        "id": "PER247-06hy4kp",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "compare",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "İki çift sarma biçimi",
+        "left": {
+          "title": "Ardışık çift sarma",
+          "points": [
+            "İki sargı birbiri ardına uygulanır",
+            "Paket içinde paket düzeni oluşur"
+          ]
+        },
+        "right": {
+          "title": "Eşzamanlı çift sarma",
+          "points": [
+            "İki sargı tek sarma adımında uygulanır",
+            "Katlar aynı işlemde birlikte yerleştirilir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Menteşe ve sökülebilir parçalar",
+      "text": "Menteşeli aletler **açık**; üretici aksini belirtmedikçe sökülebilir parçalar **demonte** hazırlanır. Sterilanın temas etmesi gereken yüzeyler kapalı bırakılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1pck9fn",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Menteşe ve sökülebilir parçalar",
+        "body": "Menteşeli aletler **açık**; üretici aksini belirtmedikçe sökülebilir parçalar **demonte** hazırlanır. Sterilanın temas etmesi gereken yüzeyler kapalı bırakılmaz."
+      }
+    },
+    {
+      "title": "İçbükey yüzeylerin yerleşimi",
+      "text": "İçbükey alet ve kaplar, **suyun boşalmasına izin verecek** konumda yerleştirilir. Su birikimi kurutmayı ve paket niteliğini bozar.",
+      "images": [],
+      "card": {
+        "id": "PER247-06z3luh",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "İçbükey yüzeylerin yerleşimi",
+        "body": "İçbükey alet ve kaplar, **suyun boşalmasına izin verecek** konumda yerleştirilir. Su birikimi kurutmayı ve paket niteliğini bozar."
+      }
+    },
+    {
+      "title": "Soyulabilir poşetin yüklenmesi",
+      "text": "Soyulabilir poşetler uygun delikli veya tel raf/sepet içinde **kenarı üzerine dik** yerleştirilir. Yerleşim sterilan dolaşımına izin vermelidir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0k6hm75",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Soyulabilir poşetin yüklenmesi",
+        "body": "Soyulabilir poşetler uygun delikli veya tel raf/sepet içinde **kenarı üzerine dik** yerleştirilir. Yerleşim sterilan dolaşımına izin vermelidir."
+      }
+    },
+    {
+      "title": "Steril paket etiketinin içeriği",
+      "text": "SKS etiketinde sterilizasyon tarihi, cihaz, **döngü/şarj bilgisi**, son kullanma tarihi ve içerik bulunur. Bu alanlar barkodla tutuluyorsa kullanıcı bilgilere erişebilmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0rruqq1",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "fact",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Steril paket etiketinin içeriği",
+        "body": "SKS etiketinde sterilizasyon tarihi, cihaz, **döngü/şarj bilgisi**, son kullanma tarihi ve içerik bulunur. Bu alanlar barkodla tutuluyorsa kullanıcı bilgilere erişebilmelidir."
+      }
+    },
+    {
+      "title": "Alet bakımının yerel örneği",
+      "text": "ÇOMÜ prosedüründe işlemeyen eklem yerleri **suda çözünen yağlarla** yağlanır. Kusurlu aletler tutanakla kullanım dışı bırakılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-07v6wfy",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "fact",
+        "importance": 1,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "title": "Alet bakımının yerel örneği",
+        "body": "ÇOMÜ prosedüründe işlemeyen eklem yerleri **suda çözünen yağlarla** yağlanır. Kusurlu aletler tutanakla kullanım dışı bırakılır."
+      }
+    },
+    {
+      "title": "Sterilizasyon ambalajı hangi iki zıt gereksinimi karşılar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0coh6u7",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Sterilizasyon ambalajı hangi iki zıt gereksinimi karşılar?",
+        "answer": "İşlem sırasında **sterilan geçişine izin verir**, işlem sonrasında ise mikroorganizmaların girişine karşı **bariyer oluşturur**."
+      }
+    },
+    {
+      "title": "Ağır metal kütlesi paket için hangi sorunu artırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0iorhdn",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Ağır metal kütlesi paket için hangi sorunu artırır?",
+        "answer": "Kurutma güçlüğü ve **ıslak paket** oluşumu. Set tasarımı ve metal kütlesinin dağılımı, tek başına toplam ağırlık kadar önemlidir."
+      }
+    },
+    {
+      "title": "Barkod varsa etiket verisi nasıl erişilebilir olmalıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1kwo7nm",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "flip",
+        "importance": 1,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "Barkod varsa etiket verisi nasıl erişilebilir olmalıdır?",
+        "answer": "Kullanıcı, etiketin temsil ettiği **bilgilere tanımlı sistemden ulaşabilmelidir**. Barkodun basılması, erişilemeyen dijital kaydı tek başına yeterli yapmaz."
+      }
+    },
+    {
+      "title": "Yeniden işleme yetkinliğini belgele",
+      "text": "Kritik ve yarı kritik cihazları yeniden işleyen personel uygulamalı eğitim almalıdır. Her yeniden işleme görevinde **yetkinlik belgelenene kadar çalışma gözetim altında** yürütülür.",
+      "images": [],
+      "card": {
+        "id": "PER247-15oeery",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Yeniden işleme yetkinliğini belgele",
+        "body": "Kritik ve yarı kritik cihazları yeniden işleyen personel uygulamalı eğitim almalıdır. Her yeniden işleme görevinde **yetkinlik belgelenene kadar çalışma gözetim altında** yürütülür."
+      }
+    },
+    {
+      "title": "Deliksiz küvet sterilizatöre nasıl yerleştirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-06l0r2w",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Deliksiz küvet sterilizatöre nasıl yerleştirilir?",
+        "options": [
+          "Açık yüzü yukarı yatay",
+          "Açık yüzü aşağı yatay",
+          "İç içe yatay yığılmış",
+          "Kenarı üzerine dik"
+        ],
+        "correct": 3,
+        "explanation": "CDC, deliksiz kapları **kenarı üzerine** yerleştirir; su tahliyesi ve sterilan dolaşımı sağlanır."
+      }
+    },
+    {
+      "title": "CDC’ye göre EtO işlemesinde uygun olmayan ambalaj örneği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0acwvzk",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "CDC’ye göre EtO işlemesinde uygun olmayan ambalaj örneği hangisidir?",
+        "options": [
+          "Alüminyum folyo",
+          "Uyumlu sterilizasyon sargısı",
+          "EtO için onaylı soyulabilir poşet",
+          "EtO uyumlu rulo ambalaj"
+        ],
+        "correct": 0,
+        "explanation": "CDC, **folyo ve bazı gaz geçişini engelleyen plastik örtüleri** EtO ambalajı olarak uygun bulmaz. Ambalajın yöntem uyumu doğrulanır."
+      }
+    },
+    {
+      "title": "Ağır ve hassas aletler aynı tepsiye yerleştirilirken uygun yaklaşım hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1x0mlkt",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Ağır ve hassas aletler aynı tepsiye yerleştirilirken uygun yaklaşım hangisidir?",
+        "options": [
+          "Ağır aletleri hassas uçların üstüne koymak",
+          "Ağır aletlerin hassas aletleri hasarlamasını önlemek",
+          "Hassas uçları ağır kapların altına sıkıştırmak",
+          "Daha çok alet için koruyucu yerleşimi kaldırmak"
+        ],
+        "correct": 1,
+        "explanation": "CDC, **ağır aletlerin hassas aletlere zarar vermeyecek** konumda yerleştirilmesini ister. Set yerleşimi mekanik bütünlüğü de korumalıdır."
+      }
+    },
+    {
+      "title": "Bakım incelemesinde belirgin korozyonlu alet için uygun işlem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-09l8d1p",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "mcq",
+        "importance": 3,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "question": "Bakım incelemesinde belirgin korozyonlu alet için uygun işlem hangisidir?",
+        "options": [
+          "Yağlayıp kontrol etmeden sete almak",
+          "Buhar döngüsünü uzatıp sete almak",
+          "Kullanım dışına ayırmak",
+          "Ek dezenfeksiyon yapıp sete almak"
+        ],
+        "correct": 2,
+        "explanation": "Kusurlu veya hasarlı aletler kullanıma verilmez; kurum prosedürüyle **kullanım dışı** bırakılır."
+      }
+    },
+    {
+      "title": "Ağır metal kütlesinin dağılımı paket kurumasını etkileyebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0z8u68n",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Ağır metal kütlesinin dağılımı paket kurumasını etkileyebilir.",
+        "isTrue": true,
+        "explanation": "Metal kütlesi ve set tasarımı ıslak paket riskinde önemlidir; tek bir evrensel set ağırlığıyla açıklanmaz."
+      }
+    },
+    {
+      "title": "Sterilizasyon sargısının bol tiftik bırakması tercih edilen bir özelliktir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0wrb6nu",
+        "course": "PER247",
+        "topic": "Alet setleri, paketleme ve izlenebilirlik",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Sterilizasyon sargısının bol tiftik bırakması tercih edilen bir özelliktir.",
+        "isTrue": false,
+        "explanation": "İdeal sargı **tiftik bırakmamalı**, uygun bariyer ve geçirgenlik sağlamalıdır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-12s8p5x",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sterilizasyon sargısı",
+      "definition": "Sterilanı geçiren, mikrobiyal bariyer sağlayan dokuma veya dokuma olmayan sargı.",
+      "en": "Sterilization wrap (woven/nonwoven)"
+    },
+    {
+      "id": "PER247-0ttjx17",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Muslin",
+      "definition": "Sterilizasyon paketlemesinde tarihsel olarak kullanılan gevşek dokumalı **pamuklu kumaş**.",
+      "en": "Muslin"
+    },
+    {
+      "id": "PER247-1tmpakx",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Soyulabilir poşet",
+      "definition": "Kendinden yapışkanlı veya ısıyla kapatılan laminat poşet.",
+      "en": "Peel pouch"
+    },
+    {
+      "id": "PER247-0mvp3q3",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Rulo ambalaj",
+      "definition": "Kesilip uçları kapatılarak poşet yapılan kağıt-plastik tüp.",
+      "en": "Roll stock / reel"
+    },
+    {
+      "id": "PER247-051myik",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sert konteyner",
+      "definition": "Sterilizasyon, depolama, taşıma ve aseptik sunum için kapaklı kap.",
+      "en": "Rigid container system"
+    },
+    {
+      "id": "PER247-1uzf27o",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ardışık çift sarma",
+      "definition": "Malzemenin iki sargıyla birbiri ardına sarılması; **paket içinde paket** düzeni oluşturulur.",
+      "en": "Sequential wrapping"
+    },
+    {
+      "id": "PER247-1te19vf",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Eşzamanlı çift sarma",
+      "definition": "İki sterilizasyon sargısının tek sarma işlemiyle birlikte uygulanması.",
+      "en": "Simultaneous wrapping"
+    },
+    {
+      "id": "PER247-1ucgvkx",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Çadırlaşma ve boşluk",
+      "definition": "Sterilizasyon sargısının kabarıp açıklık bırakmasıyla oluşan paketleme hataları. Sargı düzgün ve bariyer bütünlüğünü koruyacak biçimde uygulanır.",
+      "en": "Tenting and gapping"
+    },
+    {
+      "id": "PER247-1xdpwwg",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "İzlenebilirlik",
+      "definition": "Bir malzemenin **işlem ve kullanım yolunun kayıtlardan geriye doğru takip edilebilmesi**. Sterilizasyon kayıtlarıyla ilgili kullanım arasında bağlantı kurulur.",
+      "en": "Traceability"
+    },
+    {
+      "id": "PER247-06hy4kp",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İki çift sarma biçimi",
+      "left": {
+        "title": "Ardışık çift sarma",
+        "points": [
+          "İki sargı birbiri ardına uygulanır",
+          "Paket içinde paket düzeni oluşur"
+        ]
+      },
+      "right": {
+        "title": "Eşzamanlı çift sarma",
+        "points": [
+          "İki sargı tek sarma adımında uygulanır",
+          "Katlar aynı işlemde birlikte yerleştirilir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1pck9fn",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Menteşe ve sökülebilir parçalar",
+      "body": "Menteşeli aletler **açık**; üretici aksini belirtmedikçe sökülebilir parçalar **demonte** hazırlanır. Sterilanın temas etmesi gereken yüzeyler kapalı bırakılmaz."
+    },
+    {
+      "id": "PER247-06z3luh",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İçbükey yüzeylerin yerleşimi",
+      "body": "İçbükey alet ve kaplar, **suyun boşalmasına izin verecek** konumda yerleştirilir. Su birikimi kurutmayı ve paket niteliğini bozar."
+    },
+    {
+      "id": "PER247-0k6hm75",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Soyulabilir poşetin yüklenmesi",
+      "body": "Soyulabilir poşetler uygun delikli veya tel raf/sepet içinde **kenarı üzerine dik** yerleştirilir. Yerleşim sterilan dolaşımına izin vermelidir."
+    },
+    {
+      "id": "PER247-0rruqq1",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "fact",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Steril paket etiketinin içeriği",
+      "body": "SKS etiketinde sterilizasyon tarihi, cihaz, **döngü/şarj bilgisi**, son kullanma tarihi ve içerik bulunur. Bu alanlar barkodla tutuluyorsa kullanıcı bilgilere erişebilmelidir."
+    },
+    {
+      "id": "PER247-07v6wfy",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "fact",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Alet bakımının yerel örneği",
+      "body": "ÇOMÜ prosedüründe işlemeyen eklem yerleri **suda çözünen yağlarla** yağlanır. Kusurlu aletler tutanakla kullanım dışı bırakılır."
+    },
+    {
+      "id": "PER247-0coh6u7",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Sterilizasyon ambalajı hangi iki zıt gereksinimi karşılar?",
+      "answer": "İşlem sırasında **sterilan geçişine izin verir**, işlem sonrasında ise mikroorganizmaların girişine karşı **bariyer oluşturur**."
+    },
+    {
+      "id": "PER247-0iorhdn",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ağır metal kütlesi paket için hangi sorunu artırır?",
+      "answer": "Kurutma güçlüğü ve **ıslak paket** oluşumu. Set tasarımı ve metal kütlesinin dağılımı, tek başına toplam ağırlık kadar önemlidir."
+    },
+    {
+      "id": "PER247-1kwo7nm",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "flip",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "Barkod varsa etiket verisi nasıl erişilebilir olmalıdır?",
+      "answer": "Kullanıcı, etiketin temsil ettiği **bilgilere tanımlı sistemden ulaşabilmelidir**. Barkodun basılması, erişilemeyen dijital kaydı tek başına yeterli yapmaz."
+    },
+    {
+      "id": "PER247-15oeery",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Yeniden işleme yetkinliğini belgele",
+      "body": "Kritik ve yarı kritik cihazları yeniden işleyen personel uygulamalı eğitim almalıdır. Her yeniden işleme görevinde **yetkinlik belgelenene kadar çalışma gözetim altında** yürütülür."
+    },
+    {
+      "id": "PER247-06l0r2w",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Deliksiz küvet sterilizatöre nasıl yerleştirilir?",
+      "options": [
+        "Açık yüzü yukarı yatay",
+        "Açık yüzü aşağı yatay",
+        "İç içe yatay yığılmış",
+        "Kenarı üzerine dik"
+      ],
+      "correct": 3,
+      "explanation": "CDC, deliksiz kapları **kenarı üzerine** yerleştirir; su tahliyesi ve sterilan dolaşımı sağlanır."
+    },
+    {
+      "id": "PER247-0acwvzk",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "CDC’ye göre EtO işlemesinde uygun olmayan ambalaj örneği hangisidir?",
+      "options": [
+        "Alüminyum folyo",
+        "Uyumlu sterilizasyon sargısı",
+        "EtO için onaylı soyulabilir poşet",
+        "EtO uyumlu rulo ambalaj"
+      ],
+      "correct": 0,
+      "explanation": "CDC, **folyo ve bazı gaz geçişini engelleyen plastik örtüleri** EtO ambalajı olarak uygun bulmaz. Ambalajın yöntem uyumu doğrulanır."
+    },
+    {
+      "id": "PER247-1x0mlkt",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ağır ve hassas aletler aynı tepsiye yerleştirilirken uygun yaklaşım hangisidir?",
+      "options": [
+        "Ağır aletleri hassas uçların üstüne koymak",
+        "Ağır aletlerin hassas aletleri hasarlamasını önlemek",
+        "Hassas uçları ağır kapların altına sıkıştırmak",
+        "Daha çok alet için koruyucu yerleşimi kaldırmak"
+      ],
+      "correct": 1,
+      "explanation": "CDC, **ağır aletlerin hassas aletlere zarar vermeyecek** konumda yerleştirilmesini ister. Set yerleşimi mekanik bütünlüğü de korumalıdır."
+    },
+    {
+      "id": "PER247-09l8d1p",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "mcq",
+      "importance": 3,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "question": "Bakım incelemesinde belirgin korozyonlu alet için uygun işlem hangisidir?",
+      "options": [
+        "Yağlayıp kontrol etmeden sete almak",
+        "Buhar döngüsünü uzatıp sete almak",
+        "Kullanım dışına ayırmak",
+        "Ek dezenfeksiyon yapıp sete almak"
+      ],
+      "correct": 2,
+      "explanation": "Kusurlu veya hasarlı aletler kullanıma verilmez; kurum prosedürüyle **kullanım dışı** bırakılır."
+    },
+    {
+      "id": "PER247-0z8u68n",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Ağır metal kütlesinin dağılımı paket kurumasını etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Metal kütlesi ve set tasarımı ıslak paket riskinde önemlidir; tek bir evrensel set ağırlığıyla açıklanmaz."
+    },
+    {
+      "id": "PER247-0wrb6nu",
+      "course": "PER247",
+      "topic": "Alet setleri, paketleme ve izlenebilirlik",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Sterilizasyon sargısının bol tiftik bırakması tercih edilen bir özelliktir.",
+      "isTrue": false,
+      "explanation": "İdeal sargı **tiftik bırakmamalı**, uygun bariyer ve geçirgenlik sağlamalıdır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

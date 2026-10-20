@@ -1,0 +1,618 @@
+{
+  "id": "review-ad9af21e2b24fe66",
+  "title": "Heparinizasyon ve ACT",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "ACT",
+      "text": "Activated clotting time\nAktivatör eklenmiş tam kanın pıhtılaşması için geçen süreyi ölçen yatak başı test; kardiyopulmoner bypass sırasında heparin etkisini izler.",
+      "images": [],
+      "card": {
+        "id": "PER243-1hqevfr",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "term",
+        "importance": 3,
+        "term": "ACT",
+        "en": "Activated clotting time",
+        "definition": "Aktivatör eklenmiş tam kanın pıhtılaşması için geçen süreyi ölçen yatak başı test; kardiyopulmoner bypass sırasında heparin etkisini izler.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "Antitrombin",
+      "text": "Antithrombin (eski adı AT III)\nTrombin ve aktive faktör Xa başta olmak üzere aktif pıhtılaşma faktörlerini inhibe eden doğal antikoagülan; heparinin kofaktörüdür.",
+      "images": [],
+      "card": {
+        "id": "PER243-1id08sk",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "term",
+        "importance": 3,
+        "term": "Antitrombin",
+        "en": "Antithrombin (eski adı AT III)",
+        "definition": "Trombin ve aktive faktör Xa başta olmak üzere aktif pıhtılaşma faktörlerini inhibe eden doğal antikoagülan; heparinin kofaktörüdür.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Fraksiyone olmayan heparin",
+      "text": "Unfractionated heparin (UFH)\nAntitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu artıran antikoagülan; kardiyopulmoner bypassta yaygın kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-08oc1gm",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "term",
+        "importance": 3,
+        "term": "Fraksiyone olmayan heparin",
+        "en": "Unfractionated heparin (UFH)",
+        "definition": "Antitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu artıran antikoagülan; kardiyopulmoner bypassta yaygın kullanılır.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "HMS",
+      "text": "Hemostasis management system\nHeparin doz-yanıtı ve protamin titrasyonuyla heparin konsantrasyonunu ölçen yatak başı sistem.",
+      "images": [],
+      "card": {
+        "id": "PER243-10s17z7",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "term",
+        "importance": 3,
+        "term": "HMS",
+        "en": "Hemostasis management system",
+        "definition": "Heparin doz-yanıtı ve protamin titrasyonuyla heparin konsantrasyonunu ölçen yatak başı sistem.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparine bağlanma bölgesi",
+      "text": "Heparinin antitrombine bağlanmasında özgül **pentasakkarit dizisi** önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0btpp9l",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "fact",
+        "importance": 3,
+        "title": "Heparine bağlanma bölgesi",
+        "body": "Heparinin antitrombine bağlanmasında özgül **pentasakkarit dizisi** önemlidir.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "Heparin başlangıç dozu değişkenliği",
+      "text": "BJA Education 2023 toplam vücut ağırlığına göre **300–400 IU/kg** heparini bildirir. 2024 PBM kılavuzunda başlangıç aralığı 300–600 IU/kg'dır; kurum ve stratejiye göre değişir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1y8bm6t",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "fact",
+        "importance": 3,
+        "title": "Heparin başlangıç dozu değişkenliği",
+        "body": "BJA Education 2023 toplam vücut ağırlığına göre **300–400 IU/kg** heparini bildirir. 2024 PBM kılavuzunda başlangıç aralığı 300–600 IU/kg'dır; kurum ve stratejiye göre değişir.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "ACT hedefinin bağlamı",
+      "text": "2024 KPB kılavuzunda özellikle kaplamasız devre ve kardiyotomi aspirasyonunda **ACT >480 sn** uygun kabul edilir. Ölçüm cihazı ve devreye göre hedef değişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-10zlnl9",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "fact",
+        "importance": 2,
+        "title": "ACT hedefinin bağlamı",
+        "body": "2024 KPB kılavuzunda özellikle kaplamasız devre ve kardiyotomi aspirasyonunda **ACT >480 sn** uygun kabul edilir. Ölçüm cihazı ve devreye göre hedef değişebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin ve priming",
+      "text": "Heparin yönetiminde devrenin **priming hacmi ve priminge eklenen heparin** de dikkate alınır; yalnız hastaya verilen bolus değerlendirilmez.",
+      "images": [],
+      "card": {
+        "id": "PER243-1tirlfa",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "fact",
+        "importance": 3,
+        "title": "Heparin ve priming",
+        "body": "Heparin yönetiminde devrenin **priming hacmi ve priminge eklenen heparin** de dikkate alınır; yalnız hastaya verilen bolus değerlendirilmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparinde doğrusal olmayan yanıt",
+      "text": "Heparin doz-yanıtı **doğrusal değildir**; doz arttığında antikoagülan yanıtın ve etkinin süresinin artması aynı basit oranda gerçekleşmez.",
+      "images": [],
+      "card": {
+        "id": "PER243-147exgn",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "fact",
+        "importance": 3,
+        "title": "Heparinde doğrusal olmayan yanıt",
+        "body": "Heparin doz-yanıtı **doğrusal değildir**; doz arttığında antikoagülan yanıtın ve etkinin süresinin artması aynı basit oranda gerçekleşmez.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "ACT ve konsantrasyon ayrışması",
+      "text": "Hemodilüsyon, hipotermi ve faktör değişiklikleri nedeniyle **ACT ile heparin konsantrasyonu ayrışabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-1acmdzz",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "fact",
+        "importance": 2,
+        "title": "ACT ve konsantrasyon ayrışması",
+        "body": "Hemodilüsyon, hipotermi ve faktör değişiklikleri nedeniyle **ACT ile heparin konsantrasyonu ayrışabilir**.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "Hepcon HMS heparin doz-yanıtını nasıl değerlendirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0hinwup",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "flip",
+        "importance": 2,
+        "question": "Hepcon HMS heparin doz-yanıtını nasıl değerlendirir?",
+        "answer": "Kan örneğini **farklı heparin miktarlarına maruz bırakarak** hastanın bireysel yanıtını değerlendirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB kontrol listesi tamamlandığında ekip bunu nasıl doğrular?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-19o03fp",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "flip",
+        "importance": 2,
+        "question": "KPB kontrol listesi tamamlandığında ekip bunu nasıl doğrular?",
+        "answer": "Ekip **time-out** sırasında listenin tamamlandığını ortak biçimde onaylar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hipotermi ACT'yi heparinden bağımsız nasıl değiştirebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-17fdiqi",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "flip",
+        "importance": 3,
+        "question": "Hipotermi ACT'yi heparinden bağımsız nasıl değiştirebilir?",
+        "answer": "Hipotermi **ACT'yi uzatabilir**; bu nedenle uzama yalnız daha fazla heparin etkisi anlamına gelmez.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "Ölçmeden bypass başlatma",
+      "text": "Kardiyopulmoner bypass başlamadan önce **ACT ile yeterli antikoagülasyon** gösterilmelidir; verilen heparin dozu tek başına yeterlilik kanıtı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ljy3cx",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "remember",
+        "importance": 3,
+        "title": "Ölçmeden bypass başlatma",
+        "body": "Kardiyopulmoner bypass başlamadan önce **ACT ile yeterli antikoagülasyon** gösterilmelidir; verilen heparin dozu tek başına yeterlilik kanıtı değildir.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "ACT ölçümünde kullanılan örnek hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0qexftj",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ACT ölçümünde kullanılan örnek hangisidir?",
+        "options": [
+          "Tam kan",
+          "Yalnız plazma",
+          "Yalnız serum",
+          "İdrar"
+        ],
+        "correct": 0,
+        "explanation": "ACT aktivatör eklenmiş tam kanda pıhtılaşma süresini değerlendirir.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "Heparin hangi doğal antikoagülanın etkisini güçlendirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1170inf",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Heparin hangi doğal antikoagülanın etkisini güçlendirir?",
+        "options": [
+          "Plazminojen",
+          "Antitrombin",
+          "Fibrinojen",
+          "Doku faktörü"
+        ],
+        "correct": 1,
+        "explanation": "Heparin antitrombin aracılı trombin ve faktör Xa inhibisyonunu artırır.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "Heparinizasyon sonrası ACT yeterli yükselmiyorsa hangi eksiklik öncelikle değerlendirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0s91q0m",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Heparinizasyon sonrası ACT yeterli yükselmiyorsa hangi eksiklik öncelikle değerlendirilir?",
+        "options": [
+          "K vitaminine bağımlı faktör eksikliği",
+          "Fibrinojen eksikliği",
+          "Antitrombin eksikliği",
+          "Trombosit sayısında azalma"
+        ],
+        "correct": 2,
+        "explanation": "Antitrombin eksikliği heparin direncinin önemli nedenidir.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "Hepcon HMS güncel heparin konsantrasyonunu hangi yöntemle değerlendirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1489l0z",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hepcon HMS güncel heparin konsantrasyonunu hangi yöntemle değerlendirir?",
+        "options": [
+          "Kaolinle aktivasyon",
+          "Termodilüsyon",
+          "Kromojenik anti-Xa ölçümü",
+          "Protamin titrasyonu"
+        ],
+        "correct": 3,
+        "explanation": "Hepcon heparin konsantrasyonunu protamin titrasyonu kullanarak değerlendirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB sırasında ACT sonucu trombosit sayısı ve fonksiyonundan etkilenebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-14jn7d4",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "tf",
+        "importance": 3,
+        "statement": "KPB sırasında ACT sonucu trombosit sayısı ve fonksiyonundan etkilenebilir.",
+        "isTrue": true,
+        "explanation": "ACT yalnız heparin konsantrasyonuna duyarlı değildir; trombosit durumu da ölçümü etkiler.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "KPB öncesi değerlendirme formu yalnız sözlü bildirimle tutulur ve kayda gerek yoktur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1yqx175",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "tf",
+        "importance": 1,
+        "statement": "KPB öncesi değerlendirme formu yalnız sözlü bildirimle tutulur ve kayda gerek yoktur.",
+        "isTrue": false,
+        "explanation": "2024 KPB kılavuzu yazılı veya elektronik formun önceden doldurulup kayıtta tutulmasını önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hepcon ile bireyselleştirilmiş heparin yönetiminin kanama ve transfüzyon sonuçları çalışmalar arasında tutarsızdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1fcomve",
+        "course": "PER243",
+        "topic": "Heparinizasyon ve ACT",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Hepcon ile bireyselleştirilmiş heparin yönetiminin kanama ve transfüzyon sonuçları çalışmalar arasında tutarsızdır.",
+        "isTrue": true,
+        "explanation": "Yöntemin ölçüm olanağı, klinik sonuçlarda kesin üstünlük gösterildiği anlamına gelmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1hqevfr",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "term",
+      "importance": 3,
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Aktivatör eklenmiş tam kanın pıhtılaşması için geçen süreyi ölçen yatak başı test; kardiyopulmoner bypass sırasında heparin etkisini izler.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-1id08sk",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "term",
+      "importance": 3,
+      "term": "Antitrombin",
+      "en": "Antithrombin (eski adı AT III)",
+      "definition": "Trombin ve aktive faktör Xa başta olmak üzere aktif pıhtılaşma faktörlerini inhibe eden doğal antikoagülan; heparinin kofaktörüdür.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-08oc1gm",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "term",
+      "importance": 3,
+      "term": "Fraksiyone olmayan heparin",
+      "en": "Unfractionated heparin (UFH)",
+      "definition": "Antitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu artıran antikoagülan; kardiyopulmoner bypassta yaygın kullanılır.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-10s17z7",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "term",
+      "importance": 3,
+      "term": "HMS",
+      "en": "Hemostasis management system",
+      "definition": "Heparin doz-yanıtı ve protamin titrasyonuyla heparin konsantrasyonunu ölçen yatak başı sistem.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0btpp9l",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparine bağlanma bölgesi",
+      "body": "Heparinin antitrombine bağlanmasında özgül **pentasakkarit dizisi** önemlidir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-1y8bm6t",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparin başlangıç dozu değişkenliği",
+      "body": "BJA Education 2023 toplam vücut ağırlığına göre **300–400 IU/kg** heparini bildirir. 2024 PBM kılavuzunda başlangıç aralığı 300–600 IU/kg'dır; kurum ve stratejiye göre değişir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-10zlnl9",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT hedefinin bağlamı",
+      "body": "2024 KPB kılavuzunda özellikle kaplamasız devre ve kardiyotomi aspirasyonunda **ACT >480 sn** uygun kabul edilir. Ölçüm cihazı ve devreye göre hedef değişebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1tirlfa",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparin ve priming",
+      "body": "Heparin yönetiminde devrenin **priming hacmi ve priminge eklenen heparin** de dikkate alınır; yalnız hastaya verilen bolus değerlendirilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-147exgn",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparinde doğrusal olmayan yanıt",
+      "body": "Heparin doz-yanıtı **doğrusal değildir**; doz arttığında antikoagülan yanıtın ve etkinin süresinin artması aynı basit oranda gerçekleşmez.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-1acmdzz",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT ve konsantrasyon ayrışması",
+      "body": "Hemodilüsyon, hipotermi ve faktör değişiklikleri nedeniyle **ACT ile heparin konsantrasyonu ayrışabilir**.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-0hinwup",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "flip",
+      "importance": 2,
+      "question": "Hepcon HMS heparin doz-yanıtını nasıl değerlendirir?",
+      "answer": "Kan örneğini **farklı heparin miktarlarına maruz bırakarak** hastanın bireysel yanıtını değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-19o03fp",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "flip",
+      "importance": 2,
+      "question": "KPB kontrol listesi tamamlandığında ekip bunu nasıl doğrular?",
+      "answer": "Ekip **time-out** sırasında listenin tamamlandığını ortak biçimde onaylar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-17fdiqi",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "flip",
+      "importance": 3,
+      "question": "Hipotermi ACT'yi heparinden bağımsız nasıl değiştirebilir?",
+      "answer": "Hipotermi **ACT'yi uzatabilir**; bu nedenle uzama yalnız daha fazla heparin etkisi anlamına gelmez.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-0ljy3cx",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "remember",
+      "importance": 3,
+      "title": "Ölçmeden bypass başlatma",
+      "body": "Kardiyopulmoner bypass başlamadan önce **ACT ile yeterli antikoagülasyon** gösterilmelidir; verilen heparin dozu tek başına yeterlilik kanıtı değildir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-0qexftj",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ACT ölçümünde kullanılan örnek hangisidir?",
+      "options": [
+        "Tam kan",
+        "Yalnız plazma",
+        "Yalnız serum",
+        "İdrar"
+      ],
+      "correct": 0,
+      "explanation": "ACT aktivatör eklenmiş tam kanda pıhtılaşma süresini değerlendirir.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-1170inf",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparin hangi doğal antikoagülanın etkisini güçlendirir?",
+      "options": [
+        "Plazminojen",
+        "Antitrombin",
+        "Fibrinojen",
+        "Doku faktörü"
+      ],
+      "correct": 1,
+      "explanation": "Heparin antitrombin aracılı trombin ve faktör Xa inhibisyonunu artırır.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-0s91q0m",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparinizasyon sonrası ACT yeterli yükselmiyorsa hangi eksiklik öncelikle değerlendirilir?",
+      "options": [
+        "K vitaminine bağımlı faktör eksikliği",
+        "Fibrinojen eksikliği",
+        "Antitrombin eksikliği",
+        "Trombosit sayısında azalma"
+      ],
+      "correct": 2,
+      "explanation": "Antitrombin eksikliği heparin direncinin önemli nedenidir.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-1489l0z",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hepcon HMS güncel heparin konsantrasyonunu hangi yöntemle değerlendirir?",
+      "options": [
+        "Kaolinle aktivasyon",
+        "Termodilüsyon",
+        "Kromojenik anti-Xa ölçümü",
+        "Protamin titrasyonu"
+      ],
+      "correct": 3,
+      "explanation": "Hepcon heparin konsantrasyonunu protamin titrasyonu kullanarak değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-14jn7d4",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "tf",
+      "importance": 3,
+      "statement": "KPB sırasında ACT sonucu trombosit sayısı ve fonksiyonundan etkilenebilir.",
+      "isTrue": true,
+      "explanation": "ACT yalnız heparin konsantrasyonuna duyarlı değildir; trombosit durumu da ölçümü etkiler.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-1yqx175",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "tf",
+      "importance": 1,
+      "statement": "KPB öncesi değerlendirme formu yalnız sözlü bildirimle tutulur ve kayda gerek yoktur.",
+      "isTrue": false,
+      "explanation": "2024 KPB kılavuzu yazılı veya elektronik formun önceden doldurulup kayıtta tutulmasını önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1fcomve",
+      "course": "PER243",
+      "topic": "Heparinizasyon ve ACT",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Hepcon ile bireyselleştirilmiş heparin yönetiminin kanama ve transfüzyon sonuçları çalışmalar arasında tutarsızdır.",
+      "isTrue": true,
+      "explanation": "Yöntemin ölçüm olanağı, klinik sonuçlarda kesin üstünlük gösterildiği anlamına gelmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

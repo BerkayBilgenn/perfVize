@@ -1,0 +1,648 @@
+{
+  "id": "review-c319918c140fb00d",
+  "title": "Minimal invaziv cerrahide KPB ve MiECC",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Minimal invaziv kalp cerrahisi",
+      "text": "Minimally invasive cardiac surgery\nTam sternotomi yerine küçük insizyonlarla (ör. mini-torakotomi) yapılan kalp cerrahisi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0tut9et",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Minimal invaziv kalp cerrahisi",
+        "en": "Minimally invasive cardiac surgery",
+        "definition": "Tam sternotomi yerine küçük insizyonlarla (ör. mini-torakotomi) yapılan kalp cerrahisi.",
+        "source": "Modi, retrograd perfüzyon 2013"
+      }
+    },
+    {
+      "title": "VAVD",
+      "text": "Vacuum-assisted venous drainage\nKapalı venöz rezervuara kontrollü vakum uygulayarak venöz dönüşü artırma.",
+      "images": [],
+      "card": {
+        "id": "PER207-1b1sttq",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 3,
+        "term": "VAVD",
+        "en": "Vacuum-assisted venous drainage",
+        "definition": "Kapalı venöz rezervuara kontrollü vakum uygulayarak venöz dönüşü artırma.",
+        "source": "Endoaortik balon serisi 2021"
+      }
+    },
+    {
+      "title": "Retrograd arteriyel perfüzyon",
+      "text": "Retrograde arterial perfusion\nFemoral arterden aorta boyunca ters yönde perfüzyon.",
+      "images": [],
+      "card": {
+        "id": "PER207-17qkduf",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Retrograd arteriyel perfüzyon",
+        "en": "Retrograde arterial perfusion",
+        "definition": "Femoral arterden aorta boyunca ters yönde perfüzyon.",
+        "source": "Modi, retrograd perfüzyon 2013"
+      }
+    },
+    {
+      "title": "Endoaortik balon oklüzyonu",
+      "text": "Endoaortic balloon occlusion\nÇıkan aortun içten balonla tıkanması; kardiyopleji, kök venti ve basınç ölçümü aynı kateterden.",
+      "images": [],
+      "card": {
+        "id": "PER207-0g6gsji",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 3,
+        "term": "Endoaortik balon oklüzyonu",
+        "en": "Endoaortic balloon occlusion",
+        "definition": "Çıkan aortun içten balonla tıkanması; kardiyopleji, kök venti ve basınç ölçümü aynı kateterden.",
+        "source": "Endoaortik balon serisi 2021"
+      }
+    },
+    {
+      "title": "Transtorasik aort klempi",
+      "text": "Transthoracic aortic clamp\nAyrı küçük göğüs girişinden yerleştirilen aort kros-klempi (ör. Chitwood).",
+      "images": [],
+      "card": {
+        "id": "PER207-0a9wkie",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 1,
+        "term": "Transtorasik aort klempi",
+        "en": "Transthoracic aortic clamp",
+        "definition": "Ayrı küçük göğüs girişinden yerleştirilen aort kros-klempi (ör. Chitwood).",
+        "source": "Endoaortik balon serisi 2021"
+      }
+    },
+    {
+      "title": "MiECC",
+      "text": "Minimal invasive extracorporeal circulation\nKapalı, kaplı, düşük prime hacimli, santrifüj pompalı ve venöz hava tuzaklı KPB stratejisi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1x9srbo",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 3,
+        "term": "MiECC",
+        "en": "Minimal invasive extracorporeal circulation",
+        "definition": "Kapalı, kaplı, düşük prime hacimli, santrifüj pompalı ve venöz hava tuzaklı KPB stratejisi.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "Venöz kabarcık tuzağı",
+      "text": "Venous bubble trap\nKapalı devrede venöz hattaki havayı ayıran ve MiECC Tip II'nin asgari şartı olan bileşen.",
+      "images": [],
+      "card": {
+        "id": "PER207-1i0ylum",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Venöz kabarcık tuzağı",
+        "en": "Venous bubble trap",
+        "definition": "Kapalı devrede venöz hattaki havayı ayıran ve MiECC Tip II'nin asgari şartı olan bileşen.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "Aortun tıkanma yöntemi",
+      "text": "Transtorasik klemp\nAortu dıştan sıkıştırır\nEk göğüs girişinden yerleştirilir\n\nEndoaortik balon\nAortu lümen içinden tıkar\nArteriyel yoldan ilerletilir",
+      "images": [],
+      "card": {
+        "id": "PER207-033zyea",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "compare",
+        "importance": 2,
+        "title": "Aortun tıkanma yöntemi",
+        "left": {
+          "title": "Transtorasik klemp",
+          "points": [
+            "Aortu dıştan sıkıştırır",
+            "Ek göğüs girişinden yerleştirilir"
+          ]
+        },
+        "right": {
+          "title": "Endoaortik balon",
+          "points": [
+            "Aortu lümen içinden tıkar",
+            "Arteriyel yoldan ilerletilir"
+          ]
+        },
+        "source": "Endoaortik balon serisi 2021"
+      }
+    },
+    {
+      "title": "MiECC’de hava yönetimi zorunludur",
+      "text": "MiECTiS tanımında **venöz hava tuzağı veya hava uzaklaştırma cihazı** temel bileşendir. Sadece prime hacmini küçültmek bir devreyi MiECC yapmaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1foyg76",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "fact",
+        "importance": 2,
+        "title": "MiECC’de hava yönetimi zorunludur",
+        "body": "MiECTiS tanımında **venöz hava tuzağı veya hava uzaklaştırma cihazı** temel bileşendir. Sadece prime hacmini küçültmek bir devreyi MiECC yapmaz.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "MiECC’nin Tip III hacim yönetimi",
+      "text": "MiECC Tip III, hacim yönetimi için **yumuşak rezervuar** içerir; intrakardiyak işlemlerde hacim değişikliklerine uyum sağlamayı amaçlar.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ij42yy",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "fact",
+        "importance": 2,
+        "title": "MiECC’nin Tip III hacim yönetimi",
+        "body": "MiECC Tip III, hacim yönetimi için **yumuşak rezervuar** içerir; intrakardiyak işlemlerde hacim değişikliklerine uyum sağlamayı amaçlar.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "MiECC’nin Tip IV modülerliği",
+      "text": "MiECC Tip IV, gerektiğinde açık devreye dönüşe hazır **modüler hibrit** yaklaşımı içerir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ses3yy",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "fact",
+        "importance": 2,
+        "title": "MiECC’nin Tip IV modülerliği",
+        "body": "MiECC Tip IV, gerektiğinde açık devreye dönüşe hazır **modüler hibrit** yaklaşımı içerir.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "Retrograd perfüzyonda damar taraması",
+      "text": "Minimal invaziv cerrahide femoral retrograd akım planlanırken **aorto-iliyak ateroskleroz** değerlendirilir; ağır plak yükü serebral emboli riskini artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1fr55sp",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "fact",
+        "importance": 2,
+        "title": "Retrograd perfüzyonda damar taraması",
+        "body": "Minimal invaziv cerrahide femoral retrograd akım planlanırken **aorto-iliyak ateroskleroz** değerlendirilir; ağır plak yükü serebral emboli riskini artırabilir.",
+        "source": "Modi, retrograd perfüzyon 2013"
+      }
+    },
+    {
+      "title": "VAVD’de aşırı negatif basınç hangi sorunları artırabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-06h45e9",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "flip",
+        "importance": 2,
+        "question": "VAVD’de aşırı negatif basınç hangi sorunları artırabilir?",
+        "answer": "Hava mikroembolisi, hemoliz ve venöz hattın kollapsı riskini artırabilir; vakum kontrollü uygulanır.",
+        "source": "VAVD kaynakları"
+      }
+    },
+    {
+      "title": "Endoaortik balon innominat artere doğru kayarsa hangi izlem değişiklikleri beklenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0ez1lgq",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "flip",
+        "importance": 2,
+        "question": "Endoaortik balon innominat artere doğru kayarsa hangi izlem değişiklikleri beklenir?",
+        "answer": "**Sağ radiyal arter basıncı** ve sağ serebral NIRS düşebilir; pozisyon TEE ve diğer basınç ölçümleriyle değerlendirilir.",
+        "source": "Endoaortik balon serisi 2021"
+      }
+    },
+    {
+      "title": "MiECC ekip yaklaşımıdır",
+      "text": "MiECC, küçük devre veya küçük kesiyle sınırlı değildir; **cerrahi, anestezi ve perfüzyon yönetimini** birlikte kapsar.",
+      "images": [],
+      "card": {
+        "id": "PER207-15uwkoh",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "remember",
+        "importance": 3,
+        "title": "MiECC ekip yaklaşımıdır",
+        "body": "MiECC, küçük devre veya küçük kesiyle sınırlı değildir; **cerrahi, anestezi ve perfüzyon yönetimini** birlikte kapsar.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "MiECC Tip II’nin Tip I’e eklediği güvenlik bileşeni hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1ydvad4",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECC Tip II’nin Tip I’e eklediği güvenlik bileşeni hangisidir?",
+        "options": [
+          "Pnömatik TAH sürücüsü",
+          "Venöz kabarcık tuzağı",
+          "Arteriyel İABP balonu",
+          "Sol atriyal TandemHeart kanülü"
+        ],
+        "correct": 1,
+        "explanation": "Tip II venöz hava yönetimini ekler; MiECTiS tanımında bu asgari bileşendir.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "MiECC Tip III’te hacim yönetimini hangi bileşen kolaylaştırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-16jvv7d",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECC Tip III’te hacim yönetimini hangi bileşen kolaylaştırır?",
+        "options": [
+          "Transseptal kateter",
+          "Sefalik drenaj kanülü",
+          "Yumuşak rezervuar",
+          "Karşı-atım balonu"
+        ],
+        "correct": 2,
+        "explanation": "Tip III’te eklenen yumuşak rezervuar hacim değişikliklerine uyum sağlar.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "MiECTiS 2016, başlangıçtaki Tip I devrenin ağırlıklı olarak hangi işlemde kullanıldığını belirtir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1wddzcl",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECTiS 2016, başlangıçtaki Tip I devrenin ağırlıklı olarak hangi işlemde kullanıldığını belirtir?",
+        "options": [
+          "Kompleks çoklu kapak cerrahisi",
+          "Yüksek hacim değişimli aort cerrahisi",
+          "Açık atriyal tümör rezeksiyonu",
+          "Koroner arter bypass cerrahisi"
+        ],
+        "correct": 3,
+        "explanation": "Uzlaşı Tip I’in başlangıçta ağırlıklı CABG için kullanıldığını belirtir; hava ve hacim yönetimi için sonraki tipler geliştirilmiştir.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "Endoaortik balon migrasyonunda hangi basınç çifti birlikte izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1urwbmv",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Endoaortik balon migrasyonunda hangi basınç çifti birlikte izlenir?",
+        "options": [
+          "Sağ ve sol radiyal arter",
+          "Sağ ve sol femoral ven",
+          "Sağ ve sol atriyal septum",
+          "Pulmoner ven ve koroner sinüs"
+        ],
+        "correct": 0,
+        "explanation": "Bilateral radiyal basınç, arkus dallarının etkilenmesini fark etmeye yardım eder; TEE ve NIRS de kullanılır.",
+        "source": "Endoaortik balon serisi 2021"
+      }
+    },
+    {
+      "title": "MiECTiS 2016 tanımında devre bileşenlerinin biyouyumlu kaplaması MiECC yaklaşımına dahildir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1v6rsz0",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "tf",
+        "importance": 2,
+        "statement": "MiECTiS 2016 tanımında devre bileşenlerinin biyouyumlu kaplaması MiECC yaklaşımına dahildir.",
+        "isTrue": true,
+        "explanation": "Uzlaşı; kapalı, biyouyumlu ve küçük prime hacimli devre ile sistematik kan ve hava yönetimini birlikte tanımlar.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    },
+    {
+      "title": "MiECC yalnızca sternotomi kesisini küçültme stratejisidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0podej3",
+        "course": "PER207",
+        "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+        "type": "tf",
+        "importance": 2,
+        "statement": "MiECC yalnızca sternotomi kesisini küçültme stratejisidir.",
+        "isTrue": false,
+        "explanation": "MiECC cerrahi, anestezi ve perfüzyon yönetimini birleştirir; kesi boyutuyla sınırlı değildir.",
+        "source": "MiECTiS Uzlaşısı 2016"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-0tut9et",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Minimal invaziv kalp cerrahisi",
+      "en": "Minimally invasive cardiac surgery",
+      "definition": "Tam sternotomi yerine küçük insizyonlarla (ör. mini-torakotomi) yapılan kalp cerrahisi.",
+      "source": "Modi, retrograd perfüzyon 2013"
+    },
+    {
+      "id": "PER207-1b1sttq",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 3,
+      "term": "VAVD",
+      "en": "Vacuum-assisted venous drainage",
+      "definition": "Kapalı venöz rezervuara kontrollü vakum uygulayarak venöz dönüşü artırma.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "id": "PER207-17qkduf",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd arteriyel perfüzyon",
+      "en": "Retrograde arterial perfusion",
+      "definition": "Femoral arterden aorta boyunca ters yönde perfüzyon.",
+      "source": "Modi, retrograd perfüzyon 2013"
+    },
+    {
+      "id": "PER207-0g6gsji",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 3,
+      "term": "Endoaortik balon oklüzyonu",
+      "en": "Endoaortic balloon occlusion",
+      "definition": "Çıkan aortun içten balonla tıkanması; kardiyopleji, kök venti ve basınç ölçümü aynı kateterden.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "id": "PER207-0a9wkie",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 1,
+      "term": "Transtorasik aort klempi",
+      "en": "Transthoracic aortic clamp",
+      "definition": "Ayrı küçük göğüs girişinden yerleştirilen aort kros-klempi (ör. Chitwood).",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "id": "PER207-1x9srbo",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 3,
+      "term": "MiECC",
+      "en": "Minimal invasive extracorporeal circulation",
+      "definition": "Kapalı, kaplı, düşük prime hacimli, santrifüj pompalı ve venöz hava tuzaklı KPB stratejisi.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-1i0ylum",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz kabarcık tuzağı",
+      "en": "Venous bubble trap",
+      "definition": "Kapalı devrede venöz hattaki havayı ayıran ve MiECC Tip II'nin asgari şartı olan bileşen.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-033zyea",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "compare",
+      "importance": 2,
+      "title": "Aortun tıkanma yöntemi",
+      "left": {
+        "title": "Transtorasik klemp",
+        "points": [
+          "Aortu dıştan sıkıştırır",
+          "Ek göğüs girişinden yerleştirilir"
+        ]
+      },
+      "right": {
+        "title": "Endoaortik balon",
+        "points": [
+          "Aortu lümen içinden tıkar",
+          "Arteriyel yoldan ilerletilir"
+        ]
+      },
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "id": "PER207-1foyg76",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC’de hava yönetimi zorunludur",
+      "body": "MiECTiS tanımında **venöz hava tuzağı veya hava uzaklaştırma cihazı** temel bileşendir. Sadece prime hacmini küçültmek bir devreyi MiECC yapmaz.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-1ij42yy",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC’nin Tip III hacim yönetimi",
+      "body": "MiECC Tip III, hacim yönetimi için **yumuşak rezervuar** içerir; intrakardiyak işlemlerde hacim değişikliklerine uyum sağlamayı amaçlar.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-0ses3yy",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC’nin Tip IV modülerliği",
+      "body": "MiECC Tip IV, gerektiğinde açık devreye dönüşe hazır **modüler hibrit** yaklaşımı içerir.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-1fr55sp",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "fact",
+      "importance": 2,
+      "title": "Retrograd perfüzyonda damar taraması",
+      "body": "Minimal invaziv cerrahide femoral retrograd akım planlanırken **aorto-iliyak ateroskleroz** değerlendirilir; ağır plak yükü serebral emboli riskini artırabilir.",
+      "source": "Modi, retrograd perfüzyon 2013"
+    },
+    {
+      "id": "PER207-06h45e9",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "flip",
+      "importance": 2,
+      "question": "VAVD’de aşırı negatif basınç hangi sorunları artırabilir?",
+      "answer": "Hava mikroembolisi, hemoliz ve venöz hattın kollapsı riskini artırabilir; vakum kontrollü uygulanır.",
+      "source": "VAVD kaynakları"
+    },
+    {
+      "id": "PER207-0ez1lgq",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "flip",
+      "importance": 2,
+      "question": "Endoaortik balon innominat artere doğru kayarsa hangi izlem değişiklikleri beklenir?",
+      "answer": "**Sağ radiyal arter basıncı** ve sağ serebral NIRS düşebilir; pozisyon TEE ve diğer basınç ölçümleriyle değerlendirilir.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "id": "PER207-15uwkoh",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "remember",
+      "importance": 3,
+      "title": "MiECC ekip yaklaşımıdır",
+      "body": "MiECC, küçük devre veya küçük kesiyle sınırlı değildir; **cerrahi, anestezi ve perfüzyon yönetimini** birlikte kapsar.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-1ydvad4",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip II’nin Tip I’e eklediği güvenlik bileşeni hangisidir?",
+      "options": [
+        "Pnömatik TAH sürücüsü",
+        "Venöz kabarcık tuzağı",
+        "Arteriyel İABP balonu",
+        "Sol atriyal TandemHeart kanülü"
+      ],
+      "correct": 1,
+      "explanation": "Tip II venöz hava yönetimini ekler; MiECTiS tanımında bu asgari bileşendir.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-16jvv7d",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip III’te hacim yönetimini hangi bileşen kolaylaştırır?",
+      "options": [
+        "Transseptal kateter",
+        "Sefalik drenaj kanülü",
+        "Yumuşak rezervuar",
+        "Karşı-atım balonu"
+      ],
+      "correct": 2,
+      "explanation": "Tip III’te eklenen yumuşak rezervuar hacim değişikliklerine uyum sağlar.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-1wddzcl",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECTiS 2016, başlangıçtaki Tip I devrenin ağırlıklı olarak hangi işlemde kullanıldığını belirtir?",
+      "options": [
+        "Kompleks çoklu kapak cerrahisi",
+        "Yüksek hacim değişimli aort cerrahisi",
+        "Açık atriyal tümör rezeksiyonu",
+        "Koroner arter bypass cerrahisi"
+      ],
+      "correct": 3,
+      "explanation": "Uzlaşı Tip I’in başlangıçta ağırlıklı CABG için kullanıldığını belirtir; hava ve hacim yönetimi için sonraki tipler geliştirilmiştir.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-1urwbmv",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Endoaortik balon migrasyonunda hangi basınç çifti birlikte izlenir?",
+      "options": [
+        "Sağ ve sol radiyal arter",
+        "Sağ ve sol femoral ven",
+        "Sağ ve sol atriyal septum",
+        "Pulmoner ven ve koroner sinüs"
+      ],
+      "correct": 0,
+      "explanation": "Bilateral radiyal basınç, arkus dallarının etkilenmesini fark etmeye yardım eder; TEE ve NIRS de kullanılır.",
+      "source": "Endoaortik balon serisi 2021"
+    },
+    {
+      "id": "PER207-1v6rsz0",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "tf",
+      "importance": 2,
+      "statement": "MiECTiS 2016 tanımında devre bileşenlerinin biyouyumlu kaplaması MiECC yaklaşımına dahildir.",
+      "isTrue": true,
+      "explanation": "Uzlaşı; kapalı, biyouyumlu ve küçük prime hacimli devre ile sistematik kan ve hava yönetimini birlikte tanımlar.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    },
+    {
+      "id": "PER207-0podej3",
+      "course": "PER207",
+      "topic": "Minimal invaziv cerrahide KPB ve MiECC",
+      "type": "tf",
+      "importance": 2,
+      "statement": "MiECC yalnızca sternotomi kesisini küçültme stratejisidir.",
+      "isTrue": false,
+      "explanation": "MiECC cerrahi, anestezi ve perfüzyon yönetimini birleştirir; kesi boyutuyla sınırlı değildir.",
+      "source": "MiECTiS Uzlaşısı 2016"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

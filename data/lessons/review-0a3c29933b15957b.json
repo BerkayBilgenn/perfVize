@@ -1,0 +1,1060 @@
+{
+  "id": "review-0a3c29933b15957b",
+  "title": "Fetal dolaşım ve doğumdaki değişiklikler",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Plasenta",
+      "text": "Placenta\nFetusta gaz ve besin alışverişini sağlayan organ.\nLat. = yassı kek",
+      "images": [],
+      "card": {
+        "id": "PER241-0djznch",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "LITFL fetal dolaşım",
+        "term": "Plasenta",
+        "en": "Placenta",
+        "definition": "Fetusta gaz ve besin alışverişini sağlayan organ.",
+        "origin": "Lat. = yassı kek"
+      }
+    },
+    {
+      "title": "Umbilikal ven",
+      "text": "Umbilical vein\nPlasentadan fetusa oksijenli kanı taşıyan tek ven; kalıntısı ligamentum teres hepatis.\nLat. umbilicus = göbek",
+      "images": [],
+      "card": {
+        "id": "PER241-167fd1i",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Umbilikal ven",
+        "en": "Umbilical vein",
+        "definition": "Plasentadan fetusa oksijenli kanı taşıyan tek ven; kalıntısı ligamentum teres hepatis.",
+        "origin": "Lat. umbilicus = göbek"
+      }
+    },
+    {
+      "title": "Umbilikal arterler",
+      "text": "Umbilical arteries\nFetustan plasentaya oksijeni daha düşük kanı taşıyan damarlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-05k2qm0",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Umbilikal arterler",
+        "en": "Umbilical arteries",
+        "definition": "Fetustan plasentaya oksijeni daha düşük kanı taşıyan damarlar."
+      }
+    },
+    {
+      "title": "Duktus venozus",
+      "text": "Ductus venosus\nUmbilikal ven kanının bir kısmını karaciğeri atlatarak vena kava inferior'ya ileten fetal şant; kalıntısı ligamentum venozum.\nLat. ductus + vena",
+      "images": [],
+      "card": {
+        "id": "PER241-0py5cdp",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "term": "Duktus venozus",
+        "en": "Ductus venosus",
+        "definition": "Umbilikal ven kanının bir kısmını karaciğeri atlatarak vena kava inferior'ya ileten fetal şant; kalıntısı ligamentum venozum.",
+        "origin": "Lat. ductus + vena"
+      }
+    },
+    {
+      "title": "Duktus arteriyozus",
+      "text": "Ductus arteriosus\nPulmoner trunkusu inen aortaya bağlayan, 6. ark kökenli fetal damar.\nL. Botallo (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0gxowb4",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "term": "Duktus arteriyozus",
+        "en": "Ductus arteriosus",
+        "definition": "Pulmoner trunkusu inen aortaya bağlayan, 6. ark kökenli fetal damar.",
+        "origin": "L. Botallo (eponim)"
+      }
+    },
+    {
+      "title": "Fetal hemoglobin",
+      "text": "Fetal hemoglobin\nErişkin hemoglobinine göre oksijen afinitesi daha yüksek olan fetal hemoglobin. Gama zincirlerinin 2,3-BPG bağlaması daha azdır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1dqnb7d",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Fetal hemoglobin",
+        "en": "Fetal hemoglobin",
+        "definition": "Erişkin hemoglobinine göre oksijen afinitesi daha yüksek olan fetal hemoglobin. Gama zincirlerinin 2,3-BPG bağlaması daha azdır."
+      }
+    },
+    {
+      "title": "Ligamentum venozum",
+      "text": "Ligamentum venosum\nDuktus venozusun kalıntısı.",
+      "images": [],
+      "card": {
+        "id": "PER241-0ubedvi",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Ligamentum venozum",
+        "en": "Ligamentum venosum",
+        "definition": "Duktus venozusun kalıntısı."
+      }
+    },
+    {
+      "title": "Ligamentum teres hepatis",
+      "text": "Round ligament of the liver\nUmbilikal venin kalıntısı.\nLat. teres = yuvarlak",
+      "images": [],
+      "card": {
+        "id": "PER241-1dvs953",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Ligamentum teres hepatis",
+        "en": "Round ligament of the liver",
+        "definition": "Umbilikal venin kalıntısı.",
+        "origin": "Lat. teres = yuvarlak"
+      }
+    },
+    {
+      "title": "Transisyonel dolaşım",
+      "text": "Transitional circulation\nDoğumda fetal (paralel/şantlı) dolaşımdan erişkin tipi seri dolaşıma geçiş: pulmoner vasküler direnç düşer, sistemik vasküler direnç artar, şantlar kapanır.",
+      "images": [],
+      "card": {
+        "id": "PER241-08rjmo9",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 1,
+        "source": "LITFL fetal dolaşım",
+        "term": "Transisyonel dolaşım",
+        "en": "Transitional circulation",
+        "definition": "Doğumda fetal (paralel/şantlı) dolaşımdan erişkin tipi seri dolaşıma geçiş: pulmoner vasküler direnç düşer, sistemik vasküler direnç artar, şantlar kapanır."
+      }
+    },
+    {
+      "title": "Fonksiyonel kapanma",
+      "text": "Functional closure\nBir yapının akımı durduracak şekilde kapanması. Doku düzeyindeki kalıcı kapanmadan önce gerçekleşebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0mvv8wh",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Fonksiyonel kapanma",
+        "en": "Functional closure",
+        "definition": "Bir yapının akımı durduracak şekilde kapanması. Doku düzeyindeki kalıcı kapanmadan önce gerçekleşebilir."
+      }
+    },
+    {
+      "title": "PPHN",
+      "text": "Persistent pulmonary hypertension of the newborn\nYüksek fetal pulmoner vasküler direnç'nin sürmesi/geri dönmesi; PFO/PDA'dan sağdan sola şantla oksijene yanıtsız hipoksemi.",
+      "images": [],
+      "card": {
+        "id": "PER241-1r3n20n",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "PPHN",
+        "en": "Persistent pulmonary hypertension of the newborn",
+        "definition": "Yüksek fetal pulmoner vasküler direnç'nin sürmesi/geri dönmesi; PFO/PDA'dan sağdan sola şantla oksijene yanıtsız hipoksemi."
+      }
+    },
+    {
+      "title": "Alprostadil",
+      "text": "Prostaglandin E1\nDuktus-bağımlı lezyonlarda duktusun açık tutulması için kullanılan prostaglandin E1.",
+      "images": [],
+      "card": {
+        "id": "PER241-04kx814",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Alprostadil",
+        "en": "Prostaglandin E1",
+        "definition": "Duktus-bağımlı lezyonlarda duktusun açık tutulması için kullanılan prostaglandin E1."
+      }
+    },
+    {
+      "title": "COX inhibitörleri",
+      "text": "Cyclooxygenase inhibitors\nProstaglandin sentezini baskılayarak prematüre PDA'sını kapatan ilaçlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-0ubour4",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "COX inhibitörleri",
+        "en": "Cyclooxygenase inhibitors",
+        "definition": "Prostaglandin sentezini baskılayarak prematüre PDA'sını kapatan ilaçlar."
+      }
+    },
+    {
+      "title": "Fetal kanallar",
+      "text": "Duktus arteriyozus\nPulmoner trunkus ile aorta arasındadır\nKalıntısı ligamentum arteriyozumdur\n\nDuktus venozus\nUmbilikal ven akımını vena kava inferior'ya yönlendirir\nKalıntısı ligamentum venozumdur",
+      "images": [],
+      "card": {
+        "id": "PER241-06fbmsz",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "compare",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Fetal kanallar",
+        "left": {
+          "title": "Duktus arteriyozus",
+          "points": [
+            "Pulmoner trunkus ile aorta arasındadır",
+            "Kalıntısı ligamentum arteriyozumdur"
+          ]
+        },
+        "right": {
+          "title": "Duktus venozus",
+          "points": [
+            "Umbilikal ven akımını vena kava inferior'ya yönlendirir",
+            "Kalıntısı ligamentum venozumdur"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Kapanmanın iki anlamı",
+      "text": "Fonksiyonel kapanma\nYapıdan geçen akım durur\nDoku düzeyinde birleşme henüz tamamlanmayabilir\n\nAnatomik kapanma\nDoku birleşmesi veya fibrozis gelişir\nKalıcı yapısal kapanmayı ifade eder",
+      "images": [],
+      "card": {
+        "id": "PER241-1epqx4l",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Kapanmanın iki anlamı",
+        "left": {
+          "title": "Fonksiyonel kapanma",
+          "points": [
+            "Yapıdan geçen akım durur",
+            "Doku düzeyinde birleşme henüz tamamlanmayabilir"
+          ]
+        },
+        "right": {
+          "title": "Anatomik kapanma",
+          "points": [
+            "Doku birleşmesi veya fibrozis gelişir",
+            "Kalıcı yapısal kapanmayı ifade eder"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Umbilikal kanın yönü",
+      "text": "Umbilikal ven **plasentadan fetusa** oksijenli kan taşır; umbilikal arterler fetustan plasentaya döner.",
+      "images": [],
+      "card": {
+        "id": "PER241-1byyq0l",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Umbilikal kanın yönü",
+        "body": "Umbilikal ven **plasentadan fetusa** oksijenli kan taşır; umbilikal arterler fetustan plasentaya döner."
+      }
+    },
+    {
+      "title": "Fetusta beyin ve koronerlerin beslenmesi",
+      "text": "Vena kava inferiorun iyi oksijenli kanı foramen ovaleden sol kalbe yönlenir; **çıkan aorta** üzerinden beyin ve koronerler beslenir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1198cla",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "LITFL fetal dolaşım",
+        "title": "Fetusta beyin ve koronerlerin beslenmesi",
+        "body": "Vena kava inferiorun iyi oksijenli kanı foramen ovaleden sol kalbe yönlenir; **çıkan aorta** üzerinden beyin ve koronerler beslenir."
+      }
+    },
+    {
+      "title": "Fetal VCS kanı hangi yolu izler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1je2o38",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "flip",
+        "importance": 2,
+        "source": "LITFL fetal dolaşım",
+        "question": "Fetal VCS kanı hangi yolu izler?",
+        "answer": "Ağırlıklı olarak **sağ ventriküle**, sonra duktus arteriyozus aracılığıyla inen aortaya yönelir."
+      }
+    },
+    {
+      "title": "İlk nefesin dolaşıma etkisi",
+      "text": "Akciğerlerin açılması **pulmoner vasküler direnci düşürür** ve pulmoner kan akımını artırır.",
+      "images": [],
+      "card": {
+        "id": "PER241-02di61v",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "remember",
+        "importance": 3,
+        "source": "LITFL doğum fizyolojisi",
+        "title": "İlk nefesin dolaşıma etkisi",
+        "body": "Akciğerlerin açılması **pulmoner vasküler direnci düşürür** ve pulmoner kan akımını artırır."
+      }
+    },
+    {
+      "title": "Kordon klemplenmesi sistemik direnci nasıl etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0oa7imq",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "flip",
+        "importance": 2,
+        "source": "LITFL doğum fizyolojisi",
+        "question": "Kordon klemplenmesi sistemik direnci nasıl etkiler?",
+        "answer": "Plasental dolaşım devreden çıkınca **sistemik vasküler direnç artar**."
+      }
+    },
+    {
+      "title": "Foramen ovalenin kapanmasını ne başlatır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-09fhhto",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "flip",
+        "importance": 2,
+        "source": "LITFL doğum fizyolojisi",
+        "question": "Foramen ovalenin kapanmasını ne başlatır?",
+        "answer": "Pulmoner venöz dönüşle sol atriyum basıncının **sağ atriyum basıncını aşması**, kapakçığın fonksiyonel kapanmasını sağlar."
+      }
+    },
+    {
+      "title": "Duktal konstriksiyonun uyaranları",
+      "text": "Doğum sonrasında artan oksijen ve azalan **prostaglandin düzeyleri**, duktus arteriyozusun kasılmasına katkıda bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0217gqu",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Duktal konstriksiyonun uyaranları",
+        "body": "Doğum sonrasında artan oksijen ve azalan **prostaglandin düzeyleri**, duktus arteriyozusun kasılmasına katkıda bulunur."
+      }
+    },
+    {
+      "title": "HbF'nin bağlanma farkı",
+      "text": "Fetal hemoglobinin gama zincirleri **2,3-BPG'yi daha az bağlar**; oksijen afinitesi erişkin hemoglobininden yüksektir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0vrfade",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "HbF'nin bağlanma farkı",
+        "body": "Fetal hemoglobinin gama zincirleri **2,3-BPG'yi daha az bağlar**; oksijen afinitesi erişkin hemoglobininden yüksektir."
+      }
+    },
+    {
+      "title": "PDA ilacında yaş ayrımı",
+      "text": "COX inhibitörleri **prematüre PDA'sında** etkilidir; miadında doğan bebek ve çocuklarda genellikle etkisizdir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1mkbmzv",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "PDA ilacında yaş ayrımı",
+        "body": "COX inhibitörleri **prematüre PDA'sında** etkilidir; miadında doğan bebek ve çocuklarda genellikle etkisizdir."
+      }
+    },
+    {
+      "title": "PGE1'in amacı",
+      "text": "Duktus-bağımlı lezyonda prostaglandin E1, **duktusun açık kalmasını** sağlayarak gerekli akımın sürmesine yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER241-0wqfff1",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "PGE1'in amacı",
+        "body": "Duktus-bağımlı lezyonda prostaglandin E1, **duktusun açık kalmasını** sağlayarak gerekli akımın sürmesine yardım eder."
+      }
+    },
+    {
+      "title": "Alprostadilde önemli yan etki",
+      "text": "Alprostadilin klinik olarak önemli yan etkileri arasında **apne**, ateş ve hipotansiyon bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0489ijl",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "remember",
+        "importance": 3,
+        "source": "Wikipedia",
+        "title": "Alprostadilde önemli yan etki",
+        "body": "Alprostadilin klinik olarak önemli yan etkileri arasında **apne**, ateş ve hipotansiyon bulunur."
+      }
+    },
+    {
+      "title": "PPHN'de hipokseminin nedeni",
+      "text": "Yüksek pulmoner direnç, foramen ovale veya duktus üzerinden **sağdan sola şanta** ve oksijene yetersiz yanıt veren hipoksemiye yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1wm22y2",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "PPHN'de hipokseminin nedeni",
+        "body": "Yüksek pulmoner direnç, foramen ovale veya duktus üzerinden **sağdan sola şanta** ve oksijene yetersiz yanıt veren hipoksemiye yol açabilir."
+      }
+    },
+    {
+      "title": "PGE1 başlangıç aralığı",
+      "text": "Merck'in HLHS bölümünde alprostadil başlangıcı **0,05–0,1 mcg/kg/dk** IV infüzyon olarak verilir; duktusun açık tutulmasına yöneliktir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0rxo7yq",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "PGE1 başlangıç aralığı",
+        "body": "Merck'in HLHS bölümünde alprostadil başlangıcı **0,05–0,1 mcg/kg/dk** IV infüzyon olarak verilir; duktusun açık tutulmasına yöneliktir."
+      }
+    },
+    {
+      "title": "VCI kanını fetal foramen ovaleye yönlendiren kapakçık hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-171zgyx",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "LITFL fetal dolaşım",
+        "question": "VCI kanını fetal foramen ovaleye yönlendiren kapakçık hangisidir?",
+        "options": [
+          "Östaki valvi",
+          "Aort kapağı",
+          "Pulmoner kapak",
+          "Mitral kapak"
+        ],
+        "correct": 0,
+        "explanation": "Östaki valvi inferior vena kava ağzında fetal akımı yönlendirir."
+      }
+    },
+    {
+      "title": "Fetal dolaşımda pulmoner trunkusu inen aortaya bağlayan yapı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0zz6xg9",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "question": "Fetal dolaşımda pulmoner trunkusu inen aortaya bağlayan yapı hangisidir?",
+        "options": [
+          "Duktus venozus",
+          "Duktus arteriyozus",
+          "Umbilikal ven",
+          "Koroner sinüs"
+        ],
+        "correct": 1,
+        "explanation": "Duktus arteriyozus, yüksek dirençli fetal akciğer yatağını atlayan bağlantıdır."
+      }
+    },
+    {
+      "title": "Umbilikal venin doğum sonrası kalıntısı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1i8j2sw",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "question": "Umbilikal venin doğum sonrası kalıntısı hangisidir?",
+        "options": [
+          "Ligamentum venozum",
+          "Ligamentum arteriyozum",
+          "Ligamentum teres hepatis",
+          "Medial umbilikal ligament"
+        ],
+        "correct": 2,
+        "explanation": "Karaciğerin yuvarlak bağı umbilikal venin kalıntısıdır."
+      }
+    },
+    {
+      "title": "Duktus venozusun kalıntısı hangi yapıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0zpvuzh",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "question": "Duktus venozusun kalıntısı hangi yapıdır?",
+        "options": [
+          "Ligamentum teres hepatis",
+          "Ligamentum arteriyozum",
+          "Koroner sinüs",
+          "Ligamentum venozum"
+        ],
+        "correct": 3,
+        "explanation": "Duktus venozus kapandıktan sonra ligamentum venozum kalır."
+      }
+    },
+    {
+      "title": "PPHN'de seçici pulmoner vazodilatör olarak hangi gaz kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-18of54r",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "PPHN'de seçici pulmoner vazodilatör olarak hangi gaz kullanılır?",
+        "options": [
+          "İnhale nitrik oksit",
+          "Karbonmonoksit",
+          "Helyum",
+          "Azot protoksit"
+        ],
+        "correct": 0,
+        "explanation": "İnhale nitrik oksit pulmoner vasküler direnci azaltmak için kullanılır."
+      }
+    },
+    {
+      "title": "Duktus venozus umbilikal ven kanının bir kısmının karaciğeri atlamasını sağlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-085kbk2",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "tf",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "statement": "Duktus venozus umbilikal ven kanının bir kısmının karaciğeri atlamasını sağlar.",
+        "isTrue": true,
+        "explanation": "Kanal kanı inferior vena kavaya yönlendirir."
+      }
+    },
+    {
+      "title": "Kordonun klemplenmesi doğum sonrası sistemik vasküler direnci azaltır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0goxjt0",
+        "course": "PER241",
+        "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+        "type": "tf",
+        "importance": 3,
+        "source": "LITFL doğum fizyolojisi",
+        "statement": "Kordonun klemplenmesi doğum sonrası sistemik vasküler direnci azaltır.",
+        "isTrue": false,
+        "explanation": "Plasental düşük dirençli yatak kaybolduğu için sistemik direnç artar."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-0djznch",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "term": "Plasenta",
+      "en": "Placenta",
+      "definition": "Fetusta gaz ve besin alışverişini sağlayan organ.",
+      "origin": "Lat. = yassı kek"
+    },
+    {
+      "id": "PER241-167fd1i",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Umbilikal ven",
+      "en": "Umbilical vein",
+      "definition": "Plasentadan fetusa oksijenli kanı taşıyan tek ven; kalıntısı ligamentum teres hepatis.",
+      "origin": "Lat. umbilicus = göbek"
+    },
+    {
+      "id": "PER241-05k2qm0",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Umbilikal arterler",
+      "en": "Umbilical arteries",
+      "definition": "Fetustan plasentaya oksijeni daha düşük kanı taşıyan damarlar."
+    },
+    {
+      "id": "PER241-0py5cdp",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Duktus venozus",
+      "en": "Ductus venosus",
+      "definition": "Umbilikal ven kanının bir kısmını karaciğeri atlatarak vena kava inferior'ya ileten fetal şant; kalıntısı ligamentum venozum.",
+      "origin": "Lat. ductus + vena"
+    },
+    {
+      "id": "PER241-0gxowb4",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Duktus arteriyozus",
+      "en": "Ductus arteriosus",
+      "definition": "Pulmoner trunkusu inen aortaya bağlayan, 6. ark kökenli fetal damar.",
+      "origin": "L. Botallo (eponim)"
+    },
+    {
+      "id": "PER241-1dqnb7d",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Fetal hemoglobin",
+      "en": "Fetal hemoglobin",
+      "definition": "Erişkin hemoglobinine göre oksijen afinitesi daha yüksek olan fetal hemoglobin. Gama zincirlerinin 2,3-BPG bağlaması daha azdır."
+    },
+    {
+      "id": "PER241-0ubedvi",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ligamentum venozum",
+      "en": "Ligamentum venosum",
+      "definition": "Duktus venozusun kalıntısı."
+    },
+    {
+      "id": "PER241-1dvs953",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ligamentum teres hepatis",
+      "en": "Round ligament of the liver",
+      "definition": "Umbilikal venin kalıntısı.",
+      "origin": "Lat. teres = yuvarlak"
+    },
+    {
+      "id": "PER241-08rjmo9",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 1,
+      "source": "LITFL fetal dolaşım",
+      "term": "Transisyonel dolaşım",
+      "en": "Transitional circulation",
+      "definition": "Doğumda fetal (paralel/şantlı) dolaşımdan erişkin tipi seri dolaşıma geçiş: pulmoner vasküler direnç düşer, sistemik vasküler direnç artar, şantlar kapanır."
+    },
+    {
+      "id": "PER241-0mvv8wh",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Fonksiyonel kapanma",
+      "en": "Functional closure",
+      "definition": "Bir yapının akımı durduracak şekilde kapanması. Doku düzeyindeki kalıcı kapanmadan önce gerçekleşebilir."
+    },
+    {
+      "id": "PER241-1r3n20n",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "PPHN",
+      "en": "Persistent pulmonary hypertension of the newborn",
+      "definition": "Yüksek fetal pulmoner vasküler direnç'nin sürmesi/geri dönmesi; PFO/PDA'dan sağdan sola şantla oksijene yanıtsız hipoksemi."
+    },
+    {
+      "id": "PER241-04kx814",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Alprostadil",
+      "en": "Prostaglandin E1",
+      "definition": "Duktus-bağımlı lezyonlarda duktusun açık tutulması için kullanılan prostaglandin E1."
+    },
+    {
+      "id": "PER241-0ubour4",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "COX inhibitörleri",
+      "en": "Cyclooxygenase inhibitors",
+      "definition": "Prostaglandin sentezini baskılayarak prematüre PDA'sını kapatan ilaçlar."
+    },
+    {
+      "id": "PER241-06fbmsz",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "compare",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Fetal kanallar",
+      "left": {
+        "title": "Duktus arteriyozus",
+        "points": [
+          "Pulmoner trunkus ile aorta arasındadır",
+          "Kalıntısı ligamentum arteriyozumdur"
+        ]
+      },
+      "right": {
+        "title": "Duktus venozus",
+        "points": [
+          "Umbilikal ven akımını vena kava inferior'ya yönlendirir",
+          "Kalıntısı ligamentum venozumdur"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1epqx4l",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kapanmanın iki anlamı",
+      "left": {
+        "title": "Fonksiyonel kapanma",
+        "points": [
+          "Yapıdan geçen akım durur",
+          "Doku düzeyinde birleşme henüz tamamlanmayabilir"
+        ]
+      },
+      "right": {
+        "title": "Anatomik kapanma",
+        "points": [
+          "Doku birleşmesi veya fibrozis gelişir",
+          "Kalıcı yapısal kapanmayı ifade eder"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1byyq0l",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Umbilikal kanın yönü",
+      "body": "Umbilikal ven **plasentadan fetusa** oksijenli kan taşır; umbilikal arterler fetustan plasentaya döner."
+    },
+    {
+      "id": "PER241-1198cla",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "title": "Fetusta beyin ve koronerlerin beslenmesi",
+      "body": "Vena kava inferiorun iyi oksijenli kanı foramen ovaleden sol kalbe yönlenir; **çıkan aorta** üzerinden beyin ve koronerler beslenir."
+    },
+    {
+      "id": "PER241-1je2o38",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "flip",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "question": "Fetal VCS kanı hangi yolu izler?",
+      "answer": "Ağırlıklı olarak **sağ ventriküle**, sonra duktus arteriyozus aracılığıyla inen aortaya yönelir."
+    },
+    {
+      "id": "PER241-02di61v",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "remember",
+      "importance": 3,
+      "source": "LITFL doğum fizyolojisi",
+      "title": "İlk nefesin dolaşıma etkisi",
+      "body": "Akciğerlerin açılması **pulmoner vasküler direnci düşürür** ve pulmoner kan akımını artırır."
+    },
+    {
+      "id": "PER241-0oa7imq",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "flip",
+      "importance": 2,
+      "source": "LITFL doğum fizyolojisi",
+      "question": "Kordon klemplenmesi sistemik direnci nasıl etkiler?",
+      "answer": "Plasental dolaşım devreden çıkınca **sistemik vasküler direnç artar**."
+    },
+    {
+      "id": "PER241-09fhhto",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "flip",
+      "importance": 2,
+      "source": "LITFL doğum fizyolojisi",
+      "question": "Foramen ovalenin kapanmasını ne başlatır?",
+      "answer": "Pulmoner venöz dönüşle sol atriyum basıncının **sağ atriyum basıncını aşması**, kapakçığın fonksiyonel kapanmasını sağlar."
+    },
+    {
+      "id": "PER241-0217gqu",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Duktal konstriksiyonun uyaranları",
+      "body": "Doğum sonrasında artan oksijen ve azalan **prostaglandin düzeyleri**, duktus arteriyozusun kasılmasına katkıda bulunur."
+    },
+    {
+      "id": "PER241-0vrfade",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "HbF'nin bağlanma farkı",
+      "body": "Fetal hemoglobinin gama zincirleri **2,3-BPG'yi daha az bağlar**; oksijen afinitesi erişkin hemoglobininden yüksektir."
+    },
+    {
+      "id": "PER241-1mkbmzv",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "PDA ilacında yaş ayrımı",
+      "body": "COX inhibitörleri **prematüre PDA'sında** etkilidir; miadında doğan bebek ve çocuklarda genellikle etkisizdir."
+    },
+    {
+      "id": "PER241-0wqfff1",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PGE1'in amacı",
+      "body": "Duktus-bağımlı lezyonda prostaglandin E1, **duktusun açık kalmasını** sağlayarak gerekli akımın sürmesine yardım eder."
+    },
+    {
+      "id": "PER241-0489ijl",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "Alprostadilde önemli yan etki",
+      "body": "Alprostadilin klinik olarak önemli yan etkileri arasında **apne**, ateş ve hipotansiyon bulunur."
+    },
+    {
+      "id": "PER241-1wm22y2",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PPHN'de hipokseminin nedeni",
+      "body": "Yüksek pulmoner direnç, foramen ovale veya duktus üzerinden **sağdan sola şanta** ve oksijene yetersiz yanıt veren hipoksemiye yol açabilir."
+    },
+    {
+      "id": "PER241-0rxo7yq",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PGE1 başlangıç aralığı",
+      "body": "Merck'in HLHS bölümünde alprostadil başlangıcı **0,05–0,1 mcg/kg/dk** IV infüzyon olarak verilir; duktusun açık tutulmasına yöneliktir."
+    },
+    {
+      "id": "PER241-171zgyx",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "LITFL fetal dolaşım",
+      "question": "VCI kanını fetal foramen ovaleye yönlendiren kapakçık hangisidir?",
+      "options": [
+        "Östaki valvi",
+        "Aort kapağı",
+        "Pulmoner kapak",
+        "Mitral kapak"
+      ],
+      "correct": 0,
+      "explanation": "Östaki valvi inferior vena kava ağzında fetal akımı yönlendirir."
+    },
+    {
+      "id": "PER241-0zz6xg9",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "question": "Fetal dolaşımda pulmoner trunkusu inen aortaya bağlayan yapı hangisidir?",
+      "options": [
+        "Duktus venozus",
+        "Duktus arteriyozus",
+        "Umbilikal ven",
+        "Koroner sinüs"
+      ],
+      "correct": 1,
+      "explanation": "Duktus arteriyozus, yüksek dirençli fetal akciğer yatağını atlayan bağlantıdır."
+    },
+    {
+      "id": "PER241-1i8j2sw",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "question": "Umbilikal venin doğum sonrası kalıntısı hangisidir?",
+      "options": [
+        "Ligamentum venozum",
+        "Ligamentum arteriyozum",
+        "Ligamentum teres hepatis",
+        "Medial umbilikal ligament"
+      ],
+      "correct": 2,
+      "explanation": "Karaciğerin yuvarlak bağı umbilikal venin kalıntısıdır."
+    },
+    {
+      "id": "PER241-0zpvuzh",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "question": "Duktus venozusun kalıntısı hangi yapıdır?",
+      "options": [
+        "Ligamentum teres hepatis",
+        "Ligamentum arteriyozum",
+        "Koroner sinüs",
+        "Ligamentum venozum"
+      ],
+      "correct": 3,
+      "explanation": "Duktus venozus kapandıktan sonra ligamentum venozum kalır."
+    },
+    {
+      "id": "PER241-18of54r",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "PPHN'de seçici pulmoner vazodilatör olarak hangi gaz kullanılır?",
+      "options": [
+        "İnhale nitrik oksit",
+        "Karbonmonoksit",
+        "Helyum",
+        "Azot protoksit"
+      ],
+      "correct": 0,
+      "explanation": "İnhale nitrik oksit pulmoner vasküler direnci azaltmak için kullanılır."
+    },
+    {
+      "id": "PER241-085kbk2",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "tf",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "statement": "Duktus venozus umbilikal ven kanının bir kısmının karaciğeri atlamasını sağlar.",
+      "isTrue": true,
+      "explanation": "Kanal kanı inferior vena kavaya yönlendirir."
+    },
+    {
+      "id": "PER241-0goxjt0",
+      "course": "PER241",
+      "topic": "Fetal dolaşım ve doğumdaki değişiklikler",
+      "type": "tf",
+      "importance": 3,
+      "source": "LITFL doğum fizyolojisi",
+      "statement": "Kordonun klemplenmesi doğum sonrası sistemik vasküler direnci azaltır.",
+      "isTrue": false,
+      "explanation": "Plasental düşük dirençli yatak kaybolduğu için sistemik direnç artar."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

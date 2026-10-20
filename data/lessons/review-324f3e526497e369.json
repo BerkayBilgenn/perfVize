@@ -1,0 +1,1292 @@
+{
+  "id": "review-324f3e526497e369",
+  "title": "Oksijenatörler ve gaz transferi",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Oksijenatör",
+      "text": "Oxygenator\nKana O₂ veren ve CO₂ uzaklaştıran yapay akciğer (genellikle ısı değiştirici entegre).",
+      "images": [],
+      "card": {
+        "id": "PER141-0cd2cqt",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 3,
+        "term": "Oksijenatör",
+        "definition": "Kana O₂ veren ve CO₂ uzaklaştıran yapay akciğer (genellikle ısı değiştirici entegre).",
+        "en": "Oxygenator",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Membran oksijenatör",
+      "text": "Membrane oxygenator\nKan ve gazın bir membranla ayrıldığı, pO₂ ve pCO₂'nin bağımsız kontrol edilebildiği oksijenatör; günümüz standardı.",
+      "images": [],
+      "card": {
+        "id": "PER141-0vyjaaf",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 3,
+        "term": "Membran oksijenatör",
+        "definition": "Kan ve gazın bir membranla ayrıldığı, pO₂ ve pCO₂'nin bağımsız kontrol edilebildiği oksijenatör; günümüz standardı.",
+        "en": "Membrane oxygenator",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bubble oksijenatör",
+      "text": "Bubble oxygenator\nGazın kana doğrudan kabarcık hâlinde verildiği tarihsel oksijenatör; artık üretilmiyor.",
+      "images": [],
+      "card": {
+        "id": "PER141-13buf99",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Bubble oksijenatör",
+        "definition": "Gazın kana doğrudan kabarcık hâlinde verildiği tarihsel oksijenatör; artık üretilmiyor.",
+        "en": "Bubble oxygenator",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Film oksijenatör",
+      "text": "Film (disc/screen) oxygenator\nKanın ince film hâlinde gaza maruz bırakıldığı tarihsel oksijenatör (Gibbon: dikey elek; Crafoord–Björk: dönen disk).",
+      "images": [],
+      "card": {
+        "id": "PER141-0vpnefl",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 1,
+        "term": "Film oksijenatör",
+        "definition": "Kanın ince film hâlinde gaza maruz bırakıldığı tarihsel oksijenatör (Gibbon: dikey elek; Crafoord–Björk: dönen disk).",
+        "en": "Film (disc/screen) oxygenator",
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Hollow fiber",
+      "text": "Hollow fiber\nOksijenatörde gazın içinden, kanın dışından geçtiği içi boş ince lif yapısı.",
+      "images": [],
+      "card": {
+        "id": "PER141-1i28354",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Hollow fiber",
+        "definition": "Oksijenatörde gazın içinden, kanın dışından geçtiği içi boş ince lif yapısı.",
+        "en": "Hollow fiber",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Mikroporöz membran",
+      "text": "Microporous membrane\nGazların küçük gözeneklerden geçişine izin veren hidrofobik membran yapısı.",
+      "images": [],
+      "card": {
+        "id": "PER141-04gvku6",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Mikroporöz membran",
+        "definition": "Gazların küçük gözeneklerden geçişine izin veren hidrofobik membran yapısı.",
+        "en": "Microporous membrane",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Polipropilen (PP)",
+      "text": "Polypropylene\nKPB oksijenatörlerinin standart mikroporöz hollow-fiber malzemesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1qbb2xz",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Polipropilen (PP)",
+        "definition": "KPB oksijenatörlerinin standart mikroporöz hollow-fiber malzemesi.",
+        "en": "Polypropylene",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Polimetilpenten (PMP)",
+      "text": "Polymethylpentene\nDış yüzeyinde yoğun deri tabakası bulunan, plazma sızıntısına dirençli difüzyon membranı malzemesi; uzun süreli desteğe uygundur.",
+      "images": [],
+      "card": {
+        "id": "PER141-1rgyw1w",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Polimetilpenten (PMP)",
+        "definition": "Dış yüzeyinde yoğun deri tabakası bulunan, plazma sızıntısına dirençli difüzyon membranı malzemesi; uzun süreli desteğe uygundur.",
+        "en": "Polymethylpentene",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Silikon membran",
+      "text": "Silicone (PDMS) membrane\nNon-poröz \"gerçek\" difüzyon membranı; plazma sızıntısı yapmaz (Kolobow).",
+      "images": [],
+      "card": {
+        "id": "PER141-1frwolc",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 1,
+        "term": "Silikon membran",
+        "definition": "Non-poröz \"gerçek\" difüzyon membranı; plazma sızıntısı yapmaz (Kolobow).",
+        "en": "Silicone (PDMS) membrane",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Plazma sızıntısı",
+      "text": "Plasma leakage (wetting)\nPorların zamanla hidrofilikleşip plazmanın gaz tarafına sızması; gaz transferi bozulur, gaz çıkışında sarı köpük görülür.",
+      "images": [],
+      "card": {
+        "id": "PER141-01x73sq",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Plazma sızıntısı",
+        "definition": "Porların zamanla hidrofilikleşip plazmanın gaz tarafına sızması; gaz transferi bozulur, gaz çıkışında sarı köpük görülür.",
+        "en": "Plasma leakage (wetting)",
+        "source": "Membranes 2021"
+      }
+    },
+    {
+      "title": "Sweep gaz",
+      "text": "Sweep gas\nOksijenatörün gaz tarafından geçen gaz akımı; artırılınca PaCO₂ düşer.",
+      "images": [],
+      "card": {
+        "id": "PER141-0do26ph",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 3,
+        "term": "Sweep gaz",
+        "definition": "Oksijenatörün gaz tarafından geçen gaz akımı; artırılınca PaCO₂ düşer.",
+        "en": "Sweep gas",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "FiO₂",
+      "text": "Fraction of (delivered) oxygen\nOksijenatöre verilen gazdaki O₂ oranı; PaO₂'yi belirler.",
+      "images": [],
+      "card": {
+        "id": "PER141-1j3za8p",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 3,
+        "term": "FiO₂",
+        "definition": "Oksijenatöre verilen gazdaki O₂ oranı; PaO₂'yi belirler.",
+        "en": "Fraction of (delivered) oxygen",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Gaz blenderi",
+      "text": "Gas blender\nO₂ ve havayı karıştırıp FiO₂'yi ayarlayan cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mba4gc",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Gaz blenderi",
+        "definition": "O₂ ve havayı karıştırıp FiO₂'yi ayarlayan cihaz.",
+        "en": "Gas blender",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Vaporizer",
+      "text": "Anesthetic vaporizer\nSweep gaza volatil anestezik ekleyen cihaz; atık gaz uzaklaştırma gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ytwpix",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 1,
+        "term": "Vaporizer",
+        "definition": "Sweep gaza volatil anestezik ekleyen cihaz; atık gaz uzaklaştırma gerektirir.",
+        "en": "Anesthetic vaporizer",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Atık gaz uzaklaştırma",
+      "text": "Scavenging\nOksijenatör çıkışından atık anestezik gazların uzaklaştırılması; aşırı negatif basınç membranı yırtabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1h3pff0",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Atık gaz uzaklaştırma",
+        "definition": "Oksijenatör çıkışından atık anestezik gazların uzaklaştırılması; aşırı negatif basınç membranı yırtabilir.",
+        "en": "Scavenging",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Oksijen analizörü",
+      "text": "Oxygen analyzer\nOksijenatöre giden gazın O₂ yüzdesini ölçen cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-08p7f9z",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 1,
+        "term": "Oksijen analizörü",
+        "definition": "Oksijenatöre giden gazın O₂ yüzdesini ölçen cihaz.",
+        "en": "Oxygen analyzer",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Transmembran basınç gradyanı (ΔP)",
+      "text": "Transmembrane pressure gradient (delta-P)\nOksijenatör giriş–çıkış basınç farkı; artışı tromboz/pıhtı göstergesi olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-13834uf",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Transmembran basınç gradyanı (ΔP)",
+        "definition": "Oksijenatör giriş–çıkış basınç farkı; artışı tromboz/pıhtı göstergesi olabilir.",
+        "en": "Transmembrane pressure gradient (delta-P)",
+        "source": "JECT: Oksijenatör yetmezliği"
+      }
+    },
+    {
+      "title": "Oksijenatör yetmezliği",
+      "text": "Oxygenator failure\nYüksek FiO₂ ve gaz akımına rağmen yetersiz oksijenasyon/CO₂ atımı veya yüksek ΔP.",
+      "images": [],
+      "card": {
+        "id": "PER141-0xeb7wm",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Oksijenatör yetmezliği",
+        "definition": "Yüksek FiO₂ ve gaz akımına rağmen yetersiz oksijenasyon/CO₂ atımı veya yüksek ΔP.",
+        "en": "Oxygenator failure",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Oksijenatör değişimi",
+      "text": "Oxygenator change-out\nİşlevini kaybeden oksijenatörün ekstrakorporeal dolaşım sırasında yenisiyle değiştirilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-17u0tda",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Oksijenatör değişimi",
+        "definition": "İşlevini kaybeden oksijenatörün ekstrakorporeal dolaşım sırasında yenisiyle değiştirilmesi.",
+        "en": "Oxygenator change-out",
+        "source": "JECT: Oksijenatör yetmezliği"
+      }
+    },
+    {
+      "title": "Su–kan kaçağı",
+      "text": "Water-to-blood leak\nIsı değiştirici kaçağıyla suyun kana karışması: hacim artışı, pH ve hematokrit düşüşü, hemoliz.",
+      "images": [],
+      "card": {
+        "id": "PER141-0fz5nbg",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "term",
+        "importance": 2,
+        "term": "Su–kan kaçağı",
+        "definition": "Isı değiştirici kaçağıyla suyun kana karışması: hacim artışı, pH ve hematokrit düşüşü, hemoliz.",
+        "en": "Water-to-blood leak",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Kan ve gazın teması",
+      "text": "Bubble oksijenatör\nGaz kana doğrudan kabarcıklarla verilir\nTarihsel sistem; hücre hasarı daha fazladır\n\nMembran oksijenatör\nKan ve gaz membranla ayrılır\nGazların bağımsız kontrolüne uygundur",
+      "images": [],
+      "card": {
+        "id": "PER141-0hens4o",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kan ve gazın teması",
+        "left": {
+          "title": "Bubble oksijenatör",
+          "points": [
+            "Gaz kana doğrudan kabarcıklarla verilir",
+            "Tarihsel sistem; hücre hasarı daha fazladır"
+          ]
+        },
+        "right": {
+          "title": "Membran oksijenatör",
+          "points": [
+            "Kan ve gaz membranla ayrılır",
+            "Gazların bağımsız kontrolüne uygundur"
+          ]
+        },
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Gaz ayarları",
+      "text": "FiO₂\nGaz içindeki oksijen oranı\nBlender ile ayarlanır; PaO₂ üzerinde etkilidir\n\nSweep gaz akımı\nGazın oksijenatörden geçiş hızı\nGaz akımölçeriyle ayarlanır; PaCO₂ üzerinde etkilidir",
+      "images": [],
+      "card": {
+        "id": "PER141-088fosr",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Gaz ayarları",
+        "left": {
+          "title": "FiO₂",
+          "points": [
+            "Gaz içindeki oksijen oranı",
+            "Blender ile ayarlanır; PaO₂ üzerinde etkilidir"
+          ]
+        },
+        "right": {
+          "title": "Sweep gaz akımı",
+          "points": [
+            "Gazın oksijenatörden geçiş hızı",
+            "Gaz akımölçeriyle ayarlanır; PaCO₂ üzerinde etkilidir"
+          ]
+        },
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Membran malzemeleri",
+      "text": "Polipropilen\nMikroporöz hollow-fiber yapı\nUzamış kullanımda plazma sızıntısı oluşabilir\n\nPolimetilpenten\nYoğun dış tabakalı difüzyon membranı\nPlazma sızıntısına dirençli; uzamış desteğe uygun",
+      "images": [],
+      "card": {
+        "id": "PER141-1q167ke",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Membran malzemeleri",
+        "left": {
+          "title": "Polipropilen",
+          "points": [
+            "Mikroporöz hollow-fiber yapı",
+            "Uzamış kullanımda plazma sızıntısı oluşabilir"
+          ]
+        },
+        "right": {
+          "title": "Polimetilpenten",
+          "points": [
+            "Yoğun dış tabakalı difüzyon membranı",
+            "Plazma sızıntısına dirençli; uzamış desteğe uygun"
+          ]
+        },
+        "source": "Membranes 2024"
+      }
+    },
+    {
+      "title": "Hollow-fiber akış düzeni",
+      "text": "Mikroporöz polipropilen liflerin **içinden gaz, dışından kan** geçer. Basics of CPB, lif iç çapını 100–200 µm olarak verir.",
+      "images": [],
+      "card": {
+        "id": "PER141-13dfg3k",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hollow-fiber akış düzeni",
+        "body": "Mikroporöz polipropilen liflerin **içinden gaz, dışından kan** geçer. Basics of CPB, lif iç çapını 100–200 µm olarak verir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "PP gözenekleri",
+      "text": "National Heart Center kılavuzundaki PP membran örneğinde gözenekler yaklaşık **0,03–0,07 µm** çapındadır; hidrofobik yapı gaz geçişini destekler.",
+      "images": [],
+      "card": {
+        "id": "PER141-1hacbb3",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 1,
+        "title": "PP gözenekleri",
+        "body": "National Heart Center kılavuzundaki PP membran örneğinde gözenekler yaklaşık **0,03–0,07 µm** çapındadır; hidrofobik yapı gaz geçişini destekler.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "PMP'nin dış tabakası",
+      "text": "PMP membranın dışındaki yaklaşık **1 µm** yoğun tabaka, gaz difüzyonuna izin verirken plazma sızıntısına direnç sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER141-1uvu4go",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 2,
+        "title": "PMP'nin dış tabakası",
+        "body": "PMP membranın dışındaki yaklaşık **1 µm** yoğun tabaka, gaz difüzyonuna izin verirken plazma sızıntısına direnç sağlar.",
+        "source": "Membranes 2024"
+      }
+    },
+    {
+      "title": "Terumo FX25 örneği",
+      "text": "CAPIOX FX25 üretici örneği: **2,5 m²** membran alanı, 260 mL statik prime ve en çok 7,0 L/dk kan akımı. Bunlar tüm erişkin oksijenatörlerin ortak sınırları değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0kgjdk1",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 1,
+        "title": "Terumo FX25 örneği",
+        "body": "CAPIOX FX25 üretici örneği: **2,5 m²** membran alanı, 260 mL statik prime ve en çok 7,0 L/dk kan akımı. Bunlar tüm erişkin oksijenatörlerin ortak sınırları değildir.",
+        "source": "Terumo CAPIOX FX"
+      }
+    },
+    {
+      "title": "Terumo FX15 örneği",
+      "text": "CAPIOX FX15 üretici örneğinde membran alanı yaklaşık **1,5 m²**, statik prime 144 mL ve en çok kan akımı 5,0 L/dk'dır; model bilgisiyle birlikte öğrenilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1i72pos",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 1,
+        "title": "Terumo FX15 örneği",
+        "body": "CAPIOX FX15 üretici örneğinde membran alanı yaklaşık **1,5 m²**, statik prime 144 mL ve en çok kan akımı 5,0 L/dk'dır; model bilgisiyle birlikte öğrenilir.",
+        "source": "Terumo CAPIOX FX"
+      }
+    },
+    {
+      "title": "Volatil ajan ve membran seçimi",
+      "text": "EACTS 2024, volatil anestezik kullanılan KPB'de **PMP membranı önermez**. Düşük volatil ajan geçirgenliği, anestezi derinliğinin kontrolünü zorlaştırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-16u0mlq",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Volatil ajan ve membran seçimi",
+        "body": "EACTS 2024, volatil anestezik kullanılan KPB'de **PMP membranı önermez**. Düşük volatil ajan geçirgenliği, anestezi derinliğinin kontrolünü zorlaştırabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Gaz transferinin itici gücü",
+      "text": "Oksijen ve karbondioksit membranı **kısmi basınç farkı** doğrultusunda difüzyonla geçer; plazma sınır tabakası da transfer direncine katkı yapar.",
+      "images": [],
+      "card": {
+        "id": "PER141-0tylg0z",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Gaz transferinin itici gücü",
+        "body": "Oksijen ve karbondioksit membranı **kısmi basınç farkı** doğrultusunda difüzyonla geçer; plazma sınır tabakası da transfer direncine katkı yapar.",
+        "source": "Membranes 2024"
+      }
+    },
+    {
+      "title": "Oksijenatörün gaz çıkışında sarı köpük görülmesi hangi sorunu düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1bgy8t0",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Oksijenatörün gaz çıkışında sarı köpük görülmesi hangi sorunu düşündürür?",
+        "answer": "Membran gözeneklerinden gaz tarafına **plazma sızıntısını** düşündürür; gaz transferi bozulabilir.",
+        "source": "Membranes 2021"
+      }
+    },
+    {
+      "title": "Oksijenatör yetmezliği düşünülmeden önce gaz beslemesinde neler kontrol edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-18do7lg",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Oksijenatör yetmezliği düşünülmeden önce gaz beslemesinde neler kontrol edilir?",
+        "answer": "Gaz hattı bağlantıları, oksijen analizörü, ayarlanan FiO₂'nin iletimi ve olası kaçaklar kontrol edilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Oksijenatör ΔP artışı neyi gösterebilir ve nasıl yorumlanmalıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-05uk4n9",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Oksijenatör ΔP artışı neyi gösterebilir ve nasıl yorumlanmalıdır?",
+        "answer": "Giriş-çıkış basınç farkının artışı pıhtı oluşumunu düşündürebilir. Başlangıç değeri ve cihaz tasarımıyla birlikte değerlendirilir.",
+        "source": "JECT: Oksijenatör yetmezliği"
+      }
+    },
+    {
+      "title": "Yetersiz gaz değişimini erken tanı",
+      "text": "Yüksek oksijen fraksiyonu ve gaz akımına rağmen yetersiz oksijenasyon veya yüksek ΔP, **oksijenatör yetmezliğini** düşündürür; ekip önceden hazırlanmış değişim planını kullanır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1k9olcp",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Yetersiz gaz değişimini erken tanı",
+        "body": "Yüksek oksijen fraksiyonu ve gaz akımına rağmen yetersiz oksijenasyon veya yüksek ΔP, **oksijenatör yetmezliğini** düşündürür; ekip önceden hazırlanmış değişim planını kullanır.",
+        "source": "JECT: Oksijenatör yetmezliği"
+      }
+    },
+    {
+      "title": "Su kaçağını gözden kaçırma",
+      "text": "Açıklanamayan devre hacmi artışı, düşen pH ve hematokrit ile hemoliz, **ısı değiştiricide su-kan kaçağını** düşündürebilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0e9a7eq",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Su kaçağını gözden kaçırma",
+        "body": "Açıklanamayan devre hacmi artışı, düşen pH ve hematokrit ile hemoliz, **ısı değiştiricide su-kan kaçağını** düşündürebilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Gaz blenderi hangi iki gazı karıştırarak oksijen fraksiyonunu ayarlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1vh23lu",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Gaz blenderi hangi iki gazı karıştırarak oksijen fraksiyonunu ayarlar?",
+        "options": [
+          "Azot ve helyum",
+          "Karbondioksit ve azot",
+          "Helyum ve karbondioksit",
+          "Oksijen ve hava"
+        ],
+        "correct": 3,
+        "explanation": "Blender, oksijen ve havayı karıştırır; toplam gaz akımı ayrı akımölçerle ayarlanır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Gaz beslemesinin yedeklenmesi hangi arıza riskine karşıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0hbl45c",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Gaz beslemesinin yedeklenmesi hangi arıza riskine karşıdır?",
+        "options": [
+          "Merkezî gaz kaynağının kesilmesi",
+          "Venöz kanülün katlanması",
+          "Kaval turnikenin gevşemesi",
+          "Su filtresinin tıkanması"
+        ],
+        "correct": 0,
+        "explanation": "AmSECT 2017, gaz beslemesinin kesilmesine karşı yedek gaz kaynağını zorunlu tutar.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Oksijenatör çıkışındaki scavenging hangi amaçla kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1qf6636",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Oksijenatör çıkışındaki scavenging hangi amaçla kullanılır?",
+        "options": [
+          "Kanı venöz kanüle döndürmek",
+          "Atık anestezik gazları uzaklaştırmak",
+          "Prime sıvısını filtrelemek",
+          "Koroner sinüs basıncını ölçmek"
+        ],
+        "correct": 1,
+        "explanation": "Volatil ajan kullanıldığında oksijenatör çıkışındaki atık gazlar uzaklaştırılır.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Scavenger'ın aşırı negatif basıncı hangi komplikasyona yol açabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ldshhg",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Scavenger'ın aşırı negatif basıncı hangi komplikasyona yol açabilir?",
+        "options": [
+          "Kaval turnike kopması",
+          "Aort kapağının kalsifikasyonu",
+          "Membran hasarı ve oksijenatör arızası",
+          "Venöz kanül çapının genişlemesi"
+        ],
+        "correct": 2,
+        "explanation": "Scavenging bağlantısındaki aşırı negatif basınç membran rüptürü ve oksijenatör yetmezliği oluşturabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Gazdaki oksijen oranını doğrudan doğrulayan cihaz hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ufbbo8",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Gazdaki oksijen oranını doğrudan doğrulayan cihaz hangisidir?",
+        "options": [
+          "Venöz oklüder",
+          "Isı değiştirici",
+          "Basınç tahliye valfi",
+          "Oksijen analizörü"
+        ],
+        "correct": 3,
+        "explanation": "Oksijen analizörü oksijenatöre gönderilen gazın oksijen içeriğini ölçer.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Silikon membran mikroporöz bir PP membranıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0hhi27u",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Silikon membran mikroporöz bir PP membranıdır.",
+        "isTrue": false,
+        "explanation": "Silikon membran non-poröz gerçek difüzyon membranıdır; PP mikroporöz yapıdadır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "PP ve PMP oksijenatörlerde yoğuşma işlevi azaltabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1iwzen9",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "PP ve PMP oksijenatörlerde yoğuşma işlevi azaltabilir.",
+        "isTrue": true,
+        "explanation": "Kondansat birikimi her iki oksijenatör malzemesinde de işlevi etkileyebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Radyal ve aksiyal akımlı oksijenatörler için mortalite üstünlüğü gösterilmiştir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-17vdv1l",
+        "course": "PER141",
+        "topic": "Oksijenatörler ve gaz transferi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Radyal ve aksiyal akımlı oksijenatörler için mortalite üstünlüğü gösterilmiştir.",
+        "isTrue": false,
+        "explanation": "EACTS 2024'te aktarılan karşılaştırmada radyal ve aksiyal tasarımlar arasında mortalite farkı bulunmamıştır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0cd2cqt",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijenatör",
+      "definition": "Kana O₂ veren ve CO₂ uzaklaştıran yapay akciğer (genellikle ısı değiştirici entegre).",
+      "en": "Oxygenator",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0vyjaaf",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 3,
+      "term": "Membran oksijenatör",
+      "definition": "Kan ve gazın bir membranla ayrıldığı, pO₂ ve pCO₂'nin bağımsız kontrol edilebildiği oksijenatör; günümüz standardı.",
+      "en": "Membrane oxygenator",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-13buf99",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Bubble oksijenatör",
+      "definition": "Gazın kana doğrudan kabarcık hâlinde verildiği tarihsel oksijenatör; artık üretilmiyor.",
+      "en": "Bubble oxygenator",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0vpnefl",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 1,
+      "term": "Film oksijenatör",
+      "definition": "Kanın ince film hâlinde gaza maruz bırakıldığı tarihsel oksijenatör (Gibbon: dikey elek; Crafoord–Björk: dönen disk).",
+      "en": "Film (disc/screen) oxygenator",
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-1i28354",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Hollow fiber",
+      "definition": "Oksijenatörde gazın içinden, kanın dışından geçtiği içi boş ince lif yapısı.",
+      "en": "Hollow fiber",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-04gvku6",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Mikroporöz membran",
+      "definition": "Gazların küçük gözeneklerden geçişine izin veren hidrofobik membran yapısı.",
+      "en": "Microporous membrane",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1qbb2xz",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Polipropilen (PP)",
+      "definition": "KPB oksijenatörlerinin standart mikroporöz hollow-fiber malzemesi.",
+      "en": "Polypropylene",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1rgyw1w",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Polimetilpenten (PMP)",
+      "definition": "Dış yüzeyinde yoğun deri tabakası bulunan, plazma sızıntısına dirençli difüzyon membranı malzemesi; uzun süreli desteğe uygundur.",
+      "en": "Polymethylpentene",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1frwolc",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 1,
+      "term": "Silikon membran",
+      "definition": "Non-poröz \"gerçek\" difüzyon membranı; plazma sızıntısı yapmaz (Kolobow).",
+      "en": "Silicone (PDMS) membrane",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-01x73sq",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma sızıntısı",
+      "definition": "Porların zamanla hidrofilikleşip plazmanın gaz tarafına sızması; gaz transferi bozulur, gaz çıkışında sarı köpük görülür.",
+      "en": "Plasma leakage (wetting)",
+      "source": "Membranes 2021"
+    },
+    {
+      "id": "PER141-0do26ph",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 3,
+      "term": "Sweep gaz",
+      "definition": "Oksijenatörün gaz tarafından geçen gaz akımı; artırılınca PaCO₂ düşer.",
+      "en": "Sweep gas",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1j3za8p",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 3,
+      "term": "FiO₂",
+      "definition": "Oksijenatöre verilen gazdaki O₂ oranı; PaO₂'yi belirler.",
+      "en": "Fraction of (delivered) oxygen",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1mba4gc",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Gaz blenderi",
+      "definition": "O₂ ve havayı karıştırıp FiO₂'yi ayarlayan cihaz.",
+      "en": "Gas blender",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1ytwpix",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 1,
+      "term": "Vaporizer",
+      "definition": "Sweep gaza volatil anestezik ekleyen cihaz; atık gaz uzaklaştırma gerektirir.",
+      "en": "Anesthetic vaporizer",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1h3pff0",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Atık gaz uzaklaştırma",
+      "definition": "Oksijenatör çıkışından atık anestezik gazların uzaklaştırılması; aşırı negatif basınç membranı yırtabilir.",
+      "en": "Scavenging",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-08p7f9z",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 1,
+      "term": "Oksijen analizörü",
+      "definition": "Oksijenatöre giden gazın O₂ yüzdesini ölçen cihaz.",
+      "en": "Oxygen analyzer",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-13834uf",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Transmembran basınç gradyanı (ΔP)",
+      "definition": "Oksijenatör giriş–çıkış basınç farkı; artışı tromboz/pıhtı göstergesi olabilir.",
+      "en": "Transmembrane pressure gradient (delta-P)",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "id": "PER141-0xeb7wm",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijenatör yetmezliği",
+      "definition": "Yüksek FiO₂ ve gaz akımına rağmen yetersiz oksijenasyon/CO₂ atımı veya yüksek ΔP.",
+      "en": "Oxygenator failure",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-17u0tda",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijenatör değişimi",
+      "definition": "İşlevini kaybeden oksijenatörün ekstrakorporeal dolaşım sırasında yenisiyle değiştirilmesi.",
+      "en": "Oxygenator change-out",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "id": "PER141-0fz5nbg",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "term",
+      "importance": 2,
+      "term": "Su–kan kaçağı",
+      "definition": "Isı değiştirici kaçağıyla suyun kana karışması: hacim artışı, pH ve hematokrit düşüşü, hemoliz.",
+      "en": "Water-to-blood leak",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0hens4o",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan ve gazın teması",
+      "left": {
+        "title": "Bubble oksijenatör",
+        "points": [
+          "Gaz kana doğrudan kabarcıklarla verilir",
+          "Tarihsel sistem; hücre hasarı daha fazladır"
+        ]
+      },
+      "right": {
+        "title": "Membran oksijenatör",
+        "points": [
+          "Kan ve gaz membranla ayrılır",
+          "Gazların bağımsız kontrolüne uygundur"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-088fosr",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Gaz ayarları",
+      "left": {
+        "title": "FiO₂",
+        "points": [
+          "Gaz içindeki oksijen oranı",
+          "Blender ile ayarlanır; PaO₂ üzerinde etkilidir"
+        ]
+      },
+      "right": {
+        "title": "Sweep gaz akımı",
+        "points": [
+          "Gazın oksijenatörden geçiş hızı",
+          "Gaz akımölçeriyle ayarlanır; PaCO₂ üzerinde etkilidir"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1q167ke",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Membran malzemeleri",
+      "left": {
+        "title": "Polipropilen",
+        "points": [
+          "Mikroporöz hollow-fiber yapı",
+          "Uzamış kullanımda plazma sızıntısı oluşabilir"
+        ]
+      },
+      "right": {
+        "title": "Polimetilpenten",
+        "points": [
+          "Yoğun dış tabakalı difüzyon membranı",
+          "Plazma sızıntısına dirençli; uzamış desteğe uygun"
+        ]
+      },
+      "source": "Membranes 2024"
+    },
+    {
+      "id": "PER141-13dfg3k",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hollow-fiber akış düzeni",
+      "body": "Mikroporöz polipropilen liflerin **içinden gaz, dışından kan** geçer. Basics of CPB, lif iç çapını 100–200 µm olarak verir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1hacbb3",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 1,
+      "title": "PP gözenekleri",
+      "body": "National Heart Center kılavuzundaki PP membran örneğinde gözenekler yaklaşık **0,03–0,07 µm** çapındadır; hidrofobik yapı gaz geçişini destekler.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1uvu4go",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 2,
+      "title": "PMP'nin dış tabakası",
+      "body": "PMP membranın dışındaki yaklaşık **1 µm** yoğun tabaka, gaz difüzyonuna izin verirken plazma sızıntısına direnç sağlar.",
+      "source": "Membranes 2024"
+    },
+    {
+      "id": "PER141-0kgjdk1",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 1,
+      "title": "Terumo FX25 örneği",
+      "body": "CAPIOX FX25 üretici örneği: **2,5 m²** membran alanı, 260 mL statik prime ve en çok 7,0 L/dk kan akımı. Bunlar tüm erişkin oksijenatörlerin ortak sınırları değildir.",
+      "source": "Terumo CAPIOX FX"
+    },
+    {
+      "id": "PER141-1i72pos",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 1,
+      "title": "Terumo FX15 örneği",
+      "body": "CAPIOX FX15 üretici örneğinde membran alanı yaklaşık **1,5 m²**, statik prime 144 mL ve en çok kan akımı 5,0 L/dk'dır; model bilgisiyle birlikte öğrenilir.",
+      "source": "Terumo CAPIOX FX"
+    },
+    {
+      "id": "PER141-16u0mlq",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Volatil ajan ve membran seçimi",
+      "body": "EACTS 2024, volatil anestezik kullanılan KPB'de **PMP membranı önermez**. Düşük volatil ajan geçirgenliği, anestezi derinliğinin kontrolünü zorlaştırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0tylg0z",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Gaz transferinin itici gücü",
+      "body": "Oksijen ve karbondioksit membranı **kısmi basınç farkı** doğrultusunda difüzyonla geçer; plazma sınır tabakası da transfer direncine katkı yapar.",
+      "source": "Membranes 2024"
+    },
+    {
+      "id": "PER141-1bgy8t0",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Oksijenatörün gaz çıkışında sarı köpük görülmesi hangi sorunu düşündürür?",
+      "answer": "Membran gözeneklerinden gaz tarafına **plazma sızıntısını** düşündürür; gaz transferi bozulabilir.",
+      "source": "Membranes 2021"
+    },
+    {
+      "id": "PER141-18do7lg",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Oksijenatör yetmezliği düşünülmeden önce gaz beslemesinde neler kontrol edilir?",
+      "answer": "Gaz hattı bağlantıları, oksijen analizörü, ayarlanan FiO₂'nin iletimi ve olası kaçaklar kontrol edilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-05uk4n9",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Oksijenatör ΔP artışı neyi gösterebilir ve nasıl yorumlanmalıdır?",
+      "answer": "Giriş-çıkış basınç farkının artışı pıhtı oluşumunu düşündürebilir. Başlangıç değeri ve cihaz tasarımıyla birlikte değerlendirilir.",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "id": "PER141-1k9olcp",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Yetersiz gaz değişimini erken tanı",
+      "body": "Yüksek oksijen fraksiyonu ve gaz akımına rağmen yetersiz oksijenasyon veya yüksek ΔP, **oksijenatör yetmezliğini** düşündürür; ekip önceden hazırlanmış değişim planını kullanır.",
+      "source": "JECT: Oksijenatör yetmezliği"
+    },
+    {
+      "id": "PER141-0e9a7eq",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Su kaçağını gözden kaçırma",
+      "body": "Açıklanamayan devre hacmi artışı, düşen pH ve hematokrit ile hemoliz, **ısı değiştiricide su-kan kaçağını** düşündürebilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1vh23lu",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Gaz blenderi hangi iki gazı karıştırarak oksijen fraksiyonunu ayarlar?",
+      "options": [
+        "Azot ve helyum",
+        "Karbondioksit ve azot",
+        "Helyum ve karbondioksit",
+        "Oksijen ve hava"
+      ],
+      "correct": 3,
+      "explanation": "Blender, oksijen ve havayı karıştırır; toplam gaz akımı ayrı akımölçerle ayarlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0hbl45c",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Gaz beslemesinin yedeklenmesi hangi arıza riskine karşıdır?",
+      "options": [
+        "Merkezî gaz kaynağının kesilmesi",
+        "Venöz kanülün katlanması",
+        "Kaval turnikenin gevşemesi",
+        "Su filtresinin tıkanması"
+      ],
+      "correct": 0,
+      "explanation": "AmSECT 2017, gaz beslemesinin kesilmesine karşı yedek gaz kaynağını zorunlu tutar.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1qf6636",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Oksijenatör çıkışındaki scavenging hangi amaçla kullanılır?",
+      "options": [
+        "Kanı venöz kanüle döndürmek",
+        "Atık anestezik gazları uzaklaştırmak",
+        "Prime sıvısını filtrelemek",
+        "Koroner sinüs basıncını ölçmek"
+      ],
+      "correct": 1,
+      "explanation": "Volatil ajan kullanıldığında oksijenatör çıkışındaki atık gazlar uzaklaştırılır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0ldshhg",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Scavenger'ın aşırı negatif basıncı hangi komplikasyona yol açabilir?",
+      "options": [
+        "Kaval turnike kopması",
+        "Aort kapağının kalsifikasyonu",
+        "Membran hasarı ve oksijenatör arızası",
+        "Venöz kanül çapının genişlemesi"
+      ],
+      "correct": 2,
+      "explanation": "Scavenging bağlantısındaki aşırı negatif basınç membran rüptürü ve oksijenatör yetmezliği oluşturabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0ufbbo8",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Gazdaki oksijen oranını doğrudan doğrulayan cihaz hangisidir?",
+      "options": [
+        "Venöz oklüder",
+        "Isı değiştirici",
+        "Basınç tahliye valfi",
+        "Oksijen analizörü"
+      ],
+      "correct": 3,
+      "explanation": "Oksijen analizörü oksijenatöre gönderilen gazın oksijen içeriğini ölçer.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0hhi27u",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Silikon membran mikroporöz bir PP membranıdır.",
+      "isTrue": false,
+      "explanation": "Silikon membran non-poröz gerçek difüzyon membranıdır; PP mikroporöz yapıdadır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1iwzen9",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "PP ve PMP oksijenatörlerde yoğuşma işlevi azaltabilir.",
+      "isTrue": true,
+      "explanation": "Kondansat birikimi her iki oksijenatör malzemesinde de işlevi etkileyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-17vdv1l",
+      "course": "PER141",
+      "topic": "Oksijenatörler ve gaz transferi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Radyal ve aksiyal akımlı oksijenatörler için mortalite üstünlüğü gösterilmiştir.",
+      "isTrue": false,
+      "explanation": "EACTS 2024'te aktarılan karşılaştırmada radyal ve aksiyal tasarımlar arasında mortalite farkı bulunmamıştır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

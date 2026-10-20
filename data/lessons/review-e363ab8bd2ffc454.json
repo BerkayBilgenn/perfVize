@@ -1,0 +1,1184 @@
+{
+  "id": "review-e363ab8bd2ffc454",
+  "title": "Siyanotik konjenital kalp hastalıkları",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Konjenital kalp hastalığı (KKH)",
+      "text": "Congenital heart disease\nDoğumdan itibaren mevcut olan kalp veya büyük damarların yapısal gelişim bozukluğu.",
+      "images": [],
+      "card": {
+        "id": "PER245-0wmimuh",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Konjenital kalp hastalığı (KKH)",
+        "en": "Congenital heart disease",
+        "definition": "Doğumdan itibaren mevcut olan kalp veya büyük damarların yapısal gelişim bozukluğu.",
+        "source": "PLSVC, Life 2026"
+      }
+    },
+    {
+      "title": "Siyanoz",
+      "text": "Cyanosis\nDeoksijenize hemoglobin artışıyla deri ve mukozanın mavimsi rengi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1ckufrm",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Siyanoz",
+        "en": "Cyanosis",
+        "definition": "Deoksijenize hemoglobin artışıyla deri ve mukozanın mavimsi rengi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fallot tetralojisi (TOF)",
+      "text": "Tetralogy of Fallot\nSağ ventrikül çıkış yolu darlığı, ventriküler septal defekt, ata binen aorta ve sağ ventrikül hipertrofisinin birlikte bulunduğu anomali.",
+      "images": [],
+      "card": {
+        "id": "PER245-0yrkhkf",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Fallot tetralojisi (TOF)",
+        "en": "Tetralogy of Fallot",
+        "definition": "Sağ ventrikül çıkış yolu darlığı, ventriküler septal defekt, ata binen aorta ve sağ ventrikül hipertrofisinin birlikte bulunduğu anomali.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Tet nöbeti",
+      "text": "Hypercyanotic (tet) spell\nTOF'de ağlama/stresle tetiklenen, kendini besleyen ani siyanoz atağı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xwrtdw",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Tet nöbeti",
+        "en": "Hypercyanotic (tet) spell",
+        "definition": "TOF'de ağlama/stresle tetiklenen, kendini besleyen ani siyanoz atağı.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Blalock-Taussig(-Thomas) şantı",
+      "text": "(Modified) Blalock-Taussig shunt\nModifiye biçiminde subklavyen arter ile pulmoner arter arasına greft yerleştirilerek pulmoner akım sağlayan palyatif şant.",
+      "images": [],
+      "card": {
+        "id": "PER245-05b25xb",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Blalock-Taussig(-Thomas) şantı",
+        "en": "(Modified) Blalock-Taussig shunt",
+        "definition": "Modifiye biçiminde subklavyen arter ile pulmoner arter arasına greft yerleştirilerek pulmoner akım sağlayan palyatif şant.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "d-TGA",
+      "text": "D-transposition of the great arteries\nAortanın morfolojik sağ ventrikülden, pulmoner arterin morfolojik sol ventrikülden çıktığı ventriküloarteriyel bağlantı uyumsuzluğu.",
+      "images": [],
+      "card": {
+        "id": "PER245-06cq8xy",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "d-TGA",
+        "en": "D-transposition of the great arteries",
+        "definition": "Aortanın morfolojik sağ ventrikülden, pulmoner arterin morfolojik sol ventrikülden çıktığı ventriküloarteriyel bağlantı uyumsuzluğu.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Arteriyel switch (Jatene)",
+      "text": "Arterial switch operation\nBüyük arterlerin yer değiştirilmesi ve koronerlerin buton halinde yeni aortaya aktarılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-14b0y7c",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Arteriyel switch (Jatene)",
+        "en": "Arterial switch operation",
+        "definition": "Büyük arterlerin yer değiştirilmesi ve koronerlerin buton halinde yeni aortaya aktarılması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "LeCompte manevrası",
+      "text": "LeCompte maneuver\nArteriyel switch'te pulmoner arterin yeni aortanın önüne alınması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0sc0j4w",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "LeCompte manevrası",
+        "en": "LeCompte maneuver",
+        "definition": "Arteriyel switch'te pulmoner arterin yeni aortanın önüne alınması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Balon atriyal septostomi",
+      "text": "Balloon atrial septostomy (Rashkind)\nRestriktif foramen ovaleyi balonla genişleterek atriyal karışımı artırma.",
+      "images": [],
+      "card": {
+        "id": "PER245-121ftoc",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Balon atriyal septostomi",
+        "en": "Balloon atrial septostomy (Rashkind)",
+        "definition": "Restriktif foramen ovaleyi balonla genişleterek atriyal karışımı artırma.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "ccTGA (L-TGA)",
+      "text": "Congenitally corrected TGA\nAtriyoventriküler ve ventriküloarteriyel bağlantıların ikisinin de uyumsuz olduğu anomali.",
+      "images": [],
+      "card": {
+        "id": "PER245-0mkwoyl",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "ccTGA (L-TGA)",
+        "en": "Congenitally corrected TGA",
+        "definition": "Atriyoventriküler ve ventriküloarteriyel bağlantıların ikisinin de uyumsuz olduğu anomali.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Persistan trunkus arteriyozus",
+      "text": "Persistent truncus arteriosus\nSistemik, pulmoner ve koroner dolaşımı besleyen tek arteriyel gövde + büyük VSD.",
+      "images": [],
+      "card": {
+        "id": "PER245-0j3amdv",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "Persistan trunkus arteriyozus",
+        "en": "Persistent truncus arteriosus",
+        "definition": "Sistemik, pulmoner ve koroner dolaşımı besleyen tek arteriyel gövde + büyük VSD.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "TAPVR",
+      "text": "Total anomalous pulmonary venous return\nTüm pulmoner venlerin sistemik venöz sisteme/sağ atriyuma açılması (suprakardiyak, kardiyak, infradiyafragmatik, mikst).",
+      "images": [],
+      "card": {
+        "id": "PER245-0jd7iwu",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "TAPVR",
+        "en": "Total anomalous pulmonary venous return",
+        "definition": "Tüm pulmoner venlerin sistemik venöz sisteme/sağ atriyuma açılması (suprakardiyak, kardiyak, infradiyafragmatik, mikst).",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Triküspit atrezisi",
+      "text": "Tricuspid atresia\nTriküspit bağlantının olmadığı, sağ ventrikülün yetersiz geliştiği ve venöz kanın atriyal bağlantı üzerinden ilerlediği anomali.",
+      "images": [],
+      "card": {
+        "id": "PER245-016z4q4",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Triküspit atrezisi",
+        "en": "Tricuspid atresia",
+        "definition": "Triküspit bağlantının olmadığı, sağ ventrikülün yetersiz geliştiği ve venöz kanın atriyal bağlantı üzerinden ilerlediği anomali.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Ebstein anomalisi",
+      "text": "Ebstein anomaly\nTriküspit septal ve posterior yaprakçıklarının apekse yer değiştirmesi ve \"atriyalize\" sağ ventrikül.",
+      "images": [],
+      "card": {
+        "id": "PER245-13wgdxq",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Ebstein anomalisi",
+        "en": "Ebstein anomaly",
+        "definition": "Triküspit septal ve posterior yaprakçıklarının apekse yer değiştirmesi ve \"atriyalize\" sağ ventrikül.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner atrezi",
+      "text": "Pulmonary atresia\nPulmoner kapağın tamamen kapalı olması; intakt septumlu veya VSD'li form.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ost02g",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "Pulmoner atrezi",
+        "en": "Pulmonary atresia",
+        "definition": "Pulmoner kapağın tamamen kapalı olması; intakt septumlu veya VSD'li form.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "MAPCA",
+      "text": "Major aortopulmonary collateral arteries\nPulmoner atrezide akciğerleri besleyen, aortadan çıkan büyük kollateraller (unifokalizasyon gerektirebilir).",
+      "images": [],
+      "card": {
+        "id": "PER245-0ix6c7l",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "MAPCA",
+        "en": "Major aortopulmonary collateral arteries",
+        "definition": "Pulmoner atrezide akciğerleri besleyen, aortadan çıkan büyük kollateraller (unifokalizasyon gerektirebilir).",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "HLHS",
+      "text": "Hypoplastic left heart syndrome\nSol kalp yapılarının sistemik dolaşımı karşılayamayacak kadar yetersiz geliştiği sendrom.",
+      "images": [],
+      "card": {
+        "id": "PER245-1uhtwv0",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "HLHS",
+        "en": "Hypoplastic left heart syndrome",
+        "definition": "Sol kalp yapılarının sistemik dolaşımı karşılayamayacak kadar yetersiz geliştiği sendrom.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Norwood ameliyatı",
+      "text": "Norwood procedure\nHLHS evre 1: pulmoner gövde–aorta birleştirme (neo-aorta), atriyal septektomi ve şantla pulmoner akım.",
+      "images": [],
+      "card": {
+        "id": "PER245-0sq3igm",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Norwood ameliyatı",
+        "en": "Norwood procedure",
+        "definition": "HLHS evre 1: pulmoner gövde–aorta birleştirme (neo-aorta), atriyal septektomi ve şantla pulmoner akım.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Glenn anastomozu",
+      "text": "(Bidirectional) Glenn\nVCS'nin sağ pulmoner artere bağlandığı evre 2 kavopulmoner anastomoz.",
+      "images": [],
+      "card": {
+        "id": "PER245-0d152tk",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Glenn anastomozu",
+        "en": "(Bidirectional) Glenn",
+        "definition": "VCS'nin sağ pulmoner artere bağlandığı evre 2 kavopulmoner anastomoz.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fontan ameliyatı",
+      "text": "Fontan procedure\nSistemik venöz kanın pulmoner arterlere ventrikül pompası olmadan yönlendirildiği tek ventrikül palyasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-1avydq8",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Fontan ameliyatı",
+        "en": "Fontan procedure",
+        "definition": "Sistemik venöz kanın pulmoner arterlere ventrikül pompası olmadan yönlendirildiği tek ventrikül palyasyonu.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "DORV",
+      "text": "Double outlet right ventricle\nHer iki büyük arterin sağ ventrikülden çıkması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1q77080",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "DORV",
+        "en": "Double outlet right ventricle",
+        "definition": "Her iki büyük arterin sağ ventrikülden çıkması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Rastelli ameliyatı",
+      "text": "Rastelli procedure\nİntraventriküler baffle ve sağ ventrikül–PA ekstrakardiyak kondüitle onarım.",
+      "images": [],
+      "card": {
+        "id": "PER245-1pbdb4q",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Rastelli ameliyatı",
+        "en": "Rastelli procedure",
+        "definition": "İntraventriküler baffle ve sağ ventrikül–PA ekstrakardiyak kondüitle onarım.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner arter bandı",
+      "text": "Pulmonary artery banding\nAşırı pulmoner akımı azaltmak için pulmoner arterin daraltılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-184ehrf",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Pulmoner arter bandı",
+        "en": "Pulmonary artery banding",
+        "definition": "Aşırı pulmoner akımı azaltmak için pulmoner arterin daraltılması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Eritrositoz",
+      "text": "Erythrocytosis\nKronik hipoksemiye yanıt olarak eritrosit artışı.",
+      "images": [],
+      "card": {
+        "id": "PER245-1s1xic9",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "Eritrositoz",
+        "en": "Erythrocytosis",
+        "definition": "Kronik hipoksemiye yanıt olarak eritrosit artışı.",
+        "source": "Konjenital ilişkiler, Europe PMC"
+      }
+    },
+    {
+      "title": "Kollateral dönüş",
+      "text": "Collateral return\nSiyanotik hastada bronşiyal/aortopulmoner kollaterallerden sol kalbe gelen kan.",
+      "images": [],
+      "card": {
+        "id": "PER245-0jkx0rx",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Kollateral dönüş",
+        "en": "Collateral return",
+        "definition": "Siyanotik hastada bronşiyal/aortopulmoner kollaterallerden sol kalbe gelen kan.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Transpozisyonda bağlantılar",
+      "text": "d-TGA\nVentriküloarteriyel diskordans vardır\nParalel dolaşım nedeniyle karışım gerekir\n\nccTGA\nAV ve ventriküloarteriyel diskordans vardır\nSistemik pompa morfolojik sağ ventriküldür",
+      "images": [],
+      "card": {
+        "id": "PER245-1sxzos3",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "compare",
+        "importance": 2,
+        "title": "Transpozisyonda bağlantılar",
+        "left": {
+          "title": "d-TGA",
+          "points": [
+            "Ventriküloarteriyel diskordans vardır",
+            "Paralel dolaşım nedeniyle karışım gerekir"
+          ]
+        },
+        "right": {
+          "title": "ccTGA",
+          "points": [
+            "AV ve ventriküloarteriyel diskordans vardır",
+            "Sistemik pompa morfolojik sağ ventriküldür"
+          ]
+        },
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "TOF'de siyanozun belirleyicisi",
+      "text": "Sağ ventrikül çıkış obstrüksiyonu ağırlaştığında VSD üzerinden sağdan-sola şant artabilir; siyanoz derecesi bu obstrüksiyonla ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-15cniiz",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "TOF'de siyanozun belirleyicisi",
+        "body": "Sağ ventrikül çıkış obstrüksiyonu ağırlaştığında VSD üzerinden sağdan-sola şant artabilir; siyanoz derecesi bu obstrüksiyonla ilişkilidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "d-TGA'da karışımın önemi",
+      "text": "Paralel dolaşımlar arasında yeterli bağlantı olmadığında oksijenlenmiş kan sistemik dolaşıma ulaşamaz; atriyal veya duktal karışım yaşam için gereklidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0pktl2g",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "d-TGA'da karışımın önemi",
+        "body": "Paralel dolaşımlar arasında yeterli bağlantı olmadığında oksijenlenmiş kan sistemik dolaşıma ulaşamaz; atriyal veya duktal karışım yaşam için gereklidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Arteriyel switch'in kritik adımı",
+      "text": "Büyük arterler yeniden bağlanırken koroner ağızların yeni aortaya aktarılması, miyokardın kanlanması için temel adımdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0gsoc3k",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arteriyel switch'in kritik adımı",
+        "body": "Büyük arterler yeniden bağlanırken koroner ağızların yeni aortaya aktarılması, miyokardın kanlanması için temel adımdır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner atrezi ve koronerler",
+      "text": "İntakt septumlu pulmoner atrezinin bazı ağır biçimlerinde sağ ventrikül–koroner bağlantıları bulunabilir; koroner bağımlılık ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1tqq4ju",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pulmoner atrezi ve koronerler",
+        "body": "İntakt septumlu pulmoner atrezinin bazı ağır biçimlerinde sağ ventrikül–koroner bağlantıları bulunabilir; koroner bağımlılık ayrıca değerlendirilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Siyanotik kalpte ek dönüş",
+      "text": "Bronşiyal ve aortopulmoner kollateral dönüş, KPB sırasında sol kalbe gelen kanı artırabilir; vent gereksinimi hastanın anatomisine göre değişir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0mt7v7g",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Siyanotik kalpte ek dönüş",
+        "body": "Bronşiyal ve aortopulmoner kollateral dönüş, KPB sırasında sol kalbe gelen kanı artırabilir; vent gereksinimi hastanın anatomisine göre değişir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Ebstein anomalisi sağ ventrikülün bir bölümünü nasıl değiştirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-02mexen",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Ebstein anomalisi sağ ventrikülün bir bölümünü nasıl değiştirir?",
+        "answer": "Triküspit yaprakçıkların apikal yer değiştirmesiyle ventrikülün bir bölümü işlevsel olarak atriyalize olur.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Total anormal pulmoner venöz dönüşte yaşamı sağlayan bağlantı hangi düzeydedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0f5libr",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Total anormal pulmoner venöz dönüşte yaşamı sağlayan bağlantı hangi düzeydedir?",
+        "answer": "Atriyal düzeyde sağdan sol kalbe geçiş; pulmoner venöz kan normal sol atriyal bağlantıya sahip değildir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Glenn palyasyonunda hangi sistemik ven pulmoner artere bağlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0zhubkf",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Glenn palyasyonunda hangi sistemik ven pulmoner artere bağlanır?",
+        "answer": "Superior vena kava; üst vücut venöz kanı pulmoner arterlere yönlendirilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "d-TGA’da erken değerlendirme",
+      "text": "İntakt ventriküler septumlu d-TGA’da ağır siyanoz doğumdan sonraki ilk saatlerde ortaya çıkabilir; yeni doğanın dolaşım bağlantıları erken değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-00x0ywa",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "remember",
+        "importance": 3,
+        "title": "d-TGA’da erken değerlendirme",
+        "body": "İntakt ventriküler septumlu d-TGA’da ağır siyanoz doğumdan sonraki ilk saatlerde ortaya çıkabilir; yeni doğanın dolaşım bağlantıları erken değerlendirilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fallot tetralojisinde çıkış obstrüksiyonu hangi ventriküldedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0lc0x7x",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Fallot tetralojisinde çıkış obstrüksiyonu hangi ventriküldedir?",
+        "options": [
+          "Sağ ventrikül",
+          "Sol ventrikül çıkış yolunda",
+          "Sol atriyum çıkışında",
+          "Sağ atriyum girişinde"
+        ],
+        "correct": 0,
+        "explanation": "Fallot'ta sağ ventrikül çıkış yolu obstrüksiyonu diğer üç bileşenle birlikte bulunur.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner akımı artıran modifiye BT şantı hangi damarları bağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1u0hqr3",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Pulmoner akımı artıran modifiye BT şantı hangi damarları bağlar?",
+        "options": [
+          "Sol atriyum–aorta",
+          "Subklavyen arter–pulmoner arter",
+          "VCS–pulmoner arter",
+          "VCI–pulmoner arter"
+        ],
+        "correct": 1,
+        "explanation": "Modifiye BT şantı sistemik arterden pulmoner artere akım sağlar; VCS–PA bağlantısı Glenn'dir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Ebstein anomalisinde yer değiştiren kapak hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-044hgxl",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Ebstein anomalisinde yer değiştiren kapak hangisidir?",
+        "options": [
+          "Aort kapağı",
+          "Pulmoner kapak",
+          "Triküspit kapak",
+          "Mitral kapak"
+        ],
+        "correct": 2,
+        "explanation": "Ebstein'de triküspit yaprakçıkların apikal yer değiştirmesi sağ ventrikülün atriyalizasyonuna yol açar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Her iki büyük arterin sağ ventrikülden çıktığı anomali hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0ogb1km",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Her iki büyük arterin sağ ventrikülden çıktığı anomali hangisidir?",
+        "options": [
+          "d-TGA",
+          "ccTGA",
+          "Persistan trunkus arteriosus",
+          "DORV"
+        ],
+        "correct": 3,
+        "explanation": "DORV çift çıkışlı sağ ventriküldür; d-TGA'da pulmoner arter morfolojik sol ventrikülden çıkar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "TAPVR'nin infradiyafragmatik tipi ağır venöz obstrüksiyonla birlikte olabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1e4q4q7",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "TAPVR'nin infradiyafragmatik tipi ağır venöz obstrüksiyonla birlikte olabilir.",
+        "isTrue": true,
+        "explanation": "Diyafram altındaki drenaj yolunun daralması ciddi pulmoner venöz obstrüksiyon ve acil tablo yaratabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "HLHS'nin ağır biçiminde sistemik kan akımı duktusun kapanmasıyla güçlenir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0vf8ss9",
+        "course": "PER245",
+        "topic": "Siyanotik konjenital kalp hastalıkları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "HLHS'nin ağır biçiminde sistemik kan akımı duktusun kapanmasıyla güçlenir.",
+        "isTrue": false,
+        "explanation": "Ağır HLHS'de sistemik akım duktusa bağımlıdır; kapanma dolaşımı bozar.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0wmimuh",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Konjenital kalp hastalığı (KKH)",
+      "en": "Congenital heart disease",
+      "definition": "Doğumdan itibaren mevcut olan kalp veya büyük damarların yapısal gelişim bozukluğu.",
+      "source": "PLSVC, Life 2026"
+    },
+    {
+      "id": "PER245-1ckufrm",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Siyanoz",
+      "en": "Cyanosis",
+      "definition": "Deoksijenize hemoglobin artışıyla deri ve mukozanın mavimsi rengi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0yrkhkf",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Fallot tetralojisi (TOF)",
+      "en": "Tetralogy of Fallot",
+      "definition": "Sağ ventrikül çıkış yolu darlığı, ventriküler septal defekt, ata binen aorta ve sağ ventrikül hipertrofisinin birlikte bulunduğu anomali.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0xwrtdw",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Tet nöbeti",
+      "en": "Hypercyanotic (tet) spell",
+      "definition": "TOF'de ağlama/stresle tetiklenen, kendini besleyen ani siyanoz atağı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-05b25xb",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Blalock-Taussig(-Thomas) şantı",
+      "en": "(Modified) Blalock-Taussig shunt",
+      "definition": "Modifiye biçiminde subklavyen arter ile pulmoner arter arasına greft yerleştirilerek pulmoner akım sağlayan palyatif şant.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-06cq8xy",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "d-TGA",
+      "en": "D-transposition of the great arteries",
+      "definition": "Aortanın morfolojik sağ ventrikülden, pulmoner arterin morfolojik sol ventrikülden çıktığı ventriküloarteriyel bağlantı uyumsuzluğu.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-14b0y7c",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel switch (Jatene)",
+      "en": "Arterial switch operation",
+      "definition": "Büyük arterlerin yer değiştirilmesi ve koronerlerin buton halinde yeni aortaya aktarılması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0sc0j4w",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "LeCompte manevrası",
+      "en": "LeCompte maneuver",
+      "definition": "Arteriyel switch'te pulmoner arterin yeni aortanın önüne alınması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-121ftoc",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Balon atriyal septostomi",
+      "en": "Balloon atrial septostomy (Rashkind)",
+      "definition": "Restriktif foramen ovaleyi balonla genişleterek atriyal karışımı artırma.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0mkwoyl",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "ccTGA (L-TGA)",
+      "en": "Congenitally corrected TGA",
+      "definition": "Atriyoventriküler ve ventriküloarteriyel bağlantıların ikisinin de uyumsuz olduğu anomali.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0j3amdv",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "Persistan trunkus arteriyozus",
+      "en": "Persistent truncus arteriosus",
+      "definition": "Sistemik, pulmoner ve koroner dolaşımı besleyen tek arteriyel gövde + büyük VSD.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0jd7iwu",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "TAPVR",
+      "en": "Total anomalous pulmonary venous return",
+      "definition": "Tüm pulmoner venlerin sistemik venöz sisteme/sağ atriyuma açılması (suprakardiyak, kardiyak, infradiyafragmatik, mikst).",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-016z4q4",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Triküspit atrezisi",
+      "en": "Tricuspid atresia",
+      "definition": "Triküspit bağlantının olmadığı, sağ ventrikülün yetersiz geliştiği ve venöz kanın atriyal bağlantı üzerinden ilerlediği anomali.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-13wgdxq",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Ebstein anomalisi",
+      "en": "Ebstein anomaly",
+      "definition": "Triküspit septal ve posterior yaprakçıklarının apekse yer değiştirmesi ve \"atriyalize\" sağ ventrikül.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ost02g",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "Pulmoner atrezi",
+      "en": "Pulmonary atresia",
+      "definition": "Pulmoner kapağın tamamen kapalı olması; intakt septumlu veya VSD'li form.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ix6c7l",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "MAPCA",
+      "en": "Major aortopulmonary collateral arteries",
+      "definition": "Pulmoner atrezide akciğerleri besleyen, aortadan çıkan büyük kollateraller (unifokalizasyon gerektirebilir).",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1uhtwv0",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "HLHS",
+      "en": "Hypoplastic left heart syndrome",
+      "definition": "Sol kalp yapılarının sistemik dolaşımı karşılayamayacak kadar yetersiz geliştiği sendrom.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0sq3igm",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Norwood ameliyatı",
+      "en": "Norwood procedure",
+      "definition": "HLHS evre 1: pulmoner gövde–aorta birleştirme (neo-aorta), atriyal septektomi ve şantla pulmoner akım.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0d152tk",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Glenn anastomozu",
+      "en": "(Bidirectional) Glenn",
+      "definition": "VCS'nin sağ pulmoner artere bağlandığı evre 2 kavopulmoner anastomoz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1avydq8",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Fontan ameliyatı",
+      "en": "Fontan procedure",
+      "definition": "Sistemik venöz kanın pulmoner arterlere ventrikül pompası olmadan yönlendirildiği tek ventrikül palyasyonu.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1q77080",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "DORV",
+      "en": "Double outlet right ventricle",
+      "definition": "Her iki büyük arterin sağ ventrikülden çıkması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1pbdb4q",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Rastelli ameliyatı",
+      "en": "Rastelli procedure",
+      "definition": "İntraventriküler baffle ve sağ ventrikül–PA ekstrakardiyak kondüitle onarım.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-184ehrf",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner arter bandı",
+      "en": "Pulmonary artery banding",
+      "definition": "Aşırı pulmoner akımı azaltmak için pulmoner arterin daraltılması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1s1xic9",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "Eritrositoz",
+      "en": "Erythrocytosis",
+      "definition": "Kronik hipoksemiye yanıt olarak eritrosit artışı.",
+      "source": "Konjenital ilişkiler, Europe PMC"
+    },
+    {
+      "id": "PER245-0jkx0rx",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Kollateral dönüş",
+      "en": "Collateral return",
+      "definition": "Siyanotik hastada bronşiyal/aortopulmoner kollaterallerden sol kalbe gelen kan.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1sxzos3",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "compare",
+      "importance": 2,
+      "title": "Transpozisyonda bağlantılar",
+      "left": {
+        "title": "d-TGA",
+        "points": [
+          "Ventriküloarteriyel diskordans vardır",
+          "Paralel dolaşım nedeniyle karışım gerekir"
+        ]
+      },
+      "right": {
+        "title": "ccTGA",
+        "points": [
+          "AV ve ventriküloarteriyel diskordans vardır",
+          "Sistemik pompa morfolojik sağ ventriküldür"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-15cniiz",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "TOF'de siyanozun belirleyicisi",
+      "body": "Sağ ventrikül çıkış obstrüksiyonu ağırlaştığında VSD üzerinden sağdan-sola şant artabilir; siyanoz derecesi bu obstrüksiyonla ilişkilidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0pktl2g",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "d-TGA'da karışımın önemi",
+      "body": "Paralel dolaşımlar arasında yeterli bağlantı olmadığında oksijenlenmiş kan sistemik dolaşıma ulaşamaz; atriyal veya duktal karışım yaşam için gereklidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0gsoc3k",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel switch'in kritik adımı",
+      "body": "Büyük arterler yeniden bağlanırken koroner ağızların yeni aortaya aktarılması, miyokardın kanlanması için temel adımdır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1tqq4ju",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulmoner atrezi ve koronerler",
+      "body": "İntakt septumlu pulmoner atrezinin bazı ağır biçimlerinde sağ ventrikül–koroner bağlantıları bulunabilir; koroner bağımlılık ayrıca değerlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0mt7v7g",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Siyanotik kalpte ek dönüş",
+      "body": "Bronşiyal ve aortopulmoner kollateral dönüş, KPB sırasında sol kalbe gelen kanı artırabilir; vent gereksinimi hastanın anatomisine göre değişir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-02mexen",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Ebstein anomalisi sağ ventrikülün bir bölümünü nasıl değiştirir?",
+      "answer": "Triküspit yaprakçıkların apikal yer değiştirmesiyle ventrikülün bir bölümü işlevsel olarak atriyalize olur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0f5libr",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Total anormal pulmoner venöz dönüşte yaşamı sağlayan bağlantı hangi düzeydedir?",
+      "answer": "Atriyal düzeyde sağdan sol kalbe geçiş; pulmoner venöz kan normal sol atriyal bağlantıya sahip değildir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0zhubkf",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Glenn palyasyonunda hangi sistemik ven pulmoner artere bağlanır?",
+      "answer": "Superior vena kava; üst vücut venöz kanı pulmoner arterlere yönlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-00x0ywa",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "remember",
+      "importance": 3,
+      "title": "d-TGA’da erken değerlendirme",
+      "body": "İntakt ventriküler septumlu d-TGA’da ağır siyanoz doğumdan sonraki ilk saatlerde ortaya çıkabilir; yeni doğanın dolaşım bağlantıları erken değerlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0lc0x7x",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Fallot tetralojisinde çıkış obstrüksiyonu hangi ventriküldedir?",
+      "options": [
+        "Sağ ventrikül",
+        "Sol ventrikül çıkış yolunda",
+        "Sol atriyum çıkışında",
+        "Sağ atriyum girişinde"
+      ],
+      "correct": 0,
+      "explanation": "Fallot'ta sağ ventrikül çıkış yolu obstrüksiyonu diğer üç bileşenle birlikte bulunur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1u0hqr3",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner akımı artıran modifiye BT şantı hangi damarları bağlar?",
+      "options": [
+        "Sol atriyum–aorta",
+        "Subklavyen arter–pulmoner arter",
+        "VCS–pulmoner arter",
+        "VCI–pulmoner arter"
+      ],
+      "correct": 1,
+      "explanation": "Modifiye BT şantı sistemik arterden pulmoner artere akım sağlar; VCS–PA bağlantısı Glenn'dir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-044hgxl",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ebstein anomalisinde yer değiştiren kapak hangisidir?",
+      "options": [
+        "Aort kapağı",
+        "Pulmoner kapak",
+        "Triküspit kapak",
+        "Mitral kapak"
+      ],
+      "correct": 2,
+      "explanation": "Ebstein'de triküspit yaprakçıkların apikal yer değiştirmesi sağ ventrikülün atriyalizasyonuna yol açar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ogb1km",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Her iki büyük arterin sağ ventrikülden çıktığı anomali hangisidir?",
+      "options": [
+        "d-TGA",
+        "ccTGA",
+        "Persistan trunkus arteriosus",
+        "DORV"
+      ],
+      "correct": 3,
+      "explanation": "DORV çift çıkışlı sağ ventriküldür; d-TGA'da pulmoner arter morfolojik sol ventrikülden çıkar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1e4q4q7",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "TAPVR'nin infradiyafragmatik tipi ağır venöz obstrüksiyonla birlikte olabilir.",
+      "isTrue": true,
+      "explanation": "Diyafram altındaki drenaj yolunun daralması ciddi pulmoner venöz obstrüksiyon ve acil tablo yaratabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0vf8ss9",
+      "course": "PER245",
+      "topic": "Siyanotik konjenital kalp hastalıkları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "HLHS'nin ağır biçiminde sistemik kan akımı duktusun kapanmasıyla güçlenir.",
+      "isTrue": false,
+      "explanation": "Ağır HLHS'de sistemik akım duktusa bağımlıdır; kapanma dolaşımı bozar.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

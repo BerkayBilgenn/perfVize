@@ -1,0 +1,1224 @@
+{
+  "id": "review-b604113f6cc130fe",
+  "title": "İABP, Impella ve TandemHeart",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Endokardiyal canlılık oranı",
+      "text": "Endocardial viability ratio\nDiyastolik basınç-zaman indeksi ile sistolik gerilim-zaman indeksinin oranı; miyokardın oksijen sunumu–talep dengesini yansıtır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0am7m28",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 1,
+        "term": "Endokardiyal canlılık oranı",
+        "en": "Endocardial viability ratio",
+        "definition": "Diyastolik basınç-zaman indeksi ile sistolik gerilim-zaman indeksinin oranı; miyokardın oksijen sunumu–talep dengesini yansıtır.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Windkessel etkisi",
+      "text": "Windkessel effect\nAortun elastik genişleyip geri yaylanarak akımı sürdürmesi; İABP bu etkiyi artırır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0dzrbjh",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 1,
+        "term": "Windkessel etkisi",
+        "en": "Windkessel effect",
+        "definition": "Aortun elastik genişleyip geri yaylanarak akımı sürdürmesi; İABP bu etkiyi artırır.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "İntraaortik balon pompası",
+      "text": "Intra-aortic balloon pump\nİnen aorttaki helyumlu balonun diyastolde şişip sistolden hemen önce söndüğü karşı-atım cihazı.",
+      "images": [],
+      "card": {
+        "id": "PER207-0z5oew0",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "İntraaortik balon pompası",
+        "en": "Intra-aortic balloon pump",
+        "definition": "İnen aorttaki helyumlu balonun diyastolde şişip sistolden hemen önce söndüğü karşı-atım cihazı.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Karşı-atım",
+      "text": "Counterpulsation\nKalp döngüsüne ters fazda basınç değişikliği yaratma ilkesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ytjqcb",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Karşı-atım",
+        "en": "Counterpulsation",
+        "definition": "Kalp döngüsüne ters fazda basınç değişikliği yaratma ilkesi.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Diyastolik augmentasyon",
+      "text": "Diastolic augmentation\nBalonun şişmesiyle diyastolik basıncın ve koroner perfüzyonun artması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0rtpjzz",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 2,
+        "term": "Diyastolik augmentasyon",
+        "en": "Diastolic augmentation",
+        "definition": "Balonun şişmesiyle diyastolik basıncın ve koroner perfüzyonun artması.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Sistolik unloading",
+      "text": "Systolic unloading\nBalonun sistol öncesi sönmesiyle aort basıncının ve LV iş yükünün azalması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1rt0h8w",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 2,
+        "term": "Sistolik unloading",
+        "en": "Systolic unloading",
+        "definition": "Balonun sistol öncesi sönmesiyle aort basıncının ve LV iş yükünün azalması.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Dikrotik çentik",
+      "text": "Dicrotic notch\nAort kapağı kapanmasını gösteren arteriyel dalga çentiği; İABP şişme noktası.",
+      "images": [],
+      "card": {
+        "id": "PER207-1di0ei6",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Dikrotik çentik",
+        "en": "Dicrotic notch",
+        "definition": "Aort kapağı kapanmasını gösteren arteriyel dalga çentiği; İABP şişme noktası.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Tetik",
+      "text": "Trigger\nİABP zamanlama sinyalinin kaynağı (EKG, basınç, pacemaker, iç/asenkron).",
+      "images": [],
+      "card": {
+        "id": "PER207-1befz9m",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 1,
+        "term": "Tetik",
+        "en": "Trigger",
+        "definition": "İABP zamanlama sinyalinin kaynağı (EKG, basınç, pacemaker, iç/asenkron).",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Destek oranı",
+      "text": "Assist ratio (1:1, 1:2, 1:3)\nKaç kalp atımından birinin desteklendiği; düşük oranlar ayırmada kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1vk9zxk",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 1,
+        "term": "Destek oranı",
+        "en": "Assist ratio (1:1, 1:2, 1:3)",
+        "definition": "Kaç kalp atımından birinin desteklendiği; düşük oranlar ayırmada kullanılır.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Helyum",
+      "text": "Helium\nİABP'de kullanılan düşük viskoziteli, hızlı taşınabilen gaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-0xxx14z",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 1,
+        "term": "Helyum",
+        "en": "Helium",
+        "definition": "İABP'de kullanılan düşük viskoziteli, hızlı taşınabilen gaz.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Erken / geç şişme",
+      "text": "Early / late inflation\nBalonun dikrotik çentikten önce (tehlikeli) veya sonra (etkisiz) şişmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-01m2a87",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Erken / geç şişme",
+        "en": "Early / late inflation",
+        "definition": "Balonun dikrotik çentikten önce (tehlikeli) veya sonra (etkisiz) şişmesi.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Erken / geç sönme",
+      "text": "Early / late deflation\nBalonun diyastolün ortasında (yetersiz unloading) veya sistol başlangıcında hâlâ şişik (art yük artar) sönmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1nj9hkn",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Erken / geç sönme",
+        "en": "Early / late deflation",
+        "definition": "Balonun diyastolün ortasında (yetersiz unloading) veya sistol başlangıcında hâlâ şişik (art yük artar) sönmesi.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Balon rüptürü",
+      "text": "Balloon rupture\nİABP balonunun bütünlüğünün bozulması; helyum hattında kan görülmesi önemli bir uyarı bulgusudur.",
+      "images": [],
+      "card": {
+        "id": "PER207-0sarafp",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Balon rüptürü",
+        "en": "Balloon rupture",
+        "definition": "İABP balonunun bütünlüğünün bozulması; helyum hattında kan görülmesi önemli bir uyarı bulgusudur.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "Impella",
+      "text": "Impella\nAort kapağından geçen, LV'den çıkan aorta kan pompalayan mikroaksiyel pompa.",
+      "images": [],
+      "card": {
+        "id": "PER207-0sdqyu3",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Impella",
+        "en": "Impella",
+        "definition": "Aort kapağından geçen, LV'den çıkan aorta kan pompalayan mikroaksiyel pompa.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Purge solüsyonu",
+      "text": "Purge solution\nImpella motoruna kanın girmesini engellemek için basınç altında verilen yıkama sıvısı. Bileşimi cihaz talimatı ve klinik duruma göre seçilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1kukpqe",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 3,
+        "term": "Purge solüsyonu",
+        "en": "Purge solution",
+        "definition": "Impella motoruna kanın girmesini engellemek için basınç altında verilen yıkama sıvısı. Bileşimi cihaz talimatı ve klinik duruma göre seçilir.",
+        "source": "FDA Impella kullanım talimatı"
+      }
+    },
+    {
+      "title": "ECPELLA",
+      "text": "ECPELLA\nLV'yi boşaltmak için VA ECMO'ya Impella eklenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ppgj1x",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 1,
+        "term": "ECPELLA",
+        "en": "ECPELLA",
+        "definition": "LV'yi boşaltmak için VA ECMO'ya Impella eklenmesi.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "TandemHeart",
+      "text": "TandemHeart\nTransseptal sol atriyum – femoral arter perkütan santrifüj destek (oksijenatörsüz).",
+      "images": [],
+      "card": {
+        "id": "PER207-0tmmr8a",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "term",
+        "importance": 2,
+        "term": "TandemHeart",
+        "en": "TandemHeart",
+        "definition": "Transseptal sol atriyum – femoral arter perkütan santrifüj destek (oksijenatörsüz).",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP ile aktif sol kalp pompası",
+      "text": "İABP\nBalonla karşı-atım oluşturur\nNativ kalp döngüsüyle senkron çalışır\n\nImpella\nVentrikülden aorta aktif kan taşır\nVentrikülü doğrudan boşaltır",
+      "images": [],
+      "card": {
+        "id": "PER207-0howtag",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "compare",
+        "importance": 2,
+        "title": "İABP ile aktif sol kalp pompası",
+        "left": {
+          "title": "İABP",
+          "points": [
+            "Balonla karşı-atım oluşturur",
+            "Nativ kalp döngüsüyle senkron çalışır"
+          ]
+        },
+        "right": {
+          "title": "Impella",
+          "points": [
+            "Ventrikülden aorta aktif kan taşır",
+            "Ventrikülü doğrudan boşaltır"
+          ]
+        },
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Perkütan destek kan yolları",
+      "text": "Impella\nKanı sol ventrikülden alır\nAort kapağını geçerek aorta verir\n\nTandemHeart\nKanı sol atriyumdan alır\nTransseptal girişle femoral artere verir",
+      "images": [],
+      "card": {
+        "id": "PER207-1nhl96p",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "compare",
+        "importance": 2,
+        "title": "Perkütan destek kan yolları",
+        "left": {
+          "title": "Impella",
+          "points": [
+            "Kanı sol ventrikülden alır",
+            "Aort kapağını geçerek aorta verir"
+          ]
+        },
+        "right": {
+          "title": "TandemHeart",
+          "points": [
+            "Kanı sol atriyumdan alır",
+            "Transseptal girişle femoral artere verir"
+          ]
+        },
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP ölçüsünün anatomik amacı",
+      "text": "Balon seçimi hastanın aort boyutlarıyla uyumlu olmalıdır; alt ucu renal arter çıkışlarını kapatmamalıdır. Boya göre hacim tabloları **üretici ve modele** bağlıdır; tek tablo bütün kateterlere genellenmez.",
+      "images": [],
+      "card": {
+        "id": "PER207-0xiycwu",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "fact",
+        "importance": 2,
+        "title": "İABP ölçüsünün anatomik amacı",
+        "body": "Balon seçimi hastanın aort boyutlarıyla uyumlu olmalıdır; alt ucu renal arter çıkışlarını kapatmamalıdır. Boya göre hacim tabloları **üretici ve modele** bağlıdır; tek tablo bütün kateterlere genellenmez.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP debi katkısının sınırı",
+      "text": "İABP’nin kalp debisine katkısı kaynaklarda yaklaşık **0,5–1,0 L/dk** olarak bildirilir. Etki; nativ kalp işlevine ve zamanlamaya bağlıdır; tam dolaşım desteği değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1fsuwll",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "fact",
+        "importance": 2,
+        "title": "İABP debi katkısının sınırı",
+        "body": "İABP’nin kalp debisine katkısı kaynaklarda yaklaşık **0,5–1,0 L/dk** olarak bildirilir. Etki; nativ kalp işlevine ve zamanlamaya bağlıdır; tam dolaşım desteği değildir.",
+        "source": "Parissis, İABP 2016"
+      }
+    },
+    {
+      "title": "İABP ucunun anatomik sınırı",
+      "text": "İABP ucu sol subklavyen arter çıkışının distalinde bulunmalıdır; balon renal arterleri kapatmamalıdır. Çok proksimal veya distal yerleşim organ perfüzyonunu bozabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-19yyy89",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "fact",
+        "importance": 2,
+        "title": "İABP ucunun anatomik sınırı",
+        "body": "İABP ucu sol subklavyen arter çıkışının distalinde bulunmalıdır; balon renal arterleri kapatmamalıdır. Çok proksimal veya distal yerleşim organ perfüzyonunu bozabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "IABP-SHOCK II sonucu",
+      "text": "IABP-SHOCK II’de revaskülarizasyon planlanan AMİ ve kardiyojenik şoklu 600 hastada **30 günlük mortalite azalmadı**: İABP %39,7; kontrol %41,3.",
+      "images": [],
+      "card": {
+        "id": "PER207-04b6px3",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "fact",
+        "importance": 2,
+        "title": "IABP-SHOCK II sonucu",
+        "body": "IABP-SHOCK II’de revaskülarizasyon planlanan AMİ ve kardiyojenik şoklu 600 hastada **30 günlük mortalite azalmadı**: İABP %39,7; kontrol %41,3.",
+        "source": "IABP-SHOCK II, NEJM 2012"
+      }
+    },
+    {
+      "title": "DanGer Shock: yarar ve güvenlik",
+      "text": "DanGer Shock 2024’te seçilmiş STEMI ve kardiyojenik şok hastalarında Impella CP ile 180 gün mortalite %45,8, standart tedavide %58,5 idi; ciddi güvenlik olayları cihaz grubunda daha fazlaydı.",
+      "images": [],
+      "card": {
+        "id": "PER207-0lauhtg",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "fact",
+        "importance": 2,
+        "title": "DanGer Shock: yarar ve güvenlik",
+        "body": "DanGer Shock 2024’te seçilmiş STEMI ve kardiyojenik şok hastalarında Impella CP ile 180 gün mortalite %45,8, standart tedavide %58,5 idi; ciddi güvenlik olayları cihaz grubunda daha fazlaydı.",
+        "source": "DanGer Shock, NEJM 2024"
+      }
+    },
+    {
+      "title": "Purge reçetesi cihaz talimatına bağlıdır",
+      "text": "Impella’da purge, motoru kan girişinden korur. Kullanılan sıvı ve antikoagülan yaklaşımı **cihaz talimatı ve klinik duruma** bağlıdır; heparinli reçete tüm hastalara sabitlenmez.",
+      "images": [],
+      "card": {
+        "id": "PER207-0k0hv59",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "fact",
+        "importance": 2,
+        "title": "Purge reçetesi cihaz talimatına bağlıdır",
+        "body": "Impella’da purge, motoru kan girişinden korur. Kullanılan sıvı ve antikoagülan yaklaşımı **cihaz talimatı ve klinik duruma** bağlıdır; heparinli reçete tüm hastalara sabitlenmez.",
+        "source": "FDA Impella kullanım talimatı"
+      }
+    },
+    {
+      "title": "Orta-ağır aort yetmezliği İABP için neden sorun oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1rxjb93",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "flip",
+        "importance": 3,
+        "question": "Orta-ağır aort yetmezliği İABP için neden sorun oluşturur?",
+        "answer": "Balonun diyastolik basıncı artırması aorttan sol ventriküle **regürjitan akımı** artırabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Mekanik aort kapağı sol ventrikül Impella’sıyla neden uyumsuzdur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0wku3k1",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "flip",
+        "importance": 3,
+        "question": "Mekanik aort kapağı sol ventrikül Impella’sıyla neden uyumsuzdur?",
+        "answer": "Sol ventrikül Impella kateteri **aort kapağını geçer**; mekanik kapak yapısı cihazın geçişi ve çalışmasıyla uyumsuzdur.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "TandemHeart kanülünün yan delikleri neden sol atriyumda kalmalıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1j8hhy3",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "flip",
+        "importance": 3,
+        "question": "TandemHeart kanülünün yan delikleri neden sol atriyumda kalmalıdır?",
+        "answer": "Sağ atriyuma kayan delikler yanlış kan kaynağından drenaj ve **istenmeyen şant** oluşturabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP balonu çok distalde kalırsa hangi organlar risk altındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1duazve",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "flip",
+        "importance": 3,
+        "question": "İABP balonu çok distalde kalırsa hangi organlar risk altındadır?",
+        "answer": "Renal ve mezenterik arter çıkışları etkilenebilir; **böbrek ve bağırsak perfüzyonu** bozulabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Geç sönme art yükü artırır",
+      "text": "İABP balonu sistol başladığında hâlâ şişikse ventrikül **şişik balona karşı** ejekte eder; beklenen art yük azalması kaybolabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-09czrsl",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "remember",
+        "importance": 3,
+        "title": "Geç sönme art yükü artırır",
+        "body": "İABP balonu sistol başladığında hâlâ şişikse ventrikül **şişik balona karşı** ejekte eder; beklenen art yük azalması kaybolabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Erken şişme sistole karışır",
+      "text": "İABP’nin aort kapağı kapanmadan şişmesi sistolik ejeksiyonu engelleyebilir; zamanlama **dikrotik çentikle** ilişkilendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0rp7h42",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "remember",
+        "importance": 3,
+        "title": "Erken şişme sistole karışır",
+        "body": "İABP’nin aort kapağı kapanmadan şişmesi sistolik ejeksiyonu engelleyebilir; zamanlama **dikrotik çentikle** ilişkilendirilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Sol ventrikülde trombüs ve Impella",
+      "text": "Sol ventrikül trombüsü, sol kalp Impella’sı için **kontrendikasyondur**; cihaz kanı ventrikül içinden alır ve trombüs embolisi riski doğar.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bw7upp",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "remember",
+        "importance": 3,
+        "title": "Sol ventrikülde trombüs ve Impella",
+        "body": "Sol ventrikül trombüsü, sol kalp Impella’sı için **kontrendikasyondur**; cihaz kanı ventrikül içinden alır ve trombüs embolisi riski doğar.",
+        "source": "FDA Impella kullanım talimatı"
+      }
+    },
+    {
+      "title": "İABP’de diyastolik şişme hangi yararı hedefler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1bu0p8n",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "mcq",
+        "importance": 3,
+        "question": "İABP’de diyastolik şişme hangi yararı hedefler?",
+        "options": [
+          "Sistolik art yükün artırılması",
+          "Diyastolik aort basıncının düşürülmesi",
+          "Sol ventrikül duvar geriliminin artırılması",
+          "Koroner perfüzyonun artırılması"
+        ],
+        "correct": 3,
+        "explanation": "Balonun diyastolde şişmesi aort diyastolik basıncını ve koroner perfüzyonu artırır.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP balonu sistol başladığında şişik kalıyorsa hangi zamanlama hatası vardır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0lm0ks2",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "mcq",
+        "importance": 3,
+        "question": "İABP balonu sistol başladığında şişik kalıyorsa hangi zamanlama hatası vardır?",
+        "options": [
+          "Geç sönme",
+          "Erken sönme",
+          "Geç şişme",
+          "Erken şişme"
+        ],
+        "correct": 0,
+        "explanation": "Geç sönmede ventrikül şişik balona karşı ejekte eder; art yük azalması sağlanamaz.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP’nin erken şişmesi hangi fazdaki akımı engelleyebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1igl45h",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "mcq",
+        "importance": 3,
+        "question": "İABP’nin erken şişmesi hangi fazdaki akımı engelleyebilir?",
+        "options": [
+          "Atriyal kasılma",
+          "Sistolik ejeksiyon",
+          "Geç diyastolik doluş",
+          "İzovolümetrik gevşeme"
+        ],
+        "correct": 1,
+        "explanation": "Aort kapağı kapanmadan şişme sistolik ejeksiyona karışarak ventrikül işini artırabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP gaz hattında kan görülmesi hangi arızayı düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1opkue4",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "mcq",
+        "importance": 3,
+        "question": "İABP gaz hattında kan görülmesi hangi arızayı düşündürür?",
+        "options": [
+          "Oksijenatör trombozu",
+          "LVAD giriş kanülü tıkanması",
+          "Balon rüptürü",
+          "Venöz drenaj kollapsı"
+        ],
+        "correct": 2,
+        "explanation": "Balon yırtılırsa kan gaz lümenine girebilir; bu bulgu balon bütünlüğü kaybını düşündürür.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "Impella’daki LV boşaltma etkisi ventrikülün basınç–hacim döngüsünde hangi sonucu hedefler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0ovk7dr",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Impella’daki LV boşaltma etkisi ventrikülün basınç–hacim döngüsünde hangi sonucu hedefler?",
+        "options": [
+          "Diyastolik basıncın sürekli yükselmesi",
+          "Sistolik art yükün sürekli artması",
+          "Regürjitan aort akımının artırılması",
+          "Duvar gerilimi ve oksijen gereksiniminin azalması"
+        ],
+        "correct": 3,
+        "explanation": "Aktif LV boşaltılması ventrikül hacmi ve basıncını azaltarak miyokardın işini ve oksijen gereksinimini azaltmayı hedefler.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "TandemHeart için sol atriyuma erişimde hangi yöntem kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0gvk8os",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "mcq",
+        "importance": 3,
+        "question": "TandemHeart için sol atriyuma erişimde hangi yöntem kullanılır?",
+        "options": [
+          "Transseptal ponksiyon",
+          "Transaortik kapak geçişi",
+          "Koroner sinüs kanülasyonu",
+          "Transtorasik aort klempi"
+        ],
+        "correct": 0,
+        "explanation": "TandemHeart’ın drenaj kanülü atriyal septumdan sol atriyuma ilerletilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İABP’nin diyastolde sönmesi, standart karşı-atımın temel zamanlamasıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-142mprm",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "tf",
+        "importance": 2,
+        "statement": "İABP’nin diyastolde sönmesi, standart karşı-atımın temel zamanlamasıdır.",
+        "isTrue": false,
+        "explanation": "Standart zamanlamada diyastol başlangıcında şişme, sistolden hemen önce sönme hedeflenir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "TandemHeart çalışırken sol atriyal drenajın kesilmesi pompanın dolumunu bozabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1jrbf6z",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "tf",
+        "importance": 2,
+        "statement": "TandemHeart çalışırken sol atriyal drenajın kesilmesi pompanın dolumunu bozabilir.",
+        "isTrue": true,
+        "explanation": "Pompa sol atriyal kan kaynağına bağımlıdır; kanül pozisyonu ve venöz dönüş etkili dolum için gereklidir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "TandemHeart drenaj kanülünün yan deliklerinin sağ atriyuma kayması sol atriyal drenajı güvenle sürdürür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1jx3k0n",
+        "course": "PER207",
+        "topic": "İABP, Impella ve TandemHeart",
+        "type": "tf",
+        "importance": 2,
+        "statement": "TandemHeart drenaj kanülünün yan deliklerinin sağ atriyuma kayması sol atriyal drenajı güvenle sürdürür.",
+        "isTrue": false,
+        "explanation": "Yan delikler sol atriyumda kalmalıdır; sağ atriyuma kayma istenmeyen şant ve yanlış kan kaynağından drenaj oluşturabilir.",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-0am7m28",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 1,
+      "term": "Endokardiyal canlılık oranı",
+      "en": "Endocardial viability ratio",
+      "definition": "Diyastolik basınç-zaman indeksi ile sistolik gerilim-zaman indeksinin oranı; miyokardın oksijen sunumu–talep dengesini yansıtır.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-0dzrbjh",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 1,
+      "term": "Windkessel etkisi",
+      "en": "Windkessel effect",
+      "definition": "Aortun elastik genişleyip geri yaylanarak akımı sürdürmesi; İABP bu etkiyi artırır.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-0z5oew0",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "İntraaortik balon pompası",
+      "en": "Intra-aortic balloon pump",
+      "definition": "İnen aorttaki helyumlu balonun diyastolde şişip sistolden hemen önce söndüğü karşı-atım cihazı.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-1ytjqcb",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Karşı-atım",
+      "en": "Counterpulsation",
+      "definition": "Kalp döngüsüne ters fazda basınç değişikliği yaratma ilkesi.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-0rtpjzz",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 2,
+      "term": "Diyastolik augmentasyon",
+      "en": "Diastolic augmentation",
+      "definition": "Balonun şişmesiyle diyastolik basıncın ve koroner perfüzyonun artması.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-1rt0h8w",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 2,
+      "term": "Sistolik unloading",
+      "en": "Systolic unloading",
+      "definition": "Balonun sistol öncesi sönmesiyle aort basıncının ve LV iş yükünün azalması.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-1di0ei6",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Dikrotik çentik",
+      "en": "Dicrotic notch",
+      "definition": "Aort kapağı kapanmasını gösteren arteriyel dalga çentiği; İABP şişme noktası.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1befz9m",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 1,
+      "term": "Tetik",
+      "en": "Trigger",
+      "definition": "İABP zamanlama sinyalinin kaynağı (EKG, basınç, pacemaker, iç/asenkron).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1vk9zxk",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 1,
+      "term": "Destek oranı",
+      "en": "Assist ratio (1:1, 1:2, 1:3)",
+      "definition": "Kaç kalp atımından birinin desteklendiği; düşük oranlar ayırmada kullanılır.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0xxx14z",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 1,
+      "term": "Helyum",
+      "en": "Helium",
+      "definition": "İABP'de kullanılan düşük viskoziteli, hızlı taşınabilen gaz.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-01m2a87",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Erken / geç şişme",
+      "en": "Early / late inflation",
+      "definition": "Balonun dikrotik çentikten önce (tehlikeli) veya sonra (etkisiz) şişmesi.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1nj9hkn",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Erken / geç sönme",
+      "en": "Early / late deflation",
+      "definition": "Balonun diyastolün ortasında (yetersiz unloading) veya sistol başlangıcında hâlâ şişik (art yük artar) sönmesi.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0sarafp",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Balon rüptürü",
+      "en": "Balloon rupture",
+      "definition": "İABP balonunun bütünlüğünün bozulması; helyum hattında kan görülmesi önemli bir uyarı bulgusudur.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-0sdqyu3",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Impella",
+      "en": "Impella",
+      "definition": "Aort kapağından geçen, LV'den çıkan aorta kan pompalayan mikroaksiyel pompa.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1kukpqe",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 3,
+      "term": "Purge solüsyonu",
+      "en": "Purge solution",
+      "definition": "Impella motoruna kanın girmesini engellemek için basınç altında verilen yıkama sıvısı. Bileşimi cihaz talimatı ve klinik duruma göre seçilir.",
+      "source": "FDA Impella kullanım talimatı"
+    },
+    {
+      "id": "PER207-0ppgj1x",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 1,
+      "term": "ECPELLA",
+      "en": "ECPELLA",
+      "definition": "LV'yi boşaltmak için VA ECMO'ya Impella eklenmesi.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0tmmr8a",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "term",
+      "importance": 2,
+      "term": "TandemHeart",
+      "en": "TandemHeart",
+      "definition": "Transseptal sol atriyum – femoral arter perkütan santrifüj destek (oksijenatörsüz).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0howtag",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "compare",
+      "importance": 2,
+      "title": "İABP ile aktif sol kalp pompası",
+      "left": {
+        "title": "İABP",
+        "points": [
+          "Balonla karşı-atım oluşturur",
+          "Nativ kalp döngüsüyle senkron çalışır"
+        ]
+      },
+      "right": {
+        "title": "Impella",
+        "points": [
+          "Ventrikülden aorta aktif kan taşır",
+          "Ventrikülü doğrudan boşaltır"
+        ]
+      },
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1nhl96p",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "compare",
+      "importance": 2,
+      "title": "Perkütan destek kan yolları",
+      "left": {
+        "title": "Impella",
+        "points": [
+          "Kanı sol ventrikülden alır",
+          "Aort kapağını geçerek aorta verir"
+        ]
+      },
+      "right": {
+        "title": "TandemHeart",
+        "points": [
+          "Kanı sol atriyumdan alır",
+          "Transseptal girişle femoral artere verir"
+        ]
+      },
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0xiycwu",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "fact",
+      "importance": 2,
+      "title": "İABP ölçüsünün anatomik amacı",
+      "body": "Balon seçimi hastanın aort boyutlarıyla uyumlu olmalıdır; alt ucu renal arter çıkışlarını kapatmamalıdır. Boya göre hacim tabloları **üretici ve modele** bağlıdır; tek tablo bütün kateterlere genellenmez.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1fsuwll",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "fact",
+      "importance": 2,
+      "title": "İABP debi katkısının sınırı",
+      "body": "İABP’nin kalp debisine katkısı kaynaklarda yaklaşık **0,5–1,0 L/dk** olarak bildirilir. Etki; nativ kalp işlevine ve zamanlamaya bağlıdır; tam dolaşım desteği değildir.",
+      "source": "Parissis, İABP 2016"
+    },
+    {
+      "id": "PER207-19yyy89",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "fact",
+      "importance": 2,
+      "title": "İABP ucunun anatomik sınırı",
+      "body": "İABP ucu sol subklavyen arter çıkışının distalinde bulunmalıdır; balon renal arterleri kapatmamalıdır. Çok proksimal veya distal yerleşim organ perfüzyonunu bozabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-04b6px3",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "fact",
+      "importance": 2,
+      "title": "IABP-SHOCK II sonucu",
+      "body": "IABP-SHOCK II’de revaskülarizasyon planlanan AMİ ve kardiyojenik şoklu 600 hastada **30 günlük mortalite azalmadı**: İABP %39,7; kontrol %41,3.",
+      "source": "IABP-SHOCK II, NEJM 2012"
+    },
+    {
+      "id": "PER207-0lauhtg",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "fact",
+      "importance": 2,
+      "title": "DanGer Shock: yarar ve güvenlik",
+      "body": "DanGer Shock 2024’te seçilmiş STEMI ve kardiyojenik şok hastalarında Impella CP ile 180 gün mortalite %45,8, standart tedavide %58,5 idi; ciddi güvenlik olayları cihaz grubunda daha fazlaydı.",
+      "source": "DanGer Shock, NEJM 2024"
+    },
+    {
+      "id": "PER207-0k0hv59",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "fact",
+      "importance": 2,
+      "title": "Purge reçetesi cihaz talimatına bağlıdır",
+      "body": "Impella’da purge, motoru kan girişinden korur. Kullanılan sıvı ve antikoagülan yaklaşımı **cihaz talimatı ve klinik duruma** bağlıdır; heparinli reçete tüm hastalara sabitlenmez.",
+      "source": "FDA Impella kullanım talimatı"
+    },
+    {
+      "id": "PER207-1rxjb93",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "flip",
+      "importance": 3,
+      "question": "Orta-ağır aort yetmezliği İABP için neden sorun oluşturur?",
+      "answer": "Balonun diyastolik basıncı artırması aorttan sol ventriküle **regürjitan akımı** artırabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0wku3k1",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "flip",
+      "importance": 3,
+      "question": "Mekanik aort kapağı sol ventrikül Impella’sıyla neden uyumsuzdur?",
+      "answer": "Sol ventrikül Impella kateteri **aort kapağını geçer**; mekanik kapak yapısı cihazın geçişi ve çalışmasıyla uyumsuzdur.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1j8hhy3",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "flip",
+      "importance": 3,
+      "question": "TandemHeart kanülünün yan delikleri neden sol atriyumda kalmalıdır?",
+      "answer": "Sağ atriyuma kayan delikler yanlış kan kaynağından drenaj ve **istenmeyen şant** oluşturabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1duazve",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "flip",
+      "importance": 3,
+      "question": "İABP balonu çok distalde kalırsa hangi organlar risk altındadır?",
+      "answer": "Renal ve mezenterik arter çıkışları etkilenebilir; **böbrek ve bağırsak perfüzyonu** bozulabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-09czrsl",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "remember",
+      "importance": 3,
+      "title": "Geç sönme art yükü artırır",
+      "body": "İABP balonu sistol başladığında hâlâ şişikse ventrikül **şişik balona karşı** ejekte eder; beklenen art yük azalması kaybolabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0rp7h42",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "remember",
+      "importance": 3,
+      "title": "Erken şişme sistole karışır",
+      "body": "İABP’nin aort kapağı kapanmadan şişmesi sistolik ejeksiyonu engelleyebilir; zamanlama **dikrotik çentikle** ilişkilendirilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1bw7upp",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "remember",
+      "importance": 3,
+      "title": "Sol ventrikülde trombüs ve Impella",
+      "body": "Sol ventrikül trombüsü, sol kalp Impella’sı için **kontrendikasyondur**; cihaz kanı ventrikül içinden alır ve trombüs embolisi riski doğar.",
+      "source": "FDA Impella kullanım talimatı"
+    },
+    {
+      "id": "PER207-1bu0p8n",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP’de diyastolik şişme hangi yararı hedefler?",
+      "options": [
+        "Sistolik art yükün artırılması",
+        "Diyastolik aort basıncının düşürülmesi",
+        "Sol ventrikül duvar geriliminin artırılması",
+        "Koroner perfüzyonun artırılması"
+      ],
+      "correct": 3,
+      "explanation": "Balonun diyastolde şişmesi aort diyastolik basıncını ve koroner perfüzyonu artırır.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0lm0ks2",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP balonu sistol başladığında şişik kalıyorsa hangi zamanlama hatası vardır?",
+      "options": [
+        "Geç sönme",
+        "Erken sönme",
+        "Geç şişme",
+        "Erken şişme"
+      ],
+      "correct": 0,
+      "explanation": "Geç sönmede ventrikül şişik balona karşı ejekte eder; art yük azalması sağlanamaz.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1igl45h",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP’nin erken şişmesi hangi fazdaki akımı engelleyebilir?",
+      "options": [
+        "Atriyal kasılma",
+        "Sistolik ejeksiyon",
+        "Geç diyastolik doluş",
+        "İzovolümetrik gevşeme"
+      ],
+      "correct": 1,
+      "explanation": "Aort kapağı kapanmadan şişme sistolik ejeksiyona karışarak ventrikül işini artırabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1opkue4",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "mcq",
+      "importance": 3,
+      "question": "İABP gaz hattında kan görülmesi hangi arızayı düşündürür?",
+      "options": [
+        "Oksijenatör trombozu",
+        "LVAD giriş kanülü tıkanması",
+        "Balon rüptürü",
+        "Venöz drenaj kollapsı"
+      ],
+      "correct": 2,
+      "explanation": "Balon yırtılırsa kan gaz lümenine girebilir; bu bulgu balon bütünlüğü kaybını düşündürür.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0ovk7dr",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Impella’daki LV boşaltma etkisi ventrikülün basınç–hacim döngüsünde hangi sonucu hedefler?",
+      "options": [
+        "Diyastolik basıncın sürekli yükselmesi",
+        "Sistolik art yükün sürekli artması",
+        "Regürjitan aort akımının artırılması",
+        "Duvar gerilimi ve oksijen gereksiniminin azalması"
+      ],
+      "correct": 3,
+      "explanation": "Aktif LV boşaltılması ventrikül hacmi ve basıncını azaltarak miyokardın işini ve oksijen gereksinimini azaltmayı hedefler.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0gvk8os",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "mcq",
+      "importance": 3,
+      "question": "TandemHeart için sol atriyuma erişimde hangi yöntem kullanılır?",
+      "options": [
+        "Transseptal ponksiyon",
+        "Transaortik kapak geçişi",
+        "Koroner sinüs kanülasyonu",
+        "Transtorasik aort klempi"
+      ],
+      "correct": 0,
+      "explanation": "TandemHeart’ın drenaj kanülü atriyal septumdan sol atriyuma ilerletilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-142mprm",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "tf",
+      "importance": 2,
+      "statement": "İABP’nin diyastolde sönmesi, standart karşı-atımın temel zamanlamasıdır.",
+      "isTrue": false,
+      "explanation": "Standart zamanlamada diyastol başlangıcında şişme, sistolden hemen önce sönme hedeflenir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1jrbf6z",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "tf",
+      "importance": 2,
+      "statement": "TandemHeart çalışırken sol atriyal drenajın kesilmesi pompanın dolumunu bozabilir.",
+      "isTrue": true,
+      "explanation": "Pompa sol atriyal kan kaynağına bağımlıdır; kanül pozisyonu ve venöz dönüş etkili dolum için gereklidir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-1jx3k0n",
+      "course": "PER207",
+      "topic": "İABP, Impella ve TandemHeart",
+      "type": "tf",
+      "importance": 2,
+      "statement": "TandemHeart drenaj kanülünün yan deliklerinin sağ atriyuma kayması sol atriyal drenajı güvenle sürdürür.",
+      "isTrue": false,
+      "explanation": "Yan delikler sol atriyumda kalmalıdır; sağ atriyuma kayma istenmeyen şant ve yanlış kan kaynağından drenaj oluşturabilir.",
+      "source": "ACC Destek Cihazları El Kitabı"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

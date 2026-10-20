@@ -1,0 +1,1083 @@
+{
+  "id": "review-bd6d3c1d27d62744",
+  "title": "Buhar, flaş ve kuru ısı sterilizasyonu",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Pastörizasyon",
+      "text": "Pasteurization\nIsıyla spor dışındaki patojenlerin azaltılması veya inaktive edilmesi. Sporları güvenilir biçimde ortadan kaldıran sterilizasyonla eş anlamlı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1tm0yd4",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Pastörizasyon",
+        "definition": "Isıyla spor dışındaki patojenlerin azaltılması veya inaktive edilmesi. Sporları güvenilir biçimde ortadan kaldıran sterilizasyonla eş anlamlı değildir.",
+        "en": "Pasteurization"
+      }
+    },
+    {
+      "title": "Maruziyet süresi",
+      "text": "Exposure time\nMalzemenin işlem için belirlenen sıcaklık ve diğer koşullarda sterilana maruz bırakıldığı süre. Toplam döngü süresiyle aynı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ccuysb",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Maruziyet süresi",
+        "definition": "Malzemenin işlem için belirlenen sıcaklık ve diğer koşullarda sterilana maruz bırakıldığı süre. Toplam döngü süresiyle aynı değildir.",
+        "en": "Exposure time"
+      }
+    },
+    {
+      "title": "Otoklav",
+      "text": "Autoclave\nBasınçlı doymuş buharla sterilizasyon sağlayan cihaz. Basınç, gereken yüksek sıcaklığa ulaşılmasını sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER247-0qrdc4v",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Otoklav",
+        "definition": "Basınçlı doymuş buharla sterilizasyon sağlayan cihaz. Basınç, gereken yüksek sıcaklığa ulaşılmasını sağlar.",
+        "en": "Autoclave"
+      }
+    },
+    {
+      "title": "Doymuş buhar",
+      "text": "Saturated steam\nYoğuşma noktasındaki, gizli ısısını yüke bırakan buhar.",
+      "images": [],
+      "card": {
+        "id": "PER247-0hi7hua",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Doymuş buhar",
+        "definition": "Yoğuşma noktasındaki, gizli ısısını yüke bırakan buhar.",
+        "en": "Saturated steam"
+      }
+    },
+    {
+      "title": "Buhar kalitesi",
+      "text": "Dryness fraction / steam quality\nSterilizasyon buharının kuruluk oranı ve yoğuşmayan gazlar gibi özellikleri. Yüke uygun buhar temasını etkiler.",
+      "images": [],
+      "card": {
+        "id": "PER247-1bhw3c9",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Buhar kalitesi",
+        "definition": "Sterilizasyon buharının kuruluk oranı ve yoğuşmayan gazlar gibi özellikleri. Yüke uygun buhar temasını etkiler.",
+        "en": "Dryness fraction / steam quality"
+      }
+    },
+    {
+      "title": "Yoğuşmayan gaz",
+      "text": "Noncondensable gas\nSterilizasyon koşullarında yoğuşmayan hava/gaz; buhar temasını engeller.",
+      "images": [],
+      "card": {
+        "id": "PER247-02wl8hi",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Yoğuşmayan gaz",
+        "definition": "Sterilizasyon koşullarında yoğuşmayan hava/gaz; buhar temasını engeller.",
+        "en": "Noncondensable gas"
+      }
+    },
+    {
+      "title": "Bekleme süresi",
+      "text": "Holding time\nSterilizasyon yükünün gerekli buhar ve sıcaklık koşullarına maruz kaldığı süre. Isınma ve soğuma aşamalarından ayrıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0b2phei",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 1,
+        "source": "WHO 2018",
+        "term": "Bekleme süresi",
+        "definition": "Sterilizasyon yükünün gerekli buhar ve sıcaklık koşullarına maruz kaldığı süre. Isınma ve soğuma aşamalarından ayrıdır.",
+        "en": "Holding time"
+      }
+    },
+    {
+      "title": "Gravite sterilizatör",
+      "text": "Gravity-displacement sterilizer\nGiren buharın havayı alttaki tahliye deliğinden ittiği buhar sterilizatörü.",
+      "images": [],
+      "card": {
+        "id": "PER247-0ld7nqs",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Gravite sterilizatör",
+        "definition": "Giren buharın havayı alttaki tahliye deliğinden ittiği buhar sterilizatörü.",
+        "en": "Gravity-displacement sterilizer"
+      }
+    },
+    {
+      "title": "Ön vakumlu sterilizatör",
+      "text": "Prevacuum (dynamic air removal) sterilizer\nDöngü başında vakum-basınç dalgalarıyla havayı uzaklaştıran sterilizatör.",
+      "images": [],
+      "card": {
+        "id": "PER247-11a815l",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Ön vakumlu sterilizatör",
+        "definition": "Döngü başında vakum-basınç dalgalarıyla havayı uzaklaştıran sterilizatör.",
+        "en": "Prevacuum (dynamic air removal) sterilizer"
+      }
+    },
+    {
+      "title": "Buharla süpürme-basınç puls sterilizatörü",
+      "text": "Steam-flush pressure-pulse sterilizer\nAtmosfer basıncının üzerinde tekrarlanan **buharla süpürme ve basınç pulslarıyla** havayı uzaklaştıran yöntem. Vakum gerektirmeyen buhar sterilizasyonudur.",
+      "images": [],
+      "card": {
+        "id": "PER247-06llpyl",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Buharla süpürme-basınç puls sterilizatörü",
+        "definition": "Atmosfer basıncının üzerinde tekrarlanan **buharla süpürme ve basınç pulslarıyla** havayı uzaklaştıran yöntem. Vakum gerektirmeyen buhar sterilizasyonudur.",
+        "en": "Steam-flush pressure-pulse sterilizer"
+      }
+    },
+    {
+      "title": "Masaüstü buhar sterilizatörü",
+      "text": "Tabletop steam sterilizer\nKendi buharını üreten küçük hazneli buhar sterilizatörü. İşlenebilecek malzeme türü üretici talimatıyla belirlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-10w293r",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Masaüstü buhar sterilizatörü",
+        "definition": "Kendi buharını üreten küçük hazneli buhar sterilizatörü. İşlenebilecek malzeme türü üretici talimatıyla belirlenir.",
+        "en": "Tabletop steam sterilizer"
+      }
+    },
+    {
+      "title": "Anında kullanım buhar sterilizasyonu",
+      "text": "Flash / immediate-use steam sterilization\nMalzemenin bekletilip depolanması yerine **hemen kullanım** amacıyla yapılan buhar sterilizasyonu. İngilizce IUSS kısaltmasıyla anılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0zwmdt6",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Anında kullanım buhar sterilizasyonu",
+        "definition": "Malzemenin bekletilip depolanması yerine **hemen kullanım** amacıyla yapılan buhar sterilizasyonu. İngilizce IUSS kısaltmasıyla anılır.",
+        "en": "Flash / immediate-use steam sterilization"
+      }
+    },
+    {
+      "title": "Kuru ısı sterilizasyonu",
+      "text": "Dry-heat sterilization\nYüksek sıcaklıktaki havayla, hücre bileşenlerinin oksidasyonu üzerinden sterilizasyon sağlayan yöntem. Isıya dayanıklı toz ve yağlar için kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0p9imo2",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kuru ısı sterilizasyonu",
+        "definition": "Yüksek sıcaklıktaki havayla, hücre bileşenlerinin oksidasyonu üzerinden sterilizasyon sağlayan yöntem. Isıya dayanıklı toz ve yağlar için kullanılabilir.",
+        "en": "Dry-heat sterilization"
+      }
+    },
+    {
+      "title": "Statik hava sterilizatörü",
+      "text": "Static-air sterilizer\nIsınan havanın doğal konveksiyonla dolaştığı kuru ısı cihazı. Zorlamalı havaya göre ısı aktarımı daha yavaş ve düzensizdir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0fg9x3i",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Statik hava sterilizatörü",
+        "definition": "Isınan havanın doğal konveksiyonla dolaştığı kuru ısı cihazı. Zorlamalı havaya göre ısı aktarımı daha yavaş ve düzensizdir.",
+        "en": "Static-air sterilizer"
+      }
+    },
+    {
+      "title": "Zorlamalı hava sterilizatörü",
+      "text": "Forced-air sterilizer\nIsınan havanın fanla dolaştırıldığı kuru ısı cihazı. Mekanik konveksiyon ısının yüke aktarılmasını hızlandırır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0r4klrd",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Zorlamalı hava sterilizatörü",
+        "definition": "Isınan havanın fanla dolaştırıldığı kuru ısı cihazı. Mekanik konveksiyon ısının yüke aktarılmasını hızlandırır.",
+        "en": "Forced-air sterilizer"
+      }
+    },
+    {
+      "title": "Islak paket",
+      "text": "Wet pack\nDöngü sonunda paket/tepsi içinde nem kalması; kontamine sayılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0xp4zwe",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Islak paket",
+        "definition": "Döngü sonunda paket/tepsi içinde nem kalması; kontamine sayılır.",
+        "en": "Wet pack"
+      }
+    },
+    {
+      "title": "Cam boncuk cihazı",
+      "text": "Glass bead sterilizer\nIsıtılmış cam boncuklarla küçük aletlerin işlenmesini amaçlayan cihaz. CDC kılavuzu, başarısızlık riski nedeniyle FDA onayı olmadan kullanımını önermez.",
+      "images": [],
+      "card": {
+        "id": "PER247-0j8rxuu",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Cam boncuk cihazı",
+        "definition": "Isıtılmış cam boncuklarla küçük aletlerin işlenmesini amaçlayan cihaz. CDC kılavuzu, başarısızlık riski nedeniyle FDA onayı olmadan kullanımını önermez.",
+        "en": "Glass bead sterilizer"
+      }
+    },
+    {
+      "title": "Kuru ısı cihazında hava hareketi",
+      "text": "Statik hava\nDoğal konveksiyonla dolaşım\nIsı aktarımı daha yavaş ve düzensizdir\n\nZorlamalı hava\nFanla mekanik konveksiyon\nIsı aktarımı daha hızlıdır",
+      "images": [],
+      "card": {
+        "id": "PER247-0lhgbax",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kuru ısı cihazında hava hareketi",
+        "left": {
+          "title": "Statik hava",
+          "points": [
+            "Doğal konveksiyonla dolaşım",
+            "Isı aktarımı daha yavaş ve düzensizdir"
+          ]
+        },
+        "right": {
+          "title": "Zorlamalı hava",
+          "points": [
+            "Fanla mekanik konveksiyon",
+            "Isı aktarımı daha hızlıdır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Kuru ısıda süre-sıcaklık ilişkisi",
+      "text": "170 °C örneği\nCDC’de 60 dk maruziyet\nDaha yüksek sıcaklık, daha kısa örnek süre\n\n160 °C örneği\nCDC’de 120 dk maruziyet\nDaha düşük sıcaklık, daha uzun örnek süre",
+      "images": [],
+      "card": {
+        "id": "PER247-0acvvg5",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "compare",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kuru ısıda süre-sıcaklık ilişkisi",
+        "left": {
+          "title": "170 °C örneği",
+          "points": [
+            "CDC’de 60 dk maruziyet",
+            "Daha yüksek sıcaklık, daha kısa örnek süre"
+          ]
+        },
+        "right": {
+          "title": "160 °C örneği",
+          "points": [
+            "CDC’de 120 dk maruziyet",
+            "Daha düşük sıcaklık, daha uzun örnek süre"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Buharın dört parametresi",
+      "text": "Buhar sterilizasyonunun dört temel parametresi **buhar, basınç, sıcaklık ve süredir**. Basınç tek başına mikrop öldürme göstergesi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0rjkikh",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "fact",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Buharın dört parametresi",
+        "body": "Buhar sterilizasyonunun dört temel parametresi **buhar, basınç, sıcaklık ve süredir**. Basınç tek başına mikrop öldürme göstergesi değildir."
+      }
+    },
+    {
+      "title": "Gravite için örnek maruziyet",
+      "text": "CDC’de **sargılı malzeme**, gravite buhar sterilizatöründe **121 °C’de en az 30 dk** maruziyetle işlenir. Bu süre toplam döngü ve kurutma süresi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1m02ojn",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Gravite için örnek maruziyet",
+        "body": "CDC’de **sargılı malzeme**, gravite buhar sterilizatöründe **121 °C’de en az 30 dk** maruziyetle işlenir. Bu süre toplam döngü ve kurutma süresi değildir."
+      }
+    },
+    {
+      "title": "Ön vakum için örnek maruziyet",
+      "text": "CDC’de sargılı malzeme için tanınmış minimum örnek, ön vakumlu cihazda **132 °C’de 4 dk** maruziyettir. Uygun yük ve cihaz talimatıyla değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0kyo8z8",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Ön vakum için örnek maruziyet",
+        "body": "CDC’de sargılı malzeme için tanınmış minimum örnek, ön vakumlu cihazda **132 °C’de 4 dk** maruziyettir. Uygun yük ve cihaz talimatıyla değerlendirilir."
+      }
+    },
+    {
+      "title": "Kuru ısı örnek parametreleri",
+      "text": "CDC kuru ısı için **170 °C–60 dk**, **160 °C–120 dk** veya **150 °C–150 dk** ilişkilerini verir. Ürüne uygun valide döngü ve yük koşulları gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0tnwhvg",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kuru ısı örnek parametreleri",
+        "body": "CDC kuru ısı için **170 °C–60 dk**, **160 °C–120 dk** veya **150 °C–150 dk** ilişkilerini verir. Ürüne uygun valide döngü ve yük koşulları gerekir."
+      }
+    },
+    {
+      "title": "Buharın kuruluk oranı",
+      "text": "CDC, sterilizasyon için ideal buharı **en az %97 kuruluk oranına** sahip kuru doymuş buhar olarak tanımlar. Buhar niteliği yüke ısı aktarımını etkiler.",
+      "images": [],
+      "card": {
+        "id": "PER247-0rn8b3m",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Buharın kuruluk oranı",
+        "body": "CDC, sterilizasyon için ideal buharı **en az %97 kuruluk oranına** sahip kuru doymuş buhar olarak tanımlar. Buhar niteliği yüke ısı aktarımını etkiler."
+      }
+    },
+    {
+      "title": "Gravite otoklavda hava nasıl uzaklaşır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1pbkhnr",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Gravite otoklavda hava nasıl uzaklaşır?",
+        "answer": "Hazneye giren buhar, havayı **alttaki tahliye çıkışına doğru** yer değiştirerek uzaklaştırır. Ön vakumlu cihazda ise hava buhar girişinden önce vakumla çekilir."
+      }
+    },
+    {
+      "title": "Ön vakum gözenekli yükte neden yararlıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-11wmv1e",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Ön vakum gözenekli yükte neden yararlıdır?",
+        "answer": "Havanın önceden uzaklaştırılması, buharın **gözenekli yüke hızlı penetrasyonunu** sağlar. Hapsolmuş hava, buhar-yük temasını engelleyebilir."
+      }
+    },
+    {
+      "title": "Anında kullanım sterilizasyonu niçin set tasarrufu yöntemi değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0osvmz4",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Anında kullanım sterilizasyonu niçin set tasarrufu yöntemi değildir?",
+        "answer": "Koruyucu ambalaj ve taşımada steriliteyi koruma sınırlılıkları vardır. CDC, işlemin **kolaylık veya yetersiz set sayısını telafi** amacıyla kullanılmasını önermez."
+      }
+    },
+    {
+      "title": "İmplantta flaş kısıtı",
+      "text": "Sağlık Bakanlığı SKS değerlendirmesi, **implantlarda flaş kullanımını önermez**. CDC’nin kaçınılmaz acil durum istisnası ayrı bağlamdır; kaynaksız tek kural haline getirilmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-0dx4p5v",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "remember",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "İmplantta flaş kısıtı",
+        "body": "Sağlık Bakanlığı SKS değerlendirmesi, **implantlarda flaş kullanımını önermez**. CDC’nin kaçınılmaz acil durum istisnası ayrı bağlamdır; kaynaksız tek kural haline getirilmez."
+      }
+    },
+    {
+      "title": "Aletin sıcaklığı da güvenlik sorunu",
+      "text": "Anında kullanım buhar işleminden çıkan alet **çok sıcak olabilir**; hasta yanıkları bildirilmiştir. Sterilite hedefi, güvenli sunum ve yanık riskinin değerlendirilmesini kaldırmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1yg093o",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Aletin sıcaklığı da güvenlik sorunu",
+        "body": "Anında kullanım buhar işleminden çıkan alet **çok sıcak olabilir**; hasta yanıkları bildirilmiştir. Sterilite hedefi, güvenli sunum ve yanık riskinin değerlendirilmesini kaldırmaz."
+      }
+    },
+    {
+      "title": "Nemli ısı mikrobiyal bileşenleri hangi mekanizmayla etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-06oscnk",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Nemli ısı mikrobiyal bileşenleri hangi mekanizmayla etkiler?",
+        "options": [
+          "Protein ve DNA alkilasyonu",
+          "Protein koagülasyonu ve denatürasyonu",
+          "Hücre bileşenlerinin fiziksel filtrasyonu",
+          "Hücre bileşenlerinin oksidasyonu"
+        ],
+        "correct": 1,
+        "explanation": "Buharın nemli ısısı enzim ve yapısal proteinlerde **geri dönüşümsüz koagülasyon/denatürasyon** oluşturur."
+      }
+    },
+    {
+      "title": "Buharın nüfuz edemediği ısıya dayanıklı yağ/toz için uygun yöntem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1j612mu",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Buharın nüfuz edemediği ısıya dayanıklı yağ/toz için uygun yöntem hangisidir?",
+        "options": [
+          "Alkolle yüzey silme",
+          "Ultrasonla yıkama",
+          "Kuru ısı",
+          "Kuatla kısa temas"
+        ],
+        "correct": 2,
+        "explanation": "Kuru ısı, nemli ısıdan zarar gören veya buharın nüfuz edemediği **yağ ve tozlar** için kullanılabilir."
+      }
+    },
+    {
+      "title": "Buharlı bir yükte havanın uzaklaştırılması neden gerekir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-08810t7",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Buharlı bir yükte havanın uzaklaştırılması neden gerekir?",
+        "options": [
+          "Basınç kaydının yerine geçmek",
+          "Yükün temizlik aşamasını kaldırmak",
+          "Biyolojik indikatörü gereksiz kılmak",
+          "Buharın tüm yüzeylere temasını sağlamak"
+        ],
+        "correct": 3,
+        "explanation": "Hapsolmuş hava, **sterilan buharın yüzeye temasını engeller**. Süre ve sıcaklık kaydı tek başına bütün yüzeylere temas edildiğini göstermez."
+      }
+    },
+    {
+      "title": "Vakum kullanmadan atmosfer üstü buhar ve basınç pulslarıyla havayı uzaklaştıran tip hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1c20uzc",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Vakum kullanmadan atmosfer üstü buhar ve basınç pulslarıyla havayı uzaklaştıran tip hangisidir?",
+        "options": [
+          "Buharla süpürme-basınç puls",
+          "Ön vakumlu buhar",
+          "Statik hava kuru ısı",
+          "Zorlamalı hava kuru ısı"
+        ],
+        "correct": 0,
+        "explanation": "Steam-flush pressure-pulse tipi, **atmosfer basıncının üstündeki buhar/pulslarla** havayı uzaklaştırır; vakum gerekmez."
+      }
+    },
+    {
+      "title": "Anında kullanım sterilizasyonunun uygunsuz gerekçesi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1d79akj",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Anında kullanım sterilizasyonunun uygunsuz gerekçesi hangisidir?",
+        "options": [
+          "Acil düşen tek aleti işlemek",
+          "Planlı set eksikliğini telafi etmek",
+          "Uygun acil işlem ihtiyacını karşılamak",
+          "Valide acil döngüyü uygulamak"
+        ],
+        "correct": 1,
+        "explanation": "CDC, kolaylık veya daha az set satın alma amacıyla flaş/IUSS kullanımını önermez."
+      }
+    },
+    {
+      "title": "Kuru ısı, metal ve keskin aletler için korozif olmayan bir yöntemdir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-03ckdeq",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Kuru ısı, metal ve keskin aletler için korozif olmayan bir yöntemdir.",
+        "isTrue": true,
+        "explanation": "CDC kuru ısının avantajları arasında metal ve keskin aletlerde korozif olmamasını sayar; ısı uyumu ayrıca gerekir."
+      }
+    },
+    {
+      "title": "Buhar sterilizasyonunda basınç, yüksek sıcaklığa ulaşmaktan bağımsız tek öldürücü etkendir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0x1ho06",
+        "course": "PER247",
+        "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Buhar sterilizasyonunda basınç, yüksek sıcaklığa ulaşmaktan bağımsız tek öldürücü etkendir.",
+        "isTrue": false,
+        "explanation": "Basınç, **gereken yüksek sıcaklığa ulaşmanın aracıdır**; nemli ısı proteinleri etkiler."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-1tm0yd4",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Pastörizasyon",
+      "definition": "Isıyla spor dışındaki patojenlerin azaltılması veya inaktive edilmesi. Sporları güvenilir biçimde ortadan kaldıran sterilizasyonla eş anlamlı değildir.",
+      "en": "Pasteurization"
+    },
+    {
+      "id": "PER247-1ccuysb",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Maruziyet süresi",
+      "definition": "Malzemenin işlem için belirlenen sıcaklık ve diğer koşullarda sterilana maruz bırakıldığı süre. Toplam döngü süresiyle aynı değildir.",
+      "en": "Exposure time"
+    },
+    {
+      "id": "PER247-0qrdc4v",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Otoklav",
+      "definition": "Basınçlı doymuş buharla sterilizasyon sağlayan cihaz. Basınç, gereken yüksek sıcaklığa ulaşılmasını sağlar.",
+      "en": "Autoclave"
+    },
+    {
+      "id": "PER247-0hi7hua",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Doymuş buhar",
+      "definition": "Yoğuşma noktasındaki, gizli ısısını yüke bırakan buhar.",
+      "en": "Saturated steam"
+    },
+    {
+      "id": "PER247-1bhw3c9",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Buhar kalitesi",
+      "definition": "Sterilizasyon buharının kuruluk oranı ve yoğuşmayan gazlar gibi özellikleri. Yüke uygun buhar temasını etkiler.",
+      "en": "Dryness fraction / steam quality"
+    },
+    {
+      "id": "PER247-02wl8hi",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yoğuşmayan gaz",
+      "definition": "Sterilizasyon koşullarında yoğuşmayan hava/gaz; buhar temasını engeller.",
+      "en": "Noncondensable gas"
+    },
+    {
+      "id": "PER247-0b2phei",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 1,
+      "source": "WHO 2018",
+      "term": "Bekleme süresi",
+      "definition": "Sterilizasyon yükünün gerekli buhar ve sıcaklık koşullarına maruz kaldığı süre. Isınma ve soğuma aşamalarından ayrıdır.",
+      "en": "Holding time"
+    },
+    {
+      "id": "PER247-0ld7nqs",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Gravite sterilizatör",
+      "definition": "Giren buharın havayı alttaki tahliye deliğinden ittiği buhar sterilizatörü.",
+      "en": "Gravity-displacement sterilizer"
+    },
+    {
+      "id": "PER247-11a815l",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ön vakumlu sterilizatör",
+      "definition": "Döngü başında vakum-basınç dalgalarıyla havayı uzaklaştıran sterilizatör.",
+      "en": "Prevacuum (dynamic air removal) sterilizer"
+    },
+    {
+      "id": "PER247-06llpyl",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Buharla süpürme-basınç puls sterilizatörü",
+      "definition": "Atmosfer basıncının üzerinde tekrarlanan **buharla süpürme ve basınç pulslarıyla** havayı uzaklaştıran yöntem. Vakum gerektirmeyen buhar sterilizasyonudur.",
+      "en": "Steam-flush pressure-pulse sterilizer"
+    },
+    {
+      "id": "PER247-10w293r",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Masaüstü buhar sterilizatörü",
+      "definition": "Kendi buharını üreten küçük hazneli buhar sterilizatörü. İşlenebilecek malzeme türü üretici talimatıyla belirlenir.",
+      "en": "Tabletop steam sterilizer"
+    },
+    {
+      "id": "PER247-0zwmdt6",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Anında kullanım buhar sterilizasyonu",
+      "definition": "Malzemenin bekletilip depolanması yerine **hemen kullanım** amacıyla yapılan buhar sterilizasyonu. İngilizce IUSS kısaltmasıyla anılır.",
+      "en": "Flash / immediate-use steam sterilization"
+    },
+    {
+      "id": "PER247-0p9imo2",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kuru ısı sterilizasyonu",
+      "definition": "Yüksek sıcaklıktaki havayla, hücre bileşenlerinin oksidasyonu üzerinden sterilizasyon sağlayan yöntem. Isıya dayanıklı toz ve yağlar için kullanılabilir.",
+      "en": "Dry-heat sterilization"
+    },
+    {
+      "id": "PER247-0fg9x3i",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Statik hava sterilizatörü",
+      "definition": "Isınan havanın doğal konveksiyonla dolaştığı kuru ısı cihazı. Zorlamalı havaya göre ısı aktarımı daha yavaş ve düzensizdir.",
+      "en": "Static-air sterilizer"
+    },
+    {
+      "id": "PER247-0r4klrd",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Zorlamalı hava sterilizatörü",
+      "definition": "Isınan havanın fanla dolaştırıldığı kuru ısı cihazı. Mekanik konveksiyon ısının yüke aktarılmasını hızlandırır.",
+      "en": "Forced-air sterilizer"
+    },
+    {
+      "id": "PER247-0xp4zwe",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Islak paket",
+      "definition": "Döngü sonunda paket/tepsi içinde nem kalması; kontamine sayılır.",
+      "en": "Wet pack"
+    },
+    {
+      "id": "PER247-0j8rxuu",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Cam boncuk cihazı",
+      "definition": "Isıtılmış cam boncuklarla küçük aletlerin işlenmesini amaçlayan cihaz. CDC kılavuzu, başarısızlık riski nedeniyle FDA onayı olmadan kullanımını önermez.",
+      "en": "Glass bead sterilizer"
+    },
+    {
+      "id": "PER247-0lhgbax",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuru ısı cihazında hava hareketi",
+      "left": {
+        "title": "Statik hava",
+        "points": [
+          "Doğal konveksiyonla dolaşım",
+          "Isı aktarımı daha yavaş ve düzensizdir"
+        ]
+      },
+      "right": {
+        "title": "Zorlamalı hava",
+        "points": [
+          "Fanla mekanik konveksiyon",
+          "Isı aktarımı daha hızlıdır"
+        ]
+      }
+    },
+    {
+      "id": "PER247-0acvvg5",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuru ısıda süre-sıcaklık ilişkisi",
+      "left": {
+        "title": "170 °C örneği",
+        "points": [
+          "CDC’de 60 dk maruziyet",
+          "Daha yüksek sıcaklık, daha kısa örnek süre"
+        ]
+      },
+      "right": {
+        "title": "160 °C örneği",
+        "points": [
+          "CDC’de 120 dk maruziyet",
+          "Daha düşük sıcaklık, daha uzun örnek süre"
+        ]
+      }
+    },
+    {
+      "id": "PER247-0rjkikh",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Buharın dört parametresi",
+      "body": "Buhar sterilizasyonunun dört temel parametresi **buhar, basınç, sıcaklık ve süredir**. Basınç tek başına mikrop öldürme göstergesi değildir."
+    },
+    {
+      "id": "PER247-1m02ojn",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Gravite için örnek maruziyet",
+      "body": "CDC’de **sargılı malzeme**, gravite buhar sterilizatöründe **121 °C’de en az 30 dk** maruziyetle işlenir. Bu süre toplam döngü ve kurutma süresi değildir."
+    },
+    {
+      "id": "PER247-0kyo8z8",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Ön vakum için örnek maruziyet",
+      "body": "CDC’de sargılı malzeme için tanınmış minimum örnek, ön vakumlu cihazda **132 °C’de 4 dk** maruziyettir. Uygun yük ve cihaz talimatıyla değerlendirilir."
+    },
+    {
+      "id": "PER247-0tnwhvg",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuru ısı örnek parametreleri",
+      "body": "CDC kuru ısı için **170 °C–60 dk**, **160 °C–120 dk** veya **150 °C–150 dk** ilişkilerini verir. Ürüne uygun valide döngü ve yük koşulları gerekir."
+    },
+    {
+      "id": "PER247-0rn8b3m",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Buharın kuruluk oranı",
+      "body": "CDC, sterilizasyon için ideal buharı **en az %97 kuruluk oranına** sahip kuru doymuş buhar olarak tanımlar. Buhar niteliği yüke ısı aktarımını etkiler."
+    },
+    {
+      "id": "PER247-1pbkhnr",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Gravite otoklavda hava nasıl uzaklaşır?",
+      "answer": "Hazneye giren buhar, havayı **alttaki tahliye çıkışına doğru** yer değiştirerek uzaklaştırır. Ön vakumlu cihazda ise hava buhar girişinden önce vakumla çekilir."
+    },
+    {
+      "id": "PER247-11wmv1e",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ön vakum gözenekli yükte neden yararlıdır?",
+      "answer": "Havanın önceden uzaklaştırılması, buharın **gözenekli yüke hızlı penetrasyonunu** sağlar. Hapsolmuş hava, buhar-yük temasını engelleyebilir."
+    },
+    {
+      "id": "PER247-0osvmz4",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Anında kullanım sterilizasyonu niçin set tasarrufu yöntemi değildir?",
+      "answer": "Koruyucu ambalaj ve taşımada steriliteyi koruma sınırlılıkları vardır. CDC, işlemin **kolaylık veya yetersiz set sayısını telafi** amacıyla kullanılmasını önermez."
+    },
+    {
+      "id": "PER247-0dx4p5v",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "remember",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "İmplantta flaş kısıtı",
+      "body": "Sağlık Bakanlığı SKS değerlendirmesi, **implantlarda flaş kullanımını önermez**. CDC’nin kaçınılmaz acil durum istisnası ayrı bağlamdır; kaynaksız tek kural haline getirilmez."
+    },
+    {
+      "id": "PER247-1yg093o",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Aletin sıcaklığı da güvenlik sorunu",
+      "body": "Anında kullanım buhar işleminden çıkan alet **çok sıcak olabilir**; hasta yanıkları bildirilmiştir. Sterilite hedefi, güvenli sunum ve yanık riskinin değerlendirilmesini kaldırmaz."
+    },
+    {
+      "id": "PER247-06oscnk",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Nemli ısı mikrobiyal bileşenleri hangi mekanizmayla etkiler?",
+      "options": [
+        "Protein ve DNA alkilasyonu",
+        "Protein koagülasyonu ve denatürasyonu",
+        "Hücre bileşenlerinin fiziksel filtrasyonu",
+        "Hücre bileşenlerinin oksidasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Buharın nemli ısısı enzim ve yapısal proteinlerde **geri dönüşümsüz koagülasyon/denatürasyon** oluşturur."
+    },
+    {
+      "id": "PER247-1j612mu",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Buharın nüfuz edemediği ısıya dayanıklı yağ/toz için uygun yöntem hangisidir?",
+      "options": [
+        "Alkolle yüzey silme",
+        "Ultrasonla yıkama",
+        "Kuru ısı",
+        "Kuatla kısa temas"
+      ],
+      "correct": 2,
+      "explanation": "Kuru ısı, nemli ısıdan zarar gören veya buharın nüfuz edemediği **yağ ve tozlar** için kullanılabilir."
+    },
+    {
+      "id": "PER247-08810t7",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Buharlı bir yükte havanın uzaklaştırılması neden gerekir?",
+      "options": [
+        "Basınç kaydının yerine geçmek",
+        "Yükün temizlik aşamasını kaldırmak",
+        "Biyolojik indikatörü gereksiz kılmak",
+        "Buharın tüm yüzeylere temasını sağlamak"
+      ],
+      "correct": 3,
+      "explanation": "Hapsolmuş hava, **sterilan buharın yüzeye temasını engeller**. Süre ve sıcaklık kaydı tek başına bütün yüzeylere temas edildiğini göstermez."
+    },
+    {
+      "id": "PER247-1c20uzc",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Vakum kullanmadan atmosfer üstü buhar ve basınç pulslarıyla havayı uzaklaştıran tip hangisidir?",
+      "options": [
+        "Buharla süpürme-basınç puls",
+        "Ön vakumlu buhar",
+        "Statik hava kuru ısı",
+        "Zorlamalı hava kuru ısı"
+      ],
+      "correct": 0,
+      "explanation": "Steam-flush pressure-pulse tipi, **atmosfer basıncının üstündeki buhar/pulslarla** havayı uzaklaştırır; vakum gerekmez."
+    },
+    {
+      "id": "PER247-1d79akj",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Anında kullanım sterilizasyonunun uygunsuz gerekçesi hangisidir?",
+      "options": [
+        "Acil düşen tek aleti işlemek",
+        "Planlı set eksikliğini telafi etmek",
+        "Uygun acil işlem ihtiyacını karşılamak",
+        "Valide acil döngüyü uygulamak"
+      ],
+      "correct": 1,
+      "explanation": "CDC, kolaylık veya daha az set satın alma amacıyla flaş/IUSS kullanımını önermez."
+    },
+    {
+      "id": "PER247-03ckdeq",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Kuru ısı, metal ve keskin aletler için korozif olmayan bir yöntemdir.",
+      "isTrue": true,
+      "explanation": "CDC kuru ısının avantajları arasında metal ve keskin aletlerde korozif olmamasını sayar; ısı uyumu ayrıca gerekir."
+    },
+    {
+      "id": "PER247-0x1ho06",
+      "course": "PER247",
+      "topic": "Buhar, flaş ve kuru ısı sterilizasyonu",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Buhar sterilizasyonunda basınç, yüksek sıcaklığa ulaşmaktan bağımsız tek öldürücü etkendir.",
+      "isTrue": false,
+      "explanation": "Basınç, **gereken yüksek sıcaklığa ulaşmanın aracıdır**; nemli ısı proteinleri etkiler."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

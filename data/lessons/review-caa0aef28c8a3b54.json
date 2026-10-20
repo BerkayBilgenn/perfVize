@@ -1,0 +1,566 @@
+{
+  "id": "review-caa0aef28c8a3b54",
+  "title": "Büyük damarlar ve varyasyonları",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Aort istmusu",
+      "text": "Aortic isthmus\nSol subklavyen çıkışı ile duktus/ligamentum arteriyozum arasındaki aort segmenti; koarktasyonun tipik yeri.\nYun. isthmos = dar geçit",
+      "images": [],
+      "card": {
+        "id": "PER241-0wrqwsx",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Aort istmusu",
+        "en": "Aortic isthmus",
+        "definition": "Sol subklavyen çıkışı ile duktus/ligamentum arteriyozum arasındaki aort segmenti; koarktasyonun tipik yeri.",
+        "origin": "Yun. isthmos = dar geçit"
+      }
+    },
+    {
+      "title": "Brakiyosefalik trunkus",
+      "text": "Brachiocephalic trunk\nArkusun ilk dalı; sağ subklavyen ve sağ ana karotise ayrılır.\nYun. brakhion = kol + kephale = baş",
+      "images": [],
+      "card": {
+        "id": "PER241-1b3sidx",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Brakiyosefalik trunkus",
+        "en": "Brachiocephalic trunk",
+        "definition": "Arkusun ilk dalı; sağ subklavyen ve sağ ana karotise ayrılır.",
+        "origin": "Yun. brakhion = kol + kephale = baş"
+      }
+    },
+    {
+      "title": "Ligamentum arteriyozum",
+      "text": "Ligamentum arteriosum\nFetal duktus arteriyozusun doğum sonrasındaki fibröz kalıntısı.\nLat. ligare = bağlamak",
+      "images": [],
+      "card": {
+        "id": "PER241-0uoyp0j",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Ligamentum arteriyozum",
+        "en": "Ligamentum arteriosum",
+        "definition": "Fetal duktus arteriyozusun doğum sonrasındaki fibröz kalıntısı.",
+        "origin": "Lat. ligare = bağlamak"
+      }
+    },
+    {
+      "title": "Persistan sol VCS",
+      "text": "Persistent left superior vena cava\nEmbriyonik sol ön kardinal venin kalıcı olmasıyla oluşan venöz varyasyon. Genellikle koroner sinüse açılır; kanülasyon ve retrograd kardiyoplejiyi etkiler.",
+      "images": [],
+      "card": {
+        "id": "PER241-1oila1u",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Persistan sol VCS",
+        "en": "Persistent left superior vena cava",
+        "definition": "Embriyonik sol ön kardinal venin kalıcı olmasıyla oluşan venöz varyasyon. Genellikle koroner sinüse açılır; kanülasyon ve retrograd kardiyoplejiyi etkiler."
+      }
+    },
+    {
+      "title": "Bovin ark",
+      "text": "Bovine arch\nBrakiyosefalik trunkus ile sol ana karotisin ortak çıkış gösterdiği aortik ark varyasyonu.\nLat. bos = sığır",
+      "images": [],
+      "card": {
+        "id": "PER241-11sphr3",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "term",
+        "importance": 1,
+        "source": "Radiopaedia",
+        "term": "Bovin ark",
+        "en": "Bovine arch",
+        "definition": "Brakiyosefalik trunkus ile sol ana karotisin ortak çıkış gösterdiği aortik ark varyasyonu.",
+        "origin": "Lat. bos = sığır"
+      }
+    },
+    {
+      "title": "Arteria lusoria",
+      "text": "Aberrant right subclavian artery\nArkusun son dalı olarak çıkan anormal sağ subklavyen arter.\nLat. lusus naturae = doğanın oyunu",
+      "images": [],
+      "card": {
+        "id": "PER241-1x375ms",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Arteria lusoria",
+        "en": "Aberrant right subclavian artery",
+        "definition": "Arkusun son dalı olarak çıkan anormal sağ subklavyen arter.",
+        "origin": "Lat. lusus naturae = doğanın oyunu"
+      }
+    },
+    {
+      "title": "Pulmoner trunkusun ayrılması",
+      "text": "Sağ ventrikülden çıkan pulmoner trunkus **sağ ve sol pulmoner artere** ayrılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0uqumxp",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Pulmoner trunkusun ayrılması",
+        "body": "Sağ ventrikülden çıkan pulmoner trunkus **sağ ve sol pulmoner artere** ayrılır."
+      }
+    },
+    {
+      "title": "Aortanın anatomik devamlılığı",
+      "text": "Çıkan aortayı **arkus aorta**, ardından inen torasik ve abdominal aorta izler.",
+      "images": [],
+      "card": {
+        "id": "PER241-024ach9",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Aortanın anatomik devamlılığı",
+        "body": "Çıkan aortayı **arkus aorta**, ardından inen torasik ve abdominal aorta izler."
+      }
+    },
+    {
+      "title": "Arkusun dal sırası nasıldır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-127s2ba",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "flip",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Arkusun dal sırası nasıldır?",
+        "answer": "Proksimalden distale **brakiyosefalik trunkus → sol ana karotis → sol subklavyen arter** sıralanır."
+      }
+    },
+    {
+      "title": "Vena kava superior nasıl oluşur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1jbz7ak",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "flip",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Vena kava superior nasıl oluşur?",
+        "answer": "Sağ ve sol **brakiyosefalik venlerin birleşmesiyle** oluşur; azigos ven de bu damara açılır."
+      }
+    },
+    {
+      "title": "Persistan sol VCS'nin cerrahi önemi",
+      "text": "Persistan sol vena kava superior, **venöz kanülasyon ve retrograd kardiyopleji** planını etkileyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1815ooh",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "remember",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "title": "Persistan sol VCS'nin cerrahi önemi",
+        "body": "Persistan sol vena kava superior, **venöz kanülasyon ve retrograd kardiyopleji** planını etkileyebilir."
+      }
+    },
+    {
+      "title": "Persistan sol VCS sol atriyuma açılırsa hangi şant oluşabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1dngt9d",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "flip",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "question": "Persistan sol VCS sol atriyuma açılırsa hangi şant oluşabilir?",
+        "answer": "Persistan sol vena kava superior sol atriyuma açıldığında **sağdan sola şant** oluşabilir."
+      }
+    },
+    {
+      "title": "Vasküler halka",
+      "text": "**Çift aortik ark**, ark varyasyonları arasında vasküler halka oluşturabilen bir anatomik düzenlemedir.",
+      "images": [],
+      "card": {
+        "id": "PER241-148tdyv",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "fact",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "title": "Vasküler halka",
+        "body": "**Çift aortik ark**, ark varyasyonları arasında vasküler halka oluşturabilen bir anatomik düzenlemedir."
+      }
+    },
+    {
+      "title": "Rekürren sinirlerin asimetrisi",
+      "text": "Sol rekürren sinir arkus aortanın, sağ rekürren sinir **sağ subklavyen arterin** altından döner.",
+      "images": [],
+      "card": {
+        "id": "PER241-0pyqh7e",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "fact",
+        "importance": 2,
+        "source": "UNSW Embryology",
+        "title": "Rekürren sinirlerin asimetrisi",
+        "body": "Sol rekürren sinir arkus aortanın, sağ rekürren sinir **sağ subklavyen arterin** altından döner."
+      }
+    },
+    {
+      "title": "Brakiyosefalik trunkus hangi iki artere ayrılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0c93qr8",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Brakiyosefalik trunkus hangi iki artere ayrılır?",
+        "options": [
+          "Sağ subklavyen ve sağ ana karotis",
+          "Sol subklavyen ve sol ana karotis",
+          "Sağ koroner ve sol koroner",
+          "Sağ pulmoner ve sol pulmoner"
+        ],
+        "correct": 0,
+        "explanation": "Arkusun ilk dalı sağ kol ve baş-boyun damarlarına ayrılır."
+      }
+    },
+    {
+      "title": "Arteria lusoria terimi hangi varyasyonu ifade eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0psrjn9",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "question": "Arteria lusoria terimi hangi varyasyonu ifade eder?",
+        "options": [
+          "Persistan sol vena kava superior",
+          "Aberran sağ subklavyen arter",
+          "Sol pulmoner ven atrezisi",
+          "Çift çıkışlı sağ ventrikül"
+        ],
+        "correct": 1,
+        "explanation": "Arteria lusoria, aortik arkın son dalı olarak çıkan anormal sağ subklavyen arterdir."
+      }
+    },
+    {
+      "title": "Persistan sol VCS'nin sık görülen drenaj yeri hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0no01pq",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "question": "Persistan sol VCS'nin sık görülen drenaj yeri hangisidir?",
+        "options": [
+          "Sol ventrikül",
+          "Ana pulmoner arter",
+          "Koroner sinüs",
+          "Aort kökü"
+        ],
+        "correct": 2,
+        "explanation": "Çoğunlukla koroner sinüse açılır; sol atriyuma açılan varyant şant yapabilir."
+      }
+    },
+    {
+      "title": "Pulmoner venler oksijenlenmiş kanı sol atriyuma getirir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-04n3red",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "tf",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "statement": "Pulmoner venler oksijenlenmiş kanı sol atriyuma getirir.",
+        "isTrue": true,
+        "explanation": "Pulmoner dolaşımın venöz dönüşü normal anatomide sol atriyumadır."
+      }
+    },
+    {
+      "title": "Bovin arkta ortak çıkışı sol subklavyen arter ile sağ koroner arter oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1qh5gr1",
+        "course": "PER241",
+        "topic": "Büyük damarlar ve varyasyonları",
+        "type": "tf",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "statement": "Bovin arkta ortak çıkışı sol subklavyen arter ile sağ koroner arter oluşturur.",
+        "isTrue": false,
+        "explanation": "Bovin ark terimi brakiyosefalik trunkus ile sol ana karotisin ortak çıkışını ifade eder."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-0wrqwsx",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Aort istmusu",
+      "en": "Aortic isthmus",
+      "definition": "Sol subklavyen çıkışı ile duktus/ligamentum arteriyozum arasındaki aort segmenti; koarktasyonun tipik yeri.",
+      "origin": "Yun. isthmos = dar geçit"
+    },
+    {
+      "id": "PER241-1b3sidx",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Brakiyosefalik trunkus",
+      "en": "Brachiocephalic trunk",
+      "definition": "Arkusun ilk dalı; sağ subklavyen ve sağ ana karotise ayrılır.",
+      "origin": "Yun. brakhion = kol + kephale = baş"
+    },
+    {
+      "id": "PER241-0uoyp0j",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Ligamentum arteriyozum",
+      "en": "Ligamentum arteriosum",
+      "definition": "Fetal duktus arteriyozusun doğum sonrasındaki fibröz kalıntısı.",
+      "origin": "Lat. ligare = bağlamak"
+    },
+    {
+      "id": "PER241-1oila1u",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Persistan sol VCS",
+      "en": "Persistent left superior vena cava",
+      "definition": "Embriyonik sol ön kardinal venin kalıcı olmasıyla oluşan venöz varyasyon. Genellikle koroner sinüse açılır; kanülasyon ve retrograd kardiyoplejiyi etkiler."
+    },
+    {
+      "id": "PER241-11sphr3",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "term",
+      "importance": 1,
+      "source": "Radiopaedia",
+      "term": "Bovin ark",
+      "en": "Bovine arch",
+      "definition": "Brakiyosefalik trunkus ile sol ana karotisin ortak çıkış gösterdiği aortik ark varyasyonu.",
+      "origin": "Lat. bos = sığır"
+    },
+    {
+      "id": "PER241-1x375ms",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Arteria lusoria",
+      "en": "Aberrant right subclavian artery",
+      "definition": "Arkusun son dalı olarak çıkan anormal sağ subklavyen arter.",
+      "origin": "Lat. lusus naturae = doğanın oyunu"
+    },
+    {
+      "id": "PER241-0uqumxp",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Pulmoner trunkusun ayrılması",
+      "body": "Sağ ventrikülden çıkan pulmoner trunkus **sağ ve sol pulmoner artere** ayrılır."
+    },
+    {
+      "id": "PER241-024ach9",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Aortanın anatomik devamlılığı",
+      "body": "Çıkan aortayı **arkus aorta**, ardından inen torasik ve abdominal aorta izler."
+    },
+    {
+      "id": "PER241-127s2ba",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Arkusun dal sırası nasıldır?",
+      "answer": "Proksimalden distale **brakiyosefalik trunkus → sol ana karotis → sol subklavyen arter** sıralanır."
+    },
+    {
+      "id": "PER241-1jbz7ak",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Vena kava superior nasıl oluşur?",
+      "answer": "Sağ ve sol **brakiyosefalik venlerin birleşmesiyle** oluşur; azigos ven de bu damara açılır."
+    },
+    {
+      "id": "PER241-1815ooh",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "remember",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "title": "Persistan sol VCS'nin cerrahi önemi",
+      "body": "Persistan sol vena kava superior, **venöz kanülasyon ve retrograd kardiyopleji** planını etkileyebilir."
+    },
+    {
+      "id": "PER241-1dngt9d",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "flip",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Persistan sol VCS sol atriyuma açılırsa hangi şant oluşabilir?",
+      "answer": "Persistan sol vena kava superior sol atriyuma açıldığında **sağdan sola şant** oluşabilir."
+    },
+    {
+      "id": "PER241-148tdyv",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Vasküler halka",
+      "body": "**Çift aortik ark**, ark varyasyonları arasında vasküler halka oluşturabilen bir anatomik düzenlemedir."
+    },
+    {
+      "id": "PER241-0pyqh7e",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "fact",
+      "importance": 2,
+      "source": "UNSW Embryology",
+      "title": "Rekürren sinirlerin asimetrisi",
+      "body": "Sol rekürren sinir arkus aortanın, sağ rekürren sinir **sağ subklavyen arterin** altından döner."
+    },
+    {
+      "id": "PER241-0c93qr8",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Brakiyosefalik trunkus hangi iki artere ayrılır?",
+      "options": [
+        "Sağ subklavyen ve sağ ana karotis",
+        "Sol subklavyen ve sol ana karotis",
+        "Sağ koroner ve sol koroner",
+        "Sağ pulmoner ve sol pulmoner"
+      ],
+      "correct": 0,
+      "explanation": "Arkusun ilk dalı sağ kol ve baş-boyun damarlarına ayrılır."
+    },
+    {
+      "id": "PER241-0psrjn9",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Arteria lusoria terimi hangi varyasyonu ifade eder?",
+      "options": [
+        "Persistan sol vena kava superior",
+        "Aberran sağ subklavyen arter",
+        "Sol pulmoner ven atrezisi",
+        "Çift çıkışlı sağ ventrikül"
+      ],
+      "correct": 1,
+      "explanation": "Arteria lusoria, aortik arkın son dalı olarak çıkan anormal sağ subklavyen arterdir."
+    },
+    {
+      "id": "PER241-0no01pq",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "Persistan sol VCS'nin sık görülen drenaj yeri hangisidir?",
+      "options": [
+        "Sol ventrikül",
+        "Ana pulmoner arter",
+        "Koroner sinüs",
+        "Aort kökü"
+      ],
+      "correct": 2,
+      "explanation": "Çoğunlukla koroner sinüse açılır; sol atriyuma açılan varyant şant yapabilir."
+    },
+    {
+      "id": "PER241-04n3red",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Pulmoner venler oksijenlenmiş kanı sol atriyuma getirir.",
+      "isTrue": true,
+      "explanation": "Pulmoner dolaşımın venöz dönüşü normal anatomide sol atriyumadır."
+    },
+    {
+      "id": "PER241-1qh5gr1",
+      "course": "PER241",
+      "topic": "Büyük damarlar ve varyasyonları",
+      "type": "tf",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "statement": "Bovin arkta ortak çıkışı sol subklavyen arter ile sağ koroner arter oluşturur.",
+      "isTrue": false,
+      "explanation": "Bovin ark terimi brakiyosefalik trunkus ile sol ana karotisin ortak çıkışını ifade eder."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

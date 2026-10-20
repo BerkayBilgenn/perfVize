@@ -1,0 +1,779 @@
+{
+  "id": "review-4e32bd43228c091a",
+  "title": "Ameliyathane ortamı",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Pozitif basınç",
+      "text": "Positive pressure\nHavanın odadan dışarı (hastadan koridora) aktığı basınç farkı (ameliyathane).",
+      "images": [],
+      "card": {
+        "id": "PER247-01j446a",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "term": "Pozitif basınç",
+        "definition": "Havanın odadan dışarı (hastadan koridora) aktığı basınç farkı (ameliyathane).",
+        "en": "Positive pressure"
+      }
+    },
+    {
+      "title": "Saatlik hava değişimi",
+      "text": "Air changes per hour (ACH)\nOda havasının bir saatte değiştirilme sayısı.",
+      "images": [],
+      "card": {
+        "id": "PER247-0s8gzvf",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "term": "Saatlik hava değişimi",
+        "definition": "Oda havasının bir saatte değiştirilme sayısı.",
+        "en": "Air changes per hour (ACH)"
+      }
+    },
+    {
+      "title": "Cerrahi kıyafet",
+      "text": "Surgical attire\nAmeliyathane içi kullanım için ayrılmış, sağlık kuruluşunun onayladığı **temiz cerrahi çalışma giysisi**. Children’s Wisconsin politikasında yarı kısıtlı ve kısıtlı alanlara girerken giyilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-06o27jm",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Cerrahi kıyafet",
+        "definition": "Ameliyathane içi kullanım için ayrılmış, sağlık kuruluşunun onayladığı **temiz cerrahi çalışma giysisi**. Children’s Wisconsin politikasında yarı kısıtlı ve kısıtlı alanlara girerken giyilir.",
+        "en": "Surgical attire"
+      }
+    },
+    {
+      "title": "Geçiş alanı",
+      "text": "Transition area\nSokak kıyafetiyle girilip cerrahi kıyafetle çıkılan alan (soyunma odası).",
+      "images": [],
+      "card": {
+        "id": "PER247-0nnpjnb",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 1,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Geçiş alanı",
+        "definition": "Sokak kıyafetiyle girilip cerrahi kıyafetle çıkılan alan (soyunma odası).",
+        "en": "Transition area"
+      }
+    },
+    {
+      "title": "Yarı kısıtlı alan",
+      "text": "Semi-restricted area\nAmeliyathanenin temiz/steril depolar, işleme odaları, cerrahi el yıkama istasyonları ve kısıtlı alana giden koridorlar gibi **destek bölümü**. ISID rehberinde yetkili personel ve hastayla sınırlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0dn4slt",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "ISID Ameliyathane 2018",
+        "term": "Yarı kısıtlı alan",
+        "definition": "Ameliyathanenin temiz/steril depolar, işleme odaları, cerrahi el yıkama istasyonları ve kısıtlı alana giden koridorlar gibi **destek bölümü**. ISID rehberinde yetkili personel ve hastayla sınırlıdır.",
+        "en": "Semi-restricted area"
+      }
+    },
+    {
+      "title": "Kısıtlı alan",
+      "text": "Restricted area\nAmeliyat odaları ve temiz çekirdeği kapsayan, yüksek asepsi kontrolü hedefleyen bölüm. ISID rehberinde açık steril malzeme veya steril ekip varlığında cerrahi kıyafet, başlık ve maske gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1w3s26u",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "ISID Ameliyathane 2018",
+        "term": "Kısıtlı alan",
+        "definition": "Ameliyat odaları ve temiz çekirdeği kapsayan, yüksek asepsi kontrolü hedefleyen bölüm. ISID rehberinde açık steril malzeme veya steril ekip varlığında cerrahi kıyafet, başlık ve maske gerekir.",
+        "en": "Restricted area"
+      }
+    },
+    {
+      "title": "HEPA filtre",
+      "text": "High-efficiency particulate air filter\nYüksek etkinlikli partikül tutucu hava filtresi. CDC tanımında **0,3 µm** çaplı partiküller için en az **%99,97** etkinlik belirtilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-16bve8r",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "term": "HEPA filtre",
+        "definition": "Yüksek etkinlikli partikül tutucu hava filtresi. CDC tanımında **0,3 µm** çaplı partiküller için en az **%99,97** etkinlik belirtilir.",
+        "en": "High-efficiency particulate air filter"
+      }
+    },
+    {
+      "title": "Laminer hava akımı",
+      "text": "Laminar airflow\nFiltre edilmiş havanın cerrahi alan üzerinden yaklaşık sabit hız ve tek yönde akmasını sağlayan sistem.",
+      "images": [],
+      "card": {
+        "id": "PER247-1h28p3g",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "term": "Laminer hava akımı",
+        "definition": "Filtre edilmiş havanın cerrahi alan üzerinden yaklaşık sabit hız ve tek yönde akmasını sağlayan sistem.",
+        "en": "Laminar airflow"
+      }
+    },
+    {
+      "title": "Ultra temiz hava",
+      "text": "Ultraclean air\nYüksek etkinlikli filtrasyon ve uygun hava akışıyla partikül yükü çok düşürülmüş hava.",
+      "images": [],
+      "card": {
+        "id": "PER247-0uaa3pu",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "term": "Ultra temiz hava",
+        "definition": "Yüksek etkinlikli filtrasyon ve uygun hava akışıyla partikül yükü çok düşürülmüş hava.",
+        "en": "Ultraclean air"
+      }
+    },
+    {
+      "title": "Cerrahi maske",
+      "text": "Surgical mask\nAğız ve burnu örten, büyük damlacıklar ve sıvı sıçramalarına karşı bariyer sağlayan maske. Solunum koruyucuyla aynı koruma amacı taşımaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1seekvc",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Cerrahi maske",
+        "definition": "Ağız ve burnu örten, büyük damlacıklar ve sıvı sıçramalarına karşı bariyer sağlayan maske. Solunum koruyucuyla aynı koruma amacı taşımaz.",
+        "en": "Surgical mask"
+      }
+    },
+    {
+      "title": "Filtrasyon ve basınç farkı",
+      "text": "Hava filtrasyonu\nHavadaki partikülleri uzaklaştırır\nHEPA gibi filtrelerle hava niteliği kontrol edilir\n\nOda basınç farkı\nHavanın odalar arasındaki yönünü belirler\nPozitif/negatif ilişki çevreye göre tanımlanır",
+      "images": [],
+      "card": {
+        "id": "PER247-1f14i53",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "title": "Filtrasyon ve basınç farkı",
+        "left": {
+          "title": "Hava filtrasyonu",
+          "points": [
+            "Havadaki partikülleri uzaklaştırır",
+            "HEPA gibi filtrelerle hava niteliği kontrol edilir"
+          ]
+        },
+        "right": {
+          "title": "Oda basınç farkı",
+          "points": [
+            "Havanın odalar arasındaki yönünü belirler",
+            "Pozitif/negatif ilişki çevreye göre tanımlanır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Ameliyathane hava akışı",
+      "text": "CDC’ye göre ameliyat odası komşu alanlara göre **pozitif basınçlıdır**. Bu, koridordaki daha az temiz havanın odaya girmesini sınırlar.",
+      "images": [],
+      "card": {
+        "id": "PER247-06vi3vb",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "title": "Ameliyathane hava akışı",
+        "body": "CDC’ye göre ameliyat odası komşu alanlara göre **pozitif basınçlıdır**. Bu, koridordaki daha az temiz havanın odaya girmesini sınırlar."
+      }
+    },
+    {
+      "title": "CDC’nin hava değişimi örneği",
+      "text": "CDC 2003, ameliyat odasında **saatte en az 15 toplam**, **en az 3 dış hava değişimi** belirtir. WHO ve başka mühendislik standartları farklı sayılar verir; tek evrensel eşik değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1e34jjk",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "title": "CDC’nin hava değişimi örneği",
+        "body": "CDC 2003, ameliyat odasında **saatte en az 15 toplam**, **en az 3 dış hava değişimi** belirtir. WHO ve başka mühendislik standartları farklı sayılar verir; tek evrensel eşik değildir."
+      }
+    },
+    {
+      "title": "Besleme ve egzoz konumu",
+      "text": "Standart ameliyathane düzeninde hava **tavandan verilip zemine yakın** çıkışlardan uzaklaştırılır. Hava dağıtımı, temiz alanı koruyacak biçimde planlanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0n9r8x2",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "title": "Besleme ve egzoz konumu",
+        "body": "Standart ameliyathane düzeninde hava **tavandan verilip zemine yakın** çıkışlardan uzaklaştırılır. Hava dağıtımı, temiz alanı koruyacak biçimde planlanır."
+      }
+    },
+    {
+      "title": "Maske ağız ve burnu örter",
+      "text": "Children’s Wisconsin politikasında cerrahi maske **ağız ve burnu tamamen örter**; ıslandığında değiştirilir. Maske boyunda sarkıtılarak kullanılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ibz6oe",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "fact",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "title": "Maske ağız ve burnu örter",
+        "body": "Children’s Wisconsin politikasında cerrahi maske **ağız ve burnu tamamen örter**; ıslandığında değiştirilir. Maske boyunda sarkıtılarak kullanılmaz."
+      }
+    },
+    {
+      "title": "Kapıların kapalı tutulması",
+      "text": "CDC, ameliyat odası kapılarının ekipman, personel veya hasta geçişi dışında **kapalı tutulmasını** önerir. Gereksiz açılma hava akışını ve trafiği bozar.",
+      "images": [],
+      "card": {
+        "id": "PER247-1kksnb0",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "title": "Kapıların kapalı tutulması",
+        "body": "CDC, ameliyat odası kapılarının ekipman, personel veya hasta geçişi dışında **kapalı tutulmasını** önerir. Gereksiz açılma hava akışını ve trafiği bozar."
+      }
+    },
+    {
+      "title": "Yarı kısıtlı alanda saç ve sakal nasıl korunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0wqicm9",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "flip",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "Yarı kısıtlı alanda saç ve sakal nasıl korunur?",
+        "answer": "Cerrahi başlık veya uygun örtüyle **tamamı örtülür**. Başlık, yalnız saçın ön bölümünü kapsayan bir aksesuar değildir."
+      }
+    },
+    {
+      "title": "Havalandırma tasarımı uygun olsa da kapı trafiği niçin değerlendirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0fa9dts",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "question": "Havalandırma tasarımı uygun olsa da kapı trafiği niçin değerlendirilir?",
+        "answer": "Kapı açılması ve **ekip hareketi hava akışını etkileyebilir**. CDC, geçiş için gerekli durumlar dışında kapıları kapalı tutmayı ve odadaki kişi sayısını sınırlamayı önerir."
+      }
+    },
+    {
+      "title": "Ameliyathanede kişi trafiği neden azaltılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-03h8jmm",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "question": "Ameliyathanede kişi trafiği neden azaltılır?",
+        "answer": "Havadaki mikrobiyal yük, **odadaki kişi sayısı ve hareketle** artabilir. Gereksiz giriş-çıkış ve kapı açılması sınırlandırılır."
+      }
+    },
+    {
+      "title": "UV steril alan önlemi değildir",
+      "text": "CDC, cerrahi alan enfeksiyonunu önlemek için ameliyathanede **UV lamba kullanılmasını önermez**. Uygun havalandırma ve temel aseptik uygulamalar korunur.",
+      "images": [],
+      "card": {
+        "id": "PER247-1bd1xg3",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "title": "UV steril alan önlemi değildir",
+        "body": "CDC, cerrahi alan enfeksiyonunu önlemek için ameliyathanede **UV lamba kullanılmasını önermez**. Uygun havalandırma ve temel aseptik uygulamalar korunur."
+      }
+    },
+    {
+      "title": "ISID 2018 rehberinde cerrahi el yıkama istasyonu hangi destek alanındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0hwcqkn",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "mcq",
+        "importance": 2,
+        "source": "ISID Ameliyathane 2018",
+        "question": "ISID 2018 rehberinde cerrahi el yıkama istasyonu hangi destek alanındadır?",
+        "options": [
+          "Kısıtlanmamış giriş alanı",
+          "Kirli atık kabul alanı",
+          "Hasta tuvaleti",
+          "Yarı kısıtlı alan"
+        ],
+        "correct": 3,
+        "explanation": "ISID rehberinin **yarı kısıtlı destek alanları** içinde steril depolar, işleme odaları ve scrub istasyonları bulunur. Bölgeleme kaynağı belirtilerek değerlendirilir."
+      }
+    },
+    {
+      "title": "Ameliyat odasında açık steril malzeme varken hangi kıyafet gerekliliği doğar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1yoxg9y",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "Ameliyat odasında açık steril malzeme varken hangi kıyafet gerekliliği doğar?",
+        "options": [
+          "Cerrahi maske kullanımı",
+          "Sokak kıyafeti kullanımı",
+          "Saç örtüsünün çıkarılması",
+          "Maskenin boyunda taşınması"
+        ],
+        "correct": 0,
+        "explanation": "Kurum politikasında açık steril malzeme veya steril ekip varlığında **maske** gerekir."
+      }
+    },
+    {
+      "title": "Havalandırmadaki HEPA filtrenin temel işi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1f9l8nx",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "question": "Havalandırmadaki HEPA filtrenin temel işi hangisidir?",
+        "options": [
+          "Odaya negatif basınç vermek",
+          "Havadan partikül uzaklaştırmak",
+          "Cerrahi aletleri sterilize etmek",
+          "Steril paketleri kurutmak"
+        ],
+        "correct": 1,
+        "explanation": "HEPA filtrasyon **partikülleri uzaklaştırır**; basınç farkı ve hava yönü ayrı sistem özellikleridir."
+      }
+    },
+    {
+      "title": "CDC’nin CAE’yi önlemek amacıyla önermediği uygulama hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1908hkv",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "question": "CDC’nin CAE’yi önlemek amacıyla önermediği uygulama hangisidir?",
+        "options": [
+          "Uygun hava filtrasyonu",
+          "Kontrollü personel trafiği",
+          "Ameliyathanede UV lamba",
+          "Kapıların kapalı tutulması"
+        ],
+        "correct": 2,
+        "explanation": "CDC, cerrahi alan enfeksiyonunu önlemek için **UV lamba kullanılmasını önermez**."
+      }
+    },
+    {
+      "title": "Ameliyat odasında hava, normal düzenlemede tavandan verilip zemine yakın çıkışlardan uzaklaştırılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1u2z93h",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC Çevresel Enfeksiyon 2003",
+        "statement": "Ameliyat odasında hava, normal düzenlemede tavandan verilip zemine yakın çıkışlardan uzaklaştırılır.",
+        "isTrue": true,
+        "explanation": "CDC havanın bu yönde dağıtılmasını tarif eder; uygun basınç ve filtrasyon da gereklidir."
+      }
+    },
+    {
+      "title": "Cerrahi maske ıslandığında kurum politikası onu boyunda taşıyarak kullanmayı önerir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-06p9xlq",
+        "course": "PER247",
+        "topic": "Ameliyathane ortamı",
+        "type": "tf",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "statement": "Cerrahi maske ıslandığında kurum politikası onu boyunda taşıyarak kullanmayı önerir.",
+        "isTrue": false,
+        "explanation": "Islanan maske **değiştirilir**; ağız-burnu örtecek biçimde kullanılır, boyunda sarkıtılmaz."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-01j446a",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Pozitif basınç",
+      "definition": "Havanın odadan dışarı (hastadan koridora) aktığı basınç farkı (ameliyathane).",
+      "en": "Positive pressure"
+    },
+    {
+      "id": "PER247-0s8gzvf",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Saatlik hava değişimi",
+      "definition": "Oda havasının bir saatte değiştirilme sayısı.",
+      "en": "Air changes per hour (ACH)"
+    },
+    {
+      "id": "PER247-06o27jm",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Cerrahi kıyafet",
+      "definition": "Ameliyathane içi kullanım için ayrılmış, sağlık kuruluşunun onayladığı **temiz cerrahi çalışma giysisi**. Children’s Wisconsin politikasında yarı kısıtlı ve kısıtlı alanlara girerken giyilir.",
+      "en": "Surgical attire"
+    },
+    {
+      "id": "PER247-0nnpjnb",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Geçiş alanı",
+      "definition": "Sokak kıyafetiyle girilip cerrahi kıyafetle çıkılan alan (soyunma odası).",
+      "en": "Transition area"
+    },
+    {
+      "id": "PER247-0dn4slt",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "ISID Ameliyathane 2018",
+      "term": "Yarı kısıtlı alan",
+      "definition": "Ameliyathanenin temiz/steril depolar, işleme odaları, cerrahi el yıkama istasyonları ve kısıtlı alana giden koridorlar gibi **destek bölümü**. ISID rehberinde yetkili personel ve hastayla sınırlıdır.",
+      "en": "Semi-restricted area"
+    },
+    {
+      "id": "PER247-1w3s26u",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "ISID Ameliyathane 2018",
+      "term": "Kısıtlı alan",
+      "definition": "Ameliyat odaları ve temiz çekirdeği kapsayan, yüksek asepsi kontrolü hedefleyen bölüm. ISID rehberinde açık steril malzeme veya steril ekip varlığında cerrahi kıyafet, başlık ve maske gerekir.",
+      "en": "Restricted area"
+    },
+    {
+      "id": "PER247-16bve8r",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "HEPA filtre",
+      "definition": "Yüksek etkinlikli partikül tutucu hava filtresi. CDC tanımında **0,3 µm** çaplı partiküller için en az **%99,97** etkinlik belirtilir.",
+      "en": "High-efficiency particulate air filter"
+    },
+    {
+      "id": "PER247-1h28p3g",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Laminer hava akımı",
+      "definition": "Filtre edilmiş havanın cerrahi alan üzerinden yaklaşık sabit hız ve tek yönde akmasını sağlayan sistem.",
+      "en": "Laminar airflow"
+    },
+    {
+      "id": "PER247-0uaa3pu",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "term": "Ultra temiz hava",
+      "definition": "Yüksek etkinlikli filtrasyon ve uygun hava akışıyla partikül yükü çok düşürülmüş hava.",
+      "en": "Ultraclean air"
+    },
+    {
+      "id": "PER247-1seekvc",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Cerrahi maske",
+      "definition": "Ağız ve burnu örten, büyük damlacıklar ve sıvı sıçramalarına karşı bariyer sağlayan maske. Solunum koruyucuyla aynı koruma amacı taşımaz.",
+      "en": "Surgical mask"
+    },
+    {
+      "id": "PER247-1f14i53",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Filtrasyon ve basınç farkı",
+      "left": {
+        "title": "Hava filtrasyonu",
+        "points": [
+          "Havadaki partikülleri uzaklaştırır",
+          "HEPA gibi filtrelerle hava niteliği kontrol edilir"
+        ]
+      },
+      "right": {
+        "title": "Oda basınç farkı",
+        "points": [
+          "Havanın odalar arasındaki yönünü belirler",
+          "Pozitif/negatif ilişki çevreye göre tanımlanır"
+        ]
+      }
+    },
+    {
+      "id": "PER247-06vi3vb",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Ameliyathane hava akışı",
+      "body": "CDC’ye göre ameliyat odası komşu alanlara göre **pozitif basınçlıdır**. Bu, koridordaki daha az temiz havanın odaya girmesini sınırlar."
+    },
+    {
+      "id": "PER247-1e34jjk",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "CDC’nin hava değişimi örneği",
+      "body": "CDC 2003, ameliyat odasında **saatte en az 15 toplam**, **en az 3 dış hava değişimi** belirtir. WHO ve başka mühendislik standartları farklı sayılar verir; tek evrensel eşik değildir."
+    },
+    {
+      "id": "PER247-0n9r8x2",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Besleme ve egzoz konumu",
+      "body": "Standart ameliyathane düzeninde hava **tavandan verilip zemine yakın** çıkışlardan uzaklaştırılır. Hava dağıtımı, temiz alanı koruyacak biçimde planlanır."
+    },
+    {
+      "id": "PER247-1ibz6oe",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "fact",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Maske ağız ve burnu örter",
+      "body": "Children’s Wisconsin politikasında cerrahi maske **ağız ve burnu tamamen örter**; ıslandığında değiştirilir. Maske boyunda sarkıtılarak kullanılmaz."
+    },
+    {
+      "id": "PER247-1kksnb0",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "Kapıların kapalı tutulması",
+      "body": "CDC, ameliyat odası kapılarının ekipman, personel veya hasta geçişi dışında **kapalı tutulmasını** önerir. Gereksiz açılma hava akışını ve trafiği bozar."
+    },
+    {
+      "id": "PER247-0wqicm9",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "flip",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Yarı kısıtlı alanda saç ve sakal nasıl korunur?",
+      "answer": "Cerrahi başlık veya uygun örtüyle **tamamı örtülür**. Başlık, yalnız saçın ön bölümünü kapsayan bir aksesuar değildir."
+    },
+    {
+      "id": "PER247-0fa9dts",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "Havalandırma tasarımı uygun olsa da kapı trafiği niçin değerlendirilir?",
+      "answer": "Kapı açılması ve **ekip hareketi hava akışını etkileyebilir**. CDC, geçiş için gerekli durumlar dışında kapıları kapalı tutmayı ve odadaki kişi sayısını sınırlamayı önerir."
+    },
+    {
+      "id": "PER247-03h8jmm",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "Ameliyathanede kişi trafiği neden azaltılır?",
+      "answer": "Havadaki mikrobiyal yük, **odadaki kişi sayısı ve hareketle** artabilir. Gereksiz giriş-çıkış ve kapı açılması sınırlandırılır."
+    },
+    {
+      "id": "PER247-1bd1xg3",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "title": "UV steril alan önlemi değildir",
+      "body": "CDC, cerrahi alan enfeksiyonunu önlemek için ameliyathanede **UV lamba kullanılmasını önermez**. Uygun havalandırma ve temel aseptik uygulamalar korunur."
+    },
+    {
+      "id": "PER247-0hwcqkn",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "mcq",
+      "importance": 2,
+      "source": "ISID Ameliyathane 2018",
+      "question": "ISID 2018 rehberinde cerrahi el yıkama istasyonu hangi destek alanındadır?",
+      "options": [
+        "Kısıtlanmamış giriş alanı",
+        "Kirli atık kabul alanı",
+        "Hasta tuvaleti",
+        "Yarı kısıtlı alan"
+      ],
+      "correct": 3,
+      "explanation": "ISID rehberinin **yarı kısıtlı destek alanları** içinde steril depolar, işleme odaları ve scrub istasyonları bulunur. Bölgeleme kaynağı belirtilerek değerlendirilir."
+    },
+    {
+      "id": "PER247-1yoxg9y",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Ameliyat odasında açık steril malzeme varken hangi kıyafet gerekliliği doğar?",
+      "options": [
+        "Cerrahi maske kullanımı",
+        "Sokak kıyafeti kullanımı",
+        "Saç örtüsünün çıkarılması",
+        "Maskenin boyunda taşınması"
+      ],
+      "correct": 0,
+      "explanation": "Kurum politikasında açık steril malzeme veya steril ekip varlığında **maske** gerekir."
+    },
+    {
+      "id": "PER247-1f9l8nx",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "Havalandırmadaki HEPA filtrenin temel işi hangisidir?",
+      "options": [
+        "Odaya negatif basınç vermek",
+        "Havadan partikül uzaklaştırmak",
+        "Cerrahi aletleri sterilize etmek",
+        "Steril paketleri kurutmak"
+      ],
+      "correct": 1,
+      "explanation": "HEPA filtrasyon **partikülleri uzaklaştırır**; basınç farkı ve hava yönü ayrı sistem özellikleridir."
+    },
+    {
+      "id": "PER247-1908hkv",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "question": "CDC’nin CAE’yi önlemek amacıyla önermediği uygulama hangisidir?",
+      "options": [
+        "Uygun hava filtrasyonu",
+        "Kontrollü personel trafiği",
+        "Ameliyathanede UV lamba",
+        "Kapıların kapalı tutulması"
+      ],
+      "correct": 2,
+      "explanation": "CDC, cerrahi alan enfeksiyonunu önlemek için **UV lamba kullanılmasını önermez**."
+    },
+    {
+      "id": "PER247-1u2z93h",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC Çevresel Enfeksiyon 2003",
+      "statement": "Ameliyat odasında hava, normal düzenlemede tavandan verilip zemine yakın çıkışlardan uzaklaştırılır.",
+      "isTrue": true,
+      "explanation": "CDC havanın bu yönde dağıtılmasını tarif eder; uygun basınç ve filtrasyon da gereklidir."
+    },
+    {
+      "id": "PER247-06p9xlq",
+      "course": "PER247",
+      "topic": "Ameliyathane ortamı",
+      "type": "tf",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "statement": "Cerrahi maske ıslandığında kurum politikası onu boyunda taşıyarak kullanmayı önerir.",
+      "isTrue": false,
+      "explanation": "Islanan maske **değiştirilir**; ağız-burnu örtecek biçimde kullanılır, boyunda sarkıtılmaz."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

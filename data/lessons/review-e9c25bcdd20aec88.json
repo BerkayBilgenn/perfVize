@@ -1,0 +1,1003 @@
+{
+  "id": "review-e9c25bcdd20aec88",
+  "title": "ECMO komplikasyonları ve LV venting",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Sol ventrikül distansiyonu",
+      "text": "LV distension\nVA ECMO'da LV'nin boşalamayıp genişlemesi; pulmoner ödem ve trombüs riski.",
+      "images": [],
+      "card": {
+        "id": "PER207-0h1igj0",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Sol ventrikül distansiyonu",
+        "en": "LV distension",
+        "definition": "VA ECMO'da LV'nin boşalamayıp genişlemesi; pulmoner ödem ve trombüs riski.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "LV dekompresyonu",
+      "text": "LV unloading / venting\nLV basınç ve hacminin azaltılması (Impella, İABP, atriyal septostomi, vent kanülü).",
+      "images": [],
+      "card": {
+        "id": "PER207-1lvynik",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "LV dekompresyonu",
+        "en": "LV unloading / venting",
+        "definition": "LV basınç ve hacminin azaltılması (Impella, İABP, atriyal septostomi, vent kanülü).",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Atriyal septostomi",
+      "text": "Atrial septostomy\nAtriyal septumda delik açarak sol atriyumu dekomprese etme (LV venting yöntemi).",
+      "images": [],
+      "card": {
+        "id": "PER207-1ait61u",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 2,
+        "term": "Atriyal septostomi",
+        "en": "Atrial septostomy",
+        "definition": "Atriyal septumda delik açarak sol atriyumu dekomprese etme (LV venting yöntemi).",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Kazara dekanülasyon",
+      "text": "Accidental decannulation\nKanülün istem dışı çıkması; ani kanama, drenajda hava ve basınç kaybıyla hayatı tehdit eder.",
+      "images": [],
+      "card": {
+        "id": "PER207-0aak4hk",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Kazara dekanülasyon",
+        "en": "Accidental decannulation",
+        "definition": "Kanülün istem dışı çıkması; ani kanama, drenajda hava ve basınç kaybıyla hayatı tehdit eder.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hemoliz",
+      "text": "Hemolysis\nEritrosit zarlarının parçalanmasıyla hücre içindeki hemoglobinin plazmaya serbestleşmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1elt6h1",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Hemoliz",
+        "en": "Hemolysis",
+        "definition": "Eritrosit zarlarının parçalanmasıyla hücre içindeki hemoglobinin plazmaya serbestleşmesi.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Plazma serbest hemoglobin",
+      "text": "Plasma free hemoglobin\nEritrositlerin dışında, plazmada bulunan serbest hemoglobin; ekstrakorporeal devrede hemolizin izlem belirtecidir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0k77fmy",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 2,
+        "term": "Plazma serbest hemoglobin",
+        "en": "Plasma free hemoglobin",
+        "definition": "Eritrositlerin dışında, plazmada bulunan serbest hemoglobin; ekstrakorporeal devrede hemolizin izlem belirtecidir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Kavitasyon",
+      "text": "Cavitation\nAşırı negatif basınçta kanda gaz/buhar kabarcığı oluşması; hemoliz ve hava embolisine yol açar.",
+      "images": [],
+      "card": {
+        "id": "PER207-1b37vbm",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 2,
+        "term": "Kavitasyon",
+        "en": "Cavitation",
+        "definition": "Aşırı negatif basınçta kanda gaz/buhar kabarcığı oluşması; hemoliz ve hava embolisine yol açar.",
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Chattering",
+      "text": "Chattering\nDrenaj kanülünün venöz kollapsla ritmik titremesi ve akım dalgalanması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0s4v4ti",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Chattering",
+        "en": "Chattering",
+        "definition": "Drenaj kanülünün venöz kollapsla ritmik titremesi ve akım dalgalanması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Suck-down",
+      "text": "Suck-down\nYetersiz venöz drenajla pompa girişinde emmenin artması ve ECMO akımının aniden düşmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1w7cvvy",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Suck-down",
+        "en": "Suck-down",
+        "definition": "Yetersiz venöz drenajla pompa girişinde emmenin artması ve ECMO akımının aniden düşmesi.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Pompa başı trombozu",
+      "text": "Pump head thrombosis\nSantrifüj pompa haznesinde pıhtı; hemolize yol açar.",
+      "images": [],
+      "card": {
+        "id": "PER207-03c9wpn",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 2,
+        "term": "Pompa başı trombozu",
+        "en": "Pump head thrombosis",
+        "definition": "Santrifüj pompa haznesinde pıhtı; hemolize yol açar.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Oksijenatör yetmezliği",
+      "text": "Oxygenator failure\nPıhtı, plazma sızıntısı vb. ile gaz transferinin bozulması; ΔP artışı, post-oksijenatör PO2 düşüşü.",
+      "images": [],
+      "card": {
+        "id": "PER207-0xeb7wm",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 2,
+        "term": "Oksijenatör yetmezliği",
+        "en": "Oxygenator failure",
+        "definition": "Pıhtı, plazma sızıntısı vb. ile gaz transferinin bozulması; ΔP artışı, post-oksijenatör PO2 düşüşü.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hava embolisi",
+      "text": "Air embolism\nDolaşıma hava girmesi; ECMO devresinin hastaya dönüş tarafındaki hava özellikle tehlikelidir. VA’da dönüş arteriyel, VV’de venözdür.",
+      "images": [],
+      "card": {
+        "id": "PER207-03ufwaz",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Hava embolisi",
+        "en": "Air embolism",
+        "definition": "Dolaşıma hava girmesi; ECMO devresinin hastaya dönüş tarafındaki hava özellikle tehlikelidir. VA’da dönüş arteriyel, VV’de venözdür.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Ekstremite iskemisi",
+      "text": "Limb ischemia\nKan akımının azalması nedeniyle bir kol veya bacakta doku oksijenlenmesinin yetersiz kalması; femoral VA kanülasyonunun önemli riskidir.",
+      "images": [],
+      "card": {
+        "id": "PER207-11h8d04",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Ekstremite iskemisi",
+        "en": "Limb ischemia",
+        "definition": "Kan akımının azalması nedeniyle bir kol veya bacakta doku oksijenlenmesinin yetersiz kalması; femoral VA kanülasyonunun önemli riskidir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Kompartman sendromu",
+      "text": "Compartment syndrome\nKapalı fasya bölmesinde artan basıncın kapiller dolaşımı bozarak kas ve sinirleri tehdit etmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0cr88fk",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 3,
+        "term": "Kompartman sendromu",
+        "en": "Compartment syndrome",
+        "definition": "Kapalı fasya bölmesinde artan basıncın kapiller dolaşımı bozarak kas ve sinirleri tehdit etmesi.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Pnömotoraks",
+      "text": "Pneumothorax\nPlevral boşluğa hava girmesi; akciğerin genişlemesini ve solunum işlevini bozabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0jyuh7d",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "term",
+        "importance": 2,
+        "term": "Pnömotoraks",
+        "en": "Pneumothorax",
+        "definition": "Plevral boşluğa hava girmesi; akciğerin genişlemesini ve solunum işlevini bozabilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Sol kalpte yük ve boşaltma",
+      "text": "Distansiyon\nSol ventrikül dolum basıncı/hacmi artar\nPulmoner ödem ve staz riski doğurur\n\nDekompresyon\nSol kalp basıncı/hacmi azaltılır\nDuvar gerilimi ve stazı azaltmayı amaçlar",
+      "images": [],
+      "card": {
+        "id": "PER207-1t7g3zh",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "compare",
+        "importance": 2,
+        "title": "Sol kalpte yük ve boşaltma",
+        "left": {
+          "title": "Distansiyon",
+          "points": [
+            "Sol ventrikül dolum basıncı/hacmi artar",
+            "Pulmoner ödem ve staz riski doğurur"
+          ]
+        },
+        "right": {
+          "title": "Dekompresyon",
+          "points": [
+            "Sol kalp basıncı/hacmi azaltılır",
+            "Duvar gerilimi ve stazı azaltmayı amaçlar"
+          ]
+        },
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Kanama ve tromboz aynı hastada",
+      "text": "ECMO devresi tromboz riskini artırırken antikoagülasyon ve hemostaz bozuklukları kanama riskini artırır. Bu nedenle iki risk birlikte izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER207-11t5az7",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kanama ve tromboz aynı hastada",
+        "body": "ECMO devresi tromboz riskini artırırken antikoagülasyon ve hemostaz bozuklukları kanama riskini artırır. Bu nedenle iki risk birlikte izlenir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Femoral dönüşün ekstremite etkisi",
+      "text": "Arteriyel kanül damar lümenini daraltarak distal kan akımını azaltabilir. **Distal perfüzyon** ve klinik/doku oksijenasyon izlemi bacak güvenliği için birlikte kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0epkdqw",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "fact",
+        "importance": 2,
+        "title": "Femoral dönüşün ekstremite etkisi",
+        "body": "Arteriyel kanül damar lümenini daraltarak distal kan akımını azaltabilir. **Distal perfüzyon** ve klinik/doku oksijenasyon izlemi bacak güvenliği için birlikte kullanılır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Hemolizin biyolojik etkisi",
+      "text": "Plazmaya çıkan serbest hemoglobin **nitrik oksidi tüketebilir** ve böbrek hasarına katkıda bulunabilir; hemoliz yalnızca laboratuvar anormalliği değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-024jiyz",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hemolizin biyolojik etkisi",
+        "body": "Plazmaya çıkan serbest hemoglobin **nitrik oksidi tüketebilir** ve böbrek hasarına katkıda bulunabilir; hemoliz yalnızca laboratuvar anormalliği değildir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Drenaj kollapsı ve yüksek devir",
+      "text": "Venöz drenaj yetersizken pompa devrini artırmak daha fazla akım sağlamayabilir; aşırı emme, venöz kollaps ve kavitasyon riskini büyütebilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0he7dcu",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "fact",
+        "importance": 2,
+        "title": "Drenaj kollapsı ve yüksek devir",
+        "body": "Venöz drenaj yetersizken pompa devrini artırmak daha fazla akım sağlamayabilir; aşırı emme, venöz kollaps ve kavitasyon riskini büyütebilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Aort kapağı ve staz",
+      "text": "VA ECMO sırasında aort kapağının açılmaması, sol ventrikül ve aort kökünde **kan stazı** ve trombüs oluşumu açısından değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-08genqi",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aort kapağı ve staz",
+        "body": "VA ECMO sırasında aort kapağının açılmaması, sol ventrikül ve aort kökünde **kan stazı** ve trombüs oluşumu açısından değerlendirilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Pulmoner ödem ve LV boşalması",
+      "text": "VA ECMO’da yeni pulmoner ödem, sol kalbin yeterince boşalamadığını düşündürebilir; ekokardiyografiyle ventrikül hacmi ve aort kapağı hareketi incelenir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0z8b2ad",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pulmoner ödem ve LV boşalması",
+        "body": "VA ECMO’da yeni pulmoner ödem, sol kalbin yeterince boşalamadığını düşündürebilir; ekokardiyografiyle ventrikül hacmi ve aort kapağı hareketi incelenir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Sol ventrikülde spontan eko kontrast görülmesi hangi mekanizmayı düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0bjc80v",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "flip",
+        "importance": 3,
+        "question": "Sol ventrikülde spontan eko kontrast görülmesi hangi mekanizmayı düşündürür?",
+        "answer": "Kan akımının yavaşlamasını ve **stazı** düşündürür; VA ECMO’da ventrikül boşalması ve trombüs riski değerlendirilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Atriyal septostomi sol kalp basıncını nasıl azaltabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0maplzi",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "flip",
+        "importance": 3,
+        "question": "Atriyal septostomi sol kalp basıncını nasıl azaltabilir?",
+        "answer": "Sol atriyumdaki kanın sağ atriyuma geçebileceği açıklık oluşturarak **sol atriyal dekompresyon** sağlar.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Drenaj hattı titremesine neden yalnız sıvı eksikliği denmez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1lv6wg5",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "flip",
+        "importance": 3,
+        "question": "Drenaj hattı titremesine neden yalnız sıvı eksikliği denmez?",
+        "answer": "Venöz kollaps; kanül malpozisyonu, drenaj engeli ve aşırı pompa emmesiyle de oluşabilir. Hız, pozisyon ve dolaşım dolumu birlikte değerlendirilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Kazara dekanülasyon acildir",
+      "text": "Kanül çıkması büyük kanama, hava girişi ve perfüzyon kaybı doğurabilir. Kurum acil algoritmasında **hatların güvene alınması ve kanama kontrolü** önceliklidir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1qade8t",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kazara dekanülasyon acildir",
+        "body": "Kanül çıkması büyük kanama, hava girişi ve perfüzyon kaybı doğurabilir. Kurum acil algoritmasında **hatların güvene alınması ve kanama kontrolü** önceliklidir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Kapalı aort kapağını izle",
+      "text": "VA ECMO’da **aort kapağının açılmaması**, LV genişlemesi ve pulmoner ödem sol kalp boşaltma gereksiniminin değerlendirilmesini gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1xldkxg",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kapalı aort kapağını izle",
+        "body": "VA ECMO’da **aort kapağının açılmaması**, LV genişlemesi ve pulmoner ödem sol kalp boşaltma gereksiniminin değerlendirilmesini gerektirir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Femoral VA ECMO hastasında kapalı aort kapağı ve pulmoner ödem birlikte neyi düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0fr3wak",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Femoral VA ECMO hastasında kapalı aort kapağı ve pulmoner ödem birlikte neyi düşündürür?",
+        "options": [
+          "Oksijenatör gaz akımının fazlalığını",
+          "Venöz dönüş kanülünün yokluğunu",
+          "Sol ventrikülün yetersiz boşalmasını",
+          "Sol ventrikülün aşırı hızlı boşalmasını"
+        ],
+        "correct": 2,
+        "explanation": "Kapalı aort kapağı ve pulmoner ödem, art yükle ilişkili sol kalp distansiyonunu düşündürür.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Venöz drenaj kollapsı ve ani akım düşüşünde ilk pompa yaklaşımı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1mkippe",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Venöz drenaj kollapsı ve ani akım düşüşünde ilk pompa yaklaşımı hangisidir?",
+        "options": [
+          "Devri artırıp negatif basıncı büyütmek",
+          "Dönüş hattını daraltıp direnç eklemek",
+          "Gaz akımını artırıp kan akımını zorlamak",
+          "Devri azaltıp drenaj nedenini araştırmak"
+        ],
+        "correct": 3,
+        "explanation": "Devri düşürmek aşırı emme yükünü azaltır; dolum ve kanül pozisyonu ardından değerlendirilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ECMO’da hemoliz şüphesinde hangi ölçüm eritrosit dışına çıkan hemoglobini gösterir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1c7jfpp",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ECMO’da hemoliz şüphesinde hangi ölçüm eritrosit dışına çıkan hemoglobini gösterir?",
+        "options": [
+          "Plazma serbest hemoglobin",
+          "Serum fibrinojen",
+          "Plazma antitrombin",
+          "Serum albumin"
+        ],
+        "correct": 0,
+        "explanation": "Serbest hemoglobin artışı, eritrosit yıkımına bağlı plazmaya salınan Hb’yi gösterir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Kapalı fasya bölmesindeki basınç artışı ekstremite perfüzyonunu bozuyorsa hangi komplikasyon söz konusudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-07y0w81",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Kapalı fasya bölmesindeki basınç artışı ekstremite perfüzyonunu bozuyorsa hangi komplikasyon söz konusudur?",
+        "options": [
+          "Plazma sızıntısı",
+          "Kompartman sendromu",
+          "Diferansiyel hipoksemi",
+          "Resirkülasyon"
+        ],
+        "correct": 1,
+        "explanation": "Kompartman sendromunda artan bölme basıncı kas ve sinir perfüzyonunu tehdit eder.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Femoral VA ECMO’da bacak doku oksijenasyonunu izlemek için hangi yöntem kullanılabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-10g3zcz",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Femoral VA ECMO’da bacak doku oksijenasyonunu izlemek için hangi yöntem kullanılabilir?",
+        "options": [
+          "Anti-Xa",
+          "ACT",
+          "NIRS",
+          "TEG"
+        ],
+        "correct": 2,
+        "explanation": "NIRS doku oksijenasyonunu izler; diğer üç seçenek antikoagülasyon/hemostaz testidir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VA ECMO’da spontan eko kontrast, sol ventrikülde kan stazını düşündürebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1t0ilys",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "tf",
+        "importance": 2,
+        "statement": "VA ECMO’da spontan eko kontrast, sol ventrikülde kan stazını düşündürebilir.",
+        "isTrue": true,
+        "explanation": "Spontan eko kontrast yavaş akımı yansıtır; sol kalbin boşalması ve trombüs riski değerlendirilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Atriyal septostomi sağ atriyum basıncını düşürmek amacıyla sol atriyumu tamamen kapatır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1nxz5b0",
+        "course": "PER207",
+        "topic": "ECMO komplikasyonları ve LV venting",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Atriyal septostomi sağ atriyum basıncını düşürmek amacıyla sol atriyumu tamamen kapatır.",
+        "isTrue": false,
+        "explanation": "Atriyal septostomi septumda açıklık oluşturarak sol atriyumun dekompresyonunu sağlayabilir.",
+        "source": "ELSO VA 2021"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-0h1igj0",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Sol ventrikül distansiyonu",
+      "en": "LV distension",
+      "definition": "VA ECMO'da LV'nin boşalamayıp genişlemesi; pulmoner ödem ve trombüs riski.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1lvynik",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "LV dekompresyonu",
+      "en": "LV unloading / venting",
+      "definition": "LV basınç ve hacminin azaltılması (Impella, İABP, atriyal septostomi, vent kanülü).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1ait61u",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 2,
+      "term": "Atriyal septostomi",
+      "en": "Atrial septostomy",
+      "definition": "Atriyal septumda delik açarak sol atriyumu dekomprese etme (LV venting yöntemi).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0aak4hk",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Kazara dekanülasyon",
+      "en": "Accidental decannulation",
+      "definition": "Kanülün istem dışı çıkması; ani kanama, drenajda hava ve basınç kaybıyla hayatı tehdit eder.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1elt6h1",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Hemoliz",
+      "en": "Hemolysis",
+      "definition": "Eritrosit zarlarının parçalanmasıyla hücre içindeki hemoglobinin plazmaya serbestleşmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0k77fmy",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma serbest hemoglobin",
+      "en": "Plasma free hemoglobin",
+      "definition": "Eritrositlerin dışında, plazmada bulunan serbest hemoglobin; ekstrakorporeal devrede hemolizin izlem belirtecidir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1b37vbm",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 2,
+      "term": "Kavitasyon",
+      "en": "Cavitation",
+      "definition": "Aşırı negatif basınçta kanda gaz/buhar kabarcığı oluşması; hemoliz ve hava embolisine yol açar.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-0s4v4ti",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Chattering",
+      "en": "Chattering",
+      "definition": "Drenaj kanülünün venöz kollapsla ritmik titremesi ve akım dalgalanması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1w7cvvy",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Suck-down",
+      "en": "Suck-down",
+      "definition": "Yetersiz venöz drenajla pompa girişinde emmenin artması ve ECMO akımının aniden düşmesi.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-03c9wpn",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 2,
+      "term": "Pompa başı trombozu",
+      "en": "Pump head thrombosis",
+      "definition": "Santrifüj pompa haznesinde pıhtı; hemolize yol açar.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0xeb7wm",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijenatör yetmezliği",
+      "en": "Oxygenator failure",
+      "definition": "Pıhtı, plazma sızıntısı vb. ile gaz transferinin bozulması; ΔP artışı, post-oksijenatör PO2 düşüşü.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-03ufwaz",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Hava embolisi",
+      "en": "Air embolism",
+      "definition": "Dolaşıma hava girmesi; ECMO devresinin hastaya dönüş tarafındaki hava özellikle tehlikelidir. VA’da dönüş arteriyel, VV’de venözdür.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-11h8d04",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Ekstremite iskemisi",
+      "en": "Limb ischemia",
+      "definition": "Kan akımının azalması nedeniyle bir kol veya bacakta doku oksijenlenmesinin yetersiz kalması; femoral VA kanülasyonunun önemli riskidir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0cr88fk",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 3,
+      "term": "Kompartman sendromu",
+      "en": "Compartment syndrome",
+      "definition": "Kapalı fasya bölmesinde artan basıncın kapiller dolaşımı bozarak kas ve sinirleri tehdit etmesi.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0jyuh7d",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "term",
+      "importance": 2,
+      "term": "Pnömotoraks",
+      "en": "Pneumothorax",
+      "definition": "Plevral boşluğa hava girmesi; akciğerin genişlemesini ve solunum işlevini bozabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1t7g3zh",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "compare",
+      "importance": 2,
+      "title": "Sol kalpte yük ve boşaltma",
+      "left": {
+        "title": "Distansiyon",
+        "points": [
+          "Sol ventrikül dolum basıncı/hacmi artar",
+          "Pulmoner ödem ve staz riski doğurur"
+        ]
+      },
+      "right": {
+        "title": "Dekompresyon",
+        "points": [
+          "Sol kalp basıncı/hacmi azaltılır",
+          "Duvar gerilimi ve stazı azaltmayı amaçlar"
+        ]
+      },
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-11t5az7",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanama ve tromboz aynı hastada",
+      "body": "ECMO devresi tromboz riskini artırırken antikoagülasyon ve hemostaz bozuklukları kanama riskini artırır. Bu nedenle iki risk birlikte izlenir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0epkdqw",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "fact",
+      "importance": 2,
+      "title": "Femoral dönüşün ekstremite etkisi",
+      "body": "Arteriyel kanül damar lümenini daraltarak distal kan akımını azaltabilir. **Distal perfüzyon** ve klinik/doku oksijenasyon izlemi bacak güvenliği için birlikte kullanılır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-024jiyz",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hemolizin biyolojik etkisi",
+      "body": "Plazmaya çıkan serbest hemoglobin **nitrik oksidi tüketebilir** ve böbrek hasarına katkıda bulunabilir; hemoliz yalnızca laboratuvar anormalliği değildir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0he7dcu",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "fact",
+      "importance": 2,
+      "title": "Drenaj kollapsı ve yüksek devir",
+      "body": "Venöz drenaj yetersizken pompa devrini artırmak daha fazla akım sağlamayabilir; aşırı emme, venöz kollaps ve kavitasyon riskini büyütebilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-08genqi",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aort kapağı ve staz",
+      "body": "VA ECMO sırasında aort kapağının açılmaması, sol ventrikül ve aort kökünde **kan stazı** ve trombüs oluşumu açısından değerlendirilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0z8b2ad",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulmoner ödem ve LV boşalması",
+      "body": "VA ECMO’da yeni pulmoner ödem, sol kalbin yeterince boşalamadığını düşündürebilir; ekokardiyografiyle ventrikül hacmi ve aort kapağı hareketi incelenir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0bjc80v",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "flip",
+      "importance": 3,
+      "question": "Sol ventrikülde spontan eko kontrast görülmesi hangi mekanizmayı düşündürür?",
+      "answer": "Kan akımının yavaşlamasını ve **stazı** düşündürür; VA ECMO’da ventrikül boşalması ve trombüs riski değerlendirilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0maplzi",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "flip",
+      "importance": 3,
+      "question": "Atriyal septostomi sol kalp basıncını nasıl azaltabilir?",
+      "answer": "Sol atriyumdaki kanın sağ atriyuma geçebileceği açıklık oluşturarak **sol atriyal dekompresyon** sağlar.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1lv6wg5",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "flip",
+      "importance": 3,
+      "question": "Drenaj hattı titremesine neden yalnız sıvı eksikliği denmez?",
+      "answer": "Venöz kollaps; kanül malpozisyonu, drenaj engeli ve aşırı pompa emmesiyle de oluşabilir. Hız, pozisyon ve dolaşım dolumu birlikte değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1qade8t",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kazara dekanülasyon acildir",
+      "body": "Kanül çıkması büyük kanama, hava girişi ve perfüzyon kaybı doğurabilir. Kurum acil algoritmasında **hatların güvene alınması ve kanama kontrolü** önceliklidir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1xldkxg",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kapalı aort kapağını izle",
+      "body": "VA ECMO’da **aort kapağının açılmaması**, LV genişlemesi ve pulmoner ödem sol kalp boşaltma gereksiniminin değerlendirilmesini gerektirir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0fr3wak",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Femoral VA ECMO hastasında kapalı aort kapağı ve pulmoner ödem birlikte neyi düşündürür?",
+      "options": [
+        "Oksijenatör gaz akımının fazlalığını",
+        "Venöz dönüş kanülünün yokluğunu",
+        "Sol ventrikülün yetersiz boşalmasını",
+        "Sol ventrikülün aşırı hızlı boşalmasını"
+      ],
+      "correct": 2,
+      "explanation": "Kapalı aort kapağı ve pulmoner ödem, art yükle ilişkili sol kalp distansiyonunu düşündürür.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1mkippe",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Venöz drenaj kollapsı ve ani akım düşüşünde ilk pompa yaklaşımı hangisidir?",
+      "options": [
+        "Devri artırıp negatif basıncı büyütmek",
+        "Dönüş hattını daraltıp direnç eklemek",
+        "Gaz akımını artırıp kan akımını zorlamak",
+        "Devri azaltıp drenaj nedenini araştırmak"
+      ],
+      "correct": 3,
+      "explanation": "Devri düşürmek aşırı emme yükünü azaltır; dolum ve kanül pozisyonu ardından değerlendirilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1c7jfpp",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ECMO’da hemoliz şüphesinde hangi ölçüm eritrosit dışına çıkan hemoglobini gösterir?",
+      "options": [
+        "Plazma serbest hemoglobin",
+        "Serum fibrinojen",
+        "Plazma antitrombin",
+        "Serum albumin"
+      ],
+      "correct": 0,
+      "explanation": "Serbest hemoglobin artışı, eritrosit yıkımına bağlı plazmaya salınan Hb’yi gösterir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-07y0w81",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Kapalı fasya bölmesindeki basınç artışı ekstremite perfüzyonunu bozuyorsa hangi komplikasyon söz konusudur?",
+      "options": [
+        "Plazma sızıntısı",
+        "Kompartman sendromu",
+        "Diferansiyel hipoksemi",
+        "Resirkülasyon"
+      ],
+      "correct": 1,
+      "explanation": "Kompartman sendromunda artan bölme basıncı kas ve sinir perfüzyonunu tehdit eder.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-10g3zcz",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Femoral VA ECMO’da bacak doku oksijenasyonunu izlemek için hangi yöntem kullanılabilir?",
+      "options": [
+        "Anti-Xa",
+        "ACT",
+        "NIRS",
+        "TEG"
+      ],
+      "correct": 2,
+      "explanation": "NIRS doku oksijenasyonunu izler; diğer üç seçenek antikoagülasyon/hemostaz testidir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1t0ilys",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "tf",
+      "importance": 2,
+      "statement": "VA ECMO’da spontan eko kontrast, sol ventrikülde kan stazını düşündürebilir.",
+      "isTrue": true,
+      "explanation": "Spontan eko kontrast yavaş akımı yansıtır; sol kalbin boşalması ve trombüs riski değerlendirilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1nxz5b0",
+      "course": "PER207",
+      "topic": "ECMO komplikasyonları ve LV venting",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Atriyal septostomi sağ atriyum basıncını düşürmek amacıyla sol atriyumu tamamen kapatır.",
+      "isTrue": false,
+      "explanation": "Atriyal septostomi septumda açıklık oluşturarak sol atriyumun dekompresyonunu sağlayabilir.",
+      "source": "ELSO VA 2021"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

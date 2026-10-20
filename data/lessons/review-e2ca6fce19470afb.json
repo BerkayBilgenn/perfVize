@@ -1,0 +1,1613 @@
+{
+  "id": "review-e2ca6fce19470afb",
+  "title": "Otonom sinir sistemi ve ilaçlar",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Otonom sinir sistemi",
+      "text": "Autonomic nervous system\nİstemsiz organ fonksiyonlarını düzenleyen sempatik, parasempatik ve enterik sistem.",
+      "images": [],
+      "card": {
+        "id": "PER243-0i2mbiu",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Otonom sinir sistemi",
+        "en": "Autonomic nervous system",
+        "definition": "İstemsiz organ fonksiyonlarını düzenleyen sempatik, parasempatik ve enterik sistem.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Sempatik sinir sistemi",
+      "text": "Sympathetic nervous system\n\"Savaş ya da kaç\" yanıtı; postganglionik lifler çoğunlukla noradrenalin salar.",
+      "images": [],
+      "card": {
+        "id": "PER243-0t0iucw",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Sempatik sinir sistemi",
+        "en": "Sympathetic nervous system",
+        "definition": "\"Savaş ya da kaç\" yanıtı; postganglionik lifler çoğunlukla noradrenalin salar.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Parasempatik sinir sistemi",
+      "text": "Parasympathetic nervous system\n\"Dinlen ve sindir\" yanıtı; postganglionik lifler asetilkolin salar; kalbe vagus siniri ile ulaşır.",
+      "images": [],
+      "card": {
+        "id": "PER243-13wsjca",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Parasempatik sinir sistemi",
+        "en": "Parasympathetic nervous system",
+        "definition": "\"Dinlen ve sindir\" yanıtı; postganglionik lifler asetilkolin salar; kalbe vagus siniri ile ulaşır.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Preganglionik / postganglionik nöron",
+      "text": "Pre-/postganglionic neuron\nOtonom yolun SSS'den gangliyona giden ilk nöronu / gangliyondan hedef organa giden ikinci nöronu.",
+      "images": [],
+      "card": {
+        "id": "PER243-0aypwku",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Preganglionik / postganglionik nöron",
+        "en": "Pre-/postganglionic neuron",
+        "definition": "Otonom yolun SSS'den gangliyona giden ilk nöronu / gangliyondan hedef organa giden ikinci nöronu.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Adrenerjik reseptör",
+      "text": "Adrenergic receptor\nKatekolaminlerin bağlandığı α1, α2, β1, β2 reseptörleri.",
+      "images": [],
+      "card": {
+        "id": "PER243-07oti2x",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Adrenerjik reseptör",
+        "en": "Adrenergic receptor",
+        "definition": "Katekolaminlerin bağlandığı α1, α2, β1, β2 reseptörleri.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Muskarinik reseptör",
+      "text": "Muscarinic receptor\nParasempatik postganglionik asetilkolin etkilerine aracılık eden reseptör (kalpte bradikardi).",
+      "images": [],
+      "card": {
+        "id": "PER243-0g2vjly",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Muskarinik reseptör",
+        "en": "Muscarinic receptor",
+        "definition": "Parasempatik postganglionik asetilkolin etkilerine aracılık eden reseptör (kalpte bradikardi).",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Katekolamin",
+      "text": "Catecholamine\nDopamin, noradrenalin ve adrenalinden oluşan endojen amin grubu.",
+      "images": [],
+      "card": {
+        "id": "PER243-1mfktp9",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Katekolamin",
+        "en": "Catecholamine",
+        "definition": "Dopamin, noradrenalin ve adrenalinden oluşan endojen amin grubu.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Adrenalin",
+      "text": "Epinephrine\nα ve β agonisti; düşük dozda β (sistemik vasküler direnç ↓), yüksek dozda α (sistemik vasküler direnç ↑) etkisi baskın.",
+      "images": [],
+      "card": {
+        "id": "PER243-0m96vmb",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Adrenalin",
+        "en": "Epinephrine",
+        "definition": "α ve β agonisti; düşük dozda β (sistemik vasküler direnç ↓), yüksek dozda α (sistemik vasküler direnç ↑) etkisi baskın.",
+        "source": "DailyMed: adrenalin"
+      }
+    },
+    {
+      "title": "Noradrenalin",
+      "text": "Norepinephrine\nGüçlü α1 vazokonstriktör ve β1 agonist; sistemik vasküler direnç'yi artırır, refleks bradikardi yapar.",
+      "images": [],
+      "card": {
+        "id": "PER243-0cmoqqw",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Noradrenalin",
+        "en": "Norepinephrine",
+        "definition": "Güçlü α1 vazokonstriktör ve β1 agonist; sistemik vasküler direnç'yi artırır, refleks bradikardi yapar.",
+        "source": "DailyMed: noradrenalin"
+      }
+    },
+    {
+      "title": "Dopamin",
+      "text": "Dopamine\nNoradrenalin öncülü; doza bağlı D1 → β1 → α etkili katekolamin.",
+      "images": [],
+      "card": {
+        "id": "PER243-08w80fp",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Dopamin",
+        "en": "Dopamine",
+        "definition": "Noradrenalin öncülü; doza bağlı D1 → β1 → α etkili katekolamin.",
+        "source": "DailyMed: dopamin"
+      }
+    },
+    {
+      "title": "Dobutamin",
+      "text": "Dobutamine\nβ1 ağırlıklı sentetik inotrop; debiyi artırır, sistemik vasküler direnç'yi genellikle azaltır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0maxwpy",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Dobutamin",
+        "en": "Dobutamine",
+        "definition": "β1 ağırlıklı sentetik inotrop; debiyi artırır, sistemik vasküler direnç'yi genellikle azaltır.",
+        "source": "DailyMed: dobutamin"
+      }
+    },
+    {
+      "title": "İzoproterenol",
+      "text": "Isoproterenol\nNonselektif β-agonist; kalp hızını artırır, sistemik vasküler direnç ve diyastolik basıncı düşürür.",
+      "images": [],
+      "card": {
+        "id": "PER243-0qbmnjt",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "İzoproterenol",
+        "en": "Isoproterenol",
+        "definition": "Nonselektif β-agonist; kalp hızını artırır, sistemik vasküler direnç ve diyastolik basıncı düşürür.",
+        "source": "DailyMed: izoproterenol"
+      }
+    },
+    {
+      "title": "İnotrop",
+      "text": "Inotrope\nMiyokard kontraktilitesini artıran ilaç.",
+      "images": [],
+      "card": {
+        "id": "PER243-1jvbgni",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "İnotrop",
+        "en": "Inotrope",
+        "definition": "Miyokard kontraktilitesini artıran ilaç.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Vazopresör",
+      "text": "Vasopressor\nDamar daraltarak kan basıncını yükselten ilaç.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xomxzx",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Vazopresör",
+        "en": "Vasopressor",
+        "definition": "Damar daraltarak kan basıncını yükselten ilaç.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "İnodilatör",
+      "text": "Inodilator\nHem inotropiyi artıran hem vazodilatasyon yapan ilaç (milrinon, levosimendan).",
+      "images": [],
+      "card": {
+        "id": "PER243-0ziq1ad",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "İnodilatör",
+        "en": "Inodilator",
+        "definition": "Hem inotropiyi artıran hem vazodilatasyon yapan ilaç (milrinon, levosimendan).",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Milrinon",
+      "text": "Milrinone\nFosfodiesteraz-3 inhibisyonuyla hücre içi cAMP'yi artıran inodilatör; pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER243-1q08nhv",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Milrinon",
+        "en": "Milrinone",
+        "definition": "Fosfodiesteraz-3 inhibisyonuyla hücre içi cAMP'yi artıran inodilatör; pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+        "source": "DailyMed: milrinon"
+      }
+    },
+    {
+      "title": "Levosimendan",
+      "text": "Levosimendan\nTroponin C'ye kalsiyum duyarlılaştırıcı ve K-ATP açıcı inodilatör; uzun etkili aktif metaboliti vardır.",
+      "images": [],
+      "card": {
+        "id": "PER243-10r6u0a",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Levosimendan",
+        "en": "Levosimendan",
+        "definition": "Troponin C'ye kalsiyum duyarlılaştırıcı ve K-ATP açıcı inodilatör; uzun etkili aktif metaboliti vardır.",
+        "source": "Eur Cardiol 2024: levosimendan"
+      }
+    },
+    {
+      "title": "Vazopressin",
+      "text": "Vasopressin\nV1 reseptörü üzerinden vazokonstriksiyon oluşturan peptit hormon; dirençli vazodilatör şokta kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1giylep",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Vazopressin",
+        "en": "Vasopressin",
+        "definition": "V1 reseptörü üzerinden vazokonstriksiyon oluşturan peptit hormon; dirençli vazodilatör şokta kullanılabilir.",
+        "source": "DailyMed: vazopressin"
+      }
+    },
+    {
+      "title": "Fenilefrin",
+      "text": "Phenylephrine\nSaf α1 agonist vazopresör; refleks bradikardi yapar.",
+      "images": [],
+      "card": {
+        "id": "PER243-1redwxt",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Fenilefrin",
+        "en": "Phenylephrine",
+        "definition": "Saf α1 agonist vazopresör; refleks bradikardi yapar.",
+        "source": "DailyMed: fenilefrin"
+      }
+    },
+    {
+      "title": "Efedrin",
+      "text": "Ephedrine\nDoğrudan α/β agonist ve dolaylı noradrenalin salgılatıcı; tekrarlayan dozda taşifilaksi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1e14wz0",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Efedrin",
+        "en": "Ephedrine",
+        "definition": "Doğrudan α/β agonist ve dolaylı noradrenalin salgılatıcı; tekrarlayan dozda taşifilaksi.",
+        "source": "DailyMed: efedrin"
+      }
+    },
+    {
+      "title": "Taşifilaksi",
+      "text": "Tachyphylaxis\nTekrarlanan dozlarda ilaç yanıtının hızla azalması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0kdigp1",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Taşifilaksi",
+        "en": "Tachyphylaxis",
+        "definition": "Tekrarlanan dozlarda ilaç yanıtının hızla azalması.",
+        "source": "DailyMed: efedrin"
+      }
+    },
+    {
+      "title": "Refleks bradikardi",
+      "text": "Reflex bradycardia\nKan basıncı artışına baroreseptör aracılı vagal yanıtla kalp hızının yavaşlaması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1cxhnrg",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Refleks bradikardi",
+        "en": "Reflex bradycardia",
+        "definition": "Kan basıncı artışına baroreseptör aracılı vagal yanıtla kalp hızının yavaşlaması.",
+        "source": "DailyMed: fenilefrin"
+      }
+    },
+    {
+      "title": "Nitrogliserin",
+      "text": "Nitroglycerin\nNO donörü; düşük dozda venodilatör (önyük ↓), koroner vazodilatör.",
+      "images": [],
+      "card": {
+        "id": "PER243-1h6aj04",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Nitrogliserin",
+        "en": "Nitroglycerin",
+        "definition": "NO donörü; düşük dozda venodilatör (önyük ↓), koroner vazodilatör.",
+        "source": "DailyMed: nitrogliserin"
+      }
+    },
+    {
+      "title": "Sodyum nitroprussid",
+      "text": "Sodium nitroprusside\nGüçlü arter ve ven dilatörü; siyanür toksisitesi riski; ışıktan korunmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0gli2so",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Sodyum nitroprussid",
+        "en": "Sodium nitroprusside",
+        "definition": "Güçlü arter ve ven dilatörü; siyanür toksisitesi riski; ışıktan korunmalıdır.",
+        "source": "DailyMed: nitroprussid"
+      }
+    },
+    {
+      "title": "Siyanür toksisitesi",
+      "text": "Cyanide toxicity\nNitroprussid yıkımıyla biriken siyanürün hücresel oksijen kullanımını bozması; venöz hiperoksemi ve metabolik asidoz.",
+      "images": [],
+      "card": {
+        "id": "PER243-16l2b6o",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Siyanür toksisitesi",
+        "en": "Cyanide toxicity",
+        "definition": "Nitroprussid yıkımıyla biriken siyanürün hücresel oksijen kullanımını bozması; venöz hiperoksemi ve metabolik asidoz.",
+        "source": "DailyMed: nitroprussid"
+      }
+    },
+    {
+      "title": "Fentolamin",
+      "text": "Phentolamine\nα-blokör; noradrenalin/dopamin ekstravazasyonunda doku nekrozunu önlemek için infiltre edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0bgjb6c",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Fentolamin",
+        "en": "Phentolamine",
+        "definition": "α-blokör; noradrenalin/dopamin ekstravazasyonunda doku nekrozunu önlemek için infiltre edilir.",
+        "source": "DailyMed: noradrenalin"
+      }
+    },
+    {
+      "title": "Esmolol",
+      "text": "Esmolol\nEritrosit esterazlarıyla yıkılan, çok kısa etkili ve β1 seçici adrenerjik reseptör blokeri.",
+      "images": [],
+      "card": {
+        "id": "PER243-19atedk",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Esmolol",
+        "en": "Esmolol",
+        "definition": "Eritrosit esterazlarıyla yıkılan, çok kısa etkili ve β1 seçici adrenerjik reseptör blokeri.",
+        "source": "DailyMed: esmolol"
+      }
+    },
+    {
+      "title": "Amiodaron",
+      "text": "Amiodarone\nSınıf III antiaritmik (I, II ve intravenöz özellikleri de var); VF ve stabil olmayan VT'de.",
+      "images": [],
+      "card": {
+        "id": "PER243-0o5uyfj",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Amiodaron",
+        "en": "Amiodarone",
+        "definition": "Sınıf III antiaritmik (I, II ve intravenöz özellikleri de var); VF ve stabil olmayan VT'de.",
+        "source": "DailyMed: amiodaron"
+      }
+    },
+    {
+      "title": "Adenozin",
+      "text": "Adenosine\nAV düğüm iletisini geçici yavaşlatan, çok kısa etkili antiaritmik.",
+      "images": [],
+      "card": {
+        "id": "PER243-1kzqkr5",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Adenozin",
+        "en": "Adenosine",
+        "definition": "AV düğüm iletisini geçici yavaşlatan, çok kısa etkili antiaritmik.",
+        "source": "DailyMed: adenozin"
+      }
+    },
+    {
+      "title": "Atropin",
+      "text": "Atropine\nMuskarinik antagonist; bradikardi tedavisi; küçük dozda paradoksal bradikardi.",
+      "images": [],
+      "card": {
+        "id": "PER243-02cshwm",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Atropin",
+        "en": "Atropine",
+        "definition": "Muskarinik antagonist; bradikardi tedavisi; küçük dozda paradoksal bradikardi.",
+        "source": "DailyMed: atropin"
+      }
+    },
+    {
+      "title": "Doğal ve sentetik inotrop",
+      "text": "Dopamin\nEndojen katekolamin\nReseptör etkisi doza göre değişir\n\nDobutamin\nSentetik katekolamin\nEtki ağırlıklı β1 aracılıdır",
+      "images": [],
+      "card": {
+        "id": "PER243-11kl7kn",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Doğal ve sentetik inotrop",
+        "left": {
+          "title": "Dopamin",
+          "points": [
+            "Endojen katekolamin",
+            "Reseptör etkisi doza göre değişir"
+          ]
+        },
+        "right": {
+          "title": "Dobutamin",
+          "points": [
+            "Sentetik katekolamin",
+            "Etki ağırlıklı β1 aracılıdır"
+          ]
+        },
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Reseptörden bağımsız inotropi",
+      "text": "Milrinon\nPDE-3 inhibisyonuyla cAMP artışı\nEliminasyonda böbrek önemlidir\n\nLevosimendan\nTroponin C üzerinden kalsiyum duyarlılığı artışı\nUzun etkili aktif metaboliti bulunur",
+      "images": [],
+      "card": {
+        "id": "PER243-01dnai1",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Reseptörden bağımsız inotropi",
+        "left": {
+          "title": "Milrinon",
+          "points": [
+            "PDE-3 inhibisyonuyla cAMP artışı",
+            "Eliminasyonda böbrek önemlidir"
+          ]
+        },
+        "right": {
+          "title": "Levosimendan",
+          "points": [
+            "Troponin C üzerinden kalsiyum duyarlılığı artışı",
+            "Uzun etkili aktif metaboliti bulunur"
+          ]
+        },
+        "source": "DailyMed: milrinon / Eur Cardiol 2024: levosimendan"
+      }
+    },
+    {
+      "title": "Vazodilatörlerin riskleri",
+      "text": "Nitrogliserin\nDüşük dozda venodilatasyon baskın\nTolerans ve PVC sete adsorpsiyon önemlidir\n\nNitroprussid\nArter ve ven dilatasyonu yapar\nSiyanür toksisitesi ve ışıktan koruma önemlidir",
+      "images": [],
+      "card": {
+        "id": "PER243-10t7utn",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Vazodilatörlerin riskleri",
+        "left": {
+          "title": "Nitrogliserin",
+          "points": [
+            "Düşük dozda venodilatasyon baskın",
+            "Tolerans ve PVC sete adsorpsiyon önemlidir"
+          ]
+        },
+        "right": {
+          "title": "Nitroprussid",
+          "points": [
+            "Arter ve ven dilatasyonu yapar",
+            "Siyanür toksisitesi ve ışıktan koruma önemlidir"
+          ]
+        },
+        "source": "DailyMed: nitrogliserin / nitroprussid"
+      }
+    },
+    {
+      "title": "Vazopresör mekanizmaları",
+      "text": "Fenilefrin\nSaf α1 agonisti\nRefleks bradikardi görülebilir\n\nEfedrin\nDoğrudan α/β ve dolaylı noradrenalin etkisi\nTekrarlayan dozda taşifilaksi görülebilir",
+      "images": [],
+      "card": {
+        "id": "PER243-19ro8zb",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Vazopresör mekanizmaları",
+        "left": {
+          "title": "Fenilefrin",
+          "points": [
+            "Saf α1 agonisti",
+            "Refleks bradikardi görülebilir"
+          ]
+        },
+        "right": {
+          "title": "Efedrin",
+          "points": [
+            "Doğrudan α/β ve dolaylı noradrenalin etkisi",
+            "Tekrarlayan dozda taşifilaksi görülebilir"
+          ]
+        },
+        "source": "DailyMed: fenilefrin / efedrin"
+      }
+    },
+    {
+      "title": "Preganglionik iletim",
+      "text": "Sempatik ve parasempatik sistemlerin preganglionik nöronlarında ortak nörotransmitter **asetilkolindir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-0n5enhk",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Preganglionik iletim",
+        "body": "Sempatik ve parasempatik sistemlerin preganglionik nöronlarında ortak nörotransmitter **asetilkolindir**.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Kalbe vagal uyarı",
+      "text": "Parasempatik uyarı kalp hızını ve AV düğüm iletisini **yavaşlatır**; ventriküllerde vagal innervasyon seyrektir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0b7isyv",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kalbe vagal uyarı",
+        "body": "Parasempatik uyarı kalp hızını ve AV düğüm iletisini **yavaşlatır**; ventriküllerde vagal innervasyon seyrektir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Adenozinin etkileşimi",
+      "text": "**Kafein ve teofilin** adenozinin etkisini azaltırken, dipiridamol etkisini artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-172prz0",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 3,
+        "title": "Adenozinin etkileşimi",
+        "body": "**Kafein ve teofilin** adenozinin etkisini azaltırken, dipiridamol etkisini artırabilir.",
+        "source": "DailyMed: adenozin"
+      }
+    },
+    {
+      "title": "Amiodaronun kardiyak yan etkisi",
+      "text": "İntravenöz amiodaron hipotansiyon, bradikardi ve AV blok yapabilir; antiaritmik etkisi hemodinamik izlemi gereksiz kılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-10a754o",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Amiodaronun kardiyak yan etkisi",
+        "body": "İntravenöz amiodaron hipotansiyon, bradikardi ve AV blok yapabilir; antiaritmik etkisi hemodinamik izlemi gereksiz kılmaz.",
+        "source": "DailyMed: amiodaron"
+      }
+    },
+    {
+      "title": "İnotropi ve oksijen maliyeti",
+      "text": "İnotroplar kontraktiliteyi artırırken **miyokard oksijen tüketimini** de artırabilir; debi artışı oksijen dengesiyle birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0mw08j0",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 1,
+        "title": "İnotropi ve oksijen maliyeti",
+        "body": "İnotroplar kontraktiliteyi artırırken **miyokard oksijen tüketimini** de artırabilir; debi artışı oksijen dengesiyle birlikte değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Noradrenalin ekstravazasyonunda kullanılan α-bloker hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1lc2j4f",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "flip",
+        "importance": 1,
+        "question": "Noradrenalin ekstravazasyonunda kullanılan α-bloker hangisidir?",
+        "answer": "**Fentolamin**, lokal vazokonstriksiyon ve doku nekrozu riskini azaltmak için kullanılan α-blokerdir.",
+        "source": "DailyMed: noradrenalin"
+      }
+    },
+    {
+      "title": "Nitroprussid toksisitesinde venöz hiperoksemi neden oluşur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1uh7cr8",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Nitroprussid toksisitesinde venöz hiperoksemi neden oluşur?",
+        "answer": "Siyanür **hücresel oksijen kullanımını bozar**; dokuda oksijen kullanımı azalınca venöz kan beklenmedik biçimde oksijenli kalabilir.",
+        "source": "DailyMed: nitroprussid"
+      }
+    },
+    {
+      "title": "Nitrogliserin düşük dozda önyükü nasıl azaltır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1xnc0zy",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Nitrogliserin düşük dozda önyükü nasıl azaltır?",
+        "answer": "**Venodilatasyon ve venöz göllenme** oluşturur; sol ventrikül doluş basıncı azalabilir.",
+        "source": "DailyMed: nitrogliserin"
+      }
+    },
+    {
+      "title": "Nitrogliserin etkileşimi",
+      "text": "Nitrogliserin ile **PDE-5 inhibitörlerinin** birlikte kullanımı kontrendikedir; ciddi hipotansiyon riski vardır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1urz66n",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Nitrogliserin etkileşimi",
+        "body": "Nitrogliserin ile **PDE-5 inhibitörlerinin** birlikte kullanımı kontrendikedir; ciddi hipotansiyon riski vardır.",
+        "source": "DailyMed: nitrogliserin"
+      }
+    },
+    {
+      "title": "Nitroprussidi koru",
+      "text": "Sodyum nitroprussid **ışıktan korunur**. Siyanür toksisitesinde venöz hiperoksemi ve metabolik asidoz uyarıcı olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1kjc0r2",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Nitroprussidi koru",
+        "body": "Sodyum nitroprussid **ışıktan korunur**. Siyanür toksisitesinde venöz hiperoksemi ve metabolik asidoz uyarıcı olabilir.",
+        "source": "DailyMed: nitroprussid"
+      }
+    },
+    {
+      "title": "Adenozin etiketindeki başlangıç",
+      "text": "DailyMed'de erişkin paroksismal supraventriküler taşikardide başlangıç **6 mg hızlı intravenöz bolus (1–2 sn)** olarak verilir; ardından serum fizyolojikle yıkanır. Etkisizse 12 mg uygulanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0274afo",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 3,
+        "title": "Adenozin etiketindeki başlangıç",
+        "body": "DailyMed'de erişkin paroksismal supraventriküler taşikardide başlangıç **6 mg hızlı intravenöz bolus (1–2 sn)** olarak verilir; ardından serum fizyolojikle yıkanır. Etkisizse 12 mg uygulanabilir.",
+        "source": "DailyMed: adenozin"
+      }
+    },
+    {
+      "title": "Vazopressin ve pulmoner direnç",
+      "text": "2024 KPB kılavuzu vazopressini, adrenerjik vazopresörlerin aksine **pulmoner direnci artırmayan** bir seçenek olarak tanımlar; seçim hastanın dolaşım tablosuna göre yapılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1m0uclp",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "fact",
+        "importance": 1,
+        "title": "Vazopressin ve pulmoner direnç",
+        "body": "2024 KPB kılavuzu vazopressini, adrenerjik vazopresörlerin aksine **pulmoner direnci artırmayan** bir seçenek olarak tanımlar; seçim hastanın dolaşım tablosuna göre yapılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kalpte kalp hızı ve kontraktiliteyi artıran ana adrenerjik reseptör hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1rn40o3",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kalpte kalp hızı ve kontraktiliteyi artıran ana adrenerjik reseptör hangisidir?",
+        "options": [
+          "α1",
+          "α2",
+          "β1",
+          "V2"
+        ],
+        "correct": 2,
+        "explanation": "β1 uyarısı kalpte kronotropi, inotropi ve iletiyi artırır.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Damar ve bronş düz kasında gevşemeyle ilişkili adrenerjik reseptör hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0gbwj6g",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Damar ve bronş düz kasında gevşemeyle ilişkili adrenerjik reseptör hangisidir?",
+        "options": [
+          "α1",
+          "M2",
+          "V1",
+          "β2"
+        ],
+        "correct": 3,
+        "explanation": "β2 uyarısı düz kasta gevşeme, vazodilatasyon ve bronkodilatasyon oluşturur.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Presinaptik noradrenalin salınımını inhibe eden reseptör hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0cbi9x7",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Presinaptik noradrenalin salınımını inhibe eden reseptör hangisidir?",
+        "options": [
+          "α2",
+          "β1",
+          "β2",
+          "D1"
+        ],
+        "correct": 0,
+        "explanation": "Presinaptik α2 reseptörleri noradrenalin salınımını baskılayan geri bildirim sağlar.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Kalp debisini artırırken vazodilatasyon yapan ilaç grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1t6n04w",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kalp debisini artırırken vazodilatasyon yapan ilaç grubu hangisidir?",
+        "options": [
+          "Vazopresör",
+          "İnodilatör",
+          "Saf vazodilatör",
+          "Negatif inotrop"
+        ],
+        "correct": 1,
+        "explanation": "İnodilatörler pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Esmololü yıkan başlıca enzim sistemi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1oxfxcu",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Esmololü yıkan başlıca enzim sistemi hangisidir?",
+        "options": [
+          "Plazma kolinesterazı",
+          "Fosfodiesteraz-3",
+          "Eritrosit esterazları",
+          "Trombin"
+        ],
+        "correct": 2,
+        "explanation": "Esmolol eritrosit esterazlarıyla yıkılır; süksinilkolin gibi plazma kolinesterazına dayanmaz.",
+        "source": "DailyMed: esmolol"
+      }
+    },
+    {
+      "title": "İzoproterenol nonselektif β-agonisttir; sistemik vasküler direnci azaltabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0lj1wex",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "tf",
+        "importance": 1,
+        "statement": "İzoproterenol nonselektif β-agonisttir; sistemik vasküler direnci azaltabilir.",
+        "isTrue": true,
+        "explanation": "β1 ile kardiyak uyarı ve β2 ile vazodilatasyon görülür.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "Fenilefrinin temel reseptör etkisi saf β2 agonizmasıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1u9p6e2",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Fenilefrinin temel reseptör etkisi saf β2 agonizmasıdır.",
+        "isTrue": false,
+        "explanation": "Fenilefrin saf α1 agonistidir; vazokonstriksiyon ve refleks bradikardi yapabilir.",
+        "source": "DailyMed: fenilefrin"
+      }
+    },
+    {
+      "title": "Vazopressin, adrenerjik reseptör yerine V1 reseptörü üzerinden vazokonstriksiyon oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-14x6nvi",
+        "course": "PER243",
+        "topic": "Otonom sinir sistemi ve ilaçlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Vazopressin, adrenerjik reseptör yerine V1 reseptörü üzerinden vazokonstriksiyon oluşturur.",
+        "isTrue": true,
+        "explanation": "Vazopressinin vazokonstriktör etkisi V1 aracılıdır.",
+        "source": "DailyMed: vazopressin"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-0i2mbiu",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Otonom sinir sistemi",
+      "en": "Autonomic nervous system",
+      "definition": "İstemsiz organ fonksiyonlarını düzenleyen sempatik, parasempatik ve enterik sistem.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-0t0iucw",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Sempatik sinir sistemi",
+      "en": "Sympathetic nervous system",
+      "definition": "\"Savaş ya da kaç\" yanıtı; postganglionik lifler çoğunlukla noradrenalin salar.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-13wsjca",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Parasempatik sinir sistemi",
+      "en": "Parasympathetic nervous system",
+      "definition": "\"Dinlen ve sindir\" yanıtı; postganglionik lifler asetilkolin salar; kalbe vagus siniri ile ulaşır.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-0aypwku",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Preganglionik / postganglionik nöron",
+      "en": "Pre-/postganglionic neuron",
+      "definition": "Otonom yolun SSS'den gangliyona giden ilk nöronu / gangliyondan hedef organa giden ikinci nöronu.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-07oti2x",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Adrenerjik reseptör",
+      "en": "Adrenergic receptor",
+      "definition": "Katekolaminlerin bağlandığı α1, α2, β1, β2 reseptörleri.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-0g2vjly",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Muskarinik reseptör",
+      "en": "Muscarinic receptor",
+      "definition": "Parasempatik postganglionik asetilkolin etkilerine aracılık eden reseptör (kalpte bradikardi).",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1mfktp9",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Katekolamin",
+      "en": "Catecholamine",
+      "definition": "Dopamin, noradrenalin ve adrenalinden oluşan endojen amin grubu.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-0m96vmb",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Adrenalin",
+      "en": "Epinephrine",
+      "definition": "α ve β agonisti; düşük dozda β (sistemik vasküler direnç ↓), yüksek dozda α (sistemik vasküler direnç ↑) etkisi baskın.",
+      "source": "DailyMed: adrenalin"
+    },
+    {
+      "id": "PER243-0cmoqqw",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Noradrenalin",
+      "en": "Norepinephrine",
+      "definition": "Güçlü α1 vazokonstriktör ve β1 agonist; sistemik vasküler direnç'yi artırır, refleks bradikardi yapar.",
+      "source": "DailyMed: noradrenalin"
+    },
+    {
+      "id": "PER243-08w80fp",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Dopamin",
+      "en": "Dopamine",
+      "definition": "Noradrenalin öncülü; doza bağlı D1 → β1 → α etkili katekolamin.",
+      "source": "DailyMed: dopamin"
+    },
+    {
+      "id": "PER243-0maxwpy",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Dobutamin",
+      "en": "Dobutamine",
+      "definition": "β1 ağırlıklı sentetik inotrop; debiyi artırır, sistemik vasküler direnç'yi genellikle azaltır.",
+      "source": "DailyMed: dobutamin"
+    },
+    {
+      "id": "PER243-0qbmnjt",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "İzoproterenol",
+      "en": "Isoproterenol",
+      "definition": "Nonselektif β-agonist; kalp hızını artırır, sistemik vasküler direnç ve diyastolik basıncı düşürür.",
+      "source": "DailyMed: izoproterenol"
+    },
+    {
+      "id": "PER243-1jvbgni",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "İnotrop",
+      "en": "Inotrope",
+      "definition": "Miyokard kontraktilitesini artıran ilaç.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-1xomxzx",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Vazopresör",
+      "en": "Vasopressor",
+      "definition": "Damar daraltarak kan basıncını yükselten ilaç.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-0ziq1ad",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "İnodilatör",
+      "en": "Inodilator",
+      "definition": "Hem inotropiyi artıran hem vazodilatasyon yapan ilaç (milrinon, levosimendan).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1q08nhv",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Milrinon",
+      "en": "Milrinone",
+      "definition": "Fosfodiesteraz-3 inhibisyonuyla hücre içi cAMP'yi artıran inodilatör; pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+      "source": "DailyMed: milrinon"
+    },
+    {
+      "id": "PER243-10r6u0a",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Levosimendan",
+      "en": "Levosimendan",
+      "definition": "Troponin C'ye kalsiyum duyarlılaştırıcı ve K-ATP açıcı inodilatör; uzun etkili aktif metaboliti vardır.",
+      "source": "Eur Cardiol 2024: levosimendan"
+    },
+    {
+      "id": "PER243-1giylep",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Vazopressin",
+      "en": "Vasopressin",
+      "definition": "V1 reseptörü üzerinden vazokonstriksiyon oluşturan peptit hormon; dirençli vazodilatör şokta kullanılabilir.",
+      "source": "DailyMed: vazopressin"
+    },
+    {
+      "id": "PER243-1redwxt",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Fenilefrin",
+      "en": "Phenylephrine",
+      "definition": "Saf α1 agonist vazopresör; refleks bradikardi yapar.",
+      "source": "DailyMed: fenilefrin"
+    },
+    {
+      "id": "PER243-1e14wz0",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Efedrin",
+      "en": "Ephedrine",
+      "definition": "Doğrudan α/β agonist ve dolaylı noradrenalin salgılatıcı; tekrarlayan dozda taşifilaksi.",
+      "source": "DailyMed: efedrin"
+    },
+    {
+      "id": "PER243-0kdigp1",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Taşifilaksi",
+      "en": "Tachyphylaxis",
+      "definition": "Tekrarlanan dozlarda ilaç yanıtının hızla azalması.",
+      "source": "DailyMed: efedrin"
+    },
+    {
+      "id": "PER243-1cxhnrg",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Refleks bradikardi",
+      "en": "Reflex bradycardia",
+      "definition": "Kan basıncı artışına baroreseptör aracılı vagal yanıtla kalp hızının yavaşlaması.",
+      "source": "DailyMed: fenilefrin"
+    },
+    {
+      "id": "PER243-1h6aj04",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Nitrogliserin",
+      "en": "Nitroglycerin",
+      "definition": "NO donörü; düşük dozda venodilatör (önyük ↓), koroner vazodilatör.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "id": "PER243-0gli2so",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Sodyum nitroprussid",
+      "en": "Sodium nitroprusside",
+      "definition": "Güçlü arter ve ven dilatörü; siyanür toksisitesi riski; ışıktan korunmalıdır.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "id": "PER243-16l2b6o",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Siyanür toksisitesi",
+      "en": "Cyanide toxicity",
+      "definition": "Nitroprussid yıkımıyla biriken siyanürün hücresel oksijen kullanımını bozması; venöz hiperoksemi ve metabolik asidoz.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "id": "PER243-0bgjb6c",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Fentolamin",
+      "en": "Phentolamine",
+      "definition": "α-blokör; noradrenalin/dopamin ekstravazasyonunda doku nekrozunu önlemek için infiltre edilir.",
+      "source": "DailyMed: noradrenalin"
+    },
+    {
+      "id": "PER243-19atedk",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Esmolol",
+      "en": "Esmolol",
+      "definition": "Eritrosit esterazlarıyla yıkılan, çok kısa etkili ve β1 seçici adrenerjik reseptör blokeri.",
+      "source": "DailyMed: esmolol"
+    },
+    {
+      "id": "PER243-0o5uyfj",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Amiodaron",
+      "en": "Amiodarone",
+      "definition": "Sınıf III antiaritmik (I, II ve intravenöz özellikleri de var); VF ve stabil olmayan VT'de.",
+      "source": "DailyMed: amiodaron"
+    },
+    {
+      "id": "PER243-1kzqkr5",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Adenozin",
+      "en": "Adenosine",
+      "definition": "AV düğüm iletisini geçici yavaşlatan, çok kısa etkili antiaritmik.",
+      "source": "DailyMed: adenozin"
+    },
+    {
+      "id": "PER243-02cshwm",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Atropin",
+      "en": "Atropine",
+      "definition": "Muskarinik antagonist; bradikardi tedavisi; küçük dozda paradoksal bradikardi.",
+      "source": "DailyMed: atropin"
+    },
+    {
+      "id": "PER243-11kl7kn",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Doğal ve sentetik inotrop",
+      "left": {
+        "title": "Dopamin",
+        "points": [
+          "Endojen katekolamin",
+          "Reseptör etkisi doza göre değişir"
+        ]
+      },
+      "right": {
+        "title": "Dobutamin",
+        "points": [
+          "Sentetik katekolamin",
+          "Etki ağırlıklı β1 aracılıdır"
+        ]
+      },
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-01dnai1",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Reseptörden bağımsız inotropi",
+      "left": {
+        "title": "Milrinon",
+        "points": [
+          "PDE-3 inhibisyonuyla cAMP artışı",
+          "Eliminasyonda böbrek önemlidir"
+        ]
+      },
+      "right": {
+        "title": "Levosimendan",
+        "points": [
+          "Troponin C üzerinden kalsiyum duyarlılığı artışı",
+          "Uzun etkili aktif metaboliti bulunur"
+        ]
+      },
+      "source": "DailyMed: milrinon / Eur Cardiol 2024: levosimendan"
+    },
+    {
+      "id": "PER243-10t7utn",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Vazodilatörlerin riskleri",
+      "left": {
+        "title": "Nitrogliserin",
+        "points": [
+          "Düşük dozda venodilatasyon baskın",
+          "Tolerans ve PVC sete adsorpsiyon önemlidir"
+        ]
+      },
+      "right": {
+        "title": "Nitroprussid",
+        "points": [
+          "Arter ve ven dilatasyonu yapar",
+          "Siyanür toksisitesi ve ışıktan koruma önemlidir"
+        ]
+      },
+      "source": "DailyMed: nitrogliserin / nitroprussid"
+    },
+    {
+      "id": "PER243-19ro8zb",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Vazopresör mekanizmaları",
+      "left": {
+        "title": "Fenilefrin",
+        "points": [
+          "Saf α1 agonisti",
+          "Refleks bradikardi görülebilir"
+        ]
+      },
+      "right": {
+        "title": "Efedrin",
+        "points": [
+          "Doğrudan α/β ve dolaylı noradrenalin etkisi",
+          "Tekrarlayan dozda taşifilaksi görülebilir"
+        ]
+      },
+      "source": "DailyMed: fenilefrin / efedrin"
+    },
+    {
+      "id": "PER243-0n5enhk",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Preganglionik iletim",
+      "body": "Sempatik ve parasempatik sistemlerin preganglionik nöronlarında ortak nörotransmitter **asetilkolindir**.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-0b7isyv",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalbe vagal uyarı",
+      "body": "Parasempatik uyarı kalp hızını ve AV düğüm iletisini **yavaşlatır**; ventriküllerde vagal innervasyon seyrektir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-172prz0",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 3,
+      "title": "Adenozinin etkileşimi",
+      "body": "**Kafein ve teofilin** adenozinin etkisini azaltırken, dipiridamol etkisini artırabilir.",
+      "source": "DailyMed: adenozin"
+    },
+    {
+      "id": "PER243-10a754o",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Amiodaronun kardiyak yan etkisi",
+      "body": "İntravenöz amiodaron hipotansiyon, bradikardi ve AV blok yapabilir; antiaritmik etkisi hemodinamik izlemi gereksiz kılmaz.",
+      "source": "DailyMed: amiodaron"
+    },
+    {
+      "id": "PER243-0mw08j0",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 1,
+      "title": "İnotropi ve oksijen maliyeti",
+      "body": "İnotroplar kontraktiliteyi artırırken **miyokard oksijen tüketimini** de artırabilir; debi artışı oksijen dengesiyle birlikte değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1lc2j4f",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "flip",
+      "importance": 1,
+      "question": "Noradrenalin ekstravazasyonunda kullanılan α-bloker hangisidir?",
+      "answer": "**Fentolamin**, lokal vazokonstriksiyon ve doku nekrozu riskini azaltmak için kullanılan α-blokerdir.",
+      "source": "DailyMed: noradrenalin"
+    },
+    {
+      "id": "PER243-1uh7cr8",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Nitroprussid toksisitesinde venöz hiperoksemi neden oluşur?",
+      "answer": "Siyanür **hücresel oksijen kullanımını bozar**; dokuda oksijen kullanımı azalınca venöz kan beklenmedik biçimde oksijenli kalabilir.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "id": "PER243-1xnc0zy",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Nitrogliserin düşük dozda önyükü nasıl azaltır?",
+      "answer": "**Venodilatasyon ve venöz göllenme** oluşturur; sol ventrikül doluş basıncı azalabilir.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "id": "PER243-1urz66n",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Nitrogliserin etkileşimi",
+      "body": "Nitrogliserin ile **PDE-5 inhibitörlerinin** birlikte kullanımı kontrendikedir; ciddi hipotansiyon riski vardır.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "id": "PER243-1kjc0r2",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Nitroprussidi koru",
+      "body": "Sodyum nitroprussid **ışıktan korunur**. Siyanür toksisitesinde venöz hiperoksemi ve metabolik asidoz uyarıcı olabilir.",
+      "source": "DailyMed: nitroprussid"
+    },
+    {
+      "id": "PER243-0274afo",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 3,
+      "title": "Adenozin etiketindeki başlangıç",
+      "body": "DailyMed'de erişkin paroksismal supraventriküler taşikardide başlangıç **6 mg hızlı intravenöz bolus (1–2 sn)** olarak verilir; ardından serum fizyolojikle yıkanır. Etkisizse 12 mg uygulanabilir.",
+      "source": "DailyMed: adenozin"
+    },
+    {
+      "id": "PER243-1m0uclp",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "fact",
+      "importance": 1,
+      "title": "Vazopressin ve pulmoner direnç",
+      "body": "2024 KPB kılavuzu vazopressini, adrenerjik vazopresörlerin aksine **pulmoner direnci artırmayan** bir seçenek olarak tanımlar; seçim hastanın dolaşım tablosuna göre yapılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1rn40o3",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalpte kalp hızı ve kontraktiliteyi artıran ana adrenerjik reseptör hangisidir?",
+      "options": [
+        "α1",
+        "α2",
+        "β1",
+        "V2"
+      ],
+      "correct": 2,
+      "explanation": "β1 uyarısı kalpte kronotropi, inotropi ve iletiyi artırır.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-0gbwj6g",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Damar ve bronş düz kasında gevşemeyle ilişkili adrenerjik reseptör hangisidir?",
+      "options": [
+        "α1",
+        "M2",
+        "V1",
+        "β2"
+      ],
+      "correct": 3,
+      "explanation": "β2 uyarısı düz kasta gevşeme, vazodilatasyon ve bronkodilatasyon oluşturur.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-0cbi9x7",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Presinaptik noradrenalin salınımını inhibe eden reseptör hangisidir?",
+      "options": [
+        "α2",
+        "β1",
+        "β2",
+        "D1"
+      ],
+      "correct": 0,
+      "explanation": "Presinaptik α2 reseptörleri noradrenalin salınımını baskılayan geri bildirim sağlar.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-1t6n04w",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp debisini artırırken vazodilatasyon yapan ilaç grubu hangisidir?",
+      "options": [
+        "Vazopresör",
+        "İnodilatör",
+        "Saf vazodilatör",
+        "Negatif inotrop"
+      ],
+      "correct": 1,
+      "explanation": "İnodilatörler pozitif inotropi ile vazodilatasyonu birlikte oluşturur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1oxfxcu",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Esmololü yıkan başlıca enzim sistemi hangisidir?",
+      "options": [
+        "Plazma kolinesterazı",
+        "Fosfodiesteraz-3",
+        "Eritrosit esterazları",
+        "Trombin"
+      ],
+      "correct": 2,
+      "explanation": "Esmolol eritrosit esterazlarıyla yıkılır; süksinilkolin gibi plazma kolinesterazına dayanmaz.",
+      "source": "DailyMed: esmolol"
+    },
+    {
+      "id": "PER243-0lj1wex",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "tf",
+      "importance": 1,
+      "statement": "İzoproterenol nonselektif β-agonisttir; sistemik vasküler direnci azaltabilir.",
+      "isTrue": true,
+      "explanation": "β1 ile kardiyak uyarı ve β2 ile vazodilatasyon görülür.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-1u9p6e2",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fenilefrinin temel reseptör etkisi saf β2 agonizmasıdır.",
+      "isTrue": false,
+      "explanation": "Fenilefrin saf α1 agonistidir; vazokonstriksiyon ve refleks bradikardi yapabilir.",
+      "source": "DailyMed: fenilefrin"
+    },
+    {
+      "id": "PER243-14x6nvi",
+      "course": "PER243",
+      "topic": "Otonom sinir sistemi ve ilaçlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Vazopressin, adrenerjik reseptör yerine V1 reseptörü üzerinden vazokonstriksiyon oluşturur.",
+      "isTrue": true,
+      "explanation": "Vazopressinin vazokonstriktör etkisi V1 aracılıdır.",
+      "source": "DailyMed: vazopressin"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

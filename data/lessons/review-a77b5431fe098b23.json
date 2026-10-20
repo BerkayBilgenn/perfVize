@@ -1,0 +1,888 @@
+{
+  "id": "review-a77b5431fe098b23",
+  "title": "Preoperatif değerlendirme ve risk skorları",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "ASA fiziksel durum sınıflaması",
+      "text": "ASA physical status\nAnestezi öncesi hastanın sistemik hastalık yükünü tanımlayan fiziksel durum sınıflaması; cerrahiye özgü mortalite yüzdesi hesaplamaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-0hfw0la",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "term",
+        "importance": 3,
+        "term": "ASA fiziksel durum sınıflaması",
+        "en": "ASA physical status",
+        "definition": "Anestezi öncesi hastanın sistemik hastalık yükünü tanımlayan fiziksel durum sınıflaması; cerrahiye özgü mortalite yüzdesi hesaplamaz.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "NYHA sınıflaması",
+      "text": "NYHA functional class\nKalp yetersizliği semptomlarına göre fiziksel aktivite kısıtlılığını ve istirahatteki semptom durumunu tanımlayan fonksiyonel sınıflama.",
+      "images": [],
+      "card": {
+        "id": "PER243-0tp4tfv",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "term",
+        "importance": 3,
+        "term": "NYHA sınıflaması",
+        "en": "NYHA functional class",
+        "definition": "Kalp yetersizliği semptomlarına göre fiziksel aktivite kısıtlılığını ve istirahatteki semptom durumunu tanımlayan fonksiyonel sınıflama.",
+        "source": "NYHA / CCS sınıflamaları"
+      }
+    },
+    {
+      "title": "CCS sınıflaması",
+      "text": "CCS angina class\nEforla ortaya çıkan anjinanın hastanın olağan fiziksel aktivitesini ne ölçüde kısıtladığını tanımlayan sınıflama.",
+      "images": [],
+      "card": {
+        "id": "PER243-0bvq8m4",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "term",
+        "importance": 3,
+        "term": "CCS sınıflaması",
+        "en": "CCS angina class",
+        "definition": "Eforla ortaya çıkan anjinanın hastanın olağan fiziksel aktivitesini ne ölçüde kısıtladığını tanımlayan sınıflama.",
+        "source": "NYHA / CCS sınıflamaları"
+      }
+    },
+    {
+      "title": "EuroSCORE II",
+      "text": "EuroSCORE II\nKalp cerrahisi hastalarında hastane mortalitesi olasılığını hasta, kalp ve operasyon değişkenlerinden hesaplayan lojistik risk modeli.",
+      "images": [],
+      "card": {
+        "id": "PER243-1j4lg1k",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "term",
+        "importance": 3,
+        "term": "EuroSCORE II",
+        "en": "EuroSCORE II",
+        "definition": "Kalp cerrahisi hastalarında hastane mortalitesi olasılığını hasta, kalp ve operasyon değişkenlerinden hesaplayan lojistik risk modeli.",
+        "source": "EuroSCORE II"
+      }
+    },
+    {
+      "title": "STS skoru",
+      "text": "STS risk score\nErişkin kalp cerrahisinde operatif mortalite ve majör morbiditeyi öngören risk hesaplayıcısı.",
+      "images": [],
+      "card": {
+        "id": "PER243-0u9yiut",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "term",
+        "importance": 3,
+        "term": "STS skoru",
+        "en": "STS risk score",
+        "definition": "Erişkin kalp cerrahisinde operatif mortalite ve majör morbiditeyi öngören risk hesaplayıcısı.",
+        "source": "STS risk hesaplayıcısı"
+      }
+    },
+    {
+      "title": "Semptoma göre sınıflama",
+      "text": "NYHA\nKalp yetersizliği semptomları\nNefes darlığı ve yorgunlukla aktivite kısıtlılığı\n\nCCS\nAnjina semptomları\nEforla göğüs ağrısının aktiviteyi kısıtlaması",
+      "images": [],
+      "card": {
+        "id": "PER243-10b3uv9",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "compare",
+        "importance": 2,
+        "title": "Semptoma göre sınıflama",
+        "left": {
+          "title": "NYHA",
+          "points": [
+            "Kalp yetersizliği semptomları",
+            "Nefes darlığı ve yorgunlukla aktivite kısıtlılığı"
+          ]
+        },
+        "right": {
+          "title": "CCS",
+          "points": [
+            "Anjina semptomları",
+            "Eforla göğüs ağrısının aktiviteyi kısıtlaması"
+          ]
+        },
+        "source": "NYHA / CCS sınıflamaları"
+      }
+    },
+    {
+      "title": "Risk tahmininin sınırı",
+      "text": "STS risk tahmini karar verme bilgilerinden biridir. Tek bir yüksek risk özelliği, hastayı cerrahiden dışlama gerekçesi olarak kullanılmamalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0b10sz1",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Risk tahmininin sınırı",
+        "body": "STS risk tahmini karar verme bilgilerinden biridir. Tek bir yüksek risk özelliği, hastayı cerrahiden dışlama gerekçesi olarak kullanılmamalıdır.",
+        "source": "STS risk hesaplayıcısı"
+      }
+    },
+    {
+      "title": "EuroSCORE'da böbrek işlevi",
+      "text": "EuroSCORE II böbrek fonksiyonunu **kreatinin klirensi ve diyaliz durumuyla** değerlendirir; yalnız serum kreatininine dayanan bir sınıflama değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1v4j368",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 2,
+        "title": "EuroSCORE'da böbrek işlevi",
+        "body": "EuroSCORE II böbrek fonksiyonunu **kreatinin klirensi ve diyaliz durumuyla** değerlendirir; yalnız serum kreatininine dayanan bir sınıflama değildir.",
+        "source": "EuroSCORE II"
+      }
+    },
+    {
+      "title": "Elektif cerrahi ve P2Y12 arası",
+      "text": "2024 PBM kılavuzunda elektif kalp cerrahisi öncesi kesme aralıkları: **klopidogrel 5 gün, prasugrel 7 gün, tikagrelor en az 3 gün**. Aciliyet ve trombotik risk ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1wtelyw",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 3,
+        "title": "Elektif cerrahi ve P2Y12 arası",
+        "body": "2024 PBM kılavuzunda elektif kalp cerrahisi öncesi kesme aralıkları: **klopidogrel 5 gün, prasugrel 7 gün, tikagrelor en az 3 gün**. Aciliyet ve trombotik risk ayrıca değerlendirilir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Aspirin ve KABG",
+      "text": "2024 PBM kılavuzu, koroner arter bypass greftleme öncesi aspirinin sürdürülmesini destekler. **Yüksek kanama riski** olan hastalarda yaklaşım farklılaşabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1dpis7k",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aspirin ve KABG",
+        "body": "2024 PBM kılavuzu, koroner arter bypass greftleme öncesi aspirinin sürdürülmesini destekler. **Yüksek kanama riski** olan hastalarda yaklaşım farklılaşabilir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Antikoagülan köprülemenin kapsamı",
+      "text": "2024 PBM kılavuzunda heparinle köprüleme, mekanik kapak gibi **yüksek trombotik risk** durumlarıyla sınırlıdır; bütün hastalara aynı biçimde uygulanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ugd0bh",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 1,
+        "title": "Antikoagülan köprülemenin kapsamı",
+        "body": "2024 PBM kılavuzunda heparinle köprüleme, mekanik kapak gibi **yüksek trombotik risk** durumlarıyla sınırlıdır; bütün hastalara aynı biçimde uygulanmaz.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Preoperatif aneminin anlamı",
+      "text": "Preoperatif anemi transfüzyon, komplikasyon ve mortalite riskini artırır. Değerlendirme ameliyat öncesinde tanı ve tedaviyi içerir.",
+      "images": [],
+      "card": {
+        "id": "PER243-10u51gf",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Preoperatif aneminin anlamı",
+        "body": "Preoperatif anemi transfüzyon, komplikasyon ve mortalite riskini artırır. Değerlendirme ameliyat öncesinde tanı ve tedaviyi içerir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Rutin testlerin öngörü sınırı",
+      "text": "Preoperatif rutin PT ve aPTT, kalp cerrahisindeki kanama ve transfüzyon miktarını tek başına güvenilir biçimde öngörmez.",
+      "images": [],
+      "card": {
+        "id": "PER243-14wxqkg",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Rutin testlerin öngörü sınırı",
+        "body": "Preoperatif rutin PT ve aPTT, kalp cerrahisindeki kanama ve transfüzyon miktarını tek başına güvenilir biçimde öngörmez.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "EuroSCORE II'de ürjan cerrahi nasıl tanımlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-062qzjn",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "flip",
+        "importance": 2,
+        "question": "EuroSCORE II'de ürjan cerrahi nasıl tanımlanır?",
+        "answer": "Elektif yatırılmamış, aynı yatışta ameliyatı gereken ve **eve gönderilemeyen** hastanın cerrahisidir.",
+        "source": "EuroSCORE II"
+      }
+    },
+    {
+      "title": "EuroSCORE II'de salvage cerrahiyi belirleyen olay nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1ex8abz",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "flip",
+        "importance": 3,
+        "question": "EuroSCORE II'de salvage cerrahiyi belirleyen olay nedir?",
+        "answer": "Ameliyathaneye giderken veya **anestezi indüksiyonundan önce kalp masajı gerekmesi**; indüksiyon sonrası masaj bu tanıma dahil değildir.",
+        "source": "EuroSCORE II"
+      }
+    },
+    {
+      "title": "Varfarinin acil geri çevrilmesinde 2024 PBM'nin öncelikli ürünü nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-18x2k3j",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Varfarinin acil geri çevrilmesinde 2024 PBM'nin öncelikli ürünü nedir?",
+        "answer": "**Protrombin kompleks konsantresi** önceliklidir; hızlı INR düzeltmesi sağlar. Taze donmuş plazma alternatif yaklaşımdır.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Andeksanet ve KPB",
+      "text": "2024 PBM kılavuzunda andeksanet alfanın KPB öncesi kullanımı **heparin direnci ve devre pıhtılaşması** riskiyle ilişkilidir; preoperatif kullanım önerilmez.",
+      "images": [],
+      "card": {
+        "id": "PER243-09b7u13",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "remember",
+        "importance": 3,
+        "title": "Andeksanet ve KPB",
+        "body": "2024 PBM kılavuzunda andeksanet alfanın KPB öncesi kullanımı **heparin direnci ve devre pıhtılaşması** riskiyle ilişkilidir; preoperatif kullanım önerilmez.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Kronik beta-bloker",
+      "text": "2024 KPB kılavuzunda kronik **beta-blokerin sürdürülmesi** desteklenir; bradikardi ve hipotansiyon riski ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0bnrxst",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kronik beta-bloker",
+        "body": "2024 KPB kılavuzunda kronik **beta-blokerin sürdürülmesi** desteklenir; bradikardi ve hipotansiyon riski ayrıca değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ASA III ve IV örnekleri",
+      "text": "ASA'nın 2020 tablosunda implante kalp pili ve orta derecede ejeksiyon fraksiyonu azalması **ASA III**; devam eden kardiyak iskemi ve ağır kapak disfonksiyonu **ASA IV** örnekleridir.",
+      "images": [],
+      "card": {
+        "id": "PER243-15hk4m9",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "fact",
+        "importance": 2,
+        "title": "ASA III ve IV örnekleri",
+        "body": "ASA'nın 2020 tablosunda implante kalp pili ve orta derecede ejeksiyon fraksiyonu azalması **ASA III**; devam eden kardiyak iskemi ve ağır kapak disfonksiyonu **ASA IV** örnekleridir.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "ASA'nın normal sağlıklı hasta sınıfı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0vq5a22",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ASA'nın normal sağlıklı hasta sınıfı hangisidir?",
+        "options": [
+          "ASA II",
+          "ASA IV",
+          "ASA I",
+          "ASA VI"
+        ],
+        "correct": 2,
+        "explanation": "ASA I normal sağlıklı hastayı tanımlar.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "Yaşamı sürekli tehdit eden ağır sistemik hastalık hangi ASA sınıfıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0ecupgr",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Yaşamı sürekli tehdit eden ağır sistemik hastalık hangi ASA sınıfıdır?",
+        "options": [
+          "ASA I",
+          "ASA II",
+          "ASA III",
+          "ASA IV"
+        ],
+        "correct": 3,
+        "explanation": "ASA IV, yaşamı sürekli tehdit eden ağır sistemik hastalık durumudur.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "Ameliyatsız yaşaması beklenmeyen moribund hasta hangi ASA sınıfındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0aom579",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Ameliyatsız yaşaması beklenmeyen moribund hasta hangi ASA sınıfındadır?",
+        "options": [
+          "ASA V",
+          "ASA II",
+          "ASA III",
+          "ASA VI"
+        ],
+        "correct": 0,
+        "explanation": "ASA V tanımı ameliyat olmadan sağkalımı beklenmeyen moribund hastayı içerir.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "Beyin ölümü gerçekleşmiş organ donörü hangi ASA sınıfıyla belirtilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-00s800v",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Beyin ölümü gerçekleşmiş organ donörü hangi ASA sınıfıyla belirtilir?",
+        "options": [
+          "ASA I",
+          "ASA VI",
+          "ASA III",
+          "ASA V"
+        ],
+        "correct": 1,
+        "explanation": "ASA VI organları donör amacıyla alınacak beyin ölümü gerçekleşmiş hastayı tanımlar.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "Olağan aktivitede semptomu olmayan kalp yetersizliği hastası hangi NYHA sınıfındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1qvjoko",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Olağan aktivitede semptomu olmayan kalp yetersizliği hastası hangi NYHA sınıfındadır?",
+        "options": [
+          "NYHA II",
+          "NYHA III",
+          "NYHA I",
+          "NYHA IV"
+        ],
+        "correct": 2,
+        "explanation": "NYHA I'de fiziksel aktivite kısıtlılığı yoktur; olağan aktivite semptom oluşturmaz.",
+        "source": "NYHA / CCS sınıflamaları"
+      }
+    },
+    {
+      "title": "İstirahatte rahat olup olağandan az aktivitede kalp yetersizliği semptomu yaşayan hasta hangi NYHA sınıfındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-19moj45",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 1,
+        "question": "İstirahatte rahat olup olağandan az aktivitede kalp yetersizliği semptomu yaşayan hasta hangi NYHA sınıfındadır?",
+        "options": [
+          "NYHA I",
+          "NYHA II",
+          "NYHA IV",
+          "NYHA III"
+        ],
+        "correct": 3,
+        "explanation": "Olağandan az aktivitenin semptom oluşturması belirgin kısıtlılık, yani NYHA III'tür.",
+        "source": "NYHA / CCS sınıflamaları"
+      }
+    },
+    {
+      "title": "Yalnız yoğun veya uzun eforla anjinası olan hasta hangi CCS sınıfındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-13e3o5q",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Yalnız yoğun veya uzun eforla anjinası olan hasta hangi CCS sınıfındadır?",
+        "options": [
+          "CCS I",
+          "CCS II",
+          "CCS III",
+          "CCS IV"
+        ],
+        "correct": 0,
+        "explanation": "CCS I'de olağan aktivite anjina yapmaz; yoğun, hızlı veya uzun efor tetikler.",
+        "source": "NYHA / CCS sınıflamaları"
+      }
+    },
+    {
+      "title": "ASA sınıfındaki E eki elektif ameliyatı ifade eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0384t1j",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ASA sınıfındaki E eki elektif ameliyatı ifade eder.",
+        "isTrue": false,
+        "explanation": "E eki acil cerrahiyi belirtir; gecikmenin yaşam veya organ için tehdidi belirgin artırması esas alınır.",
+        "source": "ASA fiziksel durum sınıflaması"
+      }
+    },
+    {
+      "title": "2024 KPB kılavuzu kronik statin kullanıcılarında perioperatif tedavinin sürdürülmesini destekler.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0czd7ai",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "tf",
+        "importance": 3,
+        "statement": "2024 KPB kılavuzu kronik statin kullanıcılarında perioperatif tedavinin sürdürülmesini destekler.",
+        "isTrue": true,
+        "explanation": "Kronik statinin sürdürülmesiyle, ameliyat öncesi yeni yüksek doz statin başlama aynı yaklaşım değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "EuroSCORE II'nin temel tahmin sonlanımı hastanın anjina sınıfıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1nr0q7y",
+        "course": "PER243",
+        "topic": "Preoperatif değerlendirme ve risk skorları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "EuroSCORE II'nin temel tahmin sonlanımı hastanın anjina sınıfıdır.",
+        "isTrue": false,
+        "explanation": "EuroSCORE II hastane mortalitesini öngörür; anjina sınıfı modelin girdilerinden biri olabilir.",
+        "source": "EuroSCORE II"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-0hfw0la",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "term",
+      "importance": 3,
+      "term": "ASA fiziksel durum sınıflaması",
+      "en": "ASA physical status",
+      "definition": "Anestezi öncesi hastanın sistemik hastalık yükünü tanımlayan fiziksel durum sınıflaması; cerrahiye özgü mortalite yüzdesi hesaplamaz.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-0tp4tfv",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "term",
+      "importance": 3,
+      "term": "NYHA sınıflaması",
+      "en": "NYHA functional class",
+      "definition": "Kalp yetersizliği semptomlarına göre fiziksel aktivite kısıtlılığını ve istirahatteki semptom durumunu tanımlayan fonksiyonel sınıflama.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "id": "PER243-0bvq8m4",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "term",
+      "importance": 3,
+      "term": "CCS sınıflaması",
+      "en": "CCS angina class",
+      "definition": "Eforla ortaya çıkan anjinanın hastanın olağan fiziksel aktivitesini ne ölçüde kısıtladığını tanımlayan sınıflama.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "id": "PER243-1j4lg1k",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "term",
+      "importance": 3,
+      "term": "EuroSCORE II",
+      "en": "EuroSCORE II",
+      "definition": "Kalp cerrahisi hastalarında hastane mortalitesi olasılığını hasta, kalp ve operasyon değişkenlerinden hesaplayan lojistik risk modeli.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "id": "PER243-0u9yiut",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "term",
+      "importance": 3,
+      "term": "STS skoru",
+      "en": "STS risk score",
+      "definition": "Erişkin kalp cerrahisinde operatif mortalite ve majör morbiditeyi öngören risk hesaplayıcısı.",
+      "source": "STS risk hesaplayıcısı"
+    },
+    {
+      "id": "PER243-10b3uv9",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "compare",
+      "importance": 2,
+      "title": "Semptoma göre sınıflama",
+      "left": {
+        "title": "NYHA",
+        "points": [
+          "Kalp yetersizliği semptomları",
+          "Nefes darlığı ve yorgunlukla aktivite kısıtlılığı"
+        ]
+      },
+      "right": {
+        "title": "CCS",
+        "points": [
+          "Anjina semptomları",
+          "Eforla göğüs ağrısının aktiviteyi kısıtlaması"
+        ]
+      },
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "id": "PER243-0b10sz1",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Risk tahmininin sınırı",
+      "body": "STS risk tahmini karar verme bilgilerinden biridir. Tek bir yüksek risk özelliği, hastayı cerrahiden dışlama gerekçesi olarak kullanılmamalıdır.",
+      "source": "STS risk hesaplayıcısı"
+    },
+    {
+      "id": "PER243-1v4j368",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 2,
+      "title": "EuroSCORE'da böbrek işlevi",
+      "body": "EuroSCORE II böbrek fonksiyonunu **kreatinin klirensi ve diyaliz durumuyla** değerlendirir; yalnız serum kreatininine dayanan bir sınıflama değildir.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "id": "PER243-1wtelyw",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 3,
+      "title": "Elektif cerrahi ve P2Y12 arası",
+      "body": "2024 PBM kılavuzunda elektif kalp cerrahisi öncesi kesme aralıkları: **klopidogrel 5 gün, prasugrel 7 gün, tikagrelor en az 3 gün**. Aciliyet ve trombotik risk ayrıca değerlendirilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1dpis7k",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspirin ve KABG",
+      "body": "2024 PBM kılavuzu, koroner arter bypass greftleme öncesi aspirinin sürdürülmesini destekler. **Yüksek kanama riski** olan hastalarda yaklaşım farklılaşabilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1ugd0bh",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 1,
+      "title": "Antikoagülan köprülemenin kapsamı",
+      "body": "2024 PBM kılavuzunda heparinle köprüleme, mekanik kapak gibi **yüksek trombotik risk** durumlarıyla sınırlıdır; bütün hastalara aynı biçimde uygulanmaz.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-10u51gf",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Preoperatif aneminin anlamı",
+      "body": "Preoperatif anemi transfüzyon, komplikasyon ve mortalite riskini artırır. Değerlendirme ameliyat öncesinde tanı ve tedaviyi içerir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-14wxqkg",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Rutin testlerin öngörü sınırı",
+      "body": "Preoperatif rutin PT ve aPTT, kalp cerrahisindeki kanama ve transfüzyon miktarını tek başına güvenilir biçimde öngörmez.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-062qzjn",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "flip",
+      "importance": 2,
+      "question": "EuroSCORE II'de ürjan cerrahi nasıl tanımlanır?",
+      "answer": "Elektif yatırılmamış, aynı yatışta ameliyatı gereken ve **eve gönderilemeyen** hastanın cerrahisidir.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "id": "PER243-1ex8abz",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "flip",
+      "importance": 3,
+      "question": "EuroSCORE II'de salvage cerrahiyi belirleyen olay nedir?",
+      "answer": "Ameliyathaneye giderken veya **anestezi indüksiyonundan önce kalp masajı gerekmesi**; indüksiyon sonrası masaj bu tanıma dahil değildir.",
+      "source": "EuroSCORE II"
+    },
+    {
+      "id": "PER243-18x2k3j",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Varfarinin acil geri çevrilmesinde 2024 PBM'nin öncelikli ürünü nedir?",
+      "answer": "**Protrombin kompleks konsantresi** önceliklidir; hızlı INR düzeltmesi sağlar. Taze donmuş plazma alternatif yaklaşımdır.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-09b7u13",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "remember",
+      "importance": 3,
+      "title": "Andeksanet ve KPB",
+      "body": "2024 PBM kılavuzunda andeksanet alfanın KPB öncesi kullanımı **heparin direnci ve devre pıhtılaşması** riskiyle ilişkilidir; preoperatif kullanım önerilmez.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0bnrxst",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kronik beta-bloker",
+      "body": "2024 KPB kılavuzunda kronik **beta-blokerin sürdürülmesi** desteklenir; bradikardi ve hipotansiyon riski ayrıca değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-15hk4m9",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "fact",
+      "importance": 2,
+      "title": "ASA III ve IV örnekleri",
+      "body": "ASA'nın 2020 tablosunda implante kalp pili ve orta derecede ejeksiyon fraksiyonu azalması **ASA III**; devam eden kardiyak iskemi ve ağır kapak disfonksiyonu **ASA IV** örnekleridir.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-0vq5a22",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ASA'nın normal sağlıklı hasta sınıfı hangisidir?",
+      "options": [
+        "ASA II",
+        "ASA IV",
+        "ASA I",
+        "ASA VI"
+      ],
+      "correct": 2,
+      "explanation": "ASA I normal sağlıklı hastayı tanımlar.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-0ecupgr",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yaşamı sürekli tehdit eden ağır sistemik hastalık hangi ASA sınıfıdır?",
+      "options": [
+        "ASA I",
+        "ASA II",
+        "ASA III",
+        "ASA IV"
+      ],
+      "correct": 3,
+      "explanation": "ASA IV, yaşamı sürekli tehdit eden ağır sistemik hastalık durumudur.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-0aom579",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ameliyatsız yaşaması beklenmeyen moribund hasta hangi ASA sınıfındadır?",
+      "options": [
+        "ASA V",
+        "ASA II",
+        "ASA III",
+        "ASA VI"
+      ],
+      "correct": 0,
+      "explanation": "ASA V tanımı ameliyat olmadan sağkalımı beklenmeyen moribund hastayı içerir.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-00s800v",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Beyin ölümü gerçekleşmiş organ donörü hangi ASA sınıfıyla belirtilir?",
+      "options": [
+        "ASA I",
+        "ASA VI",
+        "ASA III",
+        "ASA V"
+      ],
+      "correct": 1,
+      "explanation": "ASA VI organları donör amacıyla alınacak beyin ölümü gerçekleşmiş hastayı tanımlar.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-1qvjoko",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Olağan aktivitede semptomu olmayan kalp yetersizliği hastası hangi NYHA sınıfındadır?",
+      "options": [
+        "NYHA II",
+        "NYHA III",
+        "NYHA I",
+        "NYHA IV"
+      ],
+      "correct": 2,
+      "explanation": "NYHA I'de fiziksel aktivite kısıtlılığı yoktur; olağan aktivite semptom oluşturmaz.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "id": "PER243-19moj45",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 1,
+      "question": "İstirahatte rahat olup olağandan az aktivitede kalp yetersizliği semptomu yaşayan hasta hangi NYHA sınıfındadır?",
+      "options": [
+        "NYHA I",
+        "NYHA II",
+        "NYHA IV",
+        "NYHA III"
+      ],
+      "correct": 3,
+      "explanation": "Olağandan az aktivitenin semptom oluşturması belirgin kısıtlılık, yani NYHA III'tür.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "id": "PER243-13e3o5q",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Yalnız yoğun veya uzun eforla anjinası olan hasta hangi CCS sınıfındadır?",
+      "options": [
+        "CCS I",
+        "CCS II",
+        "CCS III",
+        "CCS IV"
+      ],
+      "correct": 0,
+      "explanation": "CCS I'de olağan aktivite anjina yapmaz; yoğun, hızlı veya uzun efor tetikler.",
+      "source": "NYHA / CCS sınıflamaları"
+    },
+    {
+      "id": "PER243-0384t1j",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ASA sınıfındaki E eki elektif ameliyatı ifade eder.",
+      "isTrue": false,
+      "explanation": "E eki acil cerrahiyi belirtir; gecikmenin yaşam veya organ için tehdidi belirgin artırması esas alınır.",
+      "source": "ASA fiziksel durum sınıflaması"
+    },
+    {
+      "id": "PER243-0czd7ai",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "tf",
+      "importance": 3,
+      "statement": "2024 KPB kılavuzu kronik statin kullanıcılarında perioperatif tedavinin sürdürülmesini destekler.",
+      "isTrue": true,
+      "explanation": "Kronik statinin sürdürülmesiyle, ameliyat öncesi yeni yüksek doz statin başlama aynı yaklaşım değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1nr0q7y",
+      "course": "PER243",
+      "topic": "Preoperatif değerlendirme ve risk skorları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "EuroSCORE II'nin temel tahmin sonlanımı hastanın anjina sınıfıdır.",
+      "isTrue": false,
+      "explanation": "EuroSCORE II hastane mortalitesini öngörür; anjina sınıfı modelin girdilerinden biri olabilir.",
+      "source": "EuroSCORE II"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

@@ -1,0 +1,831 @@
+{
+  "id": "review-eb77c4be04392e6e",
+  "title": "El antisepsisi, önlük, eldiven ve steril alan",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Aseptik teknik",
+      "text": "Aseptic technique\nSteril alanın kurulması ve korunmasına yönelik, kanıta dayalı (AORN) ilkeler bütünü.",
+      "images": [],
+      "card": {
+        "id": "PER247-1es5jha",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Aseptik teknik",
+        "definition": "Steril alanın kurulması ve korunmasına yönelik, kanıta dayalı (AORN) ilkeler bütünü.",
+        "en": "Aseptic technique"
+      }
+    },
+    {
+      "title": "Cerrahi el hazırlığı",
+      "text": "Surgical hand preparation\nSteril eldiven öncesi antimikrobiyal sabun veya ABHR ile el-önkol antisepsisi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0z8bmy7",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 3,
+        "source": "WHO 2018",
+        "term": "Cerrahi el hazırlığı",
+        "definition": "Steril eldiven öncesi antimikrobiyal sabun veya ABHR ile el-önkol antisepsisi.",
+        "en": "Surgical hand preparation"
+      }
+    },
+    {
+      "title": "Alkol bazlı el ovma ürünü",
+      "text": "Alcohol-based handrub\nEllere uygulanıp ovulan alkol içerikli sıvı/jel/köpük.",
+      "images": [],
+      "card": {
+        "id": "PER247-0dlfpis",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO El Hijyeni 2009",
+        "term": "Alkol bazlı el ovma ürünü",
+        "definition": "Ellere uygulanıp ovulan alkol içerikli sıvı/jel/köpük.",
+        "en": "Alcohol-based handrub"
+      }
+    },
+    {
+      "title": "Geçici flora",
+      "text": "Transient flora\nDerinin yüzeysel katmanlarını kolonize eden, el hijyeniyle kolay uzaklaşan mikroorganizmalar.",
+      "images": [],
+      "card": {
+        "id": "PER247-0tsjedn",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 1,
+        "source": "WHO 2018",
+        "term": "Geçici flora",
+        "definition": "Derinin yüzeysel katmanlarını kolonize eden, el hijyeniyle kolay uzaklaşan mikroorganizmalar.",
+        "en": "Transient flora"
+      }
+    },
+    {
+      "title": "Kalıcı flora",
+      "text": "Resident flora\nDerinin derin katmanlarında yerleşik, uzaklaştırılması daha zor mikroorganizmalar.",
+      "images": [],
+      "card": {
+        "id": "PER247-1d4ukqo",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 1,
+        "source": "WHO 2018",
+        "term": "Kalıcı flora",
+        "definition": "Derinin derin katmanlarında yerleşik, uzaklaştırılması daha zor mikroorganizmalar.",
+        "en": "Resident flora"
+      }
+    },
+    {
+      "title": "Çift eldiven",
+      "text": "Double gloving\nİki kat cerrahi eldiven giyilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0dml8xg",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 1,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Çift eldiven",
+        "definition": "İki kat cerrahi eldiven giyilmesi.",
+        "en": "Double gloving"
+      }
+    },
+    {
+      "title": "Steril alan",
+      "text": "Sterile field\nSteril örtülerle oluşturulan, steril malzeme ve ekibin bulunduğu korunan alan.",
+      "images": [],
+      "card": {
+        "id": "PER247-06hugmq",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Steril alan",
+        "definition": "Steril örtülerle oluşturulan, steril malzeme ve ekibin bulunduğu korunan alan.",
+        "en": "Sterile field"
+      }
+    },
+    {
+      "title": "Örtüleme",
+      "text": "Draping\nHasta, mobilya ve ekipmanın steril örtülerle kaplanması.",
+      "images": [],
+      "card": {
+        "id": "PER247-0xkadvc",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Örtüleme",
+        "definition": "Hasta, mobilya ve ekipmanın steril örtülerle kaplanması.",
+        "en": "Draping"
+      }
+    },
+    {
+      "title": "Mayo masası",
+      "text": "Mayo stand\nAlet masası; steril alana alınmadan önce üst, alt ve yanları steril örtüyle kaplanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1vdtmnv",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 1,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "term": "Mayo masası",
+        "definition": "Alet masası; steril alana alınmadan önce üst, alt ve yanları steril örtüyle kaplanır.",
+        "en": "Mayo stand"
+      }
+    },
+    {
+      "title": "Cerrahi alan hazırlığı",
+      "text": "Surgical site preparation\nAmeliyathanede insizyon bölgesi ve çevresinin antiseptikle hazırlanması.",
+      "images": [],
+      "card": {
+        "id": "PER247-0idikv8",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Cerrahi alan hazırlığı",
+        "definition": "Ameliyathanede insizyon bölgesi ve çevresinin antiseptikle hazırlanması.",
+        "en": "Surgical site preparation"
+      }
+    },
+    {
+      "title": "Kırpma",
+      "text": "Clipping\nKılın elektrikli kırpıcıyla cilt yüzeyine yakın **kısaltılması** işlemi; clipping terimiyle anılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0jfz8r1",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "term",
+        "importance": 3,
+        "source": "WHO 2018",
+        "term": "Kırpma",
+        "definition": "Kılın elektrikli kırpıcıyla cilt yüzeyine yakın **kısaltılması** işlemi; clipping terimiyle anılır.",
+        "en": "Clipping"
+      }
+    },
+    {
+      "title": "Geçici ve kalıcı flora",
+      "text": "Geçici flora\nDerinin yüzeysel katmanlarında bulunur\nEl hijyeniyle daha kolay uzaklaştırılır\n\nKalıcı flora\nDerinin daha derin katmanlarında yerleşir\nCerrahi hazırlıkta azaltılıp düşük tutulması hedeflenir",
+      "images": [],
+      "card": {
+        "id": "PER247-0hxui0n",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "compare",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Geçici ve kalıcı flora",
+        "left": {
+          "title": "Geçici flora",
+          "points": [
+            "Derinin yüzeysel katmanlarında bulunur",
+            "El hijyeniyle daha kolay uzaklaştırılır"
+          ]
+        },
+        "right": {
+          "title": "Kalıcı flora",
+          "points": [
+            "Derinin daha derin katmanlarında yerleşir",
+            "Cerrahi hazırlıkta azaltılıp düşük tutulması hedeflenir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Cerrahi sabunla hazırlık süresi",
+      "text": "WHO, antimikrobiyal sabunla el-önkol hazırlığında üretici süresini, genellikle **2–5 dk**, esas alır. Kuruma/ürüne göre süre değişebilir; **10 dk** gibi uzun süreler gerekli değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-14j23gm",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Cerrahi sabunla hazırlık süresi",
+        "body": "WHO, antimikrobiyal sabunla el-önkol hazırlığında üretici süresini, genellikle **2–5 dk**, esas alır. Kuruma/ürüne göre süre değişebilir; **10 dk** gibi uzun süreler gerekli değildir."
+      }
+    },
+    {
+      "title": "Cerrahi ABHR kuru ele uygulanır",
+      "text": "Cerrahi **alkol bazlı el ovma ürünü (ABHR)**, temiz ve **kuru ellere** uygulanır. Eldiven takılmadan önce ellerin ve önkolların tamamen kuruması beklenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-084cr25",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Cerrahi ABHR kuru ele uygulanır",
+        "body": "Cerrahi **alkol bazlı el ovma ürünü (ABHR)**, temiz ve **kuru ellere** uygulanır. Eldiven takılmadan önce ellerin ve önkolların tamamen kuruması beklenir."
+      }
+    },
+    {
+      "title": "Önlüğün ön yüzü",
+      "text": "Children’s Wisconsin politikasında steril önlüğün ön yüzü **göğüsten masa seviyesine** kadar steril kabul edilir. Boyun, omuz ve koltuk altları steril kabul edilmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-1lclrig",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "fact",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "title": "Önlüğün ön yüzü",
+        "body": "Children’s Wisconsin politikasında steril önlüğün ön yüzü **göğüsten masa seviyesine** kadar steril kabul edilir. Boyun, omuz ve koltuk altları steril kabul edilmez."
+      }
+    },
+    {
+      "title": "Önlüğün kol bölgesi",
+      "text": "Kurum politikasında önlük kolları, **dirseğin yaklaşık 5 cm üzerinden manşete** kadar steril kabul edilir. Bu sınır, tüm önlüğün steril sayılması anlamına gelmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-0kr7wt0",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "fact",
+        "importance": 1,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "title": "Önlüğün kol bölgesi",
+        "body": "Kurum politikasında önlük kolları, **dirseğin yaklaşık 5 cm üzerinden manşete** kadar steril kabul edilir. Bu sınır, tüm önlüğün steril sayılması anlamına gelmez."
+      }
+    },
+    {
+      "title": "Ameliyat öncesi banyo",
+      "text": "WHO, ameliyattan önce banyo veya duşu iyi klinik uygulama sayar. **Düz veya antimikrobiyal sabun** kullanılabilir; tek bir sabun formülasyonu şart değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-14z8ju6",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Ameliyat öncesi banyo",
+        "body": "WHO, ameliyattan önce banyo veya duşu iyi klinik uygulama sayar. **Düz veya antimikrobiyal sabun** kullanılabilir; tek bir sabun formülasyonu şart değildir."
+      }
+    },
+    {
+      "title": "Sargılı steril paket hangi kanat sırasıyla açılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0hdnmwt",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "flip",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "Sargılı steril paket hangi kanat sırasıyla açılır?",
+        "answer": "Önce **uzak kanat**, sonra **yan kanatlar**, en son **yakın kanat**. Bu sıra, açan kişinin steril içeriğin üzerinden uzanmasını azaltır."
+      }
+    },
+    {
+      "title": "İki steril ekip üyesi yer değiştirirken nasıl döner?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0v2ax6g",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "flip",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "İki steril ekip üyesi yer değiştirirken nasıl döner?",
+        "answer": "**Yüz yüze veya sırt sırta** yaklaşır. Birinin steril olmayan sırtı, diğerinin steril ön yüzünün üzerinden geçmemelidir."
+      }
+    },
+    {
+      "title": "Ameliyat bölgesi kılları hangi durumda ve nasıl alınır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1fp17qb",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO 2018",
+        "question": "Ameliyat bölgesi kılları hangi durumda ve nasıl alınır?",
+        "answer": "Rutin kıl alma önerilmez. Gerekiyorsa **kırpıcı kullanılır**; jiletle tıraşın oluşturduğu deri hasarı enfeksiyon riskini artırabilir."
+      }
+    },
+    {
+      "title": "Steril alan üzerinden uzanma",
+      "text": "Steril olmayan kişi steril alanın **üzerinden uzanmaz**. Malzemeye erişim yolu, alana ve steril ekibe temas ettirmeyecek biçimde düzenlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1qrnowe",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "remember",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "title": "Steril alan üzerinden uzanma",
+        "body": "Steril olmayan kişi steril alanın **üzerinden uzanmaz**. Malzemeye erişim yolu, alana ve steril ekibe temas ettirmeyecek biçimde düzenlenir."
+      }
+    },
+    {
+      "title": "Kontamine steril eldiveni değiştir",
+      "text": "Steril eldiven kontamine olduğunda **güvenli olan en erken anda değiştirilir**. Diğer eldivenin sağlam görünmesi, kontamine eldivenle steril alana devam etme gerekçesi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1jy3aa4",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "remember",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "title": "Kontamine steril eldiveni değiştir",
+        "body": "Steril eldiven kontamine olduğunda **güvenli olan en erken anda değiştirilir**. Diğer eldivenin sağlam görünmesi, kontamine eldivenle steril alana devam etme gerekçesi değildir."
+      }
+    },
+    {
+      "title": "Cerrahi alkol bazlı el ürününün uygun uygulama yüzeyi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0upbcnk",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO 2018",
+        "question": "Cerrahi alkol bazlı el ürününün uygun uygulama yüzeyi hangisidir?",
+        "options": [
+          "Görünür kirli ıslak el",
+          "Sabun köpüklü el",
+          "Eldiven takılı el",
+          "Temiz ve kuru el"
+        ],
+        "correct": 3,
+        "explanation": "Cerrahi ABHR **kuru ele** uygulanır; yeterli miktarla önerilen süre boyunca ovulur."
+      }
+    },
+    {
+      "title": "Steril alanın uygun hazırlanma yeri/zamanı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1p379mi",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "Steril alanın uygun hazırlanma yeri/zamanı hangisidir?",
+        "options": [
+          "Kullanım yerinde, kullanıma yakın",
+          "Başka odada, günler öncesinde",
+          "Depo koridorunda, taşımadan önce",
+          "Kirli kabulde, set yıkamadan önce"
+        ],
+        "correct": 0,
+        "explanation": "Steril alan **kullanılacağı yerde ve kullanıma yakın** hazırlanır, taşınmaz."
+      }
+    },
+    {
+      "title": "Steril önlüğün kontamine kabul edilen bölgesi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1r22q7z",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "Steril önlüğün kontamine kabul edilen bölgesi hangisidir?",
+        "options": [
+          "Göğüsten masa seviyesine ön yüz",
+          "Koltuk altı",
+          "Dirseğin üstünden manşete kol",
+          "Masa üstüyle temas eden ön yüz"
+        ],
+        "correct": 1,
+        "explanation": "Kurum politikasında **boyun, omuz ve koltuk altları** kontamine kabul edilir."
+      }
+    },
+    {
+      "title": "Ağır veya keskin steril malzeme alana sunulurken uygun yöntem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0m7dkhm",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "question": "Ağır veya keskin steril malzeme alana sunulurken uygun yöntem hangisidir?",
+        "options": [
+          "Diğer açık aletlerin üstüne kontrollü bırakmak",
+          "Hassas örtünün üstüne ağırlığıyla serbest bırakmak",
+          "Doğrudan steril ekip üyesine sunmak",
+          "Koruyucu ambalajını steril masa üzerinde açmak"
+        ],
+        "correct": 2,
+        "explanation": "Kurum politikası ağır/keskin malzemeyi **doğrudan steril ekip üyesine sunmayı** veya ayrı temiz, kuru yüzeyde açmayı ister; kontrollü sunum gerekir."
+      }
+    },
+    {
+      "title": "Kapının bantlanması steril alanın sürekli gözetiminin yerine geçmez.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1gmgb98",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "tf",
+        "importance": 2,
+        "source": "Children’s Wisconsin steril alan politikası",
+        "statement": "Kapının bantlanması steril alanın sürekli gözetiminin yerine geçmez.",
+        "isTrue": true,
+        "explanation": "Kurum politikası oluşturulan steril alanın **sürekli izlenmesini** ister."
+      }
+    },
+    {
+      "title": "WHO cerrahi sabun hazırlığı ile alkollü ovmanın ardışık birleştirilmesini önerir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1xhezzj",
+        "course": "PER247",
+        "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+        "type": "tf",
+        "importance": 2,
+        "source": "WHO 2018",
+        "statement": "WHO cerrahi sabun hazırlığı ile alkollü ovmanın ardışık birleştirilmesini önerir.",
+        "isTrue": false,
+        "explanation": "WHO, cerrahi sabun hazırlığı ve alkollü ovmayı **ardışık birleştirmemeyi** belirtir; uygun yöntem seçilir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-1es5jha",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Aseptik teknik",
+      "definition": "Steril alanın kurulması ve korunmasına yönelik, kanıta dayalı (AORN) ilkeler bütünü.",
+      "en": "Aseptic technique"
+    },
+    {
+      "id": "PER247-0z8bmy7",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 3,
+      "source": "WHO 2018",
+      "term": "Cerrahi el hazırlığı",
+      "definition": "Steril eldiven öncesi antimikrobiyal sabun veya ABHR ile el-önkol antisepsisi.",
+      "en": "Surgical hand preparation"
+    },
+    {
+      "id": "PER247-0dlfpis",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "term": "Alkol bazlı el ovma ürünü",
+      "definition": "Ellere uygulanıp ovulan alkol içerikli sıvı/jel/köpük.",
+      "en": "Alcohol-based handrub"
+    },
+    {
+      "id": "PER247-0tsjedn",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 1,
+      "source": "WHO 2018",
+      "term": "Geçici flora",
+      "definition": "Derinin yüzeysel katmanlarını kolonize eden, el hijyeniyle kolay uzaklaşan mikroorganizmalar.",
+      "en": "Transient flora"
+    },
+    {
+      "id": "PER247-1d4ukqo",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 1,
+      "source": "WHO 2018",
+      "term": "Kalıcı flora",
+      "definition": "Derinin derin katmanlarında yerleşik, uzaklaştırılması daha zor mikroorganizmalar.",
+      "en": "Resident flora"
+    },
+    {
+      "id": "PER247-0dml8xg",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Çift eldiven",
+      "definition": "İki kat cerrahi eldiven giyilmesi.",
+      "en": "Double gloving"
+    },
+    {
+      "id": "PER247-06hugmq",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Steril alan",
+      "definition": "Steril örtülerle oluşturulan, steril malzeme ve ekibin bulunduğu korunan alan.",
+      "en": "Sterile field"
+    },
+    {
+      "id": "PER247-0xkadvc",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Örtüleme",
+      "definition": "Hasta, mobilya ve ekipmanın steril örtülerle kaplanması.",
+      "en": "Draping"
+    },
+    {
+      "id": "PER247-1vdtmnv",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "term": "Mayo masası",
+      "definition": "Alet masası; steril alana alınmadan önce üst, alt ve yanları steril örtüyle kaplanır.",
+      "en": "Mayo stand"
+    },
+    {
+      "id": "PER247-0idikv8",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Cerrahi alan hazırlığı",
+      "definition": "Ameliyathanede insizyon bölgesi ve çevresinin antiseptikle hazırlanması.",
+      "en": "Surgical site preparation"
+    },
+    {
+      "id": "PER247-0jfz8r1",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "term",
+      "importance": 3,
+      "source": "WHO 2018",
+      "term": "Kırpma",
+      "definition": "Kılın elektrikli kırpıcıyla cilt yüzeyine yakın **kısaltılması** işlemi; clipping terimiyle anılır.",
+      "en": "Clipping"
+    },
+    {
+      "id": "PER247-0hxui0n",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "compare",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Geçici ve kalıcı flora",
+      "left": {
+        "title": "Geçici flora",
+        "points": [
+          "Derinin yüzeysel katmanlarında bulunur",
+          "El hijyeniyle daha kolay uzaklaştırılır"
+        ]
+      },
+      "right": {
+        "title": "Kalıcı flora",
+        "points": [
+          "Derinin daha derin katmanlarında yerleşir",
+          "Cerrahi hazırlıkta azaltılıp düşük tutulması hedeflenir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-14j23gm",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Cerrahi sabunla hazırlık süresi",
+      "body": "WHO, antimikrobiyal sabunla el-önkol hazırlığında üretici süresini, genellikle **2–5 dk**, esas alır. Kuruma/ürüne göre süre değişebilir; **10 dk** gibi uzun süreler gerekli değildir."
+    },
+    {
+      "id": "PER247-084cr25",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Cerrahi ABHR kuru ele uygulanır",
+      "body": "Cerrahi **alkol bazlı el ovma ürünü (ABHR)**, temiz ve **kuru ellere** uygulanır. Eldiven takılmadan önce ellerin ve önkolların tamamen kuruması beklenir."
+    },
+    {
+      "id": "PER247-1lclrig",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "fact",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Önlüğün ön yüzü",
+      "body": "Children’s Wisconsin politikasında steril önlüğün ön yüzü **göğüsten masa seviyesine** kadar steril kabul edilir. Boyun, omuz ve koltuk altları steril kabul edilmez."
+    },
+    {
+      "id": "PER247-0kr7wt0",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "fact",
+      "importance": 1,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Önlüğün kol bölgesi",
+      "body": "Kurum politikasında önlük kolları, **dirseğin yaklaşık 5 cm üzerinden manşete** kadar steril kabul edilir. Bu sınır, tüm önlüğün steril sayılması anlamına gelmez."
+    },
+    {
+      "id": "PER247-14z8ju6",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Ameliyat öncesi banyo",
+      "body": "WHO, ameliyattan önce banyo veya duşu iyi klinik uygulama sayar. **Düz veya antimikrobiyal sabun** kullanılabilir; tek bir sabun formülasyonu şart değildir."
+    },
+    {
+      "id": "PER247-0hdnmwt",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "flip",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Sargılı steril paket hangi kanat sırasıyla açılır?",
+      "answer": "Önce **uzak kanat**, sonra **yan kanatlar**, en son **yakın kanat**. Bu sıra, açan kişinin steril içeriğin üzerinden uzanmasını azaltır."
+    },
+    {
+      "id": "PER247-0v2ax6g",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "flip",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "İki steril ekip üyesi yer değiştirirken nasıl döner?",
+      "answer": "**Yüz yüze veya sırt sırta** yaklaşır. Birinin steril olmayan sırtı, diğerinin steril ön yüzünün üzerinden geçmemelidir."
+    },
+    {
+      "id": "PER247-1fp17qb",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Ameliyat bölgesi kılları hangi durumda ve nasıl alınır?",
+      "answer": "Rutin kıl alma önerilmez. Gerekiyorsa **kırpıcı kullanılır**; jiletle tıraşın oluşturduğu deri hasarı enfeksiyon riskini artırabilir."
+    },
+    {
+      "id": "PER247-1qrnowe",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "remember",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Steril alan üzerinden uzanma",
+      "body": "Steril olmayan kişi steril alanın **üzerinden uzanmaz**. Malzemeye erişim yolu, alana ve steril ekibe temas ettirmeyecek biçimde düzenlenir."
+    },
+    {
+      "id": "PER247-1jy3aa4",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "remember",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "title": "Kontamine steril eldiveni değiştir",
+      "body": "Steril eldiven kontamine olduğunda **güvenli olan en erken anda değiştirilir**. Diğer eldivenin sağlam görünmesi, kontamine eldivenle steril alana devam etme gerekçesi değildir."
+    },
+    {
+      "id": "PER247-0upbcnk",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Cerrahi alkol bazlı el ürününün uygun uygulama yüzeyi hangisidir?",
+      "options": [
+        "Görünür kirli ıslak el",
+        "Sabun köpüklü el",
+        "Eldiven takılı el",
+        "Temiz ve kuru el"
+      ],
+      "correct": 3,
+      "explanation": "Cerrahi ABHR **kuru ele** uygulanır; yeterli miktarla önerilen süre boyunca ovulur."
+    },
+    {
+      "id": "PER247-1p379mi",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Steril alanın uygun hazırlanma yeri/zamanı hangisidir?",
+      "options": [
+        "Kullanım yerinde, kullanıma yakın",
+        "Başka odada, günler öncesinde",
+        "Depo koridorunda, taşımadan önce",
+        "Kirli kabulde, set yıkamadan önce"
+      ],
+      "correct": 0,
+      "explanation": "Steril alan **kullanılacağı yerde ve kullanıma yakın** hazırlanır, taşınmaz."
+    },
+    {
+      "id": "PER247-1r22q7z",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Steril önlüğün kontamine kabul edilen bölgesi hangisidir?",
+      "options": [
+        "Göğüsten masa seviyesine ön yüz",
+        "Koltuk altı",
+        "Dirseğin üstünden manşete kol",
+        "Masa üstüyle temas eden ön yüz"
+      ],
+      "correct": 1,
+      "explanation": "Kurum politikasında **boyun, omuz ve koltuk altları** kontamine kabul edilir."
+    },
+    {
+      "id": "PER247-0m7dkhm",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "question": "Ağır veya keskin steril malzeme alana sunulurken uygun yöntem hangisidir?",
+      "options": [
+        "Diğer açık aletlerin üstüne kontrollü bırakmak",
+        "Hassas örtünün üstüne ağırlığıyla serbest bırakmak",
+        "Doğrudan steril ekip üyesine sunmak",
+        "Koruyucu ambalajını steril masa üzerinde açmak"
+      ],
+      "correct": 2,
+      "explanation": "Kurum politikası ağır/keskin malzemeyi **doğrudan steril ekip üyesine sunmayı** veya ayrı temiz, kuru yüzeyde açmayı ister; kontrollü sunum gerekir."
+    },
+    {
+      "id": "PER247-1gmgb98",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "tf",
+      "importance": 2,
+      "source": "Children’s Wisconsin steril alan politikası",
+      "statement": "Kapının bantlanması steril alanın sürekli gözetiminin yerine geçmez.",
+      "isTrue": true,
+      "explanation": "Kurum politikası oluşturulan steril alanın **sürekli izlenmesini** ister."
+    },
+    {
+      "id": "PER247-1xhezzj",
+      "course": "PER247",
+      "topic": "El antisepsisi, önlük, eldiven ve steril alan",
+      "type": "tf",
+      "importance": 2,
+      "source": "WHO 2018",
+      "statement": "WHO cerrahi sabun hazırlığı ile alkollü ovmanın ardışık birleştirilmesini önerir.",
+      "isTrue": false,
+      "explanation": "WHO, cerrahi sabun hazırlığı ve alkollü ovmayı **ardışık birleştirmemeyi** belirtir; uygun yöntem seçilir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

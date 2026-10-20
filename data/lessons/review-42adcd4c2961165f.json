@@ -1,0 +1,802 @@
+{
+  "id": "review-42adcd4c2961165f",
+  "title": "Isı değiştirici, HCU ve M. chimaera",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Outgassing",
+      "text": "Outgassing\nHızlı ısıtmada kanda çözünmüş gazların kabarcık olarak açığa çıkması.",
+      "images": [],
+      "card": {
+        "id": "PER141-0cppdfv",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "Outgassing",
+        "definition": "Hızlı ısıtmada kanda çözünmüş gazların kabarcık olarak açığa çıkması.",
+        "en": "Outgassing",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "Isı değiştirici",
+      "text": "Heat exchanger\nSu ile kan arasında ısı aktaran, oksijenatöre entegre ve oksijenatörden önce yer alan bölüm.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ae7n5q",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "Isı değiştirici",
+        "definition": "Su ile kan arasında ısı aktaran, oksijenatöre entegre ve oksijenatörden önce yer alan bölüm.",
+        "en": "Heat exchanger",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Isıtıcı-soğutucu ünite (HCU)",
+      "text": "Heater-cooler unit\nIsı değiştiricilere sıcaklığı ayarlı su pompalayan cihaz; M. chimaera kaynağı olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0qbefu6",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "Isıtıcı-soğutucu ünite (HCU)",
+        "definition": "Isı değiştiricilere sıcaklığı ayarlı su pompalayan cihaz; M. chimaera kaynağı olabilir.",
+        "en": "Heater-cooler unit",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ters akım ilkesi",
+      "text": "Countercurrent principle\nSu ve kanın zıt yönlerde akarak ısı aktarımını en verimli hâle getirmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1b1tmxu",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 1,
+        "term": "Ters akım ilkesi",
+        "definition": "Su ve kanın zıt yönlerde akarak ısı aktarımını en verimli hâle getirmesi.",
+        "en": "Countercurrent principle",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Mycobacterium chimaera",
+      "text": "M. chimaera\nIsıtıcı-soğutucu ünite suyunun kontaminasyonuyla ilişkili, aerosollerle cerrahi alana ulaşabilen tüberküloz dışı mikobakteri.",
+      "images": [],
+      "card": {
+        "id": "PER141-0dsr0zd",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 3,
+        "term": "Mycobacterium chimaera",
+        "definition": "Isıtıcı-soğutucu ünite suyunun kontaminasyonuyla ilişkili, aerosollerle cerrahi alana ulaşabilen tüberküloz dışı mikobakteri.",
+        "en": "M. chimaera",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hipotermi",
+      "text": "Hypothermia\nVücut kor sıcaklığının normalin altına düşmesi; perfüzyonda oksijen tüketimini azaltmak için kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1falzfg",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "Hipotermi",
+        "definition": "Vücut kor sıcaklığının normalin altına düşmesi; perfüzyonda oksijen tüketimini azaltmak için kullanılabilir.",
+        "en": "Hypothermia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Normotermi",
+      "text": "Normothermia\nNormal vücut sıcaklığında yürütülen KPB.",
+      "images": [],
+      "card": {
+        "id": "PER141-0gyiifp",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "Normotermi",
+        "definition": "Normal vücut sıcaklığında yürütülen KPB.",
+        "en": "Normothermia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "DHCA",
+      "text": "Deep hypothermic circulatory arrest\nDerin hipotermi altında sistemik dolaşımın tamamen durdurulması; özellikle aort arkus cerrahisinde kullanılan yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER141-1sqinhl",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "DHCA",
+        "definition": "Derin hipotermi altında sistemik dolaşımın tamamen durdurulması; özellikle aort arkus cerrahisinde kullanılan yöntem.",
+        "en": "Deep hypothermic circulatory arrest",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Nazofaringeal (NP) sıcaklık",
+      "text": "Nasopharyngeal temperature\nBeyin sıcaklığını iyi yansıtan ölçüm yeri.",
+      "images": [],
+      "card": {
+        "id": "PER141-0cxzddm",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "term",
+        "importance": 2,
+        "term": "Nazofaringeal (NP) sıcaklık",
+        "definition": "Beyin sıcaklığını iyi yansıtan ölçüm yeri.",
+        "en": "Nasopharyngeal temperature",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sıcaklık ölçümünün anlamı",
+      "text": "Arteriyel çıkış\nDevreden hastaya giden kanın sıcaklığı\nIsıtmada serebral perfüzatı düşük gösterebilir\n\nMesane veya rektum\nHasta vücut bölgesinin sıcaklığı\nIsıtmada beyin sıcaklığının gerisinde kalabilir",
+      "images": [],
+      "card": {
+        "id": "PER141-0oueuiu",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "compare",
+        "importance": 2,
+        "title": "Sıcaklık ölçümünün anlamı",
+        "left": {
+          "title": "Arteriyel çıkış",
+          "points": [
+            "Devreden hastaya giden kanın sıcaklığı",
+            "Isıtmada serebral perfüzatı düşük gösterebilir"
+          ]
+        },
+        "right": {
+          "title": "Mesane veya rektum",
+          "points": [
+            "Hasta vücut bölgesinin sıcaklığı",
+            "Isıtmada beyin sıcaklığının gerisinde kalabilir"
+          ]
+        },
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "Soğutma ve ısıtmada gradyan",
+      "text": "STS/SCA/AmSECT 2015'e göre oksijenatör **arteriyel çıkışı ile venöz girişi** arasındaki sıcaklık farkı, soğutma ve ısıtmada 10 °C'yi aşmamalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1p86nvg",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "fact",
+        "importance": 3,
+        "title": "Soğutma ve ısıtmada gradyan",
+        "body": "STS/SCA/AmSECT 2015'e göre oksijenatör **arteriyel çıkışı ile venöz girişi** arasındaki sıcaklık farkı, soğutma ve ısıtmada 10 °C'yi aşmamalıdır.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "30 °C sonrası kontrollü ısıtma",
+      "text": "STS 2015'e göre arteriyel çıkış ≥30 °C iken arteriyel çıkış-venöz giriş farkı **≤4 °C**, ısıtma hızı ≤0,5 °C/dk tutulması makuldür.",
+      "images": [],
+      "card": {
+        "id": "PER141-0879pfp",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "fact",
+        "importance": 3,
+        "title": "30 °C sonrası kontrollü ısıtma",
+        "body": "STS 2015'e göre arteriyel çıkış ≥30 °C iken arteriyel çıkış-venöz giriş farkı **≤4 °C**, ısıtma hızı ≤0,5 °C/dk tutulması makuldür.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "Arteriyel çıkış sıcaklık sınırı",
+      "text": "EACTS 2024 arteriyel çıkışı **en çok 37 °C**, STS 2015 ise <37 °C ile sınırlar. Amaç serebral hipertermiden kaçınmaktır; sınırın kaynak dili belirtilmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-01iud1r",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "fact",
+        "importance": 3,
+        "title": "Arteriyel çıkış sıcaklık sınırı",
+        "body": "EACTS 2024 arteriyel çıkışı **en çok 37 °C**, STS 2015 ise <37 °C ile sınırlar. Amaç serebral hipertermiden kaçınmaktır; sınırın kaynak dili belirtilmelidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hasta sıcaklığının gecikmesi",
+      "text": "STS 2015'te mesane veya rektal sıcaklığın ısıtmada beyin sıcaklığından **2–4 °C düşük** kalabileceği belirtilir; tek bölge ölçümüyle karar verilmez.",
+      "images": [],
+      "card": {
+        "id": "PER141-1n6d790",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hasta sıcaklığının gecikmesi",
+        "body": "STS 2015'te mesane veya rektal sıcaklığın ısıtmada beyin sıcaklığından **2–4 °C düşük** kalabileceği belirtilir; tek bölge ölçümüyle karar verilmez.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "HCU su sınırı cihazın özelliğidir",
+      "text": "FDA cihaz örneklerinde Hemotherm 400CE **3–42 °C**, Terumo HX2 10–40 °C su aralığına sahiptir. Bu değerler hastaya giden kan sıcaklığının hedefi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0ga9wej",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "fact",
+        "importance": 1,
+        "title": "HCU su sınırı cihazın özelliğidir",
+        "body": "FDA cihaz örneklerinde Hemotherm 400CE **3–42 °C**, Terumo HX2 10–40 °C su aralığına sahiptir. Bu değerler hastaya giden kan sıcaklığının hedefi değildir.",
+        "source": "FDA: HCU cihaz özetleri"
+      }
+    },
+    {
+      "title": "M. chimaera'nın gecikmesi",
+      "text": "HCU ile ilişkili M. chimaera enfeksiyonu uzun latanslıdır. EACTS 2024'te yüksek mortalite **%40–65** olarak aktarılır; tek bir kesin başlangıç süresi kabul edilmez.",
+      "images": [],
+      "card": {
+        "id": "PER141-0c8z0ea",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "fact",
+        "importance": 2,
+        "title": "M. chimaera'nın gecikmesi",
+        "body": "HCU ile ilişkili M. chimaera enfeksiyonu uzun latanslıdır. EACTS 2024'te yüksek mortalite **%40–65** olarak aktarılır; tek bir kesin başlangıç süresi kabul edilmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HCU'nun su devresi kapalı olsa da mikroorganizma cerrahi alana nasıl ulaşabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0yhs8a3",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "flip",
+        "importance": 3,
+        "question": "HCU'nun su devresi kapalı olsa da mikroorganizma cerrahi alana nasıl ulaşabilir?",
+        "answer": "Kontamine tank suyundan oluşan **aerosol**, cihazın havalandırmasıyla cerrahi alana taşınabilir.",
+        "source": "CDC MMWR 2016"
+      }
+    },
+    {
+      "title": "HCU'da kanın sıcaklığı doğrudan hangi akışkan aracılığıyla değiştirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0xx79n7",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "flip",
+        "importance": 2,
+        "question": "HCU'da kanın sıcaklığı doğrudan hangi akışkan aracılığıyla değiştirilir?",
+        "answer": "Isı değiştiricide dolaştırılan **suyla**; su ile kan normalde ayrı bölmelerde bulunur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HCU bakımında hangi ana parçalar değerlendirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0cgntyh",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "flip",
+        "importance": 2,
+        "question": "HCU bakımında hangi ana parçalar değerlendirilir?",
+        "answer": "Su tankı, sirkülasyon pompaları, sıcaklık kontrolü ve sensörler ile tüp/konnektörler bakım planına alınır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "HCU yerleşimi enfeksiyon güvenliğidir",
+      "text": "EACTS 2024, HCU'nun mümkünse **ameliyathane dışına** konulmasını önerir. Üretici talimatına göre örnekleme, temizlik ve dezenfeksiyon sürdürülür.",
+      "images": [],
+      "card": {
+        "id": "PER141-1b05hn7",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "remember",
+        "importance": 3,
+        "title": "HCU yerleşimi enfeksiyon güvenliğidir",
+        "body": "EACTS 2024, HCU'nun mümkünse **ameliyathane dışına** konulmasını önerir. Üretici talimatına göre örnekleme, temizlik ve dezenfeksiyon sürdürülür.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hasta ve cihazı birlikte izle",
+      "text": "Arteriyel çıkış, birden çok hasta bölgesi ve HCU su sıcaklığı birlikte izlenir. **Su ayarı ile kan sıcaklığı farklıdır**; aşırı ısıtma serebral hipertermi riski taşır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ru8a3i",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "remember",
+        "importance": 3,
+        "title": "Hasta ve cihazı birlikte izle",
+        "body": "Arteriyel çıkış, birden çok hasta bölgesi ve HCU su sıcaklığı birlikte izlenir. **Su ayarı ile kan sıcaklığı farklıdır**; aşırı ısıtma serebral hipertermi riski taşır.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Isı değiştiricide ters akım ilkesi ne demektir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1swtvmw",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Isı değiştiricide ters akım ilkesi ne demektir?",
+        "options": [
+          "Su ve kanın zıt yönde akması",
+          "Su ve kanın aynı yönde akması",
+          "Kan akımının tümüyle kesilmesi",
+          "Gazın su tankına gönderilmesi"
+        ],
+        "correct": 0,
+        "explanation": "Zıt yönlü akış, ısı transferinin verimini artırır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Isıtmada serebral perfüzat sıcaklığıyla ilgili hangi yaklaşım doğrudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1uprnrh",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Isıtmada serebral perfüzat sıcaklığıyla ilgili hangi yaklaşım doğrudur?",
+        "options": [
+          "Arteriyel çıkış yalnız suyu ölçer",
+          "Arteriyel çıkış düşük gösterebilir",
+          "Mesane sıcaklığı beyni tam yansıtır",
+          "Venöz sıcaklık ölçümü gereksizdir"
+        ],
+        "correct": 1,
+        "explanation": "STS 2015, arteriyel çıkış sıcaklığının ısıtmada serebral perfüzatı düşük gösterebileceğini belirtir.",
+        "source": "STS/SCA/AmSECT 2015"
+      }
+    },
+    {
+      "title": "M. chimaera hangi mikroorganizma grubundadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-07p9cgm",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "mcq",
+        "importance": 2,
+        "question": "M. chimaera hangi mikroorganizma grubundadır?",
+        "options": [
+          "Gram negatif enterobakteri",
+          "Zarflı solunum virüsü",
+          "Tüberküloz dışı mikobakteri",
+          "Filamentöz küf mantarı"
+        ],
+        "correct": 2,
+        "explanation": "CDC, HCU salgınlarını tüberküloz dışı M. chimaera ile ilişkilendirir.",
+        "source": "CDC MMWR 2016"
+      }
+    },
+    {
+      "title": "HCU kaynaklı biyofilm neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1br1e7s",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "mcq",
+        "importance": 2,
+        "question": "HCU kaynaklı biyofilm neden önemlidir?",
+        "options": [
+          "Gaz blenderini kalibre eder",
+          "Kan viskozitesini düşürür",
+          "Koroner akımı artırır",
+          "Dezenfeksiyona direnç gösterebilir"
+        ],
+        "correct": 3,
+        "explanation": "Biyofilm kontaminasyonun kalıcı olmasını ve dezenfeksiyonun zorlaşmasını sağlayabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HCU suyu normal çalışma sırasında hastanın kanıyla doğrudan karışır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1dc8x36",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "tf",
+        "importance": 2,
+        "statement": "HCU suyu normal çalışma sırasında hastanın kanıyla doğrudan karışır.",
+        "isTrue": false,
+        "explanation": "Isı transferi ayrı su ve kan bölmeleri arasında gerçekleşir; karışma su-kan kaçağıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Yavaş ısıtma postoperatif bilişsel bozukluğu azaltmayı destekleyebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1j0ui4w",
+        "course": "PER141",
+        "topic": "Isı değiştirici, HCU ve M. chimaera",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Yavaş ısıtma postoperatif bilişsel bozukluğu azaltmayı destekleyebilir.",
+        "isTrue": true,
+        "explanation": "EACTS 2024'ün değerlendirdiği çalışmalar yavaş ısıtmayla daha az bilişsel bozukluk ilişkisi bildirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0cppdfv",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "Outgassing",
+      "definition": "Hızlı ısıtmada kanda çözünmüş gazların kabarcık olarak açığa çıkması.",
+      "en": "Outgassing",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER141-1ae7n5q",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "Isı değiştirici",
+      "definition": "Su ile kan arasında ısı aktaran, oksijenatöre entegre ve oksijenatörden önce yer alan bölüm.",
+      "en": "Heat exchanger",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0qbefu6",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "Isıtıcı-soğutucu ünite (HCU)",
+      "definition": "Isı değiştiricilere sıcaklığı ayarlı su pompalayan cihaz; M. chimaera kaynağı olabilir.",
+      "en": "Heater-cooler unit",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1b1tmxu",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 1,
+      "term": "Ters akım ilkesi",
+      "definition": "Su ve kanın zıt yönlerde akarak ısı aktarımını en verimli hâle getirmesi.",
+      "en": "Countercurrent principle",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0dsr0zd",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 3,
+      "term": "Mycobacterium chimaera",
+      "definition": "Isıtıcı-soğutucu ünite suyunun kontaminasyonuyla ilişkili, aerosollerle cerrahi alana ulaşabilen tüberküloz dışı mikobakteri.",
+      "en": "M. chimaera",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1falzfg",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "Hipotermi",
+      "definition": "Vücut kor sıcaklığının normalin altına düşmesi; perfüzyonda oksijen tüketimini azaltmak için kullanılabilir.",
+      "en": "Hypothermia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0gyiifp",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "Normotermi",
+      "definition": "Normal vücut sıcaklığında yürütülen KPB.",
+      "en": "Normothermia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1sqinhl",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "DHCA",
+      "definition": "Derin hipotermi altında sistemik dolaşımın tamamen durdurulması; özellikle aort arkus cerrahisinde kullanılan yöntem.",
+      "en": "Deep hypothermic circulatory arrest",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0cxzddm",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "term",
+      "importance": 2,
+      "term": "Nazofaringeal (NP) sıcaklık",
+      "definition": "Beyin sıcaklığını iyi yansıtan ölçüm yeri.",
+      "en": "Nasopharyngeal temperature",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0oueuiu",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "compare",
+      "importance": 2,
+      "title": "Sıcaklık ölçümünün anlamı",
+      "left": {
+        "title": "Arteriyel çıkış",
+        "points": [
+          "Devreden hastaya giden kanın sıcaklığı",
+          "Isıtmada serebral perfüzatı düşük gösterebilir"
+        ]
+      },
+      "right": {
+        "title": "Mesane veya rektum",
+        "points": [
+          "Hasta vücut bölgesinin sıcaklığı",
+          "Isıtmada beyin sıcaklığının gerisinde kalabilir"
+        ]
+      },
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER141-1p86nvg",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "fact",
+      "importance": 3,
+      "title": "Soğutma ve ısıtmada gradyan",
+      "body": "STS/SCA/AmSECT 2015'e göre oksijenatör **arteriyel çıkışı ile venöz girişi** arasındaki sıcaklık farkı, soğutma ve ısıtmada 10 °C'yi aşmamalıdır.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER141-0879pfp",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "fact",
+      "importance": 3,
+      "title": "30 °C sonrası kontrollü ısıtma",
+      "body": "STS 2015'e göre arteriyel çıkış ≥30 °C iken arteriyel çıkış-venöz giriş farkı **≤4 °C**, ısıtma hızı ≤0,5 °C/dk tutulması makuldür.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER141-01iud1r",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "fact",
+      "importance": 3,
+      "title": "Arteriyel çıkış sıcaklık sınırı",
+      "body": "EACTS 2024 arteriyel çıkışı **en çok 37 °C**, STS 2015 ise <37 °C ile sınırlar. Amaç serebral hipertermiden kaçınmaktır; sınırın kaynak dili belirtilmelidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1n6d790",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hasta sıcaklığının gecikmesi",
+      "body": "STS 2015'te mesane veya rektal sıcaklığın ısıtmada beyin sıcaklığından **2–4 °C düşük** kalabileceği belirtilir; tek bölge ölçümüyle karar verilmez.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER141-0ga9wej",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "fact",
+      "importance": 1,
+      "title": "HCU su sınırı cihazın özelliğidir",
+      "body": "FDA cihaz örneklerinde Hemotherm 400CE **3–42 °C**, Terumo HX2 10–40 °C su aralığına sahiptir. Bu değerler hastaya giden kan sıcaklığının hedefi değildir.",
+      "source": "FDA: HCU cihaz özetleri"
+    },
+    {
+      "id": "PER141-0c8z0ea",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "fact",
+      "importance": 2,
+      "title": "M. chimaera'nın gecikmesi",
+      "body": "HCU ile ilişkili M. chimaera enfeksiyonu uzun latanslıdır. EACTS 2024'te yüksek mortalite **%40–65** olarak aktarılır; tek bir kesin başlangıç süresi kabul edilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0yhs8a3",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "flip",
+      "importance": 3,
+      "question": "HCU'nun su devresi kapalı olsa da mikroorganizma cerrahi alana nasıl ulaşabilir?",
+      "answer": "Kontamine tank suyundan oluşan **aerosol**, cihazın havalandırmasıyla cerrahi alana taşınabilir.",
+      "source": "CDC MMWR 2016"
+    },
+    {
+      "id": "PER141-0xx79n7",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "flip",
+      "importance": 2,
+      "question": "HCU'da kanın sıcaklığı doğrudan hangi akışkan aracılığıyla değiştirilir?",
+      "answer": "Isı değiştiricide dolaştırılan **suyla**; su ile kan normalde ayrı bölmelerde bulunur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0cgntyh",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "flip",
+      "importance": 2,
+      "question": "HCU bakımında hangi ana parçalar değerlendirilir?",
+      "answer": "Su tankı, sirkülasyon pompaları, sıcaklık kontrolü ve sensörler ile tüp/konnektörler bakım planına alınır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1b05hn7",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "remember",
+      "importance": 3,
+      "title": "HCU yerleşimi enfeksiyon güvenliğidir",
+      "body": "EACTS 2024, HCU'nun mümkünse **ameliyathane dışına** konulmasını önerir. Üretici talimatına göre örnekleme, temizlik ve dezenfeksiyon sürdürülür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1ru8a3i",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "remember",
+      "importance": 3,
+      "title": "Hasta ve cihazı birlikte izle",
+      "body": "Arteriyel çıkış, birden çok hasta bölgesi ve HCU su sıcaklığı birlikte izlenir. **Su ayarı ile kan sıcaklığı farklıdır**; aşırı ısıtma serebral hipertermi riski taşır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1swtvmw",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isı değiştiricide ters akım ilkesi ne demektir?",
+      "options": [
+        "Su ve kanın zıt yönde akması",
+        "Su ve kanın aynı yönde akması",
+        "Kan akımının tümüyle kesilmesi",
+        "Gazın su tankına gönderilmesi"
+      ],
+      "correct": 0,
+      "explanation": "Zıt yönlü akış, ısı transferinin verimini artırır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1uprnrh",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isıtmada serebral perfüzat sıcaklığıyla ilgili hangi yaklaşım doğrudur?",
+      "options": [
+        "Arteriyel çıkış yalnız suyu ölçer",
+        "Arteriyel çıkış düşük gösterebilir",
+        "Mesane sıcaklığı beyni tam yansıtır",
+        "Venöz sıcaklık ölçümü gereksizdir"
+      ],
+      "correct": 1,
+      "explanation": "STS 2015, arteriyel çıkış sıcaklığının ısıtmada serebral perfüzatı düşük gösterebileceğini belirtir.",
+      "source": "STS/SCA/AmSECT 2015"
+    },
+    {
+      "id": "PER141-07p9cgm",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "mcq",
+      "importance": 2,
+      "question": "M. chimaera hangi mikroorganizma grubundadır?",
+      "options": [
+        "Gram negatif enterobakteri",
+        "Zarflı solunum virüsü",
+        "Tüberküloz dışı mikobakteri",
+        "Filamentöz küf mantarı"
+      ],
+      "correct": 2,
+      "explanation": "CDC, HCU salgınlarını tüberküloz dışı M. chimaera ile ilişkilendirir.",
+      "source": "CDC MMWR 2016"
+    },
+    {
+      "id": "PER141-1br1e7s",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "mcq",
+      "importance": 2,
+      "question": "HCU kaynaklı biyofilm neden önemlidir?",
+      "options": [
+        "Gaz blenderini kalibre eder",
+        "Kan viskozitesini düşürür",
+        "Koroner akımı artırır",
+        "Dezenfeksiyona direnç gösterebilir"
+      ],
+      "correct": 3,
+      "explanation": "Biyofilm kontaminasyonun kalıcı olmasını ve dezenfeksiyonun zorlaşmasını sağlayabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1dc8x36",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "tf",
+      "importance": 2,
+      "statement": "HCU suyu normal çalışma sırasında hastanın kanıyla doğrudan karışır.",
+      "isTrue": false,
+      "explanation": "Isı transferi ayrı su ve kan bölmeleri arasında gerçekleşir; karışma su-kan kaçağıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1j0ui4w",
+      "course": "PER141",
+      "topic": "Isı değiştirici, HCU ve M. chimaera",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Yavaş ısıtma postoperatif bilişsel bozukluğu azaltmayı destekleyebilir.",
+      "isTrue": true,
+      "explanation": "EACTS 2024'ün değerlendirdiği çalışmalar yavaş ısıtmayla daha az bilişsel bozukluk ilişkisi bildirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

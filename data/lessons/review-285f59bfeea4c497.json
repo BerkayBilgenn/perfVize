@@ -1,0 +1,644 @@
+{
+  "id": "review-285f59bfeea4c497",
+  "title": "KPB devresi ve kan akış yolu",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Konvansiyonel KPB (CECC)",
+      "text": "Conventional ECC\nRoller arteriyel pompa ve kaplamasız açık venöz rezervuar kullanan, ayrı saha kanı yönetimi olmayan klasik ekstrakorporeal devre.",
+      "images": [],
+      "card": {
+        "id": "PER141-1q6ejwd",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "term",
+        "importance": 2,
+        "term": "Konvansiyonel KPB (CECC)",
+        "definition": "Roller arteriyel pompa ve kaplamasız açık venöz rezervuar kullanan, ayrı saha kanı yönetimi olmayan klasik ekstrakorporeal devre.",
+        "en": "Conventional ECC",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Optimize KPB",
+      "text": "Optimized CPB\nKonvansiyonel devreye hemodinamik, biyouyumluluk veya hemodilüsyonu iyileştiren en az bir tekniğin eklenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1e55scd",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "term",
+        "importance": 2,
+        "term": "Optimize KPB",
+        "definition": "Konvansiyonel devreye hemodinamik, biyouyumluluk veya hemodilüsyonu iyileştiren en az bir tekniğin eklenmesi.",
+        "en": "Optimized CPB",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel hat",
+      "text": "Arterial line\nOksijenlenmiş kanı oksijenatör ve filtreden hastanın arteriyel kanülüne taşıyan devre hattı.",
+      "images": [],
+      "card": {
+        "id": "PER141-1tqib87",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "term",
+        "importance": 3,
+        "term": "Arteriyel hat",
+        "definition": "Oksijenlenmiş kanı oksijenatör ve filtreden hastanın arteriyel kanülüne taşıyan devre hattı.",
+        "en": "Arterial line",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Venöz hat",
+      "text": "Venous line\nHastadan venöz kanülle alınan kanı devrenin venöz rezervuarına taşıyan hat.",
+      "images": [],
+      "card": {
+        "id": "PER141-0wokcpj",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "term",
+        "importance": 3,
+        "term": "Venöz hat",
+        "definition": "Hastadan venöz kanülle alınan kanı devrenin venöz rezervuarına taşıyan hat.",
+        "en": "Venous line",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Örnekleme manifoldu",
+      "text": "Sampling manifold\nKan gazı ve diğer ölçümler için devreden kan örneği alınmasını sağlayan bağlantı düzeni.",
+      "images": [],
+      "card": {
+        "id": "PER141-1txq81f",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "term",
+        "importance": 1,
+        "term": "Örnekleme manifoldu",
+        "definition": "Kan gazı ve diğer ölçümler için devreden kan örneği alınmasını sağlayan bağlantı düzeni.",
+        "en": "Sampling manifold",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Desteğin bağlamı",
+      "text": "KPB\nCerrahi sırasında geçici kalp-akciğer desteği\nKardiyotomi ve kardiyopleji hatları bulunabilir\n\nECMO\nUzamış kalp ve/veya akciğer desteği\nKapalı devre ve sızıntıya dirençli membran kullanılır",
+      "images": [],
+      "card": {
+        "id": "PER141-1cm15hl",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "compare",
+        "importance": 2,
+        "title": "Desteğin bağlamı",
+        "left": {
+          "title": "KPB",
+          "points": [
+            "Cerrahi sırasında geçici kalp-akciğer desteği",
+            "Kardiyotomi ve kardiyopleji hatları bulunabilir"
+          ]
+        },
+        "right": {
+          "title": "ECMO",
+          "points": [
+            "Uzamış kalp ve/veya akciğer desteği",
+            "Kapalı devre ve sızıntıya dirençli membran kullanılır"
+          ]
+        },
+        "source": "JECT 2025: EKD tarihçesi"
+      }
+    },
+    {
+      "title": "Konvansiyonel devrede sıra",
+      "text": "Venöz kanül → venöz rezervuar → arteriyel pompa → ısı değiştirici/oksijenatör → arteriyel filtre → arteriyel kanül. Sıra **açık konvansiyonel devre** içindir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0ix631i",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "fact",
+        "importance": 3,
+        "title": "Konvansiyonel devrede sıra",
+        "body": "Venöz kanül → venöz rezervuar → arteriyel pompa → ısı değiştirici/oksijenatör → arteriyel filtre → arteriyel kanül. Sıra **açık konvansiyonel devre** içindir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Pompadan geçen kan",
+      "text": "Membran oksijenatörlü modern devrede arteriyel pompadan **venöz kan** geçer; kanın oksijen içeriği oksijenatörde artırılır. Venöz kan tamamen oksijensiz değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-028pat4",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pompadan geçen kan",
+        "body": "Membran oksijenatörlü modern devrede arteriyel pompadan **venöz kan** geçer; kanın oksijen içeriği oksijenatörde artırılır. Venöz kan tamamen oksijensiz değildir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Kardiyopleji yan devresi",
+      "text": "Kardiyopleji hattı, ana arteriyel devreden farklı olarak **ayrı pompa ve ısı değiştirici** kullanır; basınç ve hava güvenliği ayrıca sağlanır.",
+      "images": [],
+      "card": {
+        "id": "PER141-16frotr",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kardiyopleji yan devresi",
+        "body": "Kardiyopleji hattı, ana arteriyel devreden farklı olarak **ayrı pompa ve ısı değiştirici** kullanır; basınç ve hava güvenliği ayrıca sağlanır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Hemofiltre şantı",
+      "text": "Hemokonsantratör ana devreye ek bir hat üzerinden bağlanabilir. Ana arteriyel akımdan ayrılan şant akımı, hastaya ulaşan gerçek akım değerlendirilirken dikkate alınır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1b4xexm",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hemofiltre şantı",
+        "body": "Hemokonsantratör ana devreye ek bir hat üzerinden bağlanabilir. Ana arteriyel akımdan ayrılan şant akımı, hastaya ulaşan gerçek akım değerlendirilirken dikkate alınır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Bileşenlerin izlenebilirliği",
+      "text": "Perfüzyon kaydına devre bileşenlerinin **üretici, model ve seri/lot bilgileri** yazılır. Bu kayıt, sonradan oluşan cihaz sorunlarının araştırılmasına yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER141-13nmk6s",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "fact",
+        "importance": 2,
+        "title": "Bileşenlerin izlenebilirliği",
+        "body": "Perfüzyon kaydına devre bileşenlerinin **üretici, model ve seri/lot bilgileri** yazılır. Bu kayıt, sonradan oluşan cihaz sorunlarının araştırılmasına yardım eder.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Isı değiştiricinin oksijenatöre göre proksimal konumu neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ur8ggf",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "flip",
+        "importance": 3,
+        "question": "Isı değiştiricinin oksijenatöre göre proksimal konumu neden önemlidir?",
+        "answer": "Satüre kanın sıcaklığının değişmesiyle gaz kabarcıklarının ortaya çıkmasını azaltmak için ısı değişimi **oksijenlenmeden önce** yapılır.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kardiyotomi aspirasyon hattı devrenin hangi bölümüne kan taşır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0xfpl81",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kardiyotomi aspirasyon hattı devrenin hangi bölümüne kan taşır?",
+        "answer": "Cerrahi sahadaki kanı **kardiyotomi rezervuarına** taşır.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Gaz hattındaki karıştırıcıdan sonra gaz nereye gider?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1dk853n",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "flip",
+        "importance": 2,
+        "question": "Gaz hattındaki karıştırıcıdan sonra gaz nereye gider?",
+        "answer": "Blenderde ayarlanan karışım, gaz hattından **oksijenatörün gaz bölümüne** iletilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Şemayı hastadan hastaya izle",
+      "text": "Devre kontrolü yalnız bileşenleri saymakla tamamlanmaz. **Venöz girişten arteriyel dönüşe kadar** hat yönü ve bağlantılar izlenmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0d6481j",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "remember",
+        "importance": 3,
+        "title": "Şemayı hastadan hastaya izle",
+        "body": "Devre kontrolü yalnız bileşenleri saymakla tamamlanmaz. **Venöz girişten arteriyel dönüşe kadar** hat yönü ve bağlantılar izlenmelidir.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Açık KPB devresinde arteriyel pompanın girişini hangi bileşen besler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0aa6wh2",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Açık KPB devresinde arteriyel pompanın girişini hangi bileşen besler?",
+        "options": [
+          "Aort kökü venti",
+          "Gaz blenderi",
+          "Venöz rezervuar",
+          "Kardiyopleji ısı değiştiricisi"
+        ],
+        "correct": 2,
+        "explanation": "Ana pompa, rezervuarda toplanan venöz kanı oksijenatöre ilerletir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Hastaya dönüşten hemen önce filtrelenen kan hangi kanüle yönelir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0h0tnxe",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hastaya dönüşten hemen önce filtrelenen kan hangi kanüle yönelir?",
+        "options": [
+          "Venöz kanül",
+          "Retrograd kardiyopleji kanülü",
+          "Sol ventrikül vent kanülü",
+          "Arteriyel kanül"
+        ],
+        "correct": 3,
+        "explanation": "Arteriyel filtre sonrası kan arteriyel hattan dönüş kanülüne ulaşır.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Devredeki örnekleme manifoldu hangi işlem için kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1lim4vx",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Devredeki örnekleme manifoldu hangi işlem için kullanılır?",
+        "options": [
+          "Kan örneği alma",
+          "Gaz egzozunu kapatma",
+          "Su sıcaklığını değiştirme",
+          "Kaval turnikeyi sıkma"
+        ],
+        "correct": 0,
+        "explanation": "Manifold, kan gazı gibi analizler için örneklemeyi sağlar.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Konvansiyonel KPB'yi optimize etmek için hangisi anlamlı bir hedeftir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1f718x8",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Konvansiyonel KPB'yi optimize etmek için hangisi anlamlı bir hedeftir?",
+        "options": [
+          "Tüp uzunluğunu artırmak",
+          "Hemodilüsyonu azaltmak",
+          "Kan-hava temasını artırmak",
+          "Prime hacmini artırmak"
+        ],
+        "correct": 1,
+        "explanation": "Optimize KPB, hemodinamik koşulları, biyouyumluluğu veya hemodilüsyonu iyileştiren teknikler kullanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Modern membran devresinde oksijenatör ana arteriyel pompanın önündedir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-00sqws0",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Modern membran devresinde oksijenatör ana arteriyel pompanın önündedir.",
+        "isTrue": false,
+        "explanation": "Konvansiyonel modern devrede pompa, venöz kanı oksijenatöre gönderir; oksijenatör pompanın distalindedir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Isı değiştirici oksijenatöre entegre olabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0koz7gn",
+        "course": "PER141",
+        "topic": "KPB devresi ve kan akış yolu",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Isı değiştirici oksijenatöre entegre olabilir.",
+        "isTrue": true,
+        "explanation": "Birçok modern oksijenatörde ısı değiştirici entegredir; kan ısı değişiminden sonra gaz değişim bölümüne geçer.",
+        "source": "Basics of CPB 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1q6ejwd",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "term",
+      "importance": 2,
+      "term": "Konvansiyonel KPB (CECC)",
+      "definition": "Roller arteriyel pompa ve kaplamasız açık venöz rezervuar kullanan, ayrı saha kanı yönetimi olmayan klasik ekstrakorporeal devre.",
+      "en": "Conventional ECC",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1e55scd",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "term",
+      "importance": 2,
+      "term": "Optimize KPB",
+      "definition": "Konvansiyonel devreye hemodinamik, biyouyumluluk veya hemodilüsyonu iyileştiren en az bir tekniğin eklenmesi.",
+      "en": "Optimized CPB",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1tqib87",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "term",
+      "importance": 3,
+      "term": "Arteriyel hat",
+      "definition": "Oksijenlenmiş kanı oksijenatör ve filtreden hastanın arteriyel kanülüne taşıyan devre hattı.",
+      "en": "Arterial line",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0wokcpj",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "term",
+      "importance": 3,
+      "term": "Venöz hat",
+      "definition": "Hastadan venöz kanülle alınan kanı devrenin venöz rezervuarına taşıyan hat.",
+      "en": "Venous line",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1txq81f",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "term",
+      "importance": 1,
+      "term": "Örnekleme manifoldu",
+      "definition": "Kan gazı ve diğer ölçümler için devreden kan örneği alınmasını sağlayan bağlantı düzeni.",
+      "en": "Sampling manifold",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1cm15hl",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "compare",
+      "importance": 2,
+      "title": "Desteğin bağlamı",
+      "left": {
+        "title": "KPB",
+        "points": [
+          "Cerrahi sırasında geçici kalp-akciğer desteği",
+          "Kardiyotomi ve kardiyopleji hatları bulunabilir"
+        ]
+      },
+      "right": {
+        "title": "ECMO",
+        "points": [
+          "Uzamış kalp ve/veya akciğer desteği",
+          "Kapalı devre ve sızıntıya dirençli membran kullanılır"
+        ]
+      },
+      "source": "JECT 2025: EKD tarihçesi"
+    },
+    {
+      "id": "PER141-0ix631i",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "fact",
+      "importance": 3,
+      "title": "Konvansiyonel devrede sıra",
+      "body": "Venöz kanül → venöz rezervuar → arteriyel pompa → ısı değiştirici/oksijenatör → arteriyel filtre → arteriyel kanül. Sıra **açık konvansiyonel devre** içindir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-028pat4",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pompadan geçen kan",
+      "body": "Membran oksijenatörlü modern devrede arteriyel pompadan **venöz kan** geçer; kanın oksijen içeriği oksijenatörde artırılır. Venöz kan tamamen oksijensiz değildir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-16frotr",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kardiyopleji yan devresi",
+      "body": "Kardiyopleji hattı, ana arteriyel devreden farklı olarak **ayrı pompa ve ısı değiştirici** kullanır; basınç ve hava güvenliği ayrıca sağlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1b4xexm",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hemofiltre şantı",
+      "body": "Hemokonsantratör ana devreye ek bir hat üzerinden bağlanabilir. Ana arteriyel akımdan ayrılan şant akımı, hastaya ulaşan gerçek akım değerlendirilirken dikkate alınır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-13nmk6s",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "fact",
+      "importance": 2,
+      "title": "Bileşenlerin izlenebilirliği",
+      "body": "Perfüzyon kaydına devre bileşenlerinin **üretici, model ve seri/lot bilgileri** yazılır. Bu kayıt, sonradan oluşan cihaz sorunlarının araştırılmasına yardım eder.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0ur8ggf",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "flip",
+      "importance": 3,
+      "question": "Isı değiştiricinin oksijenatöre göre proksimal konumu neden önemlidir?",
+      "answer": "Satüre kanın sıcaklığının değişmesiyle gaz kabarcıklarının ortaya çıkmasını azaltmak için ısı değişimi **oksijenlenmeden önce** yapılır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0xfpl81",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyotomi aspirasyon hattı devrenin hangi bölümüne kan taşır?",
+      "answer": "Cerrahi sahadaki kanı **kardiyotomi rezervuarına** taşır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1dk853n",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "flip",
+      "importance": 2,
+      "question": "Gaz hattındaki karıştırıcıdan sonra gaz nereye gider?",
+      "answer": "Blenderde ayarlanan karışım, gaz hattından **oksijenatörün gaz bölümüne** iletilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0d6481j",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "remember",
+      "importance": 3,
+      "title": "Şemayı hastadan hastaya izle",
+      "body": "Devre kontrolü yalnız bileşenleri saymakla tamamlanmaz. **Venöz girişten arteriyel dönüşe kadar** hat yönü ve bağlantılar izlenmelidir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0aa6wh2",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Açık KPB devresinde arteriyel pompanın girişini hangi bileşen besler?",
+      "options": [
+        "Aort kökü venti",
+        "Gaz blenderi",
+        "Venöz rezervuar",
+        "Kardiyopleji ısı değiştiricisi"
+      ],
+      "correct": 2,
+      "explanation": "Ana pompa, rezervuarda toplanan venöz kanı oksijenatöre ilerletir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0h0tnxe",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hastaya dönüşten hemen önce filtrelenen kan hangi kanüle yönelir?",
+      "options": [
+        "Venöz kanül",
+        "Retrograd kardiyopleji kanülü",
+        "Sol ventrikül vent kanülü",
+        "Arteriyel kanül"
+      ],
+      "correct": 3,
+      "explanation": "Arteriyel filtre sonrası kan arteriyel hattan dönüş kanülüne ulaşır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1lim4vx",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Devredeki örnekleme manifoldu hangi işlem için kullanılır?",
+      "options": [
+        "Kan örneği alma",
+        "Gaz egzozunu kapatma",
+        "Su sıcaklığını değiştirme",
+        "Kaval turnikeyi sıkma"
+      ],
+      "correct": 0,
+      "explanation": "Manifold, kan gazı gibi analizler için örneklemeyi sağlar.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1f718x8",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Konvansiyonel KPB'yi optimize etmek için hangisi anlamlı bir hedeftir?",
+      "options": [
+        "Tüp uzunluğunu artırmak",
+        "Hemodilüsyonu azaltmak",
+        "Kan-hava temasını artırmak",
+        "Prime hacmini artırmak"
+      ],
+      "correct": 1,
+      "explanation": "Optimize KPB, hemodinamik koşulları, biyouyumluluğu veya hemodilüsyonu iyileştiren teknikler kullanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-00sqws0",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Modern membran devresinde oksijenatör ana arteriyel pompanın önündedir.",
+      "isTrue": false,
+      "explanation": "Konvansiyonel modern devrede pompa, venöz kanı oksijenatöre gönderir; oksijenatör pompanın distalindedir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0koz7gn",
+      "course": "PER141",
+      "topic": "KPB devresi ve kan akış yolu",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Isı değiştirici oksijenatöre entegre olabilir.",
+      "isTrue": true,
+      "explanation": "Birçok modern oksijenatörde ısı değiştirici entegredir; kan ısı değişiminden sonra gaz değişim bölümüne geçer.",
+      "source": "Basics of CPB 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

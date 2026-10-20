@@ -1,0 +1,698 @@
+{
+  "id": "review-29f508afb842304c",
+  "title": "Merkezi sterilizasyon ünitesi (MSÜ)",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Merkezi sterilizasyon ünitesi",
+      "text": "Central processing / central sterile services\nSteril ve steril olmayan malzemeyi işleyen, dağıtan ve kontrol eden bölüm.",
+      "images": [],
+      "card": {
+        "id": "PER247-0cn174c",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Merkezi sterilizasyon ünitesi",
+        "definition": "Steril ve steril olmayan malzemeyi işleyen, dağıtan ve kontrol eden bölüm.",
+        "en": "Central processing / central sterile services"
+      }
+    },
+    {
+      "title": "Kirli alan",
+      "text": "Decontamination area\nKirli malzemenin kabul, ayırma, ön temizlik ve dekontaminasyonunun yapıldığı, negatif basınçlı alan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1w40pws",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kirli alan",
+        "definition": "Kirli malzemenin kabul, ayırma, ön temizlik ve dekontaminasyonunun yapıldığı, negatif basınçlı alan.",
+        "en": "Decontamination area"
+      }
+    },
+    {
+      "title": "Temiz alan",
+      "text": "Clean / packaging area\nTemiz (henüz steril olmayan) malzemenin kontrol, bakım ve paketlendiği alan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1nhdmlg",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Temiz alan",
+        "definition": "Temiz (henüz steril olmayan) malzemenin kontrol, bakım ve paketlendiği alan.",
+        "en": "Clean / packaging area"
+      }
+    },
+    {
+      "title": "Steril depo",
+      "text": "Sterile storage\nGirişi sınırlı, sıcaklık/nem kontrollü steril malzeme deposu.",
+      "images": [],
+      "card": {
+        "id": "PER247-0x47ply",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Steril depo",
+        "definition": "Girişi sınırlı, sıcaklık/nem kontrollü steril malzeme deposu.",
+        "en": "Sterile storage"
+      }
+    },
+    {
+      "title": "Tek yönlü iş akışı",
+      "text": "Unidirectional workflow\nMalzemenin **kirli → temiz → steril** yönünde hareket ettiği, kirli ve temiz yolların kesişmesinin önlendiği işlem düzeni.",
+      "images": [],
+      "card": {
+        "id": "PER247-08ukkbn",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "Tek yönlü iş akışı",
+        "definition": "Malzemenin **kirli → temiz → steril** yönünde hareket ettiği, kirli ve temiz yolların kesişmesinin önlendiği işlem düzeni.",
+        "en": "Unidirectional workflow"
+      }
+    },
+    {
+      "title": "Negatif basınç",
+      "text": "Negative pressure\nHavanın komşu alandan odaya aktığı basınç farkı (dekontaminasyon alanı, AIIR).",
+      "images": [],
+      "card": {
+        "id": "PER247-0ghyekr",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Negatif basınç",
+        "definition": "Havanın komşu alandan odaya aktığı basınç farkı (dekontaminasyon alanı, AIIR).",
+        "en": "Negative pressure"
+      }
+    },
+    {
+      "title": "Ödünç set",
+      "text": "Loan instruments\nFirmalardan kiralanan; mutlaka kurumun MSÜ'sünden geçmesi gereken alet setleri.",
+      "images": [],
+      "card": {
+        "id": "PER247-07o3ava",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Ödünç set",
+        "definition": "Firmalardan kiralanan; mutlaka kurumun MSÜ'sünden geçmesi gereken alet setleri.",
+        "en": "Loan instruments"
+      }
+    },
+    {
+      "title": "MSÜ çalışma alanı ve steril depo",
+      "text": "Çalışma alanları\nCDC’de bağıl nem örneği %30–60\nİşleme/hazırlık faaliyetleri yürütülür\n\nSteril depo\nCDC’de bağıl nem üst sınırı %70\nİşlenmiş ürünler sınırlı erişimle saklanır",
+      "images": [],
+      "card": {
+        "id": "PER247-1jfwnmz",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "compare",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "MSÜ çalışma alanı ve steril depo",
+        "left": {
+          "title": "Çalışma alanları",
+          "points": [
+            "CDC’de bağıl nem örneği %30–60",
+            "İşleme/hazırlık faaliyetleri yürütülür"
+          ]
+        },
+        "right": {
+          "title": "Steril depo",
+          "points": [
+            "CDC’de bağıl nem üst sınırı %70",
+            "İşlenmiş ürünler sınırlı erişimle saklanır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "MSÜ alanlarının ulusal tanımı",
+      "text": "SKS değerlendirmesinde MSÜ, **kirli, temiz, steril depolama ve destek alanları** olarak düzenlenir. Bu adlandırma CDC’nin alan gruplamasıyla birebir aynı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-05ytufk",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "fact",
+        "importance": 1,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "MSÜ alanlarının ulusal tanımı",
+        "body": "SKS değerlendirmesinde MSÜ, **kirli, temiz, steril depolama ve destek alanları** olarak düzenlenir. Bu adlandırma CDC’nin alan gruplamasıyla birebir aynı değildir."
+      }
+    },
+    {
+      "title": "Kirli alanın fiziksel sınırı",
+      "text": "Dekontaminasyon alanı, diğer işlem alanlarından **fiziksel bariyerle ayrılır**. Amaç, kirli malzemeden temiz paketleme alanına taşınan kontaminasyonu sınırlamaktır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0w16g9d",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kirli alanın fiziksel sınırı",
+        "body": "Dekontaminasyon alanı, diğer işlem alanlarından **fiziksel bariyerle ayrılır**. Amaç, kirli malzemeden temiz paketleme alanına taşınan kontaminasyonu sınırlamaktır."
+      }
+    },
+    {
+      "title": "Tekstil paketleme alanı",
+      "text": "Cerrahi aletler ile tekstilin paketlenmesi **ayrı alanlarda** yapılır. Tekstil kaynaklı hav ve partiküller temiz alet hazırlığını kirletebilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1a6a08k",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "fact",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Tekstil paketleme alanı",
+        "body": "Cerrahi aletler ile tekstilin paketlenmesi **ayrı alanlarda** yapılır. Tekstil kaynaklı hav ve partiküller temiz alet hazırlığını kirletebilir."
+      }
+    },
+    {
+      "title": "Kesintiden sonra program",
+      "text": "SKS’ye göre manuel ayarlı cihazda elektrik/su kesintisi olduğunda program **iptal edilip yeniden başlatılır**. Kesinti sonrası performansın izlenmesi kayıtla gösterilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0kbka7m",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "fact",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Kesintiden sonra program",
+        "body": "SKS’ye göre manuel ayarlı cihazda elektrik/su kesintisi olduğunda program **iptal edilip yeniden başlatılır**. Kesinti sonrası performansın izlenmesi kayıtla gösterilir."
+      }
+    },
+    {
+      "title": "MSÜ yüzeylerinin niteliği",
+      "text": "Duvar ve zeminler temizlik kimyasallarına dayanmalı; duvar ve tavan yüzeyleri **partikül dökmeyen** malzemeden olmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1xnrzhm",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "MSÜ yüzeylerinin niteliği",
+        "body": "Duvar ve zeminler temizlik kimyasallarına dayanmalı; duvar ve tavan yüzeyleri **partikül dökmeyen** malzemeden olmalıdır."
+      }
+    },
+    {
+      "title": "MSÜ’de kirli ve steril malzeme yolları nasıl düzenlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0rzclj1",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "flip",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "MSÜ’de kirli ve steril malzeme yolları nasıl düzenlenir?",
+        "answer": "Giriş/çıkış ve taşıma yolları **ayrılır**. Fiziksel alan yetersizse SKS’nin kabul ettiği ayrı kapalı taşıma araçları kullanılır; karışma önlenir."
+      }
+    },
+    {
+      "title": "Ödünç setin kurum MSÜ’sünden geçmesi neden gerekir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0a7m7n8",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO 2018",
+        "question": "Ödünç setin kurum MSÜ’sünden geçmesi neden gerekir?",
+        "answer": "Kurumun sterilizasyon kalitesini **kontrol ve izleme sorumluluğu** vardır. Firmadan geliş, kurumda uygun yeniden işlemenin yerine geçmez."
+      }
+    },
+    {
+      "title": "Kirli alanda çalışan hangi koruyucuları kullanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0rxsjnm",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Kirli alanda çalışan hangi koruyucuları kullanır?",
+        "answer": "Kalın koruyucu eldiven, uygun önlük, yüz maskesi ve **gözlük/yüz siperi**. Koruyucular kirli malzemenin sıçrama ve temas riskine göre seçilir."
+      }
+    },
+    {
+      "title": "Temiz alan steril ürün değildir",
+      "text": "MSÜ’nün **temiz alanındaki** aletler temizlenmiş ve hazırlanmaktadır; bu aşama tek başına sterilite sağlamaz. \"Temiz\" ile \"steril\" ayrı işlem durumlarıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0ejpumu",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "remember",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Temiz alan steril ürün değildir",
+        "body": "MSÜ’nün **temiz alanındaki** aletler temizlenmiş ve hazırlanmaktadır; bu aşama tek başına sterilite sağlamaz. \"Temiz\" ile \"steril\" ayrı işlem durumlarıdır."
+      }
+    },
+    {
+      "title": "MSÜ’de kullanılmış aletin uygun ana akışı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1r57oma",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "MSÜ’de kullanılmış aletin uygun ana akışı hangisidir?",
+        "options": [
+          "Steril → kirli → temiz",
+          "Kirli → temiz → steril",
+          "Temiz → steril → kirli",
+          "Kirli → steril → temiz"
+        ],
+        "correct": 1,
+        "explanation": "MSÜ akışı **tek yönlü kirli → temiz → steril** olarak düzenlenir."
+      }
+    },
+    {
+      "title": "Kirli dekontaminasyon alanının basınç ilişkisi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1by31qh",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Kirli dekontaminasyon alanının basınç ilişkisi hangisidir?",
+        "options": [
+          "Komşu alanlara göre pozitif",
+          "Ameliyathaneyle aynı pozitif",
+          "Komşu alanlara göre negatif",
+          "Steril depoyla aynı pozitif"
+        ],
+        "correct": 2,
+        "explanation": "Negatif basınç, kirli alan havasının daha temiz alanlara çıkmasını sınırlar."
+      }
+    },
+    {
+      "title": "Temiz aletin kontrol ve paketlenmesi hangi alanda yapılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0g7rvvx",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "Temiz aletin kontrol ve paketlenmesi hangi alanda yapılır?",
+        "options": [
+          "Kirli kabul alanı",
+          "Atık depolama alanı",
+          "Steril ürün teslim alanı",
+          "Temiz alan"
+        ],
+        "correct": 3,
+        "explanation": "Temiz alanda aletler **kontrol, bakım ve paketleme** için hazırlanır; henüz steril değildir."
+      }
+    },
+    {
+      "title": "Dekontaminasyon ile paketleme alanını ayıran en uygun özellik hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1gmfwvd",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Dekontaminasyon ile paketleme alanını ayıran en uygun özellik hangisidir?",
+        "options": [
+          "Fiziksel bariyer",
+          "Yalnız zemin renk farkı",
+          "Ortak açık çalışma masası",
+          "Ortak kirli taşıma arabası"
+        ],
+        "correct": 0,
+        "explanation": "Fiziksel ayırma, kirli işlem kaynaklı kontaminasyonun temiz alana geçişini sınırlar."
+      }
+    },
+    {
+      "title": "Tekstil hazırlığı ile cerrahi alet paketleme ayrı alanlarda yapılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0m4s14r",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "tf",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "statement": "Tekstil hazırlığı ile cerrahi alet paketleme ayrı alanlarda yapılır.",
+        "isTrue": true,
+        "explanation": "SKS, tekstil ve cerrahi alet paketlemesini ayırır; hav/partikül yayılımını sınırlamak amaçlanır."
+      }
+    },
+    {
+      "title": "Kirli tepsideki keskin aletler, kalın eldivenle elle aranıp güvenle çıkarılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0mwezfb",
+        "course": "PER247",
+        "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Kirli tepsideki keskin aletler, kalın eldivenle elle aranıp güvenle çıkarılabilir.",
+        "isTrue": false,
+        "explanation": "Kanla temas etmiş keskin aletler elle aranmaz; **forseps gibi mühendislik kontrolleriyle** alınır. Eldiven, delinme tehlikesini ortadan kaldırmaz."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0cn174c",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Merkezi sterilizasyon ünitesi",
+      "definition": "Steril ve steril olmayan malzemeyi işleyen, dağıtan ve kontrol eden bölüm.",
+      "en": "Central processing / central sterile services"
+    },
+    {
+      "id": "PER247-1w40pws",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kirli alan",
+      "definition": "Kirli malzemenin kabul, ayırma, ön temizlik ve dekontaminasyonunun yapıldığı, negatif basınçlı alan.",
+      "en": "Decontamination area"
+    },
+    {
+      "id": "PER247-1nhdmlg",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Temiz alan",
+      "definition": "Temiz (henüz steril olmayan) malzemenin kontrol, bakım ve paketlendiği alan.",
+      "en": "Clean / packaging area"
+    },
+    {
+      "id": "PER247-0x47ply",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Steril depo",
+      "definition": "Girişi sınırlı, sıcaklık/nem kontrollü steril malzeme deposu.",
+      "en": "Sterile storage"
+    },
+    {
+      "id": "PER247-08ukkbn",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Tek yönlü iş akışı",
+      "definition": "Malzemenin **kirli → temiz → steril** yönünde hareket ettiği, kirli ve temiz yolların kesişmesinin önlendiği işlem düzeni.",
+      "en": "Unidirectional workflow"
+    },
+    {
+      "id": "PER247-0ghyekr",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Negatif basınç",
+      "definition": "Havanın komşu alandan odaya aktığı basınç farkı (dekontaminasyon alanı, AIIR).",
+      "en": "Negative pressure"
+    },
+    {
+      "id": "PER247-07o3ava",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Ödünç set",
+      "definition": "Firmalardan kiralanan; mutlaka kurumun MSÜ'sünden geçmesi gereken alet setleri.",
+      "en": "Loan instruments"
+    },
+    {
+      "id": "PER247-1jfwnmz",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "MSÜ çalışma alanı ve steril depo",
+      "left": {
+        "title": "Çalışma alanları",
+        "points": [
+          "CDC’de bağıl nem örneği %30–60",
+          "İşleme/hazırlık faaliyetleri yürütülür"
+        ]
+      },
+      "right": {
+        "title": "Steril depo",
+        "points": [
+          "CDC’de bağıl nem üst sınırı %70",
+          "İşlenmiş ürünler sınırlı erişimle saklanır"
+        ]
+      }
+    },
+    {
+      "id": "PER247-05ytufk",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "fact",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "MSÜ alanlarının ulusal tanımı",
+      "body": "SKS değerlendirmesinde MSÜ, **kirli, temiz, steril depolama ve destek alanları** olarak düzenlenir. Bu adlandırma CDC’nin alan gruplamasıyla birebir aynı değildir."
+    },
+    {
+      "id": "PER247-0w16g9d",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kirli alanın fiziksel sınırı",
+      "body": "Dekontaminasyon alanı, diğer işlem alanlarından **fiziksel bariyerle ayrılır**. Amaç, kirli malzemeden temiz paketleme alanına taşınan kontaminasyonu sınırlamaktır."
+    },
+    {
+      "id": "PER247-1a6a08k",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Tekstil paketleme alanı",
+      "body": "Cerrahi aletler ile tekstilin paketlenmesi **ayrı alanlarda** yapılır. Tekstil kaynaklı hav ve partiküller temiz alet hazırlığını kirletebilir."
+    },
+    {
+      "id": "PER247-0kbka7m",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "fact",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Kesintiden sonra program",
+      "body": "SKS’ye göre manuel ayarlı cihazda elektrik/su kesintisi olduğunda program **iptal edilip yeniden başlatılır**. Kesinti sonrası performansın izlenmesi kayıtla gösterilir."
+    },
+    {
+      "id": "PER247-1xnrzhm",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "MSÜ yüzeylerinin niteliği",
+      "body": "Duvar ve zeminler temizlik kimyasallarına dayanmalı; duvar ve tavan yüzeyleri **partikül dökmeyen** malzemeden olmalıdır."
+    },
+    {
+      "id": "PER247-0rzclj1",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "flip",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "MSÜ’de kirli ve steril malzeme yolları nasıl düzenlenir?",
+      "answer": "Giriş/çıkış ve taşıma yolları **ayrılır**. Fiziksel alan yetersizse SKS’nin kabul ettiği ayrı kapalı taşıma araçları kullanılır; karışma önlenir."
+    },
+    {
+      "id": "PER247-0a7m7n8",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Ödünç setin kurum MSÜ’sünden geçmesi neden gerekir?",
+      "answer": "Kurumun sterilizasyon kalitesini **kontrol ve izleme sorumluluğu** vardır. Firmadan geliş, kurumda uygun yeniden işlemenin yerine geçmez."
+    },
+    {
+      "id": "PER247-0rxsjnm",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kirli alanda çalışan hangi koruyucuları kullanır?",
+      "answer": "Kalın koruyucu eldiven, uygun önlük, yüz maskesi ve **gözlük/yüz siperi**. Koruyucular kirli malzemenin sıçrama ve temas riskine göre seçilir."
+    },
+    {
+      "id": "PER247-0ejpumu",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "remember",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Temiz alan steril ürün değildir",
+      "body": "MSÜ’nün **temiz alanındaki** aletler temizlenmiş ve hazırlanmaktadır; bu aşama tek başına sterilite sağlamaz. \"Temiz\" ile \"steril\" ayrı işlem durumlarıdır."
+    },
+    {
+      "id": "PER247-1r57oma",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "MSÜ’de kullanılmış aletin uygun ana akışı hangisidir?",
+      "options": [
+        "Steril → kirli → temiz",
+        "Kirli → temiz → steril",
+        "Temiz → steril → kirli",
+        "Kirli → steril → temiz"
+      ],
+      "correct": 1,
+      "explanation": "MSÜ akışı **tek yönlü kirli → temiz → steril** olarak düzenlenir."
+    },
+    {
+      "id": "PER247-1by31qh",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kirli dekontaminasyon alanının basınç ilişkisi hangisidir?",
+      "options": [
+        "Komşu alanlara göre pozitif",
+        "Ameliyathaneyle aynı pozitif",
+        "Komşu alanlara göre negatif",
+        "Steril depoyla aynı pozitif"
+      ],
+      "correct": 2,
+      "explanation": "Negatif basınç, kirli alan havasının daha temiz alanlara çıkmasını sınırlar."
+    },
+    {
+      "id": "PER247-0g7rvvx",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "Temiz aletin kontrol ve paketlenmesi hangi alanda yapılır?",
+      "options": [
+        "Kirli kabul alanı",
+        "Atık depolama alanı",
+        "Steril ürün teslim alanı",
+        "Temiz alan"
+      ],
+      "correct": 3,
+      "explanation": "Temiz alanda aletler **kontrol, bakım ve paketleme** için hazırlanır; henüz steril değildir."
+    },
+    {
+      "id": "PER247-1gmfwvd",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Dekontaminasyon ile paketleme alanını ayıran en uygun özellik hangisidir?",
+      "options": [
+        "Fiziksel bariyer",
+        "Yalnız zemin renk farkı",
+        "Ortak açık çalışma masası",
+        "Ortak kirli taşıma arabası"
+      ],
+      "correct": 0,
+      "explanation": "Fiziksel ayırma, kirli işlem kaynaklı kontaminasyonun temiz alana geçişini sınırlar."
+    },
+    {
+      "id": "PER247-0m4s14r",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "tf",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "statement": "Tekstil hazırlığı ile cerrahi alet paketleme ayrı alanlarda yapılır.",
+      "isTrue": true,
+      "explanation": "SKS, tekstil ve cerrahi alet paketlemesini ayırır; hav/partikül yayılımını sınırlamak amaçlanır."
+    },
+    {
+      "id": "PER247-0mwezfb",
+      "course": "PER247",
+      "topic": "Merkezi sterilizasyon ünitesi (MSÜ)",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Kirli tepsideki keskin aletler, kalın eldivenle elle aranıp güvenle çıkarılabilir.",
+      "isTrue": false,
+      "explanation": "Kanla temas etmiş keskin aletler elle aranmaz; **forseps gibi mühendislik kontrolleriyle** alınır. Eldiven, delinme tehlikesini ortadan kaldırmaz."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

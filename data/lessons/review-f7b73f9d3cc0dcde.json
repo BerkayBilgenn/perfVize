@@ -1,0 +1,776 @@
+{
+  "id": "review-f7b73f9d3cc0dcde",
+  "title": "Perfüzyonistin görevi ve hesaplamalar",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Perfüzyon",
+      "text": "Perfusion\nKanın organ/dokudan akıtılması; KPB'de vücudun pompa-oksijenatör sistemiyle beslenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0supoza",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 2,
+        "term": "Perfüzyon",
+        "en": "Perfusion",
+        "definition": "Kanın organ/dokudan akıtılması; KPB'de vücudun pompa-oksijenatör sistemiyle beslenmesi.",
+        "source": "Resmî Gazete 2014"
+      }
+    },
+    {
+      "title": "Perfüzyonist",
+      "text": "Perfusionist\nKalp-akciğer makinesi, ECMO ve ventriküler destek cihazlarını yöneten sağlık meslek mensubu.",
+      "images": [],
+      "card": {
+        "id": "PER245-0s0pc2y",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 3,
+        "term": "Perfüzyonist",
+        "en": "Perfusionist",
+        "definition": "Kalp-akciğer makinesi, ECMO ve ventriküler destek cihazlarını yöneten sağlık meslek mensubu.",
+        "source": "Resmî Gazete 2014"
+      }
+    },
+    {
+      "title": "Kardiyopulmoner baypas (KPB)",
+      "text": "Cardiopulmonary bypass\nKalp ve akciğer işlevinin geçici olarak pompa-oksijenatör sistemine devredilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1svqbgq",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyopulmoner baypas (KPB)",
+        "en": "Cardiopulmonary bypass",
+        "definition": "Kalp ve akciğer işlevinin geçici olarak pompa-oksijenatör sistemine devredilmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ekstrakorporeal dolaşım",
+      "text": "Extracorporeal circulation\nKanın vücut dışındaki bir devrede dolaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0uorstl",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 1,
+        "term": "Ekstrakorporeal dolaşım",
+        "en": "Extracorporeal circulation",
+        "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+        "source": "Resmî Gazete 2014"
+      }
+    },
+    {
+      "title": "Perfüzyon kaydı",
+      "text": "Perfusion record\nKPB sırasında kullanılan cihazları, uygulamaları ve hastanın fizyolojik ölçümlerini belgeleyen klinik kayıt.",
+      "images": [],
+      "card": {
+        "id": "PER245-0fv3wti",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 2,
+        "term": "Perfüzyon kaydı",
+        "en": "Perfusion record",
+        "definition": "KPB sırasında kullanılan cihazları, uygulamaları ve hastanın fizyolojik ölçümlerini belgeleyen klinik kayıt.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Kontrol listesi",
+      "text": "Checklist\nKPB kurulumu, başlangıcı, sürdürülmesi ve ayrılma adımlarının eksiksizliğini sağlayan yazılı liste.",
+      "images": [],
+      "card": {
+        "id": "PER245-1fgqslt",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 3,
+        "term": "Kontrol listesi",
+        "en": "Checklist",
+        "definition": "KPB kurulumu, başlangıcı, sürdürülmesi ve ayrılma adımlarının eksiksizliğini sağlayan yazılı liste.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Vücut yüzey alanı (VYA)",
+      "text": "Body surface area (BSA)\nBoy ve kilodan hesaplanan, akımın indekslenmesinde kullanılan alan (DuBois, Mosteller).",
+      "images": [],
+      "card": {
+        "id": "PER245-043vgzw",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 2,
+        "term": "Vücut yüzey alanı (VYA)",
+        "en": "Body surface area (BSA)",
+        "definition": "Boy ve kilodan hesaplanan, akımın indekslenmesinde kullanılan alan (DuBois, Mosteller).",
+        "source": "VYA formülleri, J Clin Med 2024"
+      }
+    },
+    {
+      "title": "Tahmini kan hacmi (EBV)",
+      "text": "Estimated blood volume\nVücut ağırlığı ve uygun bir katsayı kullanılarak hesaplanan yaklaşık dolaşan kan miktarı.",
+      "images": [],
+      "card": {
+        "id": "PER245-00642p3",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 1,
+        "term": "Tahmini kan hacmi (EBV)",
+        "en": "Estimated blood volume",
+        "definition": "Vücut ağırlığı ve uygun bir katsayı kullanılarak hesaplanan yaklaşık dolaşan kan miktarı.",
+        "source": "Eritrosit kütlesi, Surg Pract Sci"
+      }
+    },
+    {
+      "title": "DO2 / DO2i",
+      "text": "Oxygen delivery (indexed)\nDO2, dokulara birim zamanda taşınan oksijen miktarıdır; DO2i bu değerin vücut yüzey alanına bölünmüş biçimidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0qy8ro1",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 2,
+        "term": "DO2 / DO2i",
+        "en": "Oxygen delivery (indexed)",
+        "definition": "DO2, dokulara birim zamanda taşınan oksijen miktarıdır; DO2i bu değerin vücut yüzey alanına bölünmüş biçimidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hedefe yönelik perfüzyon",
+      "text": "Pompa akımının hemoglobin ve oksijen sunumu göstergeleriyle birlikte değerlendirilip yeterli doku oksijenlenmesinin amaçlandığı yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER245-1c2yupv",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "term",
+        "importance": 2,
+        "term": "Hedefe yönelik perfüzyon",
+        "definition": "Pompa akımının hemoglobin ve oksijen sunumu göstergeleriyle birlikte değerlendirilip yeterli doku oksijenlenmesinin amaçlandığı yaklaşım.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Akım hesabının temeli",
+      "text": "Toplam pompa akımı, vücut yüzey alanı ile seçilen akım indeksinin çarpımıdır; indeks birimi L/dk/m², toplam akım birimi L/dk'dır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1fefph2",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Akım hesabının temeli",
+        "body": "Toplam pompa akımı, vücut yüzey alanı ile seçilen akım indeksinin çarpımıdır; indeks birimi L/dk/m², toplam akım birimi L/dk'dır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Örnek toplam akım",
+      "text": "VYA 1,9 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım 1,9 × 2,4 = 4,56 L/dk'dır. Bu örnek evrensel hasta hedefi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0pf4njy",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Örnek toplam akım",
+        "body": "VYA 1,9 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım 1,9 × 2,4 = 4,56 L/dk'dır. Bu örnek evrensel hasta hedefi değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB öncesi plan",
+      "text": "Boy, kilo, hemoglobin, organ işlevi ve antikoagülasyon öyküsü, hastaya özgü perfüzyon planının hazırlanmasında değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1dyxc58",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "fact",
+        "importance": 2,
+        "title": "KPB öncesi plan",
+        "body": "Boy, kilo, hemoglobin, organ işlevi ve antikoagülasyon öyküsü, hastaya özgü perfüzyon planının hazırlanmasında değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hct öngörüsünün amacı",
+      "text": "Beklenen dilüsyonel hematokriti önceden hesaplamak, devre ve prime hacmini planlamaya yardımcı olur; kan koruma ekiple tartışılır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1cjqm2x",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hct öngörüsünün amacı",
+        "body": "Beklenen dilüsyonel hematokriti önceden hesaplamak, devre ve prime hacmini planlamaya yardımcı olur; kan koruma ekiple tartışılır.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Kayıt ve kalıcılık",
+      "text": "Perfüzyon kaydı hastanın kalıcı tıbbi kaydına girer; ekipman, fizyolojik parametreler ve antikoagülasyon sonuçları izlenebilir olmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0j1k25i",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kayıt ve kalıcılık",
+        "body": "Perfüzyon kaydı hastanın kalıcı tıbbi kaydına girer; ekipman, fizyolojik parametreler ve antikoagülasyon sonuçları izlenebilir olmalıdır.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Mosteller vücut yüzey alanı formülü nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-05qy4te",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Mosteller vücut yüzey alanı formülü nedir?",
+        "answer": "VYA (m²) = √[boy (cm) × ağırlık (kg) / 3.600]. Boy ve kilo birimlerinin doğru girilmesi gerekir.",
+        "source": "VYA formülleri, J Clin Med 2024"
+      }
+    },
+    {
+      "title": "Arteriyel oksijen sunumunu belirleyen iki ana bileşen nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0uuooxi",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Arteriyel oksijen sunumunu belirleyen iki ana bileşen nelerdir?",
+        "answer": "Kan akımı ve arteriyel oksijen içeriği; hemoglobin azalınca yeterli akımda bile sunum düşebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Beklenen dilüsyonel hematokrit hesabında eklenen sıvı nasıl yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0ds7u4b",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Beklenen dilüsyonel hematokrit hesabında eklenen sıvı nasıl yer alır?",
+        "answer": "Kan içermeyen sıvı toplam dolaşan hacim paydasına eklenir; başlangıç eritrosit kütlesinin korunduğu varsayılır.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Kontrol listesinin zamanlaması",
+      "text": "AmSECT 2013, kontrol listesini yalnız ilk kurulum için değil, KPB başlangıcı, sürdürme, ayrılma ve yeniden giriş adımları için de kullanır; **aşama değişimlerinde kontrol** önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1cxv94n",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kontrol listesinin zamanlaması",
+        "body": "AmSECT 2013, kontrol listesini yalnız ilk kurulum için değil, KPB başlangıcı, sürdürme, ayrılma ve yeniden giriş adımları için de kullanır; **aşama değişimlerinde kontrol** önemlidir.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Hesabı hastaya bağla",
+      "text": "Akım planı yalnız VYA çarpımından ibaret değildir; hipotermi, hemoglobin ve **oksijen sunumu** göstergeleriyle yeterliliği değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-107a5na",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Hesabı hastaya bağla",
+        "body": "Akım planı yalnız VYA çarpımından ibaret değildir; hipotermi, hemoglobin ve **oksijen sunumu** göstergeleriyle yeterliliği değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "DO2 alt eşiği ve kanıt düzeyi",
+      "text": "2024 EACTS/EACTAIC/EBCP Tablo 43, normotermik KPB’de DO2i alt eşiğini 280–300 mL/dk/m² aralığında tutmayı IIa-B düzeyinde değerlendirmeyi önerir. Erken AKI’yi azaltmak için GDP kullanımı ayrı bir I-A önerisidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1os996e",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "fact",
+        "importance": 3,
+        "title": "DO2 alt eşiği ve kanıt düzeyi",
+        "body": "2024 EACTS/EACTAIC/EBCP Tablo 43, normotermik KPB’de DO2i alt eşiğini 280–300 mL/dk/m² aralığında tutmayı IIa-B düzeyinde değerlendirmeyi önerir. Erken AKI’yi azaltmak için GDP kullanımı ayrı bir I-A önerisidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "VYA 1,8 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım kaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0b2rg24",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "mcq",
+        "importance": 3,
+        "question": "VYA 1,8 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım kaçtır?",
+        "options": [
+          "4,32 L/dk",
+          "2,40 L/dk",
+          "0,75 L/dk",
+          "6,20 L/dk"
+        ],
+        "correct": 0,
+        "explanation": "1,8 × 2,4 = 4,32 L/dk. İndeks ile toplam akım farklı birimlere sahiptir; bu verilen değerlerle yapılan hesap örneğidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "VYA 2,0 m², toplam akım 4,8 L/dk ise akım indeksi kaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-05iisgr",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "VYA 2,0 m², toplam akım 4,8 L/dk ise akım indeksi kaçtır?",
+        "options": [
+          "0,42 L/dk/m²",
+          "2,4 L/dk/m²",
+          "9,6 L/dk/m²",
+          "4,8 L/dk/m²"
+        ],
+        "correct": 1,
+        "explanation": "Akım indeksi = 4,8 / 2,0 = 2,4 L/dk/m²; indeks hesaplamak için toplam akım VYA'ya bölünür.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Mosteller formülüne boy hangi birimle girilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1ir6b10",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Mosteller formülüne boy hangi birimle girilir?",
+        "options": [
+          "Milimetre",
+          "İnç",
+          "Santimetre",
+          "Metre"
+        ],
+        "correct": 2,
+        "explanation": "Verilen formülde boy cm, ağırlık kg'dır; birimleri değiştirmek sonucu değiştirir.",
+        "source": "VYA formülleri, J Clin Med 2024"
+      }
+    },
+    {
+      "title": "Eritrosit içermeyen prime artırılırken eritrosit kütlesi sabitse Hct ne yönde değişir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-130egq9",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Eritrosit içermeyen prime artırılırken eritrosit kütlesi sabitse Hct ne yönde değişir?",
+        "options": [
+          "Artar",
+          "Başlangıç değerinde kalır",
+          "Önce artar, sonra başlangıca döner",
+          "Azalır"
+        ],
+        "correct": 3,
+        "explanation": "Sıvı toplam hacmi artırır ama eritrosit eklemez; Hct dilüsyonla azalır.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Beklenen dilüsyonel Hct, KPB öncesi kan koruma planını tartışmak için kullanılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0miexvs",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Beklenen dilüsyonel Hct, KPB öncesi kan koruma planını tartışmak için kullanılabilir.",
+        "isTrue": true,
+        "explanation": "Prime hacmi ve başlangıç kan değerleriyle öngörülen dilüsyon, ekip planına katkı sağlar.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Kardiyak indeks toplam kalp debisinin VYA ile çarpımıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-06hraxn",
+        "course": "PER245",
+        "topic": "Perfüzyonistin görevi ve hesaplamalar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Kardiyak indeks toplam kalp debisinin VYA ile çarpımıdır.",
+        "isTrue": false,
+        "explanation": "Kardiyak indeks toplam debinin VYA'ya bölünmesidir.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0supoza",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon",
+      "en": "Perfusion",
+      "definition": "Kanın organ/dokudan akıtılması; KPB'de vücudun pompa-oksijenatör sistemiyle beslenmesi.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "id": "PER245-0s0pc2y",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 3,
+      "term": "Perfüzyonist",
+      "en": "Perfusionist",
+      "definition": "Kalp-akciğer makinesi, ECMO ve ventriküler destek cihazlarını yöneten sağlık meslek mensubu.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "id": "PER245-1svqbgq",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyopulmoner baypas (KPB)",
+      "en": "Cardiopulmonary bypass",
+      "definition": "Kalp ve akciğer işlevinin geçici olarak pompa-oksijenatör sistemine devredilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0uorstl",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 1,
+      "term": "Ekstrakorporeal dolaşım",
+      "en": "Extracorporeal circulation",
+      "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "id": "PER245-0fv3wti",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon kaydı",
+      "en": "Perfusion record",
+      "definition": "KPB sırasında kullanılan cihazları, uygulamaları ve hastanın fizyolojik ölçümlerini belgeleyen klinik kayıt.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1fgqslt",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 3,
+      "term": "Kontrol listesi",
+      "en": "Checklist",
+      "definition": "KPB kurulumu, başlangıcı, sürdürülmesi ve ayrılma adımlarının eksiksizliğini sağlayan yazılı liste.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-043vgzw",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 2,
+      "term": "Vücut yüzey alanı (VYA)",
+      "en": "Body surface area (BSA)",
+      "definition": "Boy ve kilodan hesaplanan, akımın indekslenmesinde kullanılan alan (DuBois, Mosteller).",
+      "source": "VYA formülleri, J Clin Med 2024"
+    },
+    {
+      "id": "PER245-00642p3",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 1,
+      "term": "Tahmini kan hacmi (EBV)",
+      "en": "Estimated blood volume",
+      "definition": "Vücut ağırlığı ve uygun bir katsayı kullanılarak hesaplanan yaklaşık dolaşan kan miktarı.",
+      "source": "Eritrosit kütlesi, Surg Pract Sci"
+    },
+    {
+      "id": "PER245-0qy8ro1",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 2,
+      "term": "DO2 / DO2i",
+      "en": "Oxygen delivery (indexed)",
+      "definition": "DO2, dokulara birim zamanda taşınan oksijen miktarıdır; DO2i bu değerin vücut yüzey alanına bölünmüş biçimidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1c2yupv",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "term",
+      "importance": 2,
+      "term": "Hedefe yönelik perfüzyon",
+      "definition": "Pompa akımının hemoglobin ve oksijen sunumu göstergeleriyle birlikte değerlendirilip yeterli doku oksijenlenmesinin amaçlandığı yaklaşım.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1fefph2",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Akım hesabının temeli",
+      "body": "Toplam pompa akımı, vücut yüzey alanı ile seçilen akım indeksinin çarpımıdır; indeks birimi L/dk/m², toplam akım birimi L/dk'dır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0pf4njy",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Örnek toplam akım",
+      "body": "VYA 1,9 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım 1,9 × 2,4 = 4,56 L/dk'dır. Bu örnek evrensel hasta hedefi değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1dyxc58",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB öncesi plan",
+      "body": "Boy, kilo, hemoglobin, organ işlevi ve antikoagülasyon öyküsü, hastaya özgü perfüzyon planının hazırlanmasında değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1cjqm2x",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hct öngörüsünün amacı",
+      "body": "Beklenen dilüsyonel hematokriti önceden hesaplamak, devre ve prime hacmini planlamaya yardımcı olur; kan koruma ekiple tartışılır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-0j1k25i",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kayıt ve kalıcılık",
+      "body": "Perfüzyon kaydı hastanın kalıcı tıbbi kaydına girer; ekipman, fizyolojik parametreler ve antikoagülasyon sonuçları izlenebilir olmalıdır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-05qy4te",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Mosteller vücut yüzey alanı formülü nedir?",
+      "answer": "VYA (m²) = √[boy (cm) × ağırlık (kg) / 3.600]. Boy ve kilo birimlerinin doğru girilmesi gerekir.",
+      "source": "VYA formülleri, J Clin Med 2024"
+    },
+    {
+      "id": "PER245-0uuooxi",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Arteriyel oksijen sunumunu belirleyen iki ana bileşen nelerdir?",
+      "answer": "Kan akımı ve arteriyel oksijen içeriği; hemoglobin azalınca yeterli akımda bile sunum düşebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0ds7u4b",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Beklenen dilüsyonel hematokrit hesabında eklenen sıvı nasıl yer alır?",
+      "answer": "Kan içermeyen sıvı toplam dolaşan hacim paydasına eklenir; başlangıç eritrosit kütlesinin korunduğu varsayılır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1cxv94n",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kontrol listesinin zamanlaması",
+      "body": "AmSECT 2013, kontrol listesini yalnız ilk kurulum için değil, KPB başlangıcı, sürdürme, ayrılma ve yeniden giriş adımları için de kullanır; **aşama değişimlerinde kontrol** önemlidir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-107a5na",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Hesabı hastaya bağla",
+      "body": "Akım planı yalnız VYA çarpımından ibaret değildir; hipotermi, hemoglobin ve **oksijen sunumu** göstergeleriyle yeterliliği değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1os996e",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "fact",
+      "importance": 3,
+      "title": "DO2 alt eşiği ve kanıt düzeyi",
+      "body": "2024 EACTS/EACTAIC/EBCP Tablo 43, normotermik KPB’de DO2i alt eşiğini 280–300 mL/dk/m² aralığında tutmayı IIa-B düzeyinde değerlendirmeyi önerir. Erken AKI’yi azaltmak için GDP kullanımı ayrı bir I-A önerisidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0b2rg24",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "mcq",
+      "importance": 3,
+      "question": "VYA 1,8 m² ve seçilmiş akım indeksi 2,4 L/dk/m² ise toplam akım kaçtır?",
+      "options": [
+        "4,32 L/dk",
+        "2,40 L/dk",
+        "0,75 L/dk",
+        "6,20 L/dk"
+      ],
+      "correct": 0,
+      "explanation": "1,8 × 2,4 = 4,32 L/dk. İndeks ile toplam akım farklı birimlere sahiptir; bu verilen değerlerle yapılan hesap örneğidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-05iisgr",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "VYA 2,0 m², toplam akım 4,8 L/dk ise akım indeksi kaçtır?",
+      "options": [
+        "0,42 L/dk/m²",
+        "2,4 L/dk/m²",
+        "9,6 L/dk/m²",
+        "4,8 L/dk/m²"
+      ],
+      "correct": 1,
+      "explanation": "Akım indeksi = 4,8 / 2,0 = 2,4 L/dk/m²; indeks hesaplamak için toplam akım VYA'ya bölünür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1ir6b10",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Mosteller formülüne boy hangi birimle girilir?",
+      "options": [
+        "Milimetre",
+        "İnç",
+        "Santimetre",
+        "Metre"
+      ],
+      "correct": 2,
+      "explanation": "Verilen formülde boy cm, ağırlık kg'dır; birimleri değiştirmek sonucu değiştirir.",
+      "source": "VYA formülleri, J Clin Med 2024"
+    },
+    {
+      "id": "PER245-130egq9",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Eritrosit içermeyen prime artırılırken eritrosit kütlesi sabitse Hct ne yönde değişir?",
+      "options": [
+        "Artar",
+        "Başlangıç değerinde kalır",
+        "Önce artar, sonra başlangıca döner",
+        "Azalır"
+      ],
+      "correct": 3,
+      "explanation": "Sıvı toplam hacmi artırır ama eritrosit eklemez; Hct dilüsyonla azalır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-0miexvs",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Beklenen dilüsyonel Hct, KPB öncesi kan koruma planını tartışmak için kullanılabilir.",
+      "isTrue": true,
+      "explanation": "Prime hacmi ve başlangıç kan değerleriyle öngörülen dilüsyon, ekip planına katkı sağlar.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-06hraxn",
+      "course": "PER245",
+      "topic": "Perfüzyonistin görevi ve hesaplamalar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kardiyak indeks toplam kalp debisinin VYA ile çarpımıdır.",
+      "isTrue": false,
+      "explanation": "Kardiyak indeks toplam debinin VYA'ya bölünmesidir.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

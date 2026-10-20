@@ -1,0 +1,953 @@
+{
+  "id": "review-96ed323b60766beb",
+  "title": "Kanülasyon teknikleri ve kanüller",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kanül",
+      "text": "Cannula\nHastayı devreye bağlayan, damar veya kalp boşluğuna yerleştirilen tüp.",
+      "images": [],
+      "card": {
+        "id": "PER141-1bqo2bd",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 3,
+        "term": "Kanül",
+        "definition": "Hastayı devreye bağlayan, damar veya kalp boşluğuna yerleştirilen tüp.",
+        "en": "Cannula",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "French (Fr)",
+      "text": "French gauge (Charrière)\nKanül veya kateterin dış çapını ifade eden ölçü birimi.",
+      "images": [],
+      "card": {
+        "id": "PER141-10crdq4",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 3,
+        "term": "French (Fr)",
+        "definition": "Kanül veya kateterin dış çapını ifade eden ölçü birimi.",
+        "en": "French gauge (Charrière)",
+        "source": "Medtronic / LivaNova kanüller"
+      }
+    },
+    {
+      "title": "Basınç düşüşü",
+      "text": "Pressure drop\nKan bir kanül veya devre bileşeninden geçerken giriş ile çıkış arasında oluşan basınç kaybı.",
+      "images": [],
+      "card": {
+        "id": "PER141-06yerod",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Basınç düşüşü",
+        "definition": "Kan bir kanül veya devre bileşeninden geçerken giriş ile çıkış arasında oluşan basınç kaybı.",
+        "en": "Pressure drop",
+        "source": "Pediatrik kanül çalışması 2024"
+      }
+    },
+    {
+      "title": "Arteriyel (aort) kanülü",
+      "text": "Arterial (aortic) cannula\nOksijenli kanı çoğunlukla distal çıkan aortaya veren kanül.",
+      "images": [],
+      "card": {
+        "id": "PER141-0oneeqz",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Arteriyel (aort) kanülü",
+        "definition": "Oksijenli kanı çoğunlukla distal çıkan aortaya veren kanül.",
+        "en": "Arterial (aortic) cannula",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dispersiyon uçlu kanül",
+      "text": "Dispersion / diffusion-tip cannula\nKapalı uç ve yan deliklerle jeti dağıtan, daha düşük basınçla yüksek akım sağlayan arteriyel kanül.",
+      "images": [],
+      "card": {
+        "id": "PER141-0bdkvrt",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Dispersiyon uçlu kanül",
+        "definition": "Kapalı uç ve yan deliklerle jeti dağıtan, daha düşük basınçla yüksek akım sağlayan arteriyel kanül.",
+        "en": "Dispersion / diffusion-tip cannula",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İnce duvarlı kanül",
+      "text": "Thin-walled cannula\nAynı dış çapta daha geniş iç çaplı, daha düşük dirençli kanül.",
+      "images": [],
+      "card": {
+        "id": "PER141-1f7otj3",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "İnce duvarlı kanül",
+        "definition": "Aynı dış çapta daha geniş iç çaplı, daha düşük dirençli kanül.",
+        "en": "Thin-walled cannula",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz kanül",
+      "text": "Venous cannula\nSağ atriyum/kavalardan kanı devreye drene eden, tel takviyeli kanül.",
+      "images": [],
+      "card": {
+        "id": "PER141-07o9opg",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Venöz kanül",
+        "definition": "Sağ atriyum/kavalardan kanı devreye drene eden, tel takviyeli kanül.",
+        "en": "Venous cannula",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İki kademeli venöz kanül",
+      "text": "Two-stage (cavoatrial) cannula\nsağ atriyum'daki geniş delikli sepet ve vena kava inferior'deki ince uçla sağ atriyum + vena kava inferior'den birlikte drenaj sağlayan tek kanül (CABG).",
+      "images": [],
+      "card": {
+        "id": "PER141-12anqbl",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 3,
+        "term": "İki kademeli venöz kanül",
+        "definition": "sağ atriyum'daki geniş delikli sepet ve vena kava inferior'deki ince uçla sağ atriyum + vena kava inferior'den birlikte drenaj sağlayan tek kanül (CABG).",
+        "en": "Two-stage (cavoatrial) cannula",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Bikaval kanülasyon",
+      "text": "Bicaval cannulation\nvena kava superior ve vena kava inferior'ye ayrı kanül + Y-konnektör; kalp boşluklarının açıldığı işlemlerde.",
+      "images": [],
+      "card": {
+        "id": "PER141-174rigl",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 3,
+        "term": "Bikaval kanülasyon",
+        "definition": "vena kava superior ve vena kava inferior'ye ayrı kanül + Y-konnektör; kalp boşluklarının açıldığı işlemlerde.",
+        "en": "Bicaval cannulation",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Kaval turnike",
+      "text": "Caval snare / tourniquet\nKanül etrafında vena kavayı sıkarak kanın sağ atriyuma geçmesini ve hava girişini önleyen bant; total bypass sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER141-11ij84e",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Kaval turnike",
+        "definition": "Kanül etrafında vena kavayı sıkarak kanın sağ atriyuma geçmesini ve hava girişini önleyen bant; total bypass sağlar.",
+        "en": "Caval snare / tourniquet",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Femoral kanülasyon",
+      "text": "Femoral cannulation\nKasıktan femoral arter/ven kanülasyonu; acil, redo ve minimal invaziv cerrahide.",
+      "images": [],
+      "card": {
+        "id": "PER141-0n108e1",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Femoral kanülasyon",
+        "definition": "Kasıktan femoral arter/ven kanülasyonu; acil, redo ve minimal invaziv cerrahide.",
+        "en": "Femoral cannulation",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Aksiller kanülasyon",
+      "text": "Axillary cannulation\nArteriyel dönüş için aksiller arterin kullanılması; aort arkusuna antegrad perfüzyon sağlayabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-04tcp6e",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Aksiller kanülasyon",
+        "definition": "Arteriyel dönüş için aksiller arterin kullanılması; aort arkusuna antegrad perfüzyon sağlayabilir.",
+        "en": "Axillary cannulation",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bi-flow kanül",
+      "text": "Bi-flow femoral cannula\nDistal bacağa da kan veren yan çıkışlı femoral arteriyel kanül.",
+      "images": [],
+      "card": {
+        "id": "PER141-0ocl44h",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 1,
+        "term": "Bi-flow kanül",
+        "definition": "Distal bacağa da kan veren yan çıkışlı femoral arteriyel kanül.",
+        "en": "Bi-flow femoral cannula",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Retrograd perfüzyon",
+      "text": "Retrograde perfusion\nFemoral arteriyel kanülden aortaya, fizyolojik akım yönünün tersine yapılan perfüzyon.",
+      "images": [],
+      "card": {
+        "id": "PER141-02gvbze",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Retrograd perfüzyon",
+        "definition": "Femoral arteriyel kanülden aortaya, fizyolojik akım yönünün tersine yapılan perfüzyon.",
+        "en": "Retrograde perfusion",
+        "source": "MIMVS kanülasyon çalışmaları 2026"
+      }
+    },
+    {
+      "title": "Epiaortik ultrason",
+      "text": "Epiaortic ultrasound\nKanülasyon veya klemp uygulaması öncesinde çıkan aortadaki ateromları değerlendiren ultrason yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ujz4eh",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "term",
+        "importance": 2,
+        "term": "Epiaortik ultrason",
+        "definition": "Kanülasyon veya klemp uygulaması öncesinde çıkan aortadaki ateromları değerlendiren ultrason yöntemi.",
+        "en": "Epiaortic ultrasound",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz kanülasyon düzeni",
+      "text": "İki kademeli kanül\nSağ atriyum ve inferior kava tek kanülle drene edilir\nKalp boşlukları açılmayan işlemlere uygun\n\nBikaval kanülasyon\nSuperior ve inferior kavada ayrı kanüller bulunur\nSağ atriyumun açıldığı işlemde turnikelerle izolasyon",
+      "images": [],
+      "card": {
+        "id": "PER141-1795n8f",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "compare",
+        "importance": 2,
+        "title": "Venöz kanülasyon düzeni",
+        "left": {
+          "title": "İki kademeli kanül",
+          "points": [
+            "Sağ atriyum ve inferior kava tek kanülle drene edilir",
+            "Kalp boşlukları açılmayan işlemlere uygun"
+          ]
+        },
+        "right": {
+          "title": "Bikaval kanülasyon",
+          "points": [
+            "Superior ve inferior kavada ayrı kanüller bulunur",
+            "Sağ atriyumun açıldığı işlemde turnikelerle izolasyon"
+          ]
+        },
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "French dış çapı ölçer",
+      "text": "French ölçüsünde **1 Fr = 1/3 mm dış çap**. Bu nedenle 18 Fr 6 mm, 21 Fr 7 mm ve 24 Fr 8 mm dış çapa karşılık gelir; iç çap aynı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-11up946",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "fact",
+        "importance": 3,
+        "title": "French dış çapı ölçer",
+        "body": "French ölçüsünde **1 Fr = 1/3 mm dış çap**. Bu nedenle 18 Fr 6 mm, 21 Fr 7 mm ve 24 Fr 8 mm dış çapa karşılık gelir; iç çap aynı değildir.",
+        "source": "Medtronic / LivaNova kanüller"
+      }
+    },
+    {
+      "title": "Kanül basınç-akım eğrisi",
+      "text": "Aynı French ölçüsündeki kanüllerin performansı üreticiye göre değişebilir. Boyut seçiminde **üreticinin basınç-akım eğrisi** ve hedef akım değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-059w16r",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kanül basınç-akım eğrisi",
+        "body": "Aynı French ölçüsündeki kanüllerin performansı üreticiye göre değişebilir. Boyut seçiminde **üreticinin basınç-akım eğrisi** ve hedef akım değerlendirilir.",
+        "source": "Pediatrik kanül çalışması 2024"
+      }
+    },
+    {
+      "title": "Kanül boyunca basınç düşüşü",
+      "text": "Arteriyel kanül basınç düşüşünü yaklaşık **100 mmHg ile sınırlamak** genel kabul gören yaklaşımdır; hedef yüksek jet ve kan hasarını sınırlamaktır.",
+      "images": [],
+      "card": {
+        "id": "PER141-0j0oqb0",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kanül boyunca basınç düşüşü",
+        "body": "Arteriyel kanül basınç düşüşünü yaklaşık **100 mmHg ile sınırlamak** genel kabul gören yaklaşımdır; hedef yüksek jet ve kan hasarını sınırlamaktır.",
+        "source": "Pediatrik kanül çalışması 2024"
+      }
+    },
+    {
+      "title": "Aort kanülasyonunda basınç",
+      "text": "EACTS 2024 aort kanülasyonunda sistolik basıncı **<100 mmHg**, Basics of CPB 90–100 mmHg olarak verir. İki anlatım diseksiyon riskini azaltmaya yöneliktir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0cnkioa",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "fact",
+        "importance": 3,
+        "title": "Aort kanülasyonunda basınç",
+        "body": "EACTS 2024 aort kanülasyonunda sistolik basıncı **<100 mmHg**, Basics of CPB 90–100 mmHg olarak verir. İki anlatım diseksiyon riskini azaltmaya yöneliktir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Periferik arteriyel giriş",
+      "text": "Femoral giriş aortaya **retrograd**, aksiller giriş ise arkus damarlarına antegrad akım sağlayabilir. Giriş yeri patoloji ve cerrahi yaklaşımla birlikte seçilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1he100n",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Periferik arteriyel giriş",
+        "body": "Femoral giriş aortaya **retrograd**, aksiller giriş ise arkus damarlarına antegrad akım sağlayabilir. Giriş yeri patoloji ve cerrahi yaklaşımla birlikte seçilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel kanülün venözden önce yerleştirilmesinin gerekçesi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0rgw6qv",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "flip",
+        "importance": 3,
+        "question": "Arteriyel kanülün venözden önce yerleştirilmesinin gerekçesi nedir?",
+        "answer": "Venöz kanülasyon sırasında hipotansiyon oluşursa **arteriyel hattan hacim verebilmek**.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "İnce duvarlı kanül aynı dış çapta neden daha iyi akım sağlayabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-07zslrs",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "flip",
+        "importance": 2,
+        "question": "İnce duvarlı kanül aynı dış çapta neden daha iyi akım sağlayabilir?",
+        "answer": "İç çapı daha geniştir; akıma direnç ve gerekli basınç düşüşü azalabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kanül boyutunu seçerken hangi hasta ve işlem bilgileri kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0rqua33",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kanül boyutunu seçerken hangi hasta ve işlem bilgileri kullanılır?",
+        "answer": "Hasta büyüklüğü, gereken akım, damar anatomisi ve planlanan cerrahi yaklaşım; tip ve boyut ekiple önceden kararlaştırılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dekanülasyon sırasını gerekçesiyle öğren",
+      "text": "Stabil hemodinamide genel sıra **venöz kanül, protamin, arteriyel kanül** biçimindedir. Tek atriyal kanül hasta KPB'den tamamen ayrılmadan çıkarılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-19yiw65",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "remember",
+        "importance": 3,
+        "title": "Dekanülasyon sırasını gerekçesiyle öğren",
+        "body": "Stabil hemodinamide genel sıra **venöz kanül, protamin, arteriyel kanül** biçimindedir. Tek atriyal kanül hasta KPB'den tamamen ayrılmadan çıkarılmaz.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Santral arteriyel kanülasyon için tercih edilen bölge hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1454ajg",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Santral arteriyel kanülasyon için tercih edilen bölge hangisidir?",
+        "options": [
+          "Koroner sinüs",
+          "Distal çıkan aorta",
+          "Pulmoner ven",
+          "Sol atriyum apendiksi"
+        ],
+        "correct": 1,
+        "explanation": "EACTS 2024 santral arteriyel dönüş için distal çıkan aortayı tercih edilen yer olarak belirtir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dispersiyon uçlu arteriyel kanülün hedeflediği etki hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0hserwt",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Dispersiyon uçlu arteriyel kanülün hedeflediği etki hangisidir?",
+        "options": [
+          "Venöz kanı köpürtmek",
+          "Gaz egzozunu kapatmak",
+          "Jet akımını dağıtmak",
+          "Aort kapağını immobilize etmek"
+        ],
+        "correct": 2,
+        "explanation": "Yan delikli dispersiyon uç, tek yoğun jetin aort duvarına etkisini azaltmayı amaçlar.",
+        "source": "Medtronic / LivaNova kanüller"
+      }
+    },
+    {
+      "title": "Femoral arteriyel bi-flow kanülün ek amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-08zjnfv",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Femoral arteriyel bi-flow kanülün ek amacı nedir?",
+        "options": [
+          "Koroner sinüs drenajı",
+          "Sol atriyum ventingi",
+          "Akciğer ventilasyonu",
+          "Distal bacak perfüzyonu"
+        ],
+        "correct": 3,
+        "explanation": "Bi-flow tasarım femoral girişin distalindeki bacağı da perfüze eder.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bikaval drenajda iki venöz kanül hangi damarlara yerleştirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-09s4z2h",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Bikaval drenajda iki venöz kanül hangi damarlara yerleştirilir?",
+        "options": [
+          "Vena kava superior ve inferior",
+          "Sağ ve sol pulmoner arter",
+          "Sağ ve sol koroner arter",
+          "Büyük ve küçük kardiyak ven"
+        ],
+        "correct": 0,
+        "explanation": "Bikaval kanülasyon superior ve inferior vena kavayı ayrı kanüllerle drene eder.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Retrograd kardiyopleji kanülünün balonu hangi damarda yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-03hline",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Retrograd kardiyopleji kanülünün balonu hangi damarda yer alır?",
+        "options": [
+          "Femoral ven",
+          "Koroner sinüs",
+          "Pulmoner arter",
+          "Vena kava superior"
+        ],
+        "correct": 1,
+        "explanation": "Retrograd balonlu kanül sağ atriyumdan koroner sinüse yerleştirilir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "İki kademeli venöz kanülün ince ucu superior vena kavaya yerleşir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-09hvtd8",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "tf",
+        "importance": 2,
+        "statement": "İki kademeli venöz kanülün ince ucu superior vena kavaya yerleşir.",
+        "isTrue": false,
+        "explanation": "İnce uç inferior vena kavada, geniş delikli bölüm sağ atriyumda bulunur.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Epiaortik ultrason çıkan aortadaki ateromların belirlenmesine yardım eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-19ik24l",
+        "course": "PER141",
+        "topic": "Kanülasyon teknikleri ve kanüller",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Epiaortik ultrason çıkan aortadaki ateromların belirlenmesine yardım eder.",
+        "isTrue": true,
+        "explanation": "Kanülasyon ve klemp bölgesi planlanırken çıkan aorta ateromları epiaortik ultrasonla değerlendirilebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1bqo2bd",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 3,
+      "term": "Kanül",
+      "definition": "Hastayı devreye bağlayan, damar veya kalp boşluğuna yerleştirilen tüp.",
+      "en": "Cannula",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-10crdq4",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 3,
+      "term": "French (Fr)",
+      "definition": "Kanül veya kateterin dış çapını ifade eden ölçü birimi.",
+      "en": "French gauge (Charrière)",
+      "source": "Medtronic / LivaNova kanüller"
+    },
+    {
+      "id": "PER141-06yerod",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Basınç düşüşü",
+      "definition": "Kan bir kanül veya devre bileşeninden geçerken giriş ile çıkış arasında oluşan basınç kaybı.",
+      "en": "Pressure drop",
+      "source": "Pediatrik kanül çalışması 2024"
+    },
+    {
+      "id": "PER141-0oneeqz",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel (aort) kanülü",
+      "definition": "Oksijenli kanı çoğunlukla distal çıkan aortaya veren kanül.",
+      "en": "Arterial (aortic) cannula",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0bdkvrt",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Dispersiyon uçlu kanül",
+      "definition": "Kapalı uç ve yan deliklerle jeti dağıtan, daha düşük basınçla yüksek akım sağlayan arteriyel kanül.",
+      "en": "Dispersion / diffusion-tip cannula",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1f7otj3",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "İnce duvarlı kanül",
+      "definition": "Aynı dış çapta daha geniş iç çaplı, daha düşük dirençli kanül.",
+      "en": "Thin-walled cannula",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-07o9opg",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz kanül",
+      "definition": "Sağ atriyum/kavalardan kanı devreye drene eden, tel takviyeli kanül.",
+      "en": "Venous cannula",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-12anqbl",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 3,
+      "term": "İki kademeli venöz kanül",
+      "definition": "sağ atriyum'daki geniş delikli sepet ve vena kava inferior'deki ince uçla sağ atriyum + vena kava inferior'den birlikte drenaj sağlayan tek kanül (CABG).",
+      "en": "Two-stage (cavoatrial) cannula",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-174rigl",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 3,
+      "term": "Bikaval kanülasyon",
+      "definition": "vena kava superior ve vena kava inferior'ye ayrı kanül + Y-konnektör; kalp boşluklarının açıldığı işlemlerde.",
+      "en": "Bicaval cannulation",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-11ij84e",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Kaval turnike",
+      "definition": "Kanül etrafında vena kavayı sıkarak kanın sağ atriyuma geçmesini ve hava girişini önleyen bant; total bypass sağlar.",
+      "en": "Caval snare / tourniquet",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0n108e1",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Femoral kanülasyon",
+      "definition": "Kasıktan femoral arter/ven kanülasyonu; acil, redo ve minimal invaziv cerrahide.",
+      "en": "Femoral cannulation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-04tcp6e",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Aksiller kanülasyon",
+      "definition": "Arteriyel dönüş için aksiller arterin kullanılması; aort arkusuna antegrad perfüzyon sağlayabilir.",
+      "en": "Axillary cannulation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0ocl44h",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 1,
+      "term": "Bi-flow kanül",
+      "definition": "Distal bacağa da kan veren yan çıkışlı femoral arteriyel kanül.",
+      "en": "Bi-flow femoral cannula",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-02gvbze",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd perfüzyon",
+      "definition": "Femoral arteriyel kanülden aortaya, fizyolojik akım yönünün tersine yapılan perfüzyon.",
+      "en": "Retrograde perfusion",
+      "source": "MIMVS kanülasyon çalışmaları 2026"
+    },
+    {
+      "id": "PER141-1ujz4eh",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "term",
+      "importance": 2,
+      "term": "Epiaortik ultrason",
+      "definition": "Kanülasyon veya klemp uygulaması öncesinde çıkan aortadaki ateromları değerlendiren ultrason yöntemi.",
+      "en": "Epiaortic ultrasound",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1795n8f",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz kanülasyon düzeni",
+      "left": {
+        "title": "İki kademeli kanül",
+        "points": [
+          "Sağ atriyum ve inferior kava tek kanülle drene edilir",
+          "Kalp boşlukları açılmayan işlemlere uygun"
+        ]
+      },
+      "right": {
+        "title": "Bikaval kanülasyon",
+        "points": [
+          "Superior ve inferior kavada ayrı kanüller bulunur",
+          "Sağ atriyumun açıldığı işlemde turnikelerle izolasyon"
+        ]
+      },
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-11up946",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "fact",
+      "importance": 3,
+      "title": "French dış çapı ölçer",
+      "body": "French ölçüsünde **1 Fr = 1/3 mm dış çap**. Bu nedenle 18 Fr 6 mm, 21 Fr 7 mm ve 24 Fr 8 mm dış çapa karşılık gelir; iç çap aynı değildir.",
+      "source": "Medtronic / LivaNova kanüller"
+    },
+    {
+      "id": "PER141-059w16r",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül basınç-akım eğrisi",
+      "body": "Aynı French ölçüsündeki kanüllerin performansı üreticiye göre değişebilir. Boyut seçiminde **üreticinin basınç-akım eğrisi** ve hedef akım değerlendirilir.",
+      "source": "Pediatrik kanül çalışması 2024"
+    },
+    {
+      "id": "PER141-0j0oqb0",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül boyunca basınç düşüşü",
+      "body": "Arteriyel kanül basınç düşüşünü yaklaşık **100 mmHg ile sınırlamak** genel kabul gören yaklaşımdır; hedef yüksek jet ve kan hasarını sınırlamaktır.",
+      "source": "Pediatrik kanül çalışması 2024"
+    },
+    {
+      "id": "PER141-0cnkioa",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "fact",
+      "importance": 3,
+      "title": "Aort kanülasyonunda basınç",
+      "body": "EACTS 2024 aort kanülasyonunda sistolik basıncı **<100 mmHg**, Basics of CPB 90–100 mmHg olarak verir. İki anlatım diseksiyon riskini azaltmaya yöneliktir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1he100n",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Periferik arteriyel giriş",
+      "body": "Femoral giriş aortaya **retrograd**, aksiller giriş ise arkus damarlarına antegrad akım sağlayabilir. Giriş yeri patoloji ve cerrahi yaklaşımla birlikte seçilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rgw6qv",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "flip",
+      "importance": 3,
+      "question": "Arteriyel kanülün venözden önce yerleştirilmesinin gerekçesi nedir?",
+      "answer": "Venöz kanülasyon sırasında hipotansiyon oluşursa **arteriyel hattan hacim verebilmek**.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-07zslrs",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "flip",
+      "importance": 2,
+      "question": "İnce duvarlı kanül aynı dış çapta neden daha iyi akım sağlayabilir?",
+      "answer": "İç çapı daha geniştir; akıma direnç ve gerekli basınç düşüşü azalabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rqua33",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kanül boyutunu seçerken hangi hasta ve işlem bilgileri kullanılır?",
+      "answer": "Hasta büyüklüğü, gereken akım, damar anatomisi ve planlanan cerrahi yaklaşım; tip ve boyut ekiple önceden kararlaştırılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-19yiw65",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "remember",
+      "importance": 3,
+      "title": "Dekanülasyon sırasını gerekçesiyle öğren",
+      "body": "Stabil hemodinamide genel sıra **venöz kanül, protamin, arteriyel kanül** biçimindedir. Tek atriyal kanül hasta KPB'den tamamen ayrılmadan çıkarılmaz.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1454ajg",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Santral arteriyel kanülasyon için tercih edilen bölge hangisidir?",
+      "options": [
+        "Koroner sinüs",
+        "Distal çıkan aorta",
+        "Pulmoner ven",
+        "Sol atriyum apendiksi"
+      ],
+      "correct": 1,
+      "explanation": "EACTS 2024 santral arteriyel dönüş için distal çıkan aortayı tercih edilen yer olarak belirtir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0hserwt",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Dispersiyon uçlu arteriyel kanülün hedeflediği etki hangisidir?",
+      "options": [
+        "Venöz kanı köpürtmek",
+        "Gaz egzozunu kapatmak",
+        "Jet akımını dağıtmak",
+        "Aort kapağını immobilize etmek"
+      ],
+      "correct": 2,
+      "explanation": "Yan delikli dispersiyon uç, tek yoğun jetin aort duvarına etkisini azaltmayı amaçlar.",
+      "source": "Medtronic / LivaNova kanüller"
+    },
+    {
+      "id": "PER141-08zjnfv",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Femoral arteriyel bi-flow kanülün ek amacı nedir?",
+      "options": [
+        "Koroner sinüs drenajı",
+        "Sol atriyum ventingi",
+        "Akciğer ventilasyonu",
+        "Distal bacak perfüzyonu"
+      ],
+      "correct": 3,
+      "explanation": "Bi-flow tasarım femoral girişin distalindeki bacağı da perfüze eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-09s4z2h",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Bikaval drenajda iki venöz kanül hangi damarlara yerleştirilir?",
+      "options": [
+        "Vena kava superior ve inferior",
+        "Sağ ve sol pulmoner arter",
+        "Sağ ve sol koroner arter",
+        "Büyük ve küçük kardiyak ven"
+      ],
+      "correct": 0,
+      "explanation": "Bikaval kanülasyon superior ve inferior vena kavayı ayrı kanüllerle drene eder.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-03hline",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Retrograd kardiyopleji kanülünün balonu hangi damarda yer alır?",
+      "options": [
+        "Femoral ven",
+        "Koroner sinüs",
+        "Pulmoner arter",
+        "Vena kava superior"
+      ],
+      "correct": 1,
+      "explanation": "Retrograd balonlu kanül sağ atriyumdan koroner sinüse yerleştirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-09hvtd8",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "tf",
+      "importance": 2,
+      "statement": "İki kademeli venöz kanülün ince ucu superior vena kavaya yerleşir.",
+      "isTrue": false,
+      "explanation": "İnce uç inferior vena kavada, geniş delikli bölüm sağ atriyumda bulunur.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-19ik24l",
+      "course": "PER141",
+      "topic": "Kanülasyon teknikleri ve kanüller",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Epiaortik ultrason çıkan aortadaki ateromların belirlenmesine yardım eder.",
+      "isTrue": true,
+      "explanation": "Kanülasyon ve klemp bölgesi planlanırken çıkan aorta ateromları epiaortik ultrasonla değerlendirilebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

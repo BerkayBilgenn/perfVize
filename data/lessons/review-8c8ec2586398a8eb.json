@@ -1,0 +1,506 @@
+{
+  "id": "review-8c8ec2586398a8eb",
+  "title": "Kriz yönetimi",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "PRONTO",
+      "text": "Parallel replacement of non-functioning oxygenator\nYetersiz oksijenatöre paralel ikinci oksijenatör ekleyerek akımı kesmeden değişim.",
+      "images": [],
+      "card": {
+        "id": "PER207-1i919v7",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "PRONTO",
+        "en": "Parallel replacement of non-functioning oxygenator",
+        "definition": "Yetersiz oksijenatöre paralel ikinci oksijenatör ekleyerek akımı kesmeden değişim.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Venöz piggyback",
+      "text": "Venous piggyback\nVenöz hattan alınan kanı ikinci bir oksijenatörden geçirip rezervuara veren kurtarma tekniği.",
+      "images": [],
+      "card": {
+        "id": "PER207-1vtkoix",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 1,
+        "term": "Venöz piggyback",
+        "en": "Venous piggyback",
+        "definition": "Venöz hattan alınan kanı ikinci bir oksijenatörden geçirip rezervuara veren kurtarma tekniği.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Masif hava embolisi",
+      "text": "Massive air embolism\nKPB sırasında arteriyel dolaşıma büyük hacimde hava girmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0alwrg3",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "Masif hava embolisi",
+        "en": "Massive air embolism",
+        "definition": "KPB sırasında arteriyel dolaşıma büyük hacimde hava girmesi.",
+        "source": "TGKDC hava embolisi olgusu"
+      }
+    },
+    {
+      "title": "Retrograd serebral perfüzyon",
+      "text": "Retrograde cerebral perfusion\nSVC yoluyla beyne ters yönde soğuk kan verilmesi; hava embolisinde havanın yıkanması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ry3hao",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 1,
+        "term": "Retrograd serebral perfüzyon",
+        "en": "Retrograde cerebral perfusion",
+        "definition": "SVC yoluyla beyne ters yönde soğuk kan verilmesi; hava embolisinde havanın yıkanması.",
+        "source": "TGKDC hava embolisi olgusu"
+      }
+    },
+    {
+      "title": "Trendelenburg pozisyonu",
+      "text": "Trendelenburg position\nBaş aşağı eğim; hava embolisinde ve juguler kanül çıkarılırken kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-08irsk8",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 1,
+        "term": "Trendelenburg pozisyonu",
+        "en": "Trendelenburg position",
+        "definition": "Baş aşağı eğim; hava embolisinde ve juguler kanül çıkarılırken kullanılır.",
+        "source": "TGKDC hava embolisi olgusu"
+      }
+    },
+    {
+      "title": "Kriz kaynak yönetimi",
+      "text": "Crisis management drills\nDüşük sıklıklı-yüksek riskli olaylar için yazılı protokol ve düzenli simülasyon uygulaması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1rr2bpl",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "Kriz kaynak yönetimi",
+        "en": "Crisis management drills",
+        "definition": "Düşük sıklıklı-yüksek riskli olaylar için yazılı protokol ve düzenli simülasyon uygulaması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Anafilaktik reaksiyon",
+      "text": "Anaphylactic reaction\nİlaç veya kan ürünü gibi bir maruziyet sonrası gelişebilen, dolaşım ve solunumu tehdit eden sistemik aşırı duyarlılık reaksiyonu.",
+      "images": [],
+      "card": {
+        "id": "PER207-10bxmfl",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "Anafilaktik reaksiyon",
+        "en": "Anaphylactic reaction",
+        "definition": "İlaç veya kan ürünü gibi bir maruziyet sonrası gelişebilen, dolaşım ve solunumu tehdit eden sistemik aşırı duyarlılık reaksiyonu.",
+        "source": "WAO Anafilaksi Kılavuzu 2020"
+      }
+    },
+    {
+      "title": "Oksijenatör değişimi tek seçenek değildir",
+      "text": "Gaz yolu nedenleri dışlanıp cihaz yetmezliği doğrulanınca, paralel veya piggyback oksijenatör yöntemleri akımın sürdürülmesine yardım edebilir. Seçim devre yapısı ve kurum protokolüne bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0yez9nz",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Oksijenatör değişimi tek seçenek değildir",
+        "body": "Gaz yolu nedenleri dışlanıp cihaz yetmezliği doğrulanınca, paralel veya piggyback oksijenatör yöntemleri akımın sürdürülmesine yardım edebilir. Seçim devre yapısı ve kurum protokolüne bağlıdır.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Kriz algoritması devreye uyarlanır",
+      "text": "Oksijenatör kurtarma algoritmaları, merkezin devre konfigürasyonuna göre hazırlanır; cihaz değişimi, paralel oksijenatör ve piggyback yöntemleri aynı bağlantıları kullanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1wevi1b",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kriz algoritması devreye uyarlanır",
+        "body": "Oksijenatör kurtarma algoritmaları, merkezin devre konfigürasyonuna göre hazırlanır; cihaz değişimi, paralel oksijenatör ve piggyback yöntemleri aynı bağlantıları kullanmaz.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Oksijenatör yetmezliği sanılan durumda önce hangi gaz yolu sorunları araştırılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0ea27vn",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Oksijenatör yetmezliği sanılan durumda önce hangi gaz yolu sorunları araştırılır?",
+        "answer": "Gaz kaynağı bağlantısı, gaz akımı, blender ve gaz/kan oranı kontrol edilir; dış gaz yolu sorunu cihaz içi yetmezlikle karıştırılmaz.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Kurtarma oksijenatörü yöntemi neden ekipçe önceden çalışılmalıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1x679cj",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Kurtarma oksijenatörü yöntemi neden ekipçe önceden çalışılmalıdır?",
+        "answer": "Bağlantı noktaları ve klemp sırası devreye göre değişir. **Simülasyon**, acilde görevlerin ve malzeme hazırlığının açık olmasını sağlar.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Devrede hava hasta bağlantısına tehdit",
+      "text": "ECMO devresinde hava görüldüğünde kurum algoritmasına göre **pompa durdurulur ve hastaya yakın hatlar klemplenir**; destek ve hava kaynağı ekipçe değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ppcjvi",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Devrede hava hasta bağlantısına tehdit",
+        "body": "ECMO devresinde hava görüldüğünde kurum algoritmasına göre **pompa durdurulur ve hastaya yakın hatlar klemplenir**; destek ve hava kaynağı ekipçe değerlendirilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Elektrik kaybı için yedek güç",
+      "text": "Pompanın **bataryası ve el krankı** erişilebilir olmalıdır. Güç kesintisinde gereksiz enerji tüketimi azaltılır ve akımın sürmesi doğrulanır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ovtbh0",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Elektrik kaybı için yedek güç",
+        "body": "Pompanın **bataryası ve el krankı** erişilebilir olmalıdır. Güç kesintisinde gereksiz enerji tüketimi azaltılır ve akımın sürmesi doğrulanır.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Matte 2024’te oksijenatör değişimi yerine venöz piggyback önerisinin temel klinik amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-06gw4gm",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Matte 2024’te oksijenatör değişimi yerine venöz piggyback önerisinin temel klinik amacı nedir?",
+        "options": [
+          "Sistemik antikoagülasyonu tamamen ortadan kaldırmak",
+          "Gaz değişimini düzeltirken desteğin kesilme riskini azaltmak",
+          "Her hastada arteriyel basıncı kalıcı artırmak",
+          "Her devrede rezervuar gereksinimini kaldırmak"
+        ],
+        "correct": 1,
+        "explanation": "Yazarların merkez algoritması, kurtarma oksijenatörüyle gaz değişimini sürdürerek ekip kararına zaman kazandırmayı hedefler; bütün merkezler için zorunlu protokol değildir.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Venöz piggyback kurtarma yönteminde ikinci oksijenatörün kanı nereden alınır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0ymcas9",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Venöz piggyback kurtarma yönteminde ikinci oksijenatörün kanı nereden alınır?",
+        "options": [
+          "Purge hattından",
+          "Gaz çıkışından",
+          "Venöz hattan",
+          "Aort kökünden"
+        ],
+        "correct": 2,
+        "explanation": "Venöz piggyback, venöz hattan aldığı kanı ikinci oksijenatörden geçirerek rezervuara döndürür.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "KPB sırasında oksijenasyon bozulmasında cihaz değişiminden önce hangi kontrol doğrudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-12cyisz",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "KPB sırasında oksijenasyon bozulmasında cihaz değişiminden önce hangi kontrol doğrudur?",
+        "options": [
+          "Hava dedektörü alarmını kapatmak",
+          "Dönüş kanülünü görüntüsüz çekmek",
+          "Oksijenatörün gaz çıkışını tıkamak",
+          "Gaz kaynağı ve blender bağlantısını kontrol etmek"
+        ],
+        "correct": 3,
+        "explanation": "Dış gaz yolu arızası düzeltilebilir bir nedendir; oksijenatör içi yetmezlik tanısından önce değerlendirilir.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Matte 2024’te venöz piggyback yöntemi, venöz hattan kan alarak ek oksijenatörden rezervuara döndürür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0b5wv6j",
+        "course": "PER207",
+        "topic": "Kriz yönetimi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Matte 2024’te venöz piggyback yöntemi, venöz hattan kan alarak ek oksijenatörden rezervuara döndürür.",
+        "isTrue": true,
+        "explanation": "Bu kurtarma yöntemi ayrı pompa ve oksijenatörle venöz kanı işlemden geçirip rezervuara verir; bağlantı devreye göre hazırlanır.",
+        "source": "Matte, JECT 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1i919v7",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "PRONTO",
+      "en": "Parallel replacement of non-functioning oxygenator",
+      "definition": "Yetersiz oksijenatöre paralel ikinci oksijenatör ekleyerek akımı kesmeden değişim.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-1vtkoix",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 1,
+      "term": "Venöz piggyback",
+      "en": "Venous piggyback",
+      "definition": "Venöz hattan alınan kanı ikinci bir oksijenatörden geçirip rezervuara veren kurtarma tekniği.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-0alwrg3",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "Masif hava embolisi",
+      "en": "Massive air embolism",
+      "definition": "KPB sırasında arteriyel dolaşıma büyük hacimde hava girmesi.",
+      "source": "TGKDC hava embolisi olgusu"
+    },
+    {
+      "id": "PER207-0ry3hao",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 1,
+      "term": "Retrograd serebral perfüzyon",
+      "en": "Retrograde cerebral perfusion",
+      "definition": "SVC yoluyla beyne ters yönde soğuk kan verilmesi; hava embolisinde havanın yıkanması.",
+      "source": "TGKDC hava embolisi olgusu"
+    },
+    {
+      "id": "PER207-08irsk8",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 1,
+      "term": "Trendelenburg pozisyonu",
+      "en": "Trendelenburg position",
+      "definition": "Baş aşağı eğim; hava embolisinde ve juguler kanül çıkarılırken kullanılır.",
+      "source": "TGKDC hava embolisi olgusu"
+    },
+    {
+      "id": "PER207-1rr2bpl",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "Kriz kaynak yönetimi",
+      "en": "Crisis management drills",
+      "definition": "Düşük sıklıklı-yüksek riskli olaylar için yazılı protokol ve düzenli simülasyon uygulaması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-10bxmfl",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "Anafilaktik reaksiyon",
+      "en": "Anaphylactic reaction",
+      "definition": "İlaç veya kan ürünü gibi bir maruziyet sonrası gelişebilen, dolaşım ve solunumu tehdit eden sistemik aşırı duyarlılık reaksiyonu.",
+      "source": "WAO Anafilaksi Kılavuzu 2020"
+    },
+    {
+      "id": "PER207-0yez9nz",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijenatör değişimi tek seçenek değildir",
+      "body": "Gaz yolu nedenleri dışlanıp cihaz yetmezliği doğrulanınca, paralel veya piggyback oksijenatör yöntemleri akımın sürdürülmesine yardım edebilir. Seçim devre yapısı ve kurum protokolüne bağlıdır.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-1wevi1b",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kriz algoritması devreye uyarlanır",
+      "body": "Oksijenatör kurtarma algoritmaları, merkezin devre konfigürasyonuna göre hazırlanır; cihaz değişimi, paralel oksijenatör ve piggyback yöntemleri aynı bağlantıları kullanmaz.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-0ea27vn",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Oksijenatör yetmezliği sanılan durumda önce hangi gaz yolu sorunları araştırılır?",
+      "answer": "Gaz kaynağı bağlantısı, gaz akımı, blender ve gaz/kan oranı kontrol edilir; dış gaz yolu sorunu cihaz içi yetmezlikle karıştırılmaz.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-1x679cj",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Kurtarma oksijenatörü yöntemi neden ekipçe önceden çalışılmalıdır?",
+      "answer": "Bağlantı noktaları ve klemp sırası devreye göre değişir. **Simülasyon**, acilde görevlerin ve malzeme hazırlığının açık olmasını sağlar.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-1ppcjvi",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Devrede hava hasta bağlantısına tehdit",
+      "body": "ECMO devresinde hava görüldüğünde kurum algoritmasına göre **pompa durdurulur ve hastaya yakın hatlar klemplenir**; destek ve hava kaynağı ekipçe değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0ovtbh0",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Elektrik kaybı için yedek güç",
+      "body": "Pompanın **bataryası ve el krankı** erişilebilir olmalıdır. Güç kesintisinde gereksiz enerji tüketimi azaltılır ve akımın sürmesi doğrulanır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-06gw4gm",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Matte 2024’te oksijenatör değişimi yerine venöz piggyback önerisinin temel klinik amacı nedir?",
+      "options": [
+        "Sistemik antikoagülasyonu tamamen ortadan kaldırmak",
+        "Gaz değişimini düzeltirken desteğin kesilme riskini azaltmak",
+        "Her hastada arteriyel basıncı kalıcı artırmak",
+        "Her devrede rezervuar gereksinimini kaldırmak"
+      ],
+      "correct": 1,
+      "explanation": "Yazarların merkez algoritması, kurtarma oksijenatörüyle gaz değişimini sürdürerek ekip kararına zaman kazandırmayı hedefler; bütün merkezler için zorunlu protokol değildir.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-0ymcas9",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Venöz piggyback kurtarma yönteminde ikinci oksijenatörün kanı nereden alınır?",
+      "options": [
+        "Purge hattından",
+        "Gaz çıkışından",
+        "Venöz hattan",
+        "Aort kökünden"
+      ],
+      "correct": 2,
+      "explanation": "Venöz piggyback, venöz hattan aldığı kanı ikinci oksijenatörden geçirerek rezervuara döndürür.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-12cyisz",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "KPB sırasında oksijenasyon bozulmasında cihaz değişiminden önce hangi kontrol doğrudur?",
+      "options": [
+        "Hava dedektörü alarmını kapatmak",
+        "Dönüş kanülünü görüntüsüz çekmek",
+        "Oksijenatörün gaz çıkışını tıkamak",
+        "Gaz kaynağı ve blender bağlantısını kontrol etmek"
+      ],
+      "correct": 3,
+      "explanation": "Dış gaz yolu arızası düzeltilebilir bir nedendir; oksijenatör içi yetmezlik tanısından önce değerlendirilir.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-0b5wv6j",
+      "course": "PER207",
+      "topic": "Kriz yönetimi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Matte 2024’te venöz piggyback yöntemi, venöz hattan kan alarak ek oksijenatörden rezervuara döndürür.",
+      "isTrue": true,
+      "explanation": "Bu kurtarma yöntemi ayrı pompa ve oksijenatörle venöz kanı işlemden geçirip rezervuara verir; bağlantı devreye göre hazırlanır.",
+      "source": "Matte, JECT 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

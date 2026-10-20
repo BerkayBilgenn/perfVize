@@ -1,0 +1,633 @@
+{
+  "id": "review-01c92386761a3856",
+  "title": "KPB'de anestezi, ayrılma ve aciller",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kardiyopulmoner bypass",
+      "text": "Cardiopulmonary bypass\nKalp ve akciğer fonksiyonunun cerrahi süresince kalp-akciğer makinesiyle geçici olarak üstlenilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0fl3so8",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyopulmoner bypass",
+        "en": "Cardiopulmonary bypass",
+        "definition": "Kalp ve akciğer fonksiyonunun cerrahi süresince kalp-akciğer makinesiyle geçici olarak üstlenilmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Perfüzyon",
+      "text": "Perfusion\nGenel kabul gören tanımıyla, dokulara kan (sıvı) akımı sağlanması; perfüzyonist KPB'yi yöneten sağlık profesyonelidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0supoza",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 2,
+        "term": "Perfüzyon",
+        "en": "Perfusion",
+        "definition": "Genel kabul gören tanımıyla, dokulara kan (sıvı) akımı sağlanması; perfüzyonist KPB'yi yöneten sağlık profesyonelidir.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Kontrol listesi",
+      "text": "Checklist\nKPB öncesi, ayrılma ve acil durumlarda kritik adımların atlanmasını önleyen yapılandırılmış liste.",
+      "images": [],
+      "card": {
+        "id": "PER243-1fgqslt",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 2,
+        "term": "Kontrol listesi",
+        "en": "Checklist",
+        "definition": "KPB öncesi, ayrılma ve acil durumlarda kritik adımların atlanmasını önleyen yapılandırılmış liste.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Düşük kalp debisi sendromu",
+      "text": "Low cardiac output syndrome (LCOS)\nKalp cerrahisi sonrası miyokard disfonksiyonuna bağlı düşük kardiyak indeks ve uç organ hipoperfüzyonu.",
+      "images": [],
+      "card": {
+        "id": "PER243-1wy8j4s",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 2,
+        "term": "Düşük kalp debisi sendromu",
+        "en": "Low cardiac output syndrome (LCOS)",
+        "definition": "Kalp cerrahisi sonrası miyokard disfonksiyonuna bağlı düşük kardiyak indeks ve uç organ hipoperfüzyonu.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Vazopleji",
+      "text": "Vasoplegia\nYeterli/yüksek debiye rağmen düşük sistemik vasküler direnç ile seyreden dirençli vazodilatasyon (ör. KPB sonrası).",
+      "images": [],
+      "card": {
+        "id": "PER243-19bm2bv",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 2,
+        "term": "Vazopleji",
+        "en": "Vasoplegia",
+        "definition": "Yeterli/yüksek debiye rağmen düşük sistemik vasküler direnç ile seyreden dirençli vazodilatasyon (ör. KPB sonrası).",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hava embolisi",
+      "text": "Air embolism\nDolaşıma hava girmesi; KPB'nin korkulan komplikasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER243-03ufwaz",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 3,
+        "term": "Hava embolisi",
+        "en": "Air embolism",
+        "definition": "Dolaşıma hava girmesi; KPB'nin korkulan komplikasyonu.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İyatrojenik aort diseksiyonu",
+      "text": "Iatrogenic aortic dissection\nKanülasyon veya kros-klemp gibi girişimle ilişkili aort duvarı katmanlarının ayrışması.",
+      "images": [],
+      "card": {
+        "id": "PER243-16bvmzt",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 3,
+        "term": "İyatrojenik aort diseksiyonu",
+        "en": "Iatrogenic aortic dissection",
+        "definition": "Kanülasyon veya kros-klemp gibi girişimle ilişkili aort duvarı katmanlarının ayrışması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Zor ayrılma",
+      "text": "Difficult weaning from CPB\nArtan vazoaktif destek, başarısız ilk deneme veya mekanik destek gerektiren KPB'den ayrılma.",
+      "images": [],
+      "card": {
+        "id": "PER243-1s27uen",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "term",
+        "importance": 3,
+        "term": "Zor ayrılma",
+        "en": "Difficult weaning from CPB",
+        "definition": "Artan vazoaktif destek, başarısız ilk deneme veya mekanik destek gerektiren KPB'den ayrılma.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ayrılmada ekip iletişimi",
+      "text": "Kardiyopulmoner bypasstan ayrılma **multidisipliner** bir süreçtir; anestezi, cerrahi ve perfüzyon ekibinin ortak kontrol listesi kullanması önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0pu57zm",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ayrılmada ekip iletişimi",
+        "body": "Kardiyopulmoner bypasstan ayrılma **multidisipliner** bir süreçtir; anestezi, cerrahi ve perfüzyon ekibinin ortak kontrol listesi kullanması önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Zor ayrılmayı öngören etkenler",
+      "text": "Düşük sol ventrikül ejeksiyon fraksiyonu, diyastolik disfonksiyon, acil cerrahi ve uzun bypass süresi **zor ayrılma** olasılığını artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xa3ux8",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Zor ayrılmayı öngören etkenler",
+        "body": "Düşük sol ventrikül ejeksiyon fraksiyonu, diyastolik disfonksiyon, acil cerrahi ve uzun bypass süresi **zor ayrılma** olasılığını artırabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Acil yeniden bypass hazırlığı",
+      "text": "Acil yeniden kardiyopulmoner bypass için steril set hazır olmalı; yeniden açma kararıyla birlikte **yeterli heparin erken verilmelidir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-0yu6pgc",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Acil yeniden bypass hazırlığı",
+        "body": "Acil yeniden kardiyopulmoner bypass için steril set hazır olmalı; yeniden açma kararıyla birlikte **yeterli heparin erken verilmelidir**.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İnsan faktörü ve güvenlik",
+      "text": "Yorgunluk, uzun çalışma ve iletişim hataları kardiyopulmoner bypass advers olaylarına katkı sağlayabilir. **Simülasyon ve ekip eğitimi** acil durum yönetimini destekler.",
+      "images": [],
+      "card": {
+        "id": "PER243-06el3wo",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "İnsan faktörü ve güvenlik",
+        "body": "Yorgunluk, uzun çalışma ve iletişim hataları kardiyopulmoner bypass advers olaylarına katkı sağlayabilir. **Simülasyon ve ekip eğitimi** acil durum yönetimini destekler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB'den ayrılmada TÖE'nin temel katkısı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-06w46bi",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "flip",
+        "importance": 3,
+        "question": "KPB'den ayrılmada TÖE'nin temel katkısı nedir?",
+        "answer": "**Ventrikül işlevini, kapak sonucunu ve rezidüel havayı** değerlendirerek ayrılma yaklaşımına rehberlik eder.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ventilasyonu yeniden başlat",
+      "text": "Kardiyopulmoner bypasstan ayrılmadan önce **ventilasyonun yeniden başlatıldığı** kontrol listesiyle doğrulanmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-069bjo0",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "remember",
+        "importance": 3,
+        "title": "Ventilasyonu yeniden başlat",
+        "body": "Kardiyopulmoner bypasstan ayrılmadan önce **ventilasyonun yeniden başlatıldığı** kontrol listesiyle doğrulanmalıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Zor ayrılmada mekanik destek",
+      "text": "Artan vazoaktif ilaçlarla ayrılmayı zorlamak yerine seçilmiş hastada **erken geçici mekanik dolaşım desteği** değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1in0hxu",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "remember",
+        "importance": 3,
+        "title": "Zor ayrılmada mekanik destek",
+        "body": "Artan vazoaktif ilaçlarla ayrılmayı zorlamak yerine seçilmiş hastada **erken geçici mekanik dolaşım desteği** değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB akım aralığının bağlamı",
+      "text": "2024 KPB kılavuzunda orta hipotermi–normotermide yaygın pompa akımı **2,2–2,8 L/dk/m²** olarak aktarılır; vücut yüzey alanı, sıcaklık ve oksijen gereksinimine göre değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0qjkv8h",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "KPB akım aralığının bağlamı",
+        "body": "2024 KPB kılavuzunda orta hipotermi–normotermide yaygın pompa akımı **2,2–2,8 L/dk/m²** olarak aktarılır; vücut yüzey alanı, sıcaklık ve oksijen gereksinimine göre değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bekleyen devre için kurum politikası",
+      "text": "2024 KPB kılavuzunda hazır primingli devre için **72 saat**, kuru devre için **30 gün** saklama, kurum politikası olarak düşünülür; evrensel raf ömrü değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1mznpk0",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Bekleyen devre için kurum politikası",
+        "body": "2024 KPB kılavuzunda hazır primingli devre için **72 saat**, kuru devre için **30 gün** saklama, kurum politikası olarak düşünülür; evrensel raf ömrü değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Masif hava embolisinde yaklaşımlar",
+      "text": "2024 KPB kılavuzu masif hava embolisinde doku oksijenasyonunun optimizasyonu, hipotermi ve **retrograd serebral perfüzyon** gibi yaklaşımları tartışır; acil plan ekip ve kurum protokolüne dayanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1m61y9d",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "fact",
+        "importance": 2,
+        "title": "Masif hava embolisinde yaklaşımlar",
+        "body": "2024 KPB kılavuzu masif hava embolisinde doku oksijenasyonunun optimizasyonu, hipotermi ve **retrograd serebral perfüzyon** gibi yaklaşımları tartışır; acil plan ekip ve kurum protokolüne dayanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB'de kanülasyon yerinde aort diseksiyonunun tanısına hangi araç katkı sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1idpjqn",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "mcq",
+        "importance": 3,
+        "question": "KPB'de kanülasyon yerinde aort diseksiyonunun tanısına hangi araç katkı sağlar?",
+        "options": [
+          "Ekokardiyografi",
+          "Arter basıncı transdüseri",
+          "Pulmoner arter kateteri",
+          "Kardiyak indeks ölçümü"
+        ],
+        "correct": 0,
+        "explanation": "Ekokardiyografi iyatrojenik aort diseksiyonunun tanısında önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB devresinde rezervuar boşalmasını algılayan güvenlik aracı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1hefjgz",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KPB devresinde rezervuar boşalmasını algılayan güvenlik aracı hangisidir?",
+        "options": [
+          "Kabarcık dedektörü",
+          "Seviye dedektörü",
+          "Arteriyel basınç transdüseri",
+          "Arteriyel akım sensörü"
+        ],
+        "correct": 1,
+        "explanation": "Rezervuar seviye dedektörü düşük seviye ve hava girme riskini algılar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB devresinde hava varlığını algılayan güvenlik aracı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-12pvdmq",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KPB devresinde hava varlığını algılayan güvenlik aracı hangisidir?",
+        "options": [
+          "Rezervuar seviye dedektörü",
+          "Arteriyel basınç transdüseri",
+          "Kabarcık dedektörü",
+          "Arteriyel akım sensörü"
+        ],
+        "correct": 2,
+        "explanation": "Kabarcık dedektörleri arteriyel hatta hava güvenliğinin parçalarındandır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Zor KPB ayrılması yalnız anestezi ilaçlarını keserek değerlendirilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1h8qluv",
+        "course": "PER243",
+        "topic": "KPB'de anestezi, ayrılma ve aciller",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Zor KPB ayrılması yalnız anestezi ilaçlarını keserek değerlendirilir.",
+        "isTrue": false,
+        "explanation": "Zor ayrılma çok etkenlidir; ritim, doluş, ventrikül/kapak işlevi, ventilasyon ve gerektiğinde dolaşım desteği birlikte değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-0fl3so8",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyopulmoner bypass",
+      "en": "Cardiopulmonary bypass",
+      "definition": "Kalp ve akciğer fonksiyonunun cerrahi süresince kalp-akciğer makinesiyle geçici olarak üstlenilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0supoza",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon",
+      "en": "Perfusion",
+      "definition": "Genel kabul gören tanımıyla, dokulara kan (sıvı) akımı sağlanması; perfüzyonist KPB'yi yöneten sağlık profesyonelidir.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-1fgqslt",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 2,
+      "term": "Kontrol listesi",
+      "en": "Checklist",
+      "definition": "KPB öncesi, ayrılma ve acil durumlarda kritik adımların atlanmasını önleyen yapılandırılmış liste.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1wy8j4s",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 2,
+      "term": "Düşük kalp debisi sendromu",
+      "en": "Low cardiac output syndrome (LCOS)",
+      "definition": "Kalp cerrahisi sonrası miyokard disfonksiyonuna bağlı düşük kardiyak indeks ve uç organ hipoperfüzyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-19bm2bv",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 2,
+      "term": "Vazopleji",
+      "en": "Vasoplegia",
+      "definition": "Yeterli/yüksek debiye rağmen düşük sistemik vasküler direnç ile seyreden dirençli vazodilatasyon (ör. KPB sonrası).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-03ufwaz",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 3,
+      "term": "Hava embolisi",
+      "en": "Air embolism",
+      "definition": "Dolaşıma hava girmesi; KPB'nin korkulan komplikasyonu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-16bvmzt",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 3,
+      "term": "İyatrojenik aort diseksiyonu",
+      "en": "Iatrogenic aortic dissection",
+      "definition": "Kanülasyon veya kros-klemp gibi girişimle ilişkili aort duvarı katmanlarının ayrışması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1s27uen",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "term",
+      "importance": 3,
+      "term": "Zor ayrılma",
+      "en": "Difficult weaning from CPB",
+      "definition": "Artan vazoaktif destek, başarısız ilk deneme veya mekanik destek gerektiren KPB'den ayrılma.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0pu57zm",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ayrılmada ekip iletişimi",
+      "body": "Kardiyopulmoner bypasstan ayrılma **multidisipliner** bir süreçtir; anestezi, cerrahi ve perfüzyon ekibinin ortak kontrol listesi kullanması önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1xa3ux8",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Zor ayrılmayı öngören etkenler",
+      "body": "Düşük sol ventrikül ejeksiyon fraksiyonu, diyastolik disfonksiyon, acil cerrahi ve uzun bypass süresi **zor ayrılma** olasılığını artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0yu6pgc",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Acil yeniden bypass hazırlığı",
+      "body": "Acil yeniden kardiyopulmoner bypass için steril set hazır olmalı; yeniden açma kararıyla birlikte **yeterli heparin erken verilmelidir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-06el3wo",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "İnsan faktörü ve güvenlik",
+      "body": "Yorgunluk, uzun çalışma ve iletişim hataları kardiyopulmoner bypass advers olaylarına katkı sağlayabilir. **Simülasyon ve ekip eğitimi** acil durum yönetimini destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-06w46bi",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB'den ayrılmada TÖE'nin temel katkısı nedir?",
+      "answer": "**Ventrikül işlevini, kapak sonucunu ve rezidüel havayı** değerlendirerek ayrılma yaklaşımına rehberlik eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-069bjo0",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "remember",
+      "importance": 3,
+      "title": "Ventilasyonu yeniden başlat",
+      "body": "Kardiyopulmoner bypasstan ayrılmadan önce **ventilasyonun yeniden başlatıldığı** kontrol listesiyle doğrulanmalıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1in0hxu",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "remember",
+      "importance": 3,
+      "title": "Zor ayrılmada mekanik destek",
+      "body": "Artan vazoaktif ilaçlarla ayrılmayı zorlamak yerine seçilmiş hastada **erken geçici mekanik dolaşım desteği** değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0qjkv8h",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB akım aralığının bağlamı",
+      "body": "2024 KPB kılavuzunda orta hipotermi–normotermide yaygın pompa akımı **2,2–2,8 L/dk/m²** olarak aktarılır; vücut yüzey alanı, sıcaklık ve oksijen gereksinimine göre değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1mznpk0",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Bekleyen devre için kurum politikası",
+      "body": "2024 KPB kılavuzunda hazır primingli devre için **72 saat**, kuru devre için **30 gün** saklama, kurum politikası olarak düşünülür; evrensel raf ömrü değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1m61y9d",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "fact",
+      "importance": 2,
+      "title": "Masif hava embolisinde yaklaşımlar",
+      "body": "2024 KPB kılavuzu masif hava embolisinde doku oksijenasyonunun optimizasyonu, hipotermi ve **retrograd serebral perfüzyon** gibi yaklaşımları tartışır; acil plan ekip ve kurum protokolüne dayanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1idpjqn",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "mcq",
+      "importance": 3,
+      "question": "KPB'de kanülasyon yerinde aort diseksiyonunun tanısına hangi araç katkı sağlar?",
+      "options": [
+        "Ekokardiyografi",
+        "Arter basıncı transdüseri",
+        "Pulmoner arter kateteri",
+        "Kardiyak indeks ölçümü"
+      ],
+      "correct": 0,
+      "explanation": "Ekokardiyografi iyatrojenik aort diseksiyonunun tanısında önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1hefjgz",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB devresinde rezervuar boşalmasını algılayan güvenlik aracı hangisidir?",
+      "options": [
+        "Kabarcık dedektörü",
+        "Seviye dedektörü",
+        "Arteriyel basınç transdüseri",
+        "Arteriyel akım sensörü"
+      ],
+      "correct": 1,
+      "explanation": "Rezervuar seviye dedektörü düşük seviye ve hava girme riskini algılar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-12pvdmq",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB devresinde hava varlığını algılayan güvenlik aracı hangisidir?",
+      "options": [
+        "Rezervuar seviye dedektörü",
+        "Arteriyel basınç transdüseri",
+        "Kabarcık dedektörü",
+        "Arteriyel akım sensörü"
+      ],
+      "correct": 2,
+      "explanation": "Kabarcık dedektörleri arteriyel hatta hava güvenliğinin parçalarındandır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1h8qluv",
+      "course": "PER243",
+      "topic": "KPB'de anestezi, ayrılma ve aciller",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Zor KPB ayrılması yalnız anestezi ilaçlarını keserek değerlendirilir.",
+      "isTrue": false,
+      "explanation": "Zor ayrılma çok etkenlidir; ritim, doluş, ventrikül/kapak işlevi, ventilasyon ve gerektiğinde dolaşım desteği birlikte değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

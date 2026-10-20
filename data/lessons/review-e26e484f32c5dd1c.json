@@ -1,0 +1,802 @@
+{
+  "id": "review-e26e484f32c5dd1c",
+  "title": "Koroner damarlar ve ileti sistemi",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "LAD",
+      "text": "Left anterior descending artery\nSol koronerin ön interventriküler oluk boyunca inen dalı.",
+      "images": [],
+      "card": {
+        "id": "PER241-0kwibvm",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "LAD",
+        "en": "Left anterior descending artery",
+        "definition": "Sol koronerin ön interventriküler oluk boyunca inen dalı."
+      }
+    },
+    {
+      "title": "Sirkumfleks arter",
+      "text": "Circumflex artery\nSol koronerin atriyoventriküler oluk boyunca sola ve arkaya dolanan dalı.\nLat. circumflexus = çevresinde bükülmüş",
+      "images": [],
+      "card": {
+        "id": "PER241-0gv29vl",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Sirkumfleks arter",
+        "en": "Circumflex artery",
+        "definition": "Sol koronerin atriyoventriküler oluk boyunca sola ve arkaya dolanan dalı.",
+        "origin": "Lat. circumflexus = çevresinde bükülmüş"
+      }
+    },
+    {
+      "title": "Posterior inen koroner arter",
+      "text": "Posterior descending artery\nPosterior interventriküler arter; hangi koronerden çıktığı dominansı belirler. Patent duktus arteriyozus ile karıştırma.",
+      "images": [],
+      "card": {
+        "id": "PER241-1fflpnq",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Posterior inen koroner arter",
+        "en": "Posterior descending artery",
+        "definition": "Posterior interventriküler arter; hangi koronerden çıktığı dominansı belirler. Patent duktus arteriyozus ile karıştırma."
+      }
+    },
+    {
+      "title": "Koroner dominans",
+      "text": "Coronary dominance\nPDA'yı veren koronere göre tanımlama; çoğunluk sağ dominanttır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jo0t8i",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Koroner dominans",
+        "en": "Coronary dominance",
+        "definition": "PDA'yı veren koronere göre tanımlama; çoğunluk sağ dominanttır."
+      }
+    },
+    {
+      "title": "Tebesius venleri",
+      "text": "Thebesian veins (venae cordis minimae)\nDoğrudan kalp boşluklarına açılan en küçük kalp venleri.\nA. Thebesius (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0ybwzqc",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 1,
+        "source": "Wikipedia",
+        "term": "Tebesius venleri",
+        "en": "Thebesian veins (venae cordis minimae)",
+        "definition": "Doğrudan kalp boşluklarına açılan en küçük kalp venleri.",
+        "origin": "A. Thebesius (eponim)"
+      }
+    },
+    {
+      "title": "SA düğüm",
+      "text": "Sinoatrial node\nSağ atriyum üst duvarında, vena kava superior ağzına yakın, fizyolojik pacemaker.",
+      "images": [],
+      "card": {
+        "id": "PER241-19hn9gj",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "term": "SA düğüm",
+        "en": "Sinoatrial node",
+        "definition": "Sağ atriyum üst duvarında, vena kava superior ağzına yakın, fizyolojik pacemaker."
+      }
+    },
+    {
+      "title": "AV düğüm",
+      "text": "Atrioventricular node\nKoch üçgeninde bulunan ve atriyumlardan gelen uyarıyı ventriküllere iletmeden önce geciktiren düğüm.",
+      "images": [],
+      "card": {
+        "id": "PER241-1mvq8gg",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "term": "AV düğüm",
+        "en": "Atrioventricular node",
+        "definition": "Koch üçgeninde bulunan ve atriyumlardan gelen uyarıyı ventriküllere iletmeden önce geciktiren düğüm."
+      }
+    },
+    {
+      "title": "His demeti",
+      "text": "Bundle of His\natriyoventriküler düğümün devamı; septumda sağ ve sol dallara ayrılır.\nW. His Jr. (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-1p2dmwf",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "His demeti",
+        "en": "Bundle of His",
+        "definition": "atriyoventriküler düğümün devamı; septumda sağ ve sol dallara ayrılır.",
+        "origin": "W. His Jr. (eponim)"
+      }
+    },
+    {
+      "title": "Purkinje lifleri",
+      "text": "Purkinje fibres\nSubendokardiyal hızlı ileti lifleri; impulsu ventrikül kasına yayar.\nJ. Purkyně (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0qrx7b2",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Purkinje lifleri",
+        "en": "Purkinje fibres",
+        "definition": "Subendokardiyal hızlı ileti lifleri; impulsu ventrikül kasına yayar.",
+        "origin": "J. Purkyně (eponim)"
+      }
+    },
+    {
+      "title": "Bachmann demeti",
+      "text": "Bachmann's bundle\nİmpulsu sağ atriyumdan sol atriyuma doğrudan ileten yol.\nJ. Bachmann (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-1x6ww65",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "term",
+        "importance": 1,
+        "source": "OpenStax A&P 2e",
+        "term": "Bachmann demeti",
+        "en": "Bachmann's bundle",
+        "definition": "İmpulsu sağ atriyumdan sol atriyuma doğrudan ileten yol.",
+        "origin": "J. Bachmann (eponim)"
+      }
+    },
+    {
+      "title": "Sol ana koronerin dalları",
+      "text": "Sol ana koroner arterin başlıca dalları **sol ön inen arter** ve **sirkumfleks arterdir**.",
+      "images": [],
+      "card": {
+        "id": "PER241-0s7rpg4",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Sol ana koronerin dalları",
+        "body": "Sol ana koroner arterin başlıca dalları **sol ön inen arter** ve **sirkumfleks arterdir**."
+      }
+    },
+    {
+      "title": "Sol ön inen arterin seyri",
+      "text": "Sol ön inen koroner arter, **ön interventriküler oluk** boyunca ilerler.",
+      "images": [],
+      "card": {
+        "id": "PER241-1grtmrh",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Sol ön inen arterin seyri",
+        "body": "Sol ön inen koroner arter, **ön interventriküler oluk** boyunca ilerler."
+      }
+    },
+    {
+      "title": "Sirkumfleks hangi olukta ilerler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-016ubwf",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "flip",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Sirkumfleks hangi olukta ilerler?",
+        "answer": "**Atriyoventriküler olukta**, sola ve arkaya doğru seyir gösterir."
+      }
+    },
+    {
+      "title": "Koroner venlerin istisnası",
+      "text": "Ön kardiyak venler ile en küçük kardiyak venlerin bir bölümü **koroner sinüse uğramadan** kalp boşluklarına açılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-16yn3oz",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Koroner venlerin istisnası",
+        "body": "Ön kardiyak venler ile en küçük kardiyak venlerin bir bölümü **koroner sinüse uğramadan** kalp boşluklarına açılır."
+      }
+    },
+    {
+      "title": "Sol ventrikülün koroner akımı",
+      "text": "Sol ventrikülde koroner perfüzyon esas olarak **diyastolde** gerçekleşir; sistolde kas içi damarlar sıkışır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1usjv5v",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "remember",
+        "importance": 3,
+        "source": "Wikipedia",
+        "title": "Sol ventrikülün koroner akımı",
+        "body": "Sol ventrikülde koroner perfüzyon esas olarak **diyastolde** gerçekleşir; sistolde kas içi damarlar sıkışır."
+      }
+    },
+    {
+      "title": "AV gecikmesinin işlevi",
+      "text": "atriyoventriküler düğümdeki gecikme, ventrikül sistolünden önce **atriyumların boşalmasına** zaman sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-0292v7s",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "AV gecikmesinin işlevi",
+        "body": "atriyoventriküler düğümdeki gecikme, ventrikül sistolünden önce **atriyumların boşalmasına** zaman sağlar."
+      }
+    },
+    {
+      "title": "His demetinden sonra uyarı nasıl yayılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-12p7lm1",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "His demetinden sonra uyarı nasıl yayılır?",
+        "answer": "Uyarı **sağ ve sol dal** üzerinden subendokardiyal Purkinje liflerine, oradan ventrikül kasına yayılır."
+      }
+    },
+    {
+      "title": "EKG'de P dalgası",
+      "text": "P dalgası **atriyal depolarizasyonu** gösterir.",
+      "images": [],
+      "card": {
+        "id": "PER241-00foqzd",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "EKG'de P dalgası",
+        "body": "P dalgası **atriyal depolarizasyonu** gösterir."
+      }
+    },
+    {
+      "title": "EKG'de QRS kompleksi",
+      "text": "QRS kompleksi **ventriküler depolarizasyonu** gösterir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0fssaej",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "EKG'de QRS kompleksi",
+        "body": "QRS kompleksi **ventriküler depolarizasyonu** gösterir."
+      }
+    },
+    {
+      "title": "EKG'de T dalgası",
+      "text": "T dalgası **ventriküler repolarizasyonu** gösterir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0j96ia9",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "EKG'de T dalgası",
+        "body": "T dalgası **ventriküler repolarizasyonu** gösterir."
+      }
+    },
+    {
+      "title": "Normal kalpte ritmi başlatan fizyolojik uyarı merkezi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1ntdyhb",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Normal kalpte ritmi başlatan fizyolojik uyarı merkezi hangisidir?",
+        "options": [
+          "Atriyoventriküler düğüm",
+          "His demeti",
+          "Sol dal",
+          "Sinoatriyal düğüm"
+        ],
+        "correct": 3,
+        "explanation": "Normal uyarı SA düğümde başlar ve ileti sistemi boyunca yayılır."
+      }
+    },
+    {
+      "title": "AV düğümün yer aldığı anatomik bölge hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0q8r61s",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Koch üçgeni anatomisi",
+        "question": "AV düğümün yer aldığı anatomik bölge hangisidir?",
+        "options": [
+          "Koch üçgeni",
+          "Fossa ovalis",
+          "Aort istmusu",
+          "Sol atriyal aurikula"
+        ],
+        "correct": 0,
+        "explanation": "atriyoventriküler düğüm Koch üçgeninin tepesinde bulunur."
+      }
+    },
+    {
+      "title": "Sağ atriyumdan sol atriyuma doğrudan uyarı ileten demet hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1x8yfue",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Sağ atriyumdan sol atriyuma doğrudan uyarı ileten demet hangisidir?",
+        "options": [
+          "His demeti",
+          "Bachmann demeti",
+          "Sağ dal",
+          "Sol posterior fasikül"
+        ],
+        "correct": 1,
+        "explanation": "Bachmann demeti atriyumlar arası iletimi sağlar."
+      }
+    },
+    {
+      "title": "Hızlı subendokardiyal ileti hangi yapı tarafından sağlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-04maulw",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Hızlı subendokardiyal ileti hangi yapı tarafından sağlanır?",
+        "options": [
+          "Pektinat kaslar",
+          "Todaro tendonu",
+          "Purkinje lifleri",
+          "Korda tendinea"
+        ],
+        "correct": 2,
+        "explanation": "Purkinje lifleri uyarıyı subendokardiyal ağdan ventrikül kasına yayar."
+      }
+    },
+    {
+      "title": "Koroner dominansı belirleyen dal hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1dxxi0l",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Wikipedia",
+        "question": "Koroner dominansı belirleyen dal hangisidir?",
+        "options": [
+          "Sol marjinal arter",
+          "SA düğüm arteri",
+          "Ön kardiyak ven",
+          "Posterior inen arter"
+        ],
+        "correct": 3,
+        "explanation": "Dominans, posterior inen koroner arteri veren koronere göre tanımlanır."
+      }
+    },
+    {
+      "title": "His demeti interventriküler septumda sağ ve sol dallara ayrılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1cl885l",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "tf",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "statement": "His demeti interventriküler septumda sağ ve sol dallara ayrılır.",
+        "isTrue": true,
+        "explanation": "atriyoventriküler düğümden gelen uyarı His demeti ve dalları üzerinden ventriküllere iletilir."
+      }
+    },
+    {
+      "title": "Koroner sinüsün topladığı venöz kan sol atriyuma boşalır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1k3n8ky",
+        "course": "PER241",
+        "topic": "Koroner damarlar ve ileti sistemi",
+        "type": "tf",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "statement": "Koroner sinüsün topladığı venöz kan sol atriyuma boşalır.",
+        "isTrue": false,
+        "explanation": "Koroner sinüs sağ atriyuma açılır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-0kwibvm",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "LAD",
+      "en": "Left anterior descending artery",
+      "definition": "Sol koronerin ön interventriküler oluk boyunca inen dalı."
+    },
+    {
+      "id": "PER241-0gv29vl",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Sirkumfleks arter",
+      "en": "Circumflex artery",
+      "definition": "Sol koronerin atriyoventriküler oluk boyunca sola ve arkaya dolanan dalı.",
+      "origin": "Lat. circumflexus = çevresinde bükülmüş"
+    },
+    {
+      "id": "PER241-1fflpnq",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Posterior inen koroner arter",
+      "en": "Posterior descending artery",
+      "definition": "Posterior interventriküler arter; hangi koronerden çıktığı dominansı belirler. Patent duktus arteriyozus ile karıştırma."
+    },
+    {
+      "id": "PER241-0jo0t8i",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Koroner dominans",
+      "en": "Coronary dominance",
+      "definition": "PDA'yı veren koronere göre tanımlama; çoğunluk sağ dominanttır."
+    },
+    {
+      "id": "PER241-0ybwzqc",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Tebesius venleri",
+      "en": "Thebesian veins (venae cordis minimae)",
+      "definition": "Doğrudan kalp boşluklarına açılan en küçük kalp venleri.",
+      "origin": "A. Thebesius (eponim)"
+    },
+    {
+      "id": "PER241-19hn9gj",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "SA düğüm",
+      "en": "Sinoatrial node",
+      "definition": "Sağ atriyum üst duvarında, vena kava superior ağzına yakın, fizyolojik pacemaker."
+    },
+    {
+      "id": "PER241-1mvq8gg",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "AV düğüm",
+      "en": "Atrioventricular node",
+      "definition": "Koch üçgeninde bulunan ve atriyumlardan gelen uyarıyı ventriküllere iletmeden önce geciktiren düğüm."
+    },
+    {
+      "id": "PER241-1p2dmwf",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "His demeti",
+      "en": "Bundle of His",
+      "definition": "atriyoventriküler düğümün devamı; septumda sağ ve sol dallara ayrılır.",
+      "origin": "W. His Jr. (eponim)"
+    },
+    {
+      "id": "PER241-0qrx7b2",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Purkinje lifleri",
+      "en": "Purkinje fibres",
+      "definition": "Subendokardiyal hızlı ileti lifleri; impulsu ventrikül kasına yayar.",
+      "origin": "J. Purkyně (eponim)"
+    },
+    {
+      "id": "PER241-1x6ww65",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Bachmann demeti",
+      "en": "Bachmann's bundle",
+      "definition": "İmpulsu sağ atriyumdan sol atriyuma doğrudan ileten yol.",
+      "origin": "J. Bachmann (eponim)"
+    },
+    {
+      "id": "PER241-0s7rpg4",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sol ana koronerin dalları",
+      "body": "Sol ana koroner arterin başlıca dalları **sol ön inen arter** ve **sirkumfleks arterdir**."
+    },
+    {
+      "id": "PER241-1grtmrh",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sol ön inen arterin seyri",
+      "body": "Sol ön inen koroner arter, **ön interventriküler oluk** boyunca ilerler."
+    },
+    {
+      "id": "PER241-016ubwf",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Sirkumfleks hangi olukta ilerler?",
+      "answer": "**Atriyoventriküler olukta**, sola ve arkaya doğru seyir gösterir."
+    },
+    {
+      "id": "PER241-16yn3oz",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Koroner venlerin istisnası",
+      "body": "Ön kardiyak venler ile en küçük kardiyak venlerin bir bölümü **koroner sinüse uğramadan** kalp boşluklarına açılır."
+    },
+    {
+      "id": "PER241-1usjv5v",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "Sol ventrikülün koroner akımı",
+      "body": "Sol ventrikülde koroner perfüzyon esas olarak **diyastolde** gerçekleşir; sistolde kas içi damarlar sıkışır."
+    },
+    {
+      "id": "PER241-0292v7s",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "AV gecikmesinin işlevi",
+      "body": "atriyoventriküler düğümdeki gecikme, ventrikül sistolünden önce **atriyumların boşalmasına** zaman sağlar."
+    },
+    {
+      "id": "PER241-12p7lm1",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "His demetinden sonra uyarı nasıl yayılır?",
+      "answer": "Uyarı **sağ ve sol dal** üzerinden subendokardiyal Purkinje liflerine, oradan ventrikül kasına yayılır."
+    },
+    {
+      "id": "PER241-00foqzd",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "EKG'de P dalgası",
+      "body": "P dalgası **atriyal depolarizasyonu** gösterir."
+    },
+    {
+      "id": "PER241-0fssaej",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "EKG'de QRS kompleksi",
+      "body": "QRS kompleksi **ventriküler depolarizasyonu** gösterir."
+    },
+    {
+      "id": "PER241-0j96ia9",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "EKG'de T dalgası",
+      "body": "T dalgası **ventriküler repolarizasyonu** gösterir."
+    },
+    {
+      "id": "PER241-1ntdyhb",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Normal kalpte ritmi başlatan fizyolojik uyarı merkezi hangisidir?",
+      "options": [
+        "Atriyoventriküler düğüm",
+        "His demeti",
+        "Sol dal",
+        "Sinoatriyal düğüm"
+      ],
+      "correct": 3,
+      "explanation": "Normal uyarı SA düğümde başlar ve ileti sistemi boyunca yayılır."
+    },
+    {
+      "id": "PER241-0q8r61s",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Koch üçgeni anatomisi",
+      "question": "AV düğümün yer aldığı anatomik bölge hangisidir?",
+      "options": [
+        "Koch üçgeni",
+        "Fossa ovalis",
+        "Aort istmusu",
+        "Sol atriyal aurikula"
+      ],
+      "correct": 0,
+      "explanation": "atriyoventriküler düğüm Koch üçgeninin tepesinde bulunur."
+    },
+    {
+      "id": "PER241-1x8yfue",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Sağ atriyumdan sol atriyuma doğrudan uyarı ileten demet hangisidir?",
+      "options": [
+        "His demeti",
+        "Bachmann demeti",
+        "Sağ dal",
+        "Sol posterior fasikül"
+      ],
+      "correct": 1,
+      "explanation": "Bachmann demeti atriyumlar arası iletimi sağlar."
+    },
+    {
+      "id": "PER241-04maulw",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Hızlı subendokardiyal ileti hangi yapı tarafından sağlanır?",
+      "options": [
+        "Pektinat kaslar",
+        "Todaro tendonu",
+        "Purkinje lifleri",
+        "Korda tendinea"
+      ],
+      "correct": 2,
+      "explanation": "Purkinje lifleri uyarıyı subendokardiyal ağdan ventrikül kasına yayar."
+    },
+    {
+      "id": "PER241-1dxxi0l",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Wikipedia",
+      "question": "Koroner dominansı belirleyen dal hangisidir?",
+      "options": [
+        "Sol marjinal arter",
+        "SA düğüm arteri",
+        "Ön kardiyak ven",
+        "Posterior inen arter"
+      ],
+      "correct": 3,
+      "explanation": "Dominans, posterior inen koroner arteri veren koronere göre tanımlanır."
+    },
+    {
+      "id": "PER241-1cl885l",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "tf",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "statement": "His demeti interventriküler septumda sağ ve sol dallara ayrılır.",
+      "isTrue": true,
+      "explanation": "atriyoventriküler düğümden gelen uyarı His demeti ve dalları üzerinden ventriküllere iletilir."
+    },
+    {
+      "id": "PER241-1k3n8ky",
+      "course": "PER241",
+      "topic": "Koroner damarlar ve ileti sistemi",
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Koroner sinüsün topladığı venöz kan sol atriyuma boşalır.",
+      "isTrue": false,
+      "explanation": "Koroner sinüs sağ atriyuma açılır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

@@ -1,0 +1,1225 @@
+{
+  "id": "review-8367393a40d15694",
+  "title": "Kas gevşeticiler ve antagonistleri",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Nöromüsküler kavşak",
+      "text": "Neuromuscular junction\nGenel kabul gören tanımıyla, motor sinir ucu ile kas son plağı arasındaki sinaps; asetilkolin nikotinik reseptörlere bağlanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ufzugx",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Nöromüsküler kavşak",
+        "en": "Neuromuscular junction",
+        "definition": "Genel kabul gören tanımıyla, motor sinir ucu ile kas son plağı arasındaki sinaps; asetilkolin nikotinik reseptörlere bağlanır.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Depolarizan kas gevşetici",
+      "text": "Depolarizing NMBA\nNikotinik reseptörü uyarıp sürekli depolarizasyonla blok yapan ajan (süksinilkolin).",
+      "images": [],
+      "card": {
+        "id": "PER243-08shabi",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Depolarizan kas gevşetici",
+        "en": "Depolarizing NMBA",
+        "definition": "Nikotinik reseptörü uyarıp sürekli depolarizasyonla blok yapan ajan (süksinilkolin).",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Nondepolarizan kas gevşetici",
+      "text": "Nondepolarizing NMBA\nNikotinik reseptörde asetilkolinle kompetitif yarışarak blok yapan ajanlar (roküronyum vb.).",
+      "images": [],
+      "card": {
+        "id": "PER243-1klk7bt",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Nondepolarizan kas gevşetici",
+        "en": "Nondepolarizing NMBA",
+        "definition": "Nikotinik reseptörde asetilkolinle kompetitif yarışarak blok yapan ajanlar (roküronyum vb.).",
+        "source": "DailyMed: roküronyum"
+      }
+    },
+    {
+      "title": "Süksinilkolin",
+      "text": "Succinylcholine (suxamethonium)\nNikotinik reseptörü uyararak depolarizan nöromüsküler blok oluşturan kas gevşetici.",
+      "images": [],
+      "card": {
+        "id": "PER243-1my1ykr",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Süksinilkolin",
+        "en": "Succinylcholine (suxamethonium)",
+        "definition": "Nikotinik reseptörü uyararak depolarizan nöromüsküler blok oluşturan kas gevşetici.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Faz II blok",
+      "text": "Phase II block\nYüksek doz veya uzun süreli süksinilkolinle depolarizan bloğun nondepolarizan benzeri bloğa dönüşmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0gybivw",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Faz II blok",
+        "en": "Phase II block",
+        "definition": "Yüksek doz veya uzun süreli süksinilkolinle depolarizan bloğun nondepolarizan benzeri bloğa dönüşmesi.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Fasikülasyon",
+      "text": "Fasciculation\nSüksinilkolin sonrası görülen istemsiz, görünür kas seğirmeleri; postop miyaljiyle ilişkili.",
+      "images": [],
+      "card": {
+        "id": "PER243-1osxjt1",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Fasikülasyon",
+        "en": "Fasciculation",
+        "definition": "Süksinilkolin sonrası görülen istemsiz, görünür kas seğirmeleri; postop miyaljiyle ilişkili.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Plazma kolinesterazı",
+      "text": "Plasma cholinesterase (pseudocholinesterase)\nSüksinilkolini hidrolize eden plazma enzimi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0bi4o5i",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Plazma kolinesterazı",
+        "en": "Plasma cholinesterase (pseudocholinesterase)",
+        "definition": "Süksinilkolini hidrolize eden plazma enzimi.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Roküronyum",
+      "text": "Rocuronium\nHızlı başlangıçlı aminosteroid yapıda nondepolarizan kas gevşetici.",
+      "images": [],
+      "card": {
+        "id": "PER243-0t0j76d",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Roküronyum",
+        "en": "Rocuronium",
+        "definition": "Hızlı başlangıçlı aminosteroid yapıda nondepolarizan kas gevşetici.",
+        "source": "DailyMed: roküronyum"
+      }
+    },
+    {
+      "title": "Veküronyum",
+      "text": "Vecuronium\nHistamin salmayan, hemodinamik olarak nötr aminosteroid nondepolarizan.",
+      "images": [],
+      "card": {
+        "id": "PER243-0cbz1rf",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Veküronyum",
+        "en": "Vecuronium",
+        "definition": "Histamin salmayan, hemodinamik olarak nötr aminosteroid nondepolarizan.",
+        "source": "DailyMed: veküronyum"
+      }
+    },
+    {
+      "title": "Sisatraküryum",
+      "text": "Cisatracurium\nBenzilizokinolin yapısında nondepolarizan kas gevşetici; organdan bağımsız kimyasal yıkımla elimine edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-01dihy2",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Sisatraküryum",
+        "en": "Cisatracurium",
+        "definition": "Benzilizokinolin yapısında nondepolarizan kas gevşetici; organdan bağımsız kimyasal yıkımla elimine edilir.",
+        "source": "DailyMed: sisatraküryum"
+      }
+    },
+    {
+      "title": "Hofmann eliminasyonu",
+      "text": "Hofmann elimination\npH ve sıcaklığa bağlı, enzim ve organdan bağımsız kimyasal ilaç yıkımı.",
+      "images": [],
+      "card": {
+        "id": "PER243-1n3edn5",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Hofmann eliminasyonu",
+        "en": "Hofmann elimination",
+        "definition": "pH ve sıcaklığa bağlı, enzim ve organdan bağımsız kimyasal ilaç yıkımı.",
+        "source": "DailyMed: sisatraküryum"
+      }
+    },
+    {
+      "title": "Pankuronyum",
+      "text": "Pancuronium\nVagolitik etkili, uzun etkili aminosteroid nondepolarizan.",
+      "images": [],
+      "card": {
+        "id": "PER243-1vmwf4c",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Pankuronyum",
+        "en": "Pancuronium",
+        "definition": "Vagolitik etkili, uzun etkili aminosteroid nondepolarizan.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "TOF",
+      "text": "Train-of-four\nDört ardışık sinir uyarısına oluşan kas yanıtlarını kullanarak nöromüsküler blok derinliğini ve derlenmeyi değerlendiren yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER243-05y2yrm",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "TOF",
+        "en": "Train-of-four",
+        "definition": "Dört ardışık sinir uyarısına oluşan kas yanıtlarını kullanarak nöromüsküler blok derinliğini ve derlenmeyi değerlendiren yöntem.",
+        "source": "DailyMed: neostigmin"
+      }
+    },
+    {
+      "title": "Post-tetanik sayım",
+      "text": "Post-tetanic count\nDerin blokta tetanik uyarı sonrası tekli uyarılara yanıt sayısı; sugammadeks dozunu belirler.",
+      "images": [],
+      "card": {
+        "id": "PER243-04cwpqp",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Post-tetanik sayım",
+        "en": "Post-tetanic count",
+        "definition": "Derin blokta tetanik uyarı sonrası tekli uyarılara yanıt sayısı; sugammadeks dozunu belirler.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Neostigmin",
+      "text": "Neostigmine\nAsetilkolinesterazı inhibe ederek sinaptik asetilkolini artıran ve nondepolarizan nöromüsküler bloğun geri çevrilmesinde kullanılan ajan.",
+      "images": [],
+      "card": {
+        "id": "PER243-042sozq",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Neostigmin",
+        "en": "Neostigmine",
+        "definition": "Asetilkolinesterazı inhibe ederek sinaptik asetilkolini artıran ve nondepolarizan nöromüsküler bloğun geri çevrilmesinde kullanılan ajan.",
+        "source": "DailyMed: neostigmin"
+      }
+    },
+    {
+      "title": "Sugammadeks",
+      "text": "Sugammadex\nRoküronyum ve veküronyumu kapsülleyen modifiye gama siklodekstrin.",
+      "images": [],
+      "card": {
+        "id": "PER243-0naty8n",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Sugammadeks",
+        "en": "Sugammadex",
+        "definition": "Roküronyum ve veküronyumu kapsülleyen modifiye gama siklodekstrin.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Glikopirolat",
+      "text": "Glycopyrrolate\nKuaterner amonyum yapısında antimuskarinik; kan-beyin bariyerini kolay geçmez.",
+      "images": [],
+      "card": {
+        "id": "PER243-0exwlxs",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Glikopirolat",
+        "en": "Glycopyrrolate",
+        "definition": "Kuaterner amonyum yapısında antimuskarinik; kan-beyin bariyerini kolay geçmez.",
+        "source": "DailyMed: glikopirolat"
+      }
+    },
+    {
+      "title": "Kas gevşetici blok türleri",
+      "text": "Depolarizan\nReseptörü uyarıp depolarizasyonla blok yapar\nÖrnek: süksinilkolin\n\nNondepolarizan\nReseptörde kompetitif blok oluşturur\nÖrnek: roküronyum",
+      "images": [],
+      "card": {
+        "id": "PER243-03xz84z",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kas gevşetici blok türleri",
+        "left": {
+          "title": "Depolarizan",
+          "points": [
+            "Reseptörü uyarıp depolarizasyonla blok yapar",
+            "Örnek: süksinilkolin"
+          ]
+        },
+        "right": {
+          "title": "Nondepolarizan",
+          "points": [
+            "Reseptörde kompetitif blok oluşturur",
+            "Örnek: roküronyum"
+          ]
+        },
+        "source": "DailyMed: süksinilkolin / roküronyum"
+      }
+    },
+    {
+      "title": "Bloğun geri çevrilmesi",
+      "text": "Neostigmin\nAsetilkolinesterazı inhibe ederek dolaylı etki eder\nAntimuskarinikle birlikte kullanılır\n\nSugammadeks\nRoküronyum ve veküronyumu kapsüller\nBu mekanizma için antimuskarinik gerekmez",
+      "images": [],
+      "card": {
+        "id": "PER243-1kbx487",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "compare",
+        "importance": 2,
+        "title": "Bloğun geri çevrilmesi",
+        "left": {
+          "title": "Neostigmin",
+          "points": [
+            "Asetilkolinesterazı inhibe ederek dolaylı etki eder",
+            "Antimuskarinikle birlikte kullanılır"
+          ]
+        },
+        "right": {
+          "title": "Sugammadeks",
+          "points": [
+            "Roküronyum ve veküronyumu kapsüller",
+            "Bu mekanizma için antimuskarinik gerekmez"
+          ]
+        },
+        "source": "DailyMed: neostigmin / Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Antimuskariniklerin yapısı",
+      "text": "Atropin\nTersiyer amin yapısında\nKan-beyin bariyerini geçebilir\n\nGlikopirolat\nKuaterner amonyum yapısında\nKan-beyin bariyerini kolay geçmez",
+      "images": [],
+      "card": {
+        "id": "PER243-0np6d26",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "compare",
+        "importance": 2,
+        "title": "Antimuskariniklerin yapısı",
+        "left": {
+          "title": "Atropin",
+          "points": [
+            "Tersiyer amin yapısında",
+            "Kan-beyin bariyerini geçebilir"
+          ]
+        },
+        "right": {
+          "title": "Glikopirolat",
+          "points": [
+            "Kuaterner amonyum yapısında",
+            "Kan-beyin bariyerini kolay geçmez"
+          ]
+        },
+        "source": "DailyMed: atropin / glikopirolat"
+      }
+    },
+    {
+      "title": "Süksinilkolin ve denervasyon",
+      "text": "Denervasyon, yanık ve ağır travma sonrasında süksinilkolin **tehlikeli hiperkalemi** oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0fuojes",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "fact",
+        "importance": 3,
+        "title": "Süksinilkolin ve denervasyon",
+        "body": "Denervasyon, yanık ve ağır travma sonrasında süksinilkolin **tehlikeli hiperkalemi** oluşturabilir.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Roküronyumun eliminasyonu",
+      "text": "Roküronyumun eliminasyonunda **karaciğer** önemlidir; karaciğer hastalığında blok süresi uzayabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1y4bdp8",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Roküronyumun eliminasyonu",
+        "body": "Roküronyumun eliminasyonunda **karaciğer** önemlidir; karaciğer hastalığında blok süresi uzayabilir.",
+        "source": "DailyMed: roküronyum"
+      }
+    },
+    {
+      "title": "Veküronyumun aktif metaboliti",
+      "text": "Veküronyumun **3-desasetilveküronyum** adlı aktif metaboliti bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER243-1p8bome",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Veküronyumun aktif metaboliti",
+        "body": "Veküronyumun **3-desasetilveküronyum** adlı aktif metaboliti bulunur.",
+        "source": "DailyMed: veküronyum"
+      }
+    },
+    {
+      "title": "Sisatraküryum ve sugammadeks",
+      "text": "Sugammadeks benzilizokinolinleri kapsüllemez; **sisatraküryum bloğunun** geri çevrilmesinde bu ajan kullanılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1srhli1",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Sisatraküryum ve sugammadeks",
+        "body": "Sugammadeks benzilizokinolinleri kapsüllemez; **sisatraküryum bloğunun** geri çevrilmesinde bu ajan kullanılmaz.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Hipotermide kas gevşetici",
+      "text": "Hipotermik kardiyopulmoner bypassta kas gevşetici gereksinimi azalabilir ve **etki süresi uzayabilir**. Doz ve izlem sıcaklıkla birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0bjupi7",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Hipotermide kas gevşetici",
+        "body": "Hipotermik kardiyopulmoner bypassta kas gevşetici gereksinimi azalabilir ve **etki süresi uzayabilir**. Doz ve izlem sıcaklıkla birlikte değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Adduktor pollisis ve soğuma",
+      "text": "Hipotermi adduktor pollisis yanıtını değiştirerek nöromüsküler monitörizasyonun yorumunu **yanıltabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-02r5u6u",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Adduktor pollisis ve soğuma",
+        "body": "Hipotermi adduktor pollisis yanıtını değiştirerek nöromüsküler monitörizasyonun yorumunu **yanıltabilir**.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Post-tetanik sayım hangi blok durumunda bilgi sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1nnunhc",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Post-tetanik sayım hangi blok durumunda bilgi sağlar?",
+        "answer": "Dörtlü uyarıya yanıt alınmayan **derin nöromüsküler blokta** tetanik uyarı sonrası yanıtlar değerlendirilir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Sugammadeks dozunu neden yalnız ilaç adı belirlemez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1tbhhcd",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sugammadeks dozunu neden yalnız ilaç adı belirlemez?",
+        "answer": "Doz, nöromüsküler monitörle saptanan **blok derinliği ve geri çevirme zamanına** göre belirlenir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Süksinilkolinden sonra görülen kas seğirmeleri hangi terimle adlandırılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1hg59oi",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "flip",
+        "importance": 3,
+        "question": "Süksinilkolinden sonra görülen kas seğirmeleri hangi terimle adlandırılır?",
+        "answer": "**Fasikülasyon**; gözle görülen istemsiz kas seğirmeleridir.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Neostigminle antimuskarinik",
+      "text": "Neostigmin uygulamasında **atropin veya glikopirolat**, bradikardi gibi muskarinik etkileri önlemek için önce ya da eş zamanlı verilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1t4yjuw",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "remember",
+        "importance": 3,
+        "title": "Neostigminle antimuskarinik",
+        "body": "Neostigmin uygulamasında **atropin veya glikopirolat**, bradikardi gibi muskarinik etkileri önlemek için önce ya da eş zamanlı verilir.",
+        "source": "DailyMed: neostigmin"
+      }
+    },
+    {
+      "title": "Sugammadeks ve ciddi reaksiyon",
+      "text": "Sugammadeks sonrası **anafilaksi ve belirgin bradikardi** görülebilir; bazı bradikardi olguları kardiyak arrestle ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1dpfaeb",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "remember",
+        "importance": 3,
+        "title": "Sugammadeks ve ciddi reaksiyon",
+        "body": "Sugammadeks sonrası **anafilaksi ve belirgin bradikardi** görülebilir; bazı bradikardi olguları kardiyak arrestle ilişkilidir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Süksinilkolini hidrolize eden enzim hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0blnpnl",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Süksinilkolini hidrolize eden enzim hangisidir?",
+        "options": [
+          "Eritrosit esterazı",
+          "Monoamin oksidaz",
+          "Plazma kolinesterazı",
+          "Fosfodiesteraz-3"
+        ],
+        "correct": 2,
+        "explanation": "Süksinilkolin plazma kolinesterazıyla hidrolize edilir.",
+        "source": "DailyMed: süksinilkolin"
+      }
+    },
+    {
+      "title": "Hofmann eliminasyonunu hangi etkenler değiştirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-02uu2ev",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hofmann eliminasyonunu hangi etkenler değiştirir?",
+        "options": [
+          "Hepatik enzim etkinliği ve safra akımı",
+          "Renal filtrasyon ve idrar akımı",
+          "Plazma kolinesterazı ve enzim aktivitesi",
+          "pH ve sıcaklık"
+        ],
+        "correct": 3,
+        "explanation": "Hofmann eliminasyonu pH ve sıcaklığa bağlı organdan bağımsız kimyasal yıkımdır.",
+        "source": "DailyMed: sisatraküryum"
+      }
+    },
+    {
+      "title": "Dörtlü uyarıda T2 yeniden belirmişse Bridion'un önerilen dozu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-123gmun",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Dörtlü uyarıda T2 yeniden belirmişse Bridion'un önerilen dozu nedir?",
+        "options": [
+          "2 mg/kg",
+          "4 mg/kg",
+          "8 mg/kg",
+          "16 mg/kg"
+        ],
+        "correct": 0,
+        "explanation": "Bridion ürün bilgisi T2 yeniden belirdiğinde 2 mg/kg sugammadeks önerir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "TOF yanıtı yok, post-tetanik sayım 1–2 ise Bridion dozu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-093lsn3",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "TOF yanıtı yok, post-tetanik sayım 1–2 ise Bridion dozu nedir?",
+        "options": [
+          "1 mg/kg",
+          "4 mg/kg",
+          "2 mg/kg",
+          "16 mg/kg"
+        ],
+        "correct": 1,
+        "explanation": "Derin blokta TOF yanıtı olmadan 1–2 post-tetanik yanıt için 4 mg/kg önerilir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Erişkinde 1,2 mg/kg roküronyumdan yaklaşık 3 dk sonra acil geri çevirme için Bridion dozu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1jkpffb",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Erişkinde 1,2 mg/kg roküronyumdan yaklaşık 3 dk sonra acil geri çevirme için Bridion dozu nedir?",
+        "options": [
+          "2 mg/kg",
+          "4 mg/kg",
+          "16 mg/kg",
+          "8 mg/kg"
+        ],
+        "correct": 2,
+        "explanation": "Bu özgül acil roküronyum geri çevirme durumunda ürün bilgisi 16 mg/kg önerir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    },
+    {
+      "title": "Tarihsel olarak bradikardiyi azaltan vagolitik kas gevşetici hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1w3dujr",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "mcq",
+        "importance": 1,
+        "question": "Tarihsel olarak bradikardiyi azaltan vagolitik kas gevşetici hangisidir?",
+        "options": [
+          "Sisatraküryum",
+          "Veküronyum",
+          "Süksinilkolin",
+          "Pankuronyum"
+        ],
+        "correct": 3,
+        "explanation": "Pankuronyumun vagolitik etkisi kardiyak anestezideki tarihsel kullanım gerekçesidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sisatraküryumun Hofmann eliminasyonu karaciğer enzimlerine bağımlıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1xaf0p8",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Sisatraküryumun Hofmann eliminasyonu karaciğer enzimlerine bağımlıdır.",
+        "isTrue": false,
+        "explanation": "Hofmann eliminasyonu organdan ve enzimden bağımsız, pH ve sıcaklığa bağlı kimyasal yıkımdır.",
+        "source": "DailyMed: sisatraküryum"
+      }
+    },
+    {
+      "title": "Veküronyum klinik dozda belirgin histamin salınımı oluşturmaz.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0r2bmq8",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Veküronyum klinik dozda belirgin histamin salınımı oluşturmaz.",
+        "isTrue": true,
+        "explanation": "Veküronyum ürün bilgisi klinik dozda histamin salınımı ve belirgin hemodinamik etkinin olmadığını belirtir.",
+        "source": "DailyMed: veküronyum"
+      }
+    },
+    {
+      "title": "Bridion ağır böbrek yetmezliğinde rutin olarak önerilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0ky4kc6",
+        "course": "PER243",
+        "topic": "Kas gevşeticiler ve antagonistleri",
+        "type": "tf",
+        "importance": 3,
+        "statement": "Bridion ağır böbrek yetmezliğinde rutin olarak önerilir.",
+        "isTrue": false,
+        "explanation": "Ürün bilgisi ağır böbrek yetmezliğinde kullanımını önermez; renal eliminasyon ve uzamış maruziyet önemlidir.",
+        "source": "Bridion ürün bilgisi"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1ufzugx",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Nöromüsküler kavşak",
+      "en": "Neuromuscular junction",
+      "definition": "Genel kabul gören tanımıyla, motor sinir ucu ile kas son plağı arasındaki sinaps; asetilkolin nikotinik reseptörlere bağlanır.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-08shabi",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Depolarizan kas gevşetici",
+      "en": "Depolarizing NMBA",
+      "definition": "Nikotinik reseptörü uyarıp sürekli depolarizasyonla blok yapan ajan (süksinilkolin).",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-1klk7bt",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Nondepolarizan kas gevşetici",
+      "en": "Nondepolarizing NMBA",
+      "definition": "Nikotinik reseptörde asetilkolinle kompetitif yarışarak blok yapan ajanlar (roküronyum vb.).",
+      "source": "DailyMed: roküronyum"
+    },
+    {
+      "id": "PER243-1my1ykr",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Süksinilkolin",
+      "en": "Succinylcholine (suxamethonium)",
+      "definition": "Nikotinik reseptörü uyararak depolarizan nöromüsküler blok oluşturan kas gevşetici.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-0gybivw",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Faz II blok",
+      "en": "Phase II block",
+      "definition": "Yüksek doz veya uzun süreli süksinilkolinle depolarizan bloğun nondepolarizan benzeri bloğa dönüşmesi.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-1osxjt1",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Fasikülasyon",
+      "en": "Fasciculation",
+      "definition": "Süksinilkolin sonrası görülen istemsiz, görünür kas seğirmeleri; postop miyaljiyle ilişkili.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-0bi4o5i",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma kolinesterazı",
+      "en": "Plasma cholinesterase (pseudocholinesterase)",
+      "definition": "Süksinilkolini hidrolize eden plazma enzimi.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-0t0j76d",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Roküronyum",
+      "en": "Rocuronium",
+      "definition": "Hızlı başlangıçlı aminosteroid yapıda nondepolarizan kas gevşetici.",
+      "source": "DailyMed: roküronyum"
+    },
+    {
+      "id": "PER243-0cbz1rf",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Veküronyum",
+      "en": "Vecuronium",
+      "definition": "Histamin salmayan, hemodinamik olarak nötr aminosteroid nondepolarizan.",
+      "source": "DailyMed: veküronyum"
+    },
+    {
+      "id": "PER243-01dihy2",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Sisatraküryum",
+      "en": "Cisatracurium",
+      "definition": "Benzilizokinolin yapısında nondepolarizan kas gevşetici; organdan bağımsız kimyasal yıkımla elimine edilir.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "id": "PER243-1n3edn5",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Hofmann eliminasyonu",
+      "en": "Hofmann elimination",
+      "definition": "pH ve sıcaklığa bağlı, enzim ve organdan bağımsız kimyasal ilaç yıkımı.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "id": "PER243-1vmwf4c",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Pankuronyum",
+      "en": "Pancuronium",
+      "definition": "Vagolitik etkili, uzun etkili aminosteroid nondepolarizan.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-05y2yrm",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "TOF",
+      "en": "Train-of-four",
+      "definition": "Dört ardışık sinir uyarısına oluşan kas yanıtlarını kullanarak nöromüsküler blok derinliğini ve derlenmeyi değerlendiren yöntem.",
+      "source": "DailyMed: neostigmin"
+    },
+    {
+      "id": "PER243-04cwpqp",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Post-tetanik sayım",
+      "en": "Post-tetanic count",
+      "definition": "Derin blokta tetanik uyarı sonrası tekli uyarılara yanıt sayısı; sugammadeks dozunu belirler.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-042sozq",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Neostigmin",
+      "en": "Neostigmine",
+      "definition": "Asetilkolinesterazı inhibe ederek sinaptik asetilkolini artıran ve nondepolarizan nöromüsküler bloğun geri çevrilmesinde kullanılan ajan.",
+      "source": "DailyMed: neostigmin"
+    },
+    {
+      "id": "PER243-0naty8n",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Sugammadeks",
+      "en": "Sugammadex",
+      "definition": "Roküronyum ve veküronyumu kapsülleyen modifiye gama siklodekstrin.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-0exwlxs",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Glikopirolat",
+      "en": "Glycopyrrolate",
+      "definition": "Kuaterner amonyum yapısında antimuskarinik; kan-beyin bariyerini kolay geçmez.",
+      "source": "DailyMed: glikopirolat"
+    },
+    {
+      "id": "PER243-03xz84z",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kas gevşetici blok türleri",
+      "left": {
+        "title": "Depolarizan",
+        "points": [
+          "Reseptörü uyarıp depolarizasyonla blok yapar",
+          "Örnek: süksinilkolin"
+        ]
+      },
+      "right": {
+        "title": "Nondepolarizan",
+        "points": [
+          "Reseptörde kompetitif blok oluşturur",
+          "Örnek: roküronyum"
+        ]
+      },
+      "source": "DailyMed: süksinilkolin / roküronyum"
+    },
+    {
+      "id": "PER243-1kbx487",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "compare",
+      "importance": 2,
+      "title": "Bloğun geri çevrilmesi",
+      "left": {
+        "title": "Neostigmin",
+        "points": [
+          "Asetilkolinesterazı inhibe ederek dolaylı etki eder",
+          "Antimuskarinikle birlikte kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Sugammadeks",
+        "points": [
+          "Roküronyum ve veküronyumu kapsüller",
+          "Bu mekanizma için antimuskarinik gerekmez"
+        ]
+      },
+      "source": "DailyMed: neostigmin / Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-0np6d26",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "compare",
+      "importance": 2,
+      "title": "Antimuskariniklerin yapısı",
+      "left": {
+        "title": "Atropin",
+        "points": [
+          "Tersiyer amin yapısında",
+          "Kan-beyin bariyerini geçebilir"
+        ]
+      },
+      "right": {
+        "title": "Glikopirolat",
+        "points": [
+          "Kuaterner amonyum yapısında",
+          "Kan-beyin bariyerini kolay geçmez"
+        ]
+      },
+      "source": "DailyMed: atropin / glikopirolat"
+    },
+    {
+      "id": "PER243-0fuojes",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "fact",
+      "importance": 3,
+      "title": "Süksinilkolin ve denervasyon",
+      "body": "Denervasyon, yanık ve ağır travma sonrasında süksinilkolin **tehlikeli hiperkalemi** oluşturabilir.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-1y4bdp8",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Roküronyumun eliminasyonu",
+      "body": "Roküronyumun eliminasyonunda **karaciğer** önemlidir; karaciğer hastalığında blok süresi uzayabilir.",
+      "source": "DailyMed: roküronyum"
+    },
+    {
+      "id": "PER243-1p8bome",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Veküronyumun aktif metaboliti",
+      "body": "Veküronyumun **3-desasetilveküronyum** adlı aktif metaboliti bulunur.",
+      "source": "DailyMed: veküronyum"
+    },
+    {
+      "id": "PER243-1srhli1",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Sisatraküryum ve sugammadeks",
+      "body": "Sugammadeks benzilizokinolinleri kapsüllemez; **sisatraküryum bloğunun** geri çevrilmesinde bu ajan kullanılmaz.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-0bjupi7",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Hipotermide kas gevşetici",
+      "body": "Hipotermik kardiyopulmoner bypassta kas gevşetici gereksinimi azalabilir ve **etki süresi uzayabilir**. Doz ve izlem sıcaklıkla birlikte değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-02r5u6u",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Adduktor pollisis ve soğuma",
+      "body": "Hipotermi adduktor pollisis yanıtını değiştirerek nöromüsküler monitörizasyonun yorumunu **yanıltabilir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1nnunhc",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Post-tetanik sayım hangi blok durumunda bilgi sağlar?",
+      "answer": "Dörtlü uyarıya yanıt alınmayan **derin nöromüsküler blokta** tetanik uyarı sonrası yanıtlar değerlendirilir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-1tbhhcd",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sugammadeks dozunu neden yalnız ilaç adı belirlemez?",
+      "answer": "Doz, nöromüsküler monitörle saptanan **blok derinliği ve geri çevirme zamanına** göre belirlenir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-1hg59oi",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "flip",
+      "importance": 3,
+      "question": "Süksinilkolinden sonra görülen kas seğirmeleri hangi terimle adlandırılır?",
+      "answer": "**Fasikülasyon**; gözle görülen istemsiz kas seğirmeleridir.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-1t4yjuw",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "remember",
+      "importance": 3,
+      "title": "Neostigminle antimuskarinik",
+      "body": "Neostigmin uygulamasında **atropin veya glikopirolat**, bradikardi gibi muskarinik etkileri önlemek için önce ya da eş zamanlı verilir.",
+      "source": "DailyMed: neostigmin"
+    },
+    {
+      "id": "PER243-1dpfaeb",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "remember",
+      "importance": 3,
+      "title": "Sugammadeks ve ciddi reaksiyon",
+      "body": "Sugammadeks sonrası **anafilaksi ve belirgin bradikardi** görülebilir; bazı bradikardi olguları kardiyak arrestle ilişkilidir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-0blnpnl",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Süksinilkolini hidrolize eden enzim hangisidir?",
+      "options": [
+        "Eritrosit esterazı",
+        "Monoamin oksidaz",
+        "Plazma kolinesterazı",
+        "Fosfodiesteraz-3"
+      ],
+      "correct": 2,
+      "explanation": "Süksinilkolin plazma kolinesterazıyla hidrolize edilir.",
+      "source": "DailyMed: süksinilkolin"
+    },
+    {
+      "id": "PER243-02uu2ev",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hofmann eliminasyonunu hangi etkenler değiştirir?",
+      "options": [
+        "Hepatik enzim etkinliği ve safra akımı",
+        "Renal filtrasyon ve idrar akımı",
+        "Plazma kolinesterazı ve enzim aktivitesi",
+        "pH ve sıcaklık"
+      ],
+      "correct": 3,
+      "explanation": "Hofmann eliminasyonu pH ve sıcaklığa bağlı organdan bağımsız kimyasal yıkımdır.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "id": "PER243-123gmun",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Dörtlü uyarıda T2 yeniden belirmişse Bridion'un önerilen dozu nedir?",
+      "options": [
+        "2 mg/kg",
+        "4 mg/kg",
+        "8 mg/kg",
+        "16 mg/kg"
+      ],
+      "correct": 0,
+      "explanation": "Bridion ürün bilgisi T2 yeniden belirdiğinde 2 mg/kg sugammadeks önerir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-093lsn3",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "TOF yanıtı yok, post-tetanik sayım 1–2 ise Bridion dozu nedir?",
+      "options": [
+        "1 mg/kg",
+        "4 mg/kg",
+        "2 mg/kg",
+        "16 mg/kg"
+      ],
+      "correct": 1,
+      "explanation": "Derin blokta TOF yanıtı olmadan 1–2 post-tetanik yanıt için 4 mg/kg önerilir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-1jkpffb",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Erişkinde 1,2 mg/kg roküronyumdan yaklaşık 3 dk sonra acil geri çevirme için Bridion dozu nedir?",
+      "options": [
+        "2 mg/kg",
+        "4 mg/kg",
+        "16 mg/kg",
+        "8 mg/kg"
+      ],
+      "correct": 2,
+      "explanation": "Bu özgül acil roküronyum geri çevirme durumunda ürün bilgisi 16 mg/kg önerir.",
+      "source": "Bridion ürün bilgisi"
+    },
+    {
+      "id": "PER243-1w3dujr",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "mcq",
+      "importance": 1,
+      "question": "Tarihsel olarak bradikardiyi azaltan vagolitik kas gevşetici hangisidir?",
+      "options": [
+        "Sisatraküryum",
+        "Veküronyum",
+        "Süksinilkolin",
+        "Pankuronyum"
+      ],
+      "correct": 3,
+      "explanation": "Pankuronyumun vagolitik etkisi kardiyak anestezideki tarihsel kullanım gerekçesidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1xaf0p8",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sisatraküryumun Hofmann eliminasyonu karaciğer enzimlerine bağımlıdır.",
+      "isTrue": false,
+      "explanation": "Hofmann eliminasyonu organdan ve enzimden bağımsız, pH ve sıcaklığa bağlı kimyasal yıkımdır.",
+      "source": "DailyMed: sisatraküryum"
+    },
+    {
+      "id": "PER243-0r2bmq8",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Veküronyum klinik dozda belirgin histamin salınımı oluşturmaz.",
+      "isTrue": true,
+      "explanation": "Veküronyum ürün bilgisi klinik dozda histamin salınımı ve belirgin hemodinamik etkinin olmadığını belirtir.",
+      "source": "DailyMed: veküronyum"
+    },
+    {
+      "id": "PER243-0ky4kc6",
+      "course": "PER243",
+      "topic": "Kas gevşeticiler ve antagonistleri",
+      "type": "tf",
+      "importance": 3,
+      "statement": "Bridion ağır böbrek yetmezliğinde rutin olarak önerilir.",
+      "isTrue": false,
+      "explanation": "Ürün bilgisi ağır böbrek yetmezliğinde kullanımını önermez; renal eliminasyon ve uzamış maruziyet önemlidir.",
+      "source": "Bridion ürün bilgisi"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

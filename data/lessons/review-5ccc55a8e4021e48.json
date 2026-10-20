@@ -1,0 +1,810 @@
+{
+  "id": "review-5ccc55a8e4021e48",
+  "title": "Mediasten anatomisi",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Mediasten",
+      "text": "Mediastinum\nToraksta iki plevra kesesi arasındaki orta bölme; kalp, büyük damarlar, trakea, özofagus, timus vb. içerir.\nLat. medius = orta",
+      "images": [],
+      "card": {
+        "id": "PER241-1gb3rg3",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 3,
+        "source": "TeachMeAnatomy",
+        "term": "Mediasten",
+        "en": "Mediastinum",
+        "definition": "Toraksta iki plevra kesesi arasındaki orta bölme; kalp, büyük damarlar, trakea, özofagus, timus vb. içerir.",
+        "origin": "Lat. medius = orta"
+      }
+    },
+    {
+      "title": "Sternal açı",
+      "text": "Sternal angle\nManubrium ile sternum gövdesinin birleşiminde oluşan açı; üst ve alt mediastenin ayrım düzleminde yer alır.\nP. Louis (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0q0qcnz",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Sternal açı",
+        "en": "Sternal angle",
+        "definition": "Manubrium ile sternum gövdesinin birleşiminde oluşan açı; üst ve alt mediastenin ayrım düzleminde yer alır.",
+        "origin": "P. Louis (eponim)"
+      }
+    },
+    {
+      "title": "Üst mediasten",
+      "text": "Superior mediastinum\nToraks girişi ile sternal açı düzlemi arasında kalan bölüm. Timus, arkus aorta, trakea ve özofagus gibi yapıları içerir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1q1qw1o",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Üst mediasten",
+        "en": "Superior mediastinum",
+        "definition": "Toraks girişi ile sternal açı düzlemi arasında kalan bölüm. Timus, arkus aorta, trakea ve özofagus gibi yapıları içerir."
+      }
+    },
+    {
+      "title": "Ön mediasten",
+      "text": "Anterior mediastinum\nSternum ile perikard arasındaki dar alan; yağ, lenf nodları, internal torasik damar dalları.",
+      "images": [],
+      "card": {
+        "id": "PER241-1ygnmxt",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Ön mediasten",
+        "en": "Anterior mediastinum",
+        "definition": "Sternum ile perikard arasındaki dar alan; yağ, lenf nodları, internal torasik damar dalları."
+      }
+    },
+    {
+      "title": "Orta mediasten",
+      "text": "Middle mediastinum\nPerikard ve kalp ile çıkan aorta, pulmoner trunkus, vena kava superior, frenik sinirleri içeren bölüm.",
+      "images": [],
+      "card": {
+        "id": "PER241-0czbo2v",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 1,
+        "source": "TeachMeAnatomy",
+        "term": "Orta mediasten",
+        "en": "Middle mediastinum",
+        "definition": "Perikard ve kalp ile çıkan aorta, pulmoner trunkus, vena kava superior, frenik sinirleri içeren bölüm."
+      }
+    },
+    {
+      "title": "Arka mediasten",
+      "text": "Posterior mediastinum\nPerikardın arkasında bulunan mediasten bölümü. İnen torasik aorta, özofagus, duktus torasikus ve azigos sistemi burada yer alır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1hbkt7a",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Arka mediasten",
+        "en": "Posterior mediastinum",
+        "definition": "Perikardın arkasında bulunan mediasten bölümü. İnen torasik aorta, özofagus, duktus torasikus ve azigos sistemi burada yer alır."
+      }
+    },
+    {
+      "title": "Timus",
+      "text": "Thymus\nÜst mediastende en öndeki, sternum arkasındaki lenfoid organ.",
+      "images": [],
+      "card": {
+        "id": "PER241-1jyrdyp",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Timus",
+        "en": "Thymus",
+        "definition": "Üst mediastende en öndeki, sternum arkasındaki lenfoid organ."
+      }
+    },
+    {
+      "title": "Duktus torasikus",
+      "text": "Thoracic duct\nVücudun en büyük lenf damarı; sisterna şiliden başlar, aort hiatusundan toraksa girer.\nLat. ductus = kanal",
+      "images": [],
+      "card": {
+        "id": "PER241-0vqaan8",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Duktus torasikus",
+        "en": "Thoracic duct",
+        "definition": "Vücudun en büyük lenf damarı; sisterna şiliden başlar, aort hiatusundan toraksa girer.",
+        "origin": "Lat. ductus = kanal"
+      }
+    },
+    {
+      "title": "Azigos ven",
+      "text": "Azygos vein\nGövde duvarı ve mediasten organlarının venöz kanını vena kava superior'ye taşıyan, simetriği olmayan ven.\nYun. a-zygos = eşsiz",
+      "images": [],
+      "card": {
+        "id": "PER241-10wq6e1",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Azigos ven",
+        "en": "Azygos vein",
+        "definition": "Gövde duvarı ve mediasten organlarının venöz kanını vena kava superior'ye taşıyan, simetriği olmayan ven.",
+        "origin": "Yun. a-zygos = eşsiz"
+      }
+    },
+    {
+      "title": "Frenik sinir",
+      "text": "Phrenic nerve\nDiyaframın motor, perikardın duyu innervasyonunu sağlayan sinir. Akciğer hilusunun önünden geçer.\nYun. phren = diyafram",
+      "images": [],
+      "card": {
+        "id": "PER241-13ohtkb",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 1,
+        "source": "TeachMeAnatomy",
+        "term": "Frenik sinir",
+        "en": "Phrenic nerve",
+        "definition": "Diyaframın motor, perikardın duyu innervasyonunu sağlayan sinir. Akciğer hilusunun önünden geçer.",
+        "origin": "Yun. phren = diyafram"
+      }
+    },
+    {
+      "title": "Vagus siniri",
+      "text": "Vagus nerve\nMediastende akciğer hilusunun arkasından geçip özofageal pleksusa katılan kraniyal sinir.\nLat. vagus = gezgin",
+      "images": [],
+      "card": {
+        "id": "PER241-162vurb",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Vagus siniri",
+        "en": "Vagus nerve",
+        "definition": "Mediastende akciğer hilusunun arkasından geçip özofageal pleksusa katılan kraniyal sinir.",
+        "origin": "Lat. vagus = gezgin"
+      }
+    },
+    {
+      "title": "Rekürren laringeal sinir",
+      "text": "Recurrent laryngeal nerve\nVagus dalı; solda arkus aortanın, sağda sağ subklavyen arterin altından dönüp larinkse çıkar.\nLat. recurrere = geri dönmek",
+      "images": [],
+      "card": {
+        "id": "PER241-05c1yvo",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "UNSW Embryology",
+        "term": "Rekürren laringeal sinir",
+        "en": "Recurrent laryngeal nerve",
+        "definition": "Vagus dalı; solda arkus aortanın, sağda sağ subklavyen arterin altından dönüp larinkse çıkar.",
+        "origin": "Lat. recurrere = geri dönmek"
+      }
+    },
+    {
+      "title": "Mediastenin yan sınırları",
+      "text": "Mediastenin iki yanında **mediastinal plevra** bulunur. Üst mediastenin ön sınırı manubrium, arka sınırı vertebra cisimleridir.",
+      "images": [],
+      "card": {
+        "id": "PER241-16ii7sf",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "title": "Mediastenin yan sınırları",
+        "body": "Mediastenin iki yanında **mediastinal plevra** bulunur. Üst mediastenin ön sınırı manubrium, arka sınırı vertebra cisimleridir."
+      }
+    },
+    {
+      "title": "Üst mediastenin en önündeki yapı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1squ3zo",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Üst mediastenin en önündeki yapı hangisidir?",
+        "answer": "**Timus**, sternumun arka yüzüne komşu lenfoid organdır."
+      }
+    },
+    {
+      "title": "Ön mediastende hangi damarların dalları bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1f59elu",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 1,
+        "source": "TeachMeAnatomy",
+        "question": "Ön mediastende hangi damarların dalları bulunur?",
+        "answer": "Ön mediastende yağ ve lenf düğümlerine ek olarak **internal torasik damarların dalları** bulunur."
+      }
+    },
+    {
+      "title": "Orta mediastenin damarları",
+      "text": "Kalple birlikte **çıkan aorta, pulmoner trunkus ve vena kava superior** orta mediastende yer alır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0dsdr33",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "title": "Orta mediastenin damarları",
+        "body": "Kalple birlikte **çıkan aorta, pulmoner trunkus ve vena kava superior** orta mediastende yer alır."
+      }
+    },
+    {
+      "title": "Özofageal pleksus hangi sinirle ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1d5jg1n",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Özofageal pleksus hangi sinirle ilişkilidir?",
+        "answer": "Mediastende özofagus çevresindeki pleksusun oluşumuna **vagus sinirleri** katılır."
+      }
+    },
+    {
+      "title": "Duktus torasikusun toraksa girişi",
+      "text": "Duktus torasikus, **aort hiatusundan** toraksa girer. Özofagus ise özofageal hiatusu kullanır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0k91lws",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "title": "Duktus torasikusun toraksa girişi",
+        "body": "Duktus torasikus, **aort hiatusundan** toraksa girer. Özofagus ise özofageal hiatusu kullanır."
+      }
+    },
+    {
+      "title": "İnen torasik aorta vertebralara göre nereden seyreder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1lk3cii",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "İnen torasik aorta vertebralara göre nereden seyreder?",
+        "answer": "İnen torasik aorta, arka mediastende vertebraların **sol tarafında** ilerler."
+      }
+    },
+    {
+      "title": "Arkus cerrahisinde sinir komşuluğu",
+      "text": "Sol rekürren laringeal sinir **arkus aortanın altından** döner; duktus ve ark cerrahisindeki anatomik ilişkiyi hatırla.",
+      "images": [],
+      "card": {
+        "id": "PER241-1sqn9wi",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "remember",
+        "importance": 3,
+        "source": "UNSW Embryology",
+        "title": "Arkus cerrahisinde sinir komşuluğu",
+        "body": "Sol rekürren laringeal sinir **arkus aortanın altından** döner; duktus ve ark cerrahisindeki anatomik ilişkiyi hatırla."
+      }
+    },
+    {
+      "title": "Üst mediastenin üst sınırını hangi yapı oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-17uajfm",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Üst mediastenin üst sınırını hangi yapı oluşturur?",
+        "options": [
+          "Toraks girişi",
+          "Diyafram",
+          "Perikardın alt yüzü",
+          "Akciğer hilusu"
+        ],
+        "correct": 0,
+        "explanation": "Üst mediasten yukarıda toraks girişiyle sınırlanır."
+      }
+    },
+    {
+      "title": "Üst mediastenin ön sınırındaki kemik yapı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1ao86yc",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Üst mediastenin ön sınırındaki kemik yapı hangisidir?",
+        "options": [
+          "Vertebra cismi",
+          "Manubrium",
+          "Ksifoid çıkıntı",
+          "Skapula"
+        ],
+        "correct": 1,
+        "explanation": "Ön sınır sternumun manubrium bölümüdür."
+      }
+    },
+    {
+      "title": "Aşağıdaki venöz yapılardan hangisi arka mediastende yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1mvsaa6",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Aşağıdaki venöz yapılardan hangisi arka mediastende yer alır?",
+        "options": [
+          "Pulmoner ven",
+          "Koroner sinüs",
+          "Hemiazigos ven",
+          "Vena kava superior"
+        ],
+        "correct": 2,
+        "explanation": "Azigos, hemiazigos ve aksesuar hemiazigos sistemi arka mediastendedir."
+      }
+    },
+    {
+      "title": "İnen torasik aortanın dalları arasında hangisi bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-10nzf8a",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "İnen torasik aortanın dalları arasında hangisi bulunur?",
+        "options": [
+          "Koroner arterler",
+          "Ana pulmoner arterler",
+          "Brakiyosefalik arter",
+          "Posterior interkostal arterler"
+        ],
+        "correct": 3,
+        "explanation": "İnen torasik aorta, arka göğüs duvarına posterior interkostal dallar verir."
+      }
+    },
+    {
+      "title": "Frenik sinir ile akciğer hilusunun ilişkisi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1sqynb5",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Frenik sinir ile akciğer hilusunun ilişkisi hangisidir?",
+        "options": [
+          "Sinir hilusun önünden geçer",
+          "Sinir hilusun arkasından geçer",
+          "Sinir hilusun içinden geçer",
+          "Sinir hilusta sonlanır"
+        ],
+        "correct": 0,
+        "explanation": "Frenik önden, vagus hilusun arkasından seyreder."
+      }
+    },
+    {
+      "title": "Ön mediasten, sternum ile perikard arasında yer alır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0vj5xto",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "tf",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "statement": "Ön mediasten, sternum ile perikard arasında yer alır.",
+        "isTrue": true,
+        "explanation": "Ön mediasten bu iki yapı arasındaki dar bölümdür."
+      }
+    },
+    {
+      "title": "Kalp ve perikard kesesi arka mediastenin temel içerikleridir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1a6z8w9",
+        "course": "PER241",
+        "topic": "Mediasten anatomisi",
+        "type": "tf",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "statement": "Kalp ve perikard kesesi arka mediastenin temel içerikleridir.",
+        "isTrue": false,
+        "explanation": "Kalp ve perikard orta mediastende yer alır; arka mediastende özofagus ve inen aorta gibi yapılar vardır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-1gb3rg3",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Mediasten",
+      "en": "Mediastinum",
+      "definition": "Toraksta iki plevra kesesi arasındaki orta bölme; kalp, büyük damarlar, trakea, özofagus, timus vb. içerir.",
+      "origin": "Lat. medius = orta"
+    },
+    {
+      "id": "PER241-0q0qcnz",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Sternal açı",
+      "en": "Sternal angle",
+      "definition": "Manubrium ile sternum gövdesinin birleşiminde oluşan açı; üst ve alt mediastenin ayrım düzleminde yer alır.",
+      "origin": "P. Louis (eponim)"
+    },
+    {
+      "id": "PER241-1q1qw1o",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Üst mediasten",
+      "en": "Superior mediastinum",
+      "definition": "Toraks girişi ile sternal açı düzlemi arasında kalan bölüm. Timus, arkus aorta, trakea ve özofagus gibi yapıları içerir."
+    },
+    {
+      "id": "PER241-1ygnmxt",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Ön mediasten",
+      "en": "Anterior mediastinum",
+      "definition": "Sternum ile perikard arasındaki dar alan; yağ, lenf nodları, internal torasik damar dalları."
+    },
+    {
+      "id": "PER241-0czbo2v",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "term": "Orta mediasten",
+      "en": "Middle mediastinum",
+      "definition": "Perikard ve kalp ile çıkan aorta, pulmoner trunkus, vena kava superior, frenik sinirleri içeren bölüm."
+    },
+    {
+      "id": "PER241-1hbkt7a",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Arka mediasten",
+      "en": "Posterior mediastinum",
+      "definition": "Perikardın arkasında bulunan mediasten bölümü. İnen torasik aorta, özofagus, duktus torasikus ve azigos sistemi burada yer alır."
+    },
+    {
+      "id": "PER241-1jyrdyp",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Timus",
+      "en": "Thymus",
+      "definition": "Üst mediastende en öndeki, sternum arkasındaki lenfoid organ."
+    },
+    {
+      "id": "PER241-0vqaan8",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Duktus torasikus",
+      "en": "Thoracic duct",
+      "definition": "Vücudun en büyük lenf damarı; sisterna şiliden başlar, aort hiatusundan toraksa girer.",
+      "origin": "Lat. ductus = kanal"
+    },
+    {
+      "id": "PER241-10wq6e1",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Azigos ven",
+      "en": "Azygos vein",
+      "definition": "Gövde duvarı ve mediasten organlarının venöz kanını vena kava superior'ye taşıyan, simetriği olmayan ven.",
+      "origin": "Yun. a-zygos = eşsiz"
+    },
+    {
+      "id": "PER241-13ohtkb",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "term": "Frenik sinir",
+      "en": "Phrenic nerve",
+      "definition": "Diyaframın motor, perikardın duyu innervasyonunu sağlayan sinir. Akciğer hilusunun önünden geçer.",
+      "origin": "Yun. phren = diyafram"
+    },
+    {
+      "id": "PER241-162vurb",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Vagus siniri",
+      "en": "Vagus nerve",
+      "definition": "Mediastende akciğer hilusunun arkasından geçip özofageal pleksusa katılan kraniyal sinir.",
+      "origin": "Lat. vagus = gezgin"
+    },
+    {
+      "id": "PER241-05c1yvo",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "UNSW Embryology",
+      "term": "Rekürren laringeal sinir",
+      "en": "Recurrent laryngeal nerve",
+      "definition": "Vagus dalı; solda arkus aortanın, sağda sağ subklavyen arterin altından dönüp larinkse çıkar.",
+      "origin": "Lat. recurrere = geri dönmek"
+    },
+    {
+      "id": "PER241-16ii7sf",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Mediastenin yan sınırları",
+      "body": "Mediastenin iki yanında **mediastinal plevra** bulunur. Üst mediastenin ön sınırı manubrium, arka sınırı vertebra cisimleridir."
+    },
+    {
+      "id": "PER241-1squ3zo",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Üst mediastenin en önündeki yapı hangisidir?",
+      "answer": "**Timus**, sternumun arka yüzüne komşu lenfoid organdır."
+    },
+    {
+      "id": "PER241-1f59elu",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "question": "Ön mediastende hangi damarların dalları bulunur?",
+      "answer": "Ön mediastende yağ ve lenf düğümlerine ek olarak **internal torasik damarların dalları** bulunur."
+    },
+    {
+      "id": "PER241-0dsdr33",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Orta mediastenin damarları",
+      "body": "Kalple birlikte **çıkan aorta, pulmoner trunkus ve vena kava superior** orta mediastende yer alır."
+    },
+    {
+      "id": "PER241-1d5jg1n",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Özofageal pleksus hangi sinirle ilişkilidir?",
+      "answer": "Mediastende özofagus çevresindeki pleksusun oluşumuna **vagus sinirleri** katılır."
+    },
+    {
+      "id": "PER241-0k91lws",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Duktus torasikusun toraksa girişi",
+      "body": "Duktus torasikus, **aort hiatusundan** toraksa girer. Özofagus ise özofageal hiatusu kullanır."
+    },
+    {
+      "id": "PER241-1lk3cii",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "İnen torasik aorta vertebralara göre nereden seyreder?",
+      "answer": "İnen torasik aorta, arka mediastende vertebraların **sol tarafında** ilerler."
+    },
+    {
+      "id": "PER241-1sqn9wi",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "remember",
+      "importance": 3,
+      "source": "UNSW Embryology",
+      "title": "Arkus cerrahisinde sinir komşuluğu",
+      "body": "Sol rekürren laringeal sinir **arkus aortanın altından** döner; duktus ve ark cerrahisindeki anatomik ilişkiyi hatırla."
+    },
+    {
+      "id": "PER241-17uajfm",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Üst mediastenin üst sınırını hangi yapı oluşturur?",
+      "options": [
+        "Toraks girişi",
+        "Diyafram",
+        "Perikardın alt yüzü",
+        "Akciğer hilusu"
+      ],
+      "correct": 0,
+      "explanation": "Üst mediasten yukarıda toraks girişiyle sınırlanır."
+    },
+    {
+      "id": "PER241-1ao86yc",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Üst mediastenin ön sınırındaki kemik yapı hangisidir?",
+      "options": [
+        "Vertebra cismi",
+        "Manubrium",
+        "Ksifoid çıkıntı",
+        "Skapula"
+      ],
+      "correct": 1,
+      "explanation": "Ön sınır sternumun manubrium bölümüdür."
+    },
+    {
+      "id": "PER241-1mvsaa6",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Aşağıdaki venöz yapılardan hangisi arka mediastende yer alır?",
+      "options": [
+        "Pulmoner ven",
+        "Koroner sinüs",
+        "Hemiazigos ven",
+        "Vena kava superior"
+      ],
+      "correct": 2,
+      "explanation": "Azigos, hemiazigos ve aksesuar hemiazigos sistemi arka mediastendedir."
+    },
+    {
+      "id": "PER241-10nzf8a",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "İnen torasik aortanın dalları arasında hangisi bulunur?",
+      "options": [
+        "Koroner arterler",
+        "Ana pulmoner arterler",
+        "Brakiyosefalik arter",
+        "Posterior interkostal arterler"
+      ],
+      "correct": 3,
+      "explanation": "İnen torasik aorta, arka göğüs duvarına posterior interkostal dallar verir."
+    },
+    {
+      "id": "PER241-1sqynb5",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Frenik sinir ile akciğer hilusunun ilişkisi hangisidir?",
+      "options": [
+        "Sinir hilusun önünden geçer",
+        "Sinir hilusun arkasından geçer",
+        "Sinir hilusun içinden geçer",
+        "Sinir hilusta sonlanır"
+      ],
+      "correct": 0,
+      "explanation": "Frenik önden, vagus hilusun arkasından seyreder."
+    },
+    {
+      "id": "PER241-0vj5xto",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "tf",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "statement": "Ön mediasten, sternum ile perikard arasında yer alır.",
+      "isTrue": true,
+      "explanation": "Ön mediasten bu iki yapı arasındaki dar bölümdür."
+    },
+    {
+      "id": "PER241-1a6z8w9",
+      "course": "PER241",
+      "topic": "Mediasten anatomisi",
+      "type": "tf",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "statement": "Kalp ve perikard kesesi arka mediastenin temel içerikleridir.",
+      "isTrue": false,
+      "explanation": "Kalp ve perikard orta mediastende yer alır; arka mediastende özofagus ve inen aorta gibi yapılar vardır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

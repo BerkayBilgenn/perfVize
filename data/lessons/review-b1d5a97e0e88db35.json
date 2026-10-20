@@ -1,0 +1,1179 @@
+{
+  "id": "review-b1d5a97e0e88db35",
+  "title": "Temel kavramlar ve tarihçe",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Dezenfeksiyon",
+      "text": "Disinfection\nCansız nesnelerde bakteri sporları hariç patojenlerin çoğunun/tamamının yok edilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0tloavz",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Dezenfeksiyon",
+        "definition": "Cansız nesnelerde bakteri sporları hariç patojenlerin çoğunun/tamamının yok edilmesi.",
+        "en": "Disinfection"
+      }
+    },
+    {
+      "title": "Sterilizasyon",
+      "text": "Sterilization\nBakteri sporları dâhil **tüm mikrobiyal yaşamı** yok eden veya uzaklaştıran, etkinliği valide edilmiş süreç.",
+      "images": [],
+      "card": {
+        "id": "PER247-0eztr9b",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sterilizasyon",
+        "definition": "Bakteri sporları dâhil **tüm mikrobiyal yaşamı** yok eden veya uzaklaştıran, etkinliği valide edilmiş süreç.",
+        "en": "Sterilization"
+      }
+    },
+    {
+      "title": "Steril",
+      "text": "Sterile\nCanlı mikroorganizmalardan arınmış olma hâlini tanımlar. Bir işlemin sterilite güvencesi olasılık temelli değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ud6exo",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Steril",
+        "definition": "Canlı mikroorganizmalardan arınmış olma hâlini tanımlar. Bir işlemin sterilite güvencesi olasılık temelli değerlendirilir.",
+        "en": "Sterile"
+      }
+    },
+    {
+      "title": "Temizlik",
+      "text": "Cleaning\nGörünür kir, kan, protein ve mikroorganizmaların su + deterjan/enzimle elle veya mekanik uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1x0qob6",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Temizlik",
+        "definition": "Görünür kir, kan, protein ve mikroorganizmaların su + deterjan/enzimle elle veya mekanik uzaklaştırılması.",
+        "en": "Cleaning"
+      }
+    },
+    {
+      "title": "Dekontaminasyon",
+      "text": "Decontamination\nPatojenlerin, nesne güvenle tutulup kullanılabilecek/atılabilecek düzeye kadar uzaklaştırılması/inaktivasyonu (OSHA); DSÖ'de temizlik-dezenfeksiyon-sterilizasyonun şemsiye adı.",
+      "images": [],
+      "card": {
+        "id": "PER247-0nd4y5v",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Dekontaminasyon",
+        "definition": "Patojenlerin, nesne güvenle tutulup kullanılabilecek/atılabilecek düzeye kadar uzaklaştırılması/inaktivasyonu (OSHA); DSÖ'de temizlik-dezenfeksiyon-sterilizasyonun şemsiye adı.",
+        "en": "Decontamination"
+      }
+    },
+    {
+      "title": "Kontaminasyon",
+      "text": "Contamination\nMikroorganizmalarla gerçek veya potansiyel temas hâli.",
+      "images": [],
+      "card": {
+        "id": "PER247-1qb7r4i",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kontaminasyon",
+        "definition": "Mikroorganizmalarla gerçek veya potansiyel temas hâli.",
+        "en": "Contamination"
+      }
+    },
+    {
+      "title": "Sanitasyon ajanı",
+      "text": "Sanitizer\nCansız nesnelerde bakteriyel kontaminasyonu halk sağlığı gereklerine uygun güvenli düzeye indiren ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-06zp3el",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sanitasyon ajanı",
+        "definition": "Cansız nesnelerde bakteriyel kontaminasyonu halk sağlığı gereklerine uygun güvenli düzeye indiren ajan.",
+        "en": "Sanitizer"
+      }
+    },
+    {
+      "title": "Germisit",
+      "text": "Germicide\nMikroorganizmaları (özellikle patojenleri) öldüren ajan; antiseptik ve dezenfektanları kapsar.",
+      "images": [],
+      "card": {
+        "id": "PER247-19bgj2l",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Germisit",
+        "definition": "Mikroorganizmaları (özellikle patojenleri) öldüren ajan; antiseptik ve dezenfektanları kapsar.",
+        "en": "Germicide"
+      }
+    },
+    {
+      "title": "Mikrobisit",
+      "text": "Microbicide\nMikroorganizmaları etkin biçimde öldüren madde.",
+      "images": [],
+      "card": {
+        "id": "PER247-10s3f2m",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Mikrobisit",
+        "definition": "Mikroorganizmaları etkin biçimde öldüren madde.",
+        "en": "Microbicide"
+      }
+    },
+    {
+      "title": "Antimikrobiyal ajan",
+      "text": "Antimicrobial agent\nMikroorganizmaları öldüren veya üremesini baskılayan her ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1jtkm3w",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Antimikrobiyal ajan",
+        "definition": "Mikroorganizmaları öldüren veya üremesini baskılayan her ajan.",
+        "en": "Antimicrobial agent"
+      }
+    },
+    {
+      "title": "Bakterisid",
+      "text": "Bactericide\nBakterileri öldüren ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1t8vw61",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Bakterisid",
+        "definition": "Bakterileri öldüren ajan.",
+        "en": "Bactericide"
+      }
+    },
+    {
+      "title": "Bakteriyostatik",
+      "text": "Bacteriostatic\nBakterileri öldürmek yerine **üremelerini baskılayan** etkiyi niteleyen terim.",
+      "images": [],
+      "card": {
+        "id": "PER247-1cjh9xh",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Bakteriyostatik",
+        "definition": "Bakterileri öldürmek yerine **üremelerini baskılayan** etkiyi niteleyen terim.",
+        "en": "Bacteriostatic"
+      }
+    },
+    {
+      "title": "Fungisid",
+      "text": "Fungicide\nMantarları (mayalar dâhil) ve mantar sporlarını yok eden ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-0l4ed9i",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Fungisid",
+        "definition": "Mantarları (mayalar dâhil) ve mantar sporlarını yok eden ajan.",
+        "en": "Fungicide"
+      }
+    },
+    {
+      "title": "Virüsid",
+      "text": "Virucide\nVirüsleri öldürerek bulaştırıcılığını ortadan kaldıran ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1d9a8ee",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Virüsid",
+        "definition": "Virüsleri öldürerek bulaştırıcılığını ortadan kaldıran ajan.",
+        "en": "Virucide"
+      }
+    },
+    {
+      "title": "Sporisid",
+      "text": "Sporicide\nBakteri sporlarını öldüren ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-0pl4yr2",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sporisid",
+        "definition": "Bakteri sporlarını öldüren ajan.",
+        "en": "Sporicide"
+      }
+    },
+    {
+      "title": "Tüberkülosid",
+      "text": "Tuberculocide\nMycobacterium tuberculosis üzerinde öldürücü etkisi gösterilmiş ajan veya etki.",
+      "images": [],
+      "card": {
+        "id": "PER247-10ttq68",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Tüberkülosid",
+        "definition": "Mycobacterium tuberculosis üzerinde öldürücü etkisi gösterilmiş ajan veya etki.",
+        "en": "Tuberculocide"
+      }
+    },
+    {
+      "title": "Biyoyük",
+      "text": "Bioburden\nBir nesneyi kontamine eden canlı mikroorganizmaların sayısı ve türü (mikrobiyal yük).",
+      "images": [],
+      "card": {
+        "id": "PER247-1rozws6",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Biyoyük",
+        "definition": "Bir nesneyi kontamine eden canlı mikroorganizmaların sayısı ve türü (mikrobiyal yük).",
+        "en": "Bioburden"
+      }
+    },
+    {
+      "title": "Biyofilm",
+      "text": "Biofilm\nYüzeye sıkıca yapışmış, kolay uzaklaştırılamayan bakteri + hücre dışı madde kütlesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-195ynpu",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Biyofilm",
+        "definition": "Yüzeye sıkıca yapışmış, kolay uzaklaştırılamayan bakteri + hücre dışı madde kütlesi.",
+        "en": "Biofilm"
+      }
+    },
+    {
+      "title": "Sterilite güvence düzeyi",
+      "text": "Sterility assurance level\nSterilizasyon sonrasında bir ürün biriminde **canlı mikroorganizma bulunma olasılığı**. Genellikle 10⁻⁶ olarak ifade edilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1n9w1qj",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sterilite güvence düzeyi",
+        "definition": "Sterilizasyon sonrasında bir ürün biriminde **canlı mikroorganizma bulunma olasılığı**. Genellikle 10⁻⁶ olarak ifade edilir.",
+        "en": "Sterility assurance level"
+      }
+    },
+    {
+      "title": "D değeri",
+      "text": "D value\nTanımlı koşullarda test mikroorganizması popülasyonunun **%90 azalması** için gerekli süre veya radyasyon dozu.",
+      "images": [],
+      "card": {
+        "id": "PER247-1nmidbb",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "D değeri",
+        "definition": "Tanımlı koşullarda test mikroorganizması popülasyonunun **%90 azalması** için gerekli süre veya radyasyon dozu.",
+        "en": "D value"
+      }
+    },
+    {
+      "title": "Validasyon",
+      "text": "Validation\nSistemin/işlemin önceden belirlenmiş şartları sürekli sağladığının kanıtlanması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1y3a3ml",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 2,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "term": "Validasyon",
+        "definition": "Sistemin/işlemin önceden belirlenmiş şartları sürekli sağladığının kanıtlanması.",
+        "en": "Validation"
+      }
+    },
+    {
+      "title": "Parametrik serbest bırakma",
+      "text": "Parametric release\nValide edilmiş bir süreçte **kaydedilen kritik fiziksel işlem parametrelerine** dayanarak yükü serbest bırakma kararı. Kimyasal indikatörün tek başına renk değişimi bu kararın yeterli kanıtı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0v32gs4",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Parametrik serbest bırakma",
+        "definition": "Valide edilmiş bir süreçte **kaydedilen kritik fiziksel işlem parametrelerine** dayanarak yükü serbest bırakma kararı. Kimyasal indikatörün tek başına renk değişimi bu kararın yeterli kanıtı değildir.",
+        "en": "Parametric release"
+      }
+    },
+    {
+      "title": "Germisit ve antimikrobiyal ajan",
+      "text": "Germisit\nÖldürücü etkiyi tanımlar\nAntiseptik ve dezenfektanları kapsar\n\nAntimikrobiyal ajan\nÖldürme veya üreme baskılama etkisini kapsar\nEtki mutlaka mikrop öldürme olmak zorunda değildir",
+      "images": [],
+      "card": {
+        "id": "PER247-0o9hahj",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Germisit ve antimikrobiyal ajan",
+        "left": {
+          "title": "Germisit",
+          "points": [
+            "Öldürücü etkiyi tanımlar",
+            "Antiseptik ve dezenfektanları kapsar"
+          ]
+        },
+        "right": {
+          "title": "Antimikrobiyal ajan",
+          "points": [
+            "Öldürme veya üreme baskılama etkisini kapsar",
+            "Etki mutlaka mikrop öldürme olmak zorunda değildir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Biyoyük ve biyofilm",
+      "text": "Biyoyük\nNesnedeki canlı mikropların sayı/tür bilgisi\nYükün ne kadar ve hangi mikroplardan oluştuğunu anlatır\n\nBiyofilm\nYüzeye bağlı mikrop ve hücre dışı matriks yapısı\nGermisit temasını zorlaştıran örgütlenmeyi anlatır",
+      "images": [],
+      "card": {
+        "id": "PER247-0q8v2vs",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Biyoyük ve biyofilm",
+        "left": {
+          "title": "Biyoyük",
+          "points": [
+            "Nesnedeki canlı mikropların sayı/tür bilgisi",
+            "Yükün ne kadar ve hangi mikroplardan oluştuğunu anlatır"
+          ]
+        },
+        "right": {
+          "title": "Biyofilm",
+          "points": [
+            "Yüzeye bağlı mikrop ve hücre dışı matriks yapısı",
+            "Germisit temasını zorlaştıran örgütlenmeyi anlatır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Mutlak kavram, olasılıksal güvence",
+      "text": "\"**Kısmen steril**\" ifadesi doğru değildir. Sterilizasyon hedefi tüm mikrobiyal yaşamı ortadan kaldırmaktır; işlemin güvencesi ise olasılıkla değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1unyf35",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Mutlak kavram, olasılıksal güvence",
+        "body": "\"**Kısmen steril**\" ifadesi doğru değildir. Sterilizasyon hedefi tüm mikrobiyal yaşamı ortadan kaldırmaktır; işlemin güvencesi ise olasılıkla değerlendirilir."
+      }
+    },
+    {
+      "title": "SAL’in anlamı",
+      "text": "**SAL 10⁻⁶**, işlem sonrası bir ürün biriminde canlı mikroorganizma bulunma olasılığının milyonda bir düzeyinde olmasıdır; mikrobiyal sayının yüzde azalmasıyla aynı ölçüt değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ruqrbq",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "SAL’in anlamı",
+        "body": "**SAL 10⁻⁶**, işlem sonrası bir ürün biriminde canlı mikroorganizma bulunma olasılığının milyonda bir düzeyinde olmasıdır; mikrobiyal sayının yüzde azalmasıyla aynı ölçüt değildir."
+      }
+    },
+    {
+      "title": "Alet biyoyükü ve test yükü",
+      "text": "CDC’de kullanılmış alet biyoyükü **10⁰–10³** mikroorganizma düzeyinde; biyolojik indikatörler ise **10⁵–10⁶ spor** ile tanımlanır. Test, doğal kir yükünden daha dirençli bir zorluk oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER247-00yrofa",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Alet biyoyükü ve test yükü",
+        "body": "CDC’de kullanılmış alet biyoyükü **10⁰–10³** mikroorganizma düzeyinde; biyolojik indikatörler ise **10⁵–10⁶ spor** ile tanımlanır. Test, doğal kir yükünden daha dirençli bir zorluk oluşturur."
+      }
+    },
+    {
+      "title": "Sayı kadar konum da önemli",
+      "text": "Mikroorganizmaların alet üzerindeki **yerleşimi**, aynı sayıdaki mikroorganizmanın öldürülmesini zorlaştırabilir. Lümen ve birleşim yerleri germisitin ulaşmasını sınırlar.",
+      "images": [],
+      "card": {
+        "id": "PER247-19782kg",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Sayı kadar konum da önemli",
+        "body": "Mikroorganizmaların alet üzerindeki **yerleşimi**, aynı sayıdaki mikroorganizmanın öldürülmesini zorlaştırabilir. Lümen ve birleşim yerleri germisitin ulaşmasını sınırlar."
+      }
+    },
+    {
+      "title": "Lister’in antiseptik ajanı",
+      "text": "CDC’nin tarihsel açıklamasında Joseph Lister’in cerrahi antisepside kullandığı ajan **fenol, yani karbolik asittir**.",
+      "images": [],
+      "card": {
+        "id": "PER247-0fvggsa",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Lister’in antiseptik ajanı",
+        "body": "CDC’nin tarihsel açıklamasında Joseph Lister’in cerrahi antisepside kullandığı ajan **fenol, yani karbolik asittir**."
+      }
+    },
+    {
+      "title": "Bir germisitin işe yaramasını temizlik neden etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-08ws7pb",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Bir germisitin işe yaramasını temizlik neden etkiler?",
+        "answer": "Organik/inorganik kalıntılar **germisiti inaktive edebilir veya mikroorganizmayla temasını engelleyebilir**. Bu nedenle yüksek düzey dezenfeksiyon ve sterilizasyon öncesinde temizlik gerekir."
+      }
+    },
+    {
+      "title": "Sterilizasyonun valide edilmesi neyi göstermeyi amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0hbxyj6",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Sterilizasyonun valide edilmesi neyi göstermeyi amaçlar?",
+        "answer": "Önceden tanımlanan işlem koşullarının **tekrarlanabilir biçimde hedeflenen sterilite güvencesini sağlamasını**; yalnız tek bir örnekte üreme görülmemesini değil."
+      }
+    },
+    {
+      "title": "Biyofilm işleme sürecini hangi yoldan güçleştirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1q6qz4e",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Biyofilm işleme sürecini hangi yoldan güçleştirir?",
+        "answer": "Yüzeye bağlı mikroorganizmaları hücre dışı matriks içinde korur ve **germisitin temasını/penetrasyonunu sınırlar**. Temizlik ve fiziksel uzaklaştırma önem kazanır."
+      }
+    },
+    {
+      "title": "Kir görünmüyor diye atlama",
+      "text": "Gözle temiz görünme, aletin işlem için yeterince temiz olduğunu tek başına göstermez. Eklemler, oluklar ve kanallar **temizlik/inceleme sürecinde** değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-02iugba",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kir görünmüyor diye atlama",
+        "body": "Gözle temiz görünme, aletin işlem için yeterince temiz olduğunu tek başına göstermez. Eklemler, oluklar ve kanallar **temizlik/inceleme sürecinde** değerlendirilir."
+      }
+    },
+    {
+      "title": "Suyun sertliği de kimyasal koşuldur",
+      "text": "Sert sudaki **kalsiyum ve magnezyum gibi iyonlar**, bazı dezenfektanlarla etkileşip etkinliği azaltabilir. Dezenfeksiyon yalnız mikroorganizma türüne ve bekleme süresine bağlı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0sofl25",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Suyun sertliği de kimyasal koşuldur",
+        "body": "Sert sudaki **kalsiyum ve magnezyum gibi iyonlar**, bazı dezenfektanlarla etkileşip etkinliği azaltabilir. Dezenfeksiyon yalnız mikroorganizma türüne ve bekleme süresine bağlı değildir."
+      }
+    },
+    {
+      "title": "Bir ajanın \"bakterisid\" olması hangi etkiyi belirtir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1jacqgd",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Bir ajanın \"bakterisid\" olması hangi etkiyi belirtir?",
+        "options": [
+          "Bakteriyi öldürmesi",
+          "Bakterinin yalnız çoğalmasını durdurması",
+          "Bakteriyi yüzeyden yıkayarak taşıması",
+          "Bakterinin çevresindeki kiri çözmesi"
+        ],
+        "correct": 0,
+        "explanation": "**-sid**, öldürücü etkiyi belirtir; yalnız üreme baskılanması bakteriyostatiktir."
+      }
+    },
+    {
+      "title": "Görünür kan kalıntısı bulunan yeniden kullanılabilir alette sıradaki temel işlem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-01z18kc",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Görünür kan kalıntısı bulunan yeniden kullanılabilir alette sıradaki temel işlem hangisidir?",
+        "options": [
+          "Steril ambalajla kapatma",
+          "Uygun temizlik işlemi",
+          "Steril depoya transfer",
+          "Serbest bırakma etiketi"
+        ],
+        "correct": 1,
+        "explanation": "Kalıntıların uzaklaştırılması, sonraki dezenfeksiyon ve sterilizasyonun etkinliği için gereklidir."
+      }
+    },
+    {
+      "title": "Belirli koşullarda bir D değeri kadar işlemden sonra test popülasyonunun ne kadarı kalır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0auzsut",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Belirli koşullarda bir D değeri kadar işlemden sonra test popülasyonunun ne kadarı kalır?",
+        "options": [
+          "Başlangıcın %50’si",
+          "Başlangıcın %90’ı",
+          "Başlangıcın %10’u",
+          "Başlangıcın %99’u"
+        ],
+        "correct": 2,
+        "explanation": "D değeri **%90 azalma**, yani başlangıcın onda birinin kalması demektir."
+      }
+    },
+    {
+      "title": "Fungisid etki için hedef organizma grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-00valav",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Fungisid etki için hedef organizma grubu hangisidir?",
+        "options": [
+          "Bakteri sporları",
+          "Mikobakteriler",
+          "Virüsler",
+          "Mantarlar"
+        ],
+        "correct": 3,
+        "explanation": "Fungisid ajanlar **mantarları** ve mantar sporlarını hedefler; bakteri sporlarını öldürme iddiası sporisid terimiyle ayrılır."
+      }
+    },
+    {
+      "title": "Bakteriyostatik etki, bakterilerin üremesini baskılamayı ifade eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0j5f9yw",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Bakteriyostatik etki, bakterilerin üremesini baskılamayı ifade eder.",
+        "isTrue": true,
+        "explanation": "Bakteriyostatik etki **üreme baskılanmasıdır**; bakterisid öldürücü etkiyi belirtir."
+      }
+    },
+    {
+      "title": "Kontaminasyon yalnız gözle görülen kirin varlığını ifade eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1es8vcq",
+        "course": "PER247",
+        "topic": "Temel kavramlar ve tarihçe",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Kontaminasyon yalnız gözle görülen kirin varlığını ifade eder.",
+        "isTrue": false,
+        "explanation": "Kontaminasyon, mikroorganizmalarla **gerçek veya potansiyel temas**tır; görünür kir bulunması şart değildir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0tloavz",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Dezenfeksiyon",
+      "definition": "Cansız nesnelerde bakteri sporları hariç patojenlerin çoğunun/tamamının yok edilmesi.",
+      "en": "Disinfection"
+    },
+    {
+      "id": "PER247-0eztr9b",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sterilizasyon",
+      "definition": "Bakteri sporları dâhil **tüm mikrobiyal yaşamı** yok eden veya uzaklaştıran, etkinliği valide edilmiş süreç.",
+      "en": "Sterilization"
+    },
+    {
+      "id": "PER247-1ud6exo",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Steril",
+      "definition": "Canlı mikroorganizmalardan arınmış olma hâlini tanımlar. Bir işlemin sterilite güvencesi olasılık temelli değerlendirilir.",
+      "en": "Sterile"
+    },
+    {
+      "id": "PER247-1x0qob6",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Temizlik",
+      "definition": "Görünür kir, kan, protein ve mikroorganizmaların su + deterjan/enzimle elle veya mekanik uzaklaştırılması.",
+      "en": "Cleaning"
+    },
+    {
+      "id": "PER247-0nd4y5v",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Dekontaminasyon",
+      "definition": "Patojenlerin, nesne güvenle tutulup kullanılabilecek/atılabilecek düzeye kadar uzaklaştırılması/inaktivasyonu (OSHA); DSÖ'de temizlik-dezenfeksiyon-sterilizasyonun şemsiye adı.",
+      "en": "Decontamination"
+    },
+    {
+      "id": "PER247-1qb7r4i",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kontaminasyon",
+      "definition": "Mikroorganizmalarla gerçek veya potansiyel temas hâli.",
+      "en": "Contamination"
+    },
+    {
+      "id": "PER247-06zp3el",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sanitasyon ajanı",
+      "definition": "Cansız nesnelerde bakteriyel kontaminasyonu halk sağlığı gereklerine uygun güvenli düzeye indiren ajan.",
+      "en": "Sanitizer"
+    },
+    {
+      "id": "PER247-19bgj2l",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Germisit",
+      "definition": "Mikroorganizmaları (özellikle patojenleri) öldüren ajan; antiseptik ve dezenfektanları kapsar.",
+      "en": "Germicide"
+    },
+    {
+      "id": "PER247-10s3f2m",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Mikrobisit",
+      "definition": "Mikroorganizmaları etkin biçimde öldüren madde.",
+      "en": "Microbicide"
+    },
+    {
+      "id": "PER247-1jtkm3w",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Antimikrobiyal ajan",
+      "definition": "Mikroorganizmaları öldüren veya üremesini baskılayan her ajan.",
+      "en": "Antimicrobial agent"
+    },
+    {
+      "id": "PER247-1t8vw61",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bakterisid",
+      "definition": "Bakterileri öldüren ajan.",
+      "en": "Bactericide"
+    },
+    {
+      "id": "PER247-1cjh9xh",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bakteriyostatik",
+      "definition": "Bakterileri öldürmek yerine **üremelerini baskılayan** etkiyi niteleyen terim.",
+      "en": "Bacteriostatic"
+    },
+    {
+      "id": "PER247-0l4ed9i",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Fungisid",
+      "definition": "Mantarları (mayalar dâhil) ve mantar sporlarını yok eden ajan.",
+      "en": "Fungicide"
+    },
+    {
+      "id": "PER247-1d9a8ee",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Virüsid",
+      "definition": "Virüsleri öldürerek bulaştırıcılığını ortadan kaldıran ajan.",
+      "en": "Virucide"
+    },
+    {
+      "id": "PER247-0pl4yr2",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sporisid",
+      "definition": "Bakteri sporlarını öldüren ajan.",
+      "en": "Sporicide"
+    },
+    {
+      "id": "PER247-10ttq68",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Tüberkülosid",
+      "definition": "Mycobacterium tuberculosis üzerinde öldürücü etkisi gösterilmiş ajan veya etki.",
+      "en": "Tuberculocide"
+    },
+    {
+      "id": "PER247-1rozws6",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Biyoyük",
+      "definition": "Bir nesneyi kontamine eden canlı mikroorganizmaların sayısı ve türü (mikrobiyal yük).",
+      "en": "Bioburden"
+    },
+    {
+      "id": "PER247-195ynpu",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Biyofilm",
+      "definition": "Yüzeye sıkıca yapışmış, kolay uzaklaştırılamayan bakteri + hücre dışı madde kütlesi.",
+      "en": "Biofilm"
+    },
+    {
+      "id": "PER247-1n9w1qj",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sterilite güvence düzeyi",
+      "definition": "Sterilizasyon sonrasında bir ürün biriminde **canlı mikroorganizma bulunma olasılığı**. Genellikle 10⁻⁶ olarak ifade edilir.",
+      "en": "Sterility assurance level"
+    },
+    {
+      "id": "PER247-1nmidbb",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "D değeri",
+      "definition": "Tanımlı koşullarda test mikroorganizması popülasyonunun **%90 azalması** için gerekli süre veya radyasyon dozu.",
+      "en": "D value"
+    },
+    {
+      "id": "PER247-1y3a3ml",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 2,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "term": "Validasyon",
+      "definition": "Sistemin/işlemin önceden belirlenmiş şartları sürekli sağladığının kanıtlanması.",
+      "en": "Validation"
+    },
+    {
+      "id": "PER247-0v32gs4",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Parametrik serbest bırakma",
+      "definition": "Valide edilmiş bir süreçte **kaydedilen kritik fiziksel işlem parametrelerine** dayanarak yükü serbest bırakma kararı. Kimyasal indikatörün tek başına renk değişimi bu kararın yeterli kanıtı değildir.",
+      "en": "Parametric release"
+    },
+    {
+      "id": "PER247-0o9hahj",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Germisit ve antimikrobiyal ajan",
+      "left": {
+        "title": "Germisit",
+        "points": [
+          "Öldürücü etkiyi tanımlar",
+          "Antiseptik ve dezenfektanları kapsar"
+        ]
+      },
+      "right": {
+        "title": "Antimikrobiyal ajan",
+        "points": [
+          "Öldürme veya üreme baskılama etkisini kapsar",
+          "Etki mutlaka mikrop öldürme olmak zorunda değildir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-0q8v2vs",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Biyoyük ve biyofilm",
+      "left": {
+        "title": "Biyoyük",
+        "points": [
+          "Nesnedeki canlı mikropların sayı/tür bilgisi",
+          "Yükün ne kadar ve hangi mikroplardan oluştuğunu anlatır"
+        ]
+      },
+      "right": {
+        "title": "Biyofilm",
+        "points": [
+          "Yüzeye bağlı mikrop ve hücre dışı matriks yapısı",
+          "Germisit temasını zorlaştıran örgütlenmeyi anlatır"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1unyf35",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Mutlak kavram, olasılıksal güvence",
+      "body": "\"**Kısmen steril**\" ifadesi doğru değildir. Sterilizasyon hedefi tüm mikrobiyal yaşamı ortadan kaldırmaktır; işlemin güvencesi ise olasılıkla değerlendirilir."
+    },
+    {
+      "id": "PER247-1ruqrbq",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "SAL’in anlamı",
+      "body": "**SAL 10⁻⁶**, işlem sonrası bir ürün biriminde canlı mikroorganizma bulunma olasılığının milyonda bir düzeyinde olmasıdır; mikrobiyal sayının yüzde azalmasıyla aynı ölçüt değildir."
+    },
+    {
+      "id": "PER247-00yrofa",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Alet biyoyükü ve test yükü",
+      "body": "CDC’de kullanılmış alet biyoyükü **10⁰–10³** mikroorganizma düzeyinde; biyolojik indikatörler ise **10⁵–10⁶ spor** ile tanımlanır. Test, doğal kir yükünden daha dirençli bir zorluk oluşturur."
+    },
+    {
+      "id": "PER247-19782kg",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Sayı kadar konum da önemli",
+      "body": "Mikroorganizmaların alet üzerindeki **yerleşimi**, aynı sayıdaki mikroorganizmanın öldürülmesini zorlaştırabilir. Lümen ve birleşim yerleri germisitin ulaşmasını sınırlar."
+    },
+    {
+      "id": "PER247-0fvggsa",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Lister’in antiseptik ajanı",
+      "body": "CDC’nin tarihsel açıklamasında Joseph Lister’in cerrahi antisepside kullandığı ajan **fenol, yani karbolik asittir**."
+    },
+    {
+      "id": "PER247-08ws7pb",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Bir germisitin işe yaramasını temizlik neden etkiler?",
+      "answer": "Organik/inorganik kalıntılar **germisiti inaktive edebilir veya mikroorganizmayla temasını engelleyebilir**. Bu nedenle yüksek düzey dezenfeksiyon ve sterilizasyon öncesinde temizlik gerekir."
+    },
+    {
+      "id": "PER247-0hbxyj6",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Sterilizasyonun valide edilmesi neyi göstermeyi amaçlar?",
+      "answer": "Önceden tanımlanan işlem koşullarının **tekrarlanabilir biçimde hedeflenen sterilite güvencesini sağlamasını**; yalnız tek bir örnekte üreme görülmemesini değil."
+    },
+    {
+      "id": "PER247-1q6qz4e",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Biyofilm işleme sürecini hangi yoldan güçleştirir?",
+      "answer": "Yüzeye bağlı mikroorganizmaları hücre dışı matriks içinde korur ve **germisitin temasını/penetrasyonunu sınırlar**. Temizlik ve fiziksel uzaklaştırma önem kazanır."
+    },
+    {
+      "id": "PER247-02iugba",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kir görünmüyor diye atlama",
+      "body": "Gözle temiz görünme, aletin işlem için yeterince temiz olduğunu tek başına göstermez. Eklemler, oluklar ve kanallar **temizlik/inceleme sürecinde** değerlendirilir."
+    },
+    {
+      "id": "PER247-0sofl25",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Suyun sertliği de kimyasal koşuldur",
+      "body": "Sert sudaki **kalsiyum ve magnezyum gibi iyonlar**, bazı dezenfektanlarla etkileşip etkinliği azaltabilir. Dezenfeksiyon yalnız mikroorganizma türüne ve bekleme süresine bağlı değildir."
+    },
+    {
+      "id": "PER247-1jacqgd",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Bir ajanın \"bakterisid\" olması hangi etkiyi belirtir?",
+      "options": [
+        "Bakteriyi öldürmesi",
+        "Bakterinin yalnız çoğalmasını durdurması",
+        "Bakteriyi yüzeyden yıkayarak taşıması",
+        "Bakterinin çevresindeki kiri çözmesi"
+      ],
+      "correct": 0,
+      "explanation": "**-sid**, öldürücü etkiyi belirtir; yalnız üreme baskılanması bakteriyostatiktir."
+    },
+    {
+      "id": "PER247-01z18kc",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Görünür kan kalıntısı bulunan yeniden kullanılabilir alette sıradaki temel işlem hangisidir?",
+      "options": [
+        "Steril ambalajla kapatma",
+        "Uygun temizlik işlemi",
+        "Steril depoya transfer",
+        "Serbest bırakma etiketi"
+      ],
+      "correct": 1,
+      "explanation": "Kalıntıların uzaklaştırılması, sonraki dezenfeksiyon ve sterilizasyonun etkinliği için gereklidir."
+    },
+    {
+      "id": "PER247-0auzsut",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Belirli koşullarda bir D değeri kadar işlemden sonra test popülasyonunun ne kadarı kalır?",
+      "options": [
+        "Başlangıcın %50’si",
+        "Başlangıcın %90’ı",
+        "Başlangıcın %10’u",
+        "Başlangıcın %99’u"
+      ],
+      "correct": 2,
+      "explanation": "D değeri **%90 azalma**, yani başlangıcın onda birinin kalması demektir."
+    },
+    {
+      "id": "PER247-00valav",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Fungisid etki için hedef organizma grubu hangisidir?",
+      "options": [
+        "Bakteri sporları",
+        "Mikobakteriler",
+        "Virüsler",
+        "Mantarlar"
+      ],
+      "correct": 3,
+      "explanation": "Fungisid ajanlar **mantarları** ve mantar sporlarını hedefler; bakteri sporlarını öldürme iddiası sporisid terimiyle ayrılır."
+    },
+    {
+      "id": "PER247-0j5f9yw",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Bakteriyostatik etki, bakterilerin üremesini baskılamayı ifade eder.",
+      "isTrue": true,
+      "explanation": "Bakteriyostatik etki **üreme baskılanmasıdır**; bakterisid öldürücü etkiyi belirtir."
+    },
+    {
+      "id": "PER247-1es8vcq",
+      "course": "PER247",
+      "topic": "Temel kavramlar ve tarihçe",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Kontaminasyon yalnız gözle görülen kirin varlığını ifade eder.",
+      "isTrue": false,
+      "explanation": "Kontaminasyon, mikroorganizmalarla **gerçek veya potansiyel temas**tır; görünür kir bulunması şart değildir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

@@ -1,0 +1,740 @@
+{
+  "id": "review-97184a26035eefe1",
+  "title": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Perfüzyon",
+      "text": "Perfusion\nKanın/sıvının damar yatağı yoluyla dokulara ulaştırılması; KPB'de organ kanlanmasının makineyle sürdürülmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0supoza",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 3,
+        "term": "Perfüzyon",
+        "definition": "Kanın/sıvının damar yatağı yoluyla dokulara ulaştırılması; KPB'de organ kanlanmasının makineyle sürdürülmesi.",
+        "en": "Perfusion",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Klinik perfüzyonist",
+      "text": "Clinical perfusionist\nKPB ve diğer ekstrakorporeal sistemleri kuran, yöneten ve kayda geçiren sağlık profesyoneli; KPB'nin operasyonel yönetiminden sorumludur.",
+      "images": [],
+      "card": {
+        "id": "PER141-1qyuwys",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 3,
+        "term": "Klinik perfüzyonist",
+        "definition": "KPB ve diğer ekstrakorporeal sistemleri kuran, yöneten ve kayda geçiren sağlık profesyoneli; KPB'nin operasyonel yönetiminden sorumludur.",
+        "en": "Clinical perfusionist",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyopulmoner bypass (KPB)",
+      "text": "Cardiopulmonary bypass (CPB)\nKalp ve akciğerin işlevini geçici olarak vücut dışı bir devreyle üstlenen; dolaşım, solunum desteği ve sıcaklık yönetimi sağlayan ekstrakorporeal dolaşım yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1kq7166",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyopulmoner bypass (KPB)",
+        "definition": "Kalp ve akciğerin işlevini geçici olarak vücut dışı bir devreyle üstlenen; dolaşım, solunum desteği ve sıcaklık yönetimi sağlayan ekstrakorporeal dolaşım yöntemi.",
+        "en": "Cardiopulmonary bypass (CPB)",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Ekstrakorporeal dolaşım (EKD)",
+      "text": "Extracorporeal circulation (ECC)\nKanın vücut dışındaki bir devrede dolaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER141-1d6dkva",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 2,
+        "term": "Ekstrakorporeal dolaşım (EKD)",
+        "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+        "en": "Extracorporeal circulation (ECC)",
+        "source": "Türkiye Klinikleri 2012"
+      }
+    },
+    {
+      "title": "Kalp-akciğer makinesi",
+      "text": "Heart-lung machine\nKonsol, pompalar, sensörler ve tek kullanımlık setlerden oluşan KPB sistemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1v2nsm1",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 2,
+        "term": "Kalp-akciğer makinesi",
+        "definition": "Konsol, pompalar, sensörler ve tek kullanımlık setlerden oluşan KPB sistemi.",
+        "en": "Heart-lung machine",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Total bypass",
+      "text": "Total CPB\nTüm sistemik venöz dönüşün makineye alındığı KPB; sağ atriyum açılacaksa kaval turnikeler gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER141-01fzwsf",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 3,
+        "term": "Total bypass",
+        "definition": "Tüm sistemik venöz dönüşün makineye alındığı KPB; sağ atriyum açılacaksa kaval turnikeler gerekir.",
+        "en": "Total CPB",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Parsiyel bypass",
+      "text": "Partial CPB\nGenel kabul gören tanımıyla, venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği, kalbin kısmen ejeksiyon yaptığı bypass evresi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0n1qtz2",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 2,
+        "term": "Parsiyel bypass",
+        "definition": "Genel kabul gören tanımıyla, venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği, kalbin kısmen ejeksiyon yaptığı bypass evresi.",
+        "en": "Partial CPB",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Tam akım",
+      "text": "Full flow\nArteriyel pompa akımının venöz dönüşle dengelendiği ve hasta için planlanan hedef akıma ulaşıldığı durum.",
+      "images": [],
+      "card": {
+        "id": "PER141-1dwpnyp",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 2,
+        "term": "Tam akım",
+        "definition": "Arteriyel pompa akımının venöz dönüşle dengelendiği ve hasta için planlanan hedef akıma ulaşıldığı durum.",
+        "en": "Full flow",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "ECMO / ECLS",
+      "text": "Extracorporeal membrane oxygenation / life support\nVücut dışındaki membran oksijenatör ve pompa aracılığıyla uzamış kalp ve/veya akciğer desteği sağlayan sistem.",
+      "images": [],
+      "card": {
+        "id": "PER141-16yd8wp",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 2,
+        "term": "ECMO / ECLS",
+        "definition": "Vücut dışındaki membran oksijenatör ve pompa aracılığıyla uzamış kalp ve/veya akciğer desteği sağlayan sistem.",
+        "en": "Extracorporeal membrane oxygenation / life support",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Eksanguinasyon",
+      "text": "Exsanguination\nHastanın kanını kaybetmesi/devreye boşaltılması (arteriyel akım–venöz dönüş dengesizliği, santrifügal geri akış).",
+      "images": [],
+      "card": {
+        "id": "PER141-1nwl9bs",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "term",
+        "importance": 2,
+        "term": "Eksanguinasyon",
+        "definition": "Hastanın kanını kaybetmesi/devreye boşaltılması (arteriyel akım–venöz dönüş dengesizliği, santrifügal geri akış).",
+        "en": "Exsanguination",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Tam ve parsiyel bypass",
+      "text": "Total bypass\nTüm sistemik venöz dönüş devreye alınır\nSağ atriyum açılırsa kaval izolasyon gerekir\n\nParsiyel bypass\nVenöz dönüşün bir kısmı kalp-akciğerden geçer\nGenel olarak KPB'ye giriş ve ayrılmada görülür",
+      "images": [],
+      "card": {
+        "id": "PER141-1ek1wlj",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "compare",
+        "importance": 2,
+        "title": "Tam ve parsiyel bypass",
+        "left": {
+          "title": "Total bypass",
+          "points": [
+            "Tüm sistemik venöz dönüş devreye alınır",
+            "Sağ atriyum açılırsa kaval izolasyon gerekir"
+          ]
+        },
+        "right": {
+          "title": "Parsiyel bypass",
+          "points": [
+            "Venöz dönüşün bir kısmı kalp-akciğerden geçer",
+            "Genel olarak KPB'ye giriş ve ayrılmada görülür"
+          ]
+        },
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "KPB'nin cerrahiye katkısı",
+      "text": "Kardiyopulmoner bypass dolaşım ve gaz değişimini sürdürerek cerraha **kansız çalışma alanı** sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ryxnsk",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "fact",
+        "importance": 3,
+        "title": "KPB'nin cerrahiye katkısı",
+        "body": "Kardiyopulmoner bypass dolaşım ve gaz değişimini sürdürerek cerraha **kansız çalışma alanı** sağlar.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Operasyonel sorumluluk",
+      "text": "KPB hizmetinin ve devresinin operasyonel yönetimi **klinik perfüzyonistin** sorumluluğundadır; kararlar multidisipliner ekiple paylaşılır.",
+      "images": [],
+      "card": {
+        "id": "PER141-17q9z78",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "fact",
+        "importance": 3,
+        "title": "Operasyonel sorumluluk",
+        "body": "KPB hizmetinin ve devresinin operasyonel yönetimi **klinik perfüzyonistin** sorumluluğundadır; kararlar multidisipliner ekiple paylaşılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Tekniklerin kapsamı",
+      "text": "Perfüzyon hizmeti yalnız KPB'yi kapsamaz; miyokard koruma, otolog kan kurtarma ve uzamış mekanik dolaşım desteği de bu kapsamda yer alır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1p37gqm",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "fact",
+        "importance": 2,
+        "title": "Tekniklerin kapsamı",
+        "body": "Perfüzyon hizmeti yalnız KPB'yi kapsamaz; miyokard koruma, otolog kan kurtarma ve uzamış mekanik dolaşım desteği de bu kapsamda yer alır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Mesleki yeterlilik",
+      "text": "EACTS 2024, formal akredite eğitim, sınavla sertifikasyon ve sürekli mesleki gelişimi önerir. Mesleki yetkinlik eğitim sonrasında da sürdürülür.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mt722y",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "fact",
+        "importance": 2,
+        "title": "Mesleki yeterlilik",
+        "body": "EACTS 2024, formal akredite eğitim, sınavla sertifikasyon ve sürekli mesleki gelişimi önerir. Mesleki yetkinlik eğitim sonrasında da sürdürülür.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Simülasyonun amacı",
+      "text": "Perfüzyon eğitiminde **simülasyon**, kritik durumlara hazırlanmayı ve devreyle ilgili becerileri gerçek hasta dışında geliştirmeyi destekler.",
+      "images": [],
+      "card": {
+        "id": "PER141-0vqboto",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "fact",
+        "importance": 2,
+        "title": "Simülasyonun amacı",
+        "body": "Perfüzyon eğitiminde **simülasyon**, kritik durumlara hazırlanmayı ve devreyle ilgili becerileri gerçek hasta dışında geliştirmeyi destekler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel pompa akımı azalırken venöz drenaj aynı kalırsa hangi tehlike doğar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0f9zn34",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "flip",
+        "importance": 3,
+        "question": "Arteriyel pompa akımı azalırken venöz drenaj aynı kalırsa hangi tehlike doğar?",
+        "answer": "Hastadan devreye alınan kan geri verilenden fazla olur; hasta aşırı boşaltılarak **eksanguinasyon** gelişebilir.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Venöz dönüş azalınca arteriyel pompa akımı neden azaltılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1tlrvcx",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "flip",
+        "importance": 3,
+        "question": "Venöz dönüş azalınca arteriyel pompa akımı neden azaltılır?",
+        "answer": "Rezervuara gelen kan azalırken aynı çıkış sürerse rezervuar boşalır ve arteriyel devreye hava girebilir.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Perfüzyonda olay raporlamasının eğitim açısından amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1y91bde",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "flip",
+        "importance": 2,
+        "question": "Perfüzyonda olay raporlamasının eğitim açısından amacı nedir?",
+        "answer": "Hata ve istenmeyen olayları analiz ederek tekrarlama riskini azaltmak ve kurumun kalite süreçlerini geliştirmek.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dolaşımın iki yönünü birlikte yönet",
+      "text": "Arteriyel çıkış ile venöz dönüş dengesi bozulursa hasta veya rezervuar aşırı boşalabilir. **Akım değişikliği ekip iletişimiyle** yürütülür.",
+      "images": [],
+      "card": {
+        "id": "PER141-00fqx1g",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "remember",
+        "importance": 3,
+        "title": "Dolaşımın iki yönünü birlikte yönet",
+        "body": "Arteriyel çıkış ile venöz dönüş dengesi bozulursa hasta veya rezervuar aşırı boşalabilir. **Akım değişikliği ekip iletişimiyle** yürütülür.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Güvenli KPB'nin temel ekip yapısı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0crksq4",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Güvenli KPB'nin temel ekip yapısı hangisidir?",
+        "options": [
+          "Cerrah, anestezist ve perfüzyonist",
+          "Cerrah, radyolog ve diyetisyen",
+          "Anestezist, patolog ve fizyoterapist",
+          "Perfüzyonist, eczacı ve odyolog"
+        ],
+        "correct": 0,
+        "explanation": "KPB cerrahi, anestezi ve perfüzyon ekibinin koordineli çalışmasını gerektirir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Sözlü komutun alıcı tarafından tekrar edilip doğrulanması hangi iletişim biçimidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-08r1yro",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Sözlü komutun alıcı tarafından tekrar edilip doğrulanması hangi iletişim biçimidir?",
+        "options": [
+          "Tek yönlü iletişim",
+          "Kapalı döngü iletişim",
+          "Gecikmeli yazılı bildirim",
+          "Sessiz devir-teslim"
+        ],
+        "correct": 1,
+        "explanation": "Kapalı döngü iletişimde komutun doğru anlaşıldığı ekip tarafından teyit edilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Perfüzyon biriminde güvenli uygulamaları standartlaştıran belge hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-04kwzpz",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Perfüzyon biriminde güvenli uygulamaları standartlaştıran belge hangisidir?",
+        "options": [
+          "Hasta ziyaret çizelgesi",
+          "Cihaz satın alma faturası",
+          "Standart çalışma prosedürü",
+          "Nöbet yemek listesi"
+        ],
+        "correct": 2,
+        "explanation": "Standart çalışma prosedürü kurumdaki perfüzyon uygulamasını tanımlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Perfüzyonistin mesleki gelişimi sertifikasyon sonrası da sürdürülmelidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1dnln8a",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Perfüzyonistin mesleki gelişimi sertifikasyon sonrası da sürdürülmelidir.",
+        "isTrue": true,
+        "explanation": "EACTS 2024, sertifikasyonla birlikte sürekli mesleki gelişimi önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB'nin operasyonel yönetiminden klinik perfüzyonist sorumludur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-12lqhh4",
+        "course": "PER141",
+        "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+        "type": "tf",
+        "importance": 2,
+        "statement": "KPB'nin operasyonel yönetiminden klinik perfüzyonist sorumludur.",
+        "isTrue": true,
+        "explanation": "Perfüzyonist, multidisipliner ekibin üyesi olarak KPB'nin operasyonel yönetimini üstlenir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0supoza",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 3,
+      "term": "Perfüzyon",
+      "definition": "Kanın/sıvının damar yatağı yoluyla dokulara ulaştırılması; KPB'de organ kanlanmasının makineyle sürdürülmesi.",
+      "en": "Perfusion",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1qyuwys",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 3,
+      "term": "Klinik perfüzyonist",
+      "definition": "KPB ve diğer ekstrakorporeal sistemleri kuran, yöneten ve kayda geçiren sağlık profesyoneli; KPB'nin operasyonel yönetiminden sorumludur.",
+      "en": "Clinical perfusionist",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1kq7166",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyopulmoner bypass (KPB)",
+      "definition": "Kalp ve akciğerin işlevini geçici olarak vücut dışı bir devreyle üstlenen; dolaşım, solunum desteği ve sıcaklık yönetimi sağlayan ekstrakorporeal dolaşım yöntemi.",
+      "en": "Cardiopulmonary bypass (CPB)",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1d6dkva",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 2,
+      "term": "Ekstrakorporeal dolaşım (EKD)",
+      "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+      "en": "Extracorporeal circulation (ECC)",
+      "source": "Türkiye Klinikleri 2012"
+    },
+    {
+      "id": "PER141-1v2nsm1",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 2,
+      "term": "Kalp-akciğer makinesi",
+      "definition": "Konsol, pompalar, sensörler ve tek kullanımlık setlerden oluşan KPB sistemi.",
+      "en": "Heart-lung machine",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-01fzwsf",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 3,
+      "term": "Total bypass",
+      "definition": "Tüm sistemik venöz dönüşün makineye alındığı KPB; sağ atriyum açılacaksa kaval turnikeler gerekir.",
+      "en": "Total CPB",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0n1qtz2",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 2,
+      "term": "Parsiyel bypass",
+      "definition": "Genel kabul gören tanımıyla, venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği, kalbin kısmen ejeksiyon yaptığı bypass evresi.",
+      "en": "Partial CPB",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1dwpnyp",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 2,
+      "term": "Tam akım",
+      "definition": "Arteriyel pompa akımının venöz dönüşle dengelendiği ve hasta için planlanan hedef akıma ulaşıldığı durum.",
+      "en": "Full flow",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-16yd8wp",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 2,
+      "term": "ECMO / ECLS",
+      "definition": "Vücut dışındaki membran oksijenatör ve pompa aracılığıyla uzamış kalp ve/veya akciğer desteği sağlayan sistem.",
+      "en": "Extracorporeal membrane oxygenation / life support",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1nwl9bs",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "term",
+      "importance": 2,
+      "term": "Eksanguinasyon",
+      "definition": "Hastanın kanını kaybetmesi/devreye boşaltılması (arteriyel akım–venöz dönüş dengesizliği, santrifügal geri akış).",
+      "en": "Exsanguination",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1ek1wlj",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "compare",
+      "importance": 2,
+      "title": "Tam ve parsiyel bypass",
+      "left": {
+        "title": "Total bypass",
+        "points": [
+          "Tüm sistemik venöz dönüş devreye alınır",
+          "Sağ atriyum açılırsa kaval izolasyon gerekir"
+        ]
+      },
+      "right": {
+        "title": "Parsiyel bypass",
+        "points": [
+          "Venöz dönüşün bir kısmı kalp-akciğerden geçer",
+          "Genel olarak KPB'ye giriş ve ayrılmada görülür"
+        ]
+      },
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1ryxnsk",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "fact",
+      "importance": 3,
+      "title": "KPB'nin cerrahiye katkısı",
+      "body": "Kardiyopulmoner bypass dolaşım ve gaz değişimini sürdürerek cerraha **kansız çalışma alanı** sağlar.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-17q9z78",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "fact",
+      "importance": 3,
+      "title": "Operasyonel sorumluluk",
+      "body": "KPB hizmetinin ve devresinin operasyonel yönetimi **klinik perfüzyonistin** sorumluluğundadır; kararlar multidisipliner ekiple paylaşılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1p37gqm",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "fact",
+      "importance": 2,
+      "title": "Tekniklerin kapsamı",
+      "body": "Perfüzyon hizmeti yalnız KPB'yi kapsamaz; miyokard koruma, otolog kan kurtarma ve uzamış mekanik dolaşım desteği de bu kapsamda yer alır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1mt722y",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "fact",
+      "importance": 2,
+      "title": "Mesleki yeterlilik",
+      "body": "EACTS 2024, formal akredite eğitim, sınavla sertifikasyon ve sürekli mesleki gelişimi önerir. Mesleki yetkinlik eğitim sonrasında da sürdürülür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0vqboto",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "fact",
+      "importance": 2,
+      "title": "Simülasyonun amacı",
+      "body": "Perfüzyon eğitiminde **simülasyon**, kritik durumlara hazırlanmayı ve devreyle ilgili becerileri gerçek hasta dışında geliştirmeyi destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0f9zn34",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "flip",
+      "importance": 3,
+      "question": "Arteriyel pompa akımı azalırken venöz drenaj aynı kalırsa hangi tehlike doğar?",
+      "answer": "Hastadan devreye alınan kan geri verilenden fazla olur; hasta aşırı boşaltılarak **eksanguinasyon** gelişebilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1tlrvcx",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "flip",
+      "importance": 3,
+      "question": "Venöz dönüş azalınca arteriyel pompa akımı neden azaltılır?",
+      "answer": "Rezervuara gelen kan azalırken aynı çıkış sürerse rezervuar boşalır ve arteriyel devreye hava girebilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1y91bde",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "flip",
+      "importance": 2,
+      "question": "Perfüzyonda olay raporlamasının eğitim açısından amacı nedir?",
+      "answer": "Hata ve istenmeyen olayları analiz ederek tekrarlama riskini azaltmak ve kurumun kalite süreçlerini geliştirmek.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-00fqx1g",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "remember",
+      "importance": 3,
+      "title": "Dolaşımın iki yönünü birlikte yönet",
+      "body": "Arteriyel çıkış ile venöz dönüş dengesi bozulursa hasta veya rezervuar aşırı boşalabilir. **Akım değişikliği ekip iletişimiyle** yürütülür.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0crksq4",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Güvenli KPB'nin temel ekip yapısı hangisidir?",
+      "options": [
+        "Cerrah, anestezist ve perfüzyonist",
+        "Cerrah, radyolog ve diyetisyen",
+        "Anestezist, patolog ve fizyoterapist",
+        "Perfüzyonist, eczacı ve odyolog"
+      ],
+      "correct": 0,
+      "explanation": "KPB cerrahi, anestezi ve perfüzyon ekibinin koordineli çalışmasını gerektirir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-08r1yro",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sözlü komutun alıcı tarafından tekrar edilip doğrulanması hangi iletişim biçimidir?",
+      "options": [
+        "Tek yönlü iletişim",
+        "Kapalı döngü iletişim",
+        "Gecikmeli yazılı bildirim",
+        "Sessiz devir-teslim"
+      ],
+      "correct": 1,
+      "explanation": "Kapalı döngü iletişimde komutun doğru anlaşıldığı ekip tarafından teyit edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-04kwzpz",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Perfüzyon biriminde güvenli uygulamaları standartlaştıran belge hangisidir?",
+      "options": [
+        "Hasta ziyaret çizelgesi",
+        "Cihaz satın alma faturası",
+        "Standart çalışma prosedürü",
+        "Nöbet yemek listesi"
+      ],
+      "correct": 2,
+      "explanation": "Standart çalışma prosedürü kurumdaki perfüzyon uygulamasını tanımlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1dnln8a",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Perfüzyonistin mesleki gelişimi sertifikasyon sonrası da sürdürülmelidir.",
+      "isTrue": true,
+      "explanation": "EACTS 2024, sertifikasyonla birlikte sürekli mesleki gelişimi önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-12lqhh4",
+      "course": "PER141",
+      "topic": "Perfüzyonun tanımı ve perfüzyonistin rolü",
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB'nin operasyonel yönetiminden klinik perfüzyonist sorumludur.",
+      "isTrue": true,
+      "explanation": "Perfüzyonist, multidisipliner ekibin üyesi olarak KPB'nin operasyonel yönetimini üstlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

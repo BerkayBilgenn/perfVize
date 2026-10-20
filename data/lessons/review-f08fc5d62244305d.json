@@ -1,0 +1,951 @@
+{
+  "id": "review-f08fc5d62244305d",
+  "title": "Kanülasyon stratejileri",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kanül",
+      "text": "Cannula\nECLS'de doğrudan damara yerleştirilen büyük kateter.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bqo2bd",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Kanül",
+        "en": "Cannula",
+        "definition": "ECLS'de doğrudan damara yerleştirilen büyük kateter.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Drenaj kanülü",
+      "text": "Drainage (access) cannula\nHastadan devreye kan alan kanül; adlandırmada tireden önce yazılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0acfz87",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Drenaj kanülü",
+        "en": "Drainage (access) cannula",
+        "definition": "Hastadan devreye kan alan kanül; adlandırmada tireden önce yazılır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Dönüş kanülü",
+      "text": "Return cannula\nDevreden hastaya kan veren kanül; tireden sonra yazılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-05ynp80",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Dönüş kanülü",
+        "en": "Return cannula",
+        "definition": "Devreden hastaya kan veren kanül; tireden sonra yazılır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "French",
+      "text": "French gauge\nKanül veya kateterin dış çapını ifade eden ölçü birimi. Maastricht adlandırmasında kanül boyutu bu birimle bildirilebilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1w5mqft",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "French",
+        "en": "French gauge",
+        "definition": "Kanül veya kateterin dış çapını ifade eden ölçü birimi. Maastricht adlandırmasında kanül boyutu bu birimle bildirilebilir.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Seldinger tekniği",
+      "text": "Seldinger technique\nİğneyle ponksiyon – kılavuz tel – seri dilatasyon – kanül yerleştirme.",
+      "images": [],
+      "card": {
+        "id": "PER207-1jnar8l",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 2,
+        "term": "Seldinger tekniği",
+        "en": "Seldinger technique",
+        "definition": "İğneyle ponksiyon – kılavuz tel – seri dilatasyon – kanül yerleştirme.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Yarı-Seldinger",
+      "text": "Semi-Seldinger\nDamar cut-down ile görülüp ciltten Seldinger ile kanüle edilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0qib7gs",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Yarı-Seldinger",
+        "en": "Semi-Seldinger",
+        "definition": "Damar cut-down ile görülüp ciltten Seldinger ile kanüle edilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Cut-down",
+      "text": "Surgical cut-down\nDamarın cerrahi olarak açılıp doğrudan kanüle edilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1xm3g5y",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Cut-down",
+        "en": "Surgical cut-down",
+        "definition": "Damarın cerrahi olarak açılıp doğrudan kanüle edilmesi.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Periferik kanülasyon",
+      "text": "Peripheral cannulation\nGöğüs/karın boşluğu dışındaki damarlara (femoral, juguler, aksiller) kanülasyon.",
+      "images": [],
+      "card": {
+        "id": "PER207-1g0048k",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 2,
+        "term": "Periferik kanülasyon",
+        "en": "Peripheral cannulation",
+        "definition": "Göğüs/karın boşluğu dışındaki damarlara (femoral, juguler, aksiller) kanülasyon.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Santral kanülasyon",
+      "text": "Central cannulation\nKalp, intratorasik aort veya pulmoner artere sternotomi/torakotomiyle kanülasyon.",
+      "images": [],
+      "card": {
+        "id": "PER207-084n80i",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 2,
+        "term": "Santral kanülasyon",
+        "en": "Central cannulation",
+        "definition": "Kalp, intratorasik aort veya pulmoner artere sternotomi/torakotomiyle kanülasyon.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Çift lümenli kanül",
+      "text": "Dual-lumen cannula\nDrenaj ve dönüş lümenini tek kanülde birleştiren VV kanülü; bikaval tipte RIJ'den yerleştirilir, dönüş jeti triküspite yönelir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0kw28y2",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 2,
+        "term": "Çift lümenli kanül",
+        "en": "Dual-lumen cannula",
+        "definition": "Drenaj ve dönüş lümenini tek kanülde birleştiren VV kanülü; bikaval tipte RIJ'den yerleştirilir, dönüş jeti triküspite yönelir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Distal perfüzyon kanülü",
+      "text": "Distal perfusion cannula\nFemoral arteriyel ECMO kanülünün distalindeki ekstremiteye kan ulaştırmak amacıyla yerleştirilen ek kanül.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ezp8hp",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 3,
+        "term": "Distal perfüzyon kanülü",
+        "en": "Distal perfusion cannula",
+        "definition": "Femoral arteriyel ECMO kanülünün distalindeki ekstremiteye kan ulaştırmak amacıyla yerleştirilen ek kanül.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Sefalik kanül",
+      "text": "Cephalad (jugular bulb) cannula\nİç juguler vene kafa yönünde konan, drenajı artırıp serebral venöz konjesyonu azaltan kanül (yenidoğan).",
+      "images": [],
+      "card": {
+        "id": "PER207-1k1dhqq",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Sefalik kanül",
+        "en": "Cephalad (jugular bulb) cannula",
+        "definition": "İç juguler vene kafa yönünde konan, drenajı artırıp serebral venöz konjesyonu azaltan kanül (yenidoğan).",
+        "source": "ELSO Neonatal 2013"
+      }
+    },
+    {
+      "title": "Chimney greft",
+      "text": "Chimney graft\nAksiller/subklavyen artere uç-yan dikilen greft üzerinden arteriyel kanülasyon; kol hiperperfüzyonu riski.",
+      "images": [],
+      "card": {
+        "id": "PER207-1kk3phe",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 1,
+        "term": "Chimney greft",
+        "en": "Chimney graft",
+        "definition": "Aksiller/subklavyen artere uç-yan dikilen greft üzerinden arteriyel kanülasyon; kol hiperperfüzyonu riski.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "NIRS",
+      "text": "Near-infrared spectroscopy\nYakın kızılötesi ışıkla beyin/bacak doku oksijenasyonunun izlenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-01nxm37",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "term",
+        "importance": 2,
+        "term": "NIRS",
+        "en": "Near-infrared spectroscopy",
+        "definition": "Yakın kızılötesi ışıkla beyin/bacak doku oksijenasyonunun izlenmesi.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Kanülasyonun anatomik yeri",
+      "text": "Periferik\nFemoral, juguler veya aksiller damarlar\nGöğüs boşluğu dışında erişim\n\nSantral\nKalp veya intratorasik büyük damarlar\nSternotomi ya da torakotomiyle erişim",
+      "images": [],
+      "card": {
+        "id": "PER207-0vvubre",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kanülasyonun anatomik yeri",
+        "left": {
+          "title": "Periferik",
+          "points": [
+            "Femoral, juguler veya aksiller damarlar",
+            "Göğüs boşluğu dışında erişim"
+          ]
+        },
+        "right": {
+          "title": "Santral",
+          "points": [
+            "Kalp veya intratorasik büyük damarlar",
+            "Sternotomi ya da torakotomiyle erişim"
+          ]
+        },
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Kanül direnci ve Poiseuille yasası",
+      "text": "Kanül direnci uzunlukla doğru, yarıçapın **dördüncü kuvvetiyle** ters orantılıdır. Bu yüzden iç çap en önemli belirleyicidir; elde edilebilecek toplam akımı **drenaj kanülünün** direnci belirler.",
+      "images": [],
+      "card": {
+        "id": "PER207-15m49z0",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kanül direnci ve Poiseuille yasası",
+        "body": "Kanül direnci uzunlukla doğru, yarıçapın **dördüncü kuvvetiyle** ters orantılıdır. Bu yüzden iç çap en önemli belirleyicidir; elde edilebilecek toplam akımı **drenaj kanülünün** direnci belirler.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Femoral VA kanülasyonunda yerleşim",
+      "text": "En sık inguinal ligamanın altında, bifurkasyonun üstünde ana femoral arter ve ven kullanılır. Kanülleri ayrı bacaklara koymak tercih edilir; venöz kanül için IVC'ye daha düz yol olduğundan **sağ femoral ven** seçilir. Ultrason kılavuzluğu önerilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0794th4",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Femoral VA kanülasyonunda yerleşim",
+        "body": "En sık inguinal ligamanın altında, bifurkasyonun üstünde ana femoral arter ve ven kullanılır. Kanülleri ayrı bacaklara koymak tercih edilir; venöz kanül için IVC'ye daha düz yol olduğundan **sağ femoral ven** seçilir. Ultrason kılavuzluğu önerilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Distal perfüzyon kanülünün izlenmesi",
+      "text": "NIRS ile bacakta doku satürasyonu **> %50 (tercihen > %60)** ve iki bacak arası fark < %20 hedeflenir; kanül akımı ≥ 100 mL/dk ölçülebilir. Alternatif olarak dorsalis pedis veya posterior tibial artere retrograd perfüzyon yapılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-185pnpt",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Distal perfüzyon kanülünün izlenmesi",
+        "body": "NIRS ile bacakta doku satürasyonu **> %50 (tercihen > %60)** ve iki bacak arası fark < %20 hedeflenir; kanül akımı ≥ 100 mL/dk ölçülebilir. Alternatif olarak dorsalis pedis veya posterior tibial artere retrograd perfüzyon yapılabilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Bikaval çift lümenli kanülün artı ve eksileri",
+      "text": "Sağ internal juguler venden takılan tek kanülün en büyük avantajı **mobilizasyondur**. Dezavantajları: zor yerleştirme, kanülün yer değiştirmesi, serebral venöz konjesyon ve çıkarılırken hava embolisi riski.",
+      "images": [],
+      "card": {
+        "id": "PER207-0q99zmy",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Bikaval çift lümenli kanülün artı ve eksileri",
+        "body": "Sağ internal juguler venden takılan tek kanülün en büyük avantajı **mobilizasyondur**. Dezavantajları: zor yerleştirme, kanülün yer değiştirmesi, serebral venöz konjesyon ve çıkarılırken hava embolisi riski.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Yenidoğanda boyun kanülasyonu",
+      "text": "Yenidoğanda kanülasyon genellikle boyun damarlarına cut-down ile yapılır: sağ internal juguler ven + sağ ana karotis arter. VA'da venöz 10/12/14 Fr ve arteriyel 8/10 Fr, VV'de 12–16 Fr çift lümenli kanül kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0v2djth",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Yenidoğanda boyun kanülasyonu",
+        "body": "Yenidoğanda kanülasyon genellikle boyun damarlarına cut-down ile yapılır: sağ internal juguler ven + sağ ana karotis arter. VA'da venöz 10/12/14 Fr ve arteriyel 8/10 Fr, VV'de 12–16 Fr çift lümenli kanül kullanılır.",
+        "source": "ELSO neonatal 2013; ELSO 2017"
+      }
+    },
+    {
+      "title": "Femoral arteriyel kanülasyonla VA ECMO'da aynı taraf bacak iskemisini önlemek için önerilen uygulama hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0xdxzzr",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Femoral arteriyel kanülasyonla VA ECMO'da aynı taraf bacak iskemisini önlemek için önerilen uygulama hangisidir?",
+        "options": [
+          "Aynı bacağa distal perfüzyon kanülü takmak",
+          "Arteriyel kanülü daha büyük (19–21 Fr) seçmek",
+          "Arteriyel ve venöz kanülü aynı bacağa koymak",
+          "ECMO akımını olabildiğince düşük tutmak"
+        ],
+        "correct": 0,
+        "explanation": "6–8 Fr distal perfüzyon kanülü süperfisiyal femoral artere takılır ve ECMO başlangıcında yerleştirilmelidir. Büyük arteriyel kanül ekstremite iskemisini artırır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "ELSO VA 2021’de erişkin femoral dönüş için çoğu zaman yeterli olabileceği belirtilen arteriyel kanül boyutu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1yg27rf",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO VA 2021’de erişkin femoral dönüş için çoğu zaman yeterli olabileceği belirtilen arteriyel kanül boyutu hangisidir?",
+        "options": [
+          "8–10 Fr",
+          "15–17 Fr",
+          "25–29 Fr",
+          "6–8 Fr"
+        ],
+        "correct": 1,
+        "explanation": "Kılavuz 15–17 Fr kanüllerin sıklıkla yeterli olabileceğini, yüksek debi ihtiyacında daha büyük boyutların gerekebileceğini belirtir. Bu tarihli genel örnek damar anatomisi ve gereken akıma göre bireyselleştirilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Bikaval çift lümenli VV kanülü yerleştirilirken hangi görüntüleme yöntemi gerekir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1j4layn",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Bikaval çift lümenli VV kanülü yerleştirilirken hangi görüntüleme yöntemi gerekir?",
+        "options": [
+          "Yalnız akciğer grafisi",
+          "Bilgisayarlı tomografi",
+          "Canlı floroskopi veya TEE",
+          "Yalnız yüzeyel Doppler ultrason"
+        ],
+        "correct": 2,
+        "explanation": "Kılavuz tel sağ ventriküle girerse ölümcül perforasyon olabilir; bu yüzden yerleştirme canlı floroskopi ya da transözofageal ekokardiyografi (TEE) eşliğinde yapılır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Santral VA ECMO kanülasyonunun (aort + sağ atriyum) periferik kanülasyona göre dezavantajı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0m2iclq",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Santral VA ECMO kanülasyonunun (aort + sağ atriyum) periferik kanülasyona göre dezavantajı hangisidir?",
+        "options": [
+          "Daha kötü venöz drenaj sağlaması",
+          "Femoral bacak iskemisi riskinin artması",
+          "Retrograd aortik akım ve Harlequin riski",
+          "Fazla kanama/enfeksiyon ve resternotomi gereği"
+        ],
+        "correct": 3,
+        "explanation": "Santral kanülasyon antegrad akım, daha iyi drenaj ve daha az diferansiyel oksijenasyon sağlar. Diğer şıklar periferik (femoral) kanülasyonun sorunlarıdır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "ELSO VV 2021’in yaklaşık 180 cm boyundaki erişkin örneğinde çoğu zaman uygun görülen drenaj kanülü boyutu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1h7zdpt",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO VV 2021’in yaklaşık 180 cm boyundaki erişkin örneğinde çoğu zaman uygun görülen drenaj kanülü boyutu hangisidir?",
+        "options": [
+          "25 Fr",
+          "15 Fr",
+          "19 Fr",
+          "8 Fr"
+        ],
+        "correct": 0,
+        "explanation": "ELSO 2021’in örneğinde 25 Fr drenaj kanülü kullanılır; daha ağır hastalıkta daha büyük kanül gerekebilir. Boyut hastanın damar anatomisi, gereken akım ve cihaz özellikleriyle birlikte seçilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Femoral VA ECMO'da distal perfüzyon kanülü nereye, hangi boyutta ve ne zaman takılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1z0u05q",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "flip",
+        "importance": 3,
+        "question": "Femoral VA ECMO'da distal perfüzyon kanülü nereye, hangi boyutta ve ne zaman takılır?",
+        "answer": "Aynı taraf bacağın **süperfisiyal femoral arterine** 6–8 Fr kısa zırhlı kanül olarak takılır ve ana arteriyel kanülün yan portuna bağlanır. ECMO başlangıcında yerleştirilmelidir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VV ECMO'da üç ana kanülasyon stratejisi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0bpmspw",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "flip",
+        "importance": 2,
+        "question": "VV ECMO'da üç ana kanülasyon stratejisi nedir?",
+        "answer": "(1) Tek lümenli iki kanül: femoral venden IVC'ye drenaj + internal juguler venden sağ atriyuma dönüş. (2) Sağ internal juguler venden bikaval çift lümenli tek kanül. (3) Bifemoral venöz kanülasyon.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ECMO'da kullanılan dört kanülasyon yöntemi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-019fk1o",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "flip",
+        "importance": 1,
+        "question": "ECMO'da kullanılan dört kanülasyon yöntemi nedir?",
+        "answer": "(1) Cerrahi açma (cut-down), (2) perkütan Seldinger tekniği, (3) yarı-Seldinger, (4) sternotomi veya torakotomiyle doğrudan sağ atriyum-aort (santral) kanülasyonu.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Erişkinde karotis arter kanülasyonu beyin hasarı riski nedeniyle son çare kabul edilir; çocuklarda daha sık kullanılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0dlropi",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Erişkinde karotis arter kanülasyonu beyin hasarı riski nedeniyle son çare kabul edilir; çocuklarda daha sık kullanılır.",
+        "isTrue": true,
+        "explanation": "Erişkinde femoral veya aksiller/subklavyen arter tercih edilir; yenidoğan ve çocuklarda boyun kanülasyonu yaygındır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "ECMO'da antikoagülasyon planı, hastanın kanama ve devrenin tromboz riskleri birlikte değerlendirilerek oluşturulur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1k9s4sb",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "tf",
+        "importance": 3,
+        "statement": "ECMO'da antikoagülasyon planı, hastanın kanama ve devrenin tromboz riskleri birlikte değerlendirilerek oluşturulur.",
+        "isTrue": true,
+        "explanation": "ELSO 2021 bireyselleştirilmiş izlem önerir. Aşırı kanamada heparine ara verilebilir; bu durumda devrede pıhtı yükü ve yeniden başlama gereği izlenir.",
+        "source": "ELSO antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Kanülasyonda spontan solunum riski",
+      "text": "Damarın açık olduğu kanülasyon aşamasında inspiratuvar negatif basınç **hava girişini** kolaylaştırabilir. Sedasyon, ventilasyon ve gerektiğinde kas gevşetici yaklaşımı işlem tekniği ve hastanın durumuna göre planlanır; bütün hastalar için tek zorunlu reçete değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-10fk2q7",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "remember",
+        "importance": 2,
+        "title": "Kanülasyonda spontan solunum riski",
+        "body": "Damarın açık olduğu kanülasyon aşamasında inspiratuvar negatif basınç **hava girişini** kolaylaştırabilir. Sedasyon, ventilasyon ve gerektiğinde kas gevşetici yaklaşımı işlem tekniği ve hastanın durumuna göre planlanır; bütün hastalar için tek zorunlu reçete değildir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Çift lümenli kanülün dönüş jetini ekokardiyografide izlemek neyi doğrular?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-19anewq",
+        "course": "PER207",
+        "topic": "Kanülasyon stratejileri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Çift lümenli kanülün dönüş jetini ekokardiyografide izlemek neyi doğrular?",
+        "answer": "Oksijenli kan jetinin **triküspit kapağa yöneldiğini** doğrular; uygunsuz yön, etkin destek kaybı ve resirkülasyon oluşturabilir.",
+        "source": "ELSO VV 2021"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1bqo2bd",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Kanül",
+      "en": "Cannula",
+      "definition": "ECLS'de doğrudan damara yerleştirilen büyük kateter.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0acfz87",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Drenaj kanülü",
+      "en": "Drainage (access) cannula",
+      "definition": "Hastadan devreye kan alan kanül; adlandırmada tireden önce yazılır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-05ynp80",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Dönüş kanülü",
+      "en": "Return cannula",
+      "definition": "Devreden hastaya kan veren kanül; tireden sonra yazılır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1w5mqft",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "French",
+      "en": "French gauge",
+      "definition": "Kanül veya kateterin dış çapını ifade eden ölçü birimi. Maastricht adlandırmasında kanül boyutu bu birimle bildirilebilir.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-1jnar8l",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 2,
+      "term": "Seldinger tekniği",
+      "en": "Seldinger technique",
+      "definition": "İğneyle ponksiyon – kılavuz tel – seri dilatasyon – kanül yerleştirme.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0qib7gs",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Yarı-Seldinger",
+      "en": "Semi-Seldinger",
+      "definition": "Damar cut-down ile görülüp ciltten Seldinger ile kanüle edilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1xm3g5y",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Cut-down",
+      "en": "Surgical cut-down",
+      "definition": "Damarın cerrahi olarak açılıp doğrudan kanüle edilmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1g0048k",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 2,
+      "term": "Periferik kanülasyon",
+      "en": "Peripheral cannulation",
+      "definition": "Göğüs/karın boşluğu dışındaki damarlara (femoral, juguler, aksiller) kanülasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-084n80i",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 2,
+      "term": "Santral kanülasyon",
+      "en": "Central cannulation",
+      "definition": "Kalp, intratorasik aort veya pulmoner artere sternotomi/torakotomiyle kanülasyon.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-0kw28y2",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 2,
+      "term": "Çift lümenli kanül",
+      "en": "Dual-lumen cannula",
+      "definition": "Drenaj ve dönüş lümenini tek kanülde birleştiren VV kanülü; bikaval tipte RIJ'den yerleştirilir, dönüş jeti triküspite yönelir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0ezp8hp",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 3,
+      "term": "Distal perfüzyon kanülü",
+      "en": "Distal perfusion cannula",
+      "definition": "Femoral arteriyel ECMO kanülünün distalindeki ekstremiteye kan ulaştırmak amacıyla yerleştirilen ek kanül.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1k1dhqq",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Sefalik kanül",
+      "en": "Cephalad (jugular bulb) cannula",
+      "definition": "İç juguler vene kafa yönünde konan, drenajı artırıp serebral venöz konjesyonu azaltan kanül (yenidoğan).",
+      "source": "ELSO Neonatal 2013"
+    },
+    {
+      "id": "PER207-1kk3phe",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 1,
+      "term": "Chimney greft",
+      "en": "Chimney graft",
+      "definition": "Aksiller/subklavyen artere uç-yan dikilen greft üzerinden arteriyel kanülasyon; kol hiperperfüzyonu riski.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-01nxm37",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "term",
+      "importance": 2,
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Yakın kızılötesi ışıkla beyin/bacak doku oksijenasyonunun izlenmesi.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0vvubre",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kanülasyonun anatomik yeri",
+      "left": {
+        "title": "Periferik",
+        "points": [
+          "Femoral, juguler veya aksiller damarlar",
+          "Göğüs boşluğu dışında erişim"
+        ]
+      },
+      "right": {
+        "title": "Santral",
+        "points": [
+          "Kalp veya intratorasik büyük damarlar",
+          "Sternotomi ya da torakotomiyle erişim"
+        ]
+      },
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-15m49z0",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül direnci ve Poiseuille yasası",
+      "body": "Kanül direnci uzunlukla doğru, yarıçapın **dördüncü kuvvetiyle** ters orantılıdır. Bu yüzden iç çap en önemli belirleyicidir; elde edilebilecek toplam akımı **drenaj kanülünün** direnci belirler.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0794th4",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Femoral VA kanülasyonunda yerleşim",
+      "body": "En sık inguinal ligamanın altında, bifurkasyonun üstünde ana femoral arter ve ven kullanılır. Kanülleri ayrı bacaklara koymak tercih edilir; venöz kanül için IVC'ye daha düz yol olduğundan **sağ femoral ven** seçilir. Ultrason kılavuzluğu önerilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-185pnpt",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Distal perfüzyon kanülünün izlenmesi",
+      "body": "NIRS ile bacakta doku satürasyonu **> %50 (tercihen > %60)** ve iki bacak arası fark < %20 hedeflenir; kanül akımı ≥ 100 mL/dk ölçülebilir. Alternatif olarak dorsalis pedis veya posterior tibial artere retrograd perfüzyon yapılabilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0q99zmy",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Bikaval çift lümenli kanülün artı ve eksileri",
+      "body": "Sağ internal juguler venden takılan tek kanülün en büyük avantajı **mobilizasyondur**. Dezavantajları: zor yerleştirme, kanülün yer değiştirmesi, serebral venöz konjesyon ve çıkarılırken hava embolisi riski.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0v2djth",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Yenidoğanda boyun kanülasyonu",
+      "body": "Yenidoğanda kanülasyon genellikle boyun damarlarına cut-down ile yapılır: sağ internal juguler ven + sağ ana karotis arter. VA'da venöz 10/12/14 Fr ve arteriyel 8/10 Fr, VV'de 12–16 Fr çift lümenli kanül kullanılır.",
+      "source": "ELSO neonatal 2013; ELSO 2017"
+    },
+    {
+      "id": "PER207-0xdxzzr",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Femoral arteriyel kanülasyonla VA ECMO'da aynı taraf bacak iskemisini önlemek için önerilen uygulama hangisidir?",
+      "options": [
+        "Aynı bacağa distal perfüzyon kanülü takmak",
+        "Arteriyel kanülü daha büyük (19–21 Fr) seçmek",
+        "Arteriyel ve venöz kanülü aynı bacağa koymak",
+        "ECMO akımını olabildiğince düşük tutmak"
+      ],
+      "correct": 0,
+      "explanation": "6–8 Fr distal perfüzyon kanülü süperfisiyal femoral artere takılır ve ECMO başlangıcında yerleştirilmelidir. Büyük arteriyel kanül ekstremite iskemisini artırır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1yg27rf",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO VA 2021’de erişkin femoral dönüş için çoğu zaman yeterli olabileceği belirtilen arteriyel kanül boyutu hangisidir?",
+      "options": [
+        "8–10 Fr",
+        "15–17 Fr",
+        "25–29 Fr",
+        "6–8 Fr"
+      ],
+      "correct": 1,
+      "explanation": "Kılavuz 15–17 Fr kanüllerin sıklıkla yeterli olabileceğini, yüksek debi ihtiyacında daha büyük boyutların gerekebileceğini belirtir. Bu tarihli genel örnek damar anatomisi ve gereken akıma göre bireyselleştirilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1j4layn",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Bikaval çift lümenli VV kanülü yerleştirilirken hangi görüntüleme yöntemi gerekir?",
+      "options": [
+        "Yalnız akciğer grafisi",
+        "Bilgisayarlı tomografi",
+        "Canlı floroskopi veya TEE",
+        "Yalnız yüzeyel Doppler ultrason"
+      ],
+      "correct": 2,
+      "explanation": "Kılavuz tel sağ ventriküle girerse ölümcül perforasyon olabilir; bu yüzden yerleştirme canlı floroskopi ya da transözofageal ekokardiyografi (TEE) eşliğinde yapılır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0m2iclq",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Santral VA ECMO kanülasyonunun (aort + sağ atriyum) periferik kanülasyona göre dezavantajı hangisidir?",
+      "options": [
+        "Daha kötü venöz drenaj sağlaması",
+        "Femoral bacak iskemisi riskinin artması",
+        "Retrograd aortik akım ve Harlequin riski",
+        "Fazla kanama/enfeksiyon ve resternotomi gereği"
+      ],
+      "correct": 3,
+      "explanation": "Santral kanülasyon antegrad akım, daha iyi drenaj ve daha az diferansiyel oksijenasyon sağlar. Diğer şıklar periferik (femoral) kanülasyonun sorunlarıdır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1h7zdpt",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO VV 2021’in yaklaşık 180 cm boyundaki erişkin örneğinde çoğu zaman uygun görülen drenaj kanülü boyutu hangisidir?",
+      "options": [
+        "25 Fr",
+        "15 Fr",
+        "19 Fr",
+        "8 Fr"
+      ],
+      "correct": 0,
+      "explanation": "ELSO 2021’in örneğinde 25 Fr drenaj kanülü kullanılır; daha ağır hastalıkta daha büyük kanül gerekebilir. Boyut hastanın damar anatomisi, gereken akım ve cihaz özellikleriyle birlikte seçilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1z0u05q",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "flip",
+      "importance": 3,
+      "question": "Femoral VA ECMO'da distal perfüzyon kanülü nereye, hangi boyutta ve ne zaman takılır?",
+      "answer": "Aynı taraf bacağın **süperfisiyal femoral arterine** 6–8 Fr kısa zırhlı kanül olarak takılır ve ana arteriyel kanülün yan portuna bağlanır. ECMO başlangıcında yerleştirilmelidir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0bpmspw",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "flip",
+      "importance": 2,
+      "question": "VV ECMO'da üç ana kanülasyon stratejisi nedir?",
+      "answer": "(1) Tek lümenli iki kanül: femoral venden IVC'ye drenaj + internal juguler venden sağ atriyuma dönüş. (2) Sağ internal juguler venden bikaval çift lümenli tek kanül. (3) Bifemoral venöz kanülasyon.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-019fk1o",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "flip",
+      "importance": 1,
+      "question": "ECMO'da kullanılan dört kanülasyon yöntemi nedir?",
+      "answer": "(1) Cerrahi açma (cut-down), (2) perkütan Seldinger tekniği, (3) yarı-Seldinger, (4) sternotomi veya torakotomiyle doğrudan sağ atriyum-aort (santral) kanülasyonu.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0dlropi",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Erişkinde karotis arter kanülasyonu beyin hasarı riski nedeniyle son çare kabul edilir; çocuklarda daha sık kullanılır.",
+      "isTrue": true,
+      "explanation": "Erişkinde femoral veya aksiller/subklavyen arter tercih edilir; yenidoğan ve çocuklarda boyun kanülasyonu yaygındır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1k9s4sb",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "tf",
+      "importance": 3,
+      "statement": "ECMO'da antikoagülasyon planı, hastanın kanama ve devrenin tromboz riskleri birlikte değerlendirilerek oluşturulur.",
+      "isTrue": true,
+      "explanation": "ELSO 2021 bireyselleştirilmiş izlem önerir. Aşırı kanamada heparine ara verilebilir; bu durumda devrede pıhtı yükü ve yeniden başlama gereği izlenir.",
+      "source": "ELSO antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-10fk2q7",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "remember",
+      "importance": 2,
+      "title": "Kanülasyonda spontan solunum riski",
+      "body": "Damarın açık olduğu kanülasyon aşamasında inspiratuvar negatif basınç **hava girişini** kolaylaştırabilir. Sedasyon, ventilasyon ve gerektiğinde kas gevşetici yaklaşımı işlem tekniği ve hastanın durumuna göre planlanır; bütün hastalar için tek zorunlu reçete değildir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-19anewq",
+      "course": "PER207",
+      "topic": "Kanülasyon stratejileri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Çift lümenli kanülün dönüş jetini ekokardiyografide izlemek neyi doğrular?",
+      "answer": "Oksijenli kan jetinin **triküspit kapağa yöneldiğini** doğrular; uygunsuz yön, etkin destek kaybı ve resirkülasyon oluşturabilir.",
+      "source": "ELSO VV 2021"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

@@ -1,0 +1,1576 @@
+{
+  "id": "review-642dedb565be8249",
+  "title": "Koagülasyon ve antikoagülasyon",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "ACT",
+      "text": "Activated clotting time\nTam kan örneğinin bir aktivatör sonrası pıhtılaşmasına kadar geçen süreyi ölçen yatak başı test.",
+      "images": [],
+      "card": {
+        "id": "PER207-1hqevfr",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "ACT",
+        "en": "Activated clotting time",
+        "definition": "Tam kan örneğinin bir aktivatör sonrası pıhtılaşmasına kadar geçen süreyi ölçen yatak başı test.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "aPTT",
+      "text": "Activated partial thromboplastin time\nPlazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren laboratuvar testi; anfraksiyone heparin ve direkt trombin inhibitörlerinin izleminde kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1a890hk",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "aPTT",
+        "en": "Activated partial thromboplastin time",
+        "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren laboratuvar testi; anfraksiyone heparin ve direkt trombin inhibitörlerinin izleminde kullanılır.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Anti-faktör Xa",
+      "text": "Anti-Xa assay\nHeparinin antitrombin aracılığıyla faktör Xa üzerindeki inhibisyonunu ölçen kromojenik test.",
+      "images": [],
+      "card": {
+        "id": "PER207-15g1kzt",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Anti-faktör Xa",
+        "en": "Anti-Xa assay",
+        "definition": "Heparinin antitrombin aracılığıyla faktör Xa üzerindeki inhibisyonunu ölçen kromojenik test.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "TEG / ROTEM",
+      "text": "Thromboelastography / thromboelastometry\nTam kanda pıhtı başlangıcı, gücü ve fibrinolizi gösteren viskoelastik yatak başı testler.",
+      "images": [],
+      "card": {
+        "id": "PER207-0b8yhjd",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "TEG / ROTEM",
+        "en": "Thromboelastography / thromboelastometry",
+        "definition": "Tam kanda pıhtı başlangıcı, gücü ve fibrinolizi gösteren viskoelastik yatak başı testler.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Antitrombin",
+      "text": "Antithrombin\nHeparinin etki gösterdiği doğal antikoagülan; düşüklüğü heparin direncine yol açar.",
+      "images": [],
+      "card": {
+        "id": "PER207-1id08sk",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Antitrombin",
+        "en": "Antithrombin",
+        "definition": "Heparinin etki gösterdiği doğal antikoagülan; düşüklüğü heparin direncine yol açar.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Anfraksiyone heparin",
+      "text": "Unfractionated heparin\nECMO'da standart antikoagülan; AT üzerinden trombin ve Xa'yı inhibe eder; antidotu protamin.",
+      "images": [],
+      "card": {
+        "id": "PER207-0l1lfrq",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Anfraksiyone heparin",
+        "en": "Unfractionated heparin",
+        "definition": "ECMO'da standart antikoagülan; AT üzerinden trombin ve Xa'yı inhibe eder; antidotu protamin.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Protamin",
+      "text": "Protamine\nHeparinin antikoagülan etkisini nötralize eden ilaç. Aktif ECMO devresinde kullanımı devre trombozu riski nedeniyle ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0rjdbtx",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Protamin",
+        "en": "Protamine",
+        "definition": "Heparinin antikoagülan etkisini nötralize eden ilaç. Aktif ECMO devresinde kullanımı devre trombozu riski nedeniyle ayrıca değerlendirilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Heparin direnci",
+      "text": "Heparin resistance\nYüksek heparin dozuna rağmen hedef antikoagülasyona ulaşılamaması (sık neden AT eksikliği).",
+      "images": [],
+      "card": {
+        "id": "PER207-0v2yni2",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Heparin direnci",
+        "en": "Heparin resistance",
+        "definition": "Yüksek heparin dozuna rağmen hedef antikoagülasyona ulaşılamaması (sık neden AT eksikliği).",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "HIT",
+      "text": "Heparin-induced thrombocytopenia\nPF4–heparin kompleksine karşı IgG antikorlarıyla trombositopeni ve paradoks tromboz eğilimi.",
+      "images": [],
+      "card": {
+        "id": "PER207-15ppt5q",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "HIT",
+        "en": "Heparin-induced thrombocytopenia",
+        "definition": "PF4–heparin kompleksine karşı IgG antikorlarıyla trombositopeni ve paradoks tromboz eğilimi.",
+        "source": "Lee–Arepally, HIT 2013"
+      }
+    },
+    {
+      "title": "PF4",
+      "text": "Platelet factor 4\nTrombositten salınan, heparinle kompleks yapan protein; HIT antijeni.",
+      "images": [],
+      "card": {
+        "id": "PER207-19pob41",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "PF4",
+        "en": "Platelet factor 4",
+        "definition": "Trombositten salınan, heparinle kompleks yapan protein; HIT antijeni.",
+        "source": "Lee–Arepally, HIT 2013"
+      }
+    },
+    {
+      "title": "4T skoru",
+      "text": "4Ts score\nHIT olasılığını trombosit düşüşü, zamanlama, tromboz ve diğer nedenler üzerinden değerlendiren klinik skor.",
+      "images": [],
+      "card": {
+        "id": "PER207-0umljs7",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "4T skoru",
+        "en": "4Ts score",
+        "definition": "HIT olasılığını trombosit düşüşü, zamanlama, tromboz ve diğer nedenler üzerinden değerlendiren klinik skor.",
+        "source": "Lee–Arepally, HIT 2013"
+      }
+    },
+    {
+      "title": "Serotonin salınım testi",
+      "text": "Serotonin release assay\nHasta antikorlarının trombositleri aktive edip etmediğini değerlendiren fonksiyonel HIT laboratuvar testi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1sjcdea",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Serotonin salınım testi",
+        "en": "Serotonin release assay",
+        "definition": "Hasta antikorlarının trombositleri aktive edip etmediğini değerlendiren fonksiyonel HIT laboratuvar testi.",
+        "source": "Lee–Arepally, HIT 2013"
+      }
+    },
+    {
+      "title": "Direkt trombin inhibitörü",
+      "text": "Direct thrombin inhibitor\nAT'den bağımsız trombin inhibitörleri (bivalirudin, argatroban); HIT'te alternatif.",
+      "images": [],
+      "card": {
+        "id": "PER207-0xhyv84",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Direkt trombin inhibitörü",
+        "en": "Direct thrombin inhibitor",
+        "definition": "AT'den bağımsız trombin inhibitörleri (bivalirudin, argatroban); HIT'te alternatif.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Bivalirudin",
+      "text": "Bivalirudin\nAntitrombinden bağımsız etki gösteren direkt trombin inhibitörü; proteolitik yıkım ve böbrek yoluyla uzaklaştırılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1nlujjm",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Bivalirudin",
+        "en": "Bivalirudin",
+        "definition": "Antitrombinden bağımsız etki gösteren direkt trombin inhibitörü; proteolitik yıkım ve böbrek yoluyla uzaklaştırılır.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Argatroban",
+      "text": "Argatroban\nAntitrombinden bağımsız etki gösteren, başlıca karaciğerde metabolize edilen direkt trombin inhibitörü.",
+      "images": [],
+      "card": {
+        "id": "PER207-1j6240q",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Argatroban",
+        "en": "Argatroban",
+        "definition": "Antitrombinden bağımsız etki gösteren, başlıca karaciğerde metabolize edilen direkt trombin inhibitörü.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Fondaparinuks",
+      "text": "Fondaparinux\nAntitrombin aracılığıyla faktör Xa’yı seçici biçimde inhibe eden sentetik pentasakkarit; dolaylı antikoagülan etki gösterir.",
+      "images": [],
+      "card": {
+        "id": "PER207-182sg7q",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Fondaparinuks",
+        "en": "Fondaparinux",
+        "definition": "Antitrombin aracılığıyla faktör Xa’yı seçici biçimde inhibe eden sentetik pentasakkarit; dolaylı antikoagülan etki gösterir.",
+        "source": "DailyMed ARIXTRA"
+      }
+    },
+    {
+      "title": "Antifibrinolitik",
+      "text": "Antifibrinolytic\nFibrin pıhtısının parçalanmasını azaltan ilaç grubu; örnekleri traneksamik asit ve aminokaproik asittir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1i3yhih",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Antifibrinolitik",
+        "en": "Antifibrinolytic",
+        "definition": "Fibrin pıhtısının parçalanmasını azaltan ilaç grubu; örnekleri traneksamik asit ve aminokaproik asittir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Tüketim koagülopatisi",
+      "text": "Consumptive coagulopathy\nPıhtılaşma aktivasyonu sırasında trombosit ve koagülasyon faktörlerinin tüketilmesiyle gelişen hemostaz bozukluğu.",
+      "images": [],
+      "card": {
+        "id": "PER207-1s7g6l2",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Tüketim koagülopatisi",
+        "en": "Consumptive coagulopathy",
+        "definition": "Pıhtılaşma aktivasyonu sırasında trombosit ve koagülasyon faktörlerinin tüketilmesiyle gelişen hemostaz bozukluğu.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Trombositopeni",
+      "text": "Thrombocytopenia\nDolaşımdaki trombosit sayısının azalması; ECMO’da tüketim, yüzey etkileşimi ve hastalık gibi farklı nedenleri olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0virmxz",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Trombositopeni",
+        "en": "Thrombocytopenia",
+        "definition": "Dolaşımdaki trombosit sayısının azalması; ECMO’da tüketim, yüzey etkileşimi ve hastalık gibi farklı nedenleri olabilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hiperkoagülabilite",
+      "text": "Hypercoagulability\nKanın pıhtı oluşturma eğiliminin artması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ujpzf3",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Hiperkoagülabilite",
+        "en": "Hypercoagulability",
+        "definition": "Kanın pıhtı oluşturma eğiliminin artması.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Heparinaz",
+      "text": "Heparinase\nHeparini parçalayan enzim; viskoelastik testte heparin etkisini diğer pıhtılaşma bozukluklarından ayırmaya yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER207-1597wml",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Heparinaz",
+        "en": "Heparinase",
+        "definition": "Heparini parçalayan enzim; viskoelastik testte heparin etkisini diğer pıhtılaşma bozukluklarından ayırmaya yardım eder.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Antikoagülanın geri çevrilmesi",
+      "text": "UFH\nProtamin etkisini nötralize edebilir\nDoz ve klinik durum birlikte değerlendirilir\n\nDTİ\nBivalirudin/argatroban için spesifik antidot yoktur\nİlaç kesilmesi ve destek yaklaşımı değerlendirilir",
+      "images": [],
+      "card": {
+        "id": "PER207-1ruq25m",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Antikoagülanın geri çevrilmesi",
+        "left": {
+          "title": "UFH",
+          "points": [
+            "Protamin etkisini nötralize edebilir",
+            "Doz ve klinik durum birlikte değerlendirilir"
+          ]
+        },
+        "right": {
+          "title": "DTİ",
+          "points": [
+            "Bivalirudin/argatroban için spesifik antidot yoktur",
+            "İlaç kesilmesi ve destek yaklaşımı değerlendirilir"
+          ]
+        },
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "İlaçların başlıca uzaklaştırılması",
+      "text": "Bivalirudin\nProteolitik yıkım ve renal uzaklaştırma\nStaz alanları için ayrı dikkat gerekir\n\nArgatroban\nBaşlıca hepatik metabolizma\nKaraciğer yetmezliğinde birikme riski",
+      "images": [],
+      "card": {
+        "id": "PER207-05hov74",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "İlaçların başlıca uzaklaştırılması",
+        "left": {
+          "title": "Bivalirudin",
+          "points": [
+            "Proteolitik yıkım ve renal uzaklaştırma",
+            "Staz alanları için ayrı dikkat gerekir"
+          ]
+        },
+        "right": {
+          "title": "Argatroban",
+          "points": [
+            "Başlıca hepatik metabolizma",
+            "Karaciğer yetmezliğinde birikme riski"
+          ]
+        },
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Pıhtılaşma örneği ve izlem",
+      "text": "ACT\nTam kanla çalışır\nTrombosit ve hematokritten etkilenir\n\naPTT\nPlazmayla çalışır\nFaktör düzeyleri ve reaktiften etkilenir",
+      "images": [],
+      "card": {
+        "id": "PER207-0vp0w5t",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Pıhtılaşma örneği ve izlem",
+        "left": {
+          "title": "ACT",
+          "points": [
+            "Tam kanla çalışır",
+            "Trombosit ve hematokritten etkilenir"
+          ]
+        },
+        "right": {
+          "title": "aPTT",
+          "points": [
+            "Plazmayla çalışır",
+            "Faktör düzeyleri ve reaktiften etkilenir"
+          ]
+        },
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Anti-Xa için kılavuz aralığı",
+      "text": "ELSO Antikoagülasyon 2021’de UFH izlemi için **0,3–0,7 IU/mL** anti-Xa aralığı kullanılır. Hedef; kanama, tromboz ve merkez yaklaşımıyla bireyselleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1vtd5es",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Anti-Xa için kılavuz aralığı",
+        "body": "ELSO Antikoagülasyon 2021’de UFH izlemi için **0,3–0,7 IU/mL** anti-Xa aralığı kullanılır. Hedef; kanama, tromboz ve merkez yaklaşımıyla bireyselleştirilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Kromojenik anti-Xa etkileşimleri",
+      "text": "ELSO 2021’e göre plazma serbest Hb > 50 mg/dL, trigliserid > 500 mg/dL veya bilirubin > 6 mg/dL, bazı anti-Xa yöntemlerinde **yalancı düşük** sonuca yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0bseppx",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Kromojenik anti-Xa etkileşimleri",
+        "body": "ELSO 2021’e göre plazma serbest Hb > 50 mg/dL, trigliserid > 500 mg/dL veya bilirubin > 6 mg/dL, bazı anti-Xa yöntemlerinde **yalancı düşük** sonuca yol açabilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "aPTT hedefinin kanıt sınırı",
+      "text": "Bazalin **1,5–2,5 katı** aPTT hedefi tarihsel olarak ECMO dışı çalışmadan türetilmiştir; ECMO için evrensel olarak doğrulanmış hedef değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0dff0ua",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "aPTT hedefinin kanıt sınırı",
+        "body": "Bazalin **1,5–2,5 katı** aPTT hedefi tarihsel olarak ECMO dışı çalışmadan türetilmiştir; ECMO için evrensel olarak doğrulanmış hedef değildir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "ACT cihazları ve sonuçlar",
+      "text": "ACT; hematokrit, trombositler, fibrinojen, hipotermi ve cihaz yönteminden etkilenir. Farklı ACT cihazlarının değerleri doğrudan birbirinin yerine kullanılamaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-03i4qx3",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "ACT cihazları ve sonuçlar",
+        "body": "ACT; hematokrit, trombositler, fibrinojen, hipotermi ve cihaz yönteminden etkilenir. Farklı ACT cihazlarının değerleri doğrudan birbirinin yerine kullanılamaz.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "AT replasmanında kanıt sınırı",
+      "text": "ELSO 2021, rutin antitrombin izlemi ve replasmanını destekleyen kanıtı yetersiz bulur. Yüksek UFH dozuna rağmen hedefe ulaşılamaması ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0uvnxxe",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "AT replasmanında kanıt sınırı",
+        "body": "ELSO 2021, rutin antitrombin izlemi ve replasmanını destekleyen kanıtı yetersiz bulur. Yüksek UFH dozuna rağmen hedefe ulaşılamaması ayrıca değerlendirilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Trombosit hedefi kanamaya göre",
+      "text": "ELSO 2021 tablosu kanayan hastada **100.000/µL**, kanamayan hastada 50.000–100.000/µL trombosit düzeylerini verir; hedefler merkez ve hastaya göre değişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ilho01",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Trombosit hedefi kanamaya göre",
+        "body": "ELSO 2021 tablosu kanayan hastada **100.000/µL**, kanamayan hastada 50.000–100.000/µL trombosit düzeylerini verir; hedefler merkez ve hastaya göre değişebilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Fibrinojen hedefinin kaynak yılı",
+      "text": "ELSO 2021 tablosunda fibrinojen kanamada/cerrahi öncesinde > 1,5 g/L, kanamayan hastada > 1 g/L olarak verilir. Eski 2017 kılavuzundaki hedef daha yüksektir.",
+      "images": [],
+      "card": {
+        "id": "PER207-16y2sbj",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Fibrinojen hedefinin kaynak yılı",
+        "body": "ELSO 2021 tablosunda fibrinojen kanamada/cerrahi öncesinde > 1,5 g/L, kanamayan hastada > 1 g/L olarak verilir. Eski 2017 kılavuzundaki hedef daha yüksektir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Laboratuvar izlemi birlikte yorumlanır",
+      "text": "Anti-Xa heparin etkisini, viskoelastik testler pıhtının oluşumu ve gücünü değerlendirir. Tek test tüm hemostazı göstermez; kanama ve devre bulguları birlikte yorumlanır.",
+      "images": [],
+      "card": {
+        "id": "PER207-15yzvur",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "Laboratuvar izlemi birlikte yorumlanır",
+        "body": "Anti-Xa heparin etkisini, viskoelastik testler pıhtının oluşumu ve gücünü değerlendirir. Tek test tüm hemostazı göstermez; kanama ve devre bulguları birlikte yorumlanır.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "HIT’te olasılık ve test seçimi",
+      "text": "ASH 2018, HIT değerlendirmesinde **4T skoru** ile ön test olasılığının belirlenmesini önerir. Düşük olasılıkta rutin HIT testi ve ampirik HIT tedavisi önerilmez.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ccxfni",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "HIT’te olasılık ve test seçimi",
+        "body": "ASH 2018, HIT değerlendirmesinde **4T skoru** ile ön test olasılığının belirlenmesini önerir. Düşük olasılıkta rutin HIT testi ve ampirik HIT tedavisi önerilmez.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "Yüksek faktör VIII ve fibrinojen UFH izlemini nasıl yanıltabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1kd8ynp",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "flip",
+        "importance": 3,
+        "question": "Yüksek faktör VIII ve fibrinojen UFH izlemini nasıl yanıltabilir?",
+        "answer": "aPTT’yi kısaltarak heparinin antikoagülan etkisini olduğundan düşük gösterebilir; **anti-Xa ve klinik bulgular** ile uyum değerlendirilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Heparinazlı ve heparinazsız viskoelastik testler neden karşılaştırılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-00pod6k",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "flip",
+        "importance": 3,
+        "question": "Heparinazlı ve heparinazsız viskoelastik testler neden karşılaştırılır?",
+        "answer": "Heparin etkisi kaldırıldığında düzelme olup olmadığı görülür; **heparin etkisi** diğer pıhtılaşma bozukluklarından ayrılabilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Pozitif PF4–heparin antikor testi neden tek başına klinik HIT tanısı değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1hz9tea",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "flip",
+        "importance": 3,
+        "question": "Pozitif PF4–heparin antikor testi neden tek başına klinik HIT tanısı değildir?",
+        "answer": "Antikor testi duyarlıdır fakat trombositleri aktive etmeyen antikorları da saptayabilir. **Klinik olasılık ve fonksiyonel test** birlikte değerlendirilir.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "Devre tromboz yükü için hangi dolaylı bulgular birlikte izlenebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-07w5qkd",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "flip",
+        "importance": 3,
+        "question": "Devre tromboz yükü için hangi dolaylı bulgular birlikte izlenebilir?",
+        "answer": "D-dimer, trombosit sayısı ve transmembran basınç farkındaki değişimler; görünür devre pıhtılarıyla birlikte değerlendirilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Kaplama sistemik izlemi kaldırmaz",
+      "text": "Heparin kaplı yüzey, kan–devre etkileşimini azaltabilir; **antikoagülasyon değerlendirmesi ve hemostaz izlemini** ortadan kaldırmaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1maeyte",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kaplama sistemik izlemi kaldırmaz",
+        "body": "Heparin kaplı yüzey, kan–devre etkileşimini azaltabilir; **antikoagülasyon değerlendirmesi ve hemostaz izlemini** ortadan kaldırmaz.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "HIT kanama hastalığına indirgenmez",
+      "text": "HIT’te trombosit sayısı düşerken **tromboz riski artar**. Düşük trombosit sayısı hastayı pıhtılaşmadan korumaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-08szfoe",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "HIT kanama hastalığına indirgenmez",
+        "body": "HIT’te trombosit sayısı düşerken **tromboz riski artar**. Düşük trombosit sayısı hastayı pıhtılaşmadan korumaz.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "Anti-Xa DTİ düzeyini göstermez",
+      "text": "Anti-Xa testi **heparinin AT aracılı etkisini** ölçer; bivalirudin veya argatroban etkisinin doğrudan izlem testi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0q47ju7",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "Anti-Xa DTİ düzeyini göstermez",
+        "body": "Anti-Xa testi **heparinin AT aracılı etkisini** ölçer; bivalirudin veya argatroban etkisinin doğrudan izlem testi değildir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "HIT şüphesinde heparin maruziyeti",
+      "text": "ASH 2018, orta/yüksek ön test olasılığında **heparinin kesilmesini ve heparin dışı antikoagülan değerlendirmesini** önerir. Düşük olasılıkta ampirik HIT tedavisi önerilmez; ilaç ve doz klinik risklere göre seçilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-04hlpfh",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "fact",
+        "importance": 3,
+        "title": "HIT şüphesinde heparin maruziyeti",
+        "body": "ASH 2018, orta/yüksek ön test olasılığında **heparinin kesilmesini ve heparin dışı antikoagülan değerlendirmesini** önerir. Düşük olasılıkta ampirik HIT tedavisi önerilmez; ilaç ve doz klinik risklere göre seçilir.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "UFH’nin trombin ve faktör Xa inhibisyonu için hangi plazma proteini gerekir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1qyztms",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "UFH’nin trombin ve faktör Xa inhibisyonu için hangi plazma proteini gerekir?",
+        "options": [
+          "Fibrinojen",
+          "Albumin",
+          "Trombosit faktör 4",
+          "Antitrombin"
+        ],
+        "correct": 3,
+        "explanation": "Heparin antitrombin üzerinden etki gösterir; düşük AT heparin yanıtını azaltabilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Yüksek UFH dozuna rağmen yeterli antikoagülan etki oluşmuyorsa hangi eksiklik heparin direncine katkıda bulunabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0ukv9nn",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Yüksek UFH dozuna rağmen yeterli antikoagülan etki oluşmuyorsa hangi eksiklik heparin direncine katkıda bulunabilir?",
+        "options": [
+          "Antitrombin eksikliği",
+          "Faktör VIII eksikliği",
+          "Fibrinojen eksikliği",
+          "Protrombin eksikliği"
+        ],
+        "correct": 0,
+        "explanation": "UFH antitrombinin etkisini güçlendirir; AT düşüklüğü heparin yanıtını azaltabilir. Diğer faktör eksiklikleri pıhtılaşma bozukluğu oluşturur.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "ELSO 2021’de FIBTEM ve FF-TEG kanallarının pıhtı oluşumunda özellikle değerlendirdiği bileşen hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1xflyjx",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ELSO 2021’de FIBTEM ve FF-TEG kanallarının pıhtı oluşumunda özellikle değerlendirdiği bileşen hangisidir?",
+        "options": [
+          "Antitrombin aktivitesi",
+          "Fibrinojen katkısı",
+          "Trombosit sayısı",
+          "Heparin plazma konsantrasyonu"
+        ],
+        "correct": 1,
+        "explanation": "Bu kanallar fibrinojenin pıhtı oluşumuna katkısını değerlendirir; heparinazlı kanallar heparin etkisini ayırmaya yöneliktir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "HIT antikorlarının oluşumunda hangi trombosit proteini heparinle kompleks oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0pra58z",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "HIT antikorlarının oluşumunda hangi trombosit proteini heparinle kompleks oluşturur?",
+        "options": [
+          "Trombosit glikoprotein Ib",
+          "Trombosit glikoprotein IIb/IIIa",
+          "Trombosit faktör 4",
+          "von Willebrand faktörü"
+        ],
+        "correct": 2,
+        "explanation": "PF4–heparin kompleksi immün HIT’in tipik antijenidir; seçenekler farklı trombosit proteinlerini gösterir.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "HIT olasılığını değerlendiren 4T skoru hangi başlığı içerir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0reszjo",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "HIT olasılığını değerlendiren 4T skoru hangi başlığı içerir?",
+        "options": [
+          "Yaşa göre kreatinin klirensi",
+          "Hepatik bilirubin klirensi",
+          "Arteriyel oksijenasyon indeksi",
+          "Yeni tromboz varlığı"
+        ],
+        "correct": 3,
+        "explanation": "4T; trombositopeni, zamanlama, tromboz ve trombosit düşüşünün diğer nedenlerini değerlendirir. Diğer başlıklar organ işlevi göstergeleridir.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "ELSO 2021 tablosunda DTİ düzeyiyle daha doğrusal yanıtı olan araştırma testi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1w8mxki",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ELSO 2021 tablosunda DTİ düzeyiyle daha doğrusal yanıtı olan araştırma testi hangisidir?",
+        "options": [
+          "Ekarin pıhtılaşma zamanı",
+          "Anti-Xa aktivitesi",
+          "Protrombin zamanı",
+          "Trombosit sayımı"
+        ],
+        "correct": 0,
+        "explanation": "Ekarin testi DTİ konsantrasyonuyla doğrusal ilişki gösterir; rutin erişimi sınırlıdır. Anti-Xa UFH etkisine, trombosit sayımı hücre sayısına yöneliktir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "ELSO 2021’e göre kromojenik anti-Xa ölçümünde renk girişimiyle yalancı düşük sonuca hangi durum yol açabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1ifllsb",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ELSO 2021’e göre kromojenik anti-Xa ölçümünde renk girişimiyle yalancı düşük sonuca hangi durum yol açabilir?",
+        "options": [
+          "Hiperkalsemi",
+          "Hiperbilirubinemi",
+          "Hipokalemi",
+          "Hipernatremi"
+        ],
+        "correct": 1,
+        "explanation": "Bilirubin artışı plazmanın rengini etkileyerek kromojenik ölçüme girişim yapabilir; bu nedenle anti-Xa ve klinik bulgular birlikte yorumlanır.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Heparin kaplı ECMO devresi, sistemik hemostaz izlemi gereksinimini ortadan kaldırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1il8pxk",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Heparin kaplı ECMO devresi, sistemik hemostaz izlemi gereksinimini ortadan kaldırır.",
+        "isTrue": false,
+        "explanation": "Kaplama yüzey etkileşimini azaltabilir; sistemik antikoagülasyon değerlendirmesi ve hemostaz izlemi sürer.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "ELSO 2021’e göre VA ECMO’da antikoagülasyonsuz rutin yönetim önerilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0u5mwr1",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ELSO 2021’e göre VA ECMO’da antikoagülasyonsuz rutin yönetim önerilir.",
+        "isTrue": false,
+        "explanation": "2021 kılavuzu VA ECMO için antikoagülasyonu önerir; kanama gibi özel durumlarda karar bireyselleştirilir.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "HIT’te trombositopeniye tromboz eğilimi eşlik edebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0b3ygab",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "HIT’te trombositopeniye tromboz eğilimi eşlik edebilir.",
+        "isTrue": true,
+        "explanation": "HIT pro-trombotik bir immün ilaç reaksiyonudur; trombosit düşüşü pıhtılaşma riskini ortadan kaldırmaz.",
+        "source": "ASH HIT Kılavuzu 2018"
+      }
+    },
+    {
+      "title": "Anti-Xa testi bivalirudin etkisinin standart doğrudan izlem testidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1cui8zl",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Anti-Xa testi bivalirudin etkisinin standart doğrudan izlem testidir.",
+        "isTrue": false,
+        "explanation": "Anti-Xa heparinin AT aracılı Xa inhibisyonunu ölçer; DTİ izlemi için kullanılmaz.",
+        "source": "ELSO Antikoagülasyon 2021"
+      }
+    },
+    {
+      "title": "Fondaparinuks antitrombin üzerinden dolaylı faktör Xa inhibisyonu sağlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0s22n7q",
+        "course": "PER207",
+        "topic": "Koagülasyon ve antikoagülasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Fondaparinuks antitrombin üzerinden dolaylı faktör Xa inhibisyonu sağlar.",
+        "isTrue": true,
+        "explanation": "Sentetik pentasakkarit AT’ye bağlanarak Xa inhibisyonunu güçlendirir; direkt Xa inhibitörü değildir.",
+        "source": "DailyMed ARIXTRA"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1hqevfr",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Tam kan örneğinin bir aktivatör sonrası pıhtılaşmasına kadar geçen süreyi ölçen yatak başı test.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1a890hk",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "aPTT",
+      "en": "Activated partial thromboplastin time",
+      "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren laboratuvar testi; anfraksiyone heparin ve direkt trombin inhibitörlerinin izleminde kullanılır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-15g1kzt",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Anti-faktör Xa",
+      "en": "Anti-Xa assay",
+      "definition": "Heparinin antitrombin aracılığıyla faktör Xa üzerindeki inhibisyonunu ölçen kromojenik test.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0b8yhjd",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "TEG / ROTEM",
+      "en": "Thromboelastography / thromboelastometry",
+      "definition": "Tam kanda pıhtı başlangıcı, gücü ve fibrinolizi gösteren viskoelastik yatak başı testler.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1id08sk",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Antitrombin",
+      "en": "Antithrombin",
+      "definition": "Heparinin etki gösterdiği doğal antikoagülan; düşüklüğü heparin direncine yol açar.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0l1lfrq",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Anfraksiyone heparin",
+      "en": "Unfractionated heparin",
+      "definition": "ECMO'da standart antikoagülan; AT üzerinden trombin ve Xa'yı inhibe eder; antidotu protamin.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0rjdbtx",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Protamin",
+      "en": "Protamine",
+      "definition": "Heparinin antikoagülan etkisini nötralize eden ilaç. Aktif ECMO devresinde kullanımı devre trombozu riski nedeniyle ayrıca değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0v2yni2",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin direnci",
+      "en": "Heparin resistance",
+      "definition": "Yüksek heparin dozuna rağmen hedef antikoagülasyona ulaşılamaması (sık neden AT eksikliği).",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-15ppt5q",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "HIT",
+      "en": "Heparin-induced thrombocytopenia",
+      "definition": "PF4–heparin kompleksine karşı IgG antikorlarıyla trombositopeni ve paradoks tromboz eğilimi.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "id": "PER207-19pob41",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "PF4",
+      "en": "Platelet factor 4",
+      "definition": "Trombositten salınan, heparinle kompleks yapan protein; HIT antijeni.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "id": "PER207-0umljs7",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "4T skoru",
+      "en": "4Ts score",
+      "definition": "HIT olasılığını trombosit düşüşü, zamanlama, tromboz ve diğer nedenler üzerinden değerlendiren klinik skor.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "id": "PER207-1sjcdea",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Serotonin salınım testi",
+      "en": "Serotonin release assay",
+      "definition": "Hasta antikorlarının trombositleri aktive edip etmediğini değerlendiren fonksiyonel HIT laboratuvar testi.",
+      "source": "Lee–Arepally, HIT 2013"
+    },
+    {
+      "id": "PER207-0xhyv84",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Direkt trombin inhibitörü",
+      "en": "Direct thrombin inhibitor",
+      "definition": "AT'den bağımsız trombin inhibitörleri (bivalirudin, argatroban); HIT'te alternatif.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1nlujjm",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Bivalirudin",
+      "en": "Bivalirudin",
+      "definition": "Antitrombinden bağımsız etki gösteren direkt trombin inhibitörü; proteolitik yıkım ve böbrek yoluyla uzaklaştırılır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1j6240q",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Argatroban",
+      "en": "Argatroban",
+      "definition": "Antitrombinden bağımsız etki gösteren, başlıca karaciğerde metabolize edilen direkt trombin inhibitörü.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-182sg7q",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Fondaparinuks",
+      "en": "Fondaparinux",
+      "definition": "Antitrombin aracılığıyla faktör Xa’yı seçici biçimde inhibe eden sentetik pentasakkarit; dolaylı antikoagülan etki gösterir.",
+      "source": "DailyMed ARIXTRA"
+    },
+    {
+      "id": "PER207-1i3yhih",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Antifibrinolitik",
+      "en": "Antifibrinolytic",
+      "definition": "Fibrin pıhtısının parçalanmasını azaltan ilaç grubu; örnekleri traneksamik asit ve aminokaproik asittir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1s7g6l2",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Tüketim koagülopatisi",
+      "en": "Consumptive coagulopathy",
+      "definition": "Pıhtılaşma aktivasyonu sırasında trombosit ve koagülasyon faktörlerinin tüketilmesiyle gelişen hemostaz bozukluğu.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0virmxz",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Trombositopeni",
+      "en": "Thrombocytopenia",
+      "definition": "Dolaşımdaki trombosit sayısının azalması; ECMO’da tüketim, yüzey etkileşimi ve hastalık gibi farklı nedenleri olabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1ujpzf3",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Hiperkoagülabilite",
+      "en": "Hypercoagulability",
+      "definition": "Kanın pıhtı oluşturma eğiliminin artması.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1597wml",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Heparinaz",
+      "en": "Heparinase",
+      "definition": "Heparini parçalayan enzim; viskoelastik testte heparin etkisini diğer pıhtılaşma bozukluklarından ayırmaya yardım eder.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1ruq25m",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Antikoagülanın geri çevrilmesi",
+      "left": {
+        "title": "UFH",
+        "points": [
+          "Protamin etkisini nötralize edebilir",
+          "Doz ve klinik durum birlikte değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "DTİ",
+        "points": [
+          "Bivalirudin/argatroban için spesifik antidot yoktur",
+          "İlaç kesilmesi ve destek yaklaşımı değerlendirilir"
+        ]
+      },
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-05hov74",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "İlaçların başlıca uzaklaştırılması",
+      "left": {
+        "title": "Bivalirudin",
+        "points": [
+          "Proteolitik yıkım ve renal uzaklaştırma",
+          "Staz alanları için ayrı dikkat gerekir"
+        ]
+      },
+      "right": {
+        "title": "Argatroban",
+        "points": [
+          "Başlıca hepatik metabolizma",
+          "Karaciğer yetmezliğinde birikme riski"
+        ]
+      },
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0vp0w5t",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Pıhtılaşma örneği ve izlem",
+      "left": {
+        "title": "ACT",
+        "points": [
+          "Tam kanla çalışır",
+          "Trombosit ve hematokritten etkilenir"
+        ]
+      },
+      "right": {
+        "title": "aPTT",
+        "points": [
+          "Plazmayla çalışır",
+          "Faktör düzeyleri ve reaktiften etkilenir"
+        ]
+      },
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1vtd5es",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Anti-Xa için kılavuz aralığı",
+      "body": "ELSO Antikoagülasyon 2021’de UFH izlemi için **0,3–0,7 IU/mL** anti-Xa aralığı kullanılır. Hedef; kanama, tromboz ve merkez yaklaşımıyla bireyselleştirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0bseppx",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Kromojenik anti-Xa etkileşimleri",
+      "body": "ELSO 2021’e göre plazma serbest Hb > 50 mg/dL, trigliserid > 500 mg/dL veya bilirubin > 6 mg/dL, bazı anti-Xa yöntemlerinde **yalancı düşük** sonuca yol açabilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0dff0ua",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "aPTT hedefinin kanıt sınırı",
+      "body": "Bazalin **1,5–2,5 katı** aPTT hedefi tarihsel olarak ECMO dışı çalışmadan türetilmiştir; ECMO için evrensel olarak doğrulanmış hedef değildir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-03i4qx3",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "ACT cihazları ve sonuçlar",
+      "body": "ACT; hematokrit, trombositler, fibrinojen, hipotermi ve cihaz yönteminden etkilenir. Farklı ACT cihazlarının değerleri doğrudan birbirinin yerine kullanılamaz.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0uvnxxe",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "AT replasmanında kanıt sınırı",
+      "body": "ELSO 2021, rutin antitrombin izlemi ve replasmanını destekleyen kanıtı yetersiz bulur. Yüksek UFH dozuna rağmen hedefe ulaşılamaması ayrıca değerlendirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0ilho01",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Trombosit hedefi kanamaya göre",
+      "body": "ELSO 2021 tablosu kanayan hastada **100.000/µL**, kanamayan hastada 50.000–100.000/µL trombosit düzeylerini verir; hedefler merkez ve hastaya göre değişebilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-16y2sbj",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Fibrinojen hedefinin kaynak yılı",
+      "body": "ELSO 2021 tablosunda fibrinojen kanamada/cerrahi öncesinde > 1,5 g/L, kanamayan hastada > 1 g/L olarak verilir. Eski 2017 kılavuzundaki hedef daha yüksektir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-15yzvur",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "Laboratuvar izlemi birlikte yorumlanır",
+      "body": "Anti-Xa heparin etkisini, viskoelastik testler pıhtının oluşumu ve gücünü değerlendirir. Tek test tüm hemostazı göstermez; kanama ve devre bulguları birlikte yorumlanır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0ccxfni",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "HIT’te olasılık ve test seçimi",
+      "body": "ASH 2018, HIT değerlendirmesinde **4T skoru** ile ön test olasılığının belirlenmesini önerir. Düşük olasılıkta rutin HIT testi ve ampirik HIT tedavisi önerilmez.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-1kd8ynp",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "flip",
+      "importance": 3,
+      "question": "Yüksek faktör VIII ve fibrinojen UFH izlemini nasıl yanıltabilir?",
+      "answer": "aPTT’yi kısaltarak heparinin antikoagülan etkisini olduğundan düşük gösterebilir; **anti-Xa ve klinik bulgular** ile uyum değerlendirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-00pod6k",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "flip",
+      "importance": 3,
+      "question": "Heparinazlı ve heparinazsız viskoelastik testler neden karşılaştırılır?",
+      "answer": "Heparin etkisi kaldırıldığında düzelme olup olmadığı görülür; **heparin etkisi** diğer pıhtılaşma bozukluklarından ayrılabilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1hz9tea",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "flip",
+      "importance": 3,
+      "question": "Pozitif PF4–heparin antikor testi neden tek başına klinik HIT tanısı değildir?",
+      "answer": "Antikor testi duyarlıdır fakat trombositleri aktive etmeyen antikorları da saptayabilir. **Klinik olasılık ve fonksiyonel test** birlikte değerlendirilir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-07w5qkd",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "flip",
+      "importance": 3,
+      "question": "Devre tromboz yükü için hangi dolaylı bulgular birlikte izlenebilir?",
+      "answer": "D-dimer, trombosit sayısı ve transmembran basınç farkındaki değişimler; görünür devre pıhtılarıyla birlikte değerlendirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1maeyte",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kaplama sistemik izlemi kaldırmaz",
+      "body": "Heparin kaplı yüzey, kan–devre etkileşimini azaltabilir; **antikoagülasyon değerlendirmesi ve hemostaz izlemini** ortadan kaldırmaz.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-08szfoe",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "HIT kanama hastalığına indirgenmez",
+      "body": "HIT’te trombosit sayısı düşerken **tromboz riski artar**. Düşük trombosit sayısı hastayı pıhtılaşmadan korumaz.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-0q47ju7",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "Anti-Xa DTİ düzeyini göstermez",
+      "body": "Anti-Xa testi **heparinin AT aracılı etkisini** ölçer; bivalirudin veya argatroban etkisinin doğrudan izlem testi değildir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-04hlpfh",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "fact",
+      "importance": 3,
+      "title": "HIT şüphesinde heparin maruziyeti",
+      "body": "ASH 2018, orta/yüksek ön test olasılığında **heparinin kesilmesini ve heparin dışı antikoagülan değerlendirmesini** önerir. Düşük olasılıkta ampirik HIT tedavisi önerilmez; ilaç ve doz klinik risklere göre seçilir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-1qyztms",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "UFH’nin trombin ve faktör Xa inhibisyonu için hangi plazma proteini gerekir?",
+      "options": [
+        "Fibrinojen",
+        "Albumin",
+        "Trombosit faktör 4",
+        "Antitrombin"
+      ],
+      "correct": 3,
+      "explanation": "Heparin antitrombin üzerinden etki gösterir; düşük AT heparin yanıtını azaltabilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0ukv9nn",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yüksek UFH dozuna rağmen yeterli antikoagülan etki oluşmuyorsa hangi eksiklik heparin direncine katkıda bulunabilir?",
+      "options": [
+        "Antitrombin eksikliği",
+        "Faktör VIII eksikliği",
+        "Fibrinojen eksikliği",
+        "Protrombin eksikliği"
+      ],
+      "correct": 0,
+      "explanation": "UFH antitrombinin etkisini güçlendirir; AT düşüklüğü heparin yanıtını azaltabilir. Diğer faktör eksiklikleri pıhtılaşma bozukluğu oluşturur.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1xflyjx",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021’de FIBTEM ve FF-TEG kanallarının pıhtı oluşumunda özellikle değerlendirdiği bileşen hangisidir?",
+      "options": [
+        "Antitrombin aktivitesi",
+        "Fibrinojen katkısı",
+        "Trombosit sayısı",
+        "Heparin plazma konsantrasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Bu kanallar fibrinojenin pıhtı oluşumuna katkısını değerlendirir; heparinazlı kanallar heparin etkisini ayırmaya yöneliktir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0pra58z",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "HIT antikorlarının oluşumunda hangi trombosit proteini heparinle kompleks oluşturur?",
+      "options": [
+        "Trombosit glikoprotein Ib",
+        "Trombosit glikoprotein IIb/IIIa",
+        "Trombosit faktör 4",
+        "von Willebrand faktörü"
+      ],
+      "correct": 2,
+      "explanation": "PF4–heparin kompleksi immün HIT’in tipik antijenidir; seçenekler farklı trombosit proteinlerini gösterir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-0reszjo",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "HIT olasılığını değerlendiren 4T skoru hangi başlığı içerir?",
+      "options": [
+        "Yaşa göre kreatinin klirensi",
+        "Hepatik bilirubin klirensi",
+        "Arteriyel oksijenasyon indeksi",
+        "Yeni tromboz varlığı"
+      ],
+      "correct": 3,
+      "explanation": "4T; trombositopeni, zamanlama, tromboz ve trombosit düşüşünün diğer nedenlerini değerlendirir. Diğer başlıklar organ işlevi göstergeleridir.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-1w8mxki",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021 tablosunda DTİ düzeyiyle daha doğrusal yanıtı olan araştırma testi hangisidir?",
+      "options": [
+        "Ekarin pıhtılaşma zamanı",
+        "Anti-Xa aktivitesi",
+        "Protrombin zamanı",
+        "Trombosit sayımı"
+      ],
+      "correct": 0,
+      "explanation": "Ekarin testi DTİ konsantrasyonuyla doğrusal ilişki gösterir; rutin erişimi sınırlıdır. Anti-Xa UFH etkisine, trombosit sayımı hücre sayısına yöneliktir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1ifllsb",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021’e göre kromojenik anti-Xa ölçümünde renk girişimiyle yalancı düşük sonuca hangi durum yol açabilir?",
+      "options": [
+        "Hiperkalsemi",
+        "Hiperbilirubinemi",
+        "Hipokalemi",
+        "Hipernatremi"
+      ],
+      "correct": 1,
+      "explanation": "Bilirubin artışı plazmanın rengini etkileyerek kromojenik ölçüme girişim yapabilir; bu nedenle anti-Xa ve klinik bulgular birlikte yorumlanır.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-1il8pxk",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Heparin kaplı ECMO devresi, sistemik hemostaz izlemi gereksinimini ortadan kaldırır.",
+      "isTrue": false,
+      "explanation": "Kaplama yüzey etkileşimini azaltabilir; sistemik antikoagülasyon değerlendirmesi ve hemostaz izlemi sürer.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0u5mwr1",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO 2021’e göre VA ECMO’da antikoagülasyonsuz rutin yönetim önerilir.",
+      "isTrue": false,
+      "explanation": "2021 kılavuzu VA ECMO için antikoagülasyonu önerir; kanama gibi özel durumlarda karar bireyselleştirilir.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0b3ygab",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "HIT’te trombositopeniye tromboz eğilimi eşlik edebilir.",
+      "isTrue": true,
+      "explanation": "HIT pro-trombotik bir immün ilaç reaksiyonudur; trombosit düşüşü pıhtılaşma riskini ortadan kaldırmaz.",
+      "source": "ASH HIT Kılavuzu 2018"
+    },
+    {
+      "id": "PER207-1cui8zl",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Anti-Xa testi bivalirudin etkisinin standart doğrudan izlem testidir.",
+      "isTrue": false,
+      "explanation": "Anti-Xa heparinin AT aracılı Xa inhibisyonunu ölçer; DTİ izlemi için kullanılmaz.",
+      "source": "ELSO Antikoagülasyon 2021"
+    },
+    {
+      "id": "PER207-0s22n7q",
+      "course": "PER207",
+      "topic": "Koagülasyon ve antikoagülasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fondaparinuks antitrombin üzerinden dolaylı faktör Xa inhibisyonu sağlar.",
+      "isTrue": true,
+      "explanation": "Sentetik pentasakkarit AT’ye bağlanarak Xa inhibisyonunu güçlendirir; direkt Xa inhibitörü değildir.",
+      "source": "DailyMed ARIXTRA"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

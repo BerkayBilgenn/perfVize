@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="tr">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>Perfüzyon · Çalışma merkezi</title>
+ <meta name="description" content="Ders notların, görsellerin ve tekrarların için kişisel Perfüzyon çalışma merkezi.">
+ <meta name="theme-color" content="#1c302a"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><link rel="manifest" href="/manifest.webmanifest"><link rel="icon" href="/icon.svg"><link rel="apple-touch-icon" href="/icon.svg">
+ <link rel="stylesheet" href="/styles.css"><script type="module" src="/app.js"></script>
+</head>
+<body>
+ <a class="skip" href="#main">İçeriğe geç</a>
+ <aside class="sidebar">
+  <a class="brand" href="#library" aria-label="Perfüzyon ana sayfa"><span class="brand-mark"><svg viewBox="0 0 32 32" aria-hidden="true"><path d="M5 17h6l3-9 5 16 3-7h5"/></svg></span><span>perfüzyon<span class="brand-sub">KİŞİSEL ÇALIŞMA MERKEZİ</span></span></a>
+  <div class="side-caption">ÇALIŞMA ALANIN</div>
+  <nav id="navigation" aria-label="Ana gezinme">
+   <button data-view="library" class="nav-item active"><span data-icon="book"></span>Ders kütüphanesi<span id="nav-count" class="nav-count"></span></button>
+   <button data-view="gallery" class="nav-item"><span data-icon="image"></span>Görseller</button>
+   <button data-view="revision" class="nav-item"><span data-icon="layers"></span>Tekrar arşivi</button>
+   <button data-view="favorites" class="nav-item"><span data-icon="bookmark"></span>Favorilerim</button>
+  </nav>
+  <button data-view="devices" class="nav-item"><span data-icon="clock"></span>Cihazlar ve çevrimdışı</button>
+  <div class="sidebar-topics"><div class="side-caption">DERS KONULARI</div><div id="side-topics"></div></div>
+  <div class="sidebar-bottom">
+   <div class="local-card"><span class="status-dot"></span><strong>Bu cihazda saklanıyor</strong><p>Notların yanında.<br>Bağlantı gelince eşitlenir.</p></div>
+   <button class="nav-item" data-view="sources"><span data-icon="folder"></span>Kaynaklar ve aktarım</button>
+   <a class="nav-item" data-action="export-notes" href="#devices"><span data-icon="download"></span>Notları yedekle</a>
+   <div class="profile"><span class="avatar">P</span><span>Perfüzyon projem<span>Kişisel kütüphane</span></span><span class="status-dot"></span></div>
+  </div>
+ </aside>
+ <div class="workspace">
+  <header class="topbar"><div class="breadcrumb">Çalışma alanım <span>/</span> <strong id="breadcrumb">Ders kütüphanesi</strong></div><div class="topbar-right"><button id="sync-status" class="sync-badge" data-view="devices" aria-live="polite">Cihazdaki kopya hazırlanıyor…</button><button class="primary small" data-action="new"><span data-icon="plus"></span>Yeni ders ekle</button></div></header>
+  <main id="main" tabindex="-1"><div class="loading">Derslerin hazırlanıyor…</div></main>
+ </div>
+ <dialog id="new-dialog" class="editor-dialog" aria-labelledby="new-title">
+  <div class="dialog-head"><div><span class="eyebrow">KÜTÜPHANEN BÜYÜSÜN</span><h2 id="new-title">Yeni ders ekle</h2></div><button class="icon-button" data-action="close-new" aria-label="Kapat"><span data-icon="x"></span></button></div>
+  <form id="lesson-form">
+   <label>Ders başlığı<input name="title" required maxlength="250" placeholder="Örn. Kardiyopulmoner bypass · 3. hafta"></label>
+   <div class="form-grid"><label>Konu<input name="category" list="categories" placeholder="Örn. Perfüzyon" maxlength="100"><datalist id="categories"></datalist></label><label>Etiketler <span class="optional">isteğe bağlı</span><input name="tags" placeholder="Virgülle ayır: KPB, 3. hafta"></label></div>
+   <label>Ders notların<textarea name="notes" rows="8" placeholder="Ders notlarını buraya yaz veya sohbetten kopyala. Başlıklar için #, önemli yerler için **kalın** kullanabilirsin."></textarea></label>
+   <label class="upload-zone"><span data-icon="upload"></span><strong>Görsel veya ders dosyası ekle</strong><span>PDF, PPTX, PNG, JPG, WEBP, GIF, TXT, MD · dosya başına en fazla 60 MB</span><input name="files" id="file-input" type="file" multiple accept=".pdf,.pptx,.png,.jpg,.jpeg,.webp,.gif,.txt,.md"></label>
+   <div id="file-list" class="file-list"></div><p class="form-error" id="form-error" role="alert"></p>
+   <div class="dialog-foot"><span>Önce bu cihaza kaydedilir; bağlantı gelince eşitlenir.</span><button type="submit" class="primary" id="submit-lesson">Dersi kaydet <span data-icon="arrow"></span></button></div>
+  </form>
+ </dialog>
+ <dialog id="image-dialog" class="lightbox" aria-label="Görseli büyüt"><div class="lightbox-head"><span id="image-caption"></span><button class="icon-button" data-action="close-image" aria-label="Görseli kapat"><span data-icon="x"></span></button></div><img id="large-image" alt=""><a id="image-original" target="_blank" rel="noopener">Görseli ayrı sekmede aç ↗</a></dialog>
+ <input type="file" id="replace-file" hidden accept=".pdf,.pptx,.png,.jpg,.jpeg,.webp,.gif,.txt,.md"><div id="toast" class="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

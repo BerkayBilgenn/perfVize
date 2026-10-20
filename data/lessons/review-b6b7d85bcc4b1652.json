@@ -1,0 +1,910 @@
+{
+  "id": "review-b6b7d85bcc4b1652",
+  "title": "Aort cerrahisinde perfüzyon",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Aort diseksiyonu",
+      "text": "Aortic dissection\nİntimal yırtıkla aort duvarı içinde yalancı lümen oluşması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0hmxjti",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Aort diseksiyonu",
+        "en": "Aortic dissection",
+        "definition": "İntimal yırtıkla aort duvarı içinde yalancı lümen oluşması.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Anevrizma",
+      "text": "Aneurysm\nBir arterin kalıcı, patolojik genişlemesi; damar duvarının bütünlüğü ve genişlemenin biçimi ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1cjpaw8",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Anevrizma",
+        "en": "Aneurysm",
+        "definition": "Bir arterin kalıcı, patolojik genişlemesi; damar duvarının bütünlüğü ve genişlemenin biçimi ayrıca değerlendirilir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "DeBakey sınıflaması",
+      "text": "DeBakey classification\nDiseksiyonu başlangıç ve uzanıma göre tip I (çıkan→inen), II (yalnız çıkan), III (inen) olarak ayırır.",
+      "images": [],
+      "card": {
+        "id": "PER245-125btza",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "DeBakey sınıflaması",
+        "en": "DeBakey classification",
+        "definition": "Diseksiyonu başlangıç ve uzanıma göre tip I (çıkan→inen), II (yalnız çıkan), III (inen) olarak ayırır.",
+        "source": "Diseksiyon, Korean J Radiol"
+      }
+    },
+    {
+      "title": "TEM sınıflaması",
+      "text": "TEM classification\nAort diseksiyonunu tip, giriş yırtığı ve malperfüzyon bileşenleriyle tanımlayan sınıflama.",
+      "images": [],
+      "card": {
+        "id": "PER245-0rwcmpp",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 3,
+        "term": "TEM sınıflaması",
+        "en": "TEM classification",
+        "definition": "Aort diseksiyonunu tip, giriş yırtığı ve malperfüzyon bileşenleriyle tanımlayan sınıflama.",
+        "source": "Diseksiyon, Korean J Radiol"
+      }
+    },
+    {
+      "title": "Crawford sınıflaması",
+      "text": "Crawford classification\nTorakoabdominal aort anevrizmasının anatomik yayılımını tanımlayan sınıflama.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xhqdqd",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Crawford sınıflaması",
+        "en": "Crawford classification",
+        "definition": "Torakoabdominal aort anevrizmasının anatomik yayılımını tanımlayan sınıflama.",
+        "source": "BOS drenajı, Ann CTS 2023"
+      }
+    },
+    {
+      "title": "DHCA",
+      "text": "Deep hypothermic circulatory arrest\nDerin soğutma altında sistemik dolaşımın geçici olarak tamamen durdurulması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1sqinhl",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 1,
+        "term": "DHCA",
+        "en": "Deep hypothermic circulatory arrest",
+        "definition": "Derin soğutma altında sistemik dolaşımın geçici olarak tamamen durdurulması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "MHCA",
+      "text": "Moderate hypothermic circulatory arrest\nOrta derecede soğutma altında sistemik dolaşımın geçici durdurulması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1mja3ek",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "MHCA",
+        "en": "Moderate hypothermic circulatory arrest",
+        "definition": "Orta derecede soğutma altında sistemik dolaşımın geçici durdurulması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Retrograd serebral perfüzyon (RCP)",
+      "text": "Retrograde cerebral perfusion\nArrest sırasında üst vena kava yoluyla oksijenli kanın beyne venöz taraftan geri yönde verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-16auts4",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Retrograd serebral perfüzyon (RCP)",
+        "en": "Retrograde cerebral perfusion",
+        "definition": "Arrest sırasında üst vena kava yoluyla oksijenli kanın beyne venöz taraftan geri yönde verilmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bentall ameliyatı",
+      "text": "Bentall procedure\nKompozit kapak-greftle aort kökü replasmanı ve koroner reimplantasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-1alt75u",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Bentall ameliyatı",
+        "en": "Bentall procedure",
+        "definition": "Kompozit kapak-greftle aort kökü replasmanı ve koroner reimplantasyonu.",
+        "source": "Aort kökü onarımı, Europe PMC"
+      }
+    },
+    {
+      "title": "Frozen elephant trunk (FET)",
+      "text": "Frozen elephant trunk\nArkus replasmanı ile inen aortaya hibrit stent-greft yerleştirilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0u4lupo",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Frozen elephant trunk (FET)",
+        "en": "Frozen elephant trunk",
+        "definition": "Arkus replasmanı ile inen aortaya hibrit stent-greft yerleştirilmesi.",
+        "source": "Aort kökü onarımı, Europe PMC"
+      }
+    },
+    {
+      "title": "BOS drenajı",
+      "text": "Cerebrospinal fluid drainage\nLomber kateterle beyin-omurilik sıvısı basıncının azaltılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1qfhjtq",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "BOS drenajı",
+        "en": "Cerebrospinal fluid drainage",
+        "definition": "Lomber kateterle beyin-omurilik sıvısı basıncının azaltılması.",
+        "source": "BOS drenajı, Ann CTS 2023"
+      }
+    },
+    {
+      "title": "İyatrojenik aort diseksiyonu",
+      "text": "Iatrogenic aortic dissection\nKanülasyon veya klemp uygulaması gibi tıbbi işlemler sırasında aort duvarında gelişen diseksiyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-16bvmzt",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "term",
+        "importance": 2,
+        "term": "İyatrojenik aort diseksiyonu",
+        "en": "Iatrogenic aortic dissection",
+        "definition": "Kanülasyon veya klemp uygulaması gibi tıbbi işlemler sırasında aort duvarında gelişen diseksiyon.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Serebral perfüzyon yönü",
+      "text": "ACP\nArteriyel taraftan ileri yönde akım\nAksiller, innominat veya karotis erişimi\n\nRCP\nVenöz taraftan geri yönde akım\nSuperior vena kava üzerinden erişim",
+      "images": [],
+      "card": {
+        "id": "PER245-0uiyx9d",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Serebral perfüzyon yönü",
+        "left": {
+          "title": "ACP",
+          "points": [
+            "Arteriyel taraftan ileri yönde akım",
+            "Aksiller, innominat veya karotis erişimi"
+          ]
+        },
+        "right": {
+          "title": "RCP",
+          "points": [
+            "Venöz taraftan geri yönde akım",
+            "Superior vena kava üzerinden erişim"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arrestte soğutma yaklaşımı",
+      "text": "DHCA\nDerin soğutmayla metabolik gereksinim azaltılır\nİzole arrestin süresi kısıtlıdır\n\nMHCA ve ACP\nDaha ılımlı soğutma ile beyne akım birleştirilir\nBeyin oksijen sunumu perfüzyonla desteklenir",
+      "images": [],
+      "card": {
+        "id": "PER245-11g56jm",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Arrestte soğutma yaklaşımı",
+        "left": {
+          "title": "DHCA",
+          "points": [
+            "Derin soğutmayla metabolik gereksinim azaltılır",
+            "İzole arrestin süresi kısıtlıdır"
+          ]
+        },
+        "right": {
+          "title": "MHCA ve ACP",
+          "points": [
+            "Daha ılımlı soğutma ile beyne akım birleştirilir",
+            "Beyin oksijen sunumu perfüzyonla desteklenir"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Diseksiyonda kullanılan ölçüt",
+      "text": "DeBakey\nBaşlangıç segmenti ve uzanım dikkate alınır\nTip I çıkan aortadan inen aortaya uzanır\n\nStanford\nÇıkan aorta tutulumu temel ölçüttür\nÇıkan aorta tutulumu tip A'dır",
+      "images": [],
+      "card": {
+        "id": "PER245-0vnykry",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Diseksiyonda kullanılan ölçüt",
+        "left": {
+          "title": "DeBakey",
+          "points": [
+            "Başlangıç segmenti ve uzanım dikkate alınır",
+            "Tip I çıkan aortadan inen aortaya uzanır"
+          ]
+        },
+        "right": {
+          "title": "Stanford",
+          "points": [
+            "Çıkan aorta tutulumu temel ölçüttür",
+            "Çıkan aorta tutulumu tip A'dır"
+          ]
+        },
+        "source": "Diseksiyon, Korean J Radiol"
+      }
+    },
+    {
+      "title": "Arkus cerrahisinin sorunu",
+      "text": "Arkus açıkken sistemik akımın geçici kesilmesi gerekebilir; hipotermi ve seçilmiş serebral perfüzyon, beyin koruma planının parçalarıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1jjq219",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arkus cerrahisinin sorunu",
+        "body": "Arkus açıkken sistemik akımın geçici kesilmesi gerekebilir; hipotermi ve seçilmiş serebral perfüzyon, beyin koruma planının parçalarıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ACP akım aralığı",
+      "text": "2024 EACTS, antegrad serebral perfüzyonda 10–15 mL/kg/dk akım ve sağ radiyal arterde 40–80 mmHg basınçla ayarlama tarif eder. Hedefler yönteme göre değişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-08e1v1m",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "ACP akım aralığı",
+        "body": "2024 EACTS, antegrad serebral perfüzyonda 10–15 mL/kg/dk akım ve sağ radiyal arterde 40–80 mmHg basınçla ayarlama tarif eder. Hedefler yönteme göre değişebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "RCP'nin basınç noktası",
+      "text": "2024 EACTS'te retrograd serebral perfüzyon için internal juguler ven basıncı yaklaşık 20 mmHg ve akım 100–500 mL/dk olarak tarif edilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xo7d0a",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "RCP'nin basınç noktası",
+        "body": "2024 EACTS'te retrograd serebral perfüzyon için internal juguler ven basıncı yaklaşık 20 mmHg ve akım 100–500 mL/dk olarak tarif edilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arrestte çift sıcaklık izlemi",
+      "text": "Arrest kullanılan aort cerrahisinde nazofaringeal ve çekirdek sıcaklıkları birlikte izlemek, beyin ve sistemik soğuma hakkında tamamlayıcı bilgi sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-18ntasr",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arrestte çift sıcaklık izlemi",
+        "body": "Arrest kullanılan aort cerrahisinde nazofaringeal ve çekirdek sıcaklıkları birlikte izlemek, beyin ve sistemik soğuma hakkında tamamlayıcı bilgi sağlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Spinal korumanın bileşenleri",
+      "text": "Torakoabdominal aort cerrahisinde BOS drenajı, distal perfüzyon ve kritik interkostal arterlerin korunması birlikte spinal kord korumasına katkı sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-0cpecmy",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Spinal korumanın bileşenleri",
+        "body": "Torakoabdominal aort cerrahisinde BOS drenajı, distal perfüzyon ve kritik interkostal arterlerin korunması birlikte spinal kord korumasına katkı sağlar.",
+        "source": "BOS drenajı, Ann CTS 2023"
+      }
+    },
+    {
+      "title": "Arkus cerrahisinde bilateral NIRS neden kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-12v16i1",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Arkus cerrahisinde bilateral NIRS neden kullanılır?",
+        "answer": "Sağ ve sol serebral oksijenasyon değişimlerini ayrı izlemeye yardımcı olur; özellikle selektif serebral perfüzyonda asimetri önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sol kalp baypasında alınan kan genellikle nereye geri verilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1n7qqi8",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sol kalp baypasında alınan kan genellikle nereye geri verilir?",
+        "answer": "Distal aortaya veya femoral artere; klemp altındaki organların perfüzyonunu desteklemek amaçlanır.",
+        "source": "Sol kalp baypası, Front CVM 2022"
+      }
+    },
+    {
+      "title": "İzole arrest süresi kesin güvence değildir",
+      "text": "Arrestin tolere edilebilir süresi sıcaklık, hasta özellikleri ve ek beyin korumasıyla ilişkilidir. **Süre tek başına güvence değildir**; serebral perfüzyon ve metabolik koruma birlikte planlanır.",
+      "images": [],
+      "card": {
+        "id": "PER245-04l91i8",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "İzole arrest süresi kesin güvence değildir",
+        "body": "Arrestin tolere edilebilir süresi sıcaklık, hasta özellikleri ve ek beyin korumasıyla ilişkilidir. **Süre tek başına güvence değildir**; serebral perfüzyon ve metabolik koruma birlikte planlanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arrest sırasında beyne arteriyel yönde kan veren yöntem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1g3mgv1",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Arrest sırasında beyne arteriyel yönde kan veren yöntem hangisidir?",
+        "options": [
+          "ACP",
+          "RCP",
+          "Yalnız DHCA",
+          "Yalnız distal aort perfüzyonu"
+        ],
+        "correct": 0,
+        "explanation": "ACP antegrad serebral perfüzyondur; RCP venöz taraftan geri yönlüdür.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Çıkan aorta tutulmayan diseksiyon Stanford'da hangi tipe girer?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1pcdwur",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Çıkan aorta tutulmayan diseksiyon Stanford'da hangi tipe girer?",
+        "options": [
+          "DeBakey II",
+          "Tip B",
+          "Tip A",
+          "DeBakey I"
+        ],
+        "correct": 1,
+        "explanation": "Stanford tip B'de çıkan aorta tutulmaz; tip A'nın ayırıcı ölçütü çıkan aorta tutulumudur.",
+        "source": "Diseksiyon, Korean J Radiol"
+      }
+    },
+    {
+      "title": "David ameliyatında korunması amaçlanan nativ yapı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0jgmb7h",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "David ameliyatında korunması amaçlanan nativ yapı hangisidir?",
+        "options": [
+          "Pulmoner kapak",
+          "Triküspit kapak",
+          "Aort kapağı",
+          "Mitral kapak"
+        ],
+        "correct": 2,
+        "explanation": "David kök replasmanında nativ aort kapağını korur.",
+        "source": "Aort kökü onarımı, Europe PMC"
+      }
+    },
+    {
+      "title": "İnen aort klempi altında distal organ dolaşımını destekleyen yöntem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0zabhvd",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "İnen aort klempi altında distal organ dolaşımını destekleyen yöntem hangisidir?",
+        "options": [
+          "Selektif serebral perfüzyon",
+          "Retrograd serebral perfüzyon",
+          "Koroner sinüs kardiyoplejisi",
+          "Sol kalp baypası"
+        ],
+        "correct": 3,
+        "explanation": "Sol kalp baypası proksimalden aldığı kanı distal aortaya veya femoral artere aktarır.",
+        "source": "Sol kalp baypası, Front CVM 2022"
+      }
+    },
+    {
+      "title": "İnkomplet Willis poligonu, tek taraflı serebral perfüzyonun dağılımını etkileyebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0kys12r",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "İnkomplet Willis poligonu, tek taraflı serebral perfüzyonun dağılımını etkileyebilir.",
+        "isTrue": true,
+        "explanation": "Kollateral serebral ileti yeterli değilse iki taraflı perfüzyon değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sistemik soğutma, KPB kurulmadan önce perfüzyon devresi üzerinden başlatılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0teflo8",
+        "course": "PER245",
+        "topic": "Aort cerrahisinde perfüzyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Sistemik soğutma, KPB kurulmadan önce perfüzyon devresi üzerinden başlatılır.",
+        "isTrue": false,
+        "explanation": "Devre üzerinden sistemik soğutma KPB kurulduktan sonra başlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0hmxjti",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Aort diseksiyonu",
+      "en": "Aortic dissection",
+      "definition": "İntimal yırtıkla aort duvarı içinde yalancı lümen oluşması.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1cjpaw8",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Anevrizma",
+      "en": "Aneurysm",
+      "definition": "Bir arterin kalıcı, patolojik genişlemesi; damar duvarının bütünlüğü ve genişlemenin biçimi ayrıca değerlendirilir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-125btza",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "DeBakey sınıflaması",
+      "en": "DeBakey classification",
+      "definition": "Diseksiyonu başlangıç ve uzanıma göre tip I (çıkan→inen), II (yalnız çıkan), III (inen) olarak ayırır.",
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "id": "PER245-0rwcmpp",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 3,
+      "term": "TEM sınıflaması",
+      "en": "TEM classification",
+      "definition": "Aort diseksiyonunu tip, giriş yırtığı ve malperfüzyon bileşenleriyle tanımlayan sınıflama.",
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "id": "PER245-0xhqdqd",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Crawford sınıflaması",
+      "en": "Crawford classification",
+      "definition": "Torakoabdominal aort anevrizmasının anatomik yayılımını tanımlayan sınıflama.",
+      "source": "BOS drenajı, Ann CTS 2023"
+    },
+    {
+      "id": "PER245-1sqinhl",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 1,
+      "term": "DHCA",
+      "en": "Deep hypothermic circulatory arrest",
+      "definition": "Derin soğutma altında sistemik dolaşımın geçici olarak tamamen durdurulması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1mja3ek",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "MHCA",
+      "en": "Moderate hypothermic circulatory arrest",
+      "definition": "Orta derecede soğutma altında sistemik dolaşımın geçici durdurulması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-16auts4",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Retrograd serebral perfüzyon (RCP)",
+      "en": "Retrograde cerebral perfusion",
+      "definition": "Arrest sırasında üst vena kava yoluyla oksijenli kanın beyne venöz taraftan geri yönde verilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1alt75u",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Bentall ameliyatı",
+      "en": "Bentall procedure",
+      "definition": "Kompozit kapak-greftle aort kökü replasmanı ve koroner reimplantasyonu.",
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "id": "PER245-0u4lupo",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Frozen elephant trunk (FET)",
+      "en": "Frozen elephant trunk",
+      "definition": "Arkus replasmanı ile inen aortaya hibrit stent-greft yerleştirilmesi.",
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "id": "PER245-1qfhjtq",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "BOS drenajı",
+      "en": "Cerebrospinal fluid drainage",
+      "definition": "Lomber kateterle beyin-omurilik sıvısı basıncının azaltılması.",
+      "source": "BOS drenajı, Ann CTS 2023"
+    },
+    {
+      "id": "PER245-16bvmzt",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "term",
+      "importance": 2,
+      "term": "İyatrojenik aort diseksiyonu",
+      "en": "Iatrogenic aortic dissection",
+      "definition": "Kanülasyon veya klemp uygulaması gibi tıbbi işlemler sırasında aort duvarında gelişen diseksiyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0uiyx9d",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Serebral perfüzyon yönü",
+      "left": {
+        "title": "ACP",
+        "points": [
+          "Arteriyel taraftan ileri yönde akım",
+          "Aksiller, innominat veya karotis erişimi"
+        ]
+      },
+      "right": {
+        "title": "RCP",
+        "points": [
+          "Venöz taraftan geri yönde akım",
+          "Superior vena kava üzerinden erişim"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-11g56jm",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Arrestte soğutma yaklaşımı",
+      "left": {
+        "title": "DHCA",
+        "points": [
+          "Derin soğutmayla metabolik gereksinim azaltılır",
+          "İzole arrestin süresi kısıtlıdır"
+        ]
+      },
+      "right": {
+        "title": "MHCA ve ACP",
+        "points": [
+          "Daha ılımlı soğutma ile beyne akım birleştirilir",
+          "Beyin oksijen sunumu perfüzyonla desteklenir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0vnykry",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Diseksiyonda kullanılan ölçüt",
+      "left": {
+        "title": "DeBakey",
+        "points": [
+          "Başlangıç segmenti ve uzanım dikkate alınır",
+          "Tip I çıkan aortadan inen aortaya uzanır"
+        ]
+      },
+      "right": {
+        "title": "Stanford",
+        "points": [
+          "Çıkan aorta tutulumu temel ölçüttür",
+          "Çıkan aorta tutulumu tip A'dır"
+        ]
+      },
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "id": "PER245-1jjq219",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arkus cerrahisinin sorunu",
+      "body": "Arkus açıkken sistemik akımın geçici kesilmesi gerekebilir; hipotermi ve seçilmiş serebral perfüzyon, beyin koruma planının parçalarıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-08e1v1m",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "ACP akım aralığı",
+      "body": "2024 EACTS, antegrad serebral perfüzyonda 10–15 mL/kg/dk akım ve sağ radiyal arterde 40–80 mmHg basınçla ayarlama tarif eder. Hedefler yönteme göre değişebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0xo7d0a",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "RCP'nin basınç noktası",
+      "body": "2024 EACTS'te retrograd serebral perfüzyon için internal juguler ven basıncı yaklaşık 20 mmHg ve akım 100–500 mL/dk olarak tarif edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-18ntasr",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arrestte çift sıcaklık izlemi",
+      "body": "Arrest kullanılan aort cerrahisinde nazofaringeal ve çekirdek sıcaklıkları birlikte izlemek, beyin ve sistemik soğuma hakkında tamamlayıcı bilgi sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0cpecmy",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Spinal korumanın bileşenleri",
+      "body": "Torakoabdominal aort cerrahisinde BOS drenajı, distal perfüzyon ve kritik interkostal arterlerin korunması birlikte spinal kord korumasına katkı sağlar.",
+      "source": "BOS drenajı, Ann CTS 2023"
+    },
+    {
+      "id": "PER245-12v16i1",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Arkus cerrahisinde bilateral NIRS neden kullanılır?",
+      "answer": "Sağ ve sol serebral oksijenasyon değişimlerini ayrı izlemeye yardımcı olur; özellikle selektif serebral perfüzyonda asimetri önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1n7qqi8",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol kalp baypasında alınan kan genellikle nereye geri verilir?",
+      "answer": "Distal aortaya veya femoral artere; klemp altındaki organların perfüzyonunu desteklemek amaçlanır.",
+      "source": "Sol kalp baypası, Front CVM 2022"
+    },
+    {
+      "id": "PER245-04l91i8",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "İzole arrest süresi kesin güvence değildir",
+      "body": "Arrestin tolere edilebilir süresi sıcaklık, hasta özellikleri ve ek beyin korumasıyla ilişkilidir. **Süre tek başına güvence değildir**; serebral perfüzyon ve metabolik koruma birlikte planlanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1g3mgv1",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Arrest sırasında beyne arteriyel yönde kan veren yöntem hangisidir?",
+      "options": [
+        "ACP",
+        "RCP",
+        "Yalnız DHCA",
+        "Yalnız distal aort perfüzyonu"
+      ],
+      "correct": 0,
+      "explanation": "ACP antegrad serebral perfüzyondur; RCP venöz taraftan geri yönlüdür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1pcdwur",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Çıkan aorta tutulmayan diseksiyon Stanford'da hangi tipe girer?",
+      "options": [
+        "DeBakey II",
+        "Tip B",
+        "Tip A",
+        "DeBakey I"
+      ],
+      "correct": 1,
+      "explanation": "Stanford tip B'de çıkan aorta tutulmaz; tip A'nın ayırıcı ölçütü çıkan aorta tutulumudur.",
+      "source": "Diseksiyon, Korean J Radiol"
+    },
+    {
+      "id": "PER245-0jgmb7h",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "David ameliyatında korunması amaçlanan nativ yapı hangisidir?",
+      "options": [
+        "Pulmoner kapak",
+        "Triküspit kapak",
+        "Aort kapağı",
+        "Mitral kapak"
+      ],
+      "correct": 2,
+      "explanation": "David kök replasmanında nativ aort kapağını korur.",
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "id": "PER245-0zabhvd",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "İnen aort klempi altında distal organ dolaşımını destekleyen yöntem hangisidir?",
+      "options": [
+        "Selektif serebral perfüzyon",
+        "Retrograd serebral perfüzyon",
+        "Koroner sinüs kardiyoplejisi",
+        "Sol kalp baypası"
+      ],
+      "correct": 3,
+      "explanation": "Sol kalp baypası proksimalden aldığı kanı distal aortaya veya femoral artere aktarır.",
+      "source": "Sol kalp baypası, Front CVM 2022"
+    },
+    {
+      "id": "PER245-0kys12r",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "İnkomplet Willis poligonu, tek taraflı serebral perfüzyonun dağılımını etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Kollateral serebral ileti yeterli değilse iki taraflı perfüzyon değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0teflo8",
+      "course": "PER245",
+      "topic": "Aort cerrahisinde perfüzyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sistemik soğutma, KPB kurulmadan önce perfüzyon devresi üzerinden başlatılır.",
+      "isTrue": false,
+      "explanation": "Devre üzerinden sistemik soğutma KPB kurulduktan sonra başlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

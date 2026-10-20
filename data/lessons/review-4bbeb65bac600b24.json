@@ -1,0 +1,1443 @@
+{
+  "id": "review-4bbeb65bac600b24",
+  "title": "Palyatif ve düzeltici operasyonlar",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Palyatif cerrahi",
+      "text": "Palliative surgery\nAnatomiyi tam düzeltmeden fizyolojiyi iyileştiren ara girişim (şant, bant, septostomi).\nLat. palliare = örtmek",
+      "images": [],
+      "card": {
+        "id": "PER241-139i4tj",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Palyatif cerrahi",
+        "en": "Palliative surgery",
+        "definition": "Anatomiyi tam düzeltmeden fizyolojiyi iyileştiren ara girişim (şant, bant, septostomi).",
+        "origin": "Lat. palliare = örtmek"
+      }
+    },
+    {
+      "title": "Düzeltici onarım",
+      "text": "Corrective (complete) repair\nNormal seri dolaşımı sağlayan kesin onarım (ör. TOF tam düzeltme, arteriyel switch).",
+      "images": [],
+      "card": {
+        "id": "PER241-0wx2ea1",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Düzeltici onarım",
+        "en": "Corrective (complete) repair",
+        "definition": "Normal seri dolaşımı sağlayan kesin onarım (ör. TOF tam düzeltme, arteriyel switch)."
+      }
+    },
+    {
+      "title": "Blalock-Taussig(-Thomas) şant",
+      "text": "BT(T) shunt\nSubklavyen/innominat arterden pulmoner artere şant; modifiye formunda PTFE greft.\nBlalock, Taussig, Thomas (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-1nfh13o",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Blalock-Taussig(-Thomas) şant",
+        "en": "BT(T) shunt",
+        "definition": "Subklavyen/innominat arterden pulmoner artere şant; modifiye formunda PTFE greft.",
+        "origin": "Blalock, Taussig, Thomas (eponim)"
+      }
+    },
+    {
+      "title": "Sano şantı",
+      "text": "Sano shunt (RV–PA conduit)\nNorwood palyasyonunda sağ ventrikül ile pulmoner arter arasına yerleştirilen kondüit.\nS. Sano (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-10utylr",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Wikipedia",
+        "term": "Sano şantı",
+        "en": "Sano shunt (RV–PA conduit)",
+        "definition": "Norwood palyasyonunda sağ ventrikül ile pulmoner arter arasına yerleştirilen kondüit.",
+        "origin": "S. Sano (eponim)"
+      }
+    },
+    {
+      "title": "Pulmoner arter bandı",
+      "text": "Pulmonary artery banding\npulmoner artere kısıtlayıcı bant; pulmoner akım ve basıncı azaltır, TGA'da sol ventrikülü hazırlar.\nİng. band = bant",
+      "images": [],
+      "card": {
+        "id": "PER241-184ehrf",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Pulmoner arter bandı",
+        "en": "Pulmonary artery banding",
+        "definition": "pulmoner artere kısıtlayıcı bant; pulmoner akım ve basıncı azaltır, TGA'da sol ventrikülü hazırlar.",
+        "origin": "İng. band = bant"
+      }
+    },
+    {
+      "title": "Balon atriyal septostomi",
+      "text": "Balloon atrial septostomy\nKateterle foramen ovalenin balonla yırtılarak genişletilmesi; TGA'da karışım sağlar.\nYun. stoma = ağız",
+      "images": [],
+      "card": {
+        "id": "PER241-121ftoc",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Balon atriyal septostomi",
+        "en": "Balloon atrial septostomy",
+        "definition": "Kateterle foramen ovalenin balonla yırtılarak genişletilmesi; TGA'da karışım sağlar.",
+        "origin": "Yun. stoma = ağız"
+      }
+    },
+    {
+      "title": "Atriyal septektomi",
+      "text": "Atrial septectomy\nİnteratriyal septumun cerrahi olarak çıkarılması (ör. Norwood).\nYun. ektome = kesip çıkarma",
+      "images": [],
+      "card": {
+        "id": "PER241-1jtzlxw",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Atriyal septektomi",
+        "en": "Atrial septectomy",
+        "definition": "İnteratriyal septumun cerrahi olarak çıkarılması (ör. Norwood).",
+        "origin": "Yun. ektome = kesip çıkarma"
+      }
+    },
+    {
+      "title": "Bidireksiyonel Glenn",
+      "text": "Bidirectional Glenn (cavopulmonary anastomosis)\nVena kava superiorun pulmoner artere bağlandığı ikinci evre tek ventrikül palyasyonu.\nW. Glenn (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0uwb8w4",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Bidireksiyonel Glenn",
+        "en": "Bidirectional Glenn (cavopulmonary anastomosis)",
+        "definition": "Vena kava superiorun pulmoner artere bağlandığı ikinci evre tek ventrikül palyasyonu.",
+        "origin": "W. Glenn (eponim)"
+      }
+    },
+    {
+      "title": "Hemi-Fontan",
+      "text": "Hemi-Fontan\nGlenn'e alternatif ikinci evre kavopulmoner bağlantı.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jfz8ad",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Hemi-Fontan",
+        "en": "Hemi-Fontan",
+        "definition": "Glenn'e alternatif ikinci evre kavopulmoner bağlantı."
+      }
+    },
+    {
+      "title": "Fontan",
+      "text": "Fontan procedure / total cavopulmonary connection\nSistemik venöz kanın ventrikül pompası olmadan pulmoner arterlere yönlendirilmesi.\nF. Fontan (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0kzocqz",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Fontan",
+        "en": "Fontan procedure / total cavopulmonary connection",
+        "definition": "Sistemik venöz kanın ventrikül pompası olmadan pulmoner arterlere yönlendirilmesi.",
+        "origin": "F. Fontan (eponim)"
+      }
+    },
+    {
+      "title": "Fenestrasyon",
+      "text": "Fenestration\nFontan tünelinde basınç boşaltan küçük açıklık (\"pop-off valf\").\nLat. fenestra = pencere",
+      "images": [],
+      "card": {
+        "id": "PER241-0dirzku",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Fenestrasyon",
+        "en": "Fenestration",
+        "definition": "Fontan tünelinde basınç boşaltan küçük açıklık (\"pop-off valf\").",
+        "origin": "Lat. fenestra = pencere"
+      }
+    },
+    {
+      "title": "Norwood ameliyatı",
+      "text": "Norwood procedure\nHLHS evre I: atriyal septektomi + neo-aorta/ark rekonstrüksiyonu + şant (BT veya Sano).\nW. Norwood (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0sq3igm",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Norwood ameliyatı",
+        "en": "Norwood procedure",
+        "definition": "HLHS evre I: atriyal septektomi + neo-aorta/ark rekonstrüksiyonu + şant (BT veya Sano).",
+        "origin": "W. Norwood (eponim)"
+      }
+    },
+    {
+      "title": "Hibrit prosedür",
+      "text": "Hybrid procedure\nHipoplastik sol kalp için duktal stent ve pulmoner arter dal bantlarını birlikte kullanan palyatif yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER241-0lmtwm2",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Hibrit prosedür",
+        "en": "Hybrid procedure",
+        "definition": "Hipoplastik sol kalp için duktal stent ve pulmoner arter dal bantlarını birlikte kullanan palyatif yaklaşım."
+      }
+    },
+    {
+      "title": "Arteriyel switch",
+      "text": "Arterial switch operation\nAort ve pulmoner arter'nın yer değiştirilmesi + koroner arterlerin neo-aortaya aktarılması.\nA. Jatene (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0s2m7s6",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Arteriyel switch",
+        "en": "Arterial switch operation",
+        "definition": "Aort ve pulmoner arter'nın yer değiştirilmesi + koroner arterlerin neo-aortaya aktarılması.",
+        "origin": "A. Jatene (eponim)"
+      }
+    },
+    {
+      "title": "Atriyal switch",
+      "text": "Atrial switch\nVenöz dönüşlerin atriyum içinde ters ventriküllere yönlendirilmesi; sağ ventrikül sistemik kalır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0l9ffon",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Atriyal switch",
+        "en": "Atrial switch",
+        "definition": "Venöz dönüşlerin atriyum içinde ters ventriküllere yönlendirilmesi; sağ ventrikül sistemik kalır."
+      }
+    },
+    {
+      "title": "Double switch",
+      "text": "Double switch\nccTGA'da atriyal ve arteriyel switch'in birlikte yapılması.",
+      "images": [],
+      "card": {
+        "id": "PER241-1b0jpxs",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Double switch",
+        "en": "Double switch",
+        "definition": "ccTGA'da atriyal ve arteriyel switch'in birlikte yapılması."
+      }
+    },
+    {
+      "title": "Rastelli ameliyatı",
+      "text": "Rastelli procedure\nVSD'den aortaya baffle + sağ ventrikülden pulmoner artere kapaklı kondüit.\nG. Rastelli (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-1pbdb4q",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Rastelli ameliyatı",
+        "en": "Rastelli procedure",
+        "definition": "VSD'den aortaya baffle + sağ ventrikülden pulmoner artere kapaklı kondüit.",
+        "origin": "G. Rastelli (eponim)"
+      }
+    },
+    {
+      "title": "Ross ameliyatı",
+      "text": "Ross procedure\nPulmoner otogreftin aort pozisyonuna, pulmoner pozisyona homogreftin konması.\nD. Ross (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0y3613v",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Wikipedia",
+        "term": "Ross ameliyatı",
+        "en": "Ross procedure",
+        "definition": "Pulmoner otogreftin aort pozisyonuna, pulmoner pozisyona homogreftin konması.",
+        "origin": "D. Ross (eponim)"
+      }
+    },
+    {
+      "title": "Ross-Konno",
+      "text": "Ross-Konno procedure\nRoss'a ek olarak sol ventrikül çıkış yolunun genişletilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-0l4y5mq",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Ross-Konno",
+        "en": "Ross-Konno procedure",
+        "definition": "Ross'a ek olarak sol ventrikül çıkış yolunun genişletilmesi."
+      }
+    },
+    {
+      "title": "Takeuchi ameliyatı",
+      "text": "Takeuchi procedure\nALCAPA'da aortopulmoner pencere + pulmoner arter içi tünel ile koronere aortadan akım sağlanması.",
+      "images": [],
+      "card": {
+        "id": "PER241-0mkd5x6",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Takeuchi ameliyatı",
+        "en": "Takeuchi procedure",
+        "definition": "ALCAPA'da aortopulmoner pencere + pulmoner arter içi tünel ile koronere aortadan akım sağlanması."
+      }
+    },
+    {
+      "title": "Koni onarımı",
+      "text": "Cone repair\nEbstein'da triküspit yapraklarının mobilizasyonu + atriyalize sağ ventrikül plikasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER241-0nvz3dd",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Koni onarımı",
+        "en": "Cone repair",
+        "definition": "Ebstein'da triküspit yapraklarının mobilizasyonu + atriyalize sağ ventrikül plikasyonu."
+      }
+    },
+    {
+      "title": "Transanüler yama",
+      "text": "Transannular patch\nTOF onarımında pulmoner anulusu geçen yama; uzun dönemde pulmoner yetersizlik.\nLat. trans + anulus = halka",
+      "images": [],
+      "card": {
+        "id": "PER241-1o7r2ib",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Transanüler yama",
+        "en": "Transannular patch",
+        "definition": "TOF onarımında pulmoner anulusu geçen yama; uzun dönemde pulmoner yetersizlik.",
+        "origin": "Lat. trans + anulus = halka"
+      }
+    },
+    {
+      "title": "Otogreft",
+      "text": "Autograft\nHastanın kendi dokusundan elde edilen greft; Ross ameliyatında pulmoner kapak aort pozisyonuna taşınır.\nYun. autos = kendi, homos = aynı",
+      "images": [],
+      "card": {
+        "id": "PER241-175cjrn",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Otogreft",
+        "en": "Autograft",
+        "definition": "Hastanın kendi dokusundan elde edilen greft; Ross ameliyatında pulmoner kapak aort pozisyonuna taşınır.",
+        "origin": "Yun. autos = kendi, homos = aynı"
+      }
+    },
+    {
+      "title": "Kontrollü çapraz dolaşım",
+      "text": "Controlled cross-circulation\nDonör dolaşımının hastada pompa ve oksijenatör işlevini üstlenmek üzere kullanıldığı tarihsel yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER241-1li2bx6",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Wikipedia",
+        "term": "Kontrollü çapraz dolaşım",
+        "en": "Controlled cross-circulation",
+        "definition": "Donör dolaşımının hastada pompa ve oksijenatör işlevini üstlenmek üzere kullanıldığı tarihsel yöntem."
+      }
+    },
+    {
+      "title": "Homogreft",
+      "text": "Homograft\nAynı türden başka bir bireyden elde edilen doku grefti; Ross ameliyatında pulmoner pozisyona yerleştirilebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1t1tle6",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Homogreft",
+        "en": "Homograft",
+        "definition": "Aynı türden başka bir bireyden elde edilen doku grefti; Ross ameliyatında pulmoner pozisyona yerleştirilebilir."
+      }
+    },
+    {
+      "title": "Switch ameliyatları",
+      "text": "Arteriyel switch\nBüyük arterler ve koronerler aktarılır\nSol ventrikül sistemik hale gelir\n\nAtriyal switch\nVenöz dönüş atriyum içinde yönlendirilir\nSağ ventrikül sistemik kalır",
+      "images": [],
+      "card": {
+        "id": "PER241-1i260nb",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Switch ameliyatları",
+        "left": {
+          "title": "Arteriyel switch",
+          "points": [
+            "Büyük arterler ve koronerler aktarılır",
+            "Sol ventrikül sistemik hale gelir"
+          ]
+        },
+        "right": {
+          "title": "Atriyal switch",
+          "points": [
+            "Venöz dönüş atriyum içinde yönlendirilir",
+            "Sağ ventrikül sistemik kalır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Kavopulmoner palyasyon evreleri",
+      "text": "Bidireksiyonel Glenn\nvena kava superior kanı pulmoner artere yönlendirilir\nTek ventrikül palyasyonunun ikinci evresidir\n\nFontan\nvena kava inferior kanı da pulmoner dolaşıma eklenir\nTek ventrikül palyasyonunun üçüncü evresidir",
+      "images": [],
+      "card": {
+        "id": "PER241-0txfwc1",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Kavopulmoner palyasyon evreleri",
+        "left": {
+          "title": "Bidireksiyonel Glenn",
+          "points": [
+            "vena kava superior kanı pulmoner artere yönlendirilir",
+            "Tek ventrikül palyasyonunun ikinci evresidir"
+          ]
+        },
+        "right": {
+          "title": "Fontan",
+          "points": [
+            "vena kava inferior kanı da pulmoner dolaşıma eklenir",
+            "Tek ventrikül palyasyonunun üçüncü evresidir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Pulmoner kan akımı için şant",
+      "text": "BT şantı\nSistemik arter ile pulmoner arter arasındadır\nDiyastolik kaçak koroner akımı azaltabilir\n\nSano şantı\nSağ ventrikül ile pulmoner arter arasındadır\nSistemik arter kökenli diyastolik kaçaktan kaçınır",
+      "images": [],
+      "card": {
+        "id": "PER241-19tlr0b",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Pulmoner kan akımı için şant",
+        "left": {
+          "title": "BT şantı",
+          "points": [
+            "Sistemik arter ile pulmoner arter arasındadır",
+            "Diyastolik kaçak koroner akımı azaltabilir"
+          ]
+        },
+        "right": {
+          "title": "Sano şantı",
+          "points": [
+            "Sağ ventrikül ile pulmoner arter arasındadır",
+            "Sistemik arter kökenli diyastolik kaçaktan kaçınır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Tek ventrikülde başlangıç yaklaşımı",
+      "text": "Norwood\nNeo-aorta ve aortik ark rekonstrüksiyonu\nPulmoner akım için şant eklenir\n\nHibrit yaklaşım\nDuktusa stent yerleştirilir\nPulmoner arter dallarına bant uygulanır",
+      "images": [],
+      "card": {
+        "id": "PER241-0liy9vj",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Tek ventrikülde başlangıç yaklaşımı",
+        "left": {
+          "title": "Norwood",
+          "points": [
+            "Neo-aorta ve aortik ark rekonstrüksiyonu",
+            "Pulmoner akım için şant eklenir"
+          ]
+        },
+        "right": {
+          "title": "Hibrit yaklaşım",
+          "points": [
+            "Duktusa stent yerleştirilir",
+            "Pulmoner arter dallarına bant uygulanır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Pulmoner otogreft kullanılan ameliyatlar",
+      "text": "Ross\nPulmoner otogreft aort pozisyonuna taşınır\nPulmoner pozisyona homogreft konabilir\n\nRoss-Konno\nAynı kapak değişimi uygulanır\nSol ventrikül çıkış yolu ayrıca genişletilir",
+      "images": [],
+      "card": {
+        "id": "PER241-0c8k8ik",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Pulmoner otogreft kullanılan ameliyatlar",
+        "left": {
+          "title": "Ross",
+          "points": [
+            "Pulmoner otogreft aort pozisyonuna taşınır",
+            "Pulmoner pozisyona homogreft konabilir"
+          ]
+        },
+        "right": {
+          "title": "Ross-Konno",
+          "points": [
+            "Aynı kapak değişimi uygulanır",
+            "Sol ventrikül çıkış yolu ayrıca genişletilir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "PA bandında takip edilen sorunlar",
+      "text": "Pulmoner arter bandının **yer değiştirmesi ve arterde distorsiyon** oluşturması takipte önem taşır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1o5ch99",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "PA bandında takip edilen sorunlar",
+        "body": "Pulmoner arter bandının **yer değiştirmesi ve arterde distorsiyon** oluşturması takipte önem taşır."
+      }
+    },
+    {
+      "title": "Arteriyel switch'te koronerler",
+      "text": "Büyük arterler değiştirilirken **koroner ağızlar neo-aortaya aktarılır**; koroner transfer onarımın temel adımıdır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1sb34ly",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Arteriyel switch'te koronerler",
+        "body": "Büyük arterler değiştirilirken **koroner ağızlar neo-aortaya aktarılır**; koroner transfer onarımın temel adımıdır."
+      }
+    },
+    {
+      "title": "Rastelli'de tekrar girişim nedeni",
+      "text": "Sağ ventrikül–pulmoner arter kondüitinde **darlık** gelişmesi veya büyümeyle uyumsuzluk, yeniden girişim gerektirebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1dj3ebq",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Rastelli'de tekrar girişim nedeni",
+        "body": "Sağ ventrikül–pulmoner arter kondüitinde **darlık** gelişmesi veya büyümeyle uyumsuzluk, yeniden girişim gerektirebilir."
+      }
+    },
+    {
+      "title": "Ross'ta büyüme avantajı",
+      "text": "Pulmoner otogreft **çocukla birlikte büyüyebilir**; pediatrik aort kapak cerrahisinde önemli avantajdır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0pzdcnq",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Ross'ta büyüme avantajı",
+        "body": "Pulmoner otogreft **çocukla birlikte büyüyebilir**; pediatrik aort kapak cerrahisinde önemli avantajdır."
+      }
+    },
+    {
+      "title": "Ross'un iki kapak riski",
+      "text": "Aort pozisyonundaki otogreft dilatasyonu ve pulmoner homogreft darlığıyla **iki kapak yatağında sorun** gelişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-02hkhqs",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Ross'un iki kapak riski",
+        "body": "Aort pozisyonundaki otogreft dilatasyonu ve pulmoner homogreft darlığıyla **iki kapak yatağında sorun** gelişebilir."
+      }
+    },
+    {
+      "title": "Fontan dolaşımının ön koşulları nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0jwrerb",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Wikipedia",
+        "question": "Fontan dolaşımının ön koşulları nelerdir?",
+        "answer": "Pasif pulmoner akım için **düşük pulmoner direnç** ve iyi ventrikül fonksiyonu gerekir."
+      }
+    },
+    {
+      "title": "Fontan fenestrasyonunun işlevi",
+      "text": "Fenestrasyon, yüksek venöz basınç için **basınç boşaltma açıklığı** görevi görür; dolaşımın anatomik bir düzeltmesi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER241-037g1br",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Fontan fenestrasyonunun işlevi",
+        "body": "Fenestrasyon, yüksek venöz basınç için **basınç boşaltma açıklığı** görevi görür; dolaşımın anatomik bir düzeltmesi değildir."
+      }
+    },
+    {
+      "title": "Koni onarımının ventriküler bileşeni",
+      "text": "Triküspit yapraklarının mobilizasyonuna ek olarak **atriyalize sağ ventrikül plikasyonu** uygulanır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0m1gz3b",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Koni onarımının ventriküler bileşeni",
+        "body": "Triküspit yapraklarının mobilizasyonuna ek olarak **atriyalize sağ ventrikül plikasyonu** uygulanır."
+      }
+    },
+    {
+      "title": "Takeuchi'de koroner akımın yolu",
+      "text": "Aortopulmoner pencere ve **pulmoner arter içi tünel**, aortik kanı anormal koroner ağza yönlendirir.",
+      "images": [],
+      "card": {
+        "id": "PER241-07mu4if",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wang ve An 2025",
+        "title": "Takeuchi'de koroner akımın yolu",
+        "body": "Aortopulmoner pencere ve **pulmoner arter içi tünel**, aortik kanı anormal koroner ağza yönlendirir."
+      }
+    },
+    {
+      "title": "Tek ventrikülde evre sırası",
+      "text": "HLHS için tipik sıralama **Norwood → bidireksiyonel Glenn → Fontan** şeklindedir. Yaş aralıkları kaynağa ve hastaya göre değişir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0611ler",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Tek ventrikülde evre sırası",
+        "body": "HLHS için tipik sıralama **Norwood → bidireksiyonel Glenn → Fontan** şeklindedir. Yaş aralıkları kaynağa ve hastaya göre değişir."
+      }
+    },
+    {
+      "title": "Atriyal ve arteriyel switch'in birlikte uygulandığı girişim hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-00zur9l",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Atriyal ve arteriyel switch'in birlikte uygulandığı girişim hangisidir?",
+        "options": [
+          "Rastelli",
+          "Ross-Konno",
+          "Takeuchi",
+          "Double switch"
+        ],
+        "correct": 3,
+        "explanation": "Double switch, ccTGA'da sistemik sağ ventrikül yükünü değiştirmeyi amaçlayan seçenektir."
+      }
+    },
+    {
+      "title": "TGA'da sol ventrikülü sistemik yüke hazırlamak için hangi girişim kullanılabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1eja5x9",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "TGA'da sol ventrikülü sistemik yüke hazırlamak için hangi girişim kullanılabilir?",
+        "options": [
+          "Pulmoner arter bandı",
+          "Fontan fenestrasyonu",
+          "Koroner fistül embolizasyonu",
+          "Mitral yarık kapatılması"
+        ],
+        "correct": 0,
+        "explanation": "Pulmoner arter bandı sol ventrikülün basınç yükünü artırarak hazırlık sağlayabilir."
+      }
+    },
+    {
+      "title": "İnteratriyal septumun cerrahi çıkarılması hangi terimle ifade edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0zula0c",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "İnteratriyal septumun cerrahi çıkarılması hangi terimle ifade edilir?",
+        "options": [
+          "Atriyal septostomi",
+          "Atriyal septektomi",
+          "Arteriyel switch",
+          "Valvüloplasti"
+        ],
+        "correct": 1,
+        "explanation": "Septektomi doku çıkarılmasıdır; septostomi açıklık oluşturulması veya genişletilmesidir."
+      }
+    },
+    {
+      "title": "Ross'ta hastanın hangi kapağı aort pozisyonuna taşınır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1qn6mgj",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "Ross'ta hastanın hangi kapağı aort pozisyonuna taşınır?",
+        "options": [
+          "Triküspit kapak",
+          "Mitral kapak",
+          "Pulmoner kapak",
+          "Koroner sinüs kapağı"
+        ],
+        "correct": 2,
+        "explanation": "Ross pulmoner otogreftle aort kapağının değiştirilmesidir."
+      }
+    },
+    {
+      "title": "Norwood'da pulmoner kök, neo-aortanın oluşturulmasına katılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-08hnjg0",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Wikipedia",
+        "statement": "Norwood'da pulmoner kök, neo-aortanın oluşturulmasına katılır.",
+        "isTrue": true,
+        "explanation": "Norwood neo-aorta ve ark rekonstrüksiyonuyla sistemik çıkış yolu sağlar."
+      }
+    },
+    {
+      "title": "Koni onarımı temel olarak aort kapağının onarımı için kullanılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0nyomuf",
+        "course": "PER241",
+        "topic": "Palyatif ve düzeltici operasyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Koni onarımı temel olarak aort kapağının onarımı için kullanılır.",
+        "isTrue": false,
+        "explanation": "Koni onarımı Ebstein'daki triküspit kapak deformitesine yöneliktir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-139i4tj",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Palyatif cerrahi",
+      "en": "Palliative surgery",
+      "definition": "Anatomiyi tam düzeltmeden fizyolojiyi iyileştiren ara girişim (şant, bant, septostomi).",
+      "origin": "Lat. palliare = örtmek"
+    },
+    {
+      "id": "PER241-0wx2ea1",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Düzeltici onarım",
+      "en": "Corrective (complete) repair",
+      "definition": "Normal seri dolaşımı sağlayan kesin onarım (ör. TOF tam düzeltme, arteriyel switch)."
+    },
+    {
+      "id": "PER241-1nfh13o",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Blalock-Taussig(-Thomas) şant",
+      "en": "BT(T) shunt",
+      "definition": "Subklavyen/innominat arterden pulmoner artere şant; modifiye formunda PTFE greft.",
+      "origin": "Blalock, Taussig, Thomas (eponim)"
+    },
+    {
+      "id": "PER241-10utylr",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Sano şantı",
+      "en": "Sano shunt (RV–PA conduit)",
+      "definition": "Norwood palyasyonunda sağ ventrikül ile pulmoner arter arasına yerleştirilen kondüit.",
+      "origin": "S. Sano (eponim)"
+    },
+    {
+      "id": "PER241-184ehrf",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Pulmoner arter bandı",
+      "en": "Pulmonary artery banding",
+      "definition": "pulmoner artere kısıtlayıcı bant; pulmoner akım ve basıncı azaltır, TGA'da sol ventrikülü hazırlar.",
+      "origin": "İng. band = bant"
+    },
+    {
+      "id": "PER241-121ftoc",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Balon atriyal septostomi",
+      "en": "Balloon atrial septostomy",
+      "definition": "Kateterle foramen ovalenin balonla yırtılarak genişletilmesi; TGA'da karışım sağlar.",
+      "origin": "Yun. stoma = ağız"
+    },
+    {
+      "id": "PER241-1jtzlxw",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Atriyal septektomi",
+      "en": "Atrial septectomy",
+      "definition": "İnteratriyal septumun cerrahi olarak çıkarılması (ör. Norwood).",
+      "origin": "Yun. ektome = kesip çıkarma"
+    },
+    {
+      "id": "PER241-0uwb8w4",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Bidireksiyonel Glenn",
+      "en": "Bidirectional Glenn (cavopulmonary anastomosis)",
+      "definition": "Vena kava superiorun pulmoner artere bağlandığı ikinci evre tek ventrikül palyasyonu.",
+      "origin": "W. Glenn (eponim)"
+    },
+    {
+      "id": "PER241-0jfz8ad",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Hemi-Fontan",
+      "en": "Hemi-Fontan",
+      "definition": "Glenn'e alternatif ikinci evre kavopulmoner bağlantı."
+    },
+    {
+      "id": "PER241-0kzocqz",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Fontan",
+      "en": "Fontan procedure / total cavopulmonary connection",
+      "definition": "Sistemik venöz kanın ventrikül pompası olmadan pulmoner arterlere yönlendirilmesi.",
+      "origin": "F. Fontan (eponim)"
+    },
+    {
+      "id": "PER241-0dirzku",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Fenestrasyon",
+      "en": "Fenestration",
+      "definition": "Fontan tünelinde basınç boşaltan küçük açıklık (\"pop-off valf\").",
+      "origin": "Lat. fenestra = pencere"
+    },
+    {
+      "id": "PER241-0sq3igm",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Norwood ameliyatı",
+      "en": "Norwood procedure",
+      "definition": "HLHS evre I: atriyal septektomi + neo-aorta/ark rekonstrüksiyonu + şant (BT veya Sano).",
+      "origin": "W. Norwood (eponim)"
+    },
+    {
+      "id": "PER241-0lmtwm2",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Hibrit prosedür",
+      "en": "Hybrid procedure",
+      "definition": "Hipoplastik sol kalp için duktal stent ve pulmoner arter dal bantlarını birlikte kullanan palyatif yaklaşım."
+    },
+    {
+      "id": "PER241-0s2m7s6",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Arteriyel switch",
+      "en": "Arterial switch operation",
+      "definition": "Aort ve pulmoner arter'nın yer değiştirilmesi + koroner arterlerin neo-aortaya aktarılması.",
+      "origin": "A. Jatene (eponim)"
+    },
+    {
+      "id": "PER241-0l9ffon",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Atriyal switch",
+      "en": "Atrial switch",
+      "definition": "Venöz dönüşlerin atriyum içinde ters ventriküllere yönlendirilmesi; sağ ventrikül sistemik kalır."
+    },
+    {
+      "id": "PER241-1b0jpxs",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Double switch",
+      "en": "Double switch",
+      "definition": "ccTGA'da atriyal ve arteriyel switch'in birlikte yapılması."
+    },
+    {
+      "id": "PER241-1pbdb4q",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Rastelli ameliyatı",
+      "en": "Rastelli procedure",
+      "definition": "VSD'den aortaya baffle + sağ ventrikülden pulmoner artere kapaklı kondüit.",
+      "origin": "G. Rastelli (eponim)"
+    },
+    {
+      "id": "PER241-0y3613v",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Ross ameliyatı",
+      "en": "Ross procedure",
+      "definition": "Pulmoner otogreftin aort pozisyonuna, pulmoner pozisyona homogreftin konması.",
+      "origin": "D. Ross (eponim)"
+    },
+    {
+      "id": "PER241-0l4y5mq",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ross-Konno",
+      "en": "Ross-Konno procedure",
+      "definition": "Ross'a ek olarak sol ventrikül çıkış yolunun genişletilmesi."
+    },
+    {
+      "id": "PER241-0mkd5x6",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Takeuchi ameliyatı",
+      "en": "Takeuchi procedure",
+      "definition": "ALCAPA'da aortopulmoner pencere + pulmoner arter içi tünel ile koronere aortadan akım sağlanması."
+    },
+    {
+      "id": "PER241-0nvz3dd",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Koni onarımı",
+      "en": "Cone repair",
+      "definition": "Ebstein'da triküspit yapraklarının mobilizasyonu + atriyalize sağ ventrikül plikasyonu."
+    },
+    {
+      "id": "PER241-1o7r2ib",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Transanüler yama",
+      "en": "Transannular patch",
+      "definition": "TOF onarımında pulmoner anulusu geçen yama; uzun dönemde pulmoner yetersizlik.",
+      "origin": "Lat. trans + anulus = halka"
+    },
+    {
+      "id": "PER241-175cjrn",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Otogreft",
+      "en": "Autograft",
+      "definition": "Hastanın kendi dokusundan elde edilen greft; Ross ameliyatında pulmoner kapak aort pozisyonuna taşınır.",
+      "origin": "Yun. autos = kendi, homos = aynı"
+    },
+    {
+      "id": "PER241-1li2bx6",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Kontrollü çapraz dolaşım",
+      "en": "Controlled cross-circulation",
+      "definition": "Donör dolaşımının hastada pompa ve oksijenatör işlevini üstlenmek üzere kullanıldığı tarihsel yöntem."
+    },
+    {
+      "id": "PER241-1t1tle6",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Homogreft",
+      "en": "Homograft",
+      "definition": "Aynı türden başka bir bireyden elde edilen doku grefti; Ross ameliyatında pulmoner pozisyona yerleştirilebilir."
+    },
+    {
+      "id": "PER241-1i260nb",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Switch ameliyatları",
+      "left": {
+        "title": "Arteriyel switch",
+        "points": [
+          "Büyük arterler ve koronerler aktarılır",
+          "Sol ventrikül sistemik hale gelir"
+        ]
+      },
+      "right": {
+        "title": "Atriyal switch",
+        "points": [
+          "Venöz dönüş atriyum içinde yönlendirilir",
+          "Sağ ventrikül sistemik kalır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0txfwc1",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kavopulmoner palyasyon evreleri",
+      "left": {
+        "title": "Bidireksiyonel Glenn",
+        "points": [
+          "vena kava superior kanı pulmoner artere yönlendirilir",
+          "Tek ventrikül palyasyonunun ikinci evresidir"
+        ]
+      },
+      "right": {
+        "title": "Fontan",
+        "points": [
+          "vena kava inferior kanı da pulmoner dolaşıma eklenir",
+          "Tek ventrikül palyasyonunun üçüncü evresidir"
+        ]
+      }
+    },
+    {
+      "id": "PER241-19tlr0b",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Pulmoner kan akımı için şant",
+      "left": {
+        "title": "BT şantı",
+        "points": [
+          "Sistemik arter ile pulmoner arter arasındadır",
+          "Diyastolik kaçak koroner akımı azaltabilir"
+        ]
+      },
+      "right": {
+        "title": "Sano şantı",
+        "points": [
+          "Sağ ventrikül ile pulmoner arter arasındadır",
+          "Sistemik arter kökenli diyastolik kaçaktan kaçınır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0liy9vj",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Tek ventrikülde başlangıç yaklaşımı",
+      "left": {
+        "title": "Norwood",
+        "points": [
+          "Neo-aorta ve aortik ark rekonstrüksiyonu",
+          "Pulmoner akım için şant eklenir"
+        ]
+      },
+      "right": {
+        "title": "Hibrit yaklaşım",
+        "points": [
+          "Duktusa stent yerleştirilir",
+          "Pulmoner arter dallarına bant uygulanır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0c8k8ik",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Pulmoner otogreft kullanılan ameliyatlar",
+      "left": {
+        "title": "Ross",
+        "points": [
+          "Pulmoner otogreft aort pozisyonuna taşınır",
+          "Pulmoner pozisyona homogreft konabilir"
+        ]
+      },
+      "right": {
+        "title": "Ross-Konno",
+        "points": [
+          "Aynı kapak değişimi uygulanır",
+          "Sol ventrikül çıkış yolu ayrıca genişletilir"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1o5ch99",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "PA bandında takip edilen sorunlar",
+      "body": "Pulmoner arter bandının **yer değiştirmesi ve arterde distorsiyon** oluşturması takipte önem taşır."
+    },
+    {
+      "id": "PER241-1sb34ly",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Arteriyel switch'te koronerler",
+      "body": "Büyük arterler değiştirilirken **koroner ağızlar neo-aortaya aktarılır**; koroner transfer onarımın temel adımıdır."
+    },
+    {
+      "id": "PER241-1dj3ebq",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Rastelli'de tekrar girişim nedeni",
+      "body": "Sağ ventrikül–pulmoner arter kondüitinde **darlık** gelişmesi veya büyümeyle uyumsuzluk, yeniden girişim gerektirebilir."
+    },
+    {
+      "id": "PER241-0pzdcnq",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Ross'ta büyüme avantajı",
+      "body": "Pulmoner otogreft **çocukla birlikte büyüyebilir**; pediatrik aort kapak cerrahisinde önemli avantajdır."
+    },
+    {
+      "id": "PER241-02hkhqs",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Ross'un iki kapak riski",
+      "body": "Aort pozisyonundaki otogreft dilatasyonu ve pulmoner homogreft darlığıyla **iki kapak yatağında sorun** gelişebilir."
+    },
+    {
+      "id": "PER241-0jwrerb",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Wikipedia",
+      "question": "Fontan dolaşımının ön koşulları nelerdir?",
+      "answer": "Pasif pulmoner akım için **düşük pulmoner direnç** ve iyi ventrikül fonksiyonu gerekir."
+    },
+    {
+      "id": "PER241-037g1br",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Fontan fenestrasyonunun işlevi",
+      "body": "Fenestrasyon, yüksek venöz basınç için **basınç boşaltma açıklığı** görevi görür; dolaşımın anatomik bir düzeltmesi değildir."
+    },
+    {
+      "id": "PER241-0m1gz3b",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Koni onarımının ventriküler bileşeni",
+      "body": "Triküspit yapraklarının mobilizasyonuna ek olarak **atriyalize sağ ventrikül plikasyonu** uygulanır."
+    },
+    {
+      "id": "PER241-07mu4if",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wang ve An 2025",
+      "title": "Takeuchi'de koroner akımın yolu",
+      "body": "Aortopulmoner pencere ve **pulmoner arter içi tünel**, aortik kanı anormal koroner ağza yönlendirir."
+    },
+    {
+      "id": "PER241-0611ler",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Tek ventrikülde evre sırası",
+      "body": "HLHS için tipik sıralama **Norwood → bidireksiyonel Glenn → Fontan** şeklindedir. Yaş aralıkları kaynağa ve hastaya göre değişir."
+    },
+    {
+      "id": "PER241-00zur9l",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Atriyal ve arteriyel switch'in birlikte uygulandığı girişim hangisidir?",
+      "options": [
+        "Rastelli",
+        "Ross-Konno",
+        "Takeuchi",
+        "Double switch"
+      ],
+      "correct": 3,
+      "explanation": "Double switch, ccTGA'da sistemik sağ ventrikül yükünü değiştirmeyi amaçlayan seçenektir."
+    },
+    {
+      "id": "PER241-1eja5x9",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "TGA'da sol ventrikülü sistemik yüke hazırlamak için hangi girişim kullanılabilir?",
+      "options": [
+        "Pulmoner arter bandı",
+        "Fontan fenestrasyonu",
+        "Koroner fistül embolizasyonu",
+        "Mitral yarık kapatılması"
+      ],
+      "correct": 0,
+      "explanation": "Pulmoner arter bandı sol ventrikülün basınç yükünü artırarak hazırlık sağlayabilir."
+    },
+    {
+      "id": "PER241-0zula0c",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "İnteratriyal septumun cerrahi çıkarılması hangi terimle ifade edilir?",
+      "options": [
+        "Atriyal septostomi",
+        "Atriyal septektomi",
+        "Arteriyel switch",
+        "Valvüloplasti"
+      ],
+      "correct": 1,
+      "explanation": "Septektomi doku çıkarılmasıdır; septostomi açıklık oluşturulması veya genişletilmesidir."
+    },
+    {
+      "id": "PER241-1qn6mgj",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Ross'ta hastanın hangi kapağı aort pozisyonuna taşınır?",
+      "options": [
+        "Triküspit kapak",
+        "Mitral kapak",
+        "Pulmoner kapak",
+        "Koroner sinüs kapağı"
+      ],
+      "correct": 2,
+      "explanation": "Ross pulmoner otogreftle aort kapağının değiştirilmesidir."
+    },
+    {
+      "id": "PER241-08hnjg0",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "Norwood'da pulmoner kök, neo-aortanın oluşturulmasına katılır.",
+      "isTrue": true,
+      "explanation": "Norwood neo-aorta ve ark rekonstrüksiyonuyla sistemik çıkış yolu sağlar."
+    },
+    {
+      "id": "PER241-0nyomuf",
+      "course": "PER241",
+      "topic": "Palyatif ve düzeltici operasyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Koni onarımı temel olarak aort kapağının onarımı için kullanılır.",
+      "isTrue": false,
+      "explanation": "Koni onarımı Ebstein'daki triküspit kapak deformitesine yöneliktir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

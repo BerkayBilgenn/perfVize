@@ -1,0 +1,1004 @@
+{
+  "id": "review-26934b0da761b92b",
+  "title": "LVAD/RVAD/BiVAD ve komplikasyonları",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "INTERMACS profili",
+      "text": "INTERMACS profile\nİleri kalp yetmezliğini 1 (kritik şok, \"crash and burn\") ile 7 (ileri NYHA III) arasında sınıflama.",
+      "images": [],
+      "card": {
+        "id": "PER207-15eqoxs",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 1,
+        "term": "INTERMACS profili",
+        "en": "INTERMACS profile",
+        "definition": "İleri kalp yetmezliğini 1 (kritik şok, \"crash and burn\") ile 7 (ileri NYHA III) arasında sınıflama.",
+        "source": "INTERMACS sınıflaması 2010"
+      }
+    },
+    {
+      "title": "Edinsel von Willebrand sendromu",
+      "text": "Acquired von Willebrand syndrome\nYüksek shear stresle büyük vWF multimerlerinin yıkılması; LVAD'de GİS kanamasına zemin hazırlar.",
+      "images": [],
+      "card": {
+        "id": "PER207-0tyhxb9",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 2,
+        "term": "Edinsel von Willebrand sendromu",
+        "en": "Acquired von Willebrand syndrome",
+        "definition": "Yüksek shear stresle büyük vWF multimerlerinin yıkılması; LVAD'de GİS kanamasına zemin hazırlar.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "LVAD",
+      "text": "Left ventricular assist device\nLV apeksinden kanı alıp çıkan aorta pompalayan implante edilebilir cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-03kc6yu",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 3,
+        "term": "LVAD",
+        "en": "Left ventricular assist device",
+        "definition": "LV apeksinden kanı alıp çıkan aorta pompalayan implante edilebilir cihaz.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "RVAD",
+      "text": "Right ventricular assist device\nRA/RV'den pulmoner artere kan pompalayarak sağ ventrikülü destekleyen cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1h5ixrk",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 3,
+        "term": "RVAD",
+        "en": "Right ventricular assist device",
+        "definition": "RA/RV'den pulmoner artere kan pompalayarak sağ ventrikülü destekleyen cihaz.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "BiVAD",
+      "text": "Biventricular assist device\nHer iki ventrikülü ayrı pompalarla destekleme.",
+      "images": [],
+      "card": {
+        "id": "PER207-0bd8fbb",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 2,
+        "term": "BiVAD",
+        "en": "Biventricular assist device",
+        "definition": "Her iki ventrikülü ayrı pompalarla destekleme.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "OxyRVAD",
+      "text": "Oxygenator-RVAD\nOksijenatör eklenmiş RA–PA sağ ventrikül desteği (solunum desteği de sağlar).",
+      "images": [],
+      "card": {
+        "id": "PER207-1babsp8",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 2,
+        "term": "OxyRVAD",
+        "en": "Oxygenator-RVAD",
+        "definition": "Oksijenatör eklenmiş RA–PA sağ ventrikül desteği (solunum desteği de sağlar).",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Pulsatil VAD",
+      "text": "Pulsatile VAD\nHacim yer değiştirmeli, kapaklı, pnömatik/elektrik membran pompalar (HeartMate XVE, Berlin Heart EXCOR).",
+      "images": [],
+      "card": {
+        "id": "PER207-0xdhqzs",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 1,
+        "term": "Pulsatil VAD",
+        "en": "Pulsatile VAD",
+        "definition": "Hacim yer değiştirmeli, kapaklı, pnömatik/elektrik membran pompalar (HeartMate XVE, Berlin Heart EXCOR).",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Sürekli akımlı LVAD",
+      "text": "Continuous-flow LVAD\nDönen aksiyel veya santrifüj rotorla sürekli kan akımı sağlayan sol ventrikül destek cihazı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1vmpq27",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 2,
+        "term": "Sürekli akımlı LVAD",
+        "en": "Continuous-flow LVAD",
+        "definition": "Dönen aksiyel veya santrifüj rotorla sürekli kan akımı sağlayan sol ventrikül destek cihazı.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Manyetik levitasyon",
+      "text": "Magnetic levitation (maglev)\nRotorun mekanik yatak olmadan manyetik alanla askıda tutulması; HeartMate 3 gibi destek cihazlarında kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1044fe5",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 1,
+        "term": "Manyetik levitasyon",
+        "en": "Magnetic levitation (maglev)",
+        "definition": "Rotorun mekanik yatak olmadan manyetik alanla askıda tutulması; HeartMate 3 gibi destek cihazlarında kullanılır.",
+        "source": "FDA HeartMate 3 kullanım talimatı"
+      }
+    },
+    {
+      "title": "Driveline",
+      "text": "Driveline\nPompayı dış kontrolör/bataryaya bağlayan, deriden çıkan güç kablosu; enfeksiyon kapısı.",
+      "images": [],
+      "card": {
+        "id": "PER207-0v46izt",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 2,
+        "term": "Driveline",
+        "en": "Driveline",
+        "definition": "Pompayı dış kontrolör/bataryaya bağlayan, deriden çıkan güç kablosu; enfeksiyon kapısı.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Pulsatilite indeksi",
+      "text": "Pulsatility index\nLVAD akımındaki kalp döngüsüyle ilişkili dalgalanmayı gösteren parametre; dolum ve nativ ventrikül işlevinden etkilenir.",
+      "images": [],
+      "card": {
+        "id": "PER207-18v8qk8",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 1,
+        "term": "Pulsatilite indeksi",
+        "en": "Pulsatility index",
+        "definition": "LVAD akımındaki kalp döngüsüyle ilişkili dalgalanmayı gösteren parametre; dolum ve nativ ventrikül işlevinden etkilenir.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "Emme olayı",
+      "text": "Suction event\nYeterince dolmayan ventrikülün pompa tarafından aşırı emilmesiyle akımın bozulması; LVAD’de dolum yetersizliğini düşündürür.",
+      "images": [],
+      "card": {
+        "id": "PER207-0hf9jf5",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 3,
+        "term": "Emme olayı",
+        "en": "Suction event",
+        "definition": "Yeterince dolmayan ventrikülün pompa tarafından aşırı emilmesiyle akımın bozulması; LVAD’de dolum yetersizliğini düşündürür.",
+        "source": "LVAD pulsatilite derlemesi 2023"
+      }
+    },
+    {
+      "title": "Pompa trombozu",
+      "text": "Pump thrombosis\nPompa içinde trombüs; LDH, plazma serbest Hb ve güç (W) artışı ile kendini gösterir.",
+      "images": [],
+      "card": {
+        "id": "PER207-17hrpz8",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 3,
+        "term": "Pompa trombozu",
+        "en": "Pump thrombosis",
+        "definition": "Pompa içinde trombüs; LDH, plazma serbest Hb ve güç (W) artışı ile kendini gösterir.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "Giriş kanülü",
+      "text": "Inflow cannula\nLVAD’de sol ventrikülden kanı pompanın girişine taşıyan bileşen; sıklıkla apeks üzerinden yerleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0pzvtz1",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 1,
+        "term": "Giriş kanülü",
+        "en": "Inflow cannula",
+        "definition": "LVAD’de sol ventrikülden kanı pompanın girişine taşıyan bileşen; sıklıkla apeks üzerinden yerleştirilir.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Çıkış grefti",
+      "text": "Outflow graft\nLVAD pompasından çıkan kanı aorta taşıyan vasküler bağlantı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1byxyzr",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "term",
+        "importance": 1,
+        "term": "Çıkış grefti",
+        "en": "Outflow graft",
+        "definition": "LVAD pompasından çıkan kanı aorta taşıyan vasküler bağlantı.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Tek ve çift ventrikül desteği",
+      "text": "LVAD\nSol ventrikülü destekler\nSağ kalp yeterliliği ayrıca değerlendirilir\n\nBiVAD\nİki ventrikülü destekler\nSağ ve sol destek pompaları bulunur",
+      "images": [],
+      "card": {
+        "id": "PER207-0jggnkj",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "compare",
+        "importance": 2,
+        "title": "Tek ve çift ventrikül desteği",
+        "left": {
+          "title": "LVAD",
+          "points": [
+            "Sol ventrikülü destekler",
+            "Sağ kalp yeterliliği ayrıca değerlendirilir"
+          ]
+        },
+        "right": {
+          "title": "BiVAD",
+          "points": [
+            "İki ventrikülü destekler",
+            "Sağ ve sol destek pompaları bulunur"
+          ]
+        },
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Uzun süreli destek amacı",
+      "text": "Transplantasyona köprü\nHasta nakil adayıdır\nDestek organ bulunana kadar sürer\n\nDestinasyon tedavisi\nHasta nakil adayı değildir\nDestek kalıcı tedavi olarak planlanır",
+      "images": [],
+      "card": {
+        "id": "PER207-1fkjy8h",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "compare",
+        "importance": 2,
+        "title": "Uzun süreli destek amacı",
+        "left": {
+          "title": "Transplantasyona köprü",
+          "points": [
+            "Hasta nakil adayıdır",
+            "Destek organ bulunana kadar sürer"
+          ]
+        },
+        "right": {
+          "title": "Destinasyon tedavisi",
+          "points": [
+            "Hasta nakil adayı değildir",
+            "Destek kalıcı tedavi olarak planlanır"
+          ]
+        },
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "REMATCH ve destinasyon tedavisi",
+      "text": "REMATCH (NEJM 2001), nakil adayı olmayan ileri kalp yetmezliği hastalarında uzun süreli LVAD’yi medikal tedaviyle karşılaştırdı; **1 yıl sağkalım %52’ye karşı %25** idi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1fr7h2j",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "fact",
+        "importance": 2,
+        "title": "REMATCH ve destinasyon tedavisi",
+        "body": "REMATCH (NEJM 2001), nakil adayı olmayan ileri kalp yetmezliği hastalarında uzun süreli LVAD’yi medikal tedaviyle karşılaştırdı; **1 yıl sağkalım %52’ye karşı %25** idi.",
+        "source": "REMATCH, NEJM 2001"
+      }
+    },
+    {
+      "title": "MOMENTUM 3 ve pompa trombozu",
+      "text": "MOMENTUM 3 final raporunda HeartMate 3 ve HeartMate II için 2 yıllık şüpheli veya doğrulanmış pompa trombozu **%1,4’e karşı %13,9** olarak bildirildi. Bu çalışma sonuçları tüm cihazlara genellenmez.",
+      "images": [],
+      "card": {
+        "id": "PER207-1w8o1hp",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "fact",
+        "importance": 2,
+        "title": "MOMENTUM 3 ve pompa trombozu",
+        "body": "MOMENTUM 3 final raporunda HeartMate 3 ve HeartMate II için 2 yıllık şüpheli veya doğrulanmış pompa trombozu **%1,4’e karşı %13,9** olarak bildirildi. Bu çalışma sonuçları tüm cihazlara genellenmez.",
+        "source": "MOMENTUM 3, NEJM 2019"
+      }
+    },
+    {
+      "title": "LVAD’de yüksek kesme gerilimi",
+      "text": "Pompadaki yüksek kesme gerilimi büyük von Willebrand faktörü multimerlerini parçalayabilir; anjiyodisplaziyle birlikte gastrointestinal kanamaya zemin hazırlar.",
+      "images": [],
+      "card": {
+        "id": "PER207-0im3n2i",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "fact",
+        "importance": 2,
+        "title": "LVAD’de yüksek kesme gerilimi",
+        "body": "Pompadaki yüksek kesme gerilimi büyük von Willebrand faktörü multimerlerini parçalayabilir; anjiyodisplaziyle birlikte gastrointestinal kanamaya zemin hazırlar.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "RV yetmezliği ve LVAD dolumu",
+      "text": "LVAD’nin dolumu sağ ventrikülün akciğer dolaşımına taşıdığı kana bağlıdır. Sağ ventrikül yetmezliği, çalışan bir LVAD’de düşük akım nedeni olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0uxqthu",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "fact",
+        "importance": 2,
+        "title": "RV yetmezliği ve LVAD dolumu",
+        "body": "LVAD’nin dolumu sağ ventrikülün akciğer dolaşımına taşıdığı kana bağlıdır. Sağ ventrikül yetmezliği, çalışan bir LVAD’de düşük akım nedeni olabilir.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Tahmini akımın anlamı",
+      "text": "LVAD kontrolöründeki akım değeri cihazın hız ve güç verilerinden **tahmin edilebilir**; doğrudan bağımsız akım ölçümüyle eş anlamlı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bm9gl5",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Tahmini akımın anlamı",
+        "body": "LVAD kontrolöründeki akım değeri cihazın hız ve güç verilerinden **tahmin edilebilir**; doğrudan bağımsız akım ölçümüyle eş anlamlı değildir.",
+        "source": "FDA HeartMate 3 kullanım talimatı"
+      }
+    },
+    {
+      "title": "LVAD pompa trombozunda güç ve hemoliz neden birlikte değerlendirilebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0763aus",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "flip",
+        "importance": 2,
+        "question": "LVAD pompa trombozunda güç ve hemoliz neden birlikte değerlendirilebilir?",
+        "answer": "Pıhtı rotorun çalışma yükünü artırabilir ve kan hücrelerini hasarlayabilir; **güç artışı ile hemoliz** birlikte trombozu düşündürür.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "Driveline enfeksiyonu açısından cilt çıkışı neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0t8j549",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Driveline enfeksiyonu açısından cilt çıkışı neden önemlidir?",
+        "answer": "Deriden çıkan kablo dış ortamla bağlantı oluşturur; bu geçiş bölgesi **mikroorganizma giriş kapısı** olabilir.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Sürekli akımlı LVAD hastasında tansiyon ölçümü neden zorlaşabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1k7vfj6",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sürekli akımlı LVAD hastasında tansiyon ölçümü neden zorlaşabilir?",
+        "answer": "Arteriyel nabız zayıf olabilir; standart osilometrik ölçüm başarısız kalabilir. **Doppler destekli ölçüm** kullanılır.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "LVAD’de hemoliz cihaz ipucu olabilir",
+      "text": "LDH ve serbest hemoglobin artışı, özellikle güç artışıyla birlikteyse **pompa trombozu** açısından değerlendirilir; yalnız kan hastalığına bağlanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-0yzt5js",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "remember",
+        "importance": 3,
+        "title": "LVAD’de hemoliz cihaz ipucu olabilir",
+        "body": "LDH ve serbest hemoglobin artışı, özellikle güç artışıyla birlikteyse **pompa trombozu** açısından değerlendirilir; yalnız kan hastalığına bağlanmaz.",
+        "source": "ESC LVAD komplikasyonları"
+      }
+    },
+    {
+      "title": "LVAD’de çıkan aorta bağlanan bileşen hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-11ofuzj",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "LVAD’de çıkan aorta bağlanan bileşen hangisidir?",
+        "options": [
+          "Kontrolör",
+          "Çıkış grefti",
+          "Giriş kanülü",
+          "Driveline"
+        ],
+        "correct": 1,
+        "explanation": "Çıkış grefti pompanın taşıdığı kanı sistemik dolaşıma ulaştırır; giriş kanülü LV’de bulunur.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Sol ventrikül desteğinden sonra sağ kalp yetmezliğinde ek hangi cihaz seçeneği değerlendirilebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1963pno",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Sol ventrikül desteğinden sonra sağ kalp yetmezliğinde ek hangi cihaz seçeneği değerlendirilebilir?",
+        "options": [
+          "Endoaortik balon",
+          "İzole ECCO2R",
+          "RVAD",
+          "İABP balonu"
+        ],
+        "correct": 2,
+        "explanation": "RVAD sağ kalpten pulmoner artere akım sağlar; LVAD’nin sağ ventrikül desteği sağlamaması bu seçimi açıklar.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Pulsatil birinci kuşak VAD’nin temel pompalama mekanizması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0c6bcv5",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Pulsatil birinci kuşak VAD’nin temel pompalama mekanizması hangisidir?",
+        "options": [
+          "Sürekli dönen aksiyel rotor",
+          "Manyetik askılı santrifüj rotor",
+          "Aort içinde şişen balon",
+          "Hacim yer değiştiren odacık"
+        ],
+        "correct": 3,
+        "explanation": "Pulsatil VAD odacık dolumu ve boşalmasıyla akım sağlar; rotorlu sürekli akım cihazlarından ayrılır.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "HeartMate 3 kontrolöründe gösterilen pompa akımı hangi yöntemle elde edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-09ggv7o",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "HeartMate 3 kontrolöründe gösterilen pompa akımı hangi yöntemle elde edilir?",
+        "options": [
+          "Pompa gücünden hesaplanan tahmin",
+          "Hat üzerindeki ultrasonik prob ölçümü",
+          "Termodilüsyon ile doğrudan ölçüm",
+          "Fick yöntemiyle hasta debisi ölçümü"
+        ],
+        "correct": 0,
+        "explanation": "FDA IFU’da güç doğrudan ölçülür; gösterilen pompa akımı güçten hesaplanır. Bu değer hastanın toplam kalp debisiyle eşit kabul edilmez.",
+        "source": "FDA HeartMate 3 kullanım talimatı"
+      }
+    },
+    {
+      "title": "INTERMACS profil 3 hangi klinik durumu tanımlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1hkbvxj",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "INTERMACS profil 3 hangi klinik durumu tanımlar?",
+        "options": [
+          "İleri NYHA III efor kısıtlılığı",
+          "İnotrop bağımlı fakat stabil",
+          "Kritik kardiyojenik şok",
+          "İnotroplara rağmen ilerleyen kötüleşme"
+        ],
+        "correct": 1,
+        "explanation": "Profil 3 stabil fakat inotropa bağımlı hastayı belirtir; profil 1 kritik şoktur.",
+        "source": "INTERMACS sınıflaması 2010"
+      }
+    },
+    {
+      "title": "HeartMate 3’ün tam manyetik askılı rotoru mekanik yatak teması olmadan döner.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0qq51yo",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "HeartMate 3’ün tam manyetik askılı rotoru mekanik yatak teması olmadan döner.",
+        "isTrue": true,
+        "explanation": "HeartMate 3 FDA talimatında tamamen manyetik askılı rotor tanımlanır; mekanik yatak teması azaltılır.",
+        "source": "FDA HeartMate 3 kullanım talimatı"
+      }
+    },
+    {
+      "title": "Her BiVAD sistemi gaz değişimi için zorunlu olarak membran oksijenatör içerir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0f7yxpp",
+        "course": "PER207",
+        "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Her BiVAD sistemi gaz değişimi için zorunlu olarak membran oksijenatör içerir.",
+        "isTrue": false,
+        "explanation": "BiVAD iki ventriküle mekanik dolaşım desteği sağlar; oksijenatör eklenmesi ayrı bir gaz değişimi gereksinimine bağlıdır.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-15eqoxs",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 1,
+      "term": "INTERMACS profili",
+      "en": "INTERMACS profile",
+      "definition": "İleri kalp yetmezliğini 1 (kritik şok, \"crash and burn\") ile 7 (ileri NYHA III) arasında sınıflama.",
+      "source": "INTERMACS sınıflaması 2010"
+    },
+    {
+      "id": "PER207-0tyhxb9",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 2,
+      "term": "Edinsel von Willebrand sendromu",
+      "en": "Acquired von Willebrand syndrome",
+      "definition": "Yüksek shear stresle büyük vWF multimerlerinin yıkılması; LVAD'de GİS kanamasına zemin hazırlar.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-03kc6yu",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 3,
+      "term": "LVAD",
+      "en": "Left ventricular assist device",
+      "definition": "LV apeksinden kanı alıp çıkan aorta pompalayan implante edilebilir cihaz.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1h5ixrk",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 3,
+      "term": "RVAD",
+      "en": "Right ventricular assist device",
+      "definition": "RA/RV'den pulmoner artere kan pompalayarak sağ ventrikülü destekleyen cihaz.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0bd8fbb",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 2,
+      "term": "BiVAD",
+      "en": "Biventricular assist device",
+      "definition": "Her iki ventrikülü ayrı pompalarla destekleme.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1babsp8",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 2,
+      "term": "OxyRVAD",
+      "en": "Oxygenator-RVAD",
+      "definition": "Oksijenatör eklenmiş RA–PA sağ ventrikül desteği (solunum desteği de sağlar).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0xdhqzs",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 1,
+      "term": "Pulsatil VAD",
+      "en": "Pulsatile VAD",
+      "definition": "Hacim yer değiştirmeli, kapaklı, pnömatik/elektrik membran pompalar (HeartMate XVE, Berlin Heart EXCOR).",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1vmpq27",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 2,
+      "term": "Sürekli akımlı LVAD",
+      "en": "Continuous-flow LVAD",
+      "definition": "Dönen aksiyel veya santrifüj rotorla sürekli kan akımı sağlayan sol ventrikül destek cihazı.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1044fe5",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 1,
+      "term": "Manyetik levitasyon",
+      "en": "Magnetic levitation (maglev)",
+      "definition": "Rotorun mekanik yatak olmadan manyetik alanla askıda tutulması; HeartMate 3 gibi destek cihazlarında kullanılır.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "id": "PER207-0v46izt",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 2,
+      "term": "Driveline",
+      "en": "Driveline",
+      "definition": "Pompayı dış kontrolör/bataryaya bağlayan, deriden çıkan güç kablosu; enfeksiyon kapısı.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-18v8qk8",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 1,
+      "term": "Pulsatilite indeksi",
+      "en": "Pulsatility index",
+      "definition": "LVAD akımındaki kalp döngüsüyle ilişkili dalgalanmayı gösteren parametre; dolum ve nativ ventrikül işlevinden etkilenir.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-0hf9jf5",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 3,
+      "term": "Emme olayı",
+      "en": "Suction event",
+      "definition": "Yeterince dolmayan ventrikülün pompa tarafından aşırı emilmesiyle akımın bozulması; LVAD’de dolum yetersizliğini düşündürür.",
+      "source": "LVAD pulsatilite derlemesi 2023"
+    },
+    {
+      "id": "PER207-17hrpz8",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 3,
+      "term": "Pompa trombozu",
+      "en": "Pump thrombosis",
+      "definition": "Pompa içinde trombüs; LDH, plazma serbest Hb ve güç (W) artışı ile kendini gösterir.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-0pzvtz1",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 1,
+      "term": "Giriş kanülü",
+      "en": "Inflow cannula",
+      "definition": "LVAD’de sol ventrikülden kanı pompanın girişine taşıyan bileşen; sıklıkla apeks üzerinden yerleştirilir.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1byxyzr",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "term",
+      "importance": 1,
+      "term": "Çıkış grefti",
+      "en": "Outflow graft",
+      "definition": "LVAD pompasından çıkan kanı aorta taşıyan vasküler bağlantı.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-0jggnkj",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "compare",
+      "importance": 2,
+      "title": "Tek ve çift ventrikül desteği",
+      "left": {
+        "title": "LVAD",
+        "points": [
+          "Sol ventrikülü destekler",
+          "Sağ kalp yeterliliği ayrıca değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "BiVAD",
+        "points": [
+          "İki ventrikülü destekler",
+          "Sağ ve sol destek pompaları bulunur"
+        ]
+      },
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1fkjy8h",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "compare",
+      "importance": 2,
+      "title": "Uzun süreli destek amacı",
+      "left": {
+        "title": "Transplantasyona köprü",
+        "points": [
+          "Hasta nakil adayıdır",
+          "Destek organ bulunana kadar sürer"
+        ]
+      },
+      "right": {
+        "title": "Destinasyon tedavisi",
+        "points": [
+          "Hasta nakil adayı değildir",
+          "Destek kalıcı tedavi olarak planlanır"
+        ]
+      },
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1fr7h2j",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "fact",
+      "importance": 2,
+      "title": "REMATCH ve destinasyon tedavisi",
+      "body": "REMATCH (NEJM 2001), nakil adayı olmayan ileri kalp yetmezliği hastalarında uzun süreli LVAD’yi medikal tedaviyle karşılaştırdı; **1 yıl sağkalım %52’ye karşı %25** idi.",
+      "source": "REMATCH, NEJM 2001"
+    },
+    {
+      "id": "PER207-1w8o1hp",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "fact",
+      "importance": 2,
+      "title": "MOMENTUM 3 ve pompa trombozu",
+      "body": "MOMENTUM 3 final raporunda HeartMate 3 ve HeartMate II için 2 yıllık şüpheli veya doğrulanmış pompa trombozu **%1,4’e karşı %13,9** olarak bildirildi. Bu çalışma sonuçları tüm cihazlara genellenmez.",
+      "source": "MOMENTUM 3, NEJM 2019"
+    },
+    {
+      "id": "PER207-0im3n2i",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "fact",
+      "importance": 2,
+      "title": "LVAD’de yüksek kesme gerilimi",
+      "body": "Pompadaki yüksek kesme gerilimi büyük von Willebrand faktörü multimerlerini parçalayabilir; anjiyodisplaziyle birlikte gastrointestinal kanamaya zemin hazırlar.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-0uxqthu",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "fact",
+      "importance": 2,
+      "title": "RV yetmezliği ve LVAD dolumu",
+      "body": "LVAD’nin dolumu sağ ventrikülün akciğer dolaşımına taşıdığı kana bağlıdır. Sağ ventrikül yetmezliği, çalışan bir LVAD’de düşük akım nedeni olabilir.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1bm9gl5",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Tahmini akımın anlamı",
+      "body": "LVAD kontrolöründeki akım değeri cihazın hız ve güç verilerinden **tahmin edilebilir**; doğrudan bağımsız akım ölçümüyle eş anlamlı değildir.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "id": "PER207-0763aus",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "flip",
+      "importance": 2,
+      "question": "LVAD pompa trombozunda güç ve hemoliz neden birlikte değerlendirilebilir?",
+      "answer": "Pıhtı rotorun çalışma yükünü artırabilir ve kan hücrelerini hasarlayabilir; **güç artışı ile hemoliz** birlikte trombozu düşündürür.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-0t8j549",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Driveline enfeksiyonu açısından cilt çıkışı neden önemlidir?",
+      "answer": "Deriden çıkan kablo dış ortamla bağlantı oluşturur; bu geçiş bölgesi **mikroorganizma giriş kapısı** olabilir.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1k7vfj6",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sürekli akımlı LVAD hastasında tansiyon ölçümü neden zorlaşabilir?",
+      "answer": "Arteriyel nabız zayıf olabilir; standart osilometrik ölçüm başarısız kalabilir. **Doppler destekli ölçüm** kullanılır.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-0yzt5js",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "remember",
+      "importance": 3,
+      "title": "LVAD’de hemoliz cihaz ipucu olabilir",
+      "body": "LDH ve serbest hemoglobin artışı, özellikle güç artışıyla birlikteyse **pompa trombozu** açısından değerlendirilir; yalnız kan hastalığına bağlanmaz.",
+      "source": "ESC LVAD komplikasyonları"
+    },
+    {
+      "id": "PER207-11ofuzj",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "LVAD’de çıkan aorta bağlanan bileşen hangisidir?",
+      "options": [
+        "Kontrolör",
+        "Çıkış grefti",
+        "Giriş kanülü",
+        "Driveline"
+      ],
+      "correct": 1,
+      "explanation": "Çıkış grefti pompanın taşıdığı kanı sistemik dolaşıma ulaştırır; giriş kanülü LV’de bulunur.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-1963pno",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sol ventrikül desteğinden sonra sağ kalp yetmezliğinde ek hangi cihaz seçeneği değerlendirilebilir?",
+      "options": [
+        "Endoaortik balon",
+        "İzole ECCO2R",
+        "RVAD",
+        "İABP balonu"
+      ],
+      "correct": 2,
+      "explanation": "RVAD sağ kalpten pulmoner artere akım sağlar; LVAD’nin sağ ventrikül desteği sağlamaması bu seçimi açıklar.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-0c6bcv5",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulsatil birinci kuşak VAD’nin temel pompalama mekanizması hangisidir?",
+      "options": [
+        "Sürekli dönen aksiyel rotor",
+        "Manyetik askılı santrifüj rotor",
+        "Aort içinde şişen balon",
+        "Hacim yer değiştiren odacık"
+      ],
+      "correct": 3,
+      "explanation": "Pulsatil VAD odacık dolumu ve boşalmasıyla akım sağlar; rotorlu sürekli akım cihazlarından ayrılır.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-09ggv7o",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "HeartMate 3 kontrolöründe gösterilen pompa akımı hangi yöntemle elde edilir?",
+      "options": [
+        "Pompa gücünden hesaplanan tahmin",
+        "Hat üzerindeki ultrasonik prob ölçümü",
+        "Termodilüsyon ile doğrudan ölçüm",
+        "Fick yöntemiyle hasta debisi ölçümü"
+      ],
+      "correct": 0,
+      "explanation": "FDA IFU’da güç doğrudan ölçülür; gösterilen pompa akımı güçten hesaplanır. Bu değer hastanın toplam kalp debisiyle eşit kabul edilmez.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "id": "PER207-1hkbvxj",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "INTERMACS profil 3 hangi klinik durumu tanımlar?",
+      "options": [
+        "İleri NYHA III efor kısıtlılığı",
+        "İnotrop bağımlı fakat stabil",
+        "Kritik kardiyojenik şok",
+        "İnotroplara rağmen ilerleyen kötüleşme"
+      ],
+      "correct": 1,
+      "explanation": "Profil 3 stabil fakat inotropa bağımlı hastayı belirtir; profil 1 kritik şoktur.",
+      "source": "INTERMACS sınıflaması 2010"
+    },
+    {
+      "id": "PER207-0qq51yo",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "HeartMate 3’ün tam manyetik askılı rotoru mekanik yatak teması olmadan döner.",
+      "isTrue": true,
+      "explanation": "HeartMate 3 FDA talimatında tamamen manyetik askılı rotor tanımlanır; mekanik yatak teması azaltılır.",
+      "source": "FDA HeartMate 3 kullanım talimatı"
+    },
+    {
+      "id": "PER207-0f7yxpp",
+      "course": "PER207",
+      "topic": "LVAD/RVAD/BiVAD ve komplikasyonları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Her BiVAD sistemi gaz değişimi için zorunlu olarak membran oksijenatör içerir.",
+      "isTrue": false,
+      "explanation": "BiVAD iki ventriküle mekanik dolaşım desteği sağlar; oksijenatör eklenmesi ayrı bir gaz değişimi gereksinimine bağlıdır.",
+      "source": "Prinzing, LVAD 2016"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

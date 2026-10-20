@@ -1,0 +1,966 @@
+{
+  "id": "review-429c22746ad6cd07",
+  "title": "Düşük sıcaklık, radyasyon ve filtrasyon",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Etilen oksit",
+      "text": "Ethylene oxide\nAlkilasyonla etkili, yanıcı-patlayıcı, karsinojen düşük sıcaklık sterilan gazı.",
+      "images": [],
+      "card": {
+        "id": "PER247-1a7cwgc",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Etilen oksit",
+        "definition": "Alkilasyonla etkili, yanıcı-patlayıcı, karsinojen düşük sıcaklık sterilan gazı.",
+        "en": "Ethylene oxide"
+      }
+    },
+    {
+      "title": "Alkilasyon",
+      "text": "Alkylation\nProtein, DNA ve RNA'nın reaktif gruplarına alkil grubu bağlanması (EtO, glutaraldehit).",
+      "images": [],
+      "card": {
+        "id": "PER247-1vprzw6",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Alkilasyon",
+        "definition": "Protein, DNA ve RNA'nın reaktif gruplarına alkil grubu bağlanması (EtO, glutaraldehit).",
+        "en": "Alkylation"
+      }
+    },
+    {
+      "title": "Aerasyon",
+      "text": "Aeration\nEtO kalıntısının sıcak hava dolaşımıyla malzemeden uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1sk0yaf",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Aerasyon",
+        "definition": "EtO kalıntısının sıcak hava dolaşımıyla malzemeden uzaklaştırılması.",
+        "en": "Aeration"
+      }
+    },
+    {
+      "title": "Zaman ağırlıklı ortalama",
+      "text": "Time-weighted average\nBelirli sürede maruz kalınan konsantrasyonların ortalaması.",
+      "images": [],
+      "card": {
+        "id": "PER247-05mo3cd",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Zaman ağırlıklı ortalama",
+        "definition": "Belirli sürede maruz kalınan konsantrasyonların ortalaması.",
+        "en": "Time-weighted average"
+      }
+    },
+    {
+      "title": "İzin verilen maruziyet sınırı",
+      "text": "Permissible exposure limit\nİş ortamındaki kimyasal maruziyet için düzenleyici kurumun tanımladığı üst konsantrasyon sınırı. EtO için OSHA sınırı zaman ağırlıklı ortalamayla değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ccp7i6",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "İzin verilen maruziyet sınırı",
+        "definition": "İş ortamındaki kimyasal maruziyet için düzenleyici kurumun tanımladığı üst konsantrasyon sınırı. EtO için OSHA sınırı zaman ağırlıklı ortalamayla değerlendirilir.",
+        "en": "Permissible exposure limit"
+      }
+    },
+    {
+      "title": "Eylem düzeyi",
+      "text": "Action level\nİş ortamında aşıldığında ilgili izlem ve koruma gerekliliklerinin başladığı maruziyet düzeyi.",
+      "images": [],
+      "card": {
+        "id": "PER247-08c57fu",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Eylem düzeyi",
+        "definition": "İş ortamında aşıldığında ilgili izlem ve koruma gerekliliklerinin başladığı maruziyet düzeyi.",
+        "en": "Action level"
+      }
+    },
+    {
+      "title": "Tavan sınırı",
+      "text": "Ceiling limit\nİş günü boyunca hiçbir an aşılmaması gereken konsantrasyon.",
+      "images": [],
+      "card": {
+        "id": "PER247-1elmvhp",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Tavan sınırı",
+        "definition": "İş günü boyunca hiçbir an aşılmaması gereken konsantrasyon.",
+        "en": "Ceiling limit"
+      }
+    },
+    {
+      "title": "Hidrojen peroksit gaz plazma",
+      "text": "H2O2 gas plasma\nDerin vakumda H2O2 ve RF/mikrodalga enerjisiyle oluşan serbest radikallerle düşük sıcaklık sterilizasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER247-15lf23o",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Hidrojen peroksit gaz plazma",
+        "definition": "Derin vakumda H2O2 ve RF/mikrodalga enerjisiyle oluşan serbest radikallerle düşük sıcaklık sterilizasyonu.",
+        "en": "H2O2 gas plasma"
+      }
+    },
+    {
+      "title": "Plazma",
+      "text": "Plasma\nMaddenin dördüncü hâli; uyarılmış gazdaki yüklü parçacıklar.",
+      "images": [],
+      "card": {
+        "id": "PER247-0hpxl4s",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Plazma",
+        "definition": "Maddenin dördüncü hâli; uyarılmış gazdaki yüklü parçacıklar.",
+        "en": "Plasma"
+      }
+    },
+    {
+      "title": "Serbest radikal",
+      "text": "Free radical\nEşlenmemiş elektronlu, son derece reaktif tür.",
+      "images": [],
+      "card": {
+        "id": "PER247-0r8gksx",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Serbest radikal",
+        "definition": "Eşlenmemiş elektronlu, son derece reaktif tür.",
+        "en": "Free radical"
+      }
+    },
+    {
+      "title": "Buharlaştırılmış hidrojen peroksit",
+      "text": "Vaporized hydrogen peroxide\nHidrojen peroksit buharıyla çalışan düşük sıcaklık sterilizasyon yöntemi. **VHP** kısaltması kullanılır; gaz plazma aşamasıyla eş anlamlı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-13fd1ru",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Buharlaştırılmış hidrojen peroksit",
+        "definition": "Hidrojen peroksit buharıyla çalışan düşük sıcaklık sterilizasyon yöntemi. **VHP** kısaltması kullanılır; gaz plazma aşamasıyla eş anlamlı değildir.",
+        "en": "Vaporized hydrogen peroxide"
+      }
+    },
+    {
+      "title": "Ozon sterilizasyonu",
+      "text": "Ozone sterilization\nOksijenden üretilen ozonun oksidan etkisiyle düşük sıcaklıkta sterilizasyon sağlayan yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER247-0ww57b4",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Ozon sterilizasyonu",
+        "definition": "Oksijenden üretilen ozonun oksidan etkisiyle düşük sıcaklıkta sterilizasyon sağlayan yöntem.",
+        "en": "Ozone sterilization"
+      }
+    },
+    {
+      "title": "Düşük sıcaklık buhar-formaldehit",
+      "text": "Low-temperature steam formaldehyde\nVakum, buhar ve formaldehit pulslarını birleştiren düşük sıcaklık sterilizasyon yöntemi. LTSF kısaltmasıyla anılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0d55lv2",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Düşük sıcaklık buhar-formaldehit",
+        "definition": "Vakum, buhar ve formaldehit pulslarını birleştiren düşük sıcaklık sterilizasyon yöntemi. LTSF kısaltmasıyla anılır.",
+        "en": "Low-temperature steam formaldehyde"
+      }
+    },
+    {
+      "title": "Sıvı kimyasal sterilizasyon",
+      "text": "Liquid chemical sterilant\nMalzemenin uygun sıvı kimyasal sterilana, sporlar dâhil mikroorganizmaları yok etmek için yeterli süre **tamamen daldırılmasıyla** işlenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-1lqzo7j",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sıvı kimyasal sterilizasyon",
+        "definition": "Malzemenin uygun sıvı kimyasal sterilana, sporlar dâhil mikroorganizmaları yok etmek için yeterli süre **tamamen daldırılmasıyla** işlenmesi.",
+        "en": "Liquid chemical sterilant"
+      }
+    },
+    {
+      "title": "İyonize radyasyon",
+      "text": "Ionizing radiation\nKobalt-60 gama veya elektron hızlandırıcıyla endüstriyel düşük sıcaklık sterilizasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER247-0mbxpto",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "İyonize radyasyon",
+        "definition": "Kobalt-60 gama veya elektron hızlandırıcıyla endüstriyel düşük sıcaklık sterilizasyonu.",
+        "en": "Ionizing radiation"
+      }
+    },
+    {
+      "title": "Filtrasyon",
+      "text": "Filtration\nIsıya duyarlı sıvılardaki mikroorganizmaları uygun membranla **fiziksel olarak uzaklaştırma** yöntemi. Mikroorganizmaları öldürmeye dayanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-17oznq8",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Filtrasyon",
+        "definition": "Isıya duyarlı sıvılardaki mikroorganizmaları uygun membranla **fiziksel olarak uzaklaştırma** yöntemi. Mikroorganizmaları öldürmeye dayanmaz.",
+        "en": "Filtration"
+      }
+    },
+    {
+      "title": "EtO ve H2O2 gaz plazmada etki",
+      "text": "Etilen oksit\nProtein ve nükleik asitlerde alkilasyon\nGaz hâlindeki kimyasal sterilizasyon\n\nH2O2 gaz plazma\nSerbest radikallerle hücre bileşenlerinin hasarı\nVakum ve enerjiyle plazma oluşumu",
+      "images": [],
+      "card": {
+        "id": "PER247-0lbl037",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "EtO ve H2O2 gaz plazmada etki",
+        "left": {
+          "title": "Etilen oksit",
+          "points": [
+            "Protein ve nükleik asitlerde alkilasyon",
+            "Gaz hâlindeki kimyasal sterilizasyon"
+          ]
+        },
+        "right": {
+          "title": "H2O2 gaz plazma",
+          "points": [
+            "Serbest radikallerle hücre bileşenlerinin hasarı",
+            "Vakum ve enerjiyle plazma oluşumu"
+          ]
+        }
+      }
+    },
+    {
+      "title": "EtO’nun işlem aralıkları",
+      "text": "CDC’de EtO parametreleri **450–1.200 mg/L**, **37–63 °C**, %40–80 bağıl nem ve 1–6 saat maruziyettir. Bunlar yöntem aralıklarıdır; tek evrensel döngü reçetesi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0217i9h",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "EtO’nun işlem aralıkları",
+        "body": "CDC’de EtO parametreleri **450–1.200 mg/L**, **37–63 °C**, %40–80 bağıl nem ve 1–6 saat maruziyettir. Bunlar yöntem aralıklarıdır; tek evrensel döngü reçetesi değildir."
+      }
+    },
+    {
+      "title": "EtO aerasyonunun örnek koşulları",
+      "text": "CDC, mekanik EtO aerasyonunu **50–60 °C’de 8–12 saat** olarak açıklar. Aerasyon, işlemde emilen gaz kalıntılarını uzaklaştırır; ürün talimatı esas alınır.",
+      "images": [],
+      "card": {
+        "id": "PER247-10skmp6",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "EtO aerasyonunun örnek koşulları",
+        "body": "CDC, mekanik EtO aerasyonunu **50–60 °C’de 8–12 saat** olarak açıklar. Aerasyon, işlemde emilen gaz kalıntılarını uzaklaştırır; ürün talimatı esas alınır."
+      }
+    },
+    {
+      "title": "EtO işyeri sınırları",
+      "text": "CDC’de aktarılan OSHA EtO sınırları: **8 saatlik TWA 1 ppm**; eylem düzeyi 0,5 ppm; **15 dakikalık aşım sınırı 5 ppm**. Maruziyet süresi belirtilmeden sayı yorumlanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1c95gwi",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "EtO işyeri sınırları",
+        "body": "CDC’de aktarılan OSHA EtO sınırları: **8 saatlik TWA 1 ppm**; eylem düzeyi 0,5 ppm; **15 dakikalık aşım sınırı 5 ppm**. Maruziyet süresi belirtilmeden sayı yorumlanmaz."
+      }
+    },
+    {
+      "title": "Plazmada sıcaklık ve süre",
+      "text": "CDC’nin H2O2 gaz plazma örnekleri **37–44 °C** düşük sıcaklıkta çalışır. Döngü süresi model ve teknolojiye göre değişir; tek süre tüm cihazlara uygulanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1fbm0ol",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Plazmada sıcaklık ve süre",
+        "body": "CDC’nin H2O2 gaz plazma örnekleri **37–44 °C** düşük sıcaklıkta çalışır. Döngü süresi model ve teknolojiye göre değişir; tek süre tüm cihazlara uygulanmaz."
+      }
+    },
+    {
+      "title": "VHP’nin yerleşik yöntem statüsü",
+      "text": "FDA, buharlaştırılmış hidrojen peroksiti **yerleşik sterilizasyon yöntemleri** arasında kabul eder. Bu düzenleyici sınıflama, her materyalin VHP ile uyumlu olduğu anlamına gelmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-13lam8d",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "fact",
+        "importance": 1,
+        "source": "FDA Tıbbi cihaz sterilizasyonu",
+        "title": "VHP’nin yerleşik yöntem statüsü",
+        "body": "FDA, buharlaştırılmış hidrojen peroksiti **yerleşik sterilizasyon yöntemleri** arasında kabul eder. Bu düzenleyici sınıflama, her materyalin VHP ile uyumlu olduğu anlamına gelmez."
+      }
+    },
+    {
+      "title": "EtO’da nemin işlevi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0lb4lcs",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "flip",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "EtO’da nemin işlevi nedir?",
+        "answer": "Su molekülleri EtO’nun **mikroorganizmadaki reaktif bölgelere ulaşmasına** yardım eder. EtO etkinliği yalnız gaz konsantrasyonuyla belirlenmez."
+      }
+    },
+    {
+      "title": "H2O2 gaz plazmada aerasyon neden gerekmez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1713hq4",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "flip",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "H2O2 gaz plazmada aerasyon neden gerekmez?",
+        "answer": "İşlem yan ürünleri **su ve oksijendir**; EtO benzeri toksik kalıntıyı uzaklaştırmak için uzun aerasyon gerekmez. Ürünün işlem talimatı yine izlenir."
+      }
+    },
+    {
+      "title": "Sıvı perasetik asit sistemiyle işlenen cihaz niçin depolanmaz?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-18yhjpg",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Sıvı perasetik asit sistemiyle işlenen cihaz niçin depolanmaz?",
+        "answer": "İşlem **kullanım noktası** içindir; cihaz işlem sırasında koruyucu ambalajla sarılı değildir. Bu nedenle paketli steril depolama güvencesi sağlamaz."
+      }
+    },
+    {
+      "title": "EtO’nun kalıntısı önemlidir",
+      "text": "Etilen oksit **toksik, yanıcı ve karsinojendir**. İşlem etkinliği yanında kalıntı yönetimi, çalışan maruziyeti ve güvenli cihaz kullanımı izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0x2q6iw",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "EtO’nun kalıntısı önemlidir",
+        "body": "Etilen oksit **toksik, yanıcı ve karsinojendir**. İşlem etkinliği yanında kalıntı yönetimi, çalışan maruziyeti ve güvenli cihaz kullanımı izlenir."
+      }
+    },
+    {
+      "title": "Sıvı kimyasal yöntemin endikasyonunu sınırla",
+      "text": "CDC, sıvı kimyasal sterilizasyonu **diğer uygun yöntemlerle işlenemeyen ısıya duyarlı kritik cihazlarla** sınırlar. Ürün için uygun bir buhar veya düşük sıcaklık yöntemi varsa yöntem seçimi buna göre yapılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1wy59ha",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Sıvı kimyasal yöntemin endikasyonunu sınırla",
+        "body": "CDC, sıvı kimyasal sterilizasyonu **diğer uygun yöntemlerle işlenemeyen ısıya duyarlı kritik cihazlarla** sınırlar. Ürün için uygun bir buhar veya düşük sıcaklık yöntemi varsa yöntem seçimi buna göre yapılır."
+      }
+    },
+    {
+      "title": "EtO’nun temel öldürücü mekanizması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0hy4ij2",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "EtO’nun temel öldürücü mekanizması hangisidir?",
+        "options": [
+          "Doymuş buharla protein koagülasyonu",
+          "Membran filtresiyle fiziksel uzaklaştırma",
+          "Protein ve nükleik asit alkilasyonu",
+          "Akustik kavitasyonla kir kopması"
+        ],
+        "correct": 2,
+        "explanation": "EtO, protein, DNA ve RNA gruplarını **alkilleyerek** normal metabolizma ve replikasyonu bozar."
+      }
+    },
+    {
+      "title": "H2O2 gaz plazma için uygun ambalaj örneği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-18ghuj3",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "H2O2 gaz plazma için uygun ambalaj örneği hangisidir?",
+        "options": [
+          "Selüloz içerikli kâğıt sargı",
+          "Pamuklu tekstil bohça",
+          "Keten dokuma sargı",
+          "Uygun sentetik poliolefin poşet"
+        ],
+        "correct": 3,
+        "explanation": "H2O2 gaz plazmada selüloz ve tekstil uygun değildir; **uyumlu sentetik ambalaj** kullanılır."
+      }
+    },
+    {
+      "title": "Endüstriyel iyonize radyasyon örneği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-13o6h7w",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Endüstriyel iyonize radyasyon örneği hangisidir?",
+        "options": [
+          "Kobalt-60 gama ışınları",
+          "Ultraviyole ışınlar",
+          "Görünür ışık",
+          "Kızılötesi ışınlar"
+        ],
+        "correct": 0,
+        "explanation": "**Gama veya elektron demeti**, endüstriyel cihaz sterilizasyonunda kullanılan iyonize radyasyon örnekleridir."
+      }
+    },
+    {
+      "title": "Filtrasyonu kimyasal öldürmeden ayıran temel özellik hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-00t6yix",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Filtrasyonu kimyasal öldürmeden ayıran temel özellik hangisidir?",
+        "options": [
+          "Mikroorganizmaları alkillemesi",
+          "Mikroorganizmaları fiziksel ayırması",
+          "Proteinleri okside ederek öldürmesi",
+          "Proteinleri ısıyla koagüle etmesi"
+        ],
+        "correct": 1,
+        "explanation": "Membran filtrasyonu mikroorganizmaları **uzaklaştırır**, öldürmeye dayanmaz."
+      }
+    },
+    {
+      "title": "H2O2 gaz plazmanın yan ürünleri su ve oksijendir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1x6p64d",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "H2O2 gaz plazmanın yan ürünleri su ve oksijendir.",
+        "isTrue": true,
+        "explanation": "Bu nedenle EtO benzeri uzun aerasyon gerektiren toksik kalıntı bırakmaz."
+      }
+    },
+    {
+      "title": "Sıvı kimyasal sterilizasyon sonrası cihaz, işlem sırasında ambalajlanmış steril paket olarak depolanabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0ja22zr",
+        "course": "PER247",
+        "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Sıvı kimyasal sterilizasyon sonrası cihaz, işlem sırasında ambalajlanmış steril paket olarak depolanabilir.",
+        "isTrue": false,
+        "explanation": "Cihaz sıvı işlem sırasında **sarılamaz**; durulama ve depolama sterilitenin korunmasını sınırlar."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-1a7cwgc",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Etilen oksit",
+      "definition": "Alkilasyonla etkili, yanıcı-patlayıcı, karsinojen düşük sıcaklık sterilan gazı.",
+      "en": "Ethylene oxide"
+    },
+    {
+      "id": "PER247-1vprzw6",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Alkilasyon",
+      "definition": "Protein, DNA ve RNA'nın reaktif gruplarına alkil grubu bağlanması (EtO, glutaraldehit).",
+      "en": "Alkylation"
+    },
+    {
+      "id": "PER247-1sk0yaf",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Aerasyon",
+      "definition": "EtO kalıntısının sıcak hava dolaşımıyla malzemeden uzaklaştırılması.",
+      "en": "Aeration"
+    },
+    {
+      "id": "PER247-05mo3cd",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Zaman ağırlıklı ortalama",
+      "definition": "Belirli sürede maruz kalınan konsantrasyonların ortalaması.",
+      "en": "Time-weighted average"
+    },
+    {
+      "id": "PER247-1ccp7i6",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İzin verilen maruziyet sınırı",
+      "definition": "İş ortamındaki kimyasal maruziyet için düzenleyici kurumun tanımladığı üst konsantrasyon sınırı. EtO için OSHA sınırı zaman ağırlıklı ortalamayla değerlendirilir.",
+      "en": "Permissible exposure limit"
+    },
+    {
+      "id": "PER247-08c57fu",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Eylem düzeyi",
+      "definition": "İş ortamında aşıldığında ilgili izlem ve koruma gerekliliklerinin başladığı maruziyet düzeyi.",
+      "en": "Action level"
+    },
+    {
+      "id": "PER247-1elmvhp",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Tavan sınırı",
+      "definition": "İş günü boyunca hiçbir an aşılmaması gereken konsantrasyon.",
+      "en": "Ceiling limit"
+    },
+    {
+      "id": "PER247-15lf23o",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hidrojen peroksit gaz plazma",
+      "definition": "Derin vakumda H2O2 ve RF/mikrodalga enerjisiyle oluşan serbest radikallerle düşük sıcaklık sterilizasyonu.",
+      "en": "H2O2 gas plasma"
+    },
+    {
+      "id": "PER247-0hpxl4s",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Plazma",
+      "definition": "Maddenin dördüncü hâli; uyarılmış gazdaki yüklü parçacıklar.",
+      "en": "Plasma"
+    },
+    {
+      "id": "PER247-0r8gksx",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Serbest radikal",
+      "definition": "Eşlenmemiş elektronlu, son derece reaktif tür.",
+      "en": "Free radical"
+    },
+    {
+      "id": "PER247-13fd1ru",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Buharlaştırılmış hidrojen peroksit",
+      "definition": "Hidrojen peroksit buharıyla çalışan düşük sıcaklık sterilizasyon yöntemi. **VHP** kısaltması kullanılır; gaz plazma aşamasıyla eş anlamlı değildir.",
+      "en": "Vaporized hydrogen peroxide"
+    },
+    {
+      "id": "PER247-0ww57b4",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ozon sterilizasyonu",
+      "definition": "Oksijenden üretilen ozonun oksidan etkisiyle düşük sıcaklıkta sterilizasyon sağlayan yöntem.",
+      "en": "Ozone sterilization"
+    },
+    {
+      "id": "PER247-0d55lv2",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Düşük sıcaklık buhar-formaldehit",
+      "definition": "Vakum, buhar ve formaldehit pulslarını birleştiren düşük sıcaklık sterilizasyon yöntemi. LTSF kısaltmasıyla anılır.",
+      "en": "Low-temperature steam formaldehyde"
+    },
+    {
+      "id": "PER247-1lqzo7j",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sıvı kimyasal sterilizasyon",
+      "definition": "Malzemenin uygun sıvı kimyasal sterilana, sporlar dâhil mikroorganizmaları yok etmek için yeterli süre **tamamen daldırılmasıyla** işlenmesi.",
+      "en": "Liquid chemical sterilant"
+    },
+    {
+      "id": "PER247-0mbxpto",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İyonize radyasyon",
+      "definition": "Kobalt-60 gama veya elektron hızlandırıcıyla endüstriyel düşük sıcaklık sterilizasyonu.",
+      "en": "Ionizing radiation"
+    },
+    {
+      "id": "PER247-17oznq8",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Filtrasyon",
+      "definition": "Isıya duyarlı sıvılardaki mikroorganizmaları uygun membranla **fiziksel olarak uzaklaştırma** yöntemi. Mikroorganizmaları öldürmeye dayanmaz.",
+      "en": "Filtration"
+    },
+    {
+      "id": "PER247-0lbl037",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "EtO ve H2O2 gaz plazmada etki",
+      "left": {
+        "title": "Etilen oksit",
+        "points": [
+          "Protein ve nükleik asitlerde alkilasyon",
+          "Gaz hâlindeki kimyasal sterilizasyon"
+        ]
+      },
+      "right": {
+        "title": "H2O2 gaz plazma",
+        "points": [
+          "Serbest radikallerle hücre bileşenlerinin hasarı",
+          "Vakum ve enerjiyle plazma oluşumu"
+        ]
+      }
+    },
+    {
+      "id": "PER247-0217i9h",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "EtO’nun işlem aralıkları",
+      "body": "CDC’de EtO parametreleri **450–1.200 mg/L**, **37–63 °C**, %40–80 bağıl nem ve 1–6 saat maruziyettir. Bunlar yöntem aralıklarıdır; tek evrensel döngü reçetesi değildir."
+    },
+    {
+      "id": "PER247-10skmp6",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "EtO aerasyonunun örnek koşulları",
+      "body": "CDC, mekanik EtO aerasyonunu **50–60 °C’de 8–12 saat** olarak açıklar. Aerasyon, işlemde emilen gaz kalıntılarını uzaklaştırır; ürün talimatı esas alınır."
+    },
+    {
+      "id": "PER247-1c95gwi",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "EtO işyeri sınırları",
+      "body": "CDC’de aktarılan OSHA EtO sınırları: **8 saatlik TWA 1 ppm**; eylem düzeyi 0,5 ppm; **15 dakikalık aşım sınırı 5 ppm**. Maruziyet süresi belirtilmeden sayı yorumlanmaz."
+    },
+    {
+      "id": "PER247-1fbm0ol",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Plazmada sıcaklık ve süre",
+      "body": "CDC’nin H2O2 gaz plazma örnekleri **37–44 °C** düşük sıcaklıkta çalışır. Döngü süresi model ve teknolojiye göre değişir; tek süre tüm cihazlara uygulanmaz."
+    },
+    {
+      "id": "PER247-13lam8d",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "fact",
+      "importance": 1,
+      "source": "FDA Tıbbi cihaz sterilizasyonu",
+      "title": "VHP’nin yerleşik yöntem statüsü",
+      "body": "FDA, buharlaştırılmış hidrojen peroksiti **yerleşik sterilizasyon yöntemleri** arasında kabul eder. Bu düzenleyici sınıflama, her materyalin VHP ile uyumlu olduğu anlamına gelmez."
+    },
+    {
+      "id": "PER247-0lb4lcs",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "EtO’da nemin işlevi nedir?",
+      "answer": "Su molekülleri EtO’nun **mikroorganizmadaki reaktif bölgelere ulaşmasına** yardım eder. EtO etkinliği yalnız gaz konsantrasyonuyla belirlenmez."
+    },
+    {
+      "id": "PER247-1713hq4",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "H2O2 gaz plazmada aerasyon neden gerekmez?",
+      "answer": "İşlem yan ürünleri **su ve oksijendir**; EtO benzeri toksik kalıntıyı uzaklaştırmak için uzun aerasyon gerekmez. Ürünün işlem talimatı yine izlenir."
+    },
+    {
+      "id": "PER247-18yhjpg",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Sıvı perasetik asit sistemiyle işlenen cihaz niçin depolanmaz?",
+      "answer": "İşlem **kullanım noktası** içindir; cihaz işlem sırasında koruyucu ambalajla sarılı değildir. Bu nedenle paketli steril depolama güvencesi sağlamaz."
+    },
+    {
+      "id": "PER247-0x2q6iw",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "EtO’nun kalıntısı önemlidir",
+      "body": "Etilen oksit **toksik, yanıcı ve karsinojendir**. İşlem etkinliği yanında kalıntı yönetimi, çalışan maruziyeti ve güvenli cihaz kullanımı izlenir."
+    },
+    {
+      "id": "PER247-1wy59ha",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Sıvı kimyasal yöntemin endikasyonunu sınırla",
+      "body": "CDC, sıvı kimyasal sterilizasyonu **diğer uygun yöntemlerle işlenemeyen ısıya duyarlı kritik cihazlarla** sınırlar. Ürün için uygun bir buhar veya düşük sıcaklık yöntemi varsa yöntem seçimi buna göre yapılır."
+    },
+    {
+      "id": "PER247-0hy4ij2",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "EtO’nun temel öldürücü mekanizması hangisidir?",
+      "options": [
+        "Doymuş buharla protein koagülasyonu",
+        "Membran filtresiyle fiziksel uzaklaştırma",
+        "Protein ve nükleik asit alkilasyonu",
+        "Akustik kavitasyonla kir kopması"
+      ],
+      "correct": 2,
+      "explanation": "EtO, protein, DNA ve RNA gruplarını **alkilleyerek** normal metabolizma ve replikasyonu bozar."
+    },
+    {
+      "id": "PER247-18ghuj3",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "H2O2 gaz plazma için uygun ambalaj örneği hangisidir?",
+      "options": [
+        "Selüloz içerikli kâğıt sargı",
+        "Pamuklu tekstil bohça",
+        "Keten dokuma sargı",
+        "Uygun sentetik poliolefin poşet"
+      ],
+      "correct": 3,
+      "explanation": "H2O2 gaz plazmada selüloz ve tekstil uygun değildir; **uyumlu sentetik ambalaj** kullanılır."
+    },
+    {
+      "id": "PER247-13o6h7w",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Endüstriyel iyonize radyasyon örneği hangisidir?",
+      "options": [
+        "Kobalt-60 gama ışınları",
+        "Ultraviyole ışınlar",
+        "Görünür ışık",
+        "Kızılötesi ışınlar"
+      ],
+      "correct": 0,
+      "explanation": "**Gama veya elektron demeti**, endüstriyel cihaz sterilizasyonunda kullanılan iyonize radyasyon örnekleridir."
+    },
+    {
+      "id": "PER247-00t6yix",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Filtrasyonu kimyasal öldürmeden ayıran temel özellik hangisidir?",
+      "options": [
+        "Mikroorganizmaları alkillemesi",
+        "Mikroorganizmaları fiziksel ayırması",
+        "Proteinleri okside ederek öldürmesi",
+        "Proteinleri ısıyla koagüle etmesi"
+      ],
+      "correct": 1,
+      "explanation": "Membran filtrasyonu mikroorganizmaları **uzaklaştırır**, öldürmeye dayanmaz."
+    },
+    {
+      "id": "PER247-1x6p64d",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "H2O2 gaz plazmanın yan ürünleri su ve oksijendir.",
+      "isTrue": true,
+      "explanation": "Bu nedenle EtO benzeri uzun aerasyon gerektiren toksik kalıntı bırakmaz."
+    },
+    {
+      "id": "PER247-0ja22zr",
+      "course": "PER247",
+      "topic": "Düşük sıcaklık, radyasyon ve filtrasyon",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Sıvı kimyasal sterilizasyon sonrası cihaz, işlem sırasında ambalajlanmış steril paket olarak depolanabilir.",
+      "isTrue": false,
+      "explanation": "Cihaz sıvı işlem sırasında **sarılamaz**; durulama ve depolama sterilitenin korunmasını sınırlar."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

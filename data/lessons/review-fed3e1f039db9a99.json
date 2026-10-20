@@ -1,0 +1,775 @@
+{
+  "id": "review-fed3e1f039db9a99",
+  "title": "Transplantasyon ve yeni teknolojiler",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "EVLP",
+      "text": "Ex vivo lung perfusion\nDonör akciğerinin vücut dışında normotermik perfüzyon ve ventilasyonla değerlendirilmesi/onarılması.",
+      "images": [],
+      "card": {
+        "id": "PER207-08igmaa",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 2,
+        "term": "EVLP",
+        "en": "Ex vivo lung perfusion",
+        "definition": "Donör akciğerinin vücut dışında normotermik perfüzyon ve ventilasyonla değerlendirilmesi/onarılması.",
+        "source": "EVLP protokolleri 2021"
+      }
+    },
+    {
+      "title": "Steen solüsyonu",
+      "text": "STEEN Solution\nAlbümin (onkotik basınç) ve dekstran 40 içeren tamponlu aselüler EVLP perfüzatı.",
+      "images": [],
+      "card": {
+        "id": "PER207-00rsfbs",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 1,
+        "term": "Steen solüsyonu",
+        "en": "STEEN Solution",
+        "definition": "Albümin (onkotik basınç) ve dekstran 40 içeren tamponlu aselüler EVLP perfüzatı.",
+        "source": "EVLP protokolleri 2021"
+      }
+    },
+    {
+      "title": "Organ Bakım Sistemi",
+      "text": "Organ Care System\nOrganı transport sırasında normotermik, kanla perfüze (kalp: atar halde) tutan portatif sistem.",
+      "images": [],
+      "card": {
+        "id": "PER207-1l9j74i",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 1,
+        "term": "Organ Bakım Sistemi",
+        "en": "Organ Care System",
+        "definition": "Organı transport sırasında normotermik, kanla perfüze (kalp: atar halde) tutan portatif sistem.",
+        "source": "PROCEED II, Lancet 2015"
+      }
+    },
+    {
+      "title": "DCD",
+      "text": "Donation after circulatory death\nDolaşımın durmasıyla ölüm tespiti sonrası organ bağışı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1hh3u1s",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 2,
+        "term": "DCD",
+        "en": "Donation after circulatory death",
+        "definition": "Dolaşımın durmasıyla ölüm tespiti sonrası organ bağışı.",
+        "source": "Dhital, Sydney DCD deneyimi 2020"
+      }
+    },
+    {
+      "title": "DBD",
+      "text": "Donation after brain death\nBeyin ölümü sonrası organ bağışı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1s0rvwp",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 2,
+        "term": "DBD",
+        "en": "Donation after brain death",
+        "definition": "Beyin ölümü sonrası organ bağışı.",
+        "source": "Dhital, Sydney DCD deneyimi 2020"
+      }
+    },
+    {
+      "title": "NRP",
+      "text": "Normothermic regional perfusion\nDCD donörde ölüm tespitinden sonra ECMO ile organların vücut içinde normotermik perfüzyonu.",
+      "images": [],
+      "card": {
+        "id": "PER207-0bfcgpz",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 1,
+        "term": "NRP",
+        "en": "Normothermic regional perfusion",
+        "definition": "DCD donörde ölüm tespitinden sonra ECMO ile organların vücut içinde normotermik perfüzyonu.",
+        "source": "Dhital, Sydney DCD deneyimi 2020"
+      }
+    },
+    {
+      "title": "DPP",
+      "text": "Direct procurement and perfusion\nDCD kalbinin soğuk kardiyoplejiyle alınıp ex situ makinede yeniden perfüze edilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1s2j9pj",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 1,
+        "term": "DPP",
+        "en": "Direct procurement and perfusion",
+        "definition": "DCD kalbinin soğuk kardiyoplejiyle alınıp ex situ makinede yeniden perfüze edilmesi.",
+        "source": "Dhital, Sydney DCD deneyimi 2020"
+      }
+    },
+    {
+      "title": "Primer greft disfonksiyonu",
+      "text": "Primary graft dysfunction\nNakil sonrası erken dönemde greftin (ör. akciğer) yetersiz çalışması; VV ECMO endikasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER207-1rvyg7p",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "term",
+        "importance": 3,
+        "term": "Primer greft disfonksiyonu",
+        "en": "Primary graft dysfunction",
+        "definition": "Nakil sonrası erken dönemde greftin (ör. akciğer) yetersiz çalışması; VV ECMO endikasyonu.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "DCD kalbinin yeniden perfüzyonu",
+      "text": "DPP\nKalp donörden çıkarılır\nYeniden perfüzyon ex situ cihazda olur\n\nNRP\nOrganlar donör vücudunda kalır\nYeniden perfüzyon bölgesel devreyle olur",
+      "images": [],
+      "card": {
+        "id": "PER207-1urlh5s",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "compare",
+        "importance": 2,
+        "title": "DCD kalbinin yeniden perfüzyonu",
+        "left": {
+          "title": "DPP",
+          "points": [
+            "Kalp donörden çıkarılır",
+            "Yeniden perfüzyon ex situ cihazda olur"
+          ]
+        },
+        "right": {
+          "title": "NRP",
+          "points": [
+            "Organlar donör vücudunda kalır",
+            "Yeniden perfüzyon bölgesel devreyle olur"
+          ]
+        },
+        "source": "Dhital, Sydney DCD deneyimi 2020"
+      }
+    },
+    {
+      "title": "EVLP’de işlevin birlikte değerlendirilmesi",
+      "text": "Donör akciğerin EVLP uygunluğu yalnız oksijenasyonla belirlenmez; **kompliyans, pulmoner damar direnci ve hava yolu basınçları** da değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1pm1shj",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 2,
+        "title": "EVLP’de işlevin birlikte değerlendirilmesi",
+        "body": "Donör akciğerin EVLP uygunluğu yalnız oksijenasyonla belirlenmez; **kompliyans, pulmoner damar direnci ve hava yolu basınçları** da değerlendirilir.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "Steen solüsyonunun onkotik bileşeni",
+      "text": "Steen solüsyonundaki albümin onkotik basınç sağlar; dekstran 40 içeren tamponlu perfüzat, EVLP sırasında ödemin sınırlanmasına yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER207-085phvv",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 2,
+        "title": "Steen solüsyonunun onkotik bileşeni",
+        "body": "Steen solüsyonundaki albümin onkotik basınç sağlar; dekstran 40 içeren tamponlu perfüzat, EVLP sırasında ödemin sınırlanmasına yardım eder.",
+        "source": "EVLP protokolleri 2021"
+      }
+    },
+    {
+      "title": "PROCEED II: sonlanım türü",
+      "text": "PROCEED II, OCS kalp taşıma sistemini soğuk saklamayla karşılaştıran **eşdeğerlikten aşağı olmama** çalışmasıdır; temel değerlendirme 30 günlük hasta ve greft sağkalımıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ih7d04",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 2,
+        "title": "PROCEED II: sonlanım türü",
+        "body": "PROCEED II, OCS kalp taşıma sistemini soğuk saklamayla karşılaştıran **eşdeğerlikten aşağı olmama** çalışmasıdır; temel değerlendirme 30 günlük hasta ve greft sağkalımıdır.",
+        "source": "PROCEED II, Lancet 2015"
+      }
+    },
+    {
+      "title": "NRP’de ölüm tespiti önce gelir",
+      "text": "DCD sürecinde normotermik bölgesel perfüzyon, dolaşım ölümü tespiti ve ilgili bekleme sürecinden sonra uygulanır. Organ perfüzyonu ve ölüm tespiti ayrı aşamalardır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1gt0jy4",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 2,
+        "title": "NRP’de ölüm tespiti önce gelir",
+        "body": "DCD sürecinde normotermik bölgesel perfüzyon, dolaşım ölümü tespiti ve ilgili bekleme sürecinden sonra uygulanır. Organ perfüzyonu ve ölüm tespiti ayrı aşamalardır.",
+        "source": "Dhital, Sydney DCD deneyimi 2020"
+      }
+    },
+    {
+      "title": "Nakil sonrası solunum desteği",
+      "text": "Akciğer naklinden sonra primer greft disfonksiyonu ağır solunum yetmezliği oluşturabilir; **VV ECMO** bu bağlamda gaz değişimini destekleyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-043n974",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 2,
+        "title": "Nakil sonrası solunum desteği",
+        "body": "Akciğer naklinden sonra primer greft disfonksiyonu ağır solunum yetmezliği oluşturabilir; **VV ECMO** bu bağlamda gaz değişimini destekleyebilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Cypel 2011 EVLP çalışmasında radyografi ve bronkoskopi neyi tamamlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1iq415m",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "flip",
+        "importance": 2,
+        "question": "Cypel 2011 EVLP çalışmasında radyografi ve bronkoskopi neyi tamamlar?",
+        "answer": "Gaz değişimi ölçümüne ek olarak ödem, konsolidasyon, atelektazi ve hava yolu görünümünü değerlendirir. **Görüntüleme ve bronkoskopi**, fizyolojik ölçümlerin yerine geçmeden onları tamamlar.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "Cypel 2011 EVLP çalışmasında karşılaştırma grubuna hangi akciğerler alındı?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1yiykve",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "flip",
+        "importance": 2,
+        "question": "Cypel 2011 EVLP çalışmasında karşılaştırma grubuna hangi akciğerler alındı?",
+        "answer": "Aynı dönemde nakledilen **standart kriterli donör akciğerleri** kullanıldı. EVLP grubu yüksek riskli organlardan seçildi; gruplar randomizasyonla oluşturulmadı.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "EVLP’den sonra her organ kullanılmaz",
+      "text": "Cypel 2011’de EVLP uygulanan **23 donörün 20’sinin** akciğerleri nakledildi; kötüleşen 3 organ kullanılmadı. EVLP, organın uygunluğunu değerlendirme fırsatı sağlar; başarı garantisi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-09jf9pm",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "remember",
+        "importance": 3,
+        "title": "EVLP’den sonra her organ kullanılmaz",
+        "body": "Cypel 2011’de EVLP uygulanan **23 donörün 20’sinin** akciğerleri nakledildi; kötüleşen 3 organ kullanılmadı. EVLP, organın uygunluğunu değerlendirme fırsatı sağlar; başarı garantisi değildir.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "Barnard ve ilk insan kalp nakli",
+      "text": "Christiaan Barnard ve ekibi, **3 Aralık 1967**’de Cape Town Groote Schuur Hastanesi’nde ilk insandan insana kalp naklini yaptı. Tarih UCT’nin kendi arşiviyle doğrulanmıştır.",
+      "images": [],
+      "card": {
+        "id": "PER207-073srze",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 1,
+        "title": "Barnard ve ilk insan kalp nakli",
+        "body": "Christiaan Barnard ve ekibi, **3 Aralık 1967**’de Cape Town Groote Schuur Hastanesi’nde ilk insandan insana kalp naklini yaptı. Tarih UCT’nin kendi arşiviyle doğrulanmıştır.",
+        "source": "Transplant merkezlerinin tarihçeleri"
+      }
+    },
+    {
+      "title": "Reitz–Shumway ve kalp-akciğer nakli",
+      "text": "Stanford’da Bruce Reitz ve Norman Shumway ekibi **9 Mart 1981**’de Mary Gohlke’ye ilk başarılı kalp-akciğer naklini yaptı. Stanford’un Reitz söyleşisi tarih ve ekibi doğrular.",
+      "images": [],
+      "card": {
+        "id": "PER207-0on6c0j",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 1,
+        "title": "Reitz–Shumway ve kalp-akciğer nakli",
+        "body": "Stanford’da Bruce Reitz ve Norman Shumway ekibi **9 Mart 1981**’de Mary Gohlke’ye ilk başarılı kalp-akciğer naklini yaptı. Stanford’un Reitz söyleşisi tarih ve ekibi doğrular.",
+        "source": "Transplant merkezlerinin tarihçeleri"
+      }
+    },
+    {
+      "title": "Cooper ve başarılı akciğer nakli",
+      "text": "Joel Cooper’ın Toronto General ekibi **7 Kasım 1983**’te Tom Hall’a ilk başarılı tek akciğer naklini yaptı. UHN’nin kendi tarih kaydı bu başarıyı önceki kısa sağkalımlı girişimlerden ayırır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0qyr0u2",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "fact",
+        "importance": 1,
+        "title": "Cooper ve başarılı akciğer nakli",
+        "body": "Joel Cooper’ın Toronto General ekibi **7 Kasım 1983**’te Tom Hall’a ilk başarılı tek akciğer naklini yaptı. UHN’nin kendi tarih kaydı bu başarıyı önceki kısa sağkalımlı girişimlerden ayırır.",
+        "source": "Transplant merkezlerinin tarihçeleri"
+      }
+    },
+    {
+      "title": "Cypel ve arkadaşlarının 2011 EVLP çalışmasında yüksek riskli akciğerler kaç saat perfüze edilerek değerlendirildi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1ekxgsp",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Cypel ve arkadaşlarının 2011 EVLP çalışmasında yüksek riskli akciğerler kaç saat perfüze edilerek değerlendirildi?",
+        "options": [
+          "12 saat",
+          "4 saat",
+          "1 saat",
+          "8 saat"
+        ],
+        "correct": 1,
+        "explanation": "Bu prospektif çalışmanın protokolünde 4 saat EVLP kullanıldı; süre tüm merkezler için evrensel hedef değildir.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "Cypel 2011 EVLP çalışmasının nakilden 72 saat sonra değerlendirdiği birincil sonlanım hangisiydi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1xlm939",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Cypel 2011 EVLP çalışmasının nakilden 72 saat sonra değerlendirdiği birincil sonlanım hangisiydi?",
+        "options": [
+          "Antikor aracılı rejeksiyon",
+          "Bronşiyal anastomoz stenozu",
+          "Primer greft disfonksiyonu",
+          "Kronik akciğer allogreft disfonksiyonu"
+        ],
+        "correct": 2,
+        "explanation": "Özgün çalışmanın birincil sonlanımı 72. saatte primer greft disfonksiyonuydu; diğer seçenekler ayrı nakil komplikasyonlarıdır.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "Toronto EVLP protokolünün perfüzatı için hangi özellik doğrudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0jyakax",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Toronto EVLP protokolünün perfüzatı için hangi özellik doğrudur?",
+        "options": [
+          "Yalnız tam kan",
+          "Yalnız serum fizyolojik",
+          "Yalnız heparinli dekstroz",
+          "Aselüler Steen solüsyonu"
+        ],
+        "correct": 3,
+        "explanation": "Toronto yaklaşımı aselüler Steen perfüzatı kullanır; Lund yaklaşımında eritrosit eklenir.",
+        "source": "EVLP protokolleri 2021"
+      }
+    },
+    {
+      "title": "Kalp OCS platformunda taşınan donör organ hangi durumda tutulur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0i2acb9",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kalp OCS platformunda taşınan donör organ hangi durumda tutulur?",
+        "options": [
+          "Normotermik ve perfüze",
+          "Derin dondurulmuş ve kuru",
+          "Gazla şişirilmiş ve dolaşımsız",
+          "Hipotermik ve ventilasyonla şişirilmiş"
+        ],
+        "correct": 0,
+        "explanation": "Kalp OCS sistemi, organı sıcak ve kanla perfüze biçimde taşır.",
+        "source": "PROCEED II, Lancet 2015"
+      }
+    },
+    {
+      "title": "Cypel 2011 EVLP çalışması, aynı dönemin standart organlarını kontrol grubu olarak kullanan randomize olmayan bir çalışmaydı.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1fp20g1",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Cypel 2011 EVLP çalışması, aynı dönemin standart organlarını kontrol grubu olarak kullanan randomize olmayan bir çalışmaydı.",
+        "isTrue": true,
+        "explanation": "Çalışma prospektif ve randomize değildi; yöntem ve hasta seçimi sonuçların yorumuna dahildir.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    },
+    {
+      "title": "Cypel 2011 protokolünde EVLP sırasında işlev kötüleşse de bütün akciğerler nakledildi.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0bqqz31",
+        "course": "PER207",
+        "topic": "Transplantasyon ve yeni teknolojiler",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Cypel 2011 protokolünde EVLP sırasında işlev kötüleşse de bütün akciğerler nakledildi.",
+        "isTrue": false,
+        "explanation": "Fizyolojik işlevi kötüleşen 3 akciğer kullanılmadı; EVLP değerlendirmesi organ seçimine rehberlik etti.",
+        "source": "Cypel, NEJM EVLP 2011"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-08igmaa",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 2,
+      "term": "EVLP",
+      "en": "Ex vivo lung perfusion",
+      "definition": "Donör akciğerinin vücut dışında normotermik perfüzyon ve ventilasyonla değerlendirilmesi/onarılması.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "id": "PER207-00rsfbs",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 1,
+      "term": "Steen solüsyonu",
+      "en": "STEEN Solution",
+      "definition": "Albümin (onkotik basınç) ve dekstran 40 içeren tamponlu aselüler EVLP perfüzatı.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "id": "PER207-1l9j74i",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 1,
+      "term": "Organ Bakım Sistemi",
+      "en": "Organ Care System",
+      "definition": "Organı transport sırasında normotermik, kanla perfüze (kalp: atar halde) tutan portatif sistem.",
+      "source": "PROCEED II, Lancet 2015"
+    },
+    {
+      "id": "PER207-1hh3u1s",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 2,
+      "term": "DCD",
+      "en": "Donation after circulatory death",
+      "definition": "Dolaşımın durmasıyla ölüm tespiti sonrası organ bağışı.",
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "id": "PER207-1s0rvwp",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 2,
+      "term": "DBD",
+      "en": "Donation after brain death",
+      "definition": "Beyin ölümü sonrası organ bağışı.",
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "id": "PER207-0bfcgpz",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 1,
+      "term": "NRP",
+      "en": "Normothermic regional perfusion",
+      "definition": "DCD donörde ölüm tespitinden sonra ECMO ile organların vücut içinde normotermik perfüzyonu.",
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "id": "PER207-1s2j9pj",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 1,
+      "term": "DPP",
+      "en": "Direct procurement and perfusion",
+      "definition": "DCD kalbinin soğuk kardiyoplejiyle alınıp ex situ makinede yeniden perfüze edilmesi.",
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "id": "PER207-1rvyg7p",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "term",
+      "importance": 3,
+      "term": "Primer greft disfonksiyonu",
+      "en": "Primary graft dysfunction",
+      "definition": "Nakil sonrası erken dönemde greftin (ör. akciğer) yetersiz çalışması; VV ECMO endikasyonu.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1urlh5s",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "compare",
+      "importance": 2,
+      "title": "DCD kalbinin yeniden perfüzyonu",
+      "left": {
+        "title": "DPP",
+        "points": [
+          "Kalp donörden çıkarılır",
+          "Yeniden perfüzyon ex situ cihazda olur"
+        ]
+      },
+      "right": {
+        "title": "NRP",
+        "points": [
+          "Organlar donör vücudunda kalır",
+          "Yeniden perfüzyon bölgesel devreyle olur"
+        ]
+      },
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "id": "PER207-1pm1shj",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 2,
+      "title": "EVLP’de işlevin birlikte değerlendirilmesi",
+      "body": "Donör akciğerin EVLP uygunluğu yalnız oksijenasyonla belirlenmez; **kompliyans, pulmoner damar direnci ve hava yolu basınçları** da değerlendirilir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-085phvv",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 2,
+      "title": "Steen solüsyonunun onkotik bileşeni",
+      "body": "Steen solüsyonundaki albümin onkotik basınç sağlar; dekstran 40 içeren tamponlu perfüzat, EVLP sırasında ödemin sınırlanmasına yardım eder.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "id": "PER207-0ih7d04",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 2,
+      "title": "PROCEED II: sonlanım türü",
+      "body": "PROCEED II, OCS kalp taşıma sistemini soğuk saklamayla karşılaştıran **eşdeğerlikten aşağı olmama** çalışmasıdır; temel değerlendirme 30 günlük hasta ve greft sağkalımıdır.",
+      "source": "PROCEED II, Lancet 2015"
+    },
+    {
+      "id": "PER207-1gt0jy4",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 2,
+      "title": "NRP’de ölüm tespiti önce gelir",
+      "body": "DCD sürecinde normotermik bölgesel perfüzyon, dolaşım ölümü tespiti ve ilgili bekleme sürecinden sonra uygulanır. Organ perfüzyonu ve ölüm tespiti ayrı aşamalardır.",
+      "source": "Dhital, Sydney DCD deneyimi 2020"
+    },
+    {
+      "id": "PER207-043n974",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 2,
+      "title": "Nakil sonrası solunum desteği",
+      "body": "Akciğer naklinden sonra primer greft disfonksiyonu ağır solunum yetmezliği oluşturabilir; **VV ECMO** bu bağlamda gaz değişimini destekleyebilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1iq415m",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "flip",
+      "importance": 2,
+      "question": "Cypel 2011 EVLP çalışmasında radyografi ve bronkoskopi neyi tamamlar?",
+      "answer": "Gaz değişimi ölçümüne ek olarak ödem, konsolidasyon, atelektazi ve hava yolu görünümünü değerlendirir. **Görüntüleme ve bronkoskopi**, fizyolojik ölçümlerin yerine geçmeden onları tamamlar.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-1yiykve",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "flip",
+      "importance": 2,
+      "question": "Cypel 2011 EVLP çalışmasında karşılaştırma grubuna hangi akciğerler alındı?",
+      "answer": "Aynı dönemde nakledilen **standart kriterli donör akciğerleri** kullanıldı. EVLP grubu yüksek riskli organlardan seçildi; gruplar randomizasyonla oluşturulmadı.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-09jf9pm",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "remember",
+      "importance": 3,
+      "title": "EVLP’den sonra her organ kullanılmaz",
+      "body": "Cypel 2011’de EVLP uygulanan **23 donörün 20’sinin** akciğerleri nakledildi; kötüleşen 3 organ kullanılmadı. EVLP, organın uygunluğunu değerlendirme fırsatı sağlar; başarı garantisi değildir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-073srze",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 1,
+      "title": "Barnard ve ilk insan kalp nakli",
+      "body": "Christiaan Barnard ve ekibi, **3 Aralık 1967**’de Cape Town Groote Schuur Hastanesi’nde ilk insandan insana kalp naklini yaptı. Tarih UCT’nin kendi arşiviyle doğrulanmıştır.",
+      "source": "Transplant merkezlerinin tarihçeleri"
+    },
+    {
+      "id": "PER207-0on6c0j",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 1,
+      "title": "Reitz–Shumway ve kalp-akciğer nakli",
+      "body": "Stanford’da Bruce Reitz ve Norman Shumway ekibi **9 Mart 1981**’de Mary Gohlke’ye ilk başarılı kalp-akciğer naklini yaptı. Stanford’un Reitz söyleşisi tarih ve ekibi doğrular.",
+      "source": "Transplant merkezlerinin tarihçeleri"
+    },
+    {
+      "id": "PER207-0qyr0u2",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "fact",
+      "importance": 1,
+      "title": "Cooper ve başarılı akciğer nakli",
+      "body": "Joel Cooper’ın Toronto General ekibi **7 Kasım 1983**’te Tom Hall’a ilk başarılı tek akciğer naklini yaptı. UHN’nin kendi tarih kaydı bu başarıyı önceki kısa sağkalımlı girişimlerden ayırır.",
+      "source": "Transplant merkezlerinin tarihçeleri"
+    },
+    {
+      "id": "PER207-1ekxgsp",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Cypel ve arkadaşlarının 2011 EVLP çalışmasında yüksek riskli akciğerler kaç saat perfüze edilerek değerlendirildi?",
+      "options": [
+        "12 saat",
+        "4 saat",
+        "1 saat",
+        "8 saat"
+      ],
+      "correct": 1,
+      "explanation": "Bu prospektif çalışmanın protokolünde 4 saat EVLP kullanıldı; süre tüm merkezler için evrensel hedef değildir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-1xlm939",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Cypel 2011 EVLP çalışmasının nakilden 72 saat sonra değerlendirdiği birincil sonlanım hangisiydi?",
+      "options": [
+        "Antikor aracılı rejeksiyon",
+        "Bronşiyal anastomoz stenozu",
+        "Primer greft disfonksiyonu",
+        "Kronik akciğer allogreft disfonksiyonu"
+      ],
+      "correct": 2,
+      "explanation": "Özgün çalışmanın birincil sonlanımı 72. saatte primer greft disfonksiyonuydu; diğer seçenekler ayrı nakil komplikasyonlarıdır.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-0jyakax",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Toronto EVLP protokolünün perfüzatı için hangi özellik doğrudur?",
+      "options": [
+        "Yalnız tam kan",
+        "Yalnız serum fizyolojik",
+        "Yalnız heparinli dekstroz",
+        "Aselüler Steen solüsyonu"
+      ],
+      "correct": 3,
+      "explanation": "Toronto yaklaşımı aselüler Steen perfüzatı kullanır; Lund yaklaşımında eritrosit eklenir.",
+      "source": "EVLP protokolleri 2021"
+    },
+    {
+      "id": "PER207-0i2acb9",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp OCS platformunda taşınan donör organ hangi durumda tutulur?",
+      "options": [
+        "Normotermik ve perfüze",
+        "Derin dondurulmuş ve kuru",
+        "Gazla şişirilmiş ve dolaşımsız",
+        "Hipotermik ve ventilasyonla şişirilmiş"
+      ],
+      "correct": 0,
+      "explanation": "Kalp OCS sistemi, organı sıcak ve kanla perfüze biçimde taşır.",
+      "source": "PROCEED II, Lancet 2015"
+    },
+    {
+      "id": "PER207-1fp20g1",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Cypel 2011 EVLP çalışması, aynı dönemin standart organlarını kontrol grubu olarak kullanan randomize olmayan bir çalışmaydı.",
+      "isTrue": true,
+      "explanation": "Çalışma prospektif ve randomize değildi; yöntem ve hasta seçimi sonuçların yorumuna dahildir.",
+      "source": "Cypel, NEJM EVLP 2011"
+    },
+    {
+      "id": "PER207-0bqqz31",
+      "course": "PER207",
+      "topic": "Transplantasyon ve yeni teknolojiler",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Cypel 2011 protokolünde EVLP sırasında işlev kötüleşse de bütün akciğerler nakledildi.",
+      "isTrue": false,
+      "explanation": "Fizyolojik işlevi kötüleşen 3 akciğer kullanılmadı; EVLP değerlendirmesi organ seçimine rehberlik etti.",
+      "source": "Cypel, NEJM EVLP 2011"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

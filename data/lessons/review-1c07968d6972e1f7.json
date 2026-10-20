@@ -1,0 +1,440 @@
+{
+  "id": "review-1c07968d6972e1f7",
+  "title": "ECMO: tanım, tarihçe ve ELSO",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Ekstrakorporeal yaşam desteği",
+      "text": "Extracorporeal life support\nKalp ve/veya akciğeri geçici olarak destekleyerek iyileşmeye veya organ replasmanına köprü sağlayan mekanik destek. Cerrahi amaçlı KPB bu terminolojik kapsamın dışındadır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0pygkre",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "term",
+        "importance": 3,
+        "term": "Ekstrakorporeal yaşam desteği",
+        "en": "Extracorporeal life support",
+        "definition": "Kalp ve/veya akciğeri geçici olarak destekleyerek iyileşmeye veya organ replasmanına köprü sağlayan mekanik destek. Cerrahi amaçlı KPB bu terminolojik kapsamın dışındadır.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "ECMO",
+      "text": "Extracorporeal membrane oxygenation\nKanın vücut dışında membran oksijenatörde oksijenlenip CO2'sinin uzaklaştırıldığı ECLS türü.",
+      "images": [],
+      "card": {
+        "id": "PER207-00oje1p",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "term",
+        "importance": 3,
+        "term": "ECMO",
+        "en": "Extracorporeal membrane oxygenation",
+        "definition": "Kanın vücut dışında membran oksijenatörde oksijenlenip CO2'sinin uzaklaştırıldığı ECLS türü.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Maastricht Antlaşması",
+      "text": "ELSO Maastricht Treaty\nELSO'nun ECLS terim ve kısaltmalarını standartlaştıran uzlaşısı; drenaj kanülü tireden önce, dönüş kanülü sonra yazılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1lgkruy",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "term",
+        "importance": 1,
+        "term": "Maastricht Antlaşması",
+        "en": "ELSO Maastricht Treaty",
+        "definition": "ELSO'nun ECLS terim ve kısaltmalarını standartlaştıran uzlaşısı; drenaj kanülü tireden önce, dönüş kanülü sonra yazılır.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "ELSO",
+      "text": "Extracorporeal Life Support Organization\nEkstrakorporeal yaşam desteğinde uluslararası kayıt, eğitim ve kılavuz çalışmaları yürüten kuruluş.",
+      "images": [],
+      "card": {
+        "id": "PER207-1h0n7fm",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "term",
+        "importance": 1,
+        "term": "ELSO",
+        "en": "Extracorporeal Life Support Organization",
+        "definition": "Ekstrakorporeal yaşam desteğinde uluslararası kayıt, eğitim ve kılavuz çalışmaları yürüten kuruluş.",
+        "source": "ECMO tarihçesi 2022"
+      }
+    },
+    {
+      "title": "Red Book",
+      "text": "ELSO Red Book\nELSO tarafından yayımlanan ekstrakorporeal yaşam desteği ders kitabı.",
+      "images": [],
+      "card": {
+        "id": "PER207-19e8dhx",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "term",
+        "importance": 1,
+        "term": "Red Book",
+        "en": "ELSO Red Book",
+        "definition": "ELSO tarafından yayımlanan ekstrakorporeal yaşam desteği ders kitabı.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "İlk başarılı uzun süreli erişkin ECMO",
+      "text": "1971'de J. Donald Hill ve ekibi, motosiklet kazası sonrası ARDS (\"şok akciğer\") gelişen 24 yaşındaki hastayı **Bramson membran akciğeri** ile VA ECMO'da **75 saat** destekledi; hasta yaşadı. Olgu 1972'de NEJM'de yayımlandı.",
+      "images": [],
+      "card": {
+        "id": "PER207-0hpgytp",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "fact",
+        "importance": 2,
+        "title": "İlk başarılı uzun süreli erişkin ECMO",
+        "body": "1971'de J. Donald Hill ve ekibi, motosiklet kazası sonrası ARDS (\"şok akciğer\") gelişen 24 yaşındaki hastayı **Bramson membran akciğeri** ile VA ECMO'da **75 saat** destekledi; hasta yaşadı. Olgu 1972'de NEJM'de yayımlandı.",
+        "source": "NEJM 1972 (Hill)"
+      }
+    },
+    {
+      "title": "Bartlett'in 1985 yenidoğan çalışması",
+      "text": "Bartlett'in yenidoğan solunum yetmezliği çalışması **\"randomized play-the-winner\"** yöntemiyle yapıldı: kontrol grubuna atanan tek hasta öldü, ECMO'ya atanan **11 bebeğin tamamı** yaşadı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bdgqk4",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "fact",
+        "importance": 1,
+        "title": "Bartlett'in 1985 yenidoğan çalışması",
+        "body": "Bartlett'in yenidoğan solunum yetmezliği çalışması **\"randomized play-the-winner\"** yöntemiyle yapıldı: kontrol grubuna atanan tek hasta öldü, ECMO'ya atanan **11 bebeğin tamamı** yaşadı.",
+        "source": "Pediatrics 1985 (Bartlett)"
+      }
+    },
+    {
+      "title": "ELSO kılavuzları ve kayıt sistemi",
+      "text": "ELSO kılavuzları **uzlaşı (konsensüs)** niteliğindedir; bakım standardı tanımlamaz ve düzenli aralıklarla güncellenir. ELSO'nun uluslararası kayıt sistemi (registry), ECMO'da komplikasyon ve sağkalım verilerinin ana kaynağıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-109oygn",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "fact",
+        "importance": 2,
+        "title": "ELSO kılavuzları ve kayıt sistemi",
+        "body": "ELSO kılavuzları **uzlaşı (konsensüs)** niteliğindedir; bakım standardı tanımlamaz ve düzenli aralıklarla güncellenir. ELSO'nun uluslararası kayıt sistemi (registry), ECMO'da komplikasyon ve sağkalım verilerinin ana kaynağıdır.",
+        "source": "ELSO 2017; ELSO VA 2021"
+      }
+    },
+    {
+      "title": "2009: erişkin ECMO'nun yeniden yükselişi",
+      "text": "2009'da CESAR çalışması yayımlandı; aynı yıl yaşanan **H1N1 pandemisi** erişkin ECMO kullanımını yeniden artırdı. 2018'de ağır ARDS'de erken VV ECMO'yu sınayan EOLIA çalışması yayımlandı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1xi8duq",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "fact",
+        "importance": 1,
+        "title": "2009: erişkin ECMO'nun yeniden yükselişi",
+        "body": "2009'da CESAR çalışması yayımlandı; aynı yıl yaşanan **H1N1 pandemisi** erişkin ECMO kullanımını yeniden artırdı. 2018'de ağır ARDS'de erken VV ECMO'yu sınayan EOLIA çalışması yayımlandı.",
+        "source": "ECMO tarihçesi derlemesi, PMC"
+      }
+    },
+    {
+      "title": "KPB'nin ilk başarılı kullanımı",
+      "text": "1953'te Gibbon, kardiyopulmoner bypass'ı (KPB) ilk kez başarıyla kullanarak bir **atriyal septal defekti** kapattı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1k2whhh",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "fact",
+        "importance": 1,
+        "title": "KPB'nin ilk başarılı kullanımı",
+        "body": "1953'te Gibbon, kardiyopulmoner bypass'ı (KPB) ilk kez başarıyla kullanarak bir **atriyal septal defekti** kapattı.",
+        "source": "ECMO tarihçesi derlemesi, PMC"
+      }
+    },
+    {
+      "title": "1971'de politravma sonrası ARDS gelişen bir hastayı VA ECMO ile 75 saat destekleyerek ilk başarılı uzun süreli erişkin ECMO olgusunu bildiren ekip hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-05vw3pu",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "mcq",
+        "importance": 3,
+        "question": "1971'de politravma sonrası ARDS gelişen bir hastayı VA ECMO ile 75 saat destekleyerek ilk başarılı uzun süreli erişkin ECMO olgusunu bildiren ekip hangisidir?",
+        "options": [
+          "Bartlett ve ekibi",
+          "Hill ve ekibi",
+          "Zapol ve ekibi",
+          "Gibbon ve ekibi"
+        ],
+        "correct": 1,
+        "explanation": "Hill'in olgusu 1972'de NEJM'de yayımlandı. Bartlett 1975'te ilk başarılı yenidoğan ECMO'sunu yaptı; Gibbon 1953'te KPB'yi ilk kez başarıyla kullandı.",
+        "source": "NEJM 1972 (Hill)"
+      }
+    },
+    {
+      "title": "1975'te Bartlett'in VA ECMO ile desteklediği ve hemşirelerin \"Esperanza\" adını verdiği yenidoğanın tanısı neydi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0gl15jo",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "mcq",
+        "importance": 2,
+        "question": "1975'te Bartlett'in VA ECMO ile desteklediği ve hemşirelerin \"Esperanza\" adını verdiği yenidoğanın tanısı neydi?",
+        "options": [
+          "Konjenital diyafragma hernisi",
+          "Persistan pulmoner hipertansiyon",
+          "Mekonyum aspirasyonu",
+          "Neonatal sepsis"
+        ],
+        "correct": 2,
+        "explanation": "Mekonyum aspirasyonuna bağlı solunum yetmezliği olan bebek iyi nörolojik durumla taburcu oldu. Esperanza İspanyolca \"umut\" demektir.",
+        "source": "Neonatology on the Web"
+      }
+    },
+    {
+      "title": "ELSO (Extracorporeal Life Support Organization), 1989'da Michigan'da Bartlett ve arkadaşlarınca kuruldu.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0hi8cyj",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ELSO (Extracorporeal Life Support Organization), 1989'da Michigan'da Bartlett ve arkadaşlarınca kuruldu.",
+        "isTrue": true,
+        "explanation": "ELSO; uluslararası kayıt sistemi, kılavuzları ve \"Red Book\" ders kitabıyla ECLS alanının başlıca kuruluşudur.",
+        "source": "ECMO tarihçesi derlemesi, PMC"
+      }
+    },
+    {
+      "title": "1979'da yayımlanan Zapol çalışması, erişkin akut solunum yetmezliğinde VA ECMO'nun sağkalımı belirgin biçimde artırdığını gösterdi.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-17s8nqf",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "tf",
+        "importance": 2,
+        "statement": "1979'da yayımlanan Zapol çalışması, erişkin akut solunum yetmezliğinde VA ECMO'nun sağkalımı belirgin biçimde artırdığını gösterdi.",
+        "isTrue": false,
+        "explanation": "Sağkalım farkı yoktu (%9,5 vs %8,3); kanama ve enfeksiyon sıktı. Bu sonuçla erişkin ECMO uzun süre gözden düştü.",
+        "source": "Cochrane derlemesi"
+      }
+    },
+    {
+      "title": "ECLS (ekstrakorporeal yaşam desteği) ile ECMO arasındaki ilişki nedir? Cerrahi amaçlı KPB bu tanıma girer mi?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0y41lbd",
+        "course": "PER207",
+        "topic": "ECMO: tanım, tarihçe ve ELSO",
+        "type": "flip",
+        "importance": 3,
+        "question": "ECLS (ekstrakorporeal yaşam desteği) ile ECMO arasındaki ilişki nedir? Cerrahi amaçlı KPB bu tanıma girer mi?",
+        "answer": "ECMO, ECLS'nin bir alt türüdür. ELSO Maastricht tanımına göre ECLS; oksijenasyon, CO2 uzaklaştırma ve/veya kardiyak destek sağlayan tedavilerin bütünüdür. **Cerrahi amaçlı KPB bu tanımın dışındadır.**",
+        "source": "ELSO Maastricht 2019"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-0pygkre",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "term",
+      "importance": 3,
+      "term": "Ekstrakorporeal yaşam desteği",
+      "en": "Extracorporeal life support",
+      "definition": "Kalp ve/veya akciğeri geçici olarak destekleyerek iyileşmeye veya organ replasmanına köprü sağlayan mekanik destek. Cerrahi amaçlı KPB bu terminolojik kapsamın dışındadır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-00oje1p",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "term",
+      "importance": 3,
+      "term": "ECMO",
+      "en": "Extracorporeal membrane oxygenation",
+      "definition": "Kanın vücut dışında membran oksijenatörde oksijenlenip CO2'sinin uzaklaştırıldığı ECLS türü.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-1lgkruy",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "term",
+      "importance": 1,
+      "term": "Maastricht Antlaşması",
+      "en": "ELSO Maastricht Treaty",
+      "definition": "ELSO'nun ECLS terim ve kısaltmalarını standartlaştıran uzlaşısı; drenaj kanülü tireden önce, dönüş kanülü sonra yazılır.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-1h0n7fm",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "term",
+      "importance": 1,
+      "term": "ELSO",
+      "en": "Extracorporeal Life Support Organization",
+      "definition": "Ekstrakorporeal yaşam desteğinde uluslararası kayıt, eğitim ve kılavuz çalışmaları yürüten kuruluş.",
+      "source": "ECMO tarihçesi 2022"
+    },
+    {
+      "id": "PER207-19e8dhx",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "term",
+      "importance": 1,
+      "term": "Red Book",
+      "en": "ELSO Red Book",
+      "definition": "ELSO tarafından yayımlanan ekstrakorporeal yaşam desteği ders kitabı.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0hpgytp",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "fact",
+      "importance": 2,
+      "title": "İlk başarılı uzun süreli erişkin ECMO",
+      "body": "1971'de J. Donald Hill ve ekibi, motosiklet kazası sonrası ARDS (\"şok akciğer\") gelişen 24 yaşındaki hastayı **Bramson membran akciğeri** ile VA ECMO'da **75 saat** destekledi; hasta yaşadı. Olgu 1972'de NEJM'de yayımlandı.",
+      "source": "NEJM 1972 (Hill)"
+    },
+    {
+      "id": "PER207-1bdgqk4",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "fact",
+      "importance": 1,
+      "title": "Bartlett'in 1985 yenidoğan çalışması",
+      "body": "Bartlett'in yenidoğan solunum yetmezliği çalışması **\"randomized play-the-winner\"** yöntemiyle yapıldı: kontrol grubuna atanan tek hasta öldü, ECMO'ya atanan **11 bebeğin tamamı** yaşadı.",
+      "source": "Pediatrics 1985 (Bartlett)"
+    },
+    {
+      "id": "PER207-109oygn",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "fact",
+      "importance": 2,
+      "title": "ELSO kılavuzları ve kayıt sistemi",
+      "body": "ELSO kılavuzları **uzlaşı (konsensüs)** niteliğindedir; bakım standardı tanımlamaz ve düzenli aralıklarla güncellenir. ELSO'nun uluslararası kayıt sistemi (registry), ECMO'da komplikasyon ve sağkalım verilerinin ana kaynağıdır.",
+      "source": "ELSO 2017; ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1xi8duq",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "fact",
+      "importance": 1,
+      "title": "2009: erişkin ECMO'nun yeniden yükselişi",
+      "body": "2009'da CESAR çalışması yayımlandı; aynı yıl yaşanan **H1N1 pandemisi** erişkin ECMO kullanımını yeniden artırdı. 2018'de ağır ARDS'de erken VV ECMO'yu sınayan EOLIA çalışması yayımlandı.",
+      "source": "ECMO tarihçesi derlemesi, PMC"
+    },
+    {
+      "id": "PER207-1k2whhh",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "fact",
+      "importance": 1,
+      "title": "KPB'nin ilk başarılı kullanımı",
+      "body": "1953'te Gibbon, kardiyopulmoner bypass'ı (KPB) ilk kez başarıyla kullanarak bir **atriyal septal defekti** kapattı.",
+      "source": "ECMO tarihçesi derlemesi, PMC"
+    },
+    {
+      "id": "PER207-05vw3pu",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "mcq",
+      "importance": 3,
+      "question": "1971'de politravma sonrası ARDS gelişen bir hastayı VA ECMO ile 75 saat destekleyerek ilk başarılı uzun süreli erişkin ECMO olgusunu bildiren ekip hangisidir?",
+      "options": [
+        "Bartlett ve ekibi",
+        "Hill ve ekibi",
+        "Zapol ve ekibi",
+        "Gibbon ve ekibi"
+      ],
+      "correct": 1,
+      "explanation": "Hill'in olgusu 1972'de NEJM'de yayımlandı. Bartlett 1975'te ilk başarılı yenidoğan ECMO'sunu yaptı; Gibbon 1953'te KPB'yi ilk kez başarıyla kullandı.",
+      "source": "NEJM 1972 (Hill)"
+    },
+    {
+      "id": "PER207-0gl15jo",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "mcq",
+      "importance": 2,
+      "question": "1975'te Bartlett'in VA ECMO ile desteklediği ve hemşirelerin \"Esperanza\" adını verdiği yenidoğanın tanısı neydi?",
+      "options": [
+        "Konjenital diyafragma hernisi",
+        "Persistan pulmoner hipertansiyon",
+        "Mekonyum aspirasyonu",
+        "Neonatal sepsis"
+      ],
+      "correct": 2,
+      "explanation": "Mekonyum aspirasyonuna bağlı solunum yetmezliği olan bebek iyi nörolojik durumla taburcu oldu. Esperanza İspanyolca \"umut\" demektir.",
+      "source": "Neonatology on the Web"
+    },
+    {
+      "id": "PER207-0hi8cyj",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO (Extracorporeal Life Support Organization), 1989'da Michigan'da Bartlett ve arkadaşlarınca kuruldu.",
+      "isTrue": true,
+      "explanation": "ELSO; uluslararası kayıt sistemi, kılavuzları ve \"Red Book\" ders kitabıyla ECLS alanının başlıca kuruluşudur.",
+      "source": "ECMO tarihçesi derlemesi, PMC"
+    },
+    {
+      "id": "PER207-17s8nqf",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "tf",
+      "importance": 2,
+      "statement": "1979'da yayımlanan Zapol çalışması, erişkin akut solunum yetmezliğinde VA ECMO'nun sağkalımı belirgin biçimde artırdığını gösterdi.",
+      "isTrue": false,
+      "explanation": "Sağkalım farkı yoktu (%9,5 vs %8,3); kanama ve enfeksiyon sıktı. Bu sonuçla erişkin ECMO uzun süre gözden düştü.",
+      "source": "Cochrane derlemesi"
+    },
+    {
+      "id": "PER207-0y41lbd",
+      "course": "PER207",
+      "topic": "ECMO: tanım, tarihçe ve ELSO",
+      "type": "flip",
+      "importance": 3,
+      "question": "ECLS (ekstrakorporeal yaşam desteği) ile ECMO arasındaki ilişki nedir? Cerrahi amaçlı KPB bu tanıma girer mi?",
+      "answer": "ECMO, ECLS'nin bir alt türüdür. ELSO Maastricht tanımına göre ECLS; oksijenasyon, CO2 uzaklaştırma ve/veya kardiyak destek sağlayan tedavilerin bütünüdür. **Cerrahi amaçlı KPB bu tanımın dışındadır.**",
+      "source": "ELSO Maastricht 2019"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

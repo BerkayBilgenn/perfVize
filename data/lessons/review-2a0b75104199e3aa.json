@@ -1,0 +1,1157 @@
+{
+  "id": "review-2a0b75104199e3aa",
+  "title": "Perfüzyon yönetimi",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hemodilüsyon",
+      "text": "Hemodilution\nPrime sıvısı nedeniyle kanın seyrelmesi; hematokrit ve viskozite düşer.",
+      "images": [],
+      "card": {
+        "id": "PER141-174ejjg",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "Hemodilüsyon",
+        "definition": "Prime sıvısı nedeniyle kanın seyrelmesi; hematokrit ve viskozite düşer.",
+        "en": "Hemodilution",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Priming",
+      "text": "Priming\nKPB devresinin başlamadan önce havası alınarak sıvıyla doldurulması; kullanılan sıvı \"prime solüsyonu\"dur.",
+      "images": [],
+      "card": {
+        "id": "PER141-1gvkrqf",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Priming",
+        "definition": "KPB devresinin başlamadan önce havası alınarak sıvıyla doldurulması; kullanılan sıvı \"prime solüsyonu\"dur.",
+        "en": "Priming",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Otolog priming",
+      "text": "Retrograde / venous antegrade autologous priming\nHastanın kendi kanıyla prime sıvısının dış torbaya itilmesi (sağ atriyumP: arteriyel hattan geriye; VAP: venöz hattan ileri); hemodilüsyonu azaltır.",
+      "images": [],
+      "card": {
+        "id": "PER141-041eq5f",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Otolog priming",
+        "definition": "Hastanın kendi kanıyla prime sıvısının dış torbaya itilmesi (sağ atriyumP: arteriyel hattan geriye; VAP: venöz hattan ileri); hemodilüsyonu azaltır.",
+        "en": "Retrograde / venous antegrade autologous priming",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Resirkülasyon",
+      "text": "Recirculation\nPrime sıvısının devre içinde döndürülerek karıştırılması, ısıtılması ve havasının alınması.",
+      "images": [],
+      "card": {
+        "id": "PER141-00p4kr7",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Resirkülasyon",
+        "definition": "Prime sıvısının devre içinde döndürülerek karıştırılması, ısıtılması ve havasının alınması.",
+        "en": "Recirculation",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "De-airing",
+      "text": "De-airing\nDevreden ve kalp boşluklarından havanın uzaklaştırılması işlemleri.",
+      "images": [],
+      "card": {
+        "id": "PER141-0oovofp",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "De-airing",
+        "definition": "Devreden ve kalp boşluklarından havanın uzaklaştırılması işlemleri.",
+        "en": "De-airing",
+        "source": "De-airing derlemesi 2026"
+      }
+    },
+    {
+      "title": "Debubbling",
+      "text": "Debubbling\nFiltre, oksijenatör, kardiyopleji seti gibi bileşenlerdeki kabarcıkların temizlenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1pw4qk3",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Debubbling",
+        "definition": "Filtre, oksijenatör, kardiyopleji seti gibi bileşenlerdeki kabarcıkların temizlenmesi.",
+        "en": "Debubbling",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "CO₂ flush",
+      "text": "CO₂ flushing\nDevrenin prime öncesinde karbondioksitle yıkanarak içerdiği havanın uzaklaştırılması işlemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1pkhpbt",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "CO₂ flush",
+        "definition": "Devrenin prime öncesinde karbondioksitle yıkanarak içerdiği havanın uzaklaştırılması işlemi.",
+        "en": "CO₂ flushing",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin",
+      "text": "Heparin\nAntitrombini aktive ederek trombin ve FXa'yı inhibe eden antikoagülan; KPB standardı.",
+      "images": [],
+      "card": {
+        "id": "PER141-1uvofvq",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "Heparin",
+        "definition": "Antitrombini aktive ederek trombin ve FXa'yı inhibe eden antikoagülan; KPB standardı.",
+        "en": "Heparin",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Protamin",
+      "text": "Protamine\nSomon spermi kaynaklı bazik protein; heparini elektrostatik bağlayarak nötralize eder.",
+      "images": [],
+      "card": {
+        "id": "PER141-0rjdbtx",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "Protamin",
+        "definition": "Somon spermi kaynaklı bazik protein; heparini elektrostatik bağlayarak nötralize eder.",
+        "en": "Protamine",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ACT",
+      "text": "Activated clotting time\nHeparin etkisini izlemekte kullanılan yatak başı tam kan pıhtılaşma testi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1hqevfr",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "ACT",
+        "definition": "Heparin etkisini izlemekte kullanılan yatak başı tam kan pıhtılaşma testi.",
+        "en": "Activated clotting time",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Antitrombin (AT III)",
+      "text": "Antithrombin\nHeparinin etkisine aracılık eden doğal antikoagülan; eksikliği heparin direncine yol açar.",
+      "images": [],
+      "card": {
+        "id": "PER141-0iav89j",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Antitrombin (AT III)",
+        "definition": "Heparinin etkisine aracılık eden doğal antikoagülan; eksikliği heparin direncine yol açar.",
+        "en": "Antithrombin",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin direnci",
+      "text": "Heparin resistance\nYüksek doz heparin verilmesine rağmen hedef aktive pıhtılaşma zamanına ulaşılamaması.",
+      "images": [],
+      "card": {
+        "id": "PER141-0v2yni2",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Heparin direnci",
+        "definition": "Yüksek doz heparin verilmesine rağmen hedef aktive pıhtılaşma zamanına ulaşılamaması.",
+        "en": "Heparin resistance",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "HIT",
+      "text": "Heparin-induced thrombocytopenia\nHeparinle ilişkili trombosit sayısı düşüşü; immün tipte alternatif antikoagülasyon gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER141-15ppt5q",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "HIT",
+        "definition": "Heparinle ilişkili trombosit sayısı düşüşü; immün tipte alternatif antikoagülasyon gerekir.",
+        "en": "Heparin-induced thrombocytopenia",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bivalirudin",
+      "text": "Bivalirudin\nTrombini doğrudan inhibe eden kısa etkili antikoagülan; heparine bağlı immün trombositopenide kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1nlujjm",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Bivalirudin",
+        "definition": "Trombini doğrudan inhibe eden kısa etkili antikoagülan; heparine bağlı immün trombositopenide kullanılabilir.",
+        "en": "Bivalirudin",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "DO₂ (oksijen sunumu)",
+      "text": "Oxygen delivery\nKan akımıyla dokulara taşınan oksijen miktarı; akım ve arteriyel kanın oksijen içeriğiyle belirlenir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0celhdr",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "DO₂ (oksijen sunumu)",
+        "definition": "Kan akımıyla dokulara taşınan oksijen miktarı; akım ve arteriyel kanın oksijen içeriğiyle belirlenir.",
+        "en": "Oxygen delivery",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "GDP",
+      "text": "Goal-directed perfusion\nAkım ve hemoglobin'yi DO₂ hedefine göre ayarlayan perfüzyon stratejisi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0gy2exy",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 3,
+        "term": "GDP",
+        "definition": "Akım ve hemoglobin'yi DO₂ hedefine göre ayarlayan perfüzyon stratejisi.",
+        "en": "Goal-directed perfusion",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyak indeks (CI)",
+      "text": "Cardiac index\nKalp debisinin vücut yüzey alanına bölünmüşü; pompa akımı = BSA × CI.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mffsdc",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyak indeks (CI)",
+        "definition": "Kalp debisinin vücut yüzey alanına bölünmüşü; pompa akımı = BSA × CI.",
+        "en": "Cardiac index",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "BSA",
+      "text": "Body surface area\nVücut yüzey alanı; pompa akımı hesabında kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER141-007e9ul",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "BSA",
+        "definition": "Vücut yüzey alanı; pompa akımı hesabında kullanılır.",
+        "en": "Body surface area",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Hematokrit",
+      "text": "Hematocrit\nKanın eritrosit hacim yüzdesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1utcwdx",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Hematokrit",
+        "definition": "Kanın eritrosit hacim yüzdesi.",
+        "en": "Hematocrit",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "Vazopleji",
+      "text": "Vasoplegic syndrome\nNormal veya yüksek kalp debisine rağmen düşük sistemik damar direnci ve düşük arter basıncıyla seyreden durum.",
+      "images": [],
+      "card": {
+        "id": "PER141-19bm2bv",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Vazopleji",
+        "definition": "Normal veya yüksek kalp debisine rağmen düşük sistemik damar direnci ve düşük arter basıncıyla seyreden durum.",
+        "en": "Vasoplegic syndrome",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Alfa-stat",
+      "text": "Alpha-stat\nKan gazlarının standart ölçüm sıcaklığında, hastanın sıcaklığına göre düzeltilmeden yorumlandığı asit-baz stratejisi.",
+      "images": [],
+      "card": {
+        "id": "PER141-15k44my",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "Alfa-stat",
+        "definition": "Kan gazlarının standart ölçüm sıcaklığında, hastanın sıcaklığına göre düzeltilmeden yorumlandığı asit-baz stratejisi.",
+        "en": "Alpha-stat",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "pH-stat",
+      "text": "pH-stat\npH ve PaCO₂'nin sıcaklığa göre düzeltilip sabit tutulduğu (oksijenatöre CO₂ eklenen) strateji.",
+      "images": [],
+      "card": {
+        "id": "PER141-0b8gx0m",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "pH-stat",
+        "definition": "pH ve PaCO₂'nin sıcaklığa göre düzeltilip sabit tutulduğu (oksijenatöre CO₂ eklenen) strateji.",
+        "en": "pH-stat",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "KPB'den ayrılma",
+      "text": "Weaning / separation from CPB\nKPB desteğinin kademeli azaltılıp kalbin dolaşımı devralması.",
+      "images": [],
+      "card": {
+        "id": "PER141-1m84fo3",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "term",
+        "importance": 2,
+        "term": "KPB'den ayrılma",
+        "definition": "KPB desteğinin kademeli azaltılıp kalbin dolaşımı devralması.",
+        "en": "Weaning / separation from CPB",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Hipotermide kan gazı yorumu",
+      "text": "Alfa-stat\nHasta sıcaklığına göre düzeltme yapılmaz\nSerebral otoregülasyonu korumaya yöneliktir\n\npH-stat\nSıcaklık düzeltmeli pH ve PaCO₂ esas alınır\nCO₂ eklenmesi serebral akımı ve soğumayı artırır",
+      "images": [],
+      "card": {
+        "id": "PER141-1fwm7rs",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Hipotermide kan gazı yorumu",
+        "left": {
+          "title": "Alfa-stat",
+          "points": [
+            "Hasta sıcaklığına göre düzeltme yapılmaz",
+            "Serebral otoregülasyonu korumaya yöneliktir"
+          ]
+        },
+        "right": {
+          "title": "pH-stat",
+          "points": [
+            "Sıcaklık düzeltmeli pH ve PaCO₂ esas alınır",
+            "CO₂ eklenmesi serebral akımı ve soğumayı artırır"
+          ]
+        },
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kaplamasız devrede ACT hedefi",
+      "text": "EACTS 2024, kaplamasız ekipman ve kardiyotomi aspirasyonuyla KPB'de **ACT >480 sn** eşiğini ele alır. Kaplamalı sistem veya farklı ACT cihazına doğrudan genellenmez.",
+      "images": [],
+      "card": {
+        "id": "PER141-0jellqh",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Kaplamasız devrede ACT hedefi",
+        "body": "EACTS 2024, kaplamasız ekipman ve kardiyotomi aspirasyonuyla KPB'de **ACT >480 sn** eşiğini ele alır. Kaplamalı sistem veya farklı ACT cihazına doğrudan genellenmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Oksijen sunumu hedefi",
+      "text": "EACTS 2024, erken akut böbrek hasarını azaltmak için **GDP’yi önerir (I-A)**. Normotermik KPB’de indekslenmiş DO₂ alt eşiğinin 280–300 mL/dk/m² arasında tutulması **düşünülmelidir (IIa-B)**; önerilerin gücü aynı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0xi7j13",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Oksijen sunumu hedefi",
+        "body": "EACTS 2024, erken akut böbrek hasarını azaltmak için **GDP’yi önerir (I-A)**. Normotermik KPB’de indekslenmiş DO₂ alt eşiğinin 280–300 mL/dk/m² arasında tutulması **düşünülmelidir (IIa-B)**; önerilerin gücü aynı değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arter basıncı hedefi",
+      "text": "EACTS 2024 KPB'de **MAP 50–80 mmHg**, Basics of CPB 50–70 mmHg verir. Hedef hasta ve serebral otoregülasyonla bireyselleştirilir; kaynak farkı testte puanlanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-11vwl7q",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arter basıncı hedefi",
+        "body": "EACTS 2024 KPB'de **MAP 50–80 mmHg**, Basics of CPB 50–70 mmHg verir. Hedef hasta ve serebral otoregülasyonla bireyselleştirilir; kaynak farkı testte puanlanmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Transfüzyonun oksijenasyon bağlamı",
+      "text": "EACTS 2024'te Hct **<%18** için eritrosit transfüzyonu önerilir; %18–24 arasında doku oksijenasyonu değerlendirilir. Hct >%24 ve oksijenasyon yeterliyse transfüzyon önerilmez.",
+      "images": [],
+      "card": {
+        "id": "PER141-00kg2a5",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Transfüzyonun oksijenasyon bağlamı",
+        "body": "EACTS 2024'te Hct **<%18** için eritrosit transfüzyonu önerilir; %18–24 arasında doku oksijenasyonu değerlendirilir. Hct >%24 ve oksijenasyon yeterliyse transfüzyon önerilmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Pompa akımı vücut yüzey alanından nasıl hesaplanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-08u6csa",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Pompa akımı vücut yüzey alanından nasıl hesaplanır?",
+        "answer": "**Akım = vücut yüzey alanı × kardiyak indeks**. Seçilen indeks ve sonuç birimleri hasta sıcaklığı ile metabolik gereksinime göre değerlendirilir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Heparin direnci antitrombin eksikliğine bağlıysa EACTS 2024 hangi yaklaşımı önceler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1o58q5s",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Heparin direnci antitrombin eksikliğine bağlıysa EACTS 2024 hangi yaklaşımı önceler?",
+        "answer": "**Antitrombin konsantresi**; bulunmuyorsa taze donmuş plazma değerlendirilebilir. Profilaktik plazma rutin önerilmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB'den ayrılırken venöz dönüş ve pompa akımı birlikte nasıl değiştirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-01nvx3j",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "flip",
+        "importance": 3,
+        "question": "KPB'den ayrılırken venöz dönüş ve pompa akımı birlikte nasıl değiştirilir?",
+        "answer": "Venöz dönüş kademeli kısılarak kalp doldurulur; aynı sırada **pompa akımı azaltılır** ve kalbin dolaşımı devralması değerlendirilir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Protamin fazlası da sorun yaratır",
+      "text": "EACTS 2024 **protamin/heparin oranının <1,0** tutulmasını önerir. Aşırı protamin koagülasyonu bozabilir; dozlama ve kontrol yöntemi bireyselleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ae1uvy",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Protamin fazlası da sorun yaratır",
+        "body": "EACTS 2024 **protamin/heparin oranının <1,0** tutulmasını önerir. Aşırı protamin koagülasyonu bozabilir; dozlama ve kontrol yöntemi bireyselleştirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ayrılmaya hazırlık çok bileşenlidir",
+      "text": "Weaning öncesi **ventilasyon, ritim, sıcaklık, de-airing, asit-baz ve elektrolitler** birlikte değerlendirilir. Güç ayrılma multidisipliner yaklaşım ve destek planı gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER141-10ye8d9",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Ayrılmaya hazırlık çok bileşenlidir",
+        "body": "Weaning öncesi **ventilasyon, ritim, sıcaklık, de-airing, asit-baz ve elektrolitler** birlikte değerlendirilir. Güç ayrılma multidisipliner yaklaşım ve destek planı gerektirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Prime sonrası Hct hesabının paydasında hangi hacim bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1iydhyj",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Prime sonrası Hct hesabının paydasında hangi hacim bulunur?",
+        "options": [
+          "Yalnız hastanın kan hacmi",
+          "Yalnız kristaloid prime hacmi",
+          "Yalnız arteriyel kanül hacmi",
+          "Hasta kan hacmi ile prime toplamı"
+        ],
+        "correct": 3,
+        "explanation": "Beklenen Hct = hasta kan hacmi × başlangıç Hct / toplam dolaşan hacimdir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Heparin antikoagülan etkisini hangi doğal inhibitör üzerinden artırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1wv2dou",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Heparin antikoagülan etkisini hangi doğal inhibitör üzerinden artırır?",
+        "options": [
+          "Antitrombin",
+          "Fibrinojen",
+          "Protamin",
+          "Tromboksan"
+        ],
+        "correct": 0,
+        "explanation": "Heparin antitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandırır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HIT tip 2'de kullanılan direkt trombin inhibitörü hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1ivrrd5",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "HIT tip 2'de kullanılan direkt trombin inhibitörü hangisidir?",
+        "options": [
+          "Protamin",
+          "Bivalirudin",
+          "Mannitol",
+          "Plasma-Lyte"
+        ],
+        "correct": 1,
+        "explanation": "EACTS 2024, HIT tip 2'de KPB için bivalirudini alternatif antikoagülan olarak değerlendirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Yetersiz perfüzyonu düşündüren değişiklik hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1tr72a4",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Yetersiz perfüzyonu düşündüren değişiklik hangisidir?",
+        "options": [
+          "SvO₂'nin korunması",
+          "DO₂'nin yeterli kalması",
+          "Laktatın yükselmesi",
+          "Serebral satürasyonun korunması"
+        ],
+        "correct": 2,
+        "explanation": "Yüksek laktat, düşük SvO₂ ve düşük oksijen sunumu yetersiz perfüzyon belirteçleridir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "HemoTec ve Hemochron ACT sonuçları birbirinin yerine kullanılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-04vjzkl",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "HemoTec ve Hemochron ACT sonuçları birbirinin yerine kullanılabilir.",
+        "isTrue": false,
+        "explanation": "ACT cihazları aynı sonucu vermez; eşikler kullanılan yöntem ve kurum protokolüyle yorumlanır.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Prime'a rutin mannitol eklenmesi EACTS 2024 tarafından önerilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ubab2w",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Prime'a rutin mannitol eklenmesi EACTS 2024 tarafından önerilir.",
+        "isTrue": false,
+        "explanation": "EACTS 2024 rutin mannitol eklenmesini önermez; prime katkıları hasta için bireyselleştirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bivalirudin kullanılırken devrede kan stazı önlenmelidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1d6n236",
+        "course": "PER141",
+        "topic": "Perfüzyon yönetimi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Bivalirudin kullanılırken devrede kan stazı önlenmelidir.",
+        "isTrue": true,
+        "explanation": "Bivalirudin durağan kanda tüketilebilir; devrede staz alternatif antikoagülasyonun etkinliğini bozabilir.",
+        "source": "Basics of CPB 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-174ejjg",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "Hemodilüsyon",
+      "definition": "Prime sıvısı nedeniyle kanın seyrelmesi; hematokrit ve viskozite düşer.",
+      "en": "Hemodilution",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1gvkrqf",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Priming",
+      "definition": "KPB devresinin başlamadan önce havası alınarak sıvıyla doldurulması; kullanılan sıvı \"prime solüsyonu\"dur.",
+      "en": "Priming",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-041eq5f",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Otolog priming",
+      "definition": "Hastanın kendi kanıyla prime sıvısının dış torbaya itilmesi (sağ atriyumP: arteriyel hattan geriye; VAP: venöz hattan ileri); hemodilüsyonu azaltır.",
+      "en": "Retrograde / venous antegrade autologous priming",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-00p4kr7",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Resirkülasyon",
+      "definition": "Prime sıvısının devre içinde döndürülerek karıştırılması, ısıtılması ve havasının alınması.",
+      "en": "Recirculation",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0oovofp",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "De-airing",
+      "definition": "Devreden ve kalp boşluklarından havanın uzaklaştırılması işlemleri.",
+      "en": "De-airing",
+      "source": "De-airing derlemesi 2026"
+    },
+    {
+      "id": "PER141-1pw4qk3",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Debubbling",
+      "definition": "Filtre, oksijenatör, kardiyopleji seti gibi bileşenlerdeki kabarcıkların temizlenmesi.",
+      "en": "Debubbling",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1pkhpbt",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "CO₂ flush",
+      "definition": "Devrenin prime öncesinde karbondioksitle yıkanarak içerdiği havanın uzaklaştırılması işlemi.",
+      "en": "CO₂ flushing",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1uvofvq",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin",
+      "definition": "Antitrombini aktive ederek trombin ve FXa'yı inhibe eden antikoagülan; KPB standardı.",
+      "en": "Heparin",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rjdbtx",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "Protamin",
+      "definition": "Somon spermi kaynaklı bazik protein; heparini elektrostatik bağlayarak nötralize eder.",
+      "en": "Protamine",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1hqevfr",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "ACT",
+      "definition": "Heparin etkisini izlemekte kullanılan yatak başı tam kan pıhtılaşma testi.",
+      "en": "Activated clotting time",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0iav89j",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Antitrombin (AT III)",
+      "definition": "Heparinin etkisine aracılık eden doğal antikoagülan; eksikliği heparin direncine yol açar.",
+      "en": "Antithrombin",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0v2yni2",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin direnci",
+      "definition": "Yüksek doz heparin verilmesine rağmen hedef aktive pıhtılaşma zamanına ulaşılamaması.",
+      "en": "Heparin resistance",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-15ppt5q",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "HIT",
+      "definition": "Heparinle ilişkili trombosit sayısı düşüşü; immün tipte alternatif antikoagülasyon gerekir.",
+      "en": "Heparin-induced thrombocytopenia",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1nlujjm",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Bivalirudin",
+      "definition": "Trombini doğrudan inhibe eden kısa etkili antikoagülan; heparine bağlı immün trombositopenide kullanılabilir.",
+      "en": "Bivalirudin",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0celhdr",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "DO₂ (oksijen sunumu)",
+      "definition": "Kan akımıyla dokulara taşınan oksijen miktarı; akım ve arteriyel kanın oksijen içeriğiyle belirlenir.",
+      "en": "Oxygen delivery",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0gy2exy",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 3,
+      "term": "GDP",
+      "definition": "Akım ve hemoglobin'yi DO₂ hedefine göre ayarlayan perfüzyon stratejisi.",
+      "en": "Goal-directed perfusion",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1mffsdc",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyak indeks (CI)",
+      "definition": "Kalp debisinin vücut yüzey alanına bölünmüşü; pompa akımı = BSA × CI.",
+      "en": "Cardiac index",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-007e9ul",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "BSA",
+      "definition": "Vücut yüzey alanı; pompa akımı hesabında kullanılır.",
+      "en": "Body surface area",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1utcwdx",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Hematokrit",
+      "definition": "Kanın eritrosit hacim yüzdesi.",
+      "en": "Hematocrit",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-19bm2bv",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Vazopleji",
+      "definition": "Normal veya yüksek kalp debisine rağmen düşük sistemik damar direnci ve düşük arter basıncıyla seyreden durum.",
+      "en": "Vasoplegic syndrome",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-15k44my",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "Alfa-stat",
+      "definition": "Kan gazlarının standart ölçüm sıcaklığında, hastanın sıcaklığına göre düzeltilmeden yorumlandığı asit-baz stratejisi.",
+      "en": "Alpha-stat",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0b8gx0m",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "pH-stat",
+      "definition": "pH ve PaCO₂'nin sıcaklığa göre düzeltilip sabit tutulduğu (oksijenatöre CO₂ eklenen) strateji.",
+      "en": "pH-stat",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1m84fo3",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "term",
+      "importance": 2,
+      "term": "KPB'den ayrılma",
+      "definition": "KPB desteğinin kademeli azaltılıp kalbin dolaşımı devralması.",
+      "en": "Weaning / separation from CPB",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1fwm7rs",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Hipotermide kan gazı yorumu",
+      "left": {
+        "title": "Alfa-stat",
+        "points": [
+          "Hasta sıcaklığına göre düzeltme yapılmaz",
+          "Serebral otoregülasyonu korumaya yöneliktir"
+        ]
+      },
+      "right": {
+        "title": "pH-stat",
+        "points": [
+          "Sıcaklık düzeltmeli pH ve PaCO₂ esas alınır",
+          "CO₂ eklenmesi serebral akımı ve soğumayı artırır"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0jellqh",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Kaplamasız devrede ACT hedefi",
+      "body": "EACTS 2024, kaplamasız ekipman ve kardiyotomi aspirasyonuyla KPB'de **ACT >480 sn** eşiğini ele alır. Kaplamalı sistem veya farklı ACT cihazına doğrudan genellenmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0xi7j13",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Oksijen sunumu hedefi",
+      "body": "EACTS 2024, erken akut böbrek hasarını azaltmak için **GDP’yi önerir (I-A)**. Normotermik KPB’de indekslenmiş DO₂ alt eşiğinin 280–300 mL/dk/m² arasında tutulması **düşünülmelidir (IIa-B)**; önerilerin gücü aynı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-11vwl7q",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arter basıncı hedefi",
+      "body": "EACTS 2024 KPB'de **MAP 50–80 mmHg**, Basics of CPB 50–70 mmHg verir. Hedef hasta ve serebral otoregülasyonla bireyselleştirilir; kaynak farkı testte puanlanmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-00kg2a5",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Transfüzyonun oksijenasyon bağlamı",
+      "body": "EACTS 2024'te Hct **<%18** için eritrosit transfüzyonu önerilir; %18–24 arasında doku oksijenasyonu değerlendirilir. Hct >%24 ve oksijenasyon yeterliyse transfüzyon önerilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-08u6csa",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Pompa akımı vücut yüzey alanından nasıl hesaplanır?",
+      "answer": "**Akım = vücut yüzey alanı × kardiyak indeks**. Seçilen indeks ve sonuç birimleri hasta sıcaklığı ile metabolik gereksinime göre değerlendirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1o58q5s",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Heparin direnci antitrombin eksikliğine bağlıysa EACTS 2024 hangi yaklaşımı önceler?",
+      "answer": "**Antitrombin konsantresi**; bulunmuyorsa taze donmuş plazma değerlendirilebilir. Profilaktik plazma rutin önerilmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-01nvx3j",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB'den ayrılırken venöz dönüş ve pompa akımı birlikte nasıl değiştirilir?",
+      "answer": "Venöz dönüş kademeli kısılarak kalp doldurulur; aynı sırada **pompa akımı azaltılır** ve kalbin dolaşımı devralması değerlendirilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1ae1uvy",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin fazlası da sorun yaratır",
+      "body": "EACTS 2024 **protamin/heparin oranının <1,0** tutulmasını önerir. Aşırı protamin koagülasyonu bozabilir; dozlama ve kontrol yöntemi bireyselleştirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-10ye8d9",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Ayrılmaya hazırlık çok bileşenlidir",
+      "body": "Weaning öncesi **ventilasyon, ritim, sıcaklık, de-airing, asit-baz ve elektrolitler** birlikte değerlendirilir. Güç ayrılma multidisipliner yaklaşım ve destek planı gerektirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1iydhyj",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Prime sonrası Hct hesabının paydasında hangi hacim bulunur?",
+      "options": [
+        "Yalnız hastanın kan hacmi",
+        "Yalnız kristaloid prime hacmi",
+        "Yalnız arteriyel kanül hacmi",
+        "Hasta kan hacmi ile prime toplamı"
+      ],
+      "correct": 3,
+      "explanation": "Beklenen Hct = hasta kan hacmi × başlangıç Hct / toplam dolaşan hacimdir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1wv2dou",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparin antikoagülan etkisini hangi doğal inhibitör üzerinden artırır?",
+      "options": [
+        "Antitrombin",
+        "Fibrinojen",
+        "Protamin",
+        "Tromboksan"
+      ],
+      "correct": 0,
+      "explanation": "Heparin antitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandırır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1ivrrd5",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "HIT tip 2'de kullanılan direkt trombin inhibitörü hangisidir?",
+      "options": [
+        "Protamin",
+        "Bivalirudin",
+        "Mannitol",
+        "Plasma-Lyte"
+      ],
+      "correct": 1,
+      "explanation": "EACTS 2024, HIT tip 2'de KPB için bivalirudini alternatif antikoagülan olarak değerlendirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1tr72a4",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Yetersiz perfüzyonu düşündüren değişiklik hangisidir?",
+      "options": [
+        "SvO₂'nin korunması",
+        "DO₂'nin yeterli kalması",
+        "Laktatın yükselmesi",
+        "Serebral satürasyonun korunması"
+      ],
+      "correct": 2,
+      "explanation": "Yüksek laktat, düşük SvO₂ ve düşük oksijen sunumu yetersiz perfüzyon belirteçleridir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-04vjzkl",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "HemoTec ve Hemochron ACT sonuçları birbirinin yerine kullanılabilir.",
+      "isTrue": false,
+      "explanation": "ACT cihazları aynı sonucu vermez; eşikler kullanılan yöntem ve kurum protokolüyle yorumlanır.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0ubab2w",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Prime'a rutin mannitol eklenmesi EACTS 2024 tarafından önerilir.",
+      "isTrue": false,
+      "explanation": "EACTS 2024 rutin mannitol eklenmesini önermez; prime katkıları hasta için bireyselleştirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1d6n236",
+      "course": "PER141",
+      "topic": "Perfüzyon yönetimi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Bivalirudin kullanılırken devrede kan stazı önlenmelidir.",
+      "isTrue": true,
+      "explanation": "Bivalirudin durağan kanda tüketilebilir; devrede staz alternatif antikoagülasyonun etkinliğini bozabilir.",
+      "source": "Basics of CPB 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

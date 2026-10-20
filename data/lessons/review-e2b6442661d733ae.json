@@ -1,0 +1,776 @@
+{
+  "id": "review-e2b6442661d733ae",
+  "title": "Erişkin konjenital kalp hastalıkları",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "PAPVR",
+      "text": "Partial anomalous pulmonary venous return\nPulmoner venlerin bir kısmının (sıklıkla VCS'ye) sağ kalbe açılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1pnh23e",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "PAPVR",
+        "en": "Partial anomalous pulmonary venous return",
+        "definition": "Pulmoner venlerin bir kısmının (sıklıkla VCS'ye) sağ kalbe açılması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "ASD",
+      "text": "Atrial septal defect\nAtriyumlar arasındaki septumda gerçek doku eksikliği.",
+      "images": [],
+      "card": {
+        "id": "PER245-1m4pnc7",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "ASD",
+        "en": "Atrial septal defect",
+        "definition": "Atriyumlar arasındaki septumda gerçek doku eksikliği.",
+        "source": "ASD, Biomedicines 2025"
+      }
+    },
+    {
+      "title": "PFO",
+      "text": "Patent foramen ovale\nDoğum sonrası foramen ovalenin kapanmaması; septal doku eksikliği değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0kgogzk",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "PFO",
+        "en": "Patent foramen ovale",
+        "definition": "Doğum sonrası foramen ovalenin kapanmaması; septal doku eksikliği değildir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Unroofed koroner sinüs",
+      "text": "Unroofed coronary sinus\nKoroner sinüs ile sol atriyum arasındaki duvarın eksikliği.",
+      "images": [],
+      "card": {
+        "id": "PER245-00ju4uk",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Unroofed koroner sinüs",
+        "en": "Unroofed coronary sinus",
+        "definition": "Koroner sinüs ile sol atriyum arasındaki duvarın eksikliği.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "VSD",
+      "text": "Ventricular septal defect\nİnterventriküler septumda açıklık: perimembranöz, musküler, inlet, subarteriyel.",
+      "images": [],
+      "card": {
+        "id": "PER245-1lsqgwi",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "VSD",
+        "en": "Ventricular septal defect",
+        "definition": "İnterventriküler septumda açıklık: perimembranöz, musküler, inlet, subarteriyel.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "AVSD",
+      "text": "Atrioventricular septal defect\nAtriyoventriküler septum ve kapak gelişimini etkileyen, parsiyel ve komplet biçimleri bulunan endokardiyal yastık kusuru.",
+      "images": [],
+      "card": {
+        "id": "PER245-0fhep91",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "AVSD",
+        "en": "Atrioventricular septal defect",
+        "definition": "Atriyoventriküler septum ve kapak gelişimini etkileyen, parsiyel ve komplet biçimleri bulunan endokardiyal yastık kusuru.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "PDA",
+      "text": "Patent ductus arteriosus\nDoğumdan sonra duktus arteriyozusun açık kalması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0romnmk",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "PDA",
+        "en": "Patent ductus arteriosus",
+        "definition": "Doğumdan sonra duktus arteriyozusun açık kalması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Eisenmenger sendromu",
+      "text": "Eisenmenger syndrome\nUzun süreli soldan-sağa şantın pulmoner vasküler hastalık sonucu sağdan-sola dönmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1s8zejw",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Eisenmenger sendromu",
+        "en": "Eisenmenger syndrome",
+        "definition": "Uzun süreli soldan-sağa şantın pulmoner vasküler hastalık sonucu sağdan-sola dönmesi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Anormal pulmoner ven bağlantısı",
+      "text": "TAPVR\nPulmoner venlerin tümü anormal bağlanır\nSistemik çıkış için atriyal bağlantı gerekir\n\nPAPVR\nPulmoner venlerin bir bölümü anormal bağlanır\nSinüs venozus ASD ile birlikte olabilir",
+      "images": [],
+      "card": {
+        "id": "PER245-0fzsrys",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "compare",
+        "importance": 2,
+        "title": "Anormal pulmoner ven bağlantısı",
+        "left": {
+          "title": "TAPVR",
+          "points": [
+            "Pulmoner venlerin tümü anormal bağlanır",
+            "Sistemik çıkış için atriyal bağlantı gerekir"
+          ]
+        },
+        "right": {
+          "title": "PAPVR",
+          "points": [
+            "Pulmoner venlerin bir bölümü anormal bağlanır",
+            "Sinüs venozus ASD ile birlikte olabilir"
+          ]
+        },
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Atriyal bağlantıda doku",
+      "text": "PFO\nForamen ovale flap'i tam kapanmamıştır\nGerçek septal doku kaybı değildir\n\nSekundum ASD\nSeptum primumda gerçek doku defekti vardır\nFossa ovalis bölgesinde yer alır",
+      "images": [],
+      "card": {
+        "id": "PER245-16jcxr1",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "compare",
+        "importance": 2,
+        "title": "Atriyal bağlantıda doku",
+        "left": {
+          "title": "PFO",
+          "points": [
+            "Foramen ovale flap'i tam kapanmamıştır",
+            "Gerçek septal doku kaybı değildir"
+          ]
+        },
+        "right": {
+          "title": "Sekundum ASD",
+          "points": [
+            "Septum primumda gerçek doku defekti vardır",
+            "Fossa ovalis bölgesinde yer alır"
+          ]
+        },
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "ASD'de sağ kalp yükü",
+      "text": "Soldan-sağa atriyal şant, sağ atriyum ve sağ ventrikülde hacim yükü yaratır; zamanla dilatasyon ve atriyal aritmiler gelişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0y789ei",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "ASD'de sağ kalp yükü",
+        "body": "Soldan-sağa atriyal şant, sağ atriyum ve sağ ventrikülde hacim yükü yaratır; zamanla dilatasyon ve atriyal aritmiler gelişebilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Sinüs venozus birlikteliği",
+      "text": "Sinüs venozus atriyal septal defekt, parsiyel anormal pulmoner venöz dönüşle birlikte olabilir; venlerin açıldığı yer bilinmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1i6mz1a",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Sinüs venozus birlikteliği",
+        "body": "Sinüs venozus atriyal septal defekt, parsiyel anormal pulmoner venöz dönüşle birlikte olabilir; venlerin açıldığı yer bilinmelidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "VSD'de doğum sonrası değişim",
+      "text": "Doğumdan sonra pulmoner direnç azaldıkça büyük VSD'de soldan-sağa şant belirginleşebilir; semptomlar ilk andan itibaren aynı kalmaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-0edzjue",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "VSD'de doğum sonrası değişim",
+        "body": "Doğumdan sonra pulmoner direnç azaldıkça büyük VSD'de soldan-sağa şant belirginleşebilir; semptomlar ilk andan itibaren aynı kalmaz.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Onarılmış TOF'de geç yük",
+      "text": "Geç pulmoner yetersizlik, onarılmış Fallot tetralojisinde sağ ventrikül hacim yükü ve dilatasyonuna neden olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1inaddh",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Onarılmış TOF'de geç yük",
+        "body": "Geç pulmoner yetersizlik, onarılmış Fallot tetralojisinde sağ ventrikül hacim yükü ve dilatasyonuna neden olabilir.",
+        "source": "ESC Erişkin KKH 2020"
+      }
+    },
+    {
+      "title": "Fontan'ın uzun dönem izlemi",
+      "text": "Fontan dolaşımında aritmi, ventrikül disfonksiyonu ve karaciğer tutulumu görülebilir; anatomik onarım düzenli izlemin gereğini ortadan kaldırmaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-1in5m6o",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Fontan'ın uzun dönem izlemi",
+        "body": "Fontan dolaşımında aritmi, ventrikül disfonksiyonu ve karaciğer tutulumu görülebilir; anatomik onarım düzenli izlemin gereğini ortadan kaldırmaz.",
+        "source": "ESC Erişkin KKH 2020"
+      }
+    },
+    {
+      "title": "Sekundum ASD'nin tipik anatomik bölgesi neresidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0qk1fbv",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sekundum ASD'nin tipik anatomik bölgesi neresidir?",
+        "answer": "Fossa ovalis bölgesi; septum primum dokusunda gerçek defekt vardır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Komplet AVSD'de atriyoventriküler kapak yapısı nasıl tarif edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1vzant2",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Komplet AVSD'de atriyoventriküler kapak yapısı nasıl tarif edilir?",
+        "answer": "Ortak AV anülüs ve köprüleyici yaprakçıklar bulunur; atriyal ve ventriküler septal bileşenler de etkilenir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Erişkinde ccTGA'nın sistemik ventrikülü hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-092jd8f",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Erişkinde ccTGA'nın sistemik ventrikülü hangisidir?",
+        "answer": "Morfolojik sağ ventrikül; sistemik yük altında işlev bozukluğu gelişebilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Eisenmenger'de kapatma",
+      "text": "Yerleşik Eisenmenger fizyolojisinde defektin kapatılması **kontrendikedir**; şantın varlığı tek başına kapatma gerekçesi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0o241mz",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "remember",
+        "importance": 3,
+        "title": "Eisenmenger'de kapatma",
+        "body": "Yerleşik Eisenmenger fizyolojisinde defektin kapatılması **kontrendikedir**; şantın varlığı tek başına kapatma gerekçesi değildir.",
+        "source": "ESC Erişkin KKH 2020"
+      }
+    },
+    {
+      "title": "Üst sinüs venozus ASD'de sağ pulmoner venlerin bir bölümünün VCS/sağ atriyuma açılması hangi anomalidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0v6gj4v",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Üst sinüs venozus ASD'de sağ pulmoner venlerin bir bölümünün VCS/sağ atriyuma açılması hangi anomalidir?",
+        "options": [
+          "PAPVR",
+          "Persistan sol üst vena kava",
+          "Total anormal pulmoner venöz dönüş",
+          "Kesintili inferior vena kava"
+        ],
+        "correct": 0,
+        "explanation": "Bu bağlantı parsiyel anormal pulmoner venöz dönüş (PAPVR) olarak adlandırılır.",
+        "source": "ESC Erişkin KKH 2020"
+      }
+    },
+    {
+      "title": "Aort kapağı prolapsusuyla ilişkili VSD grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1mny0n6",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aort kapağı prolapsusuyla ilişkili VSD grubu hangisidir?",
+        "options": [
+          "İzole musküler apikal",
+          "Subarteriyel infundibuler",
+          "İzole musküler orta septal",
+          "İzole inlet"
+        ],
+        "correct": 1,
+        "explanation": "Subarteriyel VSD aort kapağına yakınlığı nedeniyle prolapsus ve yetersizlikle ilişkili olabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Primum ASD ile sol AV kapak kleftı hangi spektrumun parsiyel formudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0ncc6fz",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Primum ASD ile sol AV kapak kleftı hangi spektrumun parsiyel formudur?",
+        "options": [
+          "TAPVR",
+          "d-TGA",
+          "AVSD",
+          "DORV"
+        ],
+        "correct": 2,
+        "explanation": "Parsiyel AVSD'de primum ASD ve sol AV kapak kleftı bulunabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fontan dolaşımında uzun dönem kardiyak dışı hangi organ tutulumu izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1wgeahv",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Fontan dolaşımında uzun dönem kardiyak dışı hangi organ tutulumu izlenir?",
+        "options": [
+          "Böbrek üstü bezi",
+          "Hipofiz",
+          "Tiroid",
+          "Karaciğer"
+        ],
+        "correct": 3,
+        "explanation": "Fontan dolaşımının kronik venöz yükü karaciğer sorunlarıyla ilişkili olabilir.",
+        "source": "ESC Erişkin KKH 2020"
+      }
+    },
+    {
+      "title": "Musküler VSD birden fazla septal açıklık biçiminde olabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1npqr0w",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Musküler VSD birden fazla septal açıklık biçiminde olabilir.",
+        "isTrue": true,
+        "explanation": "Musküler septal defektler tek veya çok sayıda bulunabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Unroofed koroner sinüste eksik duvar sağ ventrikül ile aorta arasındadır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0bkmx2b",
+        "course": "PER245",
+        "topic": "Erişkin konjenital kalp hastalıkları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Unroofed koroner sinüste eksik duvar sağ ventrikül ile aorta arasındadır.",
+        "isTrue": false,
+        "explanation": "Eksik duvar koroner sinüs ile sol atriyum arasındadır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-1pnh23e",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "PAPVR",
+      "en": "Partial anomalous pulmonary venous return",
+      "definition": "Pulmoner venlerin bir kısmının (sıklıkla VCS'ye) sağ kalbe açılması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1m4pnc7",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "ASD",
+      "en": "Atrial septal defect",
+      "definition": "Atriyumlar arasındaki septumda gerçek doku eksikliği.",
+      "source": "ASD, Biomedicines 2025"
+    },
+    {
+      "id": "PER245-0kgogzk",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "PFO",
+      "en": "Patent foramen ovale",
+      "definition": "Doğum sonrası foramen ovalenin kapanmaması; septal doku eksikliği değildir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-00ju4uk",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Unroofed koroner sinüs",
+      "en": "Unroofed coronary sinus",
+      "definition": "Koroner sinüs ile sol atriyum arasındaki duvarın eksikliği.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1lsqgwi",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "VSD",
+      "en": "Ventricular septal defect",
+      "definition": "İnterventriküler septumda açıklık: perimembranöz, musküler, inlet, subarteriyel.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0fhep91",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "AVSD",
+      "en": "Atrioventricular septal defect",
+      "definition": "Atriyoventriküler septum ve kapak gelişimini etkileyen, parsiyel ve komplet biçimleri bulunan endokardiyal yastık kusuru.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0romnmk",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "PDA",
+      "en": "Patent ductus arteriosus",
+      "definition": "Doğumdan sonra duktus arteriyozusun açık kalması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1s8zejw",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Eisenmenger sendromu",
+      "en": "Eisenmenger syndrome",
+      "definition": "Uzun süreli soldan-sağa şantın pulmoner vasküler hastalık sonucu sağdan-sola dönmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0fzsrys",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "compare",
+      "importance": 2,
+      "title": "Anormal pulmoner ven bağlantısı",
+      "left": {
+        "title": "TAPVR",
+        "points": [
+          "Pulmoner venlerin tümü anormal bağlanır",
+          "Sistemik çıkış için atriyal bağlantı gerekir"
+        ]
+      },
+      "right": {
+        "title": "PAPVR",
+        "points": [
+          "Pulmoner venlerin bir bölümü anormal bağlanır",
+          "Sinüs venozus ASD ile birlikte olabilir"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-16jcxr1",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "compare",
+      "importance": 2,
+      "title": "Atriyal bağlantıda doku",
+      "left": {
+        "title": "PFO",
+        "points": [
+          "Foramen ovale flap'i tam kapanmamıştır",
+          "Gerçek septal doku kaybı değildir"
+        ]
+      },
+      "right": {
+        "title": "Sekundum ASD",
+        "points": [
+          "Septum primumda gerçek doku defekti vardır",
+          "Fossa ovalis bölgesinde yer alır"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0y789ei",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "ASD'de sağ kalp yükü",
+      "body": "Soldan-sağa atriyal şant, sağ atriyum ve sağ ventrikülde hacim yükü yaratır; zamanla dilatasyon ve atriyal aritmiler gelişebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1i6mz1a",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Sinüs venozus birlikteliği",
+      "body": "Sinüs venozus atriyal septal defekt, parsiyel anormal pulmoner venöz dönüşle birlikte olabilir; venlerin açıldığı yer bilinmelidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0edzjue",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "VSD'de doğum sonrası değişim",
+      "body": "Doğumdan sonra pulmoner direnç azaldıkça büyük VSD'de soldan-sağa şant belirginleşebilir; semptomlar ilk andan itibaren aynı kalmaz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1inaddh",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Onarılmış TOF'de geç yük",
+      "body": "Geç pulmoner yetersizlik, onarılmış Fallot tetralojisinde sağ ventrikül hacim yükü ve dilatasyonuna neden olabilir.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "id": "PER245-1in5m6o",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Fontan'ın uzun dönem izlemi",
+      "body": "Fontan dolaşımında aritmi, ventrikül disfonksiyonu ve karaciğer tutulumu görülebilir; anatomik onarım düzenli izlemin gereğini ortadan kaldırmaz.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "id": "PER245-0qk1fbv",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sekundum ASD'nin tipik anatomik bölgesi neresidir?",
+      "answer": "Fossa ovalis bölgesi; septum primum dokusunda gerçek defekt vardır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1vzant2",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Komplet AVSD'de atriyoventriküler kapak yapısı nasıl tarif edilir?",
+      "answer": "Ortak AV anülüs ve köprüleyici yaprakçıklar bulunur; atriyal ve ventriküler septal bileşenler de etkilenir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-092jd8f",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Erişkinde ccTGA'nın sistemik ventrikülü hangisidir?",
+      "answer": "Morfolojik sağ ventrikül; sistemik yük altında işlev bozukluğu gelişebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0o241mz",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "remember",
+      "importance": 3,
+      "title": "Eisenmenger'de kapatma",
+      "body": "Yerleşik Eisenmenger fizyolojisinde defektin kapatılması **kontrendikedir**; şantın varlığı tek başına kapatma gerekçesi değildir.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "id": "PER245-0v6gj4v",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Üst sinüs venozus ASD'de sağ pulmoner venlerin bir bölümünün VCS/sağ atriyuma açılması hangi anomalidir?",
+      "options": [
+        "PAPVR",
+        "Persistan sol üst vena kava",
+        "Total anormal pulmoner venöz dönüş",
+        "Kesintili inferior vena kava"
+      ],
+      "correct": 0,
+      "explanation": "Bu bağlantı parsiyel anormal pulmoner venöz dönüş (PAPVR) olarak adlandırılır.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "id": "PER245-1mny0n6",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort kapağı prolapsusuyla ilişkili VSD grubu hangisidir?",
+      "options": [
+        "İzole musküler apikal",
+        "Subarteriyel infundibuler",
+        "İzole musküler orta septal",
+        "İzole inlet"
+      ],
+      "correct": 1,
+      "explanation": "Subarteriyel VSD aort kapağına yakınlığı nedeniyle prolapsus ve yetersizlikle ilişkili olabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ncc6fz",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Primum ASD ile sol AV kapak kleftı hangi spektrumun parsiyel formudur?",
+      "options": [
+        "TAPVR",
+        "d-TGA",
+        "AVSD",
+        "DORV"
+      ],
+      "correct": 2,
+      "explanation": "Parsiyel AVSD'de primum ASD ve sol AV kapak kleftı bulunabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1wgeahv",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fontan dolaşımında uzun dönem kardiyak dışı hangi organ tutulumu izlenir?",
+      "options": [
+        "Böbrek üstü bezi",
+        "Hipofiz",
+        "Tiroid",
+        "Karaciğer"
+      ],
+      "correct": 3,
+      "explanation": "Fontan dolaşımının kronik venöz yükü karaciğer sorunlarıyla ilişkili olabilir.",
+      "source": "ESC Erişkin KKH 2020"
+    },
+    {
+      "id": "PER245-1npqr0w",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Musküler VSD birden fazla septal açıklık biçiminde olabilir.",
+      "isTrue": true,
+      "explanation": "Musküler septal defektler tek veya çok sayıda bulunabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0bkmx2b",
+      "course": "PER245",
+      "topic": "Erişkin konjenital kalp hastalıkları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Unroofed koroner sinüste eksik duvar sağ ventrikül ile aorta arasındadır.",
+      "isTrue": false,
+      "explanation": "Eksik duvar koroner sinüs ile sol atriyum arasındadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

@@ -1,0 +1,1243 @@
+{
+  "id": "review-d6957e797559d1bf",
+  "title": "Pompalar: roller ve santrifügal",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hemoliz",
+      "text": "Hemolysis\nEritrositlerin parçalanması; serbest plazma hemoglobin'si artar.",
+      "images": [],
+      "card": {
+        "id": "PER141-1elt6h1",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 3,
+        "term": "Hemoliz",
+        "definition": "Eritrositlerin parçalanması; serbest plazma hemoglobin'si artar.",
+        "en": "Hemolysis",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Spallasyon",
+      "text": "Spallation\nRoller sıkışmasıyla tüp iç yüzeyinden partikül kopması; aşırı oklüzyonda artar.",
+      "images": [],
+      "card": {
+        "id": "PER141-11syegh",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Spallasyon",
+        "definition": "Roller sıkışmasıyla tüp iç yüzeyinden partikül kopması; aşırı oklüzyonda artar.",
+        "en": "Spallation",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kavitasyon",
+      "text": "Cavitation\nAni negatif basınçta sıvı içinde gaz/buhar kabarcığı oluşması (ör. roller pompa girişinin aniden tıkanması).",
+      "images": [],
+      "card": {
+        "id": "PER141-1b37vbm",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Kavitasyon",
+        "definition": "Ani negatif basınçta sıvı içinde gaz/buhar kabarcığı oluşması (ör. roller pompa girişinin aniden tıkanması).",
+        "en": "Cavitation",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Roller pompa",
+      "text": "Roller (peristaltic) pump\nİki silindirin tüpü yatağa bastırarak kanı ileri ittiği oklüzif, afterload'dan bağımsız pompa (DeBakey tipi).",
+      "images": [],
+      "card": {
+        "id": "PER141-1x5r5om",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 3,
+        "term": "Roller pompa",
+        "definition": "İki silindirin tüpü yatağa bastırarak kanı ileri ittiği oklüzif, afterload'dan bağımsız pompa (DeBakey tipi).",
+        "en": "Roller (peristaltic) pump",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Oklüzyon",
+      "text": "Occlusion\nRoller ile yatak arasında tüpün sıkıştırılma derecesi; fazlası hemoliz/spallasyon, azı geri kaçak ve hatalı akım okuması yapar.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mb2ka7",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 3,
+        "term": "Oklüzyon",
+        "definition": "Roller ile yatak arasında tüpün sıkıştırılma derecesi; fazlası hemoliz/spallasyon, azı geri kaçak ve hatalı akım okuması yapar.",
+        "en": "Occlusion",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Drop-rate testi",
+      "text": "Drop-rate occlusion test\nPompa çıkışındaki yükseltilmiş sıvı sütununun düşüşü ölçülerek roller pompa oklüzyonunun değerlendirilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1xh9epi",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Drop-rate testi",
+        "definition": "Pompa çıkışındaki yükseltilmiş sıvı sütununun düşüşü ölçülerek roller pompa oklüzyonunun değerlendirilmesi.",
+        "en": "Drop-rate occlusion test",
+        "source": "Vieira Junior ve ark. 2009"
+      }
+    },
+    {
+      "title": "Dinamik oklüzyon ayarı",
+      "text": "Dynamic occlusion setting\nÇıkış klempliyken düşük devirde istenen basınca ulaşana dek oklüzyonun artırılması.",
+      "images": [],
+      "card": {
+        "id": "PER141-0n36u5o",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 1,
+        "term": "Dinamik oklüzyon ayarı",
+        "definition": "Çıkış klempliyken düşük devirde istenen basınca ulaşana dek oklüzyonun artırılması.",
+        "en": "Dynamic occlusion setting",
+        "source": "Vieira Junior ve ark. 2009"
+      }
+    },
+    {
+      "title": "Pompa yatağı",
+      "text": "Raceway\nRoller pompa tüpünün yerleştirildiği yarım daire biçimindeki yatak.",
+      "images": [],
+      "card": {
+        "id": "PER141-1wczesl",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 1,
+        "term": "Pompa yatağı",
+        "definition": "Roller pompa tüpünün yerleştirildiği yarım daire biçimindeki yatak.",
+        "en": "Raceway",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Pompa segmenti",
+      "text": "Pump boot / header\nRoller pompaya yerleştirilen, sürekli sıkışmaya dayanıklı (genellikle silikon) tüp parçası.",
+      "images": [],
+      "card": {
+        "id": "PER141-1y9jjt4",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Pompa segmenti",
+        "definition": "Roller pompaya yerleştirilen, sürekli sıkışmaya dayanıklı (genellikle silikon) tüp parçası.",
+        "en": "Pump boot / header",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Kalibrasyon",
+      "text": "Calibration\nPompa devri–akım ilişkisinin (tüp çapına göre) ve ölçüm cihazlarının doğruluğunun ayarlanması/kontrolü.",
+      "images": [],
+      "card": {
+        "id": "PER141-0y1gyn4",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Kalibrasyon",
+        "definition": "Pompa devri–akım ilişkisinin (tüp çapına göre) ve ölçüm cihazlarının doğruluğunun ayarlanması/kontrolü.",
+        "en": "Calibration",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifügal pompa",
+      "text": "Centrifugal pump\nManyetik olarak döndürülen koni/çarkla merkezkaç kuvvet oluşturan, oklüzif olmayan, preload/afterload'a duyarlı pompa.",
+      "images": [],
+      "card": {
+        "id": "PER141-0pnn6sb",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 3,
+        "term": "Santrifügal pompa",
+        "definition": "Manyetik olarak döndürülen koni/çarkla merkezkaç kuvvet oluşturan, oklüzif olmayan, preload/afterload'a duyarlı pompa.",
+        "en": "Centrifugal pump",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İmpeller",
+      "text": "Impeller / cone\nSantrifügal pompa başında kanı döndüren kanatlı çark veya iç içe koniler.",
+      "images": [],
+      "card": {
+        "id": "PER141-1t3m9nb",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 1,
+        "term": "İmpeller",
+        "definition": "Santrifügal pompa başında kanı döndüren kanatlı çark veya iç içe koniler.",
+        "en": "Impeller / cone",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Akım probu",
+      "text": "Flow probe / flowmeter\nAkımı ultrasonik veya elektromanyetik ilkeyle ölçen sensör; santrifügal pompada zorunlu.",
+      "images": [],
+      "card": {
+        "id": "PER141-0dssds1",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 3,
+        "term": "Akım probu",
+        "definition": "Akımı ultrasonik veya elektromanyetik ilkeyle ölçen sensör; santrifügal pompada zorunlu.",
+        "en": "Flow probe / flowmeter",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Preload",
+      "text": "Preload\nPompanın girişine gelen dolum (venöz dönüş, rezervuar/hasta hacmi).",
+      "images": [],
+      "card": {
+        "id": "PER141-0xbf8e2",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Preload",
+        "definition": "Pompanın girişine gelen dolum (venöz dönüş, rezervuar/hasta hacmi).",
+        "en": "Preload",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Afterload",
+      "text": "Afterload\nPompanın/ventrikülün karşı koymak zorunda olduğu yük (hasta direnci, hat basıncı).",
+      "images": [],
+      "card": {
+        "id": "PER141-12bg3eh",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Afterload",
+        "definition": "Pompanın/ventrikülün karşı koymak zorunda olduğu yük (hasta direnci, hat basıncı).",
+        "en": "Afterload",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Retrograd akım",
+      "text": "Retrograde flow / backflow\nSantrifügal pompa durunca ya da devri yetersiz kalınca kanın arteriyel hattan geriye akması.",
+      "images": [],
+      "card": {
+        "id": "PER141-0foqmqb",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 3,
+        "term": "Retrograd akım",
+        "definition": "Santrifügal pompa durunca ya da devri yetersiz kalınca kanın arteriyel hattan geriye akması.",
+        "en": "Retrograde flow / backflow",
+        "source": "SafeCEC çalışması 2025"
+      }
+    },
+    {
+      "title": "Pulsatil akım",
+      "text": "Pulsatile flow\nNabız benzeri basınç dalgalanmalı akım.",
+      "images": [],
+      "card": {
+        "id": "PER141-15g83sn",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Pulsatil akım",
+        "definition": "Nabız benzeri basınç dalgalanmalı akım.",
+        "en": "Pulsatile flow",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Non-pulsatil akım",
+      "text": "Non-pulsatile (continuous) flow\nSürekli, nabızsız akım; standart KPB'nin çoğu.",
+      "images": [],
+      "card": {
+        "id": "PER141-0vk76wh",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "Non-pulsatil akım",
+        "definition": "Sürekli, nabızsız akım; standart KPB'nin çoğu.",
+        "en": "Non-pulsatile (continuous) flow",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "EEP / SHE",
+      "text": "Energy equivalent pressure / Surplus hemodynamic energy\nPulsatil akımın hemodinamik enerjisini nicelleştiren göstergeler.",
+      "images": [],
+      "card": {
+        "id": "PER141-15j9kmm",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 1,
+        "term": "EEP / SHE",
+        "definition": "Pulsatil akımın hemodinamik enerjisini nicelleştiren göstergeler.",
+        "en": "Energy equivalent pressure / Surplus hemodynamic energy",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Triboelektrik yük",
+      "text": "Triboelectric charge\nSürtünmeyle oluşan statik elektrik; PVC tüplü roller pompada belirgin.",
+      "images": [],
+      "card": {
+        "id": "PER141-0sufkik",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 1,
+        "term": "Triboelektrik yük",
+        "definition": "Sürtünmeyle oluşan statik elektrik; PVC tüplü roller pompada belirgin.",
+        "en": "Triboelectric charge",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "El krankı",
+      "text": "Hand crank\nElektrik ve batarya kaybında pompayı elle çevirmeye yarayan kol (AmSECT 6.9).",
+      "images": [],
+      "card": {
+        "id": "PER141-1qw22ge",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "term",
+        "importance": 2,
+        "term": "El krankı",
+        "definition": "Elektrik ve batarya kaybında pompayı elle çevirmeye yarayan kol (AmSECT 6.9).",
+        "en": "Hand crank",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Pompa çalışma ilkesi",
+      "text": "Roller pompa\nTüpü sıkıştırarak kanı ilerletir\nOklüzif; akım devir ve tüp çapıyla ilişkilidir\n\nSantrifügal pompa\nDönen çark veya koniyle kanı ilerletir\nOklüzif olmayan; akım ön ve ard yüke duyarlıdır",
+      "images": [],
+      "card": {
+        "id": "PER141-009ra6n",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "compare",
+        "importance": 2,
+        "title": "Pompa çalışma ilkesi",
+        "left": {
+          "title": "Roller pompa",
+          "points": [
+            "Tüpü sıkıştırarak kanı ilerletir",
+            "Oklüzif; akım devir ve tüp çapıyla ilişkilidir"
+          ]
+        },
+        "right": {
+          "title": "Santrifügal pompa",
+          "points": [
+            "Dönen çark veya koniyle kanı ilerletir",
+            "Oklüzif olmayan; akım ön ve ard yüke duyarlıdır"
+          ]
+        },
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kan hasarının kaynağı",
+      "text": "Spallasyon\nTüp iç yüzeyinden partikül kopması\nRoller sıkışması ve aşırı oklüzyonla ilişkilidir\n\nKavitasyon\nNegatif basınçla gaz veya buhar kabarcığı oluşması\nAni giriş tıkanmasıyla gelişebilir",
+      "images": [],
+      "card": {
+        "id": "PER141-00kp1sf",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kan hasarının kaynağı",
+        "left": {
+          "title": "Spallasyon",
+          "points": [
+            "Tüp iç yüzeyinden partikül kopması",
+            "Roller sıkışması ve aşırı oklüzyonla ilişkilidir"
+          ]
+        },
+        "right": {
+          "title": "Kavitasyon",
+          "points": [
+            "Negatif basınçla gaz veya buhar kabarcığı oluşması",
+            "Ani giriş tıkanmasıyla gelişebilir"
+          ]
+        },
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Aşırı oklüzyonun sonucu",
+      "text": "Roller pompadaki fazla tüp sıkışması **hemoliz, spallasyon ve tüp yırtılması** riskini artırır. Oklüzyon ayarı her vaka için kontrol edilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0o4rs8r",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "fact",
+        "importance": 3,
+        "title": "Aşırı oklüzyonun sonucu",
+        "body": "Roller pompadaki fazla tüp sıkışması **hemoliz, spallasyon ve tüp yırtılması** riskini artırır. Oklüzyon ayarı her vaka için kontrol edilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Yetersiz oklüzyonun sonucu",
+      "text": "Az sıkıştırılmış roller tüpü geri kaçak oluşturabilir; konsolun hesapladığı akım, **gerçekte iletilen akımdan farklı** olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0w4u3xl",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "fact",
+        "importance": 3,
+        "title": "Yetersiz oklüzyonun sonucu",
+        "body": "Az sıkıştırılmış roller tüpü geri kaçak oluşturabilir; konsolun hesapladığı akım, **gerçekte iletilen akımdan farklı** olabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifügal pompa ve direnç",
+      "text": "Santrifügal pompa devri sabitken hastanın sistemik damar direnci artarsa akım düşebilir. **Devir tek başına akım ölçümü değildir.**",
+      "images": [],
+      "card": {
+        "id": "PER141-04l7myc",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "fact",
+        "importance": 3,
+        "title": "Santrifügal pompa ve direnç",
+        "body": "Santrifügal pompa devri sabitken hastanın sistemik damar direnci artarsa akım düşebilir. **Devir tek başına akım ölçümü değildir.**",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Yüksek devirin yükü",
+      "text": "Yüksek ard yükü yenmek için santrifügal devir artırıldığında ısı üretimi ve protein denatürasyonu riski artabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1gxkeg3",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "fact",
+        "importance": 2,
+        "title": "Yüksek devirin yükü",
+        "body": "Yüksek ard yükü yenmek için santrifügal devir artırıldığında ısı üretimi ve protein denatürasyonu riski artabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Roller pompanın ek görevleri",
+      "text": "Pozitif ve negatif basınç üretebilmesi, roller pompanın **aspiratör, vent ve kardiyopleji** hatlarında kullanılmasını sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER141-1rvjax6",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "fact",
+        "importance": 2,
+        "title": "Roller pompanın ek görevleri",
+        "body": "Pozitif ve negatif basınç üretebilmesi, roller pompanın **aspiratör, vent ve kardiyopleji** hatlarında kullanılmasını sağlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Pulsatil akımın değerlendirilmesi",
+      "text": "Pulsatil perfüzyonun tanımı ve ölçümü için evrensel uzlaşı yoktur; bileşenlerin pulsatil kullanım onayı ayrıca değerlendirilmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0zmsd6b",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pulsatil akımın değerlendirilmesi",
+        "body": "Pulsatil perfüzyonun tanımı ve ölçümü için evrensel uzlaşı yoktur; bileşenlerin pulsatil kullanım onayı ayrıca değerlendirilmelidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifügal pompa akımını devirden bağımsız ölçmek için ne kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0t03nkz",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "flip",
+        "importance": 3,
+        "question": "Santrifügal pompa akımını devirden bağımsız ölçmek için ne kullanılır?",
+        "answer": "**Akım probu**; ultrasonik veya elektromanyetik ölçümle gerçek akım değerlendirilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Roller pompa girişinin aniden tıkanması neden kabarcık oluşturabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1voass7",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "flip",
+        "importance": 2,
+        "question": "Roller pompa girişinin aniden tıkanması neden kabarcık oluşturabilir?",
+        "answer": "Girişte ani negatif basınç oluşarak **kavitasyona** yol açabilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Santrifügal pompa için uzun KPB önerisinin gücü nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1y2oq4u",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "flip",
+        "importance": 2,
+        "question": "Santrifügal pompa için uzun KPB önerisinin gücü nedir?",
+        "answer": "EACTS 2024, uzun KPB bekleniyorsa santrifügal pompanın **düşünülmesini** önerir; öneri tüm sonuçlarda kanıtlanmış üstünlük anlamına gelmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Durdurmadan önce geri akışı önle",
+      "text": "Santrifügal pompa durduğunda kan geriye akabilir. **Arteriyel hattın klemplenmesi** ve geri akış önleme sistemi, durdurma sürecinin kritik parçalarıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1y7t2hu",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "remember",
+        "importance": 3,
+        "title": "Durdurmadan önce geri akışı önle",
+        "body": "Santrifügal pompa durduğunda kan geriye akabilir. **Arteriyel hattın klemplenmesi** ve geri akış önleme sistemi, durdurma sürecinin kritik parçalarıdır.",
+        "source": "SafeCEC çalışması 2025"
+      }
+    },
+    {
+      "title": "Akım göstergesine kör güvenme",
+      "text": "Roller konsolundaki devirden hesaplanan akım, yetersiz oklüzyon veya açık şantlar nedeniyle hastaya ulaşan akımdan farklı olabilir. **Gerçek akımı** değerlendirmek gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER141-050s5bf",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "remember",
+        "importance": 3,
+        "title": "Akım göstergesine kör güvenme",
+        "body": "Roller konsolundaki devirden hesaplanan akım, yetersiz oklüzyon veya açık şantlar nedeniyle hastaya ulaşan akımdan farklı olabilir. **Gerçek akımı** değerlendirmek gerekir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Roller pompa direnci yükselmiş kapalı bir hatta çalışırsa temel tehlike nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-192umhs",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Roller pompa direnci yükselmiş kapalı bir hatta çalışırsa temel tehlike nedir?",
+        "options": [
+          "Pompanın zorunlu olarak geri dönmesi",
+          "Gaz blenderinin durması",
+          "Hat basıncının aşırı yükselmesi",
+          "Rezervuarın kendiliğinden büyümesi"
+        ],
+        "correct": 2,
+        "explanation": "Roller pompa akımı dirençten büyük ölçüde bağımsızdır; tıkalı çıkışta aşırı basınç devreyi bozabilir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Roller pompanın sürekli sıkışmaya maruz kalan segmentinde hangi malzeme kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0h170b4",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Roller pompanın sürekli sıkışmaya maruz kalan segmentinde hangi malzeme kullanılır?",
+        "options": [
+          "Teflon elek",
+          "Paslanmaz çelik",
+          "PMP lif",
+          "Silikon"
+        ],
+        "correct": 3,
+        "explanation": "Silikon pompa segmenti yinelenen sıkışmaya dayanması için kullanılır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "PVC roller tüpünde sürtünmeyle oluşan elektrik hangi terimle adlandırılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0deyjw3",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "mcq",
+        "importance": 2,
+        "question": "PVC roller tüpünde sürtünmeyle oluşan elektrik hangi terimle adlandırılır?",
+        "options": [
+          "Triboelektrik yük",
+          "Transmembran gradyan",
+          "Osmotik basınç",
+          "Hidrostatik drenaj"
+        ],
+        "correct": 0,
+        "explanation": "Triboelektrik yük sürtünmenin oluşturduğu statik elektrik birikimidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifügal pompada düşük devir alarmının başlıca güvenlik amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0kcozqh",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Santrifügal pompada düşük devir alarmının başlıca güvenlik amacı nedir?",
+        "options": [
+          "Kanı kristaloidle seyreltmek",
+          "Retrograd akımı önlemeye yardım etmek",
+          "Su devresini sterilize etmek",
+          "Tüp çapını hesaplamak"
+        ],
+        "correct": 1,
+        "explanation": "Düşük devir hasta direncini yenemeyebilir; geri akış önleme donanımı önemlidir.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Pulsatil akımın hemodinamik enerjisini değerlendiren göstergeler hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1v4wuoo",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Pulsatil akımın hemodinamik enerjisini değerlendiren göstergeler hangisidir?",
+        "options": [
+          "ACT ve INR",
+          "PaO₂ ve PaCO₂",
+          "EEP ve SHE",
+          "Hct ve trombosit sayısı"
+        ],
+        "correct": 2,
+        "explanation": "EEP ve SHE, pulsasyonun hemodinamik enerji katkısını nicelleştirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Roller pompada oklüzyon ayarının tek bir uluslararası yöntemi vardır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-140fv9r",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Roller pompada oklüzyon ayarının tek bir uluslararası yöntemi vardır.",
+        "isTrue": false,
+        "explanation": "Standart bir evrensel oklüzyon ayarı yoktur; kurum protokolü ve kullanılan sistem dikkate alınır.",
+        "source": "Dinamik oklüzyon 2024"
+      }
+    },
+    {
+      "title": "Santrifügal pompa girişteki dolum koşullarına duyarlıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1bmu7hf",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Santrifügal pompa girişteki dolum koşullarına duyarlıdır.",
+        "isTrue": true,
+        "explanation": "Oklüzif olmayan pompanın akımı ön yüke, yani giriş dolumuna bağlıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifügal pompa, roller tüpündeki sıkışmaya bağlı aşınmayı oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ct1tf6",
+        "course": "PER141",
+        "topic": "Pompalar: roller ve santrifügal",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Santrifügal pompa, roller tüpündeki sıkışmaya bağlı aşınmayı oluşturur.",
+        "isTrue": false,
+        "explanation": "Santrifügal başta roller gibi tüp sıkışması yoktur; aynı mekanizmalı tüp aşınması beklenmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1elt6h1",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 3,
+      "term": "Hemoliz",
+      "definition": "Eritrositlerin parçalanması; serbest plazma hemoglobin'si artar.",
+      "en": "Hemolysis",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-11syegh",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Spallasyon",
+      "definition": "Roller sıkışmasıyla tüp iç yüzeyinden partikül kopması; aşırı oklüzyonda artar.",
+      "en": "Spallation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1b37vbm",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Kavitasyon",
+      "definition": "Ani negatif basınçta sıvı içinde gaz/buhar kabarcığı oluşması (ör. roller pompa girişinin aniden tıkanması).",
+      "en": "Cavitation",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1x5r5om",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 3,
+      "term": "Roller pompa",
+      "definition": "İki silindirin tüpü yatağa bastırarak kanı ileri ittiği oklüzif, afterload'dan bağımsız pompa (DeBakey tipi).",
+      "en": "Roller (peristaltic) pump",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1mb2ka7",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 3,
+      "term": "Oklüzyon",
+      "definition": "Roller ile yatak arasında tüpün sıkıştırılma derecesi; fazlası hemoliz/spallasyon, azı geri kaçak ve hatalı akım okuması yapar.",
+      "en": "Occlusion",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1xh9epi",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Drop-rate testi",
+      "definition": "Pompa çıkışındaki yükseltilmiş sıvı sütununun düşüşü ölçülerek roller pompa oklüzyonunun değerlendirilmesi.",
+      "en": "Drop-rate occlusion test",
+      "source": "Vieira Junior ve ark. 2009"
+    },
+    {
+      "id": "PER141-0n36u5o",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 1,
+      "term": "Dinamik oklüzyon ayarı",
+      "definition": "Çıkış klempliyken düşük devirde istenen basınca ulaşana dek oklüzyonun artırılması.",
+      "en": "Dynamic occlusion setting",
+      "source": "Vieira Junior ve ark. 2009"
+    },
+    {
+      "id": "PER141-1wczesl",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 1,
+      "term": "Pompa yatağı",
+      "definition": "Roller pompa tüpünün yerleştirildiği yarım daire biçimindeki yatak.",
+      "en": "Raceway",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1y9jjt4",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Pompa segmenti",
+      "definition": "Roller pompaya yerleştirilen, sürekli sıkışmaya dayanıklı (genellikle silikon) tüp parçası.",
+      "en": "Pump boot / header",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0y1gyn4",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Kalibrasyon",
+      "definition": "Pompa devri–akım ilişkisinin (tüp çapına göre) ve ölçüm cihazlarının doğruluğunun ayarlanması/kontrolü.",
+      "en": "Calibration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0pnn6sb",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 3,
+      "term": "Santrifügal pompa",
+      "definition": "Manyetik olarak döndürülen koni/çarkla merkezkaç kuvvet oluşturan, oklüzif olmayan, preload/afterload'a duyarlı pompa.",
+      "en": "Centrifugal pump",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1t3m9nb",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 1,
+      "term": "İmpeller",
+      "definition": "Santrifügal pompa başında kanı döndüren kanatlı çark veya iç içe koniler.",
+      "en": "Impeller / cone",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0dssds1",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 3,
+      "term": "Akım probu",
+      "definition": "Akımı ultrasonik veya elektromanyetik ilkeyle ölçen sensör; santrifügal pompada zorunlu.",
+      "en": "Flow probe / flowmeter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0xbf8e2",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Preload",
+      "definition": "Pompanın girişine gelen dolum (venöz dönüş, rezervuar/hasta hacmi).",
+      "en": "Preload",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-12bg3eh",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Afterload",
+      "definition": "Pompanın/ventrikülün karşı koymak zorunda olduğu yük (hasta direnci, hat basıncı).",
+      "en": "Afterload",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0foqmqb",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 3,
+      "term": "Retrograd akım",
+      "definition": "Santrifügal pompa durunca ya da devri yetersiz kalınca kanın arteriyel hattan geriye akması.",
+      "en": "Retrograde flow / backflow",
+      "source": "SafeCEC çalışması 2025"
+    },
+    {
+      "id": "PER141-15g83sn",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Pulsatil akım",
+      "definition": "Nabız benzeri basınç dalgalanmalı akım.",
+      "en": "Pulsatile flow",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0vk76wh",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "Non-pulsatil akım",
+      "definition": "Sürekli, nabızsız akım; standart KPB'nin çoğu.",
+      "en": "Non-pulsatile (continuous) flow",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-15j9kmm",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 1,
+      "term": "EEP / SHE",
+      "definition": "Pulsatil akımın hemodinamik enerjisini nicelleştiren göstergeler.",
+      "en": "Energy equivalent pressure / Surplus hemodynamic energy",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0sufkik",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 1,
+      "term": "Triboelektrik yük",
+      "definition": "Sürtünmeyle oluşan statik elektrik; PVC tüplü roller pompada belirgin.",
+      "en": "Triboelectric charge",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1qw22ge",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "term",
+      "importance": 2,
+      "term": "El krankı",
+      "definition": "Elektrik ve batarya kaybında pompayı elle çevirmeye yarayan kol (AmSECT 6.9).",
+      "en": "Hand crank",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-009ra6n",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "compare",
+      "importance": 2,
+      "title": "Pompa çalışma ilkesi",
+      "left": {
+        "title": "Roller pompa",
+        "points": [
+          "Tüpü sıkıştırarak kanı ilerletir",
+          "Oklüzif; akım devir ve tüp çapıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Santrifügal pompa",
+        "points": [
+          "Dönen çark veya koniyle kanı ilerletir",
+          "Oklüzif olmayan; akım ön ve ard yüke duyarlıdır"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-00kp1sf",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kan hasarının kaynağı",
+      "left": {
+        "title": "Spallasyon",
+        "points": [
+          "Tüp iç yüzeyinden partikül kopması",
+          "Roller sıkışması ve aşırı oklüzyonla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Kavitasyon",
+        "points": [
+          "Negatif basınçla gaz veya buhar kabarcığı oluşması",
+          "Ani giriş tıkanmasıyla gelişebilir"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0o4rs8r",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "fact",
+      "importance": 3,
+      "title": "Aşırı oklüzyonun sonucu",
+      "body": "Roller pompadaki fazla tüp sıkışması **hemoliz, spallasyon ve tüp yırtılması** riskini artırır. Oklüzyon ayarı her vaka için kontrol edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0w4u3xl",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "fact",
+      "importance": 3,
+      "title": "Yetersiz oklüzyonun sonucu",
+      "body": "Az sıkıştırılmış roller tüpü geri kaçak oluşturabilir; konsolun hesapladığı akım, **gerçekte iletilen akımdan farklı** olabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-04l7myc",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "fact",
+      "importance": 3,
+      "title": "Santrifügal pompa ve direnç",
+      "body": "Santrifügal pompa devri sabitken hastanın sistemik damar direnci artarsa akım düşebilir. **Devir tek başına akım ölçümü değildir.**",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1gxkeg3",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "fact",
+      "importance": 2,
+      "title": "Yüksek devirin yükü",
+      "body": "Yüksek ard yükü yenmek için santrifügal devir artırıldığında ısı üretimi ve protein denatürasyonu riski artabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1rvjax6",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "fact",
+      "importance": 2,
+      "title": "Roller pompanın ek görevleri",
+      "body": "Pozitif ve negatif basınç üretebilmesi, roller pompanın **aspiratör, vent ve kardiyopleji** hatlarında kullanılmasını sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0zmsd6b",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulsatil akımın değerlendirilmesi",
+      "body": "Pulsatil perfüzyonun tanımı ve ölçümü için evrensel uzlaşı yoktur; bileşenlerin pulsatil kullanım onayı ayrıca değerlendirilmelidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0t03nkz",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "flip",
+      "importance": 3,
+      "question": "Santrifügal pompa akımını devirden bağımsız ölçmek için ne kullanılır?",
+      "answer": "**Akım probu**; ultrasonik veya elektromanyetik ölçümle gerçek akım değerlendirilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1voass7",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "flip",
+      "importance": 2,
+      "question": "Roller pompa girişinin aniden tıkanması neden kabarcık oluşturabilir?",
+      "answer": "Girişte ani negatif basınç oluşarak **kavitasyona** yol açabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1y2oq4u",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "flip",
+      "importance": 2,
+      "question": "Santrifügal pompa için uzun KPB önerisinin gücü nedir?",
+      "answer": "EACTS 2024, uzun KPB bekleniyorsa santrifügal pompanın **düşünülmesini** önerir; öneri tüm sonuçlarda kanıtlanmış üstünlük anlamına gelmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1y7t2hu",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "remember",
+      "importance": 3,
+      "title": "Durdurmadan önce geri akışı önle",
+      "body": "Santrifügal pompa durduğunda kan geriye akabilir. **Arteriyel hattın klemplenmesi** ve geri akış önleme sistemi, durdurma sürecinin kritik parçalarıdır.",
+      "source": "SafeCEC çalışması 2025"
+    },
+    {
+      "id": "PER141-050s5bf",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "remember",
+      "importance": 3,
+      "title": "Akım göstergesine kör güvenme",
+      "body": "Roller konsolundaki devirden hesaplanan akım, yetersiz oklüzyon veya açık şantlar nedeniyle hastaya ulaşan akımdan farklı olabilir. **Gerçek akımı** değerlendirmek gerekir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-192umhs",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Roller pompa direnci yükselmiş kapalı bir hatta çalışırsa temel tehlike nedir?",
+      "options": [
+        "Pompanın zorunlu olarak geri dönmesi",
+        "Gaz blenderinin durması",
+        "Hat basıncının aşırı yükselmesi",
+        "Rezervuarın kendiliğinden büyümesi"
+      ],
+      "correct": 2,
+      "explanation": "Roller pompa akımı dirençten büyük ölçüde bağımsızdır; tıkalı çıkışta aşırı basınç devreyi bozabilir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0h170b4",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Roller pompanın sürekli sıkışmaya maruz kalan segmentinde hangi malzeme kullanılır?",
+      "options": [
+        "Teflon elek",
+        "Paslanmaz çelik",
+        "PMP lif",
+        "Silikon"
+      ],
+      "correct": 3,
+      "explanation": "Silikon pompa segmenti yinelenen sıkışmaya dayanması için kullanılır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0deyjw3",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "mcq",
+      "importance": 2,
+      "question": "PVC roller tüpünde sürtünmeyle oluşan elektrik hangi terimle adlandırılır?",
+      "options": [
+        "Triboelektrik yük",
+        "Transmembran gradyan",
+        "Osmotik basınç",
+        "Hidrostatik drenaj"
+      ],
+      "correct": 0,
+      "explanation": "Triboelektrik yük sürtünmenin oluşturduğu statik elektrik birikimidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0kcozqh",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Santrifügal pompada düşük devir alarmının başlıca güvenlik amacı nedir?",
+      "options": [
+        "Kanı kristaloidle seyreltmek",
+        "Retrograd akımı önlemeye yardım etmek",
+        "Su devresini sterilize etmek",
+        "Tüp çapını hesaplamak"
+      ],
+      "correct": 1,
+      "explanation": "Düşük devir hasta direncini yenemeyebilir; geri akış önleme donanımı önemlidir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1v4wuoo",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulsatil akımın hemodinamik enerjisini değerlendiren göstergeler hangisidir?",
+      "options": [
+        "ACT ve INR",
+        "PaO₂ ve PaCO₂",
+        "EEP ve SHE",
+        "Hct ve trombosit sayısı"
+      ],
+      "correct": 2,
+      "explanation": "EEP ve SHE, pulsasyonun hemodinamik enerji katkısını nicelleştirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-140fv9r",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Roller pompada oklüzyon ayarının tek bir uluslararası yöntemi vardır.",
+      "isTrue": false,
+      "explanation": "Standart bir evrensel oklüzyon ayarı yoktur; kurum protokolü ve kullanılan sistem dikkate alınır.",
+      "source": "Dinamik oklüzyon 2024"
+    },
+    {
+      "id": "PER141-1bmu7hf",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Santrifügal pompa girişteki dolum koşullarına duyarlıdır.",
+      "isTrue": true,
+      "explanation": "Oklüzif olmayan pompanın akımı ön yüke, yani giriş dolumuna bağlıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0ct1tf6",
+      "course": "PER141",
+      "topic": "Pompalar: roller ve santrifügal",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Santrifügal pompa, roller tüpündeki sıkışmaya bağlı aşınmayı oluşturur.",
+      "isTrue": false,
+      "explanation": "Santrifügal başta roller gibi tüp sıkışması yoktur; aynı mekanizmalı tüp aşınması beklenmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

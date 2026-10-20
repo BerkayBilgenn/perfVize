@@ -1,0 +1,621 @@
+{
+  "id": "review-d6a999071469d3c3",
+  "title": "Venöz drenaj: gravite, VAVD, KAVD",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Gravite drenajı",
+      "text": "Gravity (siphon) drainage\nRezervuarın hastadan aşağıda olmasıyla yerçekimi farkından venöz drenaj.",
+      "images": [],
+      "card": {
+        "id": "PER141-152ymfg",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "term",
+        "importance": 2,
+        "term": "Gravite drenajı",
+        "definition": "Rezervuarın hastadan aşağıda olmasıyla yerçekimi farkından venöz drenaj.",
+        "en": "Gravity (siphon) drainage",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "VAVD",
+      "text": "Vacuum-assisted venous drainage\nKapalı hard-shell rezervuara kontrollü vakum uygulanarak venöz drenajın artırılması.",
+      "images": [],
+      "card": {
+        "id": "PER141-1b1sttq",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "term",
+        "importance": 3,
+        "term": "VAVD",
+        "definition": "Kapalı hard-shell rezervuara kontrollü vakum uygulanarak venöz drenajın artırılması.",
+        "en": "Vacuum-assisted venous drainage",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KAVD",
+      "text": "Kinetic-assisted venous drainage\nVenöz hatta santrifügal pompa ile negatif basınç oluşturulması.",
+      "images": [],
+      "card": {
+        "id": "PER141-174a6kv",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "term",
+        "importance": 3,
+        "term": "KAVD",
+        "definition": "Venöz hatta santrifügal pompa ile negatif basınç oluşturulması.",
+        "en": "Kinetic-assisted venous drainage",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hava kilidi",
+      "text": "Airlock\nVenöz hatta biriken havanın sifonu kesip drenajı durdurması.",
+      "images": [],
+      "card": {
+        "id": "PER141-0i51k65",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "term",
+        "importance": 2,
+        "term": "Hava kilidi",
+        "definition": "Venöz hatta biriken havanın sifonu kesip drenajı durdurması.",
+        "en": "Airlock",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Vakum regülatörü",
+      "text": "Vacuum regulator\nVAVD'de negatif basıncı ayarlayan ve sınırlayan cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-0mc65vw",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "term",
+        "importance": 2,
+        "term": "Vakum regülatörü",
+        "definition": "VAVD'de negatif basıncı ayarlayan ve sınırlayan cihaz.",
+        "en": "Vacuum regulator",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "Yardımlı venöz drenaj",
+      "text": "Assisted venous drainage\nGraviteye ek olarak vakum veya kinetik pompa kullanarak venöz kanın devreye dönüşünü artırma yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0dgy7pl",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "term",
+        "importance": 2,
+        "term": "Yardımlı venöz drenaj",
+        "definition": "Graviteye ek olarak vakum veya kinetik pompa kullanarak venöz kanın devreye dönüşünü artırma yöntemi.",
+        "en": "Assisted venous drainage",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Yardımlı drenajın kaynağı",
+      "text": "VAVD\nRezervuara kontrollü vakum uygulanır\nVakum regülatörü kullanılır\n\nKAVD\nVenöz hatta kinetik pompa kullanılır\nSantrifügal pompa negatif basınç üretir",
+      "images": [],
+      "card": {
+        "id": "PER141-11phmez",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "compare",
+        "importance": 2,
+        "title": "Yardımlı drenajın kaynağı",
+        "left": {
+          "title": "VAVD",
+          "points": [
+            "Rezervuara kontrollü vakum uygulanır",
+            "Vakum regülatörü kullanılır"
+          ]
+        },
+        "right": {
+          "title": "KAVD",
+          "points": [
+            "Venöz hatta kinetik pompa kullanılır",
+            "Santrifügal pompa negatif basınç üretir"
+          ]
+        },
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "Gravite drenajının düzeni",
+      "text": "Gravite drenajında rezervuar **hasta seviyesinin altında** bulunur. Sifonun kesilmemesi için venöz hat sıvıyla dolu ve havasız tutulur.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mm1aei",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "fact",
+        "importance": 3,
+        "title": "Gravite drenajının düzeni",
+        "body": "Gravite drenajında rezervuar **hasta seviyesinin altında** bulunur. Sifonun kesilmemesi için venöz hat sıvıyla dolu ve havasız tutulur.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "VAVD'nin hacim kazancı",
+      "text": "Vakum yardımı daha küçük kanül ve tüp kullanımına, rezervuarın hastaya yaklaştırılmasına ve **prime hacminin azalmasına** olanak verebilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1a8ga3b",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "fact",
+        "importance": 2,
+        "title": "VAVD'nin hacim kazancı",
+        "body": "Vakum yardımı daha küçük kanül ve tüp kullanımına, rezervuarın hastaya yaklaştırılmasına ve **prime hacminin azalmasına** olanak verebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Negatif basınçta kan hasarı",
+      "text": "EACTS 2024'te aktarılan çalışmalarda **−80 mmHg**, −40 mmHg ve gravite drenajına göre daha fazla hemolizle ilişkilidir. Bu gözlem tek bir evrensel vakum ayarı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1v79d15",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "fact",
+        "importance": 3,
+        "title": "Negatif basınçta kan hasarı",
+        "body": "EACTS 2024'te aktarılan çalışmalarda **−80 mmHg**, −40 mmHg ve gravite drenajına göre daha fazla hemolizle ilişkilidir. Bu gözlem tek bir evrensel vakum ayarı değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kanül çevresinde ven kollapsı",
+      "text": "KAVD'de aşırı negatif basınç ven duvarını kanül çevresine çekebilir. Uygun kanül boyutu ve negatif basınç izlemi drenaj güvenliği için önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0rrph3v",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kanül çevresinde ven kollapsı",
+        "body": "KAVD'de aşırı negatif basınç ven duvarını kanül çevresine çekebilir. Uygun kanül boyutu ve negatif basınç izlemi drenaj güvenliği için önemlidir.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "Yetersiz venöz dönüşte ilk değerlendirilecek mekanik etkenler nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1cylg42",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "flip",
+        "importance": 3,
+        "question": "Yetersiz venöz dönüşte ilk değerlendirilecek mekanik etkenler nelerdir?",
+        "answer": "Kanül konumu ve boyutu, hava kilidi, hat katlanması, kalbin kaldırılması ve kaval turnike yerleşimi kontrol edilir.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "VAVD devresinde basınç tahliye valfleri neden kontrol edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ip4r6e",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "flip",
+        "importance": 3,
+        "question": "VAVD devresinde basınç tahliye valfleri neden kontrol edilir?",
+        "answer": "Rezervuarın aşırı pozitif veya negatif basınçlanmasını sınırlamak ve hava embolisi gibi riskleri azaltmak için.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Vakum tek başına çözüm değildir",
+      "text": "Yardımlı drenajda **negatif basınç izlenir**; aşırı vakum önerilmez. Kötü drenajın nedeni kanül yerleşimi veya hat sorunuysa yalnız vakumu artırmak güvenli değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0q2i0nt",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "remember",
+        "importance": 3,
+        "title": "Vakum tek başına çözüm değildir",
+        "body": "Yardımlı drenajda **negatif basınç izlenir**; aşırı vakum önerilmez. Kötü drenajın nedeni kanül yerleşimi veya hat sorunuysa yalnız vakumu artırmak güvenli değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz hatta hava kilidi oluşması gravite drenajını nasıl etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0h844vg",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Venöz hatta hava kilidi oluşması gravite drenajını nasıl etkiler?",
+        "options": [
+          "Sifonu güçlendirip akımı artırır",
+          "Sifonu kesip drenajı azaltabilir",
+          "Arteriyel kanülü sterilize eder",
+          "Gaz fraksiyonunu yükseltir"
+        ],
+        "correct": 1,
+        "explanation": "Hava birikimi sıvı sütununun sürekliliğini bozarak gravite drenajını durdurabilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "VAVD hangi düzenekle negatif basıncı ayarlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1607o38",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "mcq",
+        "importance": 2,
+        "question": "VAVD hangi düzenekle negatif basıncı ayarlar?",
+        "options": [
+          "Anestezik vaporizer",
+          "Gaz blenderi",
+          "Vakum regülatörü",
+          "Su sirkülasyon pompası"
+        ],
+        "correct": 2,
+        "explanation": "VAVD'de rezervuarın kapağına bağlanan kontrollü vakum regülatörü kullanılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KAVD'de kinetik desteği sağlayan pompa hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0kwmwy6",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KAVD'de kinetik desteği sağlayan pompa hangisidir?",
+        "options": [
+          "Roller kardiyopleji pompası",
+          "Su tankı pompası",
+          "İlaç infüzyon pompası",
+          "Santrifügal pompa"
+        ],
+        "correct": 3,
+        "explanation": "KAVD venöz hatta santrifügal pompayla negatif basınç oluşturur.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "Gravite drenajını azaltabilecek hasta kaynaklı etken hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-09t7ql1",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Gravite drenajını azaltabilecek hasta kaynaklı etken hangisidir?",
+        "options": [
+          "Hipovolemi",
+          "Artmış dolaşan hacim",
+          "Yeterli venöz dolum",
+          "Uygun kanül konumu"
+        ],
+        "correct": 0,
+        "explanation": "Kanama veya kompartmanlara kan kaybıyla hipovolemi venöz dönüşü azaltabilir.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Yardımlı venöz drenaj için kullanılan rezervuar bu kullanıma onaylı olmalıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0mqcnzj",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Yardımlı venöz drenaj için kullanılan rezervuar bu kullanıma onaylı olmalıdır.",
+        "isTrue": true,
+        "explanation": "EACTS 2024, yardımlı drenaj için onaylı rezervuar kullanılmasını önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Negatif basıncın artırılması venöz mikroemboli riskini azaltır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1oofv06",
+        "course": "PER141",
+        "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Negatif basıncın artırılması venöz mikroemboli riskini azaltır.",
+        "isTrue": false,
+        "explanation": "Aşırı negatif basınç gazlı mikroemboli oluşumunu ve iletimini artırabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-152ymfg",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "term",
+      "importance": 2,
+      "term": "Gravite drenajı",
+      "definition": "Rezervuarın hastadan aşağıda olmasıyla yerçekimi farkından venöz drenaj.",
+      "en": "Gravity (siphon) drainage",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1b1sttq",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "term",
+      "importance": 3,
+      "term": "VAVD",
+      "definition": "Kapalı hard-shell rezervuara kontrollü vakum uygulanarak venöz drenajın artırılması.",
+      "en": "Vacuum-assisted venous drainage",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-174a6kv",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "term",
+      "importance": 3,
+      "term": "KAVD",
+      "definition": "Venöz hatta santrifügal pompa ile negatif basınç oluşturulması.",
+      "en": "Kinetic-assisted venous drainage",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0i51k65",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "term",
+      "importance": 2,
+      "term": "Hava kilidi",
+      "definition": "Venöz hatta biriken havanın sifonu kesip drenajı durdurması.",
+      "en": "Airlock",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0mc65vw",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "term",
+      "importance": 2,
+      "term": "Vakum regülatörü",
+      "definition": "VAVD'de negatif basıncı ayarlayan ve sınırlayan cihaz.",
+      "en": "Vacuum regulator",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-0dgy7pl",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "term",
+      "importance": 2,
+      "term": "Yardımlı venöz drenaj",
+      "definition": "Graviteye ek olarak vakum veya kinetik pompa kullanarak venöz kanın devreye dönüşünü artırma yöntemi.",
+      "en": "Assisted venous drainage",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-11phmez",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "compare",
+      "importance": 2,
+      "title": "Yardımlı drenajın kaynağı",
+      "left": {
+        "title": "VAVD",
+        "points": [
+          "Rezervuara kontrollü vakum uygulanır",
+          "Vakum regülatörü kullanılır"
+        ]
+      },
+      "right": {
+        "title": "KAVD",
+        "points": [
+          "Venöz hatta kinetik pompa kullanılır",
+          "Santrifügal pompa negatif basınç üretir"
+        ]
+      },
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-1mm1aei",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "fact",
+      "importance": 3,
+      "title": "Gravite drenajının düzeni",
+      "body": "Gravite drenajında rezervuar **hasta seviyesinin altında** bulunur. Sifonun kesilmemesi için venöz hat sıvıyla dolu ve havasız tutulur.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1a8ga3b",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "fact",
+      "importance": 2,
+      "title": "VAVD'nin hacim kazancı",
+      "body": "Vakum yardımı daha küçük kanül ve tüp kullanımına, rezervuarın hastaya yaklaştırılmasına ve **prime hacminin azalmasına** olanak verebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1v79d15",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "fact",
+      "importance": 3,
+      "title": "Negatif basınçta kan hasarı",
+      "body": "EACTS 2024'te aktarılan çalışmalarda **−80 mmHg**, −40 mmHg ve gravite drenajına göre daha fazla hemolizle ilişkilidir. Bu gözlem tek bir evrensel vakum ayarı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rrph3v",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kanül çevresinde ven kollapsı",
+      "body": "KAVD'de aşırı negatif basınç ven duvarını kanül çevresine çekebilir. Uygun kanül boyutu ve negatif basınç izlemi drenaj güvenliği için önemlidir.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-1cylg42",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "flip",
+      "importance": 3,
+      "question": "Yetersiz venöz dönüşte ilk değerlendirilecek mekanik etkenler nelerdir?",
+      "answer": "Kanül konumu ve boyutu, hava kilidi, hat katlanması, kalbin kaldırılması ve kaval turnike yerleşimi kontrol edilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0ip4r6e",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "flip",
+      "importance": 3,
+      "question": "VAVD devresinde basınç tahliye valfleri neden kontrol edilir?",
+      "answer": "Rezervuarın aşırı pozitif veya negatif basınçlanmasını sınırlamak ve hava embolisi gibi riskleri azaltmak için.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0q2i0nt",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "remember",
+      "importance": 3,
+      "title": "Vakum tek başına çözüm değildir",
+      "body": "Yardımlı drenajda **negatif basınç izlenir**; aşırı vakum önerilmez. Kötü drenajın nedeni kanül yerleşimi veya hat sorunuysa yalnız vakumu artırmak güvenli değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0h844vg",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Venöz hatta hava kilidi oluşması gravite drenajını nasıl etkiler?",
+      "options": [
+        "Sifonu güçlendirip akımı artırır",
+        "Sifonu kesip drenajı azaltabilir",
+        "Arteriyel kanülü sterilize eder",
+        "Gaz fraksiyonunu yükseltir"
+      ],
+      "correct": 1,
+      "explanation": "Hava birikimi sıvı sütununun sürekliliğini bozarak gravite drenajını durdurabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1607o38",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "mcq",
+      "importance": 2,
+      "question": "VAVD hangi düzenekle negatif basıncı ayarlar?",
+      "options": [
+        "Anestezik vaporizer",
+        "Gaz blenderi",
+        "Vakum regülatörü",
+        "Su sirkülasyon pompası"
+      ],
+      "correct": 2,
+      "explanation": "VAVD'de rezervuarın kapağına bağlanan kontrollü vakum regülatörü kullanılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0kwmwy6",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KAVD'de kinetik desteği sağlayan pompa hangisidir?",
+      "options": [
+        "Roller kardiyopleji pompası",
+        "Su tankı pompası",
+        "İlaç infüzyon pompası",
+        "Santrifügal pompa"
+      ],
+      "correct": 3,
+      "explanation": "KAVD venöz hatta santrifügal pompayla negatif basınç oluşturur.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-09t7ql1",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Gravite drenajını azaltabilecek hasta kaynaklı etken hangisidir?",
+      "options": [
+        "Hipovolemi",
+        "Artmış dolaşan hacim",
+        "Yeterli venöz dolum",
+        "Uygun kanül konumu"
+      ],
+      "correct": 0,
+      "explanation": "Kanama veya kompartmanlara kan kaybıyla hipovolemi venöz dönüşü azaltabilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0mqcnzj",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Yardımlı venöz drenaj için kullanılan rezervuar bu kullanıma onaylı olmalıdır.",
+      "isTrue": true,
+      "explanation": "EACTS 2024, yardımlı drenaj için onaylı rezervuar kullanılmasını önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1oofv06",
+      "course": "PER141",
+      "topic": "Venöz drenaj: gravite, VAVD, KAVD",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Negatif basıncın artırılması venöz mikroemboli riskini azaltır.",
+      "isTrue": false,
+      "explanation": "Aşırı negatif basınç gazlı mikroemboli oluşumunu ve iletimini artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

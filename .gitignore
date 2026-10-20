@@ -1,0 +1,14 @@
+.runtime/
+.DS_Store
+node_modules/
+artifacts/
+dist/
+.sites-runtime/
+.vercel/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc

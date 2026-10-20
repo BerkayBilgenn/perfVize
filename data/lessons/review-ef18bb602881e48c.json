@@ -1,0 +1,1330 @@
+{
+  "id": "review-ef18bb602881e48c",
+  "title": "Hemostaz ve pıhtılaşma testleri",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hemostaz",
+      "text": "Hemostasis\nKanamanın durdurulması; trombosit tıkacı, pıhtılaşma ve fibrinoliz dengesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0yp5i92",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Hemostaz",
+        "en": "Hemostasis",
+        "definition": "Kanamanın durdurulması; trombosit tıkacı, pıhtılaşma ve fibrinoliz dengesi.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Primer hemostaz",
+      "text": "Primary hemostasis\nVazospazm ve trombosit adezyon-agregasyonuyla trombosit tıkacı oluşumu.",
+      "images": [],
+      "card": {
+        "id": "PER243-1g7k15t",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Primer hemostaz",
+        "en": "Primary hemostasis",
+        "definition": "Vazospazm ve trombosit adezyon-agregasyonuyla trombosit tıkacı oluşumu.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Sekonder hemostaz",
+      "text": "Secondary hemostasis\nPıhtılaşma kaskadıyla fibrin oluşumu ve tıkacın sağlamlaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER243-12bwyfd",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Sekonder hemostaz",
+        "en": "Secondary hemostasis",
+        "definition": "Pıhtılaşma kaskadıyla fibrin oluşumu ve tıkacın sağlamlaştırılması.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Trombosit",
+      "text": "Platelet (thrombocyte)\nMegakaryositlerden türeyen çekirdeksiz hücre parçası; primer hemostazın temel unsuru.",
+      "images": [],
+      "card": {
+        "id": "PER243-017juok",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Trombosit",
+        "en": "Platelet (thrombocyte)",
+        "definition": "Megakaryositlerden türeyen çekirdeksiz hücre parçası; primer hemostazın temel unsuru.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "von Willebrand faktörü",
+      "text": "von Willebrand factor\nTrombositleri GPIb ile subendotel kollajene bağlayan ve FVIII'i taşıyan glikoprotein.",
+      "images": [],
+      "card": {
+        "id": "PER243-1jrhb8q",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 1,
+        "term": "von Willebrand faktörü",
+        "en": "von Willebrand factor",
+        "definition": "Trombositleri GPIb ile subendotel kollajene bağlayan ve FVIII'i taşıyan glikoprotein.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "GP IIb/IIIa",
+      "text": "Glycoprotein IIb/IIIa\nFibrinojen aracılığıyla trombositleri birbirine bağlayan agregasyon reseptörü.",
+      "images": [],
+      "card": {
+        "id": "PER243-1fnudqf",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 1,
+        "term": "GP IIb/IIIa",
+        "en": "Glycoprotein IIb/IIIa",
+        "definition": "Fibrinojen aracılığıyla trombositleri birbirine bağlayan agregasyon reseptörü.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Doku faktörü",
+      "text": "Tissue factor\nSubendotelde bulunan, in vivo pıhtılaşmanın ana başlatıcısı.",
+      "images": [],
+      "card": {
+        "id": "PER243-0b2azsq",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Doku faktörü",
+        "en": "Tissue factor",
+        "definition": "Subendotelde bulunan, in vivo pıhtılaşmanın ana başlatıcısı.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Ekstrinsik yol",
+      "text": "Extrinsic pathway\nDoku faktörü–FVIIa ile FX'in aktive edildiği yol; PT ile değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1o75sno",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Ekstrinsik yol",
+        "en": "Extrinsic pathway",
+        "definition": "Doku faktörü–FVIIa ile FX'in aktive edildiği yol; PT ile değerlendirilir.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "İntrinsik yol",
+      "text": "Intrinsic pathway\nFXII, FXI, FIX ve FVIII aracılığıyla FX aktivasyonu; aPTT ve ACT ile değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-06pirjo",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "İntrinsik yol",
+        "en": "Intrinsic pathway",
+        "definition": "FXII, FXI, FIX ve FVIII aracılığıyla FX aktivasyonu; aPTT ve ACT ile değerlendirilir.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Ortak yol",
+      "text": "Common pathway\nFXa–FVa (protrombinaz) ile trombin ve fibrin oluşumu.",
+      "images": [],
+      "card": {
+        "id": "PER243-0y87zws",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Ortak yol",
+        "en": "Common pathway",
+        "definition": "FXa–FVa (protrombinaz) ile trombin ve fibrin oluşumu.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Hücre temelli pıhtılaşma modeli",
+      "text": "Cell-based model\nPıhtılaşmanın hücre yüzeyinde başlatma, amplifikasyon, yayılım ve stabilizasyon evreleriyle açıklanması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0k0sw67",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Hücre temelli pıhtılaşma modeli",
+        "en": "Cell-based model",
+        "definition": "Pıhtılaşmanın hücre yüzeyinde başlatma, amplifikasyon, yayılım ve stabilizasyon evreleriyle açıklanması.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Trombin",
+      "text": "Thrombin\nFibrinojeni fibrine çeviren, FV, FVIII, FXIII ve trombositleri aktive eden merkezi enzim.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ythmh8",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Trombin",
+        "en": "Thrombin",
+        "definition": "Fibrinojeni fibrine çeviren, FV, FVIII, FXIII ve trombositleri aktive eden merkezi enzim.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Fibrinojen",
+      "text": "Fibrinogen\nKaraciğerde üretilen, trombin etkisiyle fibrine dönüşen çözünür plazma proteini; pıhtı sağlamlığına katkı sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER243-1skulz1",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Fibrinojen",
+        "en": "Fibrinogen",
+        "definition": "Karaciğerde üretilen, trombin etkisiyle fibrine dönüşen çözünür plazma proteini; pıhtı sağlamlığına katkı sağlar.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Faktör XIII",
+      "text": "Factor XIII (fibrin-stabilizing factor)\nFibrin polimerlerini çapraz bağlayarak pıhtıyı stabilize eden faktör.",
+      "images": [],
+      "card": {
+        "id": "PER243-1k3p3ko",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Faktör XIII",
+        "en": "Factor XIII (fibrin-stabilizing factor)",
+        "definition": "Fibrin polimerlerini çapraz bağlayarak pıhtıyı stabilize eden faktör.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Labil faktörler",
+      "text": "Labile factors (FV, FVIII)\nDepolanmış kanda aktivitesini hızla kaybeden faktörler.",
+      "images": [],
+      "card": {
+        "id": "PER243-1lctts8",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Labil faktörler",
+        "en": "Labile factors (FV, FVIII)",
+        "definition": "Depolanmış kanda aktivitesini hızla kaybeden faktörler.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "K vitaminine bağımlı faktörler",
+      "text": "Vitamin K-dependent factors\nγ-karboksilasyon gerektiren FII, FVII, FIX, FX ile protein C ve S.",
+      "images": [],
+      "card": {
+        "id": "PER243-07c6hx0",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 1,
+        "term": "K vitaminine bağımlı faktörler",
+        "en": "Vitamin K-dependent factors",
+        "definition": "γ-karboksilasyon gerektiren FII, FVII, FIX, FX ile protein C ve S.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Protein C / Protein S",
+      "text": "Protein C / Protein S\nAktive protein C, protein S kofaktörüyle FVa ve FVIIIa'yı inaktive eder.",
+      "images": [],
+      "card": {
+        "id": "PER243-0sm8wre",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Protein C / Protein S",
+        "en": "Protein C / Protein S",
+        "definition": "Aktive protein C, protein S kofaktörüyle FVa ve FVIIIa'yı inaktive eder.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "TFPI",
+      "text": "Tissue factor pathway inhibitor\nDoku faktörü–FVIIa kompleksini inhibe eden doğal antikoagülan.",
+      "images": [],
+      "card": {
+        "id": "PER243-1h5awf4",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "TFPI",
+        "en": "Tissue factor pathway inhibitor",
+        "definition": "Doku faktörü–FVIIa kompleksini inhibe eden doğal antikoagülan.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Fibrinoliz",
+      "text": "Fibrinolysis\nPlazminin fibrini yıkım ürünlerine parçalaması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1nwlf7b",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Fibrinoliz",
+        "en": "Fibrinolysis",
+        "definition": "Plazminin fibrini yıkım ürünlerine parçalaması.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "PAI-1",
+      "text": "Plasminogen activator inhibitor-1\ntPA ve uPA'yı geri dönüşsüz inhibe eden ana fizyolojik fibrinoliz inhibitörü.",
+      "images": [],
+      "card": {
+        "id": "PER243-0r5qn6z",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "PAI-1",
+        "en": "Plasminogen activator inhibitor-1",
+        "definition": "tPA ve uPA'yı geri dönüşsüz inhibe eden ana fizyolojik fibrinoliz inhibitörü.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "D-dimer",
+      "text": "D-dimer\nÇapraz bağlı fibrinin yıkım ürünü; fibrinolizin özgül göstergesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1nnjhl3",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 2,
+        "term": "D-dimer",
+        "en": "D-dimer",
+        "definition": "Çapraz bağlı fibrinin yıkım ürünü; fibrinolizin özgül göstergesi.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "PT / INR",
+      "text": "Prothrombin time / INR\nEkstrinsik ve ortak pıhtılaşma yollarını değerlendiren test ve bunun standartlaştırılmış oranı; varfarin etkisinin izleminde kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0l5kpcf",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "PT / INR",
+        "en": "Prothrombin time / INR",
+        "definition": "Ekstrinsik ve ortak pıhtılaşma yollarını değerlendiren test ve bunun standartlaştırılmış oranı; varfarin etkisinin izleminde kullanılır.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "aPTT",
+      "text": "Activated partial thromboplastin time\nPlazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren aktive parsiyel tromboplastin zamanı testi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1a890hk",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "aPTT",
+        "en": "Activated partial thromboplastin time",
+        "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren aktive parsiyel tromboplastin zamanı testi.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "TEG / ROTEM",
+      "text": "Thromboelastography / rotational thromboelastometry\nTam kanda pıhtı oluşumunu, sağlamlığını ve lizisini grafikle gösteren viskoelastik testler.",
+      "images": [],
+      "card": {
+        "id": "PER243-0b8yhjd",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "TEG / ROTEM",
+        "en": "Thromboelastography / rotational thromboelastometry",
+        "definition": "Tam kanda pıhtı oluşumunu, sağlamlığını ve lizisini grafikle gösteren viskoelastik testler.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "MA / MCF",
+      "text": "Maximum amplitude / maximum clot firmness\nTEG'de (MA) ve ROTEM'de (MCF) pıhtının ulaştığı en yüksek sağlamlık; trombosit ve fibrinojene bağlı.",
+      "images": [],
+      "card": {
+        "id": "PER243-0iyr0xg",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 1,
+        "term": "MA / MCF",
+        "en": "Maximum amplitude / maximum clot firmness",
+        "definition": "TEG'de (MA) ve ROTEM'de (MCF) pıhtının ulaştığı en yüksek sağlamlık; trombosit ve fibrinojene bağlı.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "FIBTEM",
+      "text": "FIBTEM\nTrombositleri sitokalasin D ile inhibe ederek fibrinojenin pıhtıya katkısını gösteren ROTEM testi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1c2rizk",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "FIBTEM",
+        "en": "FIBTEM",
+        "definition": "Trombositleri sitokalasin D ile inhibe ederek fibrinojenin pıhtıya katkısını gösteren ROTEM testi.",
+        "source": "Asian J Transfus Sci 2025: ROTEM"
+      }
+    },
+    {
+      "title": "HEPTEM",
+      "text": "HEPTEM\nHeparinaz eklenmiş INTEM; INTEM ile karşılaştırılarak heparin etkisi/rebound saptanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0y3aj1g",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "term",
+        "importance": 3,
+        "term": "HEPTEM",
+        "en": "HEPTEM",
+        "definition": "Heparinaz eklenmiş INTEM; INTEM ile karşılaştırılarak heparin etkisi/rebound saptanır.",
+        "source": "Asian J Transfus Sci 2025: ROTEM"
+      }
+    },
+    {
+      "title": "Antikoagülasyon izlem testleri",
+      "text": "aPTT\nPlazmada laboratuvar testi\nDaha düşük heparin düzeylerinde kullanılır\n\nACT\nTam kanda yatak başı testi\nKPB'de yüksek heparin etkisini izler",
+      "images": [],
+      "card": {
+        "id": "PER243-0j8xbgl",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "compare",
+        "importance": 2,
+        "title": "Antikoagülasyon izlem testleri",
+        "left": {
+          "title": "aPTT",
+          "points": [
+            "Plazmada laboratuvar testi",
+            "Daha düşük heparin düzeylerinde kullanılır"
+          ]
+        },
+        "right": {
+          "title": "ACT",
+          "points": [
+            "Tam kanda yatak başı testi",
+            "KPB'de yüksek heparin etkisini izler"
+          ]
+        },
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "Pıhtılaşma yolları",
+      "text": "Ekstrinsik yol\nDoku faktörü–FVIIa ile başlar\nPT ile değerlendirilir\n\nİntrinsik yol\nKontakt aktivasyonla başlayan yol\naPTT ile değerlendirilir",
+      "images": [],
+      "card": {
+        "id": "PER243-11e237e",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "compare",
+        "importance": 2,
+        "title": "Pıhtılaşma yolları",
+        "left": {
+          "title": "Ekstrinsik yol",
+          "points": [
+            "Doku faktörü–FVIIa ile başlar",
+            "PT ile değerlendirilir"
+          ]
+        },
+        "right": {
+          "title": "İntrinsik yol",
+          "points": [
+            "Kontakt aktivasyonla başlayan yol",
+            "aPTT ile değerlendirilir"
+          ]
+        },
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Faktör adında aktif form",
+      "text": "Pıhtılaşma faktörlerinin aktive biçimi **a ekiyle** gösterilir; örneğin faktör IIa trombindir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0i464ed",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Faktör adında aktif form",
+        "body": "Pıhtılaşma faktörlerinin aktive biçimi **a ekiyle** gösterilir; örneğin faktör IIa trombindir.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Trombosit sayısı ve fonksiyonu",
+      "text": "Trombosit sayımı **trombosit fonksiyonunu ölçmez**. Normal sayı, primer hemostaz işlevinin normal olduğunu tek başına göstermez.",
+      "images": [],
+      "card": {
+        "id": "PER243-00ppaaq",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Trombosit sayısı ve fonksiyonu",
+        "body": "Trombosit sayımı **trombosit fonksiyonunu ölçmez**. Normal sayı, primer hemostaz işlevinin normal olduğunu tek başına göstermez.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "Hücre yüzeyinde trombin patlaması",
+      "text": "Hücre temelli modelin yayılım evresinde trombosit yüzeyindeki tenaz ve protrombinaz kompleksleri **çok miktarda trombin** oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER243-07qg132",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hücre yüzeyinde trombin patlaması",
+        "body": "Hücre temelli modelin yayılım evresinde trombosit yüzeyindeki tenaz ve protrombinaz kompleksleri **çok miktarda trombin** oluşturur.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "TEG ve ROTEM aralıkları",
+      "text": "Viskoelastik testlerin referans aralıkları **cihaz ve teste özgüdür**; farklı cihaz değerleri birbirine doğrudan aktarılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-0m8smqc",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "TEG ve ROTEM aralıkları",
+        "body": "Viskoelastik testlerin referans aralıkları **cihaz ve teste özgüdür**; farklı cihaz değerleri birbirine doğrudan aktarılmaz.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    },
+    {
+      "title": "Glanzmann trombastenisinde hangi trombosit reseptörü etkilenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1jrbxaq",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Glanzmann trombastenisinde hangi trombosit reseptörü etkilenir?",
+        "answer": "**GPIIb/IIIa** eksikliği veya işlev bozukluğu, fibrinojen aracılı trombosit agregasyonunu bozar.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Bernard-Soulier sendromunda hangi reseptör eksiktir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0ksdc29",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "flip",
+        "importance": 1,
+        "question": "Bernard-Soulier sendromunda hangi reseptör eksiktir?",
+        "answer": "**GPIb** eksikliği, von Willebrand faktörü aracılı trombosit adezyonunu bozar.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "FIBTEM trombosit katkısını nasıl ayırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0tq7xrp",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "FIBTEM trombosit katkısını nasıl ayırır?",
+        "answer": "**Sitokalasin D ile trombositleri inhibe eder**; fibrinojenin pıhtı sağlamlığına katkısı değerlendirilir.",
+        "source": "Asian J Transfus Sci 2025: ROTEM"
+      }
+    },
+    {
+      "title": "APTEM ile EXTEM karşılaştırması hangi süreci tanımaya yardım eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1u1hbbn",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "APTEM ile EXTEM karşılaştırması hangi süreci tanımaya yardım eder?",
+        "answer": "Antifibrinolitik eklenmiş testle karşılaştırma **hiperfibrinolizi** tanımaya yardım eder.",
+        "source": "Asian J Transfus Sci 2025: ROTEM"
+      }
+    },
+    {
+      "title": "Fibrinojeni fibrine dönüştüren enzim hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1bvez66",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Fibrinojeni fibrine dönüştüren enzim hangisidir?",
+        "options": [
+          "Plazmin",
+          "Antitrombin",
+          "PAI-1",
+          "Trombin"
+        ],
+        "correct": 3,
+        "explanation": "Trombin fibrinojenden fibrin oluşmasını sağlar.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Fibrin polimerlerini çapraz bağlayan faktör hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0quet04",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Fibrin polimerlerini çapraz bağlayan faktör hangisidir?",
+        "options": [
+          "Faktör XIII",
+          "Faktör VII",
+          "Faktör IX",
+          "Faktör XII"
+        ],
+        "correct": 0,
+        "explanation": "Aktive faktör XIII fibrin zincirlerini kovalent çapraz bağlarla sağlamlaştırır.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Heparin etkisini ayırmak için INTEM ile hangi ROTEM testi karşılaştırılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1h776zu",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Heparin etkisini ayırmak için INTEM ile hangi ROTEM testi karşılaştırılır?",
+        "options": [
+          "FIBTEM",
+          "HEPTEM",
+          "EXTEM",
+          "APTEM"
+        ],
+        "correct": 1,
+        "explanation": "HEPTEM heparinaz içeren INTEM'dir; iki test arasındaki fark heparin etkisini değerlendirmeye yardım eder.",
+        "source": "Asian J Transfus Sci 2025: ROTEM"
+      }
+    },
+    {
+      "title": "Hemofili B hangi faktör eksikliğiyle ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-08ikwr6",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hemofili B hangi faktör eksikliğiyle ilişkilidir?",
+        "options": [
+          "Faktör VIII",
+          "Faktör XI",
+          "Faktör IX",
+          "Faktör XIII"
+        ],
+        "correct": 2,
+        "explanation": "Hemofili B, Christmas hastalığı, faktör IX eksikliğidir.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "D-dimerin kaynağı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0282hx6",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "D-dimerin kaynağı hangisidir?",
+        "options": [
+          "Yeni trombinin sentezi",
+          "Trombositlerin üretimi",
+          "Kalsiyumun bağlanması",
+          "Çapraz bağlı fibrinin yıkımı"
+        ],
+        "correct": 3,
+        "explanation": "D-dimer, çapraz bağlı fibrinin plazminle yıkılmasıyla oluşur.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Hemofili A, faktör IX eksikliğidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-05c5hkr",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Hemofili A, faktör IX eksikliğidir.",
+        "isTrue": false,
+        "explanation": "Hemofili A faktör VIII eksikliğidir; faktör IX eksikliği hemofili B'dir.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Prostasiklin trombosit agregasyonunu inhibe eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-11x2kys",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Prostasiklin trombosit agregasyonunu inhibe eder.",
+        "isTrue": true,
+        "explanation": "Prostasiklin ve tromboksan dengesi trombosit aktivasyonunun yerel tutulmasına katkı sağlar.",
+        "source": "Indian J Anaesth 2014: hemostaz"
+      }
+    },
+    {
+      "title": "Reptilaz zamanı heparin etkisiyle uzar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1510ioo",
+        "course": "PER243",
+        "topic": "Hemostaz ve pıhtılaşma testleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Reptilaz zamanı heparin etkisiyle uzar.",
+        "isTrue": false,
+        "explanation": "Reptilaz zamanı heparinden etkilenmez; trombin zamanı ise heparinle uzayabilir.",
+        "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-0yp5i92",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Hemostaz",
+      "en": "Hemostasis",
+      "definition": "Kanamanın durdurulması; trombosit tıkacı, pıhtılaşma ve fibrinoliz dengesi.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1g7k15t",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Primer hemostaz",
+      "en": "Primary hemostasis",
+      "definition": "Vazospazm ve trombosit adezyon-agregasyonuyla trombosit tıkacı oluşumu.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-12bwyfd",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Sekonder hemostaz",
+      "en": "Secondary hemostasis",
+      "definition": "Pıhtılaşma kaskadıyla fibrin oluşumu ve tıkacın sağlamlaştırılması.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-017juok",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Trombosit",
+      "en": "Platelet (thrombocyte)",
+      "definition": "Megakaryositlerden türeyen çekirdeksiz hücre parçası; primer hemostazın temel unsuru.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1jrhb8q",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 1,
+      "term": "von Willebrand faktörü",
+      "en": "von Willebrand factor",
+      "definition": "Trombositleri GPIb ile subendotel kollajene bağlayan ve FVIII'i taşıyan glikoprotein.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1fnudqf",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 1,
+      "term": "GP IIb/IIIa",
+      "en": "Glycoprotein IIb/IIIa",
+      "definition": "Fibrinojen aracılığıyla trombositleri birbirine bağlayan agregasyon reseptörü.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0b2azsq",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Doku faktörü",
+      "en": "Tissue factor",
+      "definition": "Subendotelde bulunan, in vivo pıhtılaşmanın ana başlatıcısı.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1o75sno",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Ekstrinsik yol",
+      "en": "Extrinsic pathway",
+      "definition": "Doku faktörü–FVIIa ile FX'in aktive edildiği yol; PT ile değerlendirilir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-06pirjo",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "İntrinsik yol",
+      "en": "Intrinsic pathway",
+      "definition": "FXII, FXI, FIX ve FVIII aracılığıyla FX aktivasyonu; aPTT ve ACT ile değerlendirilir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0y87zws",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Ortak yol",
+      "en": "Common pathway",
+      "definition": "FXa–FVa (protrombinaz) ile trombin ve fibrin oluşumu.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0k0sw67",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Hücre temelli pıhtılaşma modeli",
+      "en": "Cell-based model",
+      "definition": "Pıhtılaşmanın hücre yüzeyinde başlatma, amplifikasyon, yayılım ve stabilizasyon evreleriyle açıklanması.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1ythmh8",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Trombin",
+      "en": "Thrombin",
+      "definition": "Fibrinojeni fibrine çeviren, FV, FVIII, FXIII ve trombositleri aktive eden merkezi enzim.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1skulz1",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Fibrinojen",
+      "en": "Fibrinogen",
+      "definition": "Karaciğerde üretilen, trombin etkisiyle fibrine dönüşen çözünür plazma proteini; pıhtı sağlamlığına katkı sağlar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1k3p3ko",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Faktör XIII",
+      "en": "Factor XIII (fibrin-stabilizing factor)",
+      "definition": "Fibrin polimerlerini çapraz bağlayarak pıhtıyı stabilize eden faktör.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1lctts8",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Labil faktörler",
+      "en": "Labile factors (FV, FVIII)",
+      "definition": "Depolanmış kanda aktivitesini hızla kaybeden faktörler.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-07c6hx0",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 1,
+      "term": "K vitaminine bağımlı faktörler",
+      "en": "Vitamin K-dependent factors",
+      "definition": "γ-karboksilasyon gerektiren FII, FVII, FIX, FX ile protein C ve S.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0sm8wre",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Protein C / Protein S",
+      "en": "Protein C / Protein S",
+      "definition": "Aktive protein C, protein S kofaktörüyle FVa ve FVIIIa'yı inaktive eder.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1h5awf4",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "TFPI",
+      "en": "Tissue factor pathway inhibitor",
+      "definition": "Doku faktörü–FVIIa kompleksini inhibe eden doğal antikoagülan.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1nwlf7b",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Fibrinoliz",
+      "en": "Fibrinolysis",
+      "definition": "Plazminin fibrini yıkım ürünlerine parçalaması.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0r5qn6z",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "PAI-1",
+      "en": "Plasminogen activator inhibitor-1",
+      "definition": "tPA ve uPA'yı geri dönüşsüz inhibe eden ana fizyolojik fibrinoliz inhibitörü.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1nnjhl3",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 2,
+      "term": "D-dimer",
+      "en": "D-dimer",
+      "definition": "Çapraz bağlı fibrinin yıkım ürünü; fibrinolizin özgül göstergesi.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0l5kpcf",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "PT / INR",
+      "en": "Prothrombin time / INR",
+      "definition": "Ekstrinsik ve ortak pıhtılaşma yollarını değerlendiren test ve bunun standartlaştırılmış oranı; varfarin etkisinin izleminde kullanılır.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-1a890hk",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "aPTT",
+      "en": "Activated partial thromboplastin time",
+      "definition": "Plazmada intrinsik ve ortak pıhtılaşma yollarını değerlendiren aktive parsiyel tromboplastin zamanı testi.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-0b8yhjd",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "TEG / ROTEM",
+      "en": "Thromboelastography / rotational thromboelastometry",
+      "definition": "Tam kanda pıhtı oluşumunu, sağlamlığını ve lizisini grafikle gösteren viskoelastik testler.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-0iyr0xg",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 1,
+      "term": "MA / MCF",
+      "en": "Maximum amplitude / maximum clot firmness",
+      "definition": "TEG'de (MA) ve ROTEM'de (MCF) pıhtının ulaştığı en yüksek sağlamlık; trombosit ve fibrinojene bağlı.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-1c2rizk",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "FIBTEM",
+      "en": "FIBTEM",
+      "definition": "Trombositleri sitokalasin D ile inhibe ederek fibrinojenin pıhtıya katkısını gösteren ROTEM testi.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "id": "PER243-0y3aj1g",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "term",
+      "importance": 3,
+      "term": "HEPTEM",
+      "en": "HEPTEM",
+      "definition": "Heparinaz eklenmiş INTEM; INTEM ile karşılaştırılarak heparin etkisi/rebound saptanır.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "id": "PER243-0j8xbgl",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "compare",
+      "importance": 2,
+      "title": "Antikoagülasyon izlem testleri",
+      "left": {
+        "title": "aPTT",
+        "points": [
+          "Plazmada laboratuvar testi",
+          "Daha düşük heparin düzeylerinde kullanılır"
+        ]
+      },
+      "right": {
+        "title": "ACT",
+        "points": [
+          "Tam kanda yatak başı testi",
+          "KPB'de yüksek heparin etkisini izler"
+        ]
+      },
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-11e237e",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "compare",
+      "importance": 2,
+      "title": "Pıhtılaşma yolları",
+      "left": {
+        "title": "Ekstrinsik yol",
+        "points": [
+          "Doku faktörü–FVIIa ile başlar",
+          "PT ile değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "İntrinsik yol",
+        "points": [
+          "Kontakt aktivasyonla başlayan yol",
+          "aPTT ile değerlendirilir"
+        ]
+      },
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0i464ed",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Faktör adında aktif form",
+      "body": "Pıhtılaşma faktörlerinin aktive biçimi **a ekiyle** gösterilir; örneğin faktör IIa trombindir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-00ppaaq",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Trombosit sayısı ve fonksiyonu",
+      "body": "Trombosit sayımı **trombosit fonksiyonunu ölçmez**. Normal sayı, primer hemostaz işlevinin normal olduğunu tek başına göstermez.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-07qg132",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hücre yüzeyinde trombin patlaması",
+      "body": "Hücre temelli modelin yayılım evresinde trombosit yüzeyindeki tenaz ve protrombinaz kompleksleri **çok miktarda trombin** oluşturur.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0m8smqc",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "TEG ve ROTEM aralıkları",
+      "body": "Viskoelastik testlerin referans aralıkları **cihaz ve teste özgüdür**; farklı cihaz değerleri birbirine doğrudan aktarılmaz.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    },
+    {
+      "id": "PER243-1jrbxaq",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Glanzmann trombastenisinde hangi trombosit reseptörü etkilenir?",
+      "answer": "**GPIIb/IIIa** eksikliği veya işlev bozukluğu, fibrinojen aracılı trombosit agregasyonunu bozar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0ksdc29",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "flip",
+      "importance": 1,
+      "question": "Bernard-Soulier sendromunda hangi reseptör eksiktir?",
+      "answer": "**GPIb** eksikliği, von Willebrand faktörü aracılı trombosit adezyonunu bozar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0tq7xrp",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "FIBTEM trombosit katkısını nasıl ayırır?",
+      "answer": "**Sitokalasin D ile trombositleri inhibe eder**; fibrinojenin pıhtı sağlamlığına katkısı değerlendirilir.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "id": "PER243-1u1hbbn",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "APTEM ile EXTEM karşılaştırması hangi süreci tanımaya yardım eder?",
+      "answer": "Antifibrinolitik eklenmiş testle karşılaştırma **hiperfibrinolizi** tanımaya yardım eder.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "id": "PER243-1bvez66",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fibrinojeni fibrine dönüştüren enzim hangisidir?",
+      "options": [
+        "Plazmin",
+        "Antitrombin",
+        "PAI-1",
+        "Trombin"
+      ],
+      "correct": 3,
+      "explanation": "Trombin fibrinojenden fibrin oluşmasını sağlar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0quet04",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fibrin polimerlerini çapraz bağlayan faktör hangisidir?",
+      "options": [
+        "Faktör XIII",
+        "Faktör VII",
+        "Faktör IX",
+        "Faktör XII"
+      ],
+      "correct": 0,
+      "explanation": "Aktive faktör XIII fibrin zincirlerini kovalent çapraz bağlarla sağlamlaştırır.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1h776zu",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Heparin etkisini ayırmak için INTEM ile hangi ROTEM testi karşılaştırılır?",
+      "options": [
+        "FIBTEM",
+        "HEPTEM",
+        "EXTEM",
+        "APTEM"
+      ],
+      "correct": 1,
+      "explanation": "HEPTEM heparinaz içeren INTEM'dir; iki test arasındaki fark heparin etkisini değerlendirmeye yardım eder.",
+      "source": "Asian J Transfus Sci 2025: ROTEM"
+    },
+    {
+      "id": "PER243-08ikwr6",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hemofili B hangi faktör eksikliğiyle ilişkilidir?",
+      "options": [
+        "Faktör VIII",
+        "Faktör XI",
+        "Faktör IX",
+        "Faktör XIII"
+      ],
+      "correct": 2,
+      "explanation": "Hemofili B, Christmas hastalığı, faktör IX eksikliğidir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-0282hx6",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "D-dimerin kaynağı hangisidir?",
+      "options": [
+        "Yeni trombinin sentezi",
+        "Trombositlerin üretimi",
+        "Kalsiyumun bağlanması",
+        "Çapraz bağlı fibrinin yıkımı"
+      ],
+      "correct": 3,
+      "explanation": "D-dimer, çapraz bağlı fibrinin plazminle yıkılmasıyla oluşur.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-05c5hkr",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Hemofili A, faktör IX eksikliğidir.",
+      "isTrue": false,
+      "explanation": "Hemofili A faktör VIII eksikliğidir; faktör IX eksikliği hemofili B'dir.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-11x2kys",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Prostasiklin trombosit agregasyonunu inhibe eder.",
+      "isTrue": true,
+      "explanation": "Prostasiklin ve tromboksan dengesi trombosit aktivasyonunun yerel tutulmasına katkı sağlar.",
+      "source": "Indian J Anaesth 2014: hemostaz"
+    },
+    {
+      "id": "PER243-1510ioo",
+      "course": "PER243",
+      "topic": "Hemostaz ve pıhtılaşma testleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Reptilaz zamanı heparin etkisiyle uzar.",
+      "isTrue": false,
+      "explanation": "Reptilaz zamanı heparinden etkilenmez; trombin zamanı ise heparinle uzayabilir.",
+      "source": "Indian J Anaesth 2014: pıhtılaşma testleri"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

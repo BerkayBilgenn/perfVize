@@ -1,0 +1,595 @@
+{
+  "id": "review-481ebca12e114561",
+  "title": "Koroner arter cerrahisi (KABG)",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "KABG",
+      "text": "CABG (coronary artery bypass grafting)\nKoroner darlığın distaline arteriyel/venöz greftle kan akımı sağlayan ameliyat.",
+      "images": [],
+      "card": {
+        "id": "PER245-130dtz2",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "term",
+        "importance": 2,
+        "term": "KABG",
+        "en": "CABG (coronary artery bypass grafting)",
+        "definition": "Koroner darlığın distaline arteriyel/venöz greftle kan akımı sağlayan ameliyat.",
+        "source": "KABG, BMC 2026"
+      }
+    },
+    {
+      "title": "LIMA / LITA",
+      "text": "Left internal mammary/thoracic artery\nKoroner baypasta kullanılan sol internal torasik arter.",
+      "images": [],
+      "card": {
+        "id": "PER245-0e03lp7",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "term",
+        "importance": 2,
+        "term": "LIMA / LITA",
+        "en": "Left internal mammary/thoracic artery",
+        "definition": "Koroner baypasta kullanılan sol internal torasik arter.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Safen ven grefti (SVG)",
+      "text": "Saphenous vein graft\nBacaktaki safen venden alınarak koroner darlığın distalini beslemek için kullanılan venöz greft.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ell2dp",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "term",
+        "importance": 1,
+        "term": "Safen ven grefti (SVG)",
+        "en": "Saphenous vein graft",
+        "definition": "Bacaktaki safen venden alınarak koroner darlığın distalini beslemek için kullanılan venöz greft.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Rekabetçi akım",
+      "text": "Competitive flow\nHedef damar darlığı hafifse doğal akımın greftle yarışıp greft açıklığını azaltması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1tjbb8b",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "term",
+        "importance": 3,
+        "term": "Rekabetçi akım",
+        "en": "Competitive flow",
+        "definition": "Hedef damar darlığı hafifse doğal akımın greftle yarışıp greft açıklığını azaltması.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Aorta dokunmama (no-touch)",
+      "text": "Aortic no-touch technique\nKalsifik aortada klemp/kanül kullanmadan yapılan OPCAB stratejisi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0983efp",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "term",
+        "importance": 2,
+        "term": "Aorta dokunmama (no-touch)",
+        "en": "Aortic no-touch technique",
+        "definition": "Kalsifik aortada klemp/kanül kullanmadan yapılan OPCAB stratejisi.",
+        "source": "KABG, BMC 2026"
+      }
+    },
+    {
+      "title": "Epiaortik ultrason",
+      "text": "Epiaortic ultrasound\nKanülasyon/klemp öncesi çıkan aortadaki plakların doğrudan ultrasonla taranması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1ujz4eh",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "term",
+        "importance": 2,
+        "term": "Epiaortik ultrason",
+        "en": "Epiaortic ultrasound",
+        "definition": "Kanülasyon/klemp öncesi çıkan aortadaki plakların doğrudan ultrasonla taranması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Greftin distal hedefi",
+      "text": "Koroner baypasın hedefi darlığın distalindeki miyokarda kan ulaştırmaktır; greft seçimi ve hedef damar değerlendirmesi birlikte yapılır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0k7g3yo",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "fact",
+        "importance": 2,
+        "title": "Greftin distal hedefi",
+        "body": "Koroner baypasın hedefi darlığın distalindeki miyokarda kan ulaştırmaktır; greft seçimi ve hedef damar değerlendirmesi birlikte yapılır.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Arteriyel greftte rekabet",
+      "text": "Hedef koroner darlığı hafif olduğunda nativ damar akımı greft akımıyla rekabet edebilir; bu durum greft açıklığını olumsuz etkileyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1hxc61v",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arteriyel greftte rekabet",
+        "body": "Hedef koroner darlığı hafif olduğunda nativ damar akımı greft akımıyla rekabet edebilir; bu durum greft açıklığını olumsuz etkileyebilir.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "OPCAB'da cerrahi alan",
+      "text": "Atan kalpte baypasta mekanik stabilizatör ve kalp pozisyonlayıcıları kullanılır; hareketsiz alan kalbin tamamen durdurulmasıyla sağlanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-082thgj",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "fact",
+        "importance": 2,
+        "title": "OPCAB'da cerrahi alan",
+        "body": "Atan kalpte baypasta mekanik stabilizatör ve kalp pozisyonlayıcıları kullanılır; hareketsiz alan kalbin tamamen durdurulmasıyla sağlanmaz.",
+        "source": "KABG, BMC 2026"
+      }
+    },
+    {
+      "title": "Koroner tıkanıklık ve dağılım",
+      "text": "Koroner obstrüksiyon antegrad kardiyoplejinin tüm bölgelere ulaşmasını sınırlayabilir; bu nedenle ek uygulama yolu planlanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-19gxhac",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "fact",
+        "importance": 2,
+        "title": "Koroner tıkanıklık ve dağılım",
+        "body": "Koroner obstrüksiyon antegrad kardiyoplejinin tüm bölgelere ulaşmasını sınırlayabilir; bu nedenle ek uygulama yolu planlanabilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Epiaortik değerlendirme",
+      "text": "Epiaortik ultrason, çıkan aortada kanül veya klemp yerini etkileyebilecek plakları değerlendirmek için kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0py8x2x",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "fact",
+        "importance": 2,
+        "title": "Epiaortik değerlendirme",
+        "body": "Epiaortik ultrason, çıkan aortada kanül veya klemp yerini etkileyebilecek plakları değerlendirmek için kullanılabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KABG'de iki kademeli venöz kanül hangi cerrahi özellik nedeniyle sık kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0agl3s5",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "flip",
+        "importance": 2,
+        "question": "KABG'de iki kademeli venöz kanül hangi cerrahi özellik nedeniyle sık kullanılır?",
+        "answer": "Kalp boşluklarının genellikle açılmaması; tek kavoatriyal kanül venöz dönüşü toplayabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Koroner baypas greftleri hangi iki ana doku grubundan seçilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1w8jux9",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "flip",
+        "importance": 2,
+        "question": "Koroner baypas greftleri hangi iki ana doku grubundan seçilir?",
+        "answer": "Arteriyel greftler ve venöz greftler; hedef damar ve hasta özellikleri seçimde değerlendirilir.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Aortaya dokunmama yaklaşımının kalsifik aortadaki amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1qvtq79",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "flip",
+        "importance": 2,
+        "question": "Aortaya dokunmama yaklaşımının kalsifik aortadaki amacı nedir?",
+        "answer": "Aort üzerindeki klemp ve diğer manipülasyonları azaltarak emboli riskini sınırlamak.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "LIMA greftinin sık kullanılan koroner hedefi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1uplx89",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "mcq",
+        "importance": 3,
+        "question": "LIMA greftinin sık kullanılan koroner hedefi hangisidir?",
+        "options": [
+          "LAD",
+          "Sağ marjinal arter",
+          "Arka inen arter",
+          "Sirkumfleks arter"
+        ],
+        "correct": 0,
+        "explanation": "LIMA–LAD bağlantısı koroner baypasta temel arteriyel greft stratejilerindendir.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Koroner baypasta arteriyel greft olarak kullanılan damar hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1e6w18l",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Koroner baypasta arteriyel greft olarak kullanılan damar hangisidir?",
+        "options": [
+          "Büyük safen ven",
+          "Radial arter",
+          "Küçük safen ven",
+          "Sefalik ven"
+        ],
+        "correct": 1,
+        "explanation": "Radial arter arteriyel grefttir; diğer seçenekler vendir.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "Koroner greftte spazma eğilimi özellikle hangi damarda dikkate alınır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-18c3nvd",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Koroner greftte spazma eğilimi özellikle hangi damarda dikkate alınır?",
+        "options": [
+          "Sol internal torasik arter",
+          "Sağ internal torasik arter",
+          "Radial arter",
+          "Safen ven"
+        ],
+        "correct": 2,
+        "explanation": "Radial arterin spazma eğilimi greft seçimi ve perioperatif yönetimde değerlendirilir.",
+        "source": "Arteriyel greftler, Ann CTS"
+      }
+    },
+    {
+      "title": "KPB kullanılmadan yapılan koroner baypası ifade eden kısaltma hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0buv0ab",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KPB kullanılmadan yapılan koroner baypası ifade eden kısaltma hangisidir?",
+        "options": [
+          "KABG",
+          "MiECC",
+          "DHCA",
+          "OPCAB"
+        ],
+        "correct": 3,
+        "explanation": "OPCAB off-pump koroner baypastır; MiECC hâlâ ekstrakorporeal devre kullanan yöntemdir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Off-pump koroner baypasta intrakoroner şant kullanılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-031aim3",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Off-pump koroner baypasta intrakoroner şant kullanılabilir.",
+        "isTrue": true,
+        "explanation": "İşlem sırasında hedef damarın distal akımını sürdürmek için intrakoroner şant seçilebilir.",
+        "source": "KABG, BMC 2026"
+      }
+    },
+    {
+      "title": "On-pump koroner baypas terimi KPB kullanılmayan ameliyatı ifade eder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1lyyji6",
+        "course": "PER245",
+        "topic": "Koroner arter cerrahisi (KABG)",
+        "type": "tf",
+        "importance": 2,
+        "statement": "On-pump koroner baypas terimi KPB kullanılmayan ameliyatı ifade eder.",
+        "isTrue": false,
+        "explanation": "On-pump yaklaşım KPB kullanır; KPB kullanılmayan yaklaşım OPCAB'dır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-130dtz2",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "term",
+      "importance": 2,
+      "term": "KABG",
+      "en": "CABG (coronary artery bypass grafting)",
+      "definition": "Koroner darlığın distaline arteriyel/venöz greftle kan akımı sağlayan ameliyat.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "id": "PER245-0e03lp7",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "term",
+      "importance": 2,
+      "term": "LIMA / LITA",
+      "en": "Left internal mammary/thoracic artery",
+      "definition": "Koroner baypasta kullanılan sol internal torasik arter.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-0ell2dp",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "term",
+      "importance": 1,
+      "term": "Safen ven grefti (SVG)",
+      "en": "Saphenous vein graft",
+      "definition": "Bacaktaki safen venden alınarak koroner darlığın distalini beslemek için kullanılan venöz greft.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-1tjbb8b",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "term",
+      "importance": 3,
+      "term": "Rekabetçi akım",
+      "en": "Competitive flow",
+      "definition": "Hedef damar darlığı hafifse doğal akımın greftle yarışıp greft açıklığını azaltması.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-0983efp",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "term",
+      "importance": 2,
+      "term": "Aorta dokunmama (no-touch)",
+      "en": "Aortic no-touch technique",
+      "definition": "Kalsifik aortada klemp/kanül kullanmadan yapılan OPCAB stratejisi.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "id": "PER245-1ujz4eh",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "term",
+      "importance": 2,
+      "term": "Epiaortik ultrason",
+      "en": "Epiaortic ultrasound",
+      "definition": "Kanülasyon/klemp öncesi çıkan aortadaki plakların doğrudan ultrasonla taranması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0k7g3yo",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "fact",
+      "importance": 2,
+      "title": "Greftin distal hedefi",
+      "body": "Koroner baypasın hedefi darlığın distalindeki miyokarda kan ulaştırmaktır; greft seçimi ve hedef damar değerlendirmesi birlikte yapılır.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-1hxc61v",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel greftte rekabet",
+      "body": "Hedef koroner darlığı hafif olduğunda nativ damar akımı greft akımıyla rekabet edebilir; bu durum greft açıklığını olumsuz etkileyebilir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-082thgj",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "fact",
+      "importance": 2,
+      "title": "OPCAB'da cerrahi alan",
+      "body": "Atan kalpte baypasta mekanik stabilizatör ve kalp pozisyonlayıcıları kullanılır; hareketsiz alan kalbin tamamen durdurulmasıyla sağlanmaz.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "id": "PER245-19gxhac",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "fact",
+      "importance": 2,
+      "title": "Koroner tıkanıklık ve dağılım",
+      "body": "Koroner obstrüksiyon antegrad kardiyoplejinin tüm bölgelere ulaşmasını sınırlayabilir; bu nedenle ek uygulama yolu planlanabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0py8x2x",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "fact",
+      "importance": 2,
+      "title": "Epiaortik değerlendirme",
+      "body": "Epiaortik ultrason, çıkan aortada kanül veya klemp yerini etkileyebilecek plakları değerlendirmek için kullanılabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0agl3s5",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "flip",
+      "importance": 2,
+      "question": "KABG'de iki kademeli venöz kanül hangi cerrahi özellik nedeniyle sık kullanılır?",
+      "answer": "Kalp boşluklarının genellikle açılmaması; tek kavoatriyal kanül venöz dönüşü toplayabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1w8jux9",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "flip",
+      "importance": 2,
+      "question": "Koroner baypas greftleri hangi iki ana doku grubundan seçilir?",
+      "answer": "Arteriyel greftler ve venöz greftler; hedef damar ve hasta özellikleri seçimde değerlendirilir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-1qvtq79",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "flip",
+      "importance": 2,
+      "question": "Aortaya dokunmama yaklaşımının kalsifik aortadaki amacı nedir?",
+      "answer": "Aort üzerindeki klemp ve diğer manipülasyonları azaltarak emboli riskini sınırlamak.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1uplx89",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "mcq",
+      "importance": 3,
+      "question": "LIMA greftinin sık kullanılan koroner hedefi hangisidir?",
+      "options": [
+        "LAD",
+        "Sağ marjinal arter",
+        "Arka inen arter",
+        "Sirkumfleks arter"
+      ],
+      "correct": 0,
+      "explanation": "LIMA–LAD bağlantısı koroner baypasta temel arteriyel greft stratejilerindendir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-1e6w18l",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Koroner baypasta arteriyel greft olarak kullanılan damar hangisidir?",
+      "options": [
+        "Büyük safen ven",
+        "Radial arter",
+        "Küçük safen ven",
+        "Sefalik ven"
+      ],
+      "correct": 1,
+      "explanation": "Radial arter arteriyel grefttir; diğer seçenekler vendir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-18c3nvd",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Koroner greftte spazma eğilimi özellikle hangi damarda dikkate alınır?",
+      "options": [
+        "Sol internal torasik arter",
+        "Sağ internal torasik arter",
+        "Radial arter",
+        "Safen ven"
+      ],
+      "correct": 2,
+      "explanation": "Radial arterin spazma eğilimi greft seçimi ve perioperatif yönetimde değerlendirilir.",
+      "source": "Arteriyel greftler, Ann CTS"
+    },
+    {
+      "id": "PER245-0buv0ab",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB kullanılmadan yapılan koroner baypası ifade eden kısaltma hangisidir?",
+      "options": [
+        "KABG",
+        "MiECC",
+        "DHCA",
+        "OPCAB"
+      ],
+      "correct": 3,
+      "explanation": "OPCAB off-pump koroner baypastır; MiECC hâlâ ekstrakorporeal devre kullanan yöntemdir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-031aim3",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Off-pump koroner baypasta intrakoroner şant kullanılabilir.",
+      "isTrue": true,
+      "explanation": "İşlem sırasında hedef damarın distal akımını sürdürmek için intrakoroner şant seçilebilir.",
+      "source": "KABG, BMC 2026"
+    },
+    {
+      "id": "PER245-1lyyji6",
+      "course": "PER245",
+      "topic": "Koroner arter cerrahisi (KABG)",
+      "type": "tf",
+      "importance": 2,
+      "statement": "On-pump koroner baypas terimi KPB kullanılmayan ameliyatı ifade eder.",
+      "isTrue": false,
+      "explanation": "On-pump yaklaşım KPB kullanır; KPB kullanılmayan yaklaşım OPCAB'dır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

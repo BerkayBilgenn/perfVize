@@ -1,0 +1,722 @@
+{
+  "id": "review-023e8400266d30f6",
+  "title": "Kalbin ileti sistemi",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Krista terminalis",
+      "text": "Crista terminalis\nSağ atriyumun düz (sinus venarum) ve pektinat kaslı kısımlarını ayıran kabartı.",
+      "images": [],
+      "card": {
+        "id": "PER245-1mjio1x",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "Krista terminalis",
+        "en": "Crista terminalis",
+        "definition": "Sağ atriyumun düz (sinus venarum) ve pektinat kaslı kısımlarını ayıran kabartı.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Sinoatriyal (SA) düğüm",
+      "text": "Sinoatrial node\nÜst vena kava–sağ atriyum bileşkesinde kendiliğinden uyarı üreten, normal kalp ritminin başlıca kaynağı olan hücre topluluğu.",
+      "images": [],
+      "card": {
+        "id": "PER245-14s4oop",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 3,
+        "term": "Sinoatriyal (SA) düğüm",
+        "en": "Sinoatrial node",
+        "definition": "Üst vena kava–sağ atriyum bileşkesinde kendiliğinden uyarı üreten, normal kalp ritminin başlıca kaynağı olan hücre topluluğu.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Atriyoventriküler (AV) düğüm",
+      "text": "Atrioventricular node\nAtriyal uyarıyı ventriküllere geçmeden geciktiren, atriyumların boşalmasına zaman tanıyan ileti yapısı.",
+      "images": [],
+      "card": {
+        "id": "PER245-1wg9rat",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "Atriyoventriküler (AV) düğüm",
+        "en": "Atrioventricular node",
+        "definition": "Atriyal uyarıyı ventriküllere geçmeden geciktiren, atriyumların boşalmasına zaman tanıyan ileti yapısı.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "His demeti",
+      "text": "Bundle of His\nAV düğümden membranöz septuma inip sağ ve sol dallara ayrılan ileti demeti.",
+      "images": [],
+      "card": {
+        "id": "PER245-1p2dmwf",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "His demeti",
+        "en": "Bundle of His",
+        "definition": "AV düğümden membranöz septuma inip sağ ve sol dallara ayrılan ileti demeti.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Purkinje lifleri",
+      "text": "Purkinje fibres\nVentrikül subendokardındaki, glikojenden zengin, hızlı ileten hücre ağı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0qrx7b2",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "Purkinje lifleri",
+        "en": "Purkinje fibres",
+        "definition": "Ventrikül subendokardındaki, glikojenden zengin, hızlı ileten hücre ağı.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Koch üçgeni",
+      "text": "Triangle of Koch\nKoroner sinüs ostiumu, Todaro tendonu ve triküspit septal yaprakçık hattının sınırladığı, tepesinde AV düğümün bulunduğu alan.",
+      "images": [],
+      "card": {
+        "id": "PER245-1hlfstk",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 3,
+        "term": "Koch üçgeni",
+        "en": "Triangle of Koch",
+        "definition": "Koroner sinüs ostiumu, Todaro tendonu ve triküspit septal yaprakçık hattının sınırladığı, tepesinde AV düğümün bulunduğu alan.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "WPW sendromu",
+      "text": "Wolff-Parkinson-White syndrome\nAksesuar atriyoventriküler ileti yoluna bağlı ventriküler preeksitasyonun taşiaritmiyle birlikte bulunduğu sendrom.",
+      "images": [],
+      "card": {
+        "id": "PER245-1qhc6pe",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "WPW sendromu",
+        "en": "Wolff-Parkinson-White syndrome",
+        "definition": "Aksesuar atriyoventriküler ileti yoluna bağlı ventriküler preeksitasyonun taşiaritmiyle birlikte bulunduğu sendrom.",
+        "source": "Konjenital ilişkiler, Europe PMC"
+      }
+    },
+    {
+      "title": "Aksesuar ileti yolu",
+      "text": "Atriyumlarla ventriküller arasında normal AV düğüm yoluna ek elektriksel bağlantı.",
+      "images": [],
+      "card": {
+        "id": "PER245-132gxas",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "Aksesuar ileti yolu",
+        "definition": "Atriyumlarla ventriküller arasında normal AV düğüm yoluna ek elektriksel bağlantı.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Epikardiyal pace teli",
+      "text": "Kalbin dış yüzeyine yerleştirilen ve ameliyat sonrası geçici elektriksel uyarı vermeye yarayan tel.",
+      "images": [],
+      "card": {
+        "id": "PER245-0c2vuez",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "Epikardiyal pace teli",
+        "definition": "Kalbin dış yüzeyine yerleştirilen ve ameliyat sonrası geçici elektriksel uyarı vermeye yarayan tel.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Atriyoventriküler blok",
+      "text": "Atriyumdan ventriküle elektriksel iletimin gecikmesi veya kesilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-02uwzmx",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "term",
+        "importance": 2,
+        "term": "Atriyoventriküler blok",
+        "definition": "Atriyumdan ventriküle elektriksel iletimin gecikmesi veya kesilmesi.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "İletinin olağan sırası",
+      "text": "Uyarı SA düğümden atriyal miyokarda, AV düğüme, His demetine, sağ-sol dallara ve Purkinje ağına yayılır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1f1tbwi",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "title": "İletinin olağan sırası",
+        "body": "Uyarı SA düğümden atriyal miyokarda, AV düğüme, His demetine, sağ-sol dallara ve Purkinje ağına yayılır.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Otonom etki",
+      "text": "Sempatik aktivite SA düğüm hızını artırır; parasempatik aktivite azaltır. Kalp hızı yalnızca düğümün anatomik varlığına bağlı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1sq5u6f",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Otonom etki",
+        "body": "Sempatik aktivite SA düğüm hızını artırır; parasempatik aktivite azaltır. Kalp hızı yalnızca düğümün anatomik varlığına bağlı değildir.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Septal onarımın riski",
+      "text": "Perimembranöz ve inlet septal defektler ileti yapılarına yakın olabilir. Onarım sırasında ileti sistemini korumak AV blok açısından önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1sfzqor",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Septal onarımın riski",
+        "body": "Perimembranöz ve inlet septal defektler ileti yapılarına yakın olabilir. Onarım sırasında ileti sistemini korumak AV blok açısından önemlidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Primum ASD ve ileti",
+      "text": "Primum atriyal septal defektte AV düğüm ve His demetinin yerleşimi değişebilir; cerrahi planlama bu farklılığı dikkate alır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ah1y9e",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Primum ASD ve ileti",
+        "body": "Primum atriyal septal defektte AV düğüm ve His demetinin yerleşimi değişebilir; cerrahi planlama bu farklılığı dikkate alır.",
+        "source": "ASD, Biomedicines 2025"
+      }
+    },
+    {
+      "title": "Atriyotomi yaklaşımı",
+      "text": "Sağ atriyum açılırken SA düğüm ve krista terminalis bölgesinden kaçınmak, ameliyat sonrası ritim sorunlarını sınırlamak için önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0l4k2kl",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Atriyotomi yaklaşımı",
+        "body": "Sağ atriyum açılırken SA düğüm ve krista terminalis bölgesinden kaçınmak, ameliyat sonrası ritim sorunlarını sınırlamak için önemlidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Purkinje ağının hızlı iletimi ventrikül kasılmasına nasıl katkı sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1oygqvr",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Purkinje ağının hızlı iletimi ventrikül kasılmasına nasıl katkı sağlar?",
+        "answer": "Uyarıyı ventrikül miyokardına hızla dağıtarak kasılmanın zaman bakımından eşgüdümlü olmasına yardımcı olur.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Aort klempi kaldırıldıktan sonra kalp aktivitesinin gecikmesi hangi etkenlerle ilişkili olabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0tfzio8",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Aort klempi kaldırıldıktan sonra kalp aktivitesinin gecikmesi hangi etkenlerle ilişkili olabilir?",
+        "answer": "Yakın zamanda verilmiş kardiyopleji, yüksek potasyum veya koroner hava embolisi değerlendirilen etkenler arasındadır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "ccTGA'nın ileti açısından başlıca uzun dönem sorunu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0n4528v",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "flip",
+        "importance": 2,
+        "question": "ccTGA'nın ileti açısından başlıca uzun dönem sorunu nedir?",
+        "answer": "İlerleyici AV ileti bozukluğu ve tam kalp bloğu gelişme riski.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Koch bölgesini koru",
+      "text": "AV düğüm **Koch üçgeninin tepesindedir**; yakınındaki kapak ve septal cerrahide ileti sistemi korunmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1br5cwk",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Koch bölgesini koru",
+        "body": "AV düğüm **Koch üçgeninin tepesindedir**; yakınındaki kapak ve septal cerrahide ileti sistemi korunmalıdır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Normal ileti akışında AV düğümden hemen sonra hangi yapı yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0a9ukrz",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Normal ileti akışında AV düğümden hemen sonra hangi yapı yer alır?",
+        "options": [
+          "His demeti",
+          "SA düğüm",
+          "Atriyal miyokard",
+          "Purkinje ağı"
+        ],
+        "correct": 0,
+        "explanation": "AV düğümden çıkan uyarı His demetine, ardından sağ-sol dallara ve Purkinje ağına ilerler.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Atriyal uyarının ventriküle geçişini geciktiren yapı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1i8ux8b",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Atriyal uyarının ventriküle geçişini geciktiren yapı hangisidir?",
+        "options": [
+          "Purkinje lifleri",
+          "AV düğüm",
+          "Sağ dal",
+          "Sol dal"
+        ],
+        "correct": 1,
+        "explanation": "AV düğümün iletimi yavaşlatması atriyal boşalmaya zaman tanır.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Ventrikülde hızlı ileti ağı çoğunlukla hangi katmanda yerleşir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-15gz0ez",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Ventrikülde hızlı ileti ağı çoğunlukla hangi katmanda yerleşir?",
+        "options": [
+          "Epikardiyal yağ",
+          "Kapak fibroz halkası",
+          "Subendokardiyal bölge",
+          "Perikard boşluğu"
+        ],
+        "correct": 2,
+        "explanation": "Purkinje ağı subendokardiyal yerleşimiyle ventrikül miyokardına hızlı dağılım sağlar.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Doğal pacemaker topluluğu normal anatomide hangi bileşkede bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1potfpj",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Doğal pacemaker topluluğu normal anatomide hangi bileşkede bulunur?",
+        "options": [
+          "VCI–sol atriyum",
+          "Pulmoner ven–sağ atriyum",
+          "Koroner sinüs–sol ventrikül",
+          "VCS–sağ atriyum"
+        ],
+        "correct": 3,
+        "explanation": "SA düğüm superior vena kavanın sağ atriyuma girdiği bölge yakınındadır.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "His demeti sağ ve sol dallara ayrılarak ventriküler iletiyi sürdürür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0vspx8k",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "His demeti sağ ve sol dallara ayrılarak ventriküler iletiyi sürdürür.",
+        "isTrue": true,
+        "explanation": "Sağ ve sol dallar uyarıyı ilgili ventriküllerin Purkinje ağına taşır.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    },
+    {
+      "title": "Parasempatik aktivite SA düğümünün uyarı üretme hızını artırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0rsqdb3",
+        "course": "PER245",
+        "topic": "Kalbin ileti sistemi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Parasempatik aktivite SA düğümünün uyarı üretme hızını artırır.",
+        "isTrue": false,
+        "explanation": "Parasempatik etki hızı azaltır; sempatik etki artırır.",
+        "source": "OpenStax Anatomi ve Fizyoloji 2e"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-1mjio1x",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "Krista terminalis",
+      "en": "Crista terminalis",
+      "definition": "Sağ atriyumun düz (sinus venarum) ve pektinat kaslı kısımlarını ayıran kabartı.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-14s4oop",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 3,
+      "term": "Sinoatriyal (SA) düğüm",
+      "en": "Sinoatrial node",
+      "definition": "Üst vena kava–sağ atriyum bileşkesinde kendiliğinden uyarı üreten, normal kalp ritminin başlıca kaynağı olan hücre topluluğu.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1wg9rat",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "Atriyoventriküler (AV) düğüm",
+      "en": "Atrioventricular node",
+      "definition": "Atriyal uyarıyı ventriküllere geçmeden geciktiren, atriyumların boşalmasına zaman tanıyan ileti yapısı.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1p2dmwf",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "His demeti",
+      "en": "Bundle of His",
+      "definition": "AV düğümden membranöz septuma inip sağ ve sol dallara ayrılan ileti demeti.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-0qrx7b2",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "Purkinje lifleri",
+      "en": "Purkinje fibres",
+      "definition": "Ventrikül subendokardındaki, glikojenden zengin, hızlı ileten hücre ağı.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1hlfstk",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 3,
+      "term": "Koch üçgeni",
+      "en": "Triangle of Koch",
+      "definition": "Koroner sinüs ostiumu, Todaro tendonu ve triküspit septal yaprakçık hattının sınırladığı, tepesinde AV düğümün bulunduğu alan.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1qhc6pe",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "WPW sendromu",
+      "en": "Wolff-Parkinson-White syndrome",
+      "definition": "Aksesuar atriyoventriküler ileti yoluna bağlı ventriküler preeksitasyonun taşiaritmiyle birlikte bulunduğu sendrom.",
+      "source": "Konjenital ilişkiler, Europe PMC"
+    },
+    {
+      "id": "PER245-132gxas",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "Aksesuar ileti yolu",
+      "definition": "Atriyumlarla ventriküller arasında normal AV düğüm yoluna ek elektriksel bağlantı.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-0c2vuez",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "Epikardiyal pace teli",
+      "definition": "Kalbin dış yüzeyine yerleştirilen ve ameliyat sonrası geçici elektriksel uyarı vermeye yarayan tel.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-02uwzmx",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "term",
+      "importance": 2,
+      "term": "Atriyoventriküler blok",
+      "definition": "Atriyumdan ventriküle elektriksel iletimin gecikmesi veya kesilmesi.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1f1tbwi",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "title": "İletinin olağan sırası",
+      "body": "Uyarı SA düğümden atriyal miyokarda, AV düğüme, His demetine, sağ-sol dallara ve Purkinje ağına yayılır.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1sq5u6f",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Otonom etki",
+      "body": "Sempatik aktivite SA düğüm hızını artırır; parasempatik aktivite azaltır. Kalp hızı yalnızca düğümün anatomik varlığına bağlı değildir.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1sfzqor",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Septal onarımın riski",
+      "body": "Perimembranöz ve inlet septal defektler ileti yapılarına yakın olabilir. Onarım sırasında ileti sistemini korumak AV blok açısından önemlidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0ah1y9e",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Primum ASD ve ileti",
+      "body": "Primum atriyal septal defektte AV düğüm ve His demetinin yerleşimi değişebilir; cerrahi planlama bu farklılığı dikkate alır.",
+      "source": "ASD, Biomedicines 2025"
+    },
+    {
+      "id": "PER245-0l4k2kl",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Atriyotomi yaklaşımı",
+      "body": "Sağ atriyum açılırken SA düğüm ve krista terminalis bölgesinden kaçınmak, ameliyat sonrası ritim sorunlarını sınırlamak için önemlidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1oygqvr",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Purkinje ağının hızlı iletimi ventrikül kasılmasına nasıl katkı sağlar?",
+      "answer": "Uyarıyı ventrikül miyokardına hızla dağıtarak kasılmanın zaman bakımından eşgüdümlü olmasına yardımcı olur.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-0tfzio8",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Aort klempi kaldırıldıktan sonra kalp aktivitesinin gecikmesi hangi etkenlerle ilişkili olabilir?",
+      "answer": "Yakın zamanda verilmiş kardiyopleji, yüksek potasyum veya koroner hava embolisi değerlendirilen etkenler arasındadır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0n4528v",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "flip",
+      "importance": 2,
+      "question": "ccTGA'nın ileti açısından başlıca uzun dönem sorunu nedir?",
+      "answer": "İlerleyici AV ileti bozukluğu ve tam kalp bloğu gelişme riski.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1br5cwk",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Koch bölgesini koru",
+      "body": "AV düğüm **Koch üçgeninin tepesindedir**; yakınındaki kapak ve septal cerrahide ileti sistemi korunmalıdır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0a9ukrz",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Normal ileti akışında AV düğümden hemen sonra hangi yapı yer alır?",
+      "options": [
+        "His demeti",
+        "SA düğüm",
+        "Atriyal miyokard",
+        "Purkinje ağı"
+      ],
+      "correct": 0,
+      "explanation": "AV düğümden çıkan uyarı His demetine, ardından sağ-sol dallara ve Purkinje ağına ilerler.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1i8ux8b",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Atriyal uyarının ventriküle geçişini geciktiren yapı hangisidir?",
+      "options": [
+        "Purkinje lifleri",
+        "AV düğüm",
+        "Sağ dal",
+        "Sol dal"
+      ],
+      "correct": 1,
+      "explanation": "AV düğümün iletimi yavaşlatması atriyal boşalmaya zaman tanır.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-15gz0ez",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ventrikülde hızlı ileti ağı çoğunlukla hangi katmanda yerleşir?",
+      "options": [
+        "Epikardiyal yağ",
+        "Kapak fibroz halkası",
+        "Subendokardiyal bölge",
+        "Perikard boşluğu"
+      ],
+      "correct": 2,
+      "explanation": "Purkinje ağı subendokardiyal yerleşimiyle ventrikül miyokardına hızlı dağılım sağlar.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-1potfpj",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Doğal pacemaker topluluğu normal anatomide hangi bileşkede bulunur?",
+      "options": [
+        "VCI–sol atriyum",
+        "Pulmoner ven–sağ atriyum",
+        "Koroner sinüs–sol ventrikül",
+        "VCS–sağ atriyum"
+      ],
+      "correct": 3,
+      "explanation": "SA düğüm superior vena kavanın sağ atriyuma girdiği bölge yakınındadır.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-0vspx8k",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "His demeti sağ ve sol dallara ayrılarak ventriküler iletiyi sürdürür.",
+      "isTrue": true,
+      "explanation": "Sağ ve sol dallar uyarıyı ilgili ventriküllerin Purkinje ağına taşır.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    },
+    {
+      "id": "PER245-0rsqdb3",
+      "course": "PER245",
+      "topic": "Kalbin ileti sistemi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Parasempatik aktivite SA düğümünün uyarı üretme hızını artırır.",
+      "isTrue": false,
+      "explanation": "Parasempatik etki hızı azaltır; sempatik etki artırır.",
+      "source": "OpenStax Anatomi ve Fizyoloji 2e"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

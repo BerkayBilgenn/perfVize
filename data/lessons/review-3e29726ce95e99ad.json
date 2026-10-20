@@ -1,0 +1,636 @@
+{
+  "id": "review-3e29726ce95e99ad",
+  "title": "Şantlı KKH ve şant fizyolojisi",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Pulmoner vasküler direnç (PVR)",
+      "text": "Pulmonary vascular resistance\nPulmoner damar yatağının kan akımına karşı gösterdiği direnç.",
+      "images": [],
+      "card": {
+        "id": "PER245-10trmy5",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Pulmoner vasküler direnç (PVR)",
+        "en": "Pulmonary vascular resistance",
+        "definition": "Pulmoner damar yatağının kan akımına karşı gösterdiği direnç.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Soldan-sağa şant",
+      "text": "Oksijenlenmiş kanın sol kalp veya sistemik dolaşımdan sağ kalp veya pulmoner dolaşıma geçmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0fa234j",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Soldan-sağa şant",
+        "definition": "Oksijenlenmiş kanın sol kalp veya sistemik dolaşımdan sağ kalp veya pulmoner dolaşıma geçmesi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Sağdan-sola şant",
+      "text": "Oksijenlenmemiş kanın sağ kalp veya pulmoner dolaşımdan sistemik arteriyel dolaşıma geçmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0o9zpwx",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Sağdan-sola şant",
+        "definition": "Oksijenlenmemiş kanın sağ kalp veya pulmoner dolaşımdan sistemik arteriyel dolaşıma geçmesi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Fick ilkesi",
+      "text": "Kan akımının oksijen tüketimi ile arteriyel–venöz oksijen içeriği farkından hesaplanması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1gn4rp3",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Fick ilkesi",
+        "definition": "Kan akımının oksijen tüketimi ile arteriyel–venöz oksijen içeriği farkından hesaplanması.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Sistemik vasküler direnç",
+      "text": "Sistemik damar yatağının kan akımına karşı gösterdiği direnç.",
+      "images": [],
+      "card": {
+        "id": "PER245-0g72f09",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Sistemik vasküler direnç",
+        "definition": "Sistemik damar yatağının kan akımına karşı gösterdiği direnç.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Pulmoner aşırı dolaşım",
+      "text": "Pulmoner kan akımının gereğinden fazla artması.",
+      "images": [],
+      "card": {
+        "id": "PER245-12mrqpw",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Pulmoner aşırı dolaşım",
+        "definition": "Pulmoner kan akımının gereğinden fazla artması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Şantın akım etkisi",
+      "text": "Soldan-sağa\nOksijenlenmiş kan yeniden pulmoner yatağa gider\nPulmoner hacim yükü oluşturabilir\n\nSağdan-sola\nVenöz kan sistemik yatağa geçer\nArteriyel oksijenlenme azalabilir",
+      "images": [],
+      "card": {
+        "id": "PER245-19jbh1m",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Şantın akım etkisi",
+        "left": {
+          "title": "Soldan-sağa",
+          "points": [
+            "Oksijenlenmiş kan yeniden pulmoner yatağa gider",
+            "Pulmoner hacim yükü oluşturabilir"
+          ]
+        },
+        "right": {
+          "title": "Sağdan-sola",
+          "points": [
+            "Venöz kan sistemik yatağa geçer",
+            "Arteriyel oksijenlenme azalabilir"
+          ]
+        },
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Şant yönünü etkileyenler",
+      "text": "Defekt büyüklüğü, iki tarafın basıncı ve pulmoner-sistemik direnç ilişkisi şantın yönünü ve miktarını etkiler.",
+      "images": [],
+      "card": {
+        "id": "PER245-1260evm",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Şant yönünü etkileyenler",
+        "body": "Defekt büyüklüğü, iki tarafın basıncı ve pulmoner-sistemik direnç ilişkisi şantın yönünü ve miktarını etkiler.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Eisenmenger'de tersine dönüş",
+      "text": "Uzun süreli büyük soldan-sağa şant pulmoner vasküler hastalıkla ilerleyebilir; artan pulmoner direnç sonunda sağdan-sola şanta yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0b2e0ce",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Eisenmenger'de tersine dönüş",
+        "body": "Uzun süreli büyük soldan-sağa şant pulmoner vasküler hastalıkla ilerleyebilir; artan pulmoner direnç sonunda sağdan-sola şanta yol açabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "PDA'nın KPB'de çalma etkisi",
+      "text": "Açık sistemik-pulmoner bağlantı, arteriyel pompa kanının pulmoner yatağa kaçmasına neden olabilir; sistemik sunum ve sol kalp yükü etkilenir.",
+      "images": [],
+      "card": {
+        "id": "PER245-04u4g8v",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "PDA'nın KPB'de çalma etkisi",
+        "body": "Açık sistemik-pulmoner bağlantı, arteriyel pompa kanının pulmoner yatağa kaçmasına neden olabilir; sistemik sunum ve sol kalp yükü etkilenir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Satürasyon örnekleme tuzağı",
+      "text": "PDA varlığında sağ ve sol pulmoner arter satürasyonları farklı olabilir; örnekleme yeri şant hesabının yorumunu etkiler.",
+      "images": [],
+      "card": {
+        "id": "PER245-0mwnm3d",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Satürasyon örnekleme tuzağı",
+        "body": "PDA varlığında sağ ve sol pulmoner arter satürasyonları farklı olabilir; örnekleme yeri şant hesabının yorumunu etkiler.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Oksijen içeriği ve satürasyon",
+      "text": "Fick hesabında arteriyel–venöz oksijen içeriği farkı kullanılır. İçerik hemoglobin miktarını da içerdiği için salt satürasyon farkıyla özdeş değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0wkhwbf",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Oksijen içeriği ve satürasyon",
+        "body": "Fick hesabında arteriyel–venöz oksijen içeriği farkı kullanılır. İçerik hemoglobin miktarını da içerdiği için salt satürasyon farkıyla özdeş değildir.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Şant varlığında pulmoner vasküler direnç hesabında hangi akım kullanılmalıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-10fewd7",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Şant varlığında pulmoner vasküler direnç hesabında hangi akım kullanılmalıdır?",
+        "answer": "Pulmoner kan akımı Qp; şantlı dolaşımda Qp ve Qs birbirine eşit olmayabilir.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Sistemik-pulmoner bağlantıları tanı",
+      "text": "Tanınmamış PDA veya cerrahi şant, KPB'de **sol kalp distansiyonu ve sistemik akım kaybı** yapabilir; bağlantıların kontrolü planlanır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1m0c4p4",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Sistemik-pulmoner bağlantıları tanı",
+        "body": "Tanınmamış PDA veya cerrahi şant, KPB'de **sol kalp distansiyonu ve sistemik akım kaybı** yapabilir; bağlantıların kontrolü planlanır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Havayı küçük görme",
+      "text": "Sağdan-sola şant varsa venöz hava **sistemik dolaşıma** geçebilir. Perfüzyon ve damar yolu hazırlığında hava kontrolü önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1c7f3ke",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Havayı küçük görme",
+        "body": "Sağdan-sola şant varsa venöz hava **sistemik dolaşıma** geçebilir. Perfüzyon ve damar yolu hazırlığında hava kontrolü önemlidir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Pulmoner akım sistemik akımdan fazla ise Qp/Qs hangi yöndedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1s4d3es",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Pulmoner akım sistemik akımdan fazla ise Qp/Qs hangi yöndedir?",
+        "options": [
+          "1'den büyük",
+          "1’den küçük pozitif",
+          "1’e eşit",
+          "Sıfır"
+        ],
+        "correct": 0,
+        "explanation": "Qp/Qs pulmoner/sistemik akım oranıdır; Qp > Qs olduğunda oran 1'i aşar.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Pulmoner direnç hesabında basınç farkı hangi akıma bölünür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0zj50m6",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Pulmoner direnç hesabında basınç farkı hangi akıma bölünür?",
+        "options": [
+          "Renal akım",
+          "Qp",
+          "Qs",
+          "Koroner akım"
+        ],
+        "correct": 1,
+        "explanation": "Pulmoner yatağa ait direnç hesabında bu yataktan geçen Qp kullanılır.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Büyük soldan-sağa şantın uzun dönemde oluşturabileceği damar sorunu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0totuut",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Büyük soldan-sağa şantın uzun dönemde oluşturabileceği damar sorunu hangisidir?",
+        "options": [
+          "Primer aort duvarı dejenerasyonu",
+          "İzole koroner vazospazm",
+          "Pulmoner vasküler hastalık",
+          "Sistemik arter embolisi"
+        ],
+        "correct": 2,
+        "explanation": "Uzun süreli yüksek pulmoner akım ve basınç pulmoner vasküler hastalığa katkı sağlayabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Venöz pıhtının şant yoluyla sistemik artere geçmesi hangi adla anılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-12pu6wj",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Venöz pıhtının şant yoluyla sistemik artere geçmesi hangi adla anılır?",
+        "options": [
+          "Pulmoner emboli",
+          "Arteriyel tromboz",
+          "Hava embolisi",
+          "Paradoks emboli"
+        ],
+        "correct": 3,
+        "explanation": "Paradoks embolide venöz embolus sağdan-sola bağlantı üzerinden sistemik dolaşıma ulaşır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Şantın büyüklüğü yalnız defekt çapına bağlı değildir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-014ckfw",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Şantın büyüklüğü yalnız defekt çapına bağlı değildir.",
+        "isTrue": true,
+        "explanation": "Basınçlar ve pulmoner-sistemik vasküler direnç ilişkisi de şant miktarını etkiler.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    },
+    {
+      "title": "Fick ilkesinde kalp debisi, oksijen tüketimi ile içerik farkının çarpımıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0l854al",
+        "course": "PER245",
+        "topic": "Şantlı KKH ve şant fizyolojisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Fick ilkesinde kalp debisi, oksijen tüketimi ile içerik farkının çarpımıdır.",
+        "isTrue": false,
+        "explanation": "Debi, oksijen tüketiminin arteriyel–venöz oksijen içeriği farkına bölünmesiyle hesaplanır.",
+        "source": "Kateterizasyon, IJCHD 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-10trmy5",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner vasküler direnç (PVR)",
+      "en": "Pulmonary vascular resistance",
+      "definition": "Pulmoner damar yatağının kan akımına karşı gösterdiği direnç.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0fa234j",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Soldan-sağa şant",
+      "definition": "Oksijenlenmiş kanın sol kalp veya sistemik dolaşımdan sağ kalp veya pulmoner dolaşıma geçmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0o9zpwx",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Sağdan-sola şant",
+      "definition": "Oksijenlenmemiş kanın sağ kalp veya pulmoner dolaşımdan sistemik arteriyel dolaşıma geçmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1gn4rp3",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Fick ilkesi",
+      "definition": "Kan akımının oksijen tüketimi ile arteriyel–venöz oksijen içeriği farkından hesaplanması.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0g72f09",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Sistemik vasküler direnç",
+      "definition": "Sistemik damar yatağının kan akımına karşı gösterdiği direnç.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-12mrqpw",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner aşırı dolaşım",
+      "definition": "Pulmoner kan akımının gereğinden fazla artması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-19jbh1m",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Şantın akım etkisi",
+      "left": {
+        "title": "Soldan-sağa",
+        "points": [
+          "Oksijenlenmiş kan yeniden pulmoner yatağa gider",
+          "Pulmoner hacim yükü oluşturabilir"
+        ]
+      },
+      "right": {
+        "title": "Sağdan-sola",
+        "points": [
+          "Venöz kan sistemik yatağa geçer",
+          "Arteriyel oksijenlenme azalabilir"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1260evm",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Şant yönünü etkileyenler",
+      "body": "Defekt büyüklüğü, iki tarafın basıncı ve pulmoner-sistemik direnç ilişkisi şantın yönünü ve miktarını etkiler.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0b2e0ce",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Eisenmenger'de tersine dönüş",
+      "body": "Uzun süreli büyük soldan-sağa şant pulmoner vasküler hastalıkla ilerleyebilir; artan pulmoner direnç sonunda sağdan-sola şanta yol açabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-04u4g8v",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "PDA'nın KPB'de çalma etkisi",
+      "body": "Açık sistemik-pulmoner bağlantı, arteriyel pompa kanının pulmoner yatağa kaçmasına neden olabilir; sistemik sunum ve sol kalp yükü etkilenir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0mwnm3d",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Satürasyon örnekleme tuzağı",
+      "body": "PDA varlığında sağ ve sol pulmoner arter satürasyonları farklı olabilir; örnekleme yeri şant hesabının yorumunu etkiler.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0wkhwbf",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijen içeriği ve satürasyon",
+      "body": "Fick hesabında arteriyel–venöz oksijen içeriği farkı kullanılır. İçerik hemoglobin miktarını da içerdiği için salt satürasyon farkıyla özdeş değildir.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-10fewd7",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Şant varlığında pulmoner vasküler direnç hesabında hangi akım kullanılmalıdır?",
+      "answer": "Pulmoner kan akımı Qp; şantlı dolaşımda Qp ve Qs birbirine eşit olmayabilir.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-1m0c4p4",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Sistemik-pulmoner bağlantıları tanı",
+      "body": "Tanınmamış PDA veya cerrahi şant, KPB'de **sol kalp distansiyonu ve sistemik akım kaybı** yapabilir; bağlantıların kontrolü planlanır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1c7f3ke",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Havayı küçük görme",
+      "body": "Sağdan-sola şant varsa venöz hava **sistemik dolaşıma** geçebilir. Perfüzyon ve damar yolu hazırlığında hava kontrolü önemlidir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1s4d3es",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Pulmoner akım sistemik akımdan fazla ise Qp/Qs hangi yöndedir?",
+      "options": [
+        "1'den büyük",
+        "1’den küçük pozitif",
+        "1’e eşit",
+        "Sıfır"
+      ],
+      "correct": 0,
+      "explanation": "Qp/Qs pulmoner/sistemik akım oranıdır; Qp > Qs olduğunda oran 1'i aşar.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0zj50m6",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner direnç hesabında basınç farkı hangi akıma bölünür?",
+      "options": [
+        "Renal akım",
+        "Qp",
+        "Qs",
+        "Koroner akım"
+      ],
+      "correct": 1,
+      "explanation": "Pulmoner yatağa ait direnç hesabında bu yataktan geçen Qp kullanılır.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0totuut",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Büyük soldan-sağa şantın uzun dönemde oluşturabileceği damar sorunu hangisidir?",
+      "options": [
+        "Primer aort duvarı dejenerasyonu",
+        "İzole koroner vazospazm",
+        "Pulmoner vasküler hastalık",
+        "Sistemik arter embolisi"
+      ],
+      "correct": 2,
+      "explanation": "Uzun süreli yüksek pulmoner akım ve basınç pulmoner vasküler hastalığa katkı sağlayabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-12pu6wj",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Venöz pıhtının şant yoluyla sistemik artere geçmesi hangi adla anılır?",
+      "options": [
+        "Pulmoner emboli",
+        "Arteriyel tromboz",
+        "Hava embolisi",
+        "Paradoks emboli"
+      ],
+      "correct": 3,
+      "explanation": "Paradoks embolide venöz embolus sağdan-sola bağlantı üzerinden sistemik dolaşıma ulaşır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-014ckfw",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Şantın büyüklüğü yalnız defekt çapına bağlı değildir.",
+      "isTrue": true,
+      "explanation": "Basınçlar ve pulmoner-sistemik vasküler direnç ilişkisi de şant miktarını etkiler.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    },
+    {
+      "id": "PER245-0l854al",
+      "course": "PER245",
+      "topic": "Şantlı KKH ve şant fizyolojisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fick ilkesinde kalp debisi, oksijen tüketimi ile içerik farkının çarpımıdır.",
+      "isTrue": false,
+      "explanation": "Debi, oksijen tüketiminin arteriyel–venöz oksijen içeriği farkına bölünmesiyle hesaplanır.",
+      "source": "Kateterizasyon, IJCHD 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

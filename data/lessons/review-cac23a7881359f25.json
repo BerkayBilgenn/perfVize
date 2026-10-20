@@ -1,0 +1,857 @@
+{
+  "id": "review-cac23a7881359f25",
+  "title": "Antikoagülasyon: heparin, ACT, protamin",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Heparin (UFH)",
+      "text": "Unfractionated heparin\nAntitrombini aktive ederek trombin ve faktör Xa'yı inhibe eden antikoagülan.",
+      "images": [],
+      "card": {
+        "id": "PER245-0yzl3cq",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Heparin (UFH)",
+        "en": "Unfractionated heparin",
+        "definition": "Antitrombini aktive ederek trombin ve faktör Xa'yı inhibe eden antikoagülan.",
+        "source": "EACTS/EACTA/EBCP 2019"
+      }
+    },
+    {
+      "title": "Antitrombin (AT III)",
+      "text": "Antithrombin\nTrombin ve bazı pıhtılaşma faktörlerini baskılayan doğal inhibitör.",
+      "images": [],
+      "card": {
+        "id": "PER245-0iav89j",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Antitrombin (AT III)",
+        "en": "Antithrombin",
+        "definition": "Trombin ve bazı pıhtılaşma faktörlerini baskılayan doğal inhibitör.",
+        "source": "Heparin direnci, JCVA 2022"
+      }
+    },
+    {
+      "title": "ACT",
+      "text": "Activated clotting time\nHeparin etkisini izleyen, aktivatörlü tam kan pıhtılaşma testi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1hqevfr",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "ACT",
+        "en": "Activated clotting time",
+        "definition": "Heparin etkisini izleyen, aktivatörlü tam kan pıhtılaşma testi.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Heparin direnci",
+      "text": "Heparin resistance\nHeparin verilmesine rağmen yeterli antikoagülasyon yanıtının sağlanamaması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0v2yni2",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 1,
+        "term": "Heparin direnci",
+        "en": "Heparin resistance",
+        "definition": "Heparin verilmesine rağmen yeterli antikoagülasyon yanıtının sağlanamaması.",
+        "source": "Heparin direnci, JCVA 2022"
+      }
+    },
+    {
+      "title": "PF4",
+      "text": "Platelet factor 4\nTrombosit alfa granül proteini; heparinle kompleksine karşı HIT antikorları gelişir.",
+      "images": [],
+      "card": {
+        "id": "PER245-19pob41",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "PF4",
+        "en": "Platelet factor 4",
+        "definition": "Trombosit alfa granül proteini; heparinle kompleksine karşı HIT antikorları gelişir.",
+        "source": "HIT, J Clin Med 2025"
+      }
+    },
+    {
+      "title": "4T skoru",
+      "text": "4Ts score\nHIT olasılığını trombositopeni, zamanlama, tromboz ve başka neden ölçütleriyle puanlayan skor.",
+      "images": [],
+      "card": {
+        "id": "PER245-0umljs7",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "4T skoru",
+        "en": "4Ts score",
+        "definition": "HIT olasılığını trombositopeni, zamanlama, tromboz ve başka neden ölçütleriyle puanlayan skor.",
+        "source": "HIT, J Clin Med 2025"
+      }
+    },
+    {
+      "title": "Bivalirudin",
+      "text": "Bivalirudin\nDoğrudan trombini inhibe eden antikoagülan; aktif HIT bağlamında acil KPB için kullanılan heparin alternatiflerinden biridir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1nlujjm",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Bivalirudin",
+        "en": "Bivalirudin",
+        "definition": "Doğrudan trombini inhibe eden antikoagülan; aktif HIT bağlamında acil KPB için kullanılan heparin alternatiflerinden biridir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Argatroban",
+      "text": "Argatroban\nKaraciğerde elimine edilen doğrudan trombin inhibitörü.",
+      "images": [],
+      "card": {
+        "id": "PER245-1j6240q",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Argatroban",
+        "en": "Argatroban",
+        "definition": "Karaciğerde elimine edilen doğrudan trombin inhibitörü.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Protamin",
+      "text": "Protamine\nSomon spermasından elde edilen, heparini elektrostatik bağlanmayla nötralize eden bazik protein.",
+      "images": [],
+      "card": {
+        "id": "PER245-0rjdbtx",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Protamin",
+        "en": "Protamine",
+        "definition": "Somon spermasından elde edilen, heparini elektrostatik bağlanmayla nötralize eden bazik protein.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Protamin:heparin oranı",
+      "text": "Protamine-to-heparin ratio\nHeparin nötralizasyonunda kullanılan protamin miktarının heparin miktarına göre ifadesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-046hhpn",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Protamin:heparin oranı",
+        "en": "Protamine-to-heparin ratio",
+        "definition": "Heparin nötralizasyonunda kullanılan protamin miktarının heparin miktarına göre ifadesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin rebound",
+      "text": "Heparin rebound\nNötralizasyondan sonra dokulardaki heparinin yeniden dolaşıma çıkması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0k8uix9",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Heparin rebound",
+        "en": "Heparin rebound",
+        "definition": "Nötralizasyondan sonra dokulardaki heparinin yeniden dolaşıma çıkması.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Heparinle ilişkili trombosit düşüşü",
+      "text": "Erken nonimmün düşüş\nİmmün antikor mekanizması yoktur\nTipik olarak hafif ve geçicidir\n\nİmmün HIT\nPF4–heparin antikorlarıyla ilişkilidir\nTromboz riski taşıyan tablodur",
+      "images": [],
+      "card": {
+        "id": "PER245-0ouj4pp",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "compare",
+        "importance": 2,
+        "title": "Heparinle ilişkili trombosit düşüşü",
+        "left": {
+          "title": "Erken nonimmün düşüş",
+          "points": [
+            "İmmün antikor mekanizması yoktur",
+            "Tipik olarak hafif ve geçicidir"
+          ]
+        },
+        "right": {
+          "title": "İmmün HIT",
+          "points": [
+            "PF4–heparin antikorlarıyla ilişkilidir",
+            "Tromboz riski taşıyan tablodur"
+          ]
+        },
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Antikoagülasyon sorununun türü",
+      "text": "Heparin direnci\nHeparine yeterli antikoagülasyon yanıtı alınamaz\nAntitrombin yetersizliği araştırılabilir\n\nİmmün HIT\nHeparinle ilişkili antikor aracılı tablo vardır\nHeparin yerine alternatif strateji gerekebilir",
+      "images": [],
+      "card": {
+        "id": "PER245-0s7qgbf",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "compare",
+        "importance": 2,
+        "title": "Antikoagülasyon sorununun türü",
+        "left": {
+          "title": "Heparin direnci",
+          "points": [
+            "Heparine yeterli antikoagülasyon yanıtı alınamaz",
+            "Antitrombin yetersizliği araştırılabilir"
+          ]
+        },
+        "right": {
+          "title": "İmmün HIT",
+          "points": [
+            "Heparinle ilişkili antikor aracılı tablo vardır",
+            "Heparin yerine alternatif strateji gerekebilir"
+          ]
+        },
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "ACT ve cihaz farkı",
+      "text": "2018 STS/SCA/AmSECT, KPB'de ACT >480 sn'yi makul bulur; maksimal aktivasyonlu veya mikroküvet cihazlarda >400 sn sıklıkla terapötik kabul edilir. Eşik cihazla ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-12cbv6m",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "ACT ve cihaz farkı",
+        "body": "2018 STS/SCA/AmSECT, KPB'de ACT >480 sn'yi makul bulur; maksimal aktivasyonlu veya mikroküvet cihazlarda >400 sn sıklıkla terapötik kabul edilir. Eşik cihazla ilişkilidir.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "ACT'nin heparin dışı etkenleri",
+      "text": "Hipotermi, hemodilüsyon ve trombosit değişimleri ACT'yi etkileyebilir; uzamış ACT yalnızca yüksek heparin konsantrasyonu anlamına gelmez.",
+      "images": [],
+      "card": {
+        "id": "PER245-02izhds",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "ACT'nin heparin dışı etkenleri",
+        "body": "Hipotermi, hemodilüsyon ve trombosit değişimleri ACT'yi etkileyebilir; uzamış ACT yalnızca yüksek heparin konsantrasyonu anlamına gelmez.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "HIT olasılığında zamanlama",
+      "text": "2018 kılavuzu, heparinden 5–14 gün sonra >%50 trombosit düşüşü veya trombozu HIT değerlendirmesinde dikkate alır; yakın maruziyette seyir farklı olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0lu23he",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "HIT olasılığında zamanlama",
+        "body": "2018 kılavuzu, heparinden 5–14 gün sonra >%50 trombosit düşüşü veya trombozu HIT değerlendirmesinde dikkate alır; yakın maruziyette seyir farklı olabilir.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Protamin fazlası ve kanama",
+      "text": "Gereğinden fazla protamin pıhtılaşmayı bozabilir. Kanama ve uzamış ACT'nin nedeni değerlendirilmeden ek protamin verilmesi uygun değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ezcxc2",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "Protamin fazlası ve kanama",
+        "body": "Gereğinden fazla protamin pıhtılaşmayı bozabilir. Kanama ve uzamış ACT'nin nedeni değerlendirilmeden ek protamin verilmesi uygun değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Bivalirudin ve durgun kan",
+      "text": "Bivalirudin kullanılan KPB'de durgun kanın pıhtılaşması önemli bir sorundur; kapalı devre bölümleri ve infüzyonun sonlandırılma zamanı planlanır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0qfwdoy",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "Bivalirudin ve durgun kan",
+        "body": "Bivalirudin kullanılan KPB'de durgun kanın pıhtılaşması önemli bir sorundur; kapalı devre bölümleri ve infüzyonun sonlandırılma zamanı planlanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Aynı kiloya göre heparin dozu neden her hastada aynı ACT yanıtını sağlamaz?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0xvki2v",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "flip",
+        "importance": 2,
+        "question": "Aynı kiloya göre heparin dozu neden her hastada aynı ACT yanıtını sağlamaz?",
+        "answer": "Hastanın heparin duyarlılığı değişebilir; verilen dozun yeterli olduğu işlevsel antikoagülasyon ölçümüyle doğrulanır. Kilo hesabı ölçümün yerini almaz.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "HIT şüphesinde yalnız PF4 antikoru neden yeterli olmayabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1ddqb2a",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "flip",
+        "importance": 2,
+        "question": "HIT şüphesinde yalnız PF4 antikoru neden yeterli olmayabilir?",
+        "answer": "Antikor varlığı klinik HIT ile aynı değildir; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Protamin ve kardiyotomi aspirasyonu",
+      "text": "2024 EACTS'e göre protamin verilmeye başlanırken **kardiyotomi aspirasyonu durdurulur**; nötralize kanın devrede pıhtılaşması acil dönüşü engelleyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0bse499",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "remember",
+        "importance": 3,
+        "title": "Protamin ve kardiyotomi aspirasyonu",
+        "body": "2024 EACTS'e göre protamin verilmeye başlanırken **kardiyotomi aspirasyonu durdurulur**; nötralize kanın devrede pıhtılaşması acil dönüşü engelleyebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ciddi protamin reaksiyonu",
+      "text": "Şiddetli hipotansiyon veya sağ kalp bozulmasında protamin reaksiyonu değerlendirilir; **uygulamanın durdurulması** ve gerektiğinde yeterli antikoagülasyonla KPB'ye dönüş kılavuzda yer alır.",
+      "images": [],
+      "card": {
+        "id": "PER245-005y04s",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "remember",
+        "importance": 3,
+        "title": "Ciddi protamin reaksiyonu",
+        "body": "Şiddetli hipotansiyon veya sağ kalp bozulmasında protamin reaksiyonu değerlendirilir; **uygulamanın durdurulması** ve gerektiğinde yeterli antikoagülasyonla KPB'ye dönüş kılavuzda yer alır.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "UFH'nin antikoagülan etkisini önemli ölçüde sağlayan protein hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0nif0l9",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "mcq",
+        "importance": 3,
+        "question": "UFH'nin antikoagülan etkisini önemli ölçüde sağlayan protein hangisidir?",
+        "options": [
+          "Antitrombin",
+          "Fibrinojen",
+          "Hemoglobin",
+          "Albümin"
+        ],
+        "correct": 0,
+        "explanation": "Heparin antitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu güçlendirir.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "HIT için fonksiyonel doğrulama yöntemlerinden biri hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1ih610e",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "mcq",
+        "importance": 2,
+        "question": "HIT için fonksiyonel doğrulama yöntemlerinden biri hangisidir?",
+        "options": [
+          "PF4–heparin antikor ELISA’sı",
+          "Serotonin salınım testi",
+          "Trombosit sayımı",
+          "Aktive pıhtılaşma zamanı"
+        ],
+        "correct": 1,
+        "explanation": "SRA trombosit aktive eden HIT antikorlarının işlevini araştırır.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Protaminin temel nötralizasyon hedefi hangi ilaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-11unebp",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Protaminin temel nötralizasyon hedefi hangi ilaçtır?",
+        "options": [
+          "Argatroban",
+          "Traneksamik asit",
+          "Heparin",
+          "Bivalirudin"
+        ],
+        "correct": 2,
+        "explanation": "Protamin heparini nötralize eder; doğrudan trombin inhibitörleri için aynı geri döndürme işlevi yoktur.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "Böbrek işlevi bozuk aktif HIT bağlamında hepatik eliminasyonlu alternatif hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1oyyddn",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Böbrek işlevi bozuk aktif HIT bağlamında hepatik eliminasyonlu alternatif hangisidir?",
+        "options": [
+          "Bivalirudin",
+          "Dabigatran",
+          "Fondaparinuks",
+          "Argatroban"
+        ],
+        "correct": 3,
+        "explanation": "Argatroban hepatik eliminasyonlu direkt trombin inhibitörüdür; seçim hasta ve kılavuz bağlamında yapılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin rebound, protaminin yağ dokusundan dolaşıma dönmesidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1nbt8w4",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Heparin rebound, protaminin yağ dokusundan dolaşıma dönmesidir.",
+        "isTrue": false,
+        "explanation": "Rebound, nötralizasyon sonrası heparinin yeniden dolaşıma çıkmasıdır.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "ACT heparin konsantrasyonundan bağımsız hiçbir etkenle değişmez.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-165m9p1",
+        "course": "PER245",
+        "topic": "Antikoagülasyon: heparin, ACT, protamin",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ACT heparin konsantrasyonundan bağımsız hiçbir etkenle değişmez.",
+        "isTrue": false,
+        "explanation": "Hipotermi, hemodilüsyon ve trombosit değişimleri gibi etkenler ACT'yi değiştirebilir.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0yzl3cq",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin (UFH)",
+      "en": "Unfractionated heparin",
+      "definition": "Antitrombini aktive ederek trombin ve faktör Xa'yı inhibe eden antikoagülan.",
+      "source": "EACTS/EACTA/EBCP 2019"
+    },
+    {
+      "id": "PER245-0iav89j",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Antitrombin (AT III)",
+      "en": "Antithrombin",
+      "definition": "Trombin ve bazı pıhtılaşma faktörlerini baskılayan doğal inhibitör.",
+      "source": "Heparin direnci, JCVA 2022"
+    },
+    {
+      "id": "PER245-1hqevfr",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Heparin etkisini izleyen, aktivatörlü tam kan pıhtılaşma testi.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0v2yni2",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 1,
+      "term": "Heparin direnci",
+      "en": "Heparin resistance",
+      "definition": "Heparin verilmesine rağmen yeterli antikoagülasyon yanıtının sağlanamaması.",
+      "source": "Heparin direnci, JCVA 2022"
+    },
+    {
+      "id": "PER245-19pob41",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "PF4",
+      "en": "Platelet factor 4",
+      "definition": "Trombosit alfa granül proteini; heparinle kompleksine karşı HIT antikorları gelişir.",
+      "source": "HIT, J Clin Med 2025"
+    },
+    {
+      "id": "PER245-0umljs7",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "4T skoru",
+      "en": "4Ts score",
+      "definition": "HIT olasılığını trombositopeni, zamanlama, tromboz ve başka neden ölçütleriyle puanlayan skor.",
+      "source": "HIT, J Clin Med 2025"
+    },
+    {
+      "id": "PER245-1nlujjm",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Bivalirudin",
+      "en": "Bivalirudin",
+      "definition": "Doğrudan trombini inhibe eden antikoagülan; aktif HIT bağlamında acil KPB için kullanılan heparin alternatiflerinden biridir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1j6240q",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Argatroban",
+      "en": "Argatroban",
+      "definition": "Karaciğerde elimine edilen doğrudan trombin inhibitörü.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0rjdbtx",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Protamin",
+      "en": "Protamine",
+      "definition": "Somon spermasından elde edilen, heparini elektrostatik bağlanmayla nötralize eden bazik protein.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-046hhpn",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Protamin:heparin oranı",
+      "en": "Protamine-to-heparin ratio",
+      "definition": "Heparin nötralizasyonunda kullanılan protamin miktarının heparin miktarına göre ifadesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0k8uix9",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin rebound",
+      "en": "Heparin rebound",
+      "definition": "Nötralizasyondan sonra dokulardaki heparinin yeniden dolaşıma çıkması.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0ouj4pp",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "compare",
+      "importance": 2,
+      "title": "Heparinle ilişkili trombosit düşüşü",
+      "left": {
+        "title": "Erken nonimmün düşüş",
+        "points": [
+          "İmmün antikor mekanizması yoktur",
+          "Tipik olarak hafif ve geçicidir"
+        ]
+      },
+      "right": {
+        "title": "İmmün HIT",
+        "points": [
+          "PF4–heparin antikorlarıyla ilişkilidir",
+          "Tromboz riski taşıyan tablodur"
+        ]
+      },
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0s7qgbf",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "compare",
+      "importance": 2,
+      "title": "Antikoagülasyon sorununun türü",
+      "left": {
+        "title": "Heparin direnci",
+        "points": [
+          "Heparine yeterli antikoagülasyon yanıtı alınamaz",
+          "Antitrombin yetersizliği araştırılabilir"
+        ]
+      },
+      "right": {
+        "title": "İmmün HIT",
+        "points": [
+          "Heparinle ilişkili antikor aracılı tablo vardır",
+          "Heparin yerine alternatif strateji gerekebilir"
+        ]
+      },
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-12cbv6m",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT ve cihaz farkı",
+      "body": "2018 STS/SCA/AmSECT, KPB'de ACT >480 sn'yi makul bulur; maksimal aktivasyonlu veya mikroküvet cihazlarda >400 sn sıklıkla terapötik kabul edilir. Eşik cihazla ilişkilidir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-02izhds",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "ACT'nin heparin dışı etkenleri",
+      "body": "Hipotermi, hemodilüsyon ve trombosit değişimleri ACT'yi etkileyebilir; uzamış ACT yalnızca yüksek heparin konsantrasyonu anlamına gelmez.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0lu23he",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "HIT olasılığında zamanlama",
+      "body": "2018 kılavuzu, heparinden 5–14 gün sonra >%50 trombosit düşüşü veya trombozu HIT değerlendirmesinde dikkate alır; yakın maruziyette seyir farklı olabilir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0ezcxc2",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "Protamin fazlası ve kanama",
+      "body": "Gereğinden fazla protamin pıhtılaşmayı bozabilir. Kanama ve uzamış ACT'nin nedeni değerlendirilmeden ek protamin verilmesi uygun değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0qfwdoy",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "Bivalirudin ve durgun kan",
+      "body": "Bivalirudin kullanılan KPB'de durgun kanın pıhtılaşması önemli bir sorundur; kapalı devre bölümleri ve infüzyonun sonlandırılma zamanı planlanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0xvki2v",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "flip",
+      "importance": 2,
+      "question": "Aynı kiloya göre heparin dozu neden her hastada aynı ACT yanıtını sağlamaz?",
+      "answer": "Hastanın heparin duyarlılığı değişebilir; verilen dozun yeterli olduğu işlevsel antikoagülasyon ölçümüyle doğrulanır. Kilo hesabı ölçümün yerini almaz.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-1ddqb2a",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "flip",
+      "importance": 2,
+      "question": "HIT şüphesinde yalnız PF4 antikoru neden yeterli olmayabilir?",
+      "answer": "Antikor varlığı klinik HIT ile aynı değildir; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0bse499",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin ve kardiyotomi aspirasyonu",
+      "body": "2024 EACTS'e göre protamin verilmeye başlanırken **kardiyotomi aspirasyonu durdurulur**; nötralize kanın devrede pıhtılaşması acil dönüşü engelleyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-005y04s",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "remember",
+      "importance": 3,
+      "title": "Ciddi protamin reaksiyonu",
+      "body": "Şiddetli hipotansiyon veya sağ kalp bozulmasında protamin reaksiyonu değerlendirilir; **uygulamanın durdurulması** ve gerektiğinde yeterli antikoagülasyonla KPB'ye dönüş kılavuzda yer alır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-0nif0l9",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "mcq",
+      "importance": 3,
+      "question": "UFH'nin antikoagülan etkisini önemli ölçüde sağlayan protein hangisidir?",
+      "options": [
+        "Antitrombin",
+        "Fibrinojen",
+        "Hemoglobin",
+        "Albümin"
+      ],
+      "correct": 0,
+      "explanation": "Heparin antitrombin aracılığıyla trombin ve faktör Xa inhibisyonunu güçlendirir.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-1ih610e",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "mcq",
+      "importance": 2,
+      "question": "HIT için fonksiyonel doğrulama yöntemlerinden biri hangisidir?",
+      "options": [
+        "PF4–heparin antikor ELISA’sı",
+        "Serotonin salınım testi",
+        "Trombosit sayımı",
+        "Aktive pıhtılaşma zamanı"
+      ],
+      "correct": 1,
+      "explanation": "SRA trombosit aktive eden HIT antikorlarının işlevini araştırır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-11unebp",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Protaminin temel nötralizasyon hedefi hangi ilaçtır?",
+      "options": [
+        "Argatroban",
+        "Traneksamik asit",
+        "Heparin",
+        "Bivalirudin"
+      ],
+      "correct": 2,
+      "explanation": "Protamin heparini nötralize eder; doğrudan trombin inhibitörleri için aynı geri döndürme işlevi yoktur.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-1oyyddn",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Böbrek işlevi bozuk aktif HIT bağlamında hepatik eliminasyonlu alternatif hangisidir?",
+      "options": [
+        "Bivalirudin",
+        "Dabigatran",
+        "Fondaparinuks",
+        "Argatroban"
+      ],
+      "correct": 3,
+      "explanation": "Argatroban hepatik eliminasyonlu direkt trombin inhibitörüdür; seçim hasta ve kılavuz bağlamında yapılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1nbt8w4",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Heparin rebound, protaminin yağ dokusundan dolaşıma dönmesidir.",
+      "isTrue": false,
+      "explanation": "Rebound, nötralizasyon sonrası heparinin yeniden dolaşıma çıkmasıdır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-165m9p1",
+      "course": "PER245",
+      "topic": "Antikoagülasyon: heparin, ACT, protamin",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ACT heparin konsantrasyonundan bağımsız hiçbir etkenle değişmez.",
+      "isTrue": false,
+      "explanation": "Hipotermi, hemodilüsyon ve trombosit değişimleri gibi etkenler ACT'yi değiştirebilir.",
+      "source": "STS/SCA/AmSECT 2018"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

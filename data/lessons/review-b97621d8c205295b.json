@@ -1,0 +1,744 @@
+{
+  "id": "review-b97621d8c205295b",
+  "title": "Obstrüktif lezyonlar ve kapak hastalıkları",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "\"3\" işareti",
+      "text": "Figure-3 sign / rib notching\nAort koarktasyonunda aort konturunun göğüs grafisinde oluşturduğu karakteristik görünüm.",
+      "images": [],
+      "card": {
+        "id": "PER241-19gxw9d",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "\"3\" işareti",
+        "en": "Figure-3 sign / rib notching",
+        "definition": "Aort koarktasyonunda aort konturunun göğüs grafisinde oluşturduğu karakteristik görünüm."
+      }
+    },
+    {
+      "title": "Aort koarktasyonu",
+      "text": "Coarctation of the aorta\nGenellikle istmusta, duktus karşısında lokal aort daralması.\nLat. coarctare = sıkıştırmak",
+      "images": [],
+      "card": {
+        "id": "PER241-0chhtq2",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Aort koarktasyonu",
+        "en": "Coarctation of the aorta",
+        "definition": "Genellikle istmusta, duktus karşısında lokal aort daralması.",
+        "origin": "Lat. coarctare = sıkıştırmak"
+      }
+    },
+    {
+      "title": "Kesintili aortik ark",
+      "text": "Interrupted aortic arch\nÇıkan ve inen aorta arasında anatomik devamlılığın bulunmadığı doğumsal lezyon.",
+      "images": [],
+      "card": {
+        "id": "PER241-1pxj4mh",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Kesintili aortik ark",
+        "en": "Interrupted aortic arch",
+        "definition": "Çıkan ve inen aorta arasında anatomik devamlılığın bulunmadığı doğumsal lezyon."
+      }
+    },
+    {
+      "title": "Biküspit aort kapağı",
+      "text": "Bicuspid aortic valve\nİki kusptan oluşan aort kapağı. Darlık, yetersizlik ve çıkan aorta genişlemesiyle ilişkili olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0mzdcbs",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Biküspit aort kapağı",
+        "en": "Bicuspid aortic valve",
+        "definition": "İki kusptan oluşan aort kapağı. Darlık, yetersizlik ve çıkan aorta genişlemesiyle ilişkili olabilir."
+      }
+    },
+    {
+      "title": "Pulmoner stenoz",
+      "text": "Pulmonary stenosis\nPulmoner kapak veya sağ ventrikül çıkış yolundaki daralma.\nYun. stenos = dar",
+      "images": [],
+      "card": {
+        "id": "PER241-0zxvl00",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Pulmoner stenoz",
+        "en": "Pulmonary stenosis",
+        "definition": "Pulmoner kapak veya sağ ventrikül çıkış yolundaki daralma.",
+        "origin": "Yun. stenos = dar"
+      }
+    },
+    {
+      "title": "Shone kompleksi",
+      "text": "Shone complex\nSupravalvüler mitral halka, paraşüt mitral, subaortik stenoz ve koarktasyon birlikteliği.\nJ. D. Shone (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0s70icz",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Shone kompleksi",
+        "en": "Shone complex",
+        "definition": "Supravalvüler mitral halka, paraşüt mitral, subaortik stenoz ve koarktasyon birlikteliği.",
+        "origin": "J. D. Shone (eponim)"
+      }
+    },
+    {
+      "title": "Paraşüt mitral kapak",
+      "text": "Parachute mitral valve\nTüm kordaların tek papiller kasa toplandığı mitral kapak.",
+      "images": [],
+      "card": {
+        "id": "PER241-09f92d9",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Paraşüt mitral kapak",
+        "en": "Parachute mitral valve",
+        "definition": "Tüm kordaların tek papiller kasa toplandığı mitral kapak."
+      }
+    },
+    {
+      "title": "Romatizmal kalp hastalığı",
+      "text": "Rheumatic heart disease\nA grubu streptokok sonrası otoimmün kardit ve kalıcı kapak hasarı (en sık mitral).",
+      "images": [],
+      "card": {
+        "id": "PER241-1p4fny5",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Romatizmal kalp hastalığı",
+        "en": "Rheumatic heart disease",
+        "definition": "A grubu streptokok sonrası otoimmün kardit ve kalıcı kapak hasarı (en sık mitral)."
+      }
+    },
+    {
+      "title": "Koarktasyonun muayene ipucu",
+      "text": "Üst ekstremitelerde güçlü nabız ve hipertansiyona karşılık **femoral nabızlar zayıf veya gecikmiştir**.",
+      "images": [],
+      "card": {
+        "id": "PER241-0puks8y",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Koarktasyonun muayene ipucu",
+        "body": "Üst ekstremitelerde güçlü nabız ve hipertansiyona karşılık **femoral nabızlar zayıf veya gecikmiştir**."
+      }
+    },
+    {
+      "title": "Koarktasyonda kosta çentiklenmesi nasıl oluşur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1u2h2r8",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Koarktasyonda kosta çentiklenmesi nasıl oluşur?",
+        "answer": "Kollateral damarların kaburgalarla ilişkisi **kosta çentiklenmesi** görünümünü oluşturabilir."
+      }
+    },
+    {
+      "title": "Koarktasyon klempinde nörolojik risk",
+      "text": "Aortik kros-klemp sırasında **spinal kord iskemisi ve parapleji** riski bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0hzqtqq",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Koarktasyon klempinde nörolojik risk",
+        "body": "Aortik kros-klemp sırasında **spinal kord iskemisi ve parapleji** riski bulunur."
+      }
+    },
+    {
+      "title": "IAA tip B'de kesinti nerede yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1ik622l",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "question": "IAA tip B'de kesinti nerede yer alır?",
+        "answer": "**Sol ana karotis ile sol subklavyen arter arasında** yer alır."
+      }
+    },
+    {
+      "title": "Biküspit aort kapağına hangi aortik değişiklik eşlik edebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1sqkgpe",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Biküspit aort kapağına hangi aortik değişiklik eşlik edebilir?",
+        "answer": "Biküspit aort kapağına **aort kökü veya çıkan aorta genişlemesi** eşlik edebilir."
+      }
+    },
+    {
+      "title": "Aort kapağında girişim ayrımı",
+      "text": "Stenotik kapakta balon dilatasyon veya cerrahi onarım; **yetersiz kapakta cerrahi** seçenekler değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0z3nxh8",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Aort kapağında girişim ayrımı",
+        "body": "Stenotik kapakta balon dilatasyon veya cerrahi onarım; **yetersiz kapakta cerrahi** seçenekler değerlendirilir."
+      }
+    },
+    {
+      "title": "Pulmoner stenozda sık girişim",
+      "text": "Uygun kapak anatomisinde **transkateter balon dilatasyon** sık kullanılan tedavi yaklaşımıdır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1u3mza2",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Pulmoner stenozda sık girişim",
+        "body": "Uygun kapak anatomisinde **transkateter balon dilatasyon** sık kullanılan tedavi yaklaşımıdır."
+      }
+    },
+    {
+      "title": "Shone'un anatomik bileşenleri",
+      "text": "Supravalvüler mitral halka, paraşüt mitral kapak, **subaortik stenoz ve koarktasyon** birlikteliği Shone kompleksidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0hrnv01",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "title": "Shone'un anatomik bileşenleri",
+        "body": "Supravalvüler mitral halka, paraşüt mitral kapak, **subaortik stenoz ve koarktasyon** birlikteliği Shone kompleksidir."
+      }
+    },
+    {
+      "title": "Romatizmal hastalık nasıl başlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1kst40w",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Romatizmal hastalık nasıl başlar?",
+        "answer": "A grubu streptokok farenjiti sonrasında gelişen **otoimmün inflamatuvar yanıt** kardit ve kapak hasarına yol açabilir."
+      }
+    },
+    {
+      "title": "Romatizmal karditte dönem farkı",
+      "text": "Akut dönemde **mitral yetersizliği**, kronik dönemde mitral stenoz öne çıkar.",
+      "images": [],
+      "card": {
+        "id": "PER241-1lsutqh",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Romatizmal karditte dönem farkı",
+        "body": "Akut dönemde **mitral yetersizliği**, kronik dönemde mitral stenoz öne çıkar."
+      }
+    },
+    {
+      "title": "Paraşüt mitral kapakta kordalar hangi düzeni gösterir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-15bg9nz",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "question": "Paraşüt mitral kapakta kordalar hangi düzeni gösterir?",
+        "options": [
+          "Papiller kas olmadan aortaya bağlanır",
+          "İki pulmoner vene bağlanır",
+          "Tek papiller kasta toplanır",
+          "Sağ atriyuma uzanır"
+        ],
+        "correct": 2,
+        "explanation": "Kordaların tek papiller kasta birleşmesi paraşüt görünümünü oluşturur."
+      }
+    },
+    {
+      "title": "Shone kompleksine hangi lezyon dahildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1w67w25",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "question": "Shone kompleksine hangi lezyon dahildir?",
+        "options": [
+          "İzole triküspit atrezisi",
+          "Persistan trunkus",
+          "Total pulmoner venöz dönüş anomalisi",
+          "Supravalvüler mitral halka"
+        ],
+        "correct": 3,
+        "explanation": "Shone sol kalbin seri obstrüktif lezyonlarıdır; mitral halka temel bileşenlerdendir."
+      }
+    },
+    {
+      "title": "Koarktasyonun tipik yerleşimi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1a6immw",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Koarktasyonun tipik yerleşimi hangisidir?",
+        "options": [
+          "Sol subklavyen arterin hemen distali",
+          "Koroner ostiumların arası",
+          "Pulmoner trunkus bifurkasyonu",
+          "Mitral anulusun altı"
+        ],
+        "correct": 0,
+        "explanation": "Tipik jukstaduktal daralma, sol subklavyen çıkışının distalinde duktus karşısındadır."
+      }
+    },
+    {
+      "title": "Biküspit aort kapağında hangi komplikasyona yatkınlık vardır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0nb48jw",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Biküspit aort kapağında hangi komplikasyona yatkınlık vardır?",
+        "options": [
+          "Pulmoner venin doğuştan yokluğu",
+          "Endokardit",
+          "Sağ ventrikül atrezisi",
+          "Total atriyal septum yokluğu"
+        ],
+        "correct": 1,
+        "explanation": "Biküspit aort kapak darlık, yetersizlik, aortopati ve endokarditle ilişkilidir."
+      }
+    },
+    {
+      "title": "Aşağıdakilerden hangisi Jones majör kriteridir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-056f2yc",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Aşağıdakilerden hangisi Jones majör kriteridir?",
+        "options": [
+          "Sinüs taşikardisi",
+          "İzole öksürük",
+          "Kore",
+          "Nabız basıncı artışı"
+        ],
+        "correct": 2,
+        "explanation": "Kore, kardit, poliartrit, eritema marjinatum ve subkutan nodüller majör kriterlerdir."
+      }
+    },
+    {
+      "title": "Biküspit aort kapağı üç normal kusptan oluşur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0rol67w",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Biküspit aort kapağı üç normal kusptan oluşur.",
+        "isTrue": false,
+        "explanation": "Biküspit kapakta iki kusp bulunur."
+      }
+    },
+    {
+      "title": "Eritema marjinatum Jones majör kriterleri arasındadır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1q2w5e6",
+        "course": "PER241",
+        "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Eritema marjinatum Jones majör kriterleri arasındadır.",
+        "isTrue": true,
+        "explanation": "Diğer majör bulgular kardit, poliartrit, kore ve subkutan nodüllerdir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-19gxw9d",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "\"3\" işareti",
+      "en": "Figure-3 sign / rib notching",
+      "definition": "Aort koarktasyonunda aort konturunun göğüs grafisinde oluşturduğu karakteristik görünüm."
+    },
+    {
+      "id": "PER241-0chhtq2",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Aort koarktasyonu",
+      "en": "Coarctation of the aorta",
+      "definition": "Genellikle istmusta, duktus karşısında lokal aort daralması.",
+      "origin": "Lat. coarctare = sıkıştırmak"
+    },
+    {
+      "id": "PER241-1pxj4mh",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Kesintili aortik ark",
+      "en": "Interrupted aortic arch",
+      "definition": "Çıkan ve inen aorta arasında anatomik devamlılığın bulunmadığı doğumsal lezyon."
+    },
+    {
+      "id": "PER241-0mzdcbs",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Biküspit aort kapağı",
+      "en": "Bicuspid aortic valve",
+      "definition": "İki kusptan oluşan aort kapağı. Darlık, yetersizlik ve çıkan aorta genişlemesiyle ilişkili olabilir."
+    },
+    {
+      "id": "PER241-0zxvl00",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Pulmoner stenoz",
+      "en": "Pulmonary stenosis",
+      "definition": "Pulmoner kapak veya sağ ventrikül çıkış yolundaki daralma.",
+      "origin": "Yun. stenos = dar"
+    },
+    {
+      "id": "PER241-0s70icz",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Shone kompleksi",
+      "en": "Shone complex",
+      "definition": "Supravalvüler mitral halka, paraşüt mitral, subaortik stenoz ve koarktasyon birlikteliği.",
+      "origin": "J. D. Shone (eponim)"
+    },
+    {
+      "id": "PER241-09f92d9",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Paraşüt mitral kapak",
+      "en": "Parachute mitral valve",
+      "definition": "Tüm kordaların tek papiller kasa toplandığı mitral kapak."
+    },
+    {
+      "id": "PER241-1p4fny5",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Romatizmal kalp hastalığı",
+      "en": "Rheumatic heart disease",
+      "definition": "A grubu streptokok sonrası otoimmün kardit ve kalıcı kapak hasarı (en sık mitral)."
+    },
+    {
+      "id": "PER241-0puks8y",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Koarktasyonun muayene ipucu",
+      "body": "Üst ekstremitelerde güçlü nabız ve hipertansiyona karşılık **femoral nabızlar zayıf veya gecikmiştir**."
+    },
+    {
+      "id": "PER241-1u2h2r8",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Koarktasyonda kosta çentiklenmesi nasıl oluşur?",
+      "answer": "Kollateral damarların kaburgalarla ilişkisi **kosta çentiklenmesi** görünümünü oluşturabilir."
+    },
+    {
+      "id": "PER241-0hzqtqq",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Koarktasyon klempinde nörolojik risk",
+      "body": "Aortik kros-klemp sırasında **spinal kord iskemisi ve parapleji** riski bulunur."
+    },
+    {
+      "id": "PER241-1ik622l",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "question": "IAA tip B'de kesinti nerede yer alır?",
+      "answer": "**Sol ana karotis ile sol subklavyen arter arasında** yer alır."
+    },
+    {
+      "id": "PER241-1sqkgpe",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Biküspit aort kapağına hangi aortik değişiklik eşlik edebilir?",
+      "answer": "Biküspit aort kapağına **aort kökü veya çıkan aorta genişlemesi** eşlik edebilir."
+    },
+    {
+      "id": "PER241-0z3nxh8",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Aort kapağında girişim ayrımı",
+      "body": "Stenotik kapakta balon dilatasyon veya cerrahi onarım; **yetersiz kapakta cerrahi** seçenekler değerlendirilir."
+    },
+    {
+      "id": "PER241-1u3mza2",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pulmoner stenozda sık girişim",
+      "body": "Uygun kapak anatomisinde **transkateter balon dilatasyon** sık kullanılan tedavi yaklaşımıdır."
+    },
+    {
+      "id": "PER241-0hrnv01",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Shone'un anatomik bileşenleri",
+      "body": "Supravalvüler mitral halka, paraşüt mitral kapak, **subaortik stenoz ve koarktasyon** birlikteliği Shone kompleksidir."
+    },
+    {
+      "id": "PER241-1kst40w",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Romatizmal hastalık nasıl başlar?",
+      "answer": "A grubu streptokok farenjiti sonrasında gelişen **otoimmün inflamatuvar yanıt** kardit ve kapak hasarına yol açabilir."
+    },
+    {
+      "id": "PER241-1lsutqh",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Romatizmal karditte dönem farkı",
+      "body": "Akut dönemde **mitral yetersizliği**, kronik dönemde mitral stenoz öne çıkar."
+    },
+    {
+      "id": "PER241-15bg9nz",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Paraşüt mitral kapakta kordalar hangi düzeni gösterir?",
+      "options": [
+        "Papiller kas olmadan aortaya bağlanır",
+        "İki pulmoner vene bağlanır",
+        "Tek papiller kasta toplanır",
+        "Sağ atriyuma uzanır"
+      ],
+      "correct": 2,
+      "explanation": "Kordaların tek papiller kasta birleşmesi paraşüt görünümünü oluşturur."
+    },
+    {
+      "id": "PER241-1w67w25",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Shone kompleksine hangi lezyon dahildir?",
+      "options": [
+        "İzole triküspit atrezisi",
+        "Persistan trunkus",
+        "Total pulmoner venöz dönüş anomalisi",
+        "Supravalvüler mitral halka"
+      ],
+      "correct": 3,
+      "explanation": "Shone sol kalbin seri obstrüktif lezyonlarıdır; mitral halka temel bileşenlerdendir."
+    },
+    {
+      "id": "PER241-1a6immw",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Koarktasyonun tipik yerleşimi hangisidir?",
+      "options": [
+        "Sol subklavyen arterin hemen distali",
+        "Koroner ostiumların arası",
+        "Pulmoner trunkus bifurkasyonu",
+        "Mitral anulusun altı"
+      ],
+      "correct": 0,
+      "explanation": "Tipik jukstaduktal daralma, sol subklavyen çıkışının distalinde duktus karşısındadır."
+    },
+    {
+      "id": "PER241-0nb48jw",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Biküspit aort kapağında hangi komplikasyona yatkınlık vardır?",
+      "options": [
+        "Pulmoner venin doğuştan yokluğu",
+        "Endokardit",
+        "Sağ ventrikül atrezisi",
+        "Total atriyal septum yokluğu"
+      ],
+      "correct": 1,
+      "explanation": "Biküspit aort kapak darlık, yetersizlik, aortopati ve endokarditle ilişkilidir."
+    },
+    {
+      "id": "PER241-056f2yc",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Aşağıdakilerden hangisi Jones majör kriteridir?",
+      "options": [
+        "Sinüs taşikardisi",
+        "İzole öksürük",
+        "Kore",
+        "Nabız basıncı artışı"
+      ],
+      "correct": 2,
+      "explanation": "Kore, kardit, poliartrit, eritema marjinatum ve subkutan nodüller majör kriterlerdir."
+    },
+    {
+      "id": "PER241-0rol67w",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Biküspit aort kapağı üç normal kusptan oluşur.",
+      "isTrue": false,
+      "explanation": "Biküspit kapakta iki kusp bulunur."
+    },
+    {
+      "id": "PER241-1q2w5e6",
+      "course": "PER241",
+      "topic": "Obstrüktif lezyonlar ve kapak hastalıkları",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Eritema marjinatum Jones majör kriterleri arasındadır.",
+      "isTrue": true,
+      "explanation": "Diğer majör bulgular kardit, poliartrit, kore ve subkutan nodüllerdir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

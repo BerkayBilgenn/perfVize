@@ -1,0 +1,973 @@
+{
+  "id": "review-0f4e400627c6af70",
+  "title": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "El hijyeni",
+      "text": "Hand hygiene\nEl yıkama veya alkollü el ovma ile ellerin mikroorganizmalardan arındırılması.",
+      "images": [],
+      "card": {
+        "id": "PER247-189ve7o",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 3,
+        "source": "WHO El Hijyeni 2009",
+        "term": "El hijyeni",
+        "definition": "El yıkama veya alkollü el ovma ile ellerin mikroorganizmalardan arındırılması.",
+        "en": "Hand hygiene"
+      }
+    },
+    {
+      "title": "El hijyeninde beş an",
+      "text": "My 5 Moments\nHasta teması ve aseptik işlem öncesinde; vücut sıvısı riski, hasta teması ve hasta çevresi teması sonrasında el hijyeni gerektiren DSÖ yaklaşımı.",
+      "images": [],
+      "card": {
+        "id": "PER247-1td0sly",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO El Hijyeni 2009",
+        "term": "El hijyeninde beş an",
+        "definition": "Hasta teması ve aseptik işlem öncesinde; vücut sıvısı riski, hasta teması ve hasta çevresi teması sonrasında el hijyeni gerektiren DSÖ yaklaşımı.",
+        "en": "My 5 Moments"
+      }
+    },
+    {
+      "title": "Standart önlemler",
+      "text": "Standard precautions\nEnfeksiyon durumundan bağımsız tüm hastalara uygulanan; kan, **ter hariç vücut sıvıları**, sekresyonlar, ekskresyonlar, bütünlüğü bozulmuş deri ve mukozaların bulaşıcı ajan içerebileceği ilkesine dayalı önlemler.",
+      "images": [],
+      "card": {
+        "id": "PER247-0h9eddh",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Standart önlemler",
+        "definition": "Enfeksiyon durumundan bağımsız tüm hastalara uygulanan; kan, **ter hariç vücut sıvıları**, sekresyonlar, ekskresyonlar, bütünlüğü bozulmuş deri ve mukozaların bulaşıcı ajan içerebileceği ilkesine dayalı önlemler.",
+        "en": "Standard precautions"
+      }
+    },
+    {
+      "title": "Temas önlemleri",
+      "text": "Contact precautions\nDoğrudan/dolaylı temasla bulaşan ajanlara karşı önlük-eldiven ve **varsa tek kişilik oda** kullanımı. Oda yetersizliğinde uygun kohortlama veya diğer yerleştirme önlemleri değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-18wpott",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Temas önlemleri",
+        "definition": "Doğrudan/dolaylı temasla bulaşan ajanlara karşı önlük-eldiven ve **varsa tek kişilik oda** kullanımı. Oda yetersizliğinde uygun kohortlama veya diğer yerleştirme önlemleri değerlendirilir.",
+        "en": "Contact precautions"
+      }
+    },
+    {
+      "title": "Damlacık önlemleri",
+      "text": "Droplet precautions\nSolunum damlacıklarıyla yakın temas sırasında bulaşan ajanlara karşı uygulanan ek önlemler. Maske ve uygun hasta yerleşimi temel bileşenlerdir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0a92qpb",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Damlacık önlemleri",
+        "definition": "Solunum damlacıklarıyla yakın temas sırasında bulaşan ajanlara karşı uygulanan ek önlemler. Maske ve uygun hasta yerleşimi temel bileşenlerdir.",
+        "en": "Droplet precautions"
+      }
+    },
+    {
+      "title": "Hava yolu önlemleri",
+      "text": "Airborne precautions\nHavada asılı kalan ajanlar için AIIR ve N95 kullanımı.",
+      "images": [],
+      "card": {
+        "id": "PER247-05blnwe",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Hava yolu önlemleri",
+        "definition": "Havada asılı kalan ajanlar için AIIR ve N95 kullanımı.",
+        "en": "Airborne precautions"
+      }
+    },
+    {
+      "title": "Hava yolu enfeksiyon izolasyon odası",
+      "text": "Airborne infection isolation room\nHavadan bulaşan enfeksiyonlarda kullanılan, **negatif basınçlı** özel oda. Hava uygun şekilde dışarı atılır veya HEPA ile filtrelenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1wncuyh",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Hava yolu enfeksiyon izolasyon odası",
+        "definition": "Havadan bulaşan enfeksiyonlarda kullanılan, **negatif basınçlı** özel oda. Hava uygun şekilde dışarı atılır veya HEPA ile filtrelenir.",
+        "en": "Airborne infection isolation room"
+      }
+    },
+    {
+      "title": "Damlacık çekirdeği",
+      "text": "Droplet nuclei\nSolunum damlacığının kurumasıyla oluşan ve havada asılı kalabilen küçük kalıntı partikül.",
+      "images": [],
+      "card": {
+        "id": "PER247-1nnwwry",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Damlacık çekirdeği",
+        "definition": "Solunum damlacığının kurumasıyla oluşan ve havada asılı kalabilen küçük kalıntı partikül.",
+        "en": "Droplet nuclei"
+      }
+    },
+    {
+      "title": "N95 respiratör",
+      "text": "N95 respirator\nNIOSH onaylı partikül filtreli solunum koruyucu. Hava yolu önlemlerinde uygun yüz uyumu ve kullanım tekniğiyle uygulanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-08o2ha9",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "N95 respiratör",
+        "definition": "NIOSH onaylı partikül filtreli solunum koruyucu. Hava yolu önlemlerinde uygun yüz uyumu ve kullanım tekniğiyle uygulanır.",
+        "en": "N95 respirator"
+      }
+    },
+    {
+      "title": "Kişisel koruyucu ekipman",
+      "text": "Personal protective equipment (PPE)\nÇalışanı tehlikeye karşı koruyan özel kıyafet/ekipman (eldiven, önlük, maske, gözlük, siper).",
+      "images": [],
+      "card": {
+        "id": "PER247-02zzwin",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kişisel koruyucu ekipman",
+        "definition": "Çalışanı tehlikeye karşı koruyan özel kıyafet/ekipman (eldiven, önlük, maske, gözlük, siper).",
+        "en": "Personal protective equipment (PPE)"
+      }
+    },
+    {
+      "title": "Solunum hijyeni/öksürük adabı",
+      "text": "Respiratory hygiene/cough etiquette\nÖksürürken örtme, mendili temassız atma, öksürene maske, mesafe.",
+      "images": [],
+      "card": {
+        "id": "PER247-0r2w1r5",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "term": "Solunum hijyeni/öksürük adabı",
+        "definition": "Öksürürken örtme, mendili temassız atma, öksürene maske, mesafe.",
+        "en": "Respiratory hygiene/cough etiquette"
+      }
+    },
+    {
+      "title": "Tıbbi atık",
+      "text": "Medical waste\nEnfeksiyon yapıcı, patolojik ve kesici-delici atıkların toplamı.",
+      "images": [],
+      "card": {
+        "id": "PER247-1in6j4u",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 3,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "term": "Tıbbi atık",
+        "definition": "Enfeksiyon yapıcı, patolojik ve kesici-delici atıkların toplamı.",
+        "en": "Medical waste"
+      }
+    },
+    {
+      "title": "Enfeksiyon yapıcı atık",
+      "text": "Infectious waste\nEnfeksiyon etkeni taşıyan/taşıması muhtemel kan, vücut sıvısı, doku ve bunlarla bulaşmış malzeme.",
+      "images": [],
+      "card": {
+        "id": "PER247-1feusco",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "term": "Enfeksiyon yapıcı atık",
+        "definition": "Enfeksiyon etkeni taşıyan/taşıması muhtemel kan, vücut sıvısı, doku ve bunlarla bulaşmış malzeme.",
+        "en": "Infectious waste"
+      }
+    },
+    {
+      "title": "Patolojik atık",
+      "text": "Pathological waste\nCerrahi, otopsi veya patoloji çalışması sonucunda oluşan doku, organ, vücut parçası ve benzeri materyal. Bertaraf yöntemi mevzuattaki koşul ve istisnalarla belirlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0af2yj5",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "term": "Patolojik atık",
+        "definition": "Cerrahi, otopsi veya patoloji çalışması sonucunda oluşan doku, organ, vücut parçası ve benzeri materyal. Bertaraf yöntemi mevzuattaki koşul ve istisnalarla belirlenir.",
+        "en": "Pathological waste"
+      }
+    },
+    {
+      "title": "Kesici-delici atık",
+      "text": "Sharps waste\nİğne, bisturi, lanset, kırık cam, ampul gibi yaralanma yapabilen atıklar.",
+      "images": [],
+      "card": {
+        "id": "PER247-14zanst",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 3,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "term": "Kesici-delici atık",
+        "definition": "İğne, bisturi, lanset, kırık cam, ampul gibi yaralanma yapabilen atıklar.",
+        "en": "Sharps waste"
+      }
+    },
+    {
+      "title": "Uluslararası biyotehlike amblemi",
+      "text": "International biohazard symbol\nTıbbi atık torba/kap ve araçlarında bulunması zorunlu siyah amblem.",
+      "images": [],
+      "card": {
+        "id": "PER247-1qicgtj",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 1,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "term": "Uluslararası biyotehlike amblemi",
+        "definition": "Tıbbi atık torba/kap ve araçlarında bulunması zorunlu siyah amblem.",
+        "en": "International biohazard symbol"
+      }
+    },
+    {
+      "title": "Tıbbi atık geçici depolaması",
+      "text": "Temporary storage\nTıbbi atığın işleme tesisine gönderilmeden önce kurumda güvenli biçimde bekletilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-1r253rx",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 1,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "term": "Tıbbi atık geçici depolaması",
+        "definition": "Tıbbi atığın işleme tesisine gönderilmeden önce kurumda güvenli biçimde bekletilmesi.",
+        "en": "Temporary storage"
+      }
+    },
+    {
+      "title": "Temas sonrası profilaksi",
+      "text": "Post-exposure prophylaxis\nKan/vücut sıvısı maruziyeti sonrası HBV/HIV bulaşını önleyici aşı, immünglobulin veya antiretroviral.",
+      "images": [],
+      "card": {
+        "id": "PER247-1h8rmqy",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC Mesleki Maruziyet 2001",
+        "term": "Temas sonrası profilaksi",
+        "definition": "Kan/vücut sıvısı maruziyeti sonrası HBV/HIV bulaşını önleyici aşı, immünglobulin veya antiretroviral.",
+        "en": "Post-exposure prophylaxis"
+      }
+    },
+    {
+      "title": "Hepatit B immünglobulini",
+      "text": "HBIG\nHepatit B virüsüne karşı hazır antikor içeren ürün. Uygun maruziyet koşullarında temas sonrası korunmanın bileşenidir; gereklilik bağışıklık durumuna bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1r42yh6",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC Mesleki Maruziyet 2001",
+        "term": "Hepatit B immünglobulini",
+        "definition": "Hepatit B virüsüne karşı hazır antikor içeren ürün. Uygun maruziyet koşullarında temas sonrası korunmanın bileşenidir; gereklilik bağışıklık durumuna bağlıdır.",
+        "en": "HBIG"
+      }
+    },
+    {
+      "title": "Rutin el ovma süresi",
+      "text": "WHO rutin alkol bazlı el ovmanın tamamı için **20–30 sn** belirtir. Bu süre, cerrahi el hazırlığı ürünü için otomatik süre değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1704w1p",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO El Hijyeni 2009",
+        "title": "Rutin el ovma süresi",
+        "body": "WHO rutin alkol bazlı el ovmanın tamamı için **20–30 sn** belirtir. Bu süre, cerrahi el hazırlığı ürünü için otomatik süre değildir."
+      }
+    },
+    {
+      "title": "Sabun-su süresi",
+      "text": "WHO el yıkama işleminin tamamı için **40–60 sn** belirtir. Görünür kir varsa el ovma yerine **sabun-su** kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-02sqyr8",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO El Hijyeni 2009",
+        "title": "Sabun-su süresi",
+        "body": "WHO el yıkama işleminin tamamı için **40–60 sn** belirtir. Görünür kir varsa el ovma yerine **sabun-su** kullanılır."
+      }
+    },
+    {
+      "title": "KKE giyme sırası",
+      "text": "CDC örneğinde kişisel koruyucu ekipman sırası: **önlük → maske/respiratör → gözlük/siper → eldiven**. Kullanılacak ekipman maruziyet ve izolasyon türüne bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1n3qknc",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC KKE sıralaması",
+        "title": "KKE giyme sırası",
+        "body": "CDC örneğinde kişisel koruyucu ekipman sırası: **önlük → maske/respiratör → gözlük/siper → eldiven**. Kullanılacak ekipman maruziyet ve izolasyon türüne bağlıdır."
+      }
+    },
+    {
+      "title": "Tıbbi atık torbası ölçütleri",
+      "text": "2017 yönetmeliğinde torba **kırmızı**, çift kat kalınlığı **100 mikron**, taşıma kapasitesi en az 10 kg’dır. Biyotehlike amblemi ve \"DİKKAT! TIBBİ ATIK\" ibaresi bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER247-1d1vdtq",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "fact",
+        "importance": 2,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "title": "Tıbbi atık torbası ölçütleri",
+        "body": "2017 yönetmeliğinde torba **kırmızı**, çift kat kalınlığı **100 mikron**, taşıma kapasitesi en az 10 kg’dır. Biyotehlike amblemi ve \"DİKKAT! TIBBİ ATIK\" ibaresi bulunur."
+      }
+    },
+    {
+      "title": "Geçici atık depolaması",
+      "text": "2017 yönetmeliğinde tıbbi atık **en fazla 48 saat** bekletilir. Geçici depo **+4 °C** olduğunda ve kapasitesi uygun olduğunda bu süre bir haftaya kadar uzatılabilir; iki koşul birlikte sağlanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1smcp94",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "fact",
+        "importance": 2,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "title": "Geçici atık depolaması",
+        "body": "2017 yönetmeliğinde tıbbi atık **en fazla 48 saat** bekletilir. Geçici depo **+4 °C** olduğunda ve kapasitesi uygun olduğunda bu süre bir haftaya kadar uzatılabilir; iki koşul birlikte sağlanır."
+      }
+    },
+    {
+      "title": "Respiratör güvenli çıkarma örneğinde nerede çıkarılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-19180vf",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC KKE sıralaması",
+        "question": "Respiratör güvenli çıkarma örneğinde nerede çıkarılır?",
+        "answer": "Hasta odasından **çıkıp kapı kapatıldıktan sonra**. Kontamine ön yüzüne dokunulmaz; çıkarma sonrasında el hijyeni yapılır."
+      }
+    },
+    {
+      "title": "Kesici-delici yaralanmada ilk yerel bakım nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-027rqf2",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC Mesleki Maruziyet 2001",
+        "question": "Kesici-delici yaralanmada ilk yerel bakım nedir?",
+        "answer": "Temas eden deri veya yara **sabun ve suyla**, mukoza **suyla** yıkanır. Kostik madde uygulama veya yaraya dezenfektan enjeksiyonu önerilmez."
+      }
+    },
+    {
+      "title": "Atık torbasını sıkıştırma",
+      "text": "Tıbbi atık torbası **sıkıştırılmaz, boşaltılmaz veya içeriği başka kaba aktarılmaz**. Torba/kap güvenliği yalnız renk seçmekten ibaret değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0r7m5zp",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "remember",
+        "importance": 3,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "title": "Atık torbasını sıkıştırma",
+        "body": "Tıbbi atık torbası **sıkıştırılmaz, boşaltılmaz veya içeriği başka kaba aktarılmaz**. Torba/kap güvenliği yalnız renk seçmekten ibaret değildir."
+      }
+    },
+    {
+      "title": "Standart önlemlerin uygulanacağı hasta grubu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1e4ax3q",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC İzolasyon 2007/2024",
+        "question": "Standart önlemlerin uygulanacağı hasta grubu hangisidir?",
+        "options": [
+          "Yalnız kültürü pozitif hastalar",
+          "Yalnız ateşi bulunan hastalar",
+          "Yalnız izolasyon odasındaki hastalar",
+          "Enfeksiyon durumundan bağımsız tüm hastalar"
+        ],
+        "correct": 3,
+        "explanation": "**Standart önlemler** tüm hastalara uygulanır; bilinen enfeksiyon tanısına bağlı değildir."
+      }
+    },
+    {
+      "title": "Tüberküloz için uygun oda/koruyucu yaklaşım hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0ndecpg",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC İzolasyon 2007/2024",
+        "question": "Tüberküloz için uygun oda/koruyucu yaklaşım hangisidir?",
+        "options": [
+          "Negatif basınçlı AIIR ve respiratör",
+          "Pozitif basınçlı oda ve cerrahi maske",
+          "Ortak açık oda ve cerrahi maske",
+          "Pozitif basınçlı oda ve yüz siperi"
+        ],
+        "correct": 0,
+        "explanation": "Hava yolu bulaşında **AIIR ve uygun respiratör** gerekir; cerrahi maskeyle aynı amaç değildir."
+      }
+    },
+    {
+      "title": "2017 yönetmeliğinde tıbbi atık torbasının azami doluluk oranı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-03oazhu",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "question": "2017 yönetmeliğinde tıbbi atık torbasının azami doluluk oranı hangisidir?",
+        "options": [
+          "Dörtte bir",
+          "Dörtte üç",
+          "Yarı",
+          "Tam dolu"
+        ],
+        "correct": 1,
+        "explanation": "Torba **en fazla ¾** doldurulur; sıkıştırılıp boşaltılarak tekrar kullanılmaz."
+      }
+    },
+    {
+      "title": "CDC KKE çıkarma örnek 1’de ilk çıkarılan hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1w9t325",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC KKE sıralaması",
+        "question": "CDC KKE çıkarma örnek 1’de ilk çıkarılan hangisidir?",
+        "options": [
+          "Maske",
+          "Önlük",
+          "Eldiven",
+          "Gözlük"
+        ],
+        "correct": 2,
+        "explanation": "Örnek 1 sırası eldiven, gözlük/siper, önlük, maske/respiratör ve el hijyenidir; diğer güvenli örnekler de vardır."
+      }
+    },
+    {
+      "title": "KKE çıkarma sırasında eller kontamine olursa ara adımda el hijyeni yapılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0yx9oer",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC KKE sıralaması",
+        "statement": "KKE çıkarma sırasında eller kontamine olursa ara adımda el hijyeni yapılır.",
+        "isTrue": true,
+        "explanation": "El hijyeni yalnız son adıma bırakılmaz; **ara kontaminasyonda hemen** uygulanır."
+      }
+    },
+    {
+      "title": "Eldiven kullanılması hasta teması sonrası el hijyeni gerekliliğini kaldırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0dcj7b7",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC İzolasyon 2007/2024",
+        "statement": "Eldiven kullanılması hasta teması sonrası el hijyeni gerekliliğini kaldırır.",
+        "isTrue": false,
+        "explanation": "Eldiven el hijyeninin yerine geçmez; çıkarıldıktan sonra ilgili el hijyeni endikasyonu devam eder."
+      }
+    },
+    {
+      "title": "Dolmuş kesici-delici atık kabı boşaltılarak yeniden kullanılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1s52bsu",
+        "course": "PER247",
+        "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+        "type": "tf",
+        "importance": 2,
+        "source": "Tıbbi Atık Yönetmeliği 2017",
+        "statement": "Dolmuş kesici-delici atık kabı boşaltılarak yeniden kullanılabilir.",
+        "isTrue": false,
+        "explanation": "Dolduktan sonra kap **açılamaz, boşaltılamaz ve yeniden kullanılamaz**; uygun şekilde kapatılır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-189ve7o",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 3,
+      "source": "WHO El Hijyeni 2009",
+      "term": "El hijyeni",
+      "definition": "El yıkama veya alkollü el ovma ile ellerin mikroorganizmalardan arındırılması.",
+      "en": "Hand hygiene"
+    },
+    {
+      "id": "PER247-1td0sly",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "term": "El hijyeninde beş an",
+      "definition": "Hasta teması ve aseptik işlem öncesinde; vücut sıvısı riski, hasta teması ve hasta çevresi teması sonrasında el hijyeni gerektiren DSÖ yaklaşımı.",
+      "en": "My 5 Moments"
+    },
+    {
+      "id": "PER247-0h9eddh",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Standart önlemler",
+      "definition": "Enfeksiyon durumundan bağımsız tüm hastalara uygulanan; kan, **ter hariç vücut sıvıları**, sekresyonlar, ekskresyonlar, bütünlüğü bozulmuş deri ve mukozaların bulaşıcı ajan içerebileceği ilkesine dayalı önlemler.",
+      "en": "Standard precautions"
+    },
+    {
+      "id": "PER247-18wpott",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Temas önlemleri",
+      "definition": "Doğrudan/dolaylı temasla bulaşan ajanlara karşı önlük-eldiven ve **varsa tek kişilik oda** kullanımı. Oda yetersizliğinde uygun kohortlama veya diğer yerleştirme önlemleri değerlendirilir.",
+      "en": "Contact precautions"
+    },
+    {
+      "id": "PER247-0a92qpb",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Damlacık önlemleri",
+      "definition": "Solunum damlacıklarıyla yakın temas sırasında bulaşan ajanlara karşı uygulanan ek önlemler. Maske ve uygun hasta yerleşimi temel bileşenlerdir.",
+      "en": "Droplet precautions"
+    },
+    {
+      "id": "PER247-05blnwe",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Hava yolu önlemleri",
+      "definition": "Havada asılı kalan ajanlar için AIIR ve N95 kullanımı.",
+      "en": "Airborne precautions"
+    },
+    {
+      "id": "PER247-1wncuyh",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Hava yolu enfeksiyon izolasyon odası",
+      "definition": "Havadan bulaşan enfeksiyonlarda kullanılan, **negatif basınçlı** özel oda. Hava uygun şekilde dışarı atılır veya HEPA ile filtrelenir.",
+      "en": "Airborne infection isolation room"
+    },
+    {
+      "id": "PER247-1nnwwry",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Damlacık çekirdeği",
+      "definition": "Solunum damlacığının kurumasıyla oluşan ve havada asılı kalabilen küçük kalıntı partikül.",
+      "en": "Droplet nuclei"
+    },
+    {
+      "id": "PER247-08o2ha9",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "N95 respiratör",
+      "definition": "NIOSH onaylı partikül filtreli solunum koruyucu. Hava yolu önlemlerinde uygun yüz uyumu ve kullanım tekniğiyle uygulanır.",
+      "en": "N95 respirator"
+    },
+    {
+      "id": "PER247-02zzwin",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kişisel koruyucu ekipman",
+      "definition": "Çalışanı tehlikeye karşı koruyan özel kıyafet/ekipman (eldiven, önlük, maske, gözlük, siper).",
+      "en": "Personal protective equipment (PPE)"
+    },
+    {
+      "id": "PER247-0r2w1r5",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "term": "Solunum hijyeni/öksürük adabı",
+      "definition": "Öksürürken örtme, mendili temassız atma, öksürene maske, mesafe.",
+      "en": "Respiratory hygiene/cough etiquette"
+    },
+    {
+      "id": "PER247-1in6j4u",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Tıbbi atık",
+      "definition": "Enfeksiyon yapıcı, patolojik ve kesici-delici atıkların toplamı.",
+      "en": "Medical waste"
+    },
+    {
+      "id": "PER247-1feusco",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Enfeksiyon yapıcı atık",
+      "definition": "Enfeksiyon etkeni taşıyan/taşıması muhtemel kan, vücut sıvısı, doku ve bunlarla bulaşmış malzeme.",
+      "en": "Infectious waste"
+    },
+    {
+      "id": "PER247-0af2yj5",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Patolojik atık",
+      "definition": "Cerrahi, otopsi veya patoloji çalışması sonucunda oluşan doku, organ, vücut parçası ve benzeri materyal. Bertaraf yöntemi mevzuattaki koşul ve istisnalarla belirlenir.",
+      "en": "Pathological waste"
+    },
+    {
+      "id": "PER247-14zanst",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Kesici-delici atık",
+      "definition": "İğne, bisturi, lanset, kırık cam, ampul gibi yaralanma yapabilen atıklar.",
+      "en": "Sharps waste"
+    },
+    {
+      "id": "PER247-1qicgtj",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 1,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Uluslararası biyotehlike amblemi",
+      "definition": "Tıbbi atık torba/kap ve araçlarında bulunması zorunlu siyah amblem.",
+      "en": "International biohazard symbol"
+    },
+    {
+      "id": "PER247-1r253rx",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 1,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "term": "Tıbbi atık geçici depolaması",
+      "definition": "Tıbbi atığın işleme tesisine gönderilmeden önce kurumda güvenli biçimde bekletilmesi.",
+      "en": "Temporary storage"
+    },
+    {
+      "id": "PER247-1h8rmqy",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC Mesleki Maruziyet 2001",
+      "term": "Temas sonrası profilaksi",
+      "definition": "Kan/vücut sıvısı maruziyeti sonrası HBV/HIV bulaşını önleyici aşı, immünglobulin veya antiretroviral.",
+      "en": "Post-exposure prophylaxis"
+    },
+    {
+      "id": "PER247-1r42yh6",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC Mesleki Maruziyet 2001",
+      "term": "Hepatit B immünglobulini",
+      "definition": "Hepatit B virüsüne karşı hazır antikor içeren ürün. Uygun maruziyet koşullarında temas sonrası korunmanın bileşenidir; gereklilik bağışıklık durumuna bağlıdır.",
+      "en": "HBIG"
+    },
+    {
+      "id": "PER247-1704w1p",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "title": "Rutin el ovma süresi",
+      "body": "WHO rutin alkol bazlı el ovmanın tamamı için **20–30 sn** belirtir. Bu süre, cerrahi el hazırlığı ürünü için otomatik süre değildir."
+    },
+    {
+      "id": "PER247-02sqyr8",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO El Hijyeni 2009",
+      "title": "Sabun-su süresi",
+      "body": "WHO el yıkama işleminin tamamı için **40–60 sn** belirtir. Görünür kir varsa el ovma yerine **sabun-su** kullanılır."
+    },
+    {
+      "id": "PER247-1n3qknc",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC KKE sıralaması",
+      "title": "KKE giyme sırası",
+      "body": "CDC örneğinde kişisel koruyucu ekipman sırası: **önlük → maske/respiratör → gözlük/siper → eldiven**. Kullanılacak ekipman maruziyet ve izolasyon türüne bağlıdır."
+    },
+    {
+      "id": "PER247-1d1vdtq",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "fact",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "title": "Tıbbi atık torbası ölçütleri",
+      "body": "2017 yönetmeliğinde torba **kırmızı**, çift kat kalınlığı **100 mikron**, taşıma kapasitesi en az 10 kg’dır. Biyotehlike amblemi ve \"DİKKAT! TIBBİ ATIK\" ibaresi bulunur."
+    },
+    {
+      "id": "PER247-1smcp94",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "fact",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "title": "Geçici atık depolaması",
+      "body": "2017 yönetmeliğinde tıbbi atık **en fazla 48 saat** bekletilir. Geçici depo **+4 °C** olduğunda ve kapasitesi uygun olduğunda bu süre bir haftaya kadar uzatılabilir; iki koşul birlikte sağlanır."
+    },
+    {
+      "id": "PER247-19180vf",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC KKE sıralaması",
+      "question": "Respiratör güvenli çıkarma örneğinde nerede çıkarılır?",
+      "answer": "Hasta odasından **çıkıp kapı kapatıldıktan sonra**. Kontamine ön yüzüne dokunulmaz; çıkarma sonrasında el hijyeni yapılır."
+    },
+    {
+      "id": "PER247-027rqf2",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC Mesleki Maruziyet 2001",
+      "question": "Kesici-delici yaralanmada ilk yerel bakım nedir?",
+      "answer": "Temas eden deri veya yara **sabun ve suyla**, mukoza **suyla** yıkanır. Kostik madde uygulama veya yaraya dezenfektan enjeksiyonu önerilmez."
+    },
+    {
+      "id": "PER247-0r7m5zp",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "remember",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "title": "Atık torbasını sıkıştırma",
+      "body": "Tıbbi atık torbası **sıkıştırılmaz, boşaltılmaz veya içeriği başka kaba aktarılmaz**. Torba/kap güvenliği yalnız renk seçmekten ibaret değildir."
+    },
+    {
+      "id": "PER247-1e4ax3q",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "question": "Standart önlemlerin uygulanacağı hasta grubu hangisidir?",
+      "options": [
+        "Yalnız kültürü pozitif hastalar",
+        "Yalnız ateşi bulunan hastalar",
+        "Yalnız izolasyon odasındaki hastalar",
+        "Enfeksiyon durumundan bağımsız tüm hastalar"
+      ],
+      "correct": 3,
+      "explanation": "**Standart önlemler** tüm hastalara uygulanır; bilinen enfeksiyon tanısına bağlı değildir."
+    },
+    {
+      "id": "PER247-0ndecpg",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC İzolasyon 2007/2024",
+      "question": "Tüberküloz için uygun oda/koruyucu yaklaşım hangisidir?",
+      "options": [
+        "Negatif basınçlı AIIR ve respiratör",
+        "Pozitif basınçlı oda ve cerrahi maske",
+        "Ortak açık oda ve cerrahi maske",
+        "Pozitif basınçlı oda ve yüz siperi"
+      ],
+      "correct": 0,
+      "explanation": "Hava yolu bulaşında **AIIR ve uygun respiratör** gerekir; cerrahi maskeyle aynı amaç değildir."
+    },
+    {
+      "id": "PER247-03oazhu",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "question": "2017 yönetmeliğinde tıbbi atık torbasının azami doluluk oranı hangisidir?",
+      "options": [
+        "Dörtte bir",
+        "Dörtte üç",
+        "Yarı",
+        "Tam dolu"
+      ],
+      "correct": 1,
+      "explanation": "Torba **en fazla ¾** doldurulur; sıkıştırılıp boşaltılarak tekrar kullanılmaz."
+    },
+    {
+      "id": "PER247-1w9t325",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC KKE sıralaması",
+      "question": "CDC KKE çıkarma örnek 1’de ilk çıkarılan hangisidir?",
+      "options": [
+        "Maske",
+        "Önlük",
+        "Eldiven",
+        "Gözlük"
+      ],
+      "correct": 2,
+      "explanation": "Örnek 1 sırası eldiven, gözlük/siper, önlük, maske/respiratör ve el hijyenidir; diğer güvenli örnekler de vardır."
+    },
+    {
+      "id": "PER247-0yx9oer",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC KKE sıralaması",
+      "statement": "KKE çıkarma sırasında eller kontamine olursa ara adımda el hijyeni yapılır.",
+      "isTrue": true,
+      "explanation": "El hijyeni yalnız son adıma bırakılmaz; **ara kontaminasyonda hemen** uygulanır."
+    },
+    {
+      "id": "PER247-0dcj7b7",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC İzolasyon 2007/2024",
+      "statement": "Eldiven kullanılması hasta teması sonrası el hijyeni gerekliliğini kaldırır.",
+      "isTrue": false,
+      "explanation": "Eldiven el hijyeninin yerine geçmez; çıkarıldıktan sonra ilgili el hijyeni endikasyonu devam eder."
+    },
+    {
+      "id": "PER247-1s52bsu",
+      "course": "PER247",
+      "topic": "El hijyeni, KKE, izolasyon ve tıbbi atık",
+      "type": "tf",
+      "importance": 2,
+      "source": "Tıbbi Atık Yönetmeliği 2017",
+      "statement": "Dolmuş kesici-delici atık kabı boşaltılarak yeniden kullanılabilir.",
+      "isTrue": false,
+      "explanation": "Dolduktan sonra kap **açılamaz, boşaltılamaz ve yeniden kullanılamaz**; uygun şekilde kapatılır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

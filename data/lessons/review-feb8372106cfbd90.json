@@ -1,0 +1,1247 @@
+{
+  "id": "review-feb8372106cfbd90",
+  "title": "Heparin direnci, HİT ve protamin",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Heparin direnci",
+      "text": "Heparin resistance\nUygun heparin dozuna rağmen hedef ACT'ye ulaşılamaması; en sık neden antitrombin eksikliği.",
+      "images": [],
+      "card": {
+        "id": "PER243-0v2yni2",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Heparin direnci",
+        "en": "Heparin resistance",
+        "definition": "Uygun heparin dozuna rağmen hedef ACT'ye ulaşılamaması; en sık neden antitrombin eksikliği.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "HİT",
+      "text": "Heparin-induced thrombocytopenia\nHeparin–PF4 kompleksine karşı IgG ile trombosit aktivasyonu, trombositopeni ve tromboz (tip II).",
+      "images": [],
+      "card": {
+        "id": "PER243-125keue",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "HİT",
+        "en": "Heparin-induced thrombocytopenia",
+        "definition": "Heparin–PF4 kompleksine karşı IgG ile trombosit aktivasyonu, trombositopeni ve tromboz (tip II).",
+        "source": "BJA Education 2023: alternatifler"
+      }
+    },
+    {
+      "title": "4T skoru",
+      "text": "4Ts score\nHİT ön test olasılığı: trombositopeni, zamanlama, tromboz, diğer nedenler.",
+      "images": [],
+      "card": {
+        "id": "PER243-0umljs7",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "4T skoru",
+        "en": "4Ts score",
+        "definition": "HİT ön test olasılığı: trombositopeni, zamanlama, tromboz, diğer nedenler.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Bivalirudin",
+      "text": "Bivalirudin\nKısa etkili doğrudan trombin inhibitörü; HİT'te KPB için ilk seçenek; antidotu yoktur.",
+      "images": [],
+      "card": {
+        "id": "PER243-1nlujjm",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Bivalirudin",
+        "en": "Bivalirudin",
+        "definition": "Kısa etkili doğrudan trombin inhibitörü; HİT'te KPB için ilk seçenek; antidotu yoktur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Argatroban",
+      "text": "Argatroban\nKaraciğerden elimine edilen doğrudan trombin inhibitörü; böbrek yetmezliğinde tercih edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1j6240q",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Argatroban",
+        "en": "Argatroban",
+        "definition": "Karaciğerden elimine edilen doğrudan trombin inhibitörü; böbrek yetmezliğinde tercih edilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Protamin sülfat",
+      "text": "Protamine sulfate\nArginince zengin, bazik ve pozitif yüklü protein; heparin etkisini geri çevirmek için kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0d533iz",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Protamin sülfat",
+        "en": "Protamine sulfate",
+        "definition": "Arginince zengin, bazik ve pozitif yüklü protein; heparin etkisini geri çevirmek için kullanılır.",
+        "source": "DailyMed: protamin"
+      }
+    },
+    {
+      "title": "Heparin rebound",
+      "text": "Heparin rebound\nProtamin sonrası dokulardan dolaşıma dönen heparinin yeniden antikoagülasyon ve kanama yapması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0k8uix9",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Heparin rebound",
+        "en": "Heparin rebound",
+        "definition": "Protamin sonrası dokulardan dolaşıma dönen heparinin yeniden antikoagülasyon ve kanama yapması.",
+        "source": "DailyMed: protamin"
+      }
+    },
+    {
+      "title": "PIPH",
+      "text": "Protamine-induced pulmonary hypertension\nProtamin uygulanmasından sonra gelişebilen ani pulmoner vazokonstriksiyon, pulmoner hipertansiyon ve sağ ventrikül işlev bozukluğu tablosu.",
+      "images": [],
+      "card": {
+        "id": "PER243-1iipazi",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "PIPH",
+        "en": "Protamine-induced pulmonary hypertension",
+        "definition": "Protamin uygulanmasından sonra gelişebilen ani pulmoner vazokonstriksiyon, pulmoner hipertansiyon ve sağ ventrikül işlev bozukluğu tablosu.",
+        "source": "DailyMed: protamin"
+      }
+    },
+    {
+      "title": "Antifibrinolitik",
+      "text": "Antifibrinolytic\nFibrinolizi inhibe ederek kanamayı azaltan ilaç (TXA, EACA, aprotinin).",
+      "images": [],
+      "card": {
+        "id": "PER243-1i3yhih",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Antifibrinolitik",
+        "en": "Antifibrinolytic",
+        "definition": "Fibrinolizi inhibe ederek kanamayı azaltan ilaç (TXA, EACA, aprotinin).",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Traneksamik asit",
+      "text": "Tranexamic acid\nLizin analoğu; plazmin(ojen)in fibrine bağlanmasını önler; yüksek dozda nöbet riski.",
+      "images": [],
+      "card": {
+        "id": "PER243-1q1o1tw",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Traneksamik asit",
+        "en": "Tranexamic acid",
+        "definition": "Lizin analoğu; plazmin(ojen)in fibrine bağlanmasını önler; yüksek dozda nöbet riski.",
+        "source": "DailyMed: traneksamik asit"
+      }
+    },
+    {
+      "title": "EACA",
+      "text": "Epsilon-aminocaproic acid\nPlazminojen aktivasyonunu inhibe eden lizin analoğu antifibrinolitik.",
+      "images": [],
+      "card": {
+        "id": "PER243-0dkcrfb",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "EACA",
+        "en": "Epsilon-aminocaproic acid",
+        "definition": "Plazminojen aktivasyonunu inhibe eden lizin analoğu antifibrinolitik.",
+        "source": "DailyMed: aminokaproik asit"
+      }
+    },
+    {
+      "title": "Aprotinin",
+      "text": "Aprotinin\nPlazmin ve kallikrein gibi serin proteazları inhibe eden polipeptit yapıda antifibrinolitik ajan.",
+      "images": [],
+      "card": {
+        "id": "PER243-0xgjibd",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Aprotinin",
+        "en": "Aprotinin",
+        "definition": "Plazmin ve kallikrein gibi serin proteazları inhibe eden polipeptit yapıda antifibrinolitik ajan.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Desmopressin",
+      "text": "Desmopressin (DDAVP)\nV2 reseptörü aracılığıyla etki gösteren sentetik vazopressin analoğu; seçilmiş kalıtsal kanama bozukluklarında kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0gjhqc5",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "Desmopressin",
+        "en": "Desmopressin (DDAVP)",
+        "definition": "V2 reseptörü aracılığıyla etki gösteren sentetik vazopressin analoğu; seçilmiş kalıtsal kanama bozukluklarında kullanılır.",
+        "source": "DailyMed: desmopressin"
+      }
+    },
+    {
+      "title": "PKK",
+      "text": "Prothrombin complex concentrate (PCC)\nFII, FVII, FIX, FX içeren liyofilize konsantre; varfarinin hızlı geri çevrilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0jd1qbd",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 2,
+        "term": "PKK",
+        "en": "Prothrombin complex concentrate (PCC)",
+        "definition": "FII, FVII, FIX, FX içeren liyofilize konsantre; varfarinin hızlı geri çevrilmesi.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Fibrinojen konsantresi",
+      "text": "Fibrinogen concentrate\nFibrinojen eksikliğine bağlı kanamada eksik pıhtı substratının yerine konmasını sağlayan konsantre ürün.",
+      "images": [],
+      "card": {
+        "id": "PER243-10ojlmu",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 1,
+        "term": "Fibrinojen konsantresi",
+        "en": "Fibrinogen concentrate",
+        "definition": "Fibrinojen eksikliğine bağlı kanamada eksik pıhtı substratının yerine konmasını sağlayan konsantre ürün.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "rFVIIa",
+      "text": "Recombinant activated factor VII\nKontrol edilemeyen kanamada son çare olarak kullanılan, tromboz riski taşıyan faktör.",
+      "images": [],
+      "card": {
+        "id": "PER243-106q3hy",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 1,
+        "term": "rFVIIa",
+        "en": "Recombinant activated factor VII",
+        "definition": "Kontrol edilemeyen kanamada son çare olarak kullanılan, tromboz riski taşıyan faktör.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Doğrudan trombin inhibitörü",
+      "text": "Direct thrombin inhibitor\nAntitrombine gerek olmadan trombini doğrudan inhibe eden ilaç (bivalirudin, argatroban).",
+      "images": [],
+      "card": {
+        "id": "PER243-1m82dwx",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Doğrudan trombin inhibitörü",
+        "en": "Direct thrombin inhibitor",
+        "definition": "Antitrombine gerek olmadan trombini doğrudan inhibe eden ilaç (bivalirudin, argatroban).",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyotomi aspiratörü",
+      "text": "Cardiotomy suction\nCerrahi alandaki kanı kardiyopulmoner bypass rezervuarına geri döndüren aspirasyon düzeneği.",
+      "images": [],
+      "card": {
+        "id": "PER243-1z11yjp",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyotomi aspiratörü",
+        "en": "Cardiotomy suction",
+        "definition": "Cerrahi alandaki kanı kardiyopulmoner bypass rezervuarına geri döndüren aspirasyon düzeneği.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparinle ilişkili sorunlar",
+      "text": "Heparin direnci\nHeparine antikoagülan yanıt yetersiz\nAntitrombin eksikliği önemli bir neden\n\nİmmün HİT\nHeparin–PF4 antikorlarıyla trombosit aktivasyonu\nTrombositopeniye tromboz eşlik edebilir",
+      "images": [],
+      "card": {
+        "id": "PER243-0n7120z",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "compare",
+        "importance": 2,
+        "title": "Heparinle ilişkili sorunlar",
+        "left": {
+          "title": "Heparin direnci",
+          "points": [
+            "Heparine antikoagülan yanıt yetersiz",
+            "Antitrombin eksikliği önemli bir neden"
+          ]
+        },
+        "right": {
+          "title": "İmmün HİT",
+          "points": [
+            "Heparin–PF4 antikorlarıyla trombosit aktivasyonu",
+            "Trombositopeniye tromboz eşlik edebilir"
+          ]
+        },
+        "source": "BJA Education 2023: heparin / alternatifler"
+      }
+    },
+    {
+      "title": "Protamin sonrası kanama",
+      "text": "Heparin rebound\nDolaşıma yeniden çıkan heparin etkisi\nHeparinazlı testlerle değerlendirilebilir\n\nProtamin fazlası\nTrombosit işlevinde bozulma ve fibrinoliz artışı\nEk protamin kanamayı ağırlaştırabilir",
+      "images": [],
+      "card": {
+        "id": "PER243-1b1rpec",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "compare",
+        "importance": 2,
+        "title": "Protamin sonrası kanama",
+        "left": {
+          "title": "Heparin rebound",
+          "points": [
+            "Dolaşıma yeniden çıkan heparin etkisi",
+            "Heparinazlı testlerle değerlendirilebilir"
+          ]
+        },
+        "right": {
+          "title": "Protamin fazlası",
+          "points": [
+            "Trombosit işlevinde bozulma ve fibrinoliz artışı",
+            "Ek protamin kanamayı ağırlaştırabilir"
+          ]
+        },
+        "source": "Ann Card Anaesth 2024: protamin"
+      }
+    },
+    {
+      "title": "Pıhtının oluşması ve yıkılması",
+      "text": "Antikoagülan\nPıhtı oluşumunu engeller\nÖrnek: heparin, bivalirudin\n\nAntifibrinolitik\nPıhtının yıkımını engeller\nÖrnek: traneksamik asit, EACA",
+      "images": [],
+      "card": {
+        "id": "PER243-08gsk3z",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "compare",
+        "importance": 2,
+        "title": "Pıhtının oluşması ve yıkılması",
+        "left": {
+          "title": "Antikoagülan",
+          "points": [
+            "Pıhtı oluşumunu engeller",
+            "Örnek: heparin, bivalirudin"
+          ]
+        },
+        "right": {
+          "title": "Antifibrinolitik",
+          "points": [
+            "Pıhtının yıkımını engeller",
+            "Örnek: traneksamik asit, EACA"
+          ]
+        },
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Heparin direncinin başka nedenleri",
+      "text": "Yüksek fibrinojen, trombositoz, aktif endokardit ve hipoalbüminemi heparine yetersiz yanıtla ilişkilidir; bütün direnç olguları tek nedene bağlanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-0eofds2",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 3,
+        "title": "Heparin direncinin başka nedenleri",
+        "body": "Yüksek fibrinojen, trombositoz, aktif endokardit ve hipoalbüminemi heparine yetersiz yanıtla ilişkilidir; bütün direnç olguları tek nedene bağlanmaz.",
+        "source": "BJA Education 2023: heparin"
+      }
+    },
+    {
+      "title": "HİT testinin sınırı",
+      "text": "PF4/heparin immünoassay pozitifliği **tek başına HİT tanısı değildir**; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-04v4q60",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "HİT testinin sınırı",
+        "body": "PF4/heparin immünoassay pozitifliği **tek başına HİT tanısı değildir**; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+        "source": "BJA Education 2023: alternatifler"
+      }
+    },
+    {
+      "title": "Bivalirudin ve durgun kan",
+      "text": "Bivalirudinle kardiyopulmoner bypassta **durgun kanın pıhtılaşması** risk oluşturur; devrede stazın önlenmesi önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1mo2h78",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "Bivalirudin ve durgun kan",
+        "body": "Bivalirudinle kardiyopulmoner bypassta **durgun kanın pıhtılaşması** risk oluşturur; devrede stazın önlenmesi önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Uzamış ACT ve protamin",
+      "text": "Protamin sonrası uzamış ACT'nin tek nedeni rezidüel heparin değildir. Hipotermi ve faktör/trombosit sorunları nedeniyle **otomatik ek protamin** aşırı doza yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-123e64n",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "Uzamış ACT ve protamin",
+        "body": "Protamin sonrası uzamış ACT'nin tek nedeni rezidüel heparin değildir. Hipotermi ve faktör/trombosit sorunları nedeniyle **otomatik ek protamin** aşırı doza yol açabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Desmopressinin tekrar yanıtı",
+      "text": "Desmopressinin sık tekrarlanan uygulamalarında **taşifilaksi** gelişebilir; hiponatremi ve su intoksikasyonu da önemli risklerdir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ttb973",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 1,
+        "title": "Desmopressinin tekrar yanıtı",
+        "body": "Desmopressinin sık tekrarlanan uygulamalarında **taşifilaksi** gelişebilir; hiponatremi ve su intoksikasyonu da önemli risklerdir.",
+        "source": "DailyMed: desmopressin"
+      }
+    },
+    {
+      "title": "Böbrek yetmezliği olan HİT hastasında argatrobanın tercih gerekçesi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1k8c5oo",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "flip",
+        "importance": 1,
+        "question": "Böbrek yetmezliği olan HİT hastasında argatrobanın tercih gerekçesi nedir?",
+        "answer": "Argatrobanın eliminasyonu ağırlıklı **hepatiktir**; böbrek fonksiyonu seçimi etkiler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin direncinde AT desteğinin temel amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1pj8lpm",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "flip",
+        "importance": 2,
+        "question": "Heparin direncinde AT desteğinin temel amacı nedir?",
+        "answer": "Kardiyopulmoner bypass için **etkin antikoagülasyon sağlamak**; birincil amaç doğrudan kanamayı azaltmak değildir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Protamin heparini hangi bağlanma biçimiyle etkisizleştirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-01x9zmt",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "flip",
+        "importance": 2,
+        "question": "Protamin heparini hangi bağlanma biçimiyle etkisizleştirir?",
+        "answer": "Pozitif yüklü protamin, heparinle **elektrostatik bağlanarak** inaktif kompleks oluşturur.",
+        "source": "DailyMed: protamin"
+      }
+    },
+    {
+      "title": "HİT'te tromboz",
+      "text": "İmmün heparine bağlı trombositopenide asıl tehlike yalnız düşük trombosit sayısı değildir; **tromboz** başlıca klinik tehdittir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1wb6gcg",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "remember",
+        "importance": 3,
+        "title": "HİT'te tromboz",
+        "body": "İmmün heparine bağlı trombositopenide asıl tehlike yalnız düşük trombosit sayısı değildir; **tromboz** başlıca klinik tehdittir.",
+        "source": "BJA Education 2023: alternatifler"
+      }
+    },
+    {
+      "title": "Protamin ve aspiratör",
+      "text": "**Protamin başladığında kardiyotomi aspiratörü kapatılır**; nötralize kanın devreye dönmesi istenmeyen pıhtılaşma riski oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER243-1b7760i",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "remember",
+        "importance": 3,
+        "title": "Protamin ve aspiratör",
+        "body": "**Protamin başladığında kardiyotomi aspiratörü kapatılır**; nötralize kanın devreye dönmesi istenmeyen pıhtılaşma riski oluşturur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Traneksamik asitte yol hatası",
+      "text": "Enjeksiyonluk traneksamik asit **yalnız intravenöz** uygulanır. Yanlış nöraksiyel uygulama nöbet, aritmi ve ölüm oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1qvu3kv",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "remember",
+        "importance": 3,
+        "title": "Traneksamik asitte yol hatası",
+        "body": "Enjeksiyonluk traneksamik asit **yalnız intravenöz** uygulanır. Yanlış nöraksiyel uygulama nöbet, aritmi ve ölüm oluşturabilir.",
+        "source": "DailyMed: traneksamik asit"
+      }
+    },
+    {
+      "title": "Protamin ürün bilgisindeki sınır",
+      "text": "DailyMed protamin etiketinde **1 mg yaklaşık 100 USP ünite heparini** nötralize eder; yavaş uygulamada herhangi bir 10 dk'lık sürede 50 mg aşılmamalıdır. KPB'de oran ayrıca bireyselleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-143pug9",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 3,
+        "title": "Protamin ürün bilgisindeki sınır",
+        "body": "DailyMed protamin etiketinde **1 mg yaklaşık 100 USP ünite heparini** nötralize eder; yavaş uygulamada herhangi bir 10 dk'lık sürede 50 mg aşılmamalıdır. KPB'de oran ayrıca bireyselleştirilir.",
+        "source": "DailyMed: protamin"
+      }
+    },
+    {
+      "title": "Desmopressin ve özgül endikasyon",
+      "text": "DDAVP etiketinde hemofili A ve von Willebrand tip I için **0,3 µg/kg (en çok 20 µg)**, 15–30 dk intravenöz infüzyon belirtilir; kalp cerrahisinde rutin profilaksi önerisi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1gcawf6",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 1,
+        "title": "Desmopressin ve özgül endikasyon",
+        "body": "DDAVP etiketinde hemofili A ve von Willebrand tip I için **0,3 µg/kg (en çok 20 µg)**, 15–30 dk intravenöz infüzyon belirtilir; kalp cerrahisinde rutin profilaksi önerisi değildir.",
+        "source": "DailyMed: desmopressin"
+      }
+    },
+    {
+      "title": "Kılavuzda protamin oranı",
+      "text": "2024 PBM kılavuzu başlangıç heparinine göre protamin/heparin oranının **1,0'ın altında** tutulmasını destekler; 0,6–0,8:1 çalışılmış oranlardır. Doz, geçen süre ve rezidüel heparinle bireyselleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ousuaa",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kılavuzda protamin oranı",
+        "body": "2024 PBM kılavuzu başlangıç heparinine göre protamin/heparin oranının **1,0'ın altında** tutulmasını destekler; 0,6–0,8:1 çalışılmış oranlardır. Doz, geçen süre ve rezidüel heparinle bireyselleştirilir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Önceki protamin maruziyeti",
+      "text": "Protamin ürün bilgisinde önceki **protamin veya protaminli insülin** maruziyeti ciddi reaksiyon riski değerlendirmesinde önemlidir; öykü uygulama öncesinde sorgulanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ldw9o5",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "fact",
+        "importance": 2,
+        "title": "Önceki protamin maruziyeti",
+        "body": "Protamin ürün bilgisinde önceki **protamin veya protaminli insülin** maruziyeti ciddi reaksiyon riski değerlendirmesinde önemlidir; öykü uygulama öncesinde sorgulanır.",
+        "source": "DailyMed: protamin"
+      }
+    },
+    {
+      "title": "İmmün HİT'te antikorların hedefi hangi komplekstir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-09z5u28",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "mcq",
+        "importance": 3,
+        "question": "İmmün HİT'te antikorların hedefi hangi komplekstir?",
+        "options": [
+          "Heparin–PF4",
+          "Protamin–kalsiyum",
+          "Fibrin–adenozin",
+          "Hemoglobin–oksijen"
+        ],
+        "correct": 0,
+        "explanation": "Tip II HİT heparin–PF4 kompleksine karşı antikorlarla trombosit aktivasyonuna bağlıdır.",
+        "source": "BJA Education 2023: alternatifler"
+      }
+    },
+    {
+      "title": "HİT için KPB'de kullanılan doğrudan trombin inhibitörü hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1h7t86l",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "mcq",
+        "importance": 2,
+        "question": "HİT için KPB'de kullanılan doğrudan trombin inhibitörü hangisidir?",
+        "options": [
+          "Fraksiyone olmayan heparin",
+          "Bivalirudin",
+          "Düşük molekül ağırlıklı heparin",
+          "Fondaparinuks"
+        ],
+        "correct": 1,
+        "explanation": "Bivalirudin trombini doğrudan inhibe eder; heparinler ve fondaparinuks antitrombin üzerinden etki gösterir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Traneksamik asit fibrin yıkımını hangi mekanizmayla azaltır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1w0n2cm",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Traneksamik asit fibrin yıkımını hangi mekanizmayla azaltır?",
+        "options": [
+          "Trombini antitrombine bağlar",
+          "Trombosit sayısını artırır",
+          "Plazminojenin fibrine bağlanmasını engeller",
+          "Kalsiyumu sitrata bağlar"
+        ],
+        "correct": 2,
+        "explanation": "Lizin analoğu traneksamik asit, plazmin(ojen)in fibrindeki lizin bağlanma bölgelerini işgal eder.",
+        "source": "DailyMed: traneksamik asit"
+      }
+    },
+    {
+      "title": "Desmopressin endotelden hangi çifti salgılatır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-07zra6n",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Desmopressin endotelden hangi çifti salgılatır?",
+        "options": [
+          "Faktör IX ve faktör XIII",
+          "Heparin ve antitrombin",
+          "Plazmin ve doku faktörü",
+          "vWF ve faktör VIII"
+        ],
+        "correct": 3,
+        "explanation": "Desmopressin V2 uyarımıyla vWF ve faktör VIII salınımını artırır.",
+        "source": "DailyMed: desmopressin"
+      }
+    },
+    {
+      "title": "Traneksamik asidin eliminasyonu esas olarak akciğer sekestrasyonuyla olur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-07bc1im",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "tf",
+        "importance": 3,
+        "statement": "Traneksamik asidin eliminasyonu esas olarak akciğer sekestrasyonuyla olur.",
+        "isTrue": false,
+        "explanation": "Traneksamik asit büyük ölçüde değişmeden idrarla atılır; böbrek yetmezliğinde doz değerlendirmesi gerekir.",
+        "source": "DailyMed: traneksamik asit"
+      }
+    },
+    {
+      "title": "Aşırı protamin trombosit işlevini bozup kanamayı artırabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0mmcqw5",
+        "course": "PER243",
+        "topic": "Heparin direnci, HİT ve protamin",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Aşırı protamin trombosit işlevini bozup kanamayı artırabilir.",
+        "isTrue": true,
+        "explanation": "Protamin fazlası paradoksal antikoagülasyon, trombosit işlev bozukluğu ve fibrinoliz artışı oluşturabilir.",
+        "source": "Ann Card Anaesth 2024: protamin"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-0v2yni2",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin direnci",
+      "en": "Heparin resistance",
+      "definition": "Uygun heparin dozuna rağmen hedef ACT'ye ulaşılamaması; en sık neden antitrombin eksikliği.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-125keue",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "HİT",
+      "en": "Heparin-induced thrombocytopenia",
+      "definition": "Heparin–PF4 kompleksine karşı IgG ile trombosit aktivasyonu, trombositopeni ve tromboz (tip II).",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "id": "PER243-0umljs7",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "4T skoru",
+      "en": "4Ts score",
+      "definition": "HİT ön test olasılığı: trombositopeni, zamanlama, tromboz, diğer nedenler.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1nlujjm",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Bivalirudin",
+      "en": "Bivalirudin",
+      "definition": "Kısa etkili doğrudan trombin inhibitörü; HİT'te KPB için ilk seçenek; antidotu yoktur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1j6240q",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Argatroban",
+      "en": "Argatroban",
+      "definition": "Karaciğerden elimine edilen doğrudan trombin inhibitörü; böbrek yetmezliğinde tercih edilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0d533iz",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Protamin sülfat",
+      "en": "Protamine sulfate",
+      "definition": "Arginince zengin, bazik ve pozitif yüklü protein; heparin etkisini geri çevirmek için kullanılır.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "id": "PER243-0k8uix9",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Heparin rebound",
+      "en": "Heparin rebound",
+      "definition": "Protamin sonrası dokulardan dolaşıma dönen heparinin yeniden antikoagülasyon ve kanama yapması.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "id": "PER243-1iipazi",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "PIPH",
+      "en": "Protamine-induced pulmonary hypertension",
+      "definition": "Protamin uygulanmasından sonra gelişebilen ani pulmoner vazokonstriksiyon, pulmoner hipertansiyon ve sağ ventrikül işlev bozukluğu tablosu.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "id": "PER243-1i3yhih",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Antifibrinolitik",
+      "en": "Antifibrinolytic",
+      "definition": "Fibrinolizi inhibe ederek kanamayı azaltan ilaç (TXA, EACA, aprotinin).",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1q1o1tw",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Traneksamik asit",
+      "en": "Tranexamic acid",
+      "definition": "Lizin analoğu; plazmin(ojen)in fibrine bağlanmasını önler; yüksek dozda nöbet riski.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "id": "PER243-0dkcrfb",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "EACA",
+      "en": "Epsilon-aminocaproic acid",
+      "definition": "Plazminojen aktivasyonunu inhibe eden lizin analoğu antifibrinolitik.",
+      "source": "DailyMed: aminokaproik asit"
+    },
+    {
+      "id": "PER243-0xgjibd",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Aprotinin",
+      "en": "Aprotinin",
+      "definition": "Plazmin ve kallikrein gibi serin proteazları inhibe eden polipeptit yapıda antifibrinolitik ajan.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0gjhqc5",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "Desmopressin",
+      "en": "Desmopressin (DDAVP)",
+      "definition": "V2 reseptörü aracılığıyla etki gösteren sentetik vazopressin analoğu; seçilmiş kalıtsal kanama bozukluklarında kullanılır.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "id": "PER243-0jd1qbd",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 2,
+      "term": "PKK",
+      "en": "Prothrombin complex concentrate (PCC)",
+      "definition": "FII, FVII, FIX, FX içeren liyofilize konsantre; varfarinin hızlı geri çevrilmesi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-10ojlmu",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 1,
+      "term": "Fibrinojen konsantresi",
+      "en": "Fibrinogen concentrate",
+      "definition": "Fibrinojen eksikliğine bağlı kanamada eksik pıhtı substratının yerine konmasını sağlayan konsantre ürün.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-106q3hy",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 1,
+      "term": "rFVIIa",
+      "en": "Recombinant activated factor VII",
+      "definition": "Kontrol edilemeyen kanamada son çare olarak kullanılan, tromboz riski taşıyan faktör.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1m82dwx",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Doğrudan trombin inhibitörü",
+      "en": "Direct thrombin inhibitor",
+      "definition": "Antitrombine gerek olmadan trombini doğrudan inhibe eden ilaç (bivalirudin, argatroban).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1z11yjp",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyotomi aspiratörü",
+      "en": "Cardiotomy suction",
+      "definition": "Cerrahi alandaki kanı kardiyopulmoner bypass rezervuarına geri döndüren aspirasyon düzeneği.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0n7120z",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "compare",
+      "importance": 2,
+      "title": "Heparinle ilişkili sorunlar",
+      "left": {
+        "title": "Heparin direnci",
+        "points": [
+          "Heparine antikoagülan yanıt yetersiz",
+          "Antitrombin eksikliği önemli bir neden"
+        ]
+      },
+      "right": {
+        "title": "İmmün HİT",
+        "points": [
+          "Heparin–PF4 antikorlarıyla trombosit aktivasyonu",
+          "Trombositopeniye tromboz eşlik edebilir"
+        ]
+      },
+      "source": "BJA Education 2023: heparin / alternatifler"
+    },
+    {
+      "id": "PER243-1b1rpec",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "compare",
+      "importance": 2,
+      "title": "Protamin sonrası kanama",
+      "left": {
+        "title": "Heparin rebound",
+        "points": [
+          "Dolaşıma yeniden çıkan heparin etkisi",
+          "Heparinazlı testlerle değerlendirilebilir"
+        ]
+      },
+      "right": {
+        "title": "Protamin fazlası",
+        "points": [
+          "Trombosit işlevinde bozulma ve fibrinoliz artışı",
+          "Ek protamin kanamayı ağırlaştırabilir"
+        ]
+      },
+      "source": "Ann Card Anaesth 2024: protamin"
+    },
+    {
+      "id": "PER243-08gsk3z",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "compare",
+      "importance": 2,
+      "title": "Pıhtının oluşması ve yıkılması",
+      "left": {
+        "title": "Antikoagülan",
+        "points": [
+          "Pıhtı oluşumunu engeller",
+          "Örnek: heparin, bivalirudin"
+        ]
+      },
+      "right": {
+        "title": "Antifibrinolitik",
+        "points": [
+          "Pıhtının yıkımını engeller",
+          "Örnek: traneksamik asit, EACA"
+        ]
+      },
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0eofds2",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 3,
+      "title": "Heparin direncinin başka nedenleri",
+      "body": "Yüksek fibrinojen, trombositoz, aktif endokardit ve hipoalbüminemi heparine yetersiz yanıtla ilişkilidir; bütün direnç olguları tek nedene bağlanmaz.",
+      "source": "BJA Education 2023: heparin"
+    },
+    {
+      "id": "PER243-04v4q60",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "HİT testinin sınırı",
+      "body": "PF4/heparin immünoassay pozitifliği **tek başına HİT tanısı değildir**; klinik olasılık ve gerektiğinde fonksiyonel test birlikte değerlendirilir.",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "id": "PER243-1mo2h78",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "Bivalirudin ve durgun kan",
+      "body": "Bivalirudinle kardiyopulmoner bypassta **durgun kanın pıhtılaşması** risk oluşturur; devrede stazın önlenmesi önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-123e64n",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "Uzamış ACT ve protamin",
+      "body": "Protamin sonrası uzamış ACT'nin tek nedeni rezidüel heparin değildir. Hipotermi ve faktör/trombosit sorunları nedeniyle **otomatik ek protamin** aşırı doza yol açabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0ttb973",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 1,
+      "title": "Desmopressinin tekrar yanıtı",
+      "body": "Desmopressinin sık tekrarlanan uygulamalarında **taşifilaksi** gelişebilir; hiponatremi ve su intoksikasyonu da önemli risklerdir.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "id": "PER243-1k8c5oo",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "flip",
+      "importance": 1,
+      "question": "Böbrek yetmezliği olan HİT hastasında argatrobanın tercih gerekçesi nedir?",
+      "answer": "Argatrobanın eliminasyonu ağırlıklı **hepatiktir**; böbrek fonksiyonu seçimi etkiler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1pj8lpm",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "flip",
+      "importance": 2,
+      "question": "Heparin direncinde AT desteğinin temel amacı nedir?",
+      "answer": "Kardiyopulmoner bypass için **etkin antikoagülasyon sağlamak**; birincil amaç doğrudan kanamayı azaltmak değildir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-01x9zmt",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "flip",
+      "importance": 2,
+      "question": "Protamin heparini hangi bağlanma biçimiyle etkisizleştirir?",
+      "answer": "Pozitif yüklü protamin, heparinle **elektrostatik bağlanarak** inaktif kompleks oluşturur.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "id": "PER243-1wb6gcg",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "remember",
+      "importance": 3,
+      "title": "HİT'te tromboz",
+      "body": "İmmün heparine bağlı trombositopenide asıl tehlike yalnız düşük trombosit sayısı değildir; **tromboz** başlıca klinik tehdittir.",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "id": "PER243-1b7760i",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin ve aspiratör",
+      "body": "**Protamin başladığında kardiyotomi aspiratörü kapatılır**; nötralize kanın devreye dönmesi istenmeyen pıhtılaşma riski oluşturur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1qvu3kv",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "remember",
+      "importance": 3,
+      "title": "Traneksamik asitte yol hatası",
+      "body": "Enjeksiyonluk traneksamik asit **yalnız intravenöz** uygulanır. Yanlış nöraksiyel uygulama nöbet, aritmi ve ölüm oluşturabilir.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "id": "PER243-143pug9",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 3,
+      "title": "Protamin ürün bilgisindeki sınır",
+      "body": "DailyMed protamin etiketinde **1 mg yaklaşık 100 USP ünite heparini** nötralize eder; yavaş uygulamada herhangi bir 10 dk'lık sürede 50 mg aşılmamalıdır. KPB'de oran ayrıca bireyselleştirilir.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "id": "PER243-1gcawf6",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 1,
+      "title": "Desmopressin ve özgül endikasyon",
+      "body": "DDAVP etiketinde hemofili A ve von Willebrand tip I için **0,3 µg/kg (en çok 20 µg)**, 15–30 dk intravenöz infüzyon belirtilir; kalp cerrahisinde rutin profilaksi önerisi değildir.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "id": "PER243-0ousuaa",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kılavuzda protamin oranı",
+      "body": "2024 PBM kılavuzu başlangıç heparinine göre protamin/heparin oranının **1,0'ın altında** tutulmasını destekler; 0,6–0,8:1 çalışılmış oranlardır. Doz, geçen süre ve rezidüel heparinle bireyselleştirilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1ldw9o5",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "fact",
+      "importance": 2,
+      "title": "Önceki protamin maruziyeti",
+      "body": "Protamin ürün bilgisinde önceki **protamin veya protaminli insülin** maruziyeti ciddi reaksiyon riski değerlendirmesinde önemlidir; öykü uygulama öncesinde sorgulanır.",
+      "source": "DailyMed: protamin"
+    },
+    {
+      "id": "PER243-09z5u28",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "mcq",
+      "importance": 3,
+      "question": "İmmün HİT'te antikorların hedefi hangi komplekstir?",
+      "options": [
+        "Heparin–PF4",
+        "Protamin–kalsiyum",
+        "Fibrin–adenozin",
+        "Hemoglobin–oksijen"
+      ],
+      "correct": 0,
+      "explanation": "Tip II HİT heparin–PF4 kompleksine karşı antikorlarla trombosit aktivasyonuna bağlıdır.",
+      "source": "BJA Education 2023: alternatifler"
+    },
+    {
+      "id": "PER243-1h7t86l",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "mcq",
+      "importance": 2,
+      "question": "HİT için KPB'de kullanılan doğrudan trombin inhibitörü hangisidir?",
+      "options": [
+        "Fraksiyone olmayan heparin",
+        "Bivalirudin",
+        "Düşük molekül ağırlıklı heparin",
+        "Fondaparinuks"
+      ],
+      "correct": 1,
+      "explanation": "Bivalirudin trombini doğrudan inhibe eder; heparinler ve fondaparinuks antitrombin üzerinden etki gösterir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1w0n2cm",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Traneksamik asit fibrin yıkımını hangi mekanizmayla azaltır?",
+      "options": [
+        "Trombini antitrombine bağlar",
+        "Trombosit sayısını artırır",
+        "Plazminojenin fibrine bağlanmasını engeller",
+        "Kalsiyumu sitrata bağlar"
+      ],
+      "correct": 2,
+      "explanation": "Lizin analoğu traneksamik asit, plazmin(ojen)in fibrindeki lizin bağlanma bölgelerini işgal eder.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "id": "PER243-07zra6n",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Desmopressin endotelden hangi çifti salgılatır?",
+      "options": [
+        "Faktör IX ve faktör XIII",
+        "Heparin ve antitrombin",
+        "Plazmin ve doku faktörü",
+        "vWF ve faktör VIII"
+      ],
+      "correct": 3,
+      "explanation": "Desmopressin V2 uyarımıyla vWF ve faktör VIII salınımını artırır.",
+      "source": "DailyMed: desmopressin"
+    },
+    {
+      "id": "PER243-07bc1im",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "tf",
+      "importance": 3,
+      "statement": "Traneksamik asidin eliminasyonu esas olarak akciğer sekestrasyonuyla olur.",
+      "isTrue": false,
+      "explanation": "Traneksamik asit büyük ölçüde değişmeden idrarla atılır; böbrek yetmezliğinde doz değerlendirmesi gerekir.",
+      "source": "DailyMed: traneksamik asit"
+    },
+    {
+      "id": "PER243-0mmcqw5",
+      "course": "PER243",
+      "topic": "Heparin direnci, HİT ve protamin",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Aşırı protamin trombosit işlevini bozup kanamayı artırabilir.",
+      "isTrue": true,
+      "explanation": "Protamin fazlası paradoksal antikoagülasyon, trombosit işlev bozukluğu ve fibrinoliz artışı oluşturabilir.",
+      "source": "Ann Card Anaesth 2024: protamin"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

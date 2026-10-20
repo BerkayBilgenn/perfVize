@@ -1,0 +1,830 @@
+{
+  "id": "review-606bab65b401972c",
+  "title": "Asepsi, antisepsi ve antiseptikler",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Asepsi",
+      "text": "Asepsis\nMikroorganizmalarla **temasın önlenmesi**. Steril malzeme ve alanın korunmasında temel amaçtır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0c16gvg",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Asepsi",
+        "definition": "Mikroorganizmalarla **temasın önlenmesi**. Steril malzeme ve alanın korunmasında temel amaçtır.",
+        "en": "Asepsis"
+      }
+    },
+    {
+      "title": "Aseptik",
+      "text": "Aseptic\nMikroorganizma kontaminasyonundan arındırılmış ya da bu kontaminasyondan korunan ortam veya malzemeyi niteleyen terim.",
+      "images": [],
+      "card": {
+        "id": "PER247-1st0m14",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Aykan, Sterilizasyon 2023",
+        "term": "Aseptik",
+        "definition": "Mikroorganizma kontaminasyonundan arındırılmış ya da bu kontaminasyondan korunan ortam veya malzemeyi niteleyen terim.",
+        "en": "Aseptic"
+      }
+    },
+    {
+      "title": "Septik",
+      "text": "Septic\nMikroorganizma içeren veya mikroorganizma bulaşıyla ilişkili ortamı ya da malzemeyi niteleyen terim.",
+      "images": [],
+      "card": {
+        "id": "PER247-0ssqn2d",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 2,
+        "source": "Aykan, Sterilizasyon 2023",
+        "term": "Septik",
+        "definition": "Mikroorganizma içeren veya mikroorganizma bulaşıyla ilişkili ortamı ya da malzemeyi niteleyen terim.",
+        "en": "Septic"
+      }
+    },
+    {
+      "title": "Antisepsi",
+      "text": "Antisepsis\nCanlı dokudaki mikroorganizmaların uygun kimyasallarla etkisizleştirilmesi veya yok edilmesi işlemi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0atynwb",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 3,
+        "source": "Aykan, Sterilizasyon 2023",
+        "term": "Antisepsi",
+        "definition": "Canlı dokudaki mikroorganizmaların uygun kimyasallarla etkisizleştirilmesi veya yok edilmesi işlemi.",
+        "en": "Antisepsis"
+      }
+    },
+    {
+      "title": "Antiseptik",
+      "text": "Antiseptic\nCanlı doku ve deriye uygulanan germisit.",
+      "images": [],
+      "card": {
+        "id": "PER247-11lv3pp",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Antiseptik",
+        "definition": "Canlı doku ve deriye uygulanan germisit.",
+        "en": "Antiseptic"
+      }
+    },
+    {
+      "title": "Dezenfektan",
+      "text": "Disinfectant\nYalnızca cansız nesnelere uygulanan, patojenleri yok eden (sporları öldürmeyebilen) ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1cw0wqe",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Dezenfektan",
+        "definition": "Yalnızca cansız nesnelere uygulanan, patojenleri yok eden (sporları öldürmeyebilen) ajan.",
+        "en": "Disinfectant"
+      }
+    },
+    {
+      "title": "Alkol",
+      "text": "Ethyl/isopropyl alcohol\nEtil veya izopropil alkolün protein denatürasyonuyla gösterdiği germisit etkiye dayanan antiseptik/dezenfektan grubu. **Bakteri sporlarını öldürmez.**",
+      "images": [],
+      "card": {
+        "id": "PER247-11q9hmm",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Alkol",
+        "definition": "Etil veya izopropil alkolün protein denatürasyonuyla gösterdiği germisit etkiye dayanan antiseptik/dezenfektan grubu. **Bakteri sporlarını öldürmez.**",
+        "en": "Ethyl/isopropyl alcohol"
+      }
+    },
+    {
+      "title": "İyodofor",
+      "text": "Iodophor\nİyotun bir çözündürücü madde veya taşıyıcıyla oluşturduğu germisit kompleks. Povidon-iyot bu grubun bir örneğidir.",
+      "images": [],
+      "card": {
+        "id": "PER247-08wbirs",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "İyodofor",
+        "definition": "İyotun bir çözündürücü madde veya taşıyıcıyla oluşturduğu germisit kompleks. Povidon-iyot bu grubun bir örneğidir.",
+        "en": "Iodophor"
+      }
+    },
+    {
+      "title": "Povidon-iyot",
+      "text": "Povidone-iodine\nPolivinilpirolidon-iyot kompleksi; en bilinen iyodofor antiseptik.",
+      "images": [],
+      "card": {
+        "id": "PER247-022avvk",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Povidon-iyot",
+        "definition": "Polivinilpirolidon-iyot kompleksi; en bilinen iyodofor antiseptik.",
+        "en": "Povidone-iodine"
+      }
+    },
+    {
+      "title": "Klorheksidin glukonat",
+      "text": "Chlorhexidine gluconate (CHG)\nCerrahi cilt hazırlığında alkollü formülasyonu önerilen antiseptik. Beyin, meninks, göz ve orta kulakla temasından kaçınılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0qfds0f",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Klorheksidin glukonat",
+        "definition": "Cerrahi cilt hazırlığında alkollü formülasyonu önerilen antiseptik. Beyin, meninks, göz ve orta kulakla temasından kaçınılır.",
+        "en": "Chlorhexidine gluconate (CHG)"
+      }
+    },
+    {
+      "title": "Asepsi ve antisepsi",
+      "text": "Asepsi\nMikroorganizmalarla teması önleme hedefi\nSteril alan ve malzemenin korunmasıyla ilişkilidir\n\nAntisepsi\nCanlı dokudaki mikropları etkisizleştirme hedefi\nCilt ve el hazırlığıyla ilişkilidir",
+      "images": [],
+      "card": {
+        "id": "PER247-00jpr2p",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Asepsi ve antisepsi",
+        "left": {
+          "title": "Asepsi",
+          "points": [
+            "Mikroorganizmalarla teması önleme hedefi",
+            "Steril alan ve malzemenin korunmasıyla ilişkilidir"
+          ]
+        },
+        "right": {
+          "title": "Antisepsi",
+          "points": [
+            "Canlı dokudaki mikropları etkisizleştirme hedefi",
+            "Cilt ve el hazırlığıyla ilişkilidir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "İyodofor ve iyot tentürü",
+      "text": "İyodofor\nİyot bir taşıyıcıyla kompleks oluşturur\nTentüre göre genellikle daha az irritan/toksiktir\n\nİyot tentürü\nİyotun alkol içeren çözelti formudur\nİyodofora göre irritasyon ve boyanma daha belirgin olabilir",
+      "images": [],
+      "card": {
+        "id": "PER247-1utu5gn",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "compare",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "İyodofor ve iyot tentürü",
+        "left": {
+          "title": "İyodofor",
+          "points": [
+            "İyot bir taşıyıcıyla kompleks oluşturur",
+            "Tentüre göre genellikle daha az irritan/toksiktir"
+          ]
+        },
+        "right": {
+          "title": "İyot tentürü",
+          "points": [
+            "İyotun alkol içeren çözelti formudur",
+            "İyodofora göre irritasyon ve boyanma daha belirgin olabilir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Alkolün konsantrasyonu",
+      "text": "CDC, alkolün optimum bakterisid aralığını hacim/hacim **%60–90** olarak verir. Konsantrasyon **%50’nin altına** indiğinde öldürücü etkinlik belirgin düşer.",
+      "images": [],
+      "card": {
+        "id": "PER247-150b8nv",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "fact",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Alkolün konsantrasyonu",
+        "body": "CDC, alkolün optimum bakterisid aralığını hacim/hacim **%60–90** olarak verir. Konsantrasyon **%50’nin altına** indiğinde öldürücü etkinlik belirgin düşer."
+      }
+    },
+    {
+      "title": "Suyun alkol etkisindeki rolü",
+      "text": "Mutlak alkol, su-alkol karışımından daha güçlü bakterisid sayılmaz. **Proteinler su varlığında daha hızlı denatüre olur.**",
+      "images": [],
+      "card": {
+        "id": "PER247-0xbyi08",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Suyun alkol etkisindeki rolü",
+        "body": "Mutlak alkol, su-alkol karışımından daha güçlü bakterisid sayılmaz. **Proteinler su varlığında daha hızlı denatüre olur.**"
+      }
+    },
+    {
+      "title": "İyodoforun rezervuarı",
+      "text": "İyot ve taşıyıcı kompleksi, **serbest iyotu yavaş salan** bir rezervuar oluşturur. Ürünün antiseptik veya yüzey kullanımına uygunluğu kendi formülasyonuna bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0suvsws",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "İyodoforun rezervuarı",
+        "body": "İyot ve taşıyıcı kompleksi, **serbest iyotu yavaş salan** bir rezervuar oluşturur. Ürünün antiseptik veya yüzey kullanımına uygunluğu kendi formülasyonuna bağlıdır."
+      }
+    },
+    {
+      "title": "Klorheksidinde hassas dokular",
+      "text": "Cerrahi cilt hazırlığı ürünleri seçilirken klorheksidinin **beyin, meninks, göz ve orta kulakla** temas riski gözetilir; bu alanlara temas ettirilmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-01gy3t4",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "fact",
+        "importance": 3,
+        "source": "WHO 2018",
+        "title": "Klorheksidinde hassas dokular",
+        "body": "Cerrahi cilt hazırlığı ürünleri seçilirken klorheksidinin **beyin, meninks, göz ve orta kulakla** temas riski gözetilir; bu alanlara temas ettirilmez."
+      }
+    },
+    {
+      "title": "Alkolün temas süresi sorunu",
+      "text": "Alkolün **hızlı buharlaşması**, uzun ve kesintisiz yüzey temasını güçleştirir. Ürün etiketindeki temas koşulları sağlanmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1nshbae",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Alkolün temas süresi sorunu",
+        "body": "Alkolün **hızlı buharlaşması**, uzun ve kesintisiz yüzey temasını güçleştirir. Ürün etiketindeki temas koşulları sağlanmalıdır."
+      }
+    },
+    {
+      "title": "Alkol cerrahi alet sterilizasyonu için neden uygun değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1myx7zq",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Alkol cerrahi alet sterilizasyonu için neden uygun değildir?",
+        "answer": "**Sporisidal değildir** ve proteinden zengin materyale yeterince nüfuz edemez. Küçük yüzeylerde dezenfeksiyon kullanımı, kritik alet sterilizasyonu anlamına gelmez."
+      }
+    },
+    {
+      "title": "Alkollü cilt hazırlığında koterden önce hangi koşul sağlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-18lhugy",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO 2018",
+        "question": "Alkollü cilt hazırlığında koterden önce hangi koşul sağlanır?",
+        "answer": "Antiseptik **tamamen kurumuş** olmalıdır. Örtüler ıslatılmamalı ve hastanın altında alkol göllenmesi önlenmelidir; amaç yangın riskini azaltmaktır."
+      }
+    },
+    {
+      "title": "Antiseptik iyodofor ile yüzey iyodoforu niçin değiştirilemez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1krq87x",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Antiseptik iyodofor ile yüzey iyodoforu niçin değiştirilemez?",
+        "answer": "Formülasyon ve serbest iyot düzeyleri kullanım amacına göre farklı olabilir. **Antiseptik ve dezenfektan ürünün etiketi** kendi kullanım yerini belirler."
+      }
+    },
+    {
+      "title": "Yanıcı alkolü uygun sakla",
+      "text": "Alkoller **yanıcıdır**. CDC, serin ve iyi havalandırılan yerde saklanmalarını belirtir; kullanım ve depolama koşulları birlikte düşünülür.",
+      "images": [],
+      "card": {
+        "id": "PER247-07wlls1",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Yanıcı alkolü uygun sakla",
+        "body": "Alkoller **yanıcıdır**. CDC, serin ve iyi havalandırılan yerde saklanmalarını belirtir; kullanım ve depolama koşulları birlikte düşünülür."
+      }
+    },
+    {
+      "title": "Ameliyat bölgesindeki sağlam cilde uygun germisit hangi kullanım grubundadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1phqotx",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Ameliyat bölgesindeki sağlam cilde uygun germisit hangi kullanım grubundadır?",
+        "options": [
+          "Antiseptik",
+          "Yüzey dezenfektanı",
+          "Alet yağlayıcısı",
+          "Enzimatik temizleyici"
+        ],
+        "correct": 0,
+        "explanation": "Canlı doku için **antiseptik** seçilir; cansız yüzey ürünleri ciltte birbirinin yerine kullanılmaz."
+      }
+    },
+    {
+      "title": "CDC’ye göre alkolün optimum bakterisid konsantrasyon aralığı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0awpafr",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "CDC’ye göre alkolün optimum bakterisid konsantrasyon aralığı hangisidir?",
+        "options": [
+          "%10–30",
+          "%60–90",
+          "%30–45",
+          "%95–100"
+        ],
+        "correct": 1,
+        "explanation": "CDC optimum aralığı **hacim/hacim %60–90** verir; su protein denatürasyonuna katkı sağlar."
+      }
+    },
+    {
+      "title": "Alkolün temel germisit mekanizması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1gqqd5i",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Alkolün temel germisit mekanizması hangisidir?",
+        "options": [
+          "Proteinlere alkil grubu eklenmesi",
+          "Sıvıdan membranla uzaklaştırma",
+          "Protein denatürasyonu",
+          "Basınçla mekanik parçalama"
+        ],
+        "correct": 2,
+        "explanation": "Alkol etkisi en çok **protein denatürasyonuyla** açıklanır; alkilasyon EtO gibi ajanlarla ilişkilidir."
+      }
+    },
+    {
+      "title": "Alkollü antiseptik uygulanmış hastada koter öncesi güvenli koşul hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1a35s22",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO 2018",
+        "question": "Alkollü antiseptik uygulanmış hastada koter öncesi güvenli koşul hangisidir?",
+        "options": [
+          "Solüsyonun örtü altında birikmesi",
+          "Örtünün antiseptikle ıslatılması",
+          "Cildin ek alkolle nemlendirilmesi",
+          "Solüsyonun tamamen kuruması"
+        ],
+        "correct": 3,
+        "explanation": "Alkol yanıcıdır. **Kuruma ve göllenmenin önlenmesi**, yangın riskini azaltır."
+      }
+    },
+    {
+      "title": "İyodofor taşıyıcısı serbest iyot için bir rezervuar işlevi görür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-15xyc3t",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "İyodofor taşıyıcısı serbest iyot için bir rezervuar işlevi görür.",
+        "isTrue": true,
+        "explanation": "İyot-taşıyıcı kompleksi serbest iyodu yavaşça salarak rezervuar görevi görür."
+      }
+    },
+    {
+      "title": "Alkol, kauçuk ve bazı plastik parçaları tekrarlanan kullanımda hasarlamaz.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1vpobr1",
+        "course": "PER247",
+        "topic": "Asepsi, antisepsi ve antiseptikler",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Alkol, kauçuk ve bazı plastik parçaları tekrarlanan kullanımda hasarlamaz.",
+        "isTrue": false,
+        "explanation": "Uzun veya tekrarlanan alkol teması bazı **kauçuk/plastik parçaları sertleştirip şişirebilir**. Materyal uyumu ürün talimatıyla değerlendirilir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0c16gvg",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Asepsi",
+      "definition": "Mikroorganizmalarla **temasın önlenmesi**. Steril malzeme ve alanın korunmasında temel amaçtır.",
+      "en": "Asepsis"
+    },
+    {
+      "id": "PER247-1st0m14",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Aykan, Sterilizasyon 2023",
+      "term": "Aseptik",
+      "definition": "Mikroorganizma kontaminasyonundan arındırılmış ya da bu kontaminasyondan korunan ortam veya malzemeyi niteleyen terim.",
+      "en": "Aseptic"
+    },
+    {
+      "id": "PER247-0ssqn2d",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 2,
+      "source": "Aykan, Sterilizasyon 2023",
+      "term": "Septik",
+      "definition": "Mikroorganizma içeren veya mikroorganizma bulaşıyla ilişkili ortamı ya da malzemeyi niteleyen terim.",
+      "en": "Septic"
+    },
+    {
+      "id": "PER247-0atynwb",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 3,
+      "source": "Aykan, Sterilizasyon 2023",
+      "term": "Antisepsi",
+      "definition": "Canlı dokudaki mikroorganizmaların uygun kimyasallarla etkisizleştirilmesi veya yok edilmesi işlemi.",
+      "en": "Antisepsis"
+    },
+    {
+      "id": "PER247-11lv3pp",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Antiseptik",
+      "definition": "Canlı doku ve deriye uygulanan germisit.",
+      "en": "Antiseptic"
+    },
+    {
+      "id": "PER247-1cw0wqe",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Dezenfektan",
+      "definition": "Yalnızca cansız nesnelere uygulanan, patojenleri yok eden (sporları öldürmeyebilen) ajan.",
+      "en": "Disinfectant"
+    },
+    {
+      "id": "PER247-11q9hmm",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Alkol",
+      "definition": "Etil veya izopropil alkolün protein denatürasyonuyla gösterdiği germisit etkiye dayanan antiseptik/dezenfektan grubu. **Bakteri sporlarını öldürmez.**",
+      "en": "Ethyl/isopropyl alcohol"
+    },
+    {
+      "id": "PER247-08wbirs",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "İyodofor",
+      "definition": "İyotun bir çözündürücü madde veya taşıyıcıyla oluşturduğu germisit kompleks. Povidon-iyot bu grubun bir örneğidir.",
+      "en": "Iodophor"
+    },
+    {
+      "id": "PER247-022avvk",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Povidon-iyot",
+      "definition": "Polivinilpirolidon-iyot kompleksi; en bilinen iyodofor antiseptik.",
+      "en": "Povidone-iodine"
+    },
+    {
+      "id": "PER247-0qfds0f",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Klorheksidin glukonat",
+      "definition": "Cerrahi cilt hazırlığında alkollü formülasyonu önerilen antiseptik. Beyin, meninks, göz ve orta kulakla temasından kaçınılır.",
+      "en": "Chlorhexidine gluconate (CHG)"
+    },
+    {
+      "id": "PER247-00jpr2p",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Asepsi ve antisepsi",
+      "left": {
+        "title": "Asepsi",
+        "points": [
+          "Mikroorganizmalarla teması önleme hedefi",
+          "Steril alan ve malzemenin korunmasıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Antisepsi",
+        "points": [
+          "Canlı dokudaki mikropları etkisizleştirme hedefi",
+          "Cilt ve el hazırlığıyla ilişkilidir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1utu5gn",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İyodofor ve iyot tentürü",
+      "left": {
+        "title": "İyodofor",
+        "points": [
+          "İyot bir taşıyıcıyla kompleks oluşturur",
+          "Tentüre göre genellikle daha az irritan/toksiktir"
+        ]
+      },
+      "right": {
+        "title": "İyot tentürü",
+        "points": [
+          "İyotun alkol içeren çözelti formudur",
+          "İyodofora göre irritasyon ve boyanma daha belirgin olabilir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-150b8nv",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Alkolün konsantrasyonu",
+      "body": "CDC, alkolün optimum bakterisid aralığını hacim/hacim **%60–90** olarak verir. Konsantrasyon **%50’nin altına** indiğinde öldürücü etkinlik belirgin düşer."
+    },
+    {
+      "id": "PER247-0xbyi08",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Suyun alkol etkisindeki rolü",
+      "body": "Mutlak alkol, su-alkol karışımından daha güçlü bakterisid sayılmaz. **Proteinler su varlığında daha hızlı denatüre olur.**"
+    },
+    {
+      "id": "PER247-0suvsws",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İyodoforun rezervuarı",
+      "body": "İyot ve taşıyıcı kompleksi, **serbest iyotu yavaş salan** bir rezervuar oluşturur. Ürünün antiseptik veya yüzey kullanımına uygunluğu kendi formülasyonuna bağlıdır."
+    },
+    {
+      "id": "PER247-01gy3t4",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "fact",
+      "importance": 3,
+      "source": "WHO 2018",
+      "title": "Klorheksidinde hassas dokular",
+      "body": "Cerrahi cilt hazırlığı ürünleri seçilirken klorheksidinin **beyin, meninks, göz ve orta kulakla** temas riski gözetilir; bu alanlara temas ettirilmez."
+    },
+    {
+      "id": "PER247-1nshbae",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Alkolün temas süresi sorunu",
+      "body": "Alkolün **hızlı buharlaşması**, uzun ve kesintisiz yüzey temasını güçleştirir. Ürün etiketindeki temas koşulları sağlanmalıdır."
+    },
+    {
+      "id": "PER247-1myx7zq",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Alkol cerrahi alet sterilizasyonu için neden uygun değildir?",
+      "answer": "**Sporisidal değildir** ve proteinden zengin materyale yeterince nüfuz edemez. Küçük yüzeylerde dezenfeksiyon kullanımı, kritik alet sterilizasyonu anlamına gelmez."
+    },
+    {
+      "id": "PER247-18lhugy",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Alkollü cilt hazırlığında koterden önce hangi koşul sağlanır?",
+      "answer": "Antiseptik **tamamen kurumuş** olmalıdır. Örtüler ıslatılmamalı ve hastanın altında alkol göllenmesi önlenmelidir; amaç yangın riskini azaltmaktır."
+    },
+    {
+      "id": "PER247-1krq87x",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Antiseptik iyodofor ile yüzey iyodoforu niçin değiştirilemez?",
+      "answer": "Formülasyon ve serbest iyot düzeyleri kullanım amacına göre farklı olabilir. **Antiseptik ve dezenfektan ürünün etiketi** kendi kullanım yerini belirler."
+    },
+    {
+      "id": "PER247-07wlls1",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Yanıcı alkolü uygun sakla",
+      "body": "Alkoller **yanıcıdır**. CDC, serin ve iyi havalandırılan yerde saklanmalarını belirtir; kullanım ve depolama koşulları birlikte düşünülür."
+    },
+    {
+      "id": "PER247-1phqotx",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ameliyat bölgesindeki sağlam cilde uygun germisit hangi kullanım grubundadır?",
+      "options": [
+        "Antiseptik",
+        "Yüzey dezenfektanı",
+        "Alet yağlayıcısı",
+        "Enzimatik temizleyici"
+      ],
+      "correct": 0,
+      "explanation": "Canlı doku için **antiseptik** seçilir; cansız yüzey ürünleri ciltte birbirinin yerine kullanılmaz."
+    },
+    {
+      "id": "PER247-0awpafr",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "CDC’ye göre alkolün optimum bakterisid konsantrasyon aralığı hangisidir?",
+      "options": [
+        "%10–30",
+        "%60–90",
+        "%30–45",
+        "%95–100"
+      ],
+      "correct": 1,
+      "explanation": "CDC optimum aralığı **hacim/hacim %60–90** verir; su protein denatürasyonuna katkı sağlar."
+    },
+    {
+      "id": "PER247-1gqqd5i",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Alkolün temel germisit mekanizması hangisidir?",
+      "options": [
+        "Proteinlere alkil grubu eklenmesi",
+        "Sıvıdan membranla uzaklaştırma",
+        "Protein denatürasyonu",
+        "Basınçla mekanik parçalama"
+      ],
+      "correct": 2,
+      "explanation": "Alkol etkisi en çok **protein denatürasyonuyla** açıklanır; alkilasyon EtO gibi ajanlarla ilişkilidir."
+    },
+    {
+      "id": "PER247-1a35s22",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Alkollü antiseptik uygulanmış hastada koter öncesi güvenli koşul hangisidir?",
+      "options": [
+        "Solüsyonun örtü altında birikmesi",
+        "Örtünün antiseptikle ıslatılması",
+        "Cildin ek alkolle nemlendirilmesi",
+        "Solüsyonun tamamen kuruması"
+      ],
+      "correct": 3,
+      "explanation": "Alkol yanıcıdır. **Kuruma ve göllenmenin önlenmesi**, yangın riskini azaltır."
+    },
+    {
+      "id": "PER247-15xyc3t",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "İyodofor taşıyıcısı serbest iyot için bir rezervuar işlevi görür.",
+      "isTrue": true,
+      "explanation": "İyot-taşıyıcı kompleksi serbest iyodu yavaşça salarak rezervuar görevi görür."
+    },
+    {
+      "id": "PER247-1vpobr1",
+      "course": "PER247",
+      "topic": "Asepsi, antisepsi ve antiseptikler",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Alkol, kauçuk ve bazı plastik parçaları tekrarlanan kullanımda hasarlamaz.",
+      "isTrue": false,
+      "explanation": "Uzun veya tekrarlanan alkol teması bazı **kauçuk/plastik parçaları sertleştirip şişirebilir**. Materyal uyumu ürün talimatıyla değerlendirilir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

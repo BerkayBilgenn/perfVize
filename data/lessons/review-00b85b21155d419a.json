@@ -1,0 +1,1129 @@
+{
+  "id": "review-00b85b21155d419a",
+  "title": "Kanülasyon ve KPB'nin yürütülmesi",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Aortik (arteriyel) kanül",
+      "text": "Aortic cannula\nOksijenli kanı hastaya veren kanül (düz, açılı, difüzyon uçlu).",
+      "images": [],
+      "card": {
+        "id": "PER245-0gfv6hh",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 3,
+        "term": "Aortik (arteriyel) kanül",
+        "en": "Aortic cannula",
+        "definition": "Oksijenli kanı hastaya veren kanül (düz, açılı, difüzyon uçlu).",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İki kademeli venöz kanül",
+      "text": "Two-stage (cavoatrial) cannula\nUcu VCI'da, geniş delikli kısmı sağ atriyumda olan tek venöz kanül.",
+      "images": [],
+      "card": {
+        "id": "PER245-12anqbl",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 1,
+        "term": "İki kademeli venöz kanül",
+        "en": "Two-stage (cavoatrial) cannula",
+        "definition": "Ucu VCI'da, geniş delikli kısmı sağ atriyumda olan tek venöz kanül.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Total KPB",
+      "text": "Total bypass\nTüm sistemik venöz dönüşün pompaya yönlendirildiği KPB; bikaval kanülasyonda snare'lerle sağ atriyum izole edilebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-03i4d32",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "Total KPB",
+        "en": "Total bypass",
+        "definition": "Tüm sistemik venöz dönüşün pompaya yönlendirildiği KPB; bikaval kanülasyonda snare'lerle sağ atriyum izole edilebilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Parsiyel KPB",
+      "text": "Partial bypass\nVenöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği KPB.",
+      "images": [],
+      "card": {
+        "id": "PER245-18psipl",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 3,
+        "term": "Parsiyel KPB",
+        "en": "Partial bypass",
+        "definition": "Venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği KPB.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Suction bypass",
+      "text": "Suction bypass\nVenöz kanülasyon öncesi aspiratörle toplanan kanın arteriyel kanülden geri verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0orzyo0",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "Suction bypass",
+        "en": "Suction bypass",
+        "definition": "Venöz kanülasyon öncesi aspiratörle toplanan kanın arteriyel kanülden geri verilmesi.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Gravite (sifon) drenajı",
+      "text": "Gravity siphon drainage\nRezervuarın hastadan aşağıda olmasıyla venöz kanın yer çekimiyle akması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0lbsv3q",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 1,
+        "term": "Gravite (sifon) drenajı",
+        "en": "Gravity siphon drainage",
+        "definition": "Rezervuarın hastadan aşağıda olmasıyla venöz kanın yer çekimiyle akması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "VAVD",
+      "text": "Vacuum-assisted venous drainage\nSert kabuklu rezervuara regüle vakum uygulayarak venöz dönüşü artırma.",
+      "images": [],
+      "card": {
+        "id": "PER245-1b1sttq",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "VAVD",
+        "en": "Vacuum-assisted venous drainage",
+        "definition": "Sert kabuklu rezervuara regüle vakum uygulayarak venöz dönüşü artırma.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz hava kilidi",
+      "text": "Venous airlock\nVenöz hatta biriken havanın sifonu keserek drenajı durdurması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0r66ydw",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 3,
+        "term": "Venöz hava kilidi",
+        "en": "Venous airlock",
+        "definition": "Venöz hatta biriken havanın sifonu keserek drenajı durdurması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Vazopleji",
+      "text": "Vasoplegia\nYeterli akıma rağmen derin vazodilatasyon ve dirençli hipotansiyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-19bm2bv",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "Vazopleji",
+        "en": "Vasoplegia",
+        "definition": "Yeterli akıma rağmen derin vazodilatasyon ve dirençli hipotansiyon.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "SvO2",
+      "text": "Mixed venous oxygen saturation\nKarışık venöz kandaki oksijen satürasyonu; oksijen sunumu ve tüketimi arasındaki denge hakkında bilgi verir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0lwnsx9",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 1,
+        "term": "SvO2",
+        "en": "Mixed venous oxygen saturation",
+        "definition": "Karışık venöz kandaki oksijen satürasyonu; oksijen sunumu ve tüketimi arasındaki denge hakkında bilgi verir.",
+        "source": "EACTS/EACTA/EBCP 2019"
+      }
+    },
+    {
+      "title": "CUF",
+      "text": "Conventional ultrafiltration\nKPB sırasında hemofiltreyle plazma suyunun uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1cl44a5",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 3,
+        "term": "CUF",
+        "en": "Conventional ultrafiltration",
+        "definition": "KPB sırasında hemofiltreyle plazma suyunun uzaklaştırılması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ZBUF",
+      "text": "Zero-balance ultrafiltration\nUzaklaştırılan hacim kadar dengeli kristaloid eklenen ultrafiltrasyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-0p8tfkm",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "ZBUF",
+        "en": "Zero-balance ultrafiltration",
+        "definition": "Uzaklaştırılan hacim kadar dengeli kristaloid eklenen ultrafiltrasyon.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "MUF",
+      "text": "Modified ultrafiltration\nKPB sonrası kanın aortik kanülden ultrafiltreye ve sağ atriyuma verildiği ultrafiltrasyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-1puaadr",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "MUF",
+        "en": "Modified ultrafiltration",
+        "definition": "KPB sonrası kanın aortik kanülden ultrafiltreye ve sağ atriyuma verildiği ultrafiltrasyon.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kinetik destekli venöz drenaj",
+      "text": "Venöz kanül ile rezervuar arasındaki santrifüj pompayla venöz drenajın desteklenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1dlm3ec",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "term",
+        "importance": 2,
+        "term": "Kinetik destekli venöz drenaj",
+        "definition": "Venöz kanül ile rezervuar arasındaki santrifüj pompayla venöz drenajın desteklenmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz dönüşün paylaşımı",
+      "text": "Total KPB\nSistemik venöz dönüş pompaya yönlendirilir\nBikaval snare ile sağ atriyum izole edilebilir\n\nParsiyel KPB\nDönüşün bir bölümü kalp-akciğer yolunu sürdürür\nNativ dolaşımın katkısı devam eder",
+      "images": [],
+      "card": {
+        "id": "PER245-04dt2sz",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Venöz dönüşün paylaşımı",
+        "left": {
+          "title": "Total KPB",
+          "points": [
+            "Sistemik venöz dönüş pompaya yönlendirilir",
+            "Bikaval snare ile sağ atriyum izole edilebilir"
+          ]
+        },
+        "right": {
+          "title": "Parsiyel KPB",
+          "points": [
+            "Dönüşün bir bölümü kalp-akciğer yolunu sürdürür",
+            "Nativ dolaşımın katkısı devam eder"
+          ]
+        },
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Venöz kanül düzeni",
+      "text": "İki kademeli kanül\nTek kanülde atriyal ve kaval delikli bölümler\nKalp boşluğu açılmayan işlemlerde sık kullanılır\n\nBikaval kanülasyon\nİki kavada ayrı kanüller ve ortak venöz hat\nSağ kalp açılacaksa izolasyona elverişlidir",
+      "images": [],
+      "card": {
+        "id": "PER245-1795n8f",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Venöz kanül düzeni",
+        "left": {
+          "title": "İki kademeli kanül",
+          "points": [
+            "Tek kanülde atriyal ve kaval delikli bölümler",
+            "Kalp boşluğu açılmayan işlemlerde sık kullanılır"
+          ]
+        },
+        "right": {
+          "title": "Bikaval kanülasyon",
+          "points": [
+            "İki kavada ayrı kanüller ve ortak venöz hat",
+            "Sağ kalp açılacaksa izolasyona elverişlidir"
+          ]
+        },
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Venöz drenajın desteklenmesi",
+      "text": "VAVD\nSert rezervuara regüle vakum uygulanır\nDrenaj için rezervuar basıncı değiştirilir\n\nKAVD\nVenöz hatta yardımcı santrifüj pompa bulunur\nDrenaj için hat üzerinde kinetik enerji sağlanır",
+      "images": [],
+      "card": {
+        "id": "PER245-11phmez",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Venöz drenajın desteklenmesi",
+        "left": {
+          "title": "VAVD",
+          "points": [
+            "Sert rezervuara regüle vakum uygulanır",
+            "Drenaj için rezervuar basıncı değiştirilir"
+          ]
+        },
+        "right": {
+          "title": "KAVD",
+          "points": [
+            "Venöz hatta yardımcı santrifüj pompa bulunur",
+            "Drenaj için hat üzerinde kinetik enerji sağlanır"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ultrafiltrasyonda denge",
+      "text": "CUF\nKPB sırasında plazma suyu uzaklaştırılır\nNet sıvı azalması sağlanabilir\n\nZBUF\nKPB sırasında filtrasyon yapılır\nÇekilen sıvı dengeli kristaloidle yerine konur",
+      "images": [],
+      "card": {
+        "id": "PER245-08vrjqx",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Ultrafiltrasyonda denge",
+        "left": {
+          "title": "CUF",
+          "points": [
+            "KPB sırasında plazma suyu uzaklaştırılır",
+            "Net sıvı azalması sağlanabilir"
+          ]
+        },
+        "right": {
+          "title": "ZBUF",
+          "points": [
+            "KPB sırasında filtrasyon yapılır",
+            "Çekilen sıvı dengeli kristaloidle yerine konur"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel akım ve drenaj",
+      "text": "Venöz drenaj sabitken arteriyel akım geçici azaltılırsa kan hastadan rezervuara kayar; dengesiz akımlar sürekli sürdürülemez.",
+      "images": [],
+      "card": {
+        "id": "PER245-1dof5dg",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arteriyel akım ve drenaj",
+        "body": "Venöz drenaj sabitken arteriyel akım geçici azaltılırsa kan hastadan rezervuara kayar; dengesiz akımlar sürekli sürdürülemez.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Drenaj aniden azalırsa",
+      "text": "Venöz hava kilidi veya kanül manipülasyonu dönüşü azalttığında arteriyel çıkış da gözden geçirilir; rezervuarın boşalması hava riski yaratır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1he1uve",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Drenaj aniden azalırsa",
+        "body": "Venöz hava kilidi veya kanül manipülasyonu dönüşü azalttığında arteriyel çıkış da gözden geçirilir; rezervuarın boşalması hava riski yaratır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "VAVD'nin sınırı",
+      "text": "Artan negatif basınç drenajı desteklese de hemoliz ve gaz mikroembolisi riskini artırabilir; venöz basınç izlenmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-06d8j8w",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "VAVD'nin sınırı",
+        "body": "Artan negatif basınç drenajı desteklese de hemoliz ve gaz mikroembolisi riskini artırabilir; venöz basınç izlenmelidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Transfüzyonda oksijen dengesi",
+      "text": "KPB'de eritrosit transfüzyonu değerlendirmesi hematokritin yanında oksijen sunumu ve ekstraksiyonunu da dikkate alır.",
+      "images": [],
+      "card": {
+        "id": "PER245-07hgigt",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Transfüzyonda oksijen dengesi",
+        "body": "KPB'de eritrosit transfüzyonu değerlendirmesi hematokritin yanında oksijen sunumu ve ekstraksiyonunu da dikkate alır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Cell saver'ın geri verdiği",
+      "text": "Hücre yıkama sistemi eritrositleri yoğunlaştırır; uzaklaştırılan plazmadaki pıhtılaşma faktörlerini aynı şekilde geri vermez.",
+      "images": [],
+      "card": {
+        "id": "PER245-17skn6q",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Cell saver'ın geri verdiği",
+        "body": "Hücre yıkama sistemi eritrositleri yoğunlaştırır; uzaklaştırılan plazmadaki pıhtılaşma faktörlerini aynı şekilde geri vermez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz rezervuar hastanın altında tutulduğunda drenajı hangi mekanizma destekler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1ociv3n",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Venöz rezervuar hastanın altında tutulduğunda drenajı hangi mekanizma destekler?",
+        "answer": "Gravite ve sıvı kolonunun sifon etkisi; hatların havasız ve sıvı dolu olması önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Aşırı vakum güvenlik değildir",
+      "text": "Venöz drenajda daha büyük negatif basınç **hemoliz ve gaz mikroembolisi** riskini artırabilir; basınç sınırları ve izlem önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0tv7sk5",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Aşırı vakum güvenlik değildir",
+        "body": "Venöz drenajda daha büyük negatif basınç **hemoliz ve gaz mikroembolisi** riskini artırabilir; basınç sınırları ve izlem önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dönüş azalınca rezervuarı izle",
+      "text": "Arteriyel pompa venöz dönüşten fazla kan gönderirse rezervuar boşalır; düşük seviye **hava gönderme riski** taşır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xo0xr8",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Dönüş azalınca rezervuarı izle",
+        "body": "Arteriyel pompa venöz dönüşten fazla kan gönderirse rezervuar boşalır; düşük seviye **hava gönderme riski** taşır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "MAP için kılavuz çerçevesi",
+      "text": "2024 EACTS Tablo 40, yeterli akım ve anestezi derinliği doğrulandıktan sonra MAP’ın 50–80 mmHg arasında tutulmasını önerir; bireysel serebral otoregülasyon verileri de hedefi etkileyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0weo2ad",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 3,
+        "title": "MAP için kılavuz çerçevesi",
+        "body": "2024 EACTS Tablo 40, yeterli akım ve anestezi derinliği doğrulandıktan sonra MAP’ın 50–80 mmHg arasında tutulmasını önerir; bireysel serebral otoregülasyon verileri de hedefi etkileyebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hematokrit ve transfüzyon bağlamı",
+      "text": "2024 EACTS Tablo 45’te KPB sırasında Hct <%18 (Hb 6,0 g/dL) için eritrosit transfüzyonu önerilir. Hct %18–24 aralığında karar doku oksijenlenmesinin değerlendirmesiyle verilir; tek bir sayı bütün hastaları açıklamaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-1nc10o0",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Hematokrit ve transfüzyon bağlamı",
+        "body": "2024 EACTS Tablo 45’te KPB sırasında Hct <%18 (Hb 6,0 g/dL) için eritrosit transfüzyonu önerilir. Hct %18–24 aralığında karar doku oksijenlenmesinin değerlendirmesiyle verilir; tek bir sayı bütün hastaları açıklamaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "MUF diğer yöntemlerden zamanlama bakımından nasıl ayrılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1npzgje",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "MUF diğer yöntemlerden zamanlama bakımından nasıl ayrılır?",
+        "options": [
+          "KPB sonlandıktan sonra uygulanır",
+          "KPB başlamadan prime için kullanılır",
+          "Yalnız aort klempli dönemde yapılır",
+          "Yalnız dolaşım tamamen dururken yapılır"
+        ],
+        "correct": 0,
+        "explanation": "Modifiye ultrafiltrasyon KPB sonrası uygulanır; CUF KPB sırasında yapılır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Cell saver sonrası geri verilen ana kan bileşeni hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0ijx8su",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Cell saver sonrası geri verilen ana kan bileşeni hangisidir?",
+        "options": [
+          "Albümin",
+          "Eritrosit",
+          "Trombosit",
+          "Fibrinojen"
+        ],
+        "correct": 1,
+        "explanation": "Cell saver yıkayıp yoğunlaştırdığı eritrositleri geri verir; plazma proteinleri aynı biçimde korunmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Difüzyon uçlu arter kanülünün yan delikleri neyi azaltmayı amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0pavaue",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Difüzyon uçlu arter kanülünün yan delikleri neyi azaltmayı amaçlar?",
+        "options": [
+          "Koroner geri basıncı sıfırlamayı",
+          "Kanül lümen direncini tamamen kaldırmayı",
+          "Tek jetin duvar etkisini",
+          "Aortadaki plakları filtrelemeyi"
+        ],
+        "correct": 2,
+        "explanation": "Akımın dağıtılması tek güçlü jetin aort duvarına etkisini sınırlamaya yöneliktir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "VAVD uygulanırken hangi basınç özellikle izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1l0qv4u",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "VAVD uygulanırken hangi basınç özellikle izlenir?",
+        "options": [
+          "Arteriyel kanül uç basıncı",
+          "Pulmoner arter basıncı",
+          "Sol atriyal dolum basıncı",
+          "Venöz rezervuar/hat basıncı"
+        ],
+        "correct": 3,
+        "explanation": "Destekli drenajın negatif basıncı hem drenaj hem güvenlik açısından izlenir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Yeterli akıma rağmen derin vazodilatasyon ve hipotansiyon hangi tablodur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1o7c0xu",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Yeterli akıma rağmen derin vazodilatasyon ve hipotansiyon hangi tablodur?",
+        "options": [
+          "Vazopleji",
+          "Hipovolemi",
+          "Venöz hava kilidi",
+          "Kanül malpozisyonu"
+        ],
+        "correct": 0,
+        "explanation": "Vazoplejide damar direnci belirgin düşüktür; düşük basınç tek başına yetersiz pompa akımını kanıtlamaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Tel takviyeli venöz kanül, kıvrılıp tıkanma riskini sınırlamaya yöneliktir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1x7mfvc",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Tel takviyeli venöz kanül, kıvrılıp tıkanma riskini sınırlamaya yöneliktir.",
+        "isTrue": true,
+        "explanation": "Tel desteği kanül duvarının bükülmeyle kollabe olmasını azaltmayı amaçlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel akım sabitken venöz dönüş azaltılırsa rezervuar seviyesi yükselir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-17k69ar",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Arteriyel akım sabitken venöz dönüş azaltılırsa rezervuar seviyesi yükselir.",
+        "isTrue": false,
+        "explanation": "Rezervuara giriş azalırken çıkış sürer; rezervuar seviyesi düşer.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Konvansiyonel ultrafiltre, plazma suyunu uzaklaştırırken kan hücrelerini tutar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-01ywtm7",
+        "course": "PER245",
+        "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Konvansiyonel ultrafiltre, plazma suyunu uzaklaştırırken kan hücrelerini tutar.",
+        "isTrue": true,
+        "explanation": "Hemofiltrenin ayırma özelliği su ve küçük solütlerin uzaklaştırılmasına izin verir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0gfv6hh",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 3,
+      "term": "Aortik (arteriyel) kanül",
+      "en": "Aortic cannula",
+      "definition": "Oksijenli kanı hastaya veren kanül (düz, açılı, difüzyon uçlu).",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-12anqbl",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 1,
+      "term": "İki kademeli venöz kanül",
+      "en": "Two-stage (cavoatrial) cannula",
+      "definition": "Ucu VCI'da, geniş delikli kısmı sağ atriyumda olan tek venöz kanül.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-03i4d32",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "Total KPB",
+      "en": "Total bypass",
+      "definition": "Tüm sistemik venöz dönüşün pompaya yönlendirildiği KPB; bikaval kanülasyonda snare'lerle sağ atriyum izole edilebilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-18psipl",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 3,
+      "term": "Parsiyel KPB",
+      "en": "Partial bypass",
+      "definition": "Venöz dönüşün bir kısmının kalp ve akciğerden geçmeye devam ettiği KPB.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0orzyo0",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "Suction bypass",
+      "en": "Suction bypass",
+      "definition": "Venöz kanülasyon öncesi aspiratörle toplanan kanın arteriyel kanülden geri verilmesi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0lbsv3q",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 1,
+      "term": "Gravite (sifon) drenajı",
+      "en": "Gravity siphon drainage",
+      "definition": "Rezervuarın hastadan aşağıda olmasıyla venöz kanın yer çekimiyle akması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1b1sttq",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "VAVD",
+      "en": "Vacuum-assisted venous drainage",
+      "definition": "Sert kabuklu rezervuara regüle vakum uygulayarak venöz dönüşü artırma.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0r66ydw",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 3,
+      "term": "Venöz hava kilidi",
+      "en": "Venous airlock",
+      "definition": "Venöz hatta biriken havanın sifonu keserek drenajı durdurması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-19bm2bv",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "Vazopleji",
+      "en": "Vasoplegia",
+      "definition": "Yeterli akıma rağmen derin vazodilatasyon ve dirençli hipotansiyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0lwnsx9",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 1,
+      "term": "SvO2",
+      "en": "Mixed venous oxygen saturation",
+      "definition": "Karışık venöz kandaki oksijen satürasyonu; oksijen sunumu ve tüketimi arasındaki denge hakkında bilgi verir.",
+      "source": "EACTS/EACTA/EBCP 2019"
+    },
+    {
+      "id": "PER245-1cl44a5",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 3,
+      "term": "CUF",
+      "en": "Conventional ultrafiltration",
+      "definition": "KPB sırasında hemofiltreyle plazma suyunun uzaklaştırılması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0p8tfkm",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "ZBUF",
+      "en": "Zero-balance ultrafiltration",
+      "definition": "Uzaklaştırılan hacim kadar dengeli kristaloid eklenen ultrafiltrasyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1puaadr",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "MUF",
+      "en": "Modified ultrafiltration",
+      "definition": "KPB sonrası kanın aortik kanülden ultrafiltreye ve sağ atriyuma verildiği ultrafiltrasyon.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1dlm3ec",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "term",
+      "importance": 2,
+      "term": "Kinetik destekli venöz drenaj",
+      "definition": "Venöz kanül ile rezervuar arasındaki santrifüj pompayla venöz drenajın desteklenmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-04dt2sz",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz dönüşün paylaşımı",
+      "left": {
+        "title": "Total KPB",
+        "points": [
+          "Sistemik venöz dönüş pompaya yönlendirilir",
+          "Bikaval snare ile sağ atriyum izole edilebilir"
+        ]
+      },
+      "right": {
+        "title": "Parsiyel KPB",
+        "points": [
+          "Dönüşün bir bölümü kalp-akciğer yolunu sürdürür",
+          "Nativ dolaşımın katkısı devam eder"
+        ]
+      },
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1795n8f",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz kanül düzeni",
+      "left": {
+        "title": "İki kademeli kanül",
+        "points": [
+          "Tek kanülde atriyal ve kaval delikli bölümler",
+          "Kalp boşluğu açılmayan işlemlerde sık kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Bikaval kanülasyon",
+        "points": [
+          "İki kavada ayrı kanüller ve ortak venöz hat",
+          "Sağ kalp açılacaksa izolasyona elverişlidir"
+        ]
+      },
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-11phmez",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Venöz drenajın desteklenmesi",
+      "left": {
+        "title": "VAVD",
+        "points": [
+          "Sert rezervuara regüle vakum uygulanır",
+          "Drenaj için rezervuar basıncı değiştirilir"
+        ]
+      },
+      "right": {
+        "title": "KAVD",
+        "points": [
+          "Venöz hatta yardımcı santrifüj pompa bulunur",
+          "Drenaj için hat üzerinde kinetik enerji sağlanır"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-08vrjqx",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Ultrafiltrasyonda denge",
+      "left": {
+        "title": "CUF",
+        "points": [
+          "KPB sırasında plazma suyu uzaklaştırılır",
+          "Net sıvı azalması sağlanabilir"
+        ]
+      },
+      "right": {
+        "title": "ZBUF",
+        "points": [
+          "KPB sırasında filtrasyon yapılır",
+          "Çekilen sıvı dengeli kristaloidle yerine konur"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1dof5dg",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel akım ve drenaj",
+      "body": "Venöz drenaj sabitken arteriyel akım geçici azaltılırsa kan hastadan rezervuara kayar; dengesiz akımlar sürekli sürdürülemez.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1he1uve",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Drenaj aniden azalırsa",
+      "body": "Venöz hava kilidi veya kanül manipülasyonu dönüşü azalttığında arteriyel çıkış da gözden geçirilir; rezervuarın boşalması hava riski yaratır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-06d8j8w",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "VAVD'nin sınırı",
+      "body": "Artan negatif basınç drenajı desteklese de hemoliz ve gaz mikroembolisi riskini artırabilir; venöz basınç izlenmelidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-07hgigt",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Transfüzyonda oksijen dengesi",
+      "body": "KPB'de eritrosit transfüzyonu değerlendirmesi hematokritin yanında oksijen sunumu ve ekstraksiyonunu da dikkate alır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-17skn6q",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Cell saver'ın geri verdiği",
+      "body": "Hücre yıkama sistemi eritrositleri yoğunlaştırır; uzaklaştırılan plazmadaki pıhtılaşma faktörlerini aynı şekilde geri vermez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1ociv3n",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Venöz rezervuar hastanın altında tutulduğunda drenajı hangi mekanizma destekler?",
+      "answer": "Gravite ve sıvı kolonunun sifon etkisi; hatların havasız ve sıvı dolu olması önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0tv7sk5",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Aşırı vakum güvenlik değildir",
+      "body": "Venöz drenajda daha büyük negatif basınç **hemoliz ve gaz mikroembolisi** riskini artırabilir; basınç sınırları ve izlem önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0xo0xr8",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Dönüş azalınca rezervuarı izle",
+      "body": "Arteriyel pompa venöz dönüşten fazla kan gönderirse rezervuar boşalır; düşük seviye **hava gönderme riski** taşır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0weo2ad",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 3,
+      "title": "MAP için kılavuz çerçevesi",
+      "body": "2024 EACTS Tablo 40, yeterli akım ve anestezi derinliği doğrulandıktan sonra MAP’ın 50–80 mmHg arasında tutulmasını önerir; bireysel serebral otoregülasyon verileri de hedefi etkileyebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1nc10o0",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Hematokrit ve transfüzyon bağlamı",
+      "body": "2024 EACTS Tablo 45’te KPB sırasında Hct <%18 (Hb 6,0 g/dL) için eritrosit transfüzyonu önerilir. Hct %18–24 aralığında karar doku oksijenlenmesinin değerlendirmesiyle verilir; tek bir sayı bütün hastaları açıklamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1npzgje",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "MUF diğer yöntemlerden zamanlama bakımından nasıl ayrılır?",
+      "options": [
+        "KPB sonlandıktan sonra uygulanır",
+        "KPB başlamadan prime için kullanılır",
+        "Yalnız aort klempli dönemde yapılır",
+        "Yalnız dolaşım tamamen dururken yapılır"
+      ],
+      "correct": 0,
+      "explanation": "Modifiye ultrafiltrasyon KPB sonrası uygulanır; CUF KPB sırasında yapılır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0ijx8su",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Cell saver sonrası geri verilen ana kan bileşeni hangisidir?",
+      "options": [
+        "Albümin",
+        "Eritrosit",
+        "Trombosit",
+        "Fibrinojen"
+      ],
+      "correct": 1,
+      "explanation": "Cell saver yıkayıp yoğunlaştırdığı eritrositleri geri verir; plazma proteinleri aynı biçimde korunmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0pavaue",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Difüzyon uçlu arter kanülünün yan delikleri neyi azaltmayı amaçlar?",
+      "options": [
+        "Koroner geri basıncı sıfırlamayı",
+        "Kanül lümen direncini tamamen kaldırmayı",
+        "Tek jetin duvar etkisini",
+        "Aortadaki plakları filtrelemeyi"
+      ],
+      "correct": 2,
+      "explanation": "Akımın dağıtılması tek güçlü jetin aort duvarına etkisini sınırlamaya yöneliktir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1l0qv4u",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "VAVD uygulanırken hangi basınç özellikle izlenir?",
+      "options": [
+        "Arteriyel kanül uç basıncı",
+        "Pulmoner arter basıncı",
+        "Sol atriyal dolum basıncı",
+        "Venöz rezervuar/hat basıncı"
+      ],
+      "correct": 3,
+      "explanation": "Destekli drenajın negatif basıncı hem drenaj hem güvenlik açısından izlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1o7c0xu",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yeterli akıma rağmen derin vazodilatasyon ve hipotansiyon hangi tablodur?",
+      "options": [
+        "Vazopleji",
+        "Hipovolemi",
+        "Venöz hava kilidi",
+        "Kanül malpozisyonu"
+      ],
+      "correct": 0,
+      "explanation": "Vazoplejide damar direnci belirgin düşüktür; düşük basınç tek başına yetersiz pompa akımını kanıtlamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1x7mfvc",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Tel takviyeli venöz kanül, kıvrılıp tıkanma riskini sınırlamaya yöneliktir.",
+      "isTrue": true,
+      "explanation": "Tel desteği kanül duvarının bükülmeyle kollabe olmasını azaltmayı amaçlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-17k69ar",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Arteriyel akım sabitken venöz dönüş azaltılırsa rezervuar seviyesi yükselir.",
+      "isTrue": false,
+      "explanation": "Rezervuara giriş azalırken çıkış sürer; rezervuar seviyesi düşer.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-01ywtm7",
+      "course": "PER245",
+      "topic": "Kanülasyon ve KPB'nin yürütülmesi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Konvansiyonel ultrafiltre, plazma suyunu uzaklaştırırken kan hücrelerini tutar.",
+      "isTrue": true,
+      "explanation": "Hemofiltrenin ayırma özelliği su ve küçük solütlerin uzaklaştırılmasına izin verir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

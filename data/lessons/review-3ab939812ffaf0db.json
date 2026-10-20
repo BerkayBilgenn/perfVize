@@ -1,0 +1,1060 @@
+{
+  "id": "review-3ab939812ffaf0db",
+  "title": "Anestezi cihazı ve mekanik ventilasyon",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Anestezi cihazı",
+      "text": "Anesthesia machine / workstation\noksijen sağlama, gaz-buhar karıştırma, ventilasyon ve güvenlik sistemlerini içeren cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-0lbpt2a",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Anestezi cihazı",
+        "en": "Anesthesia machine / workstation",
+        "definition": "oksijen sağlama, gaz-buhar karıştırma, ventilasyon ve güvenlik sistemlerini içeren cihaz.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Pin indeks güvenlik sistemi",
+      "text": "Pin index safety system (PISS)\nSilindir valfi ile boyunduruktaki gaza özgü pin dizilimini kullanarak yanlış gaz silindirinin takılmasını önleyen bağlantı sistemi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0o7hwky",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Pin indeks güvenlik sistemi",
+        "en": "Pin index safety system (PISS)",
+        "definition": "Silindir valfi ile boyunduruktaki gaza özgü pin dizilimini kullanarak yanlış gaz silindirinin takılmasını önleyen bağlantı sistemi.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Çap indeks güvenlik sistemi",
+      "text": "Diameter index safety system (DISS)\nBoru hattı bağlantılarında gaza özgü çaplarla yanlış bağlantıyı önler.",
+      "images": [],
+      "card": {
+        "id": "PER243-1d5jinl",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Çap indeks güvenlik sistemi",
+        "en": "Diameter index safety system (DISS)",
+        "definition": "Boru hattı bağlantılarında gaza özgü çaplarla yanlış bağlantıyı önler.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Basınç regülatörü",
+      "text": "Pressure regulator\nGaz silindirindeki yüksek ve değişken basıncı, anestezi cihazının kullanabileceği sabit düşük basınca indiren düzenek.",
+      "images": [],
+      "card": {
+        "id": "PER243-11dq1gc",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Basınç regülatörü",
+        "en": "Pressure regulator",
+        "definition": "Gaz silindirindeki yüksek ve değişken basıncı, anestezi cihazının kullanabileceği sabit düşük basınca indiren düzenek.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Akış ölçer",
+      "text": "Flowmeter (Thorpe tube)\nKonik tüpteki şamandırayla gaz akımını gösteren değişken orifisli düzenek; şamandıranın üstünden okunur.",
+      "images": [],
+      "card": {
+        "id": "PER243-0mb3rp5",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Akış ölçer",
+        "en": "Flowmeter (Thorpe tube)",
+        "definition": "Konik tüpteki şamandırayla gaz akımını gösteren değişken orifisli düzenek; şamandıranın üstünden okunur.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen flaş valfi",
+      "text": "Oxygen flush valve\nAkış ölçer ve vaporizatörü atlayarak solunum devresine yüksek akımda saf oksijen veren valf.",
+      "images": [],
+      "card": {
+        "id": "PER243-0cxrwi4",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Oksijen flaş valfi",
+        "en": "Oxygen flush valve",
+        "definition": "Akış ölçer ve vaporizatörü atlayarak solunum devresine yüksek akımda saf oksijen veren valf.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen yetmezlik güvenlik sistemi",
+      "text": "Oxygen failure safety device\noksijen basıncı düşünce susturulamayan alarm verip diğer gazları azaltan/kesen sistem.",
+      "images": [],
+      "card": {
+        "id": "PER243-1n2srb2",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Oksijen yetmezlik güvenlik sistemi",
+        "en": "Oxygen failure safety device",
+        "definition": "oksijen basıncı düşünce susturulamayan alarm verip diğer gazları azaltan/kesen sistem.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Hipoksik karışım önleyici",
+      "text": "Hypoxic guard (proportioning system)\nNitröz oksit ve oksijen akımlarını birbirine bağlayarak taze gazda hipoksik karışım oluşmasını sınırlayan düzenek.",
+      "images": [],
+      "card": {
+        "id": "PER243-0dqp6zi",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Hipoksik karışım önleyici",
+        "en": "Hypoxic guard (proportioning system)",
+        "definition": "Nitröz oksit ve oksijen akımlarını birbirine bağlayarak taze gazda hipoksik karışım oluşmasını sınırlayan düzenek.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Vaporizatör",
+      "text": "Vaporizer\nSıvı volatil ajanı kontrollü konsantrasyonda buhara çeviren, ajana özgü cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1g8ht1r",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Vaporizatör",
+        "en": "Vaporizer",
+        "definition": "Sıvı volatil ajanı kontrollü konsantrasyonda buhara çeviren, ajana özgü cihaz.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Halka sistem",
+      "text": "Circle breathing system\nTek yönlü valfler ve karbondioksit absorbanıyla ekshale gazın yeniden solunmasına izin veren solunum devresi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1nvcz9z",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Halka sistem",
+        "en": "Circle breathing system",
+        "definition": "Tek yönlü valfler ve karbondioksit absorbanıyla ekshale gazın yeniden solunmasına izin veren solunum devresi.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Soda lime",
+      "text": "Soda lime\nCa(OH)2 ağırlıklı, NaOH/KOH ve su içeren karbondioksit absorbanı; tepkimesi ekzotermiktir.",
+      "images": [],
+      "card": {
+        "id": "PER243-09jql9h",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Soda lime",
+        "en": "Soda lime",
+        "definition": "Ca(OH)2 ağırlıklı, NaOH/KOH ve su içeren karbondioksit absorbanı; tepkimesi ekzotermiktir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "APL valfi",
+      "text": "Adjustable pressure-limiting valve\nDevredeki fazla gazı atık sisteme bırakan ayarlanabilir basınç sınırlayıcı valf.",
+      "images": [],
+      "card": {
+        "id": "PER243-0wx72yq",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "APL valfi",
+        "en": "Adjustable pressure-limiting valve",
+        "definition": "Devredeki fazla gazı atık sisteme bırakan ayarlanabilir basınç sınırlayıcı valf.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Atık gaz uzaklaştırma",
+      "text": "Scavenging\nEkshale anestezik gazların ameliyathane ortamından uzaklaştırılmasını sağlayan sistem.",
+      "images": [],
+      "card": {
+        "id": "PER243-1h3pff0",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Atık gaz uzaklaştırma",
+        "en": "Scavenging",
+        "definition": "Ekshale anestezik gazların ameliyathane ortamından uzaklaştırılmasını sağlayan sistem.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Düşük akım anestezisi",
+      "text": "Low-flow anesthesia\nTaze gaz akımının <2 L/dk tutulduğu halka sistem uygulaması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0vyoo80",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Düşük akım anestezisi",
+        "en": "Low-flow anesthesia",
+        "definition": "Taze gaz akımının <2 L/dk tutulduğu halka sistem uygulaması.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Kendiliğinden şişen balon",
+      "text": "Self-inflating bag (Ambu)\nMakine arızasında elle ventilasyon için her zaman hazır bulunması gereken balon-valf-maske düzeneği.",
+      "images": [],
+      "card": {
+        "id": "PER243-06f72z4",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Kendiliğinden şişen balon",
+        "en": "Self-inflating bag (Ambu)",
+        "definition": "Makine arızasında elle ventilasyon için her zaman hazır bulunması gereken balon-valf-maske düzeneği.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Tidal volüm",
+      "text": "Tidal volume\nHer solukta verilen gaz hacmi; akciğer koruyucu ventilasyonda tahmini vücut ağırlığına göre belirlenir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1g3m3ph",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Tidal volüm",
+        "en": "Tidal volume",
+        "definition": "Her solukta verilen gaz hacmi; akciğer koruyucu ventilasyonda tahmini vücut ağırlığına göre belirlenir.",
+        "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+      }
+    },
+    {
+      "title": "PEEP",
+      "text": "Positive end-expiratory pressure\nEkspirasyon sonunda havayolunda korunan pozitif basınç; alveollerin açık tutulmasına ve atelektazinin azaltılmasına yardımcı olur.",
+      "images": [],
+      "card": {
+        "id": "PER243-00qossv",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 3,
+        "term": "PEEP",
+        "en": "Positive end-expiratory pressure",
+        "definition": "Ekspirasyon sonunda havayolunda korunan pozitif basınç; alveollerin açık tutulmasına ve atelektazinin azaltılmasına yardımcı olur.",
+        "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+      }
+    },
+    {
+      "title": "Hacim / basınç kontrollü ventilasyon",
+      "text": "VCV / PCV\nVCV'de tidal volüm sabit, basınç değişken; PCV'de basınç sabit, tidal volüm değişken.",
+      "images": [],
+      "card": {
+        "id": "PER243-0rcigwr",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Hacim / basınç kontrollü ventilasyon",
+        "en": "VCV / PCV",
+        "definition": "VCV'de tidal volüm sabit, basınç değişken; PCV'de basınç sabit, tidal volüm değişken.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Silindirde kalan N2O",
+      "text": "Nitröz oksit silindirinde sıvı kaldıkça basınç yaklaşık sabit kalır; kalan miktar **tartılarak** değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0agv8y1",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Silindirde kalan N2O",
+        "body": "Nitröz oksit silindirinde sıvı kaldıkça basınç yaklaşık sabit kalır; kalan miktar **tartılarak** değerlendirilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen güvenliğinin sınırı",
+      "text": "Oksijen yetmezlik güvenlik sistemi **basıncı** algılar; yanlış gaz dolumunu veya hatalı akış karışımını tek başına saptayamaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1nvz0h3",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Oksijen güvenliğinin sınırı",
+        "body": "Oksijen yetmezlik güvenlik sistemi **basıncı** algılar; yanlış gaz dolumunu veya hatalı akış karışımını tek başına saptayamaz.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Gaz kimliğinde etiket",
+      "text": "Gaz silindirinin **etiketi okunmalıdır**. Renk kodu ülkelere göre farklılaşabildiğinden tek başına birincil tanımlama yöntemi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0srir7o",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Gaz kimliğinde etiket",
+        "body": "Gaz silindirinin **etiketi okunmalıdır**. Renk kodu ülkelere göre farklılaşabildiğinden tek başına birincil tanımlama yöntemi değildir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Vaporizatör kilidi",
+      "text": "Vaporizatörler arasındaki **interlock**, aynı anda birden fazla vaporizatörün açılmasını önleyen güvenlik mekanizmasıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-157hcpq",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Vaporizatör kilidi",
+        "body": "Vaporizatörler arasındaki **interlock**, aynı anda birden fazla vaporizatörün açılmasını önleyen güvenlik mekanizmasıdır.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Absorban renginin sınırı",
+      "text": "Soda lime indikatörünün renk değişimi, absorbanın işlevini değerlendirmede **tek başına tamamen güvenilir değildir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-0tj7jmb",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "fact",
+        "importance": 1,
+        "title": "Absorban renginin sınırı",
+        "body": "Soda lime indikatörünün renk değişimi, absorbanın işlevini değerlendirmede **tek başına tamamen güvenilir değildir**.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Makine arızasına hazırlık",
+      "text": "Anestezi cihazı kontrolünde **kendiliğinden şişen balon ve alternatif oksijen kaynağı** hazır bulundurulur.",
+      "images": [],
+      "card": {
+        "id": "PER243-1j47ukd",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Makine arızasına hazırlık",
+        "body": "Anestezi cihazı kontrolünde **kendiliğinden şişen balon ve alternatif oksijen kaynağı** hazır bulundurulur.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Düşük basınçlı anestezi sistemi hangi bölümden başlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0vxiqm1",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Düşük basınçlı anestezi sistemi hangi bölümden başlar?",
+        "answer": "**Akış ölçerlerin sonrasından** başlar; vaporizatörler ve ortak gaz çıkışını kapsar.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Halka sistemde hiperkapninin devreyle ilişkili nedenleri nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1xgj2j1",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Halka sistemde hiperkapninin devreyle ilişkili nedenleri nelerdir?",
+        "answer": "**Tükenmiş absorban, yetersiz tek yönlü valf ve absorban baypasının yanlış kullanımı** yeniden karbondioksit solunmasına yol açabilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen flaş valfi anesteziği neden seyreltebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-03as38g",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Oksijen flaş valfi anesteziği neden seyreltebilir?",
+        "answer": "Saf oksijeni **akış ölçer ve vaporizatörü atlayarak** verir; hastaya giden anestezik konsantrasyonu azalabilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen ölçerinin yeri",
+      "text": "Klasik akış ölçer dizisinde **oksijen ölçeri en sonda**, aşağı akımda yer alır; ara tüp kaçağında hipoksik karışım riskini azaltır.",
+      "images": [],
+      "card": {
+        "id": "PER243-02sp21c",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "Oksijen ölçerinin yeri",
+        "body": "Klasik akış ölçer dizisinde **oksijen ölçeri en sonda**, aşağı akımda yer alır; ara tüp kaçağında hipoksik karışım riskini azaltır.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Gaz basıncı yeterli değil",
+      "text": "Oksijen basıncı güvenlik sistemi oksijen konsantrasyonunu doğrudan ölçmez. **Oksijen analizörü** ayrı bir güvenlik katmanıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1m4fur2",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "Gaz basıncı yeterli değil",
+        "body": "Oksijen basıncı güvenlik sistemi oksijen konsantrasyonunu doğrudan ölçmez. **Oksijen analizörü** ayrı bir güvenlik katmanıdır.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen flaş valfinin uygunsuz kullanımı hangi fiziksel hasar riskini artırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-13pjl94",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Oksijen flaş valfinin uygunsuz kullanımı hangi fiziksel hasar riskini artırır?",
+        "options": [
+          "Hiperkapni",
+          "Barotravma",
+          "Atelektazi",
+          "Bronkospazm"
+        ],
+        "correct": 1,
+        "explanation": "Yüksek akımlı oksijen flaşının uygunsuz kullanımı havayolu basıncını artırıp barotravma yapabilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Thorpe tüpündeki bobin biçimli şamandıra hangi noktadan okunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1tmo8i6",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Thorpe tüpündeki bobin biçimli şamandıra hangi noktadan okunur?",
+        "options": [
+          "Alt kenarından",
+          "Orta seviyesinden",
+          "Üst kenarından",
+          "Şamandıra çapından"
+        ],
+        "correct": 2,
+        "explanation": "Bobin biçimli şamandırada akım üst kenardan okunur; farklı gösterge tiplerinin okuma biçimi aynı değildir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Atık gaz uzaklaştırma sistemi hangi riski azaltmayı amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1or6j1m",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Atık gaz uzaklaştırma sistemi hangi riski azaltmayı amaçlar?",
+        "options": [
+          "Hastanın yeniden CO2 solumasını",
+          "Gaz silindirinin yanlış bağlanmasını",
+          "Anestezik sıvının yanlış doldurulmasını",
+          "Personelin anestezik gaza maruziyetini"
+        ],
+        "correct": 3,
+        "explanation": "Scavenging ekshale anestezik gazları ortamdan uzaklaştırır.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Oksijen silindirinde yanlış bağlantıyı önleyen düzenek hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-146wyc4",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Oksijen silindirinde yanlış bağlantıyı önleyen düzenek hangisidir?",
+        "options": [
+          "Pin indeks sistemi",
+          "Çap indeks sistemi",
+          "Vaporizatör kilidi",
+          "Ajana özgü dolum anahtarı"
+        ],
+        "correct": 0,
+        "explanation": "Pin indeks sistemi silindir valfi ve boyundurukta gaza özgü dizilim kullanır.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Hacim kontrollü ventilasyonda hangi büyüklük sabit hedeflenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0vdabpk",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hacim kontrollü ventilasyonda hangi büyüklük sabit hedeflenir?",
+        "options": [
+          "Havayolu basıncı",
+          "Tidal volüm",
+          "Arter kan basıncı",
+          "Kan/gaz katsayısı"
+        ],
+        "correct": 1,
+        "explanation": "Hacim kontrollü ventilasyonda volüm sabit, basınç değişkendir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Sıvılaştırılmış nitröz oksit silindirinde kalan miktar yalnız basınç göstergesinden güvenilir biçimde okunur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1flxohh",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Sıvılaştırılmış nitröz oksit silindirinde kalan miktar yalnız basınç göstergesinden güvenilir biçimde okunur.",
+        "isTrue": false,
+        "explanation": "Sıvı kaldıkça basınç yaklaşık sabit kalır; içerik tartılarak değerlendirilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Ajana özgü vaporizatör dolum bağlantısı yanlış anestezikle doldurma riskini azaltır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1yevedx",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Ajana özgü vaporizatör dolum bağlantısı yanlış anestezikle doldurma riskini azaltır.",
+        "isTrue": true,
+        "explanation": "Anahtarlı dolum sistemi vaporizatörün ajana özgü güvenlik özelliklerinden biridir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Basınç kontrollü ventilasyonda tidal volüm sabit, havayolu basıncı değişkendir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0a99k4l",
+        "course": "PER243",
+        "topic": "Anestezi cihazı ve mekanik ventilasyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Basınç kontrollü ventilasyonda tidal volüm sabit, havayolu basıncı değişkendir.",
+        "isTrue": false,
+        "explanation": "Basınç kontrollü modda basınç hedefi sabittir; tidal volüm değişebilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-0lbpt2a",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Anestezi cihazı",
+      "en": "Anesthesia machine / workstation",
+      "definition": "oksijen sağlama, gaz-buhar karıştırma, ventilasyon ve güvenlik sistemlerini içeren cihaz.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0o7hwky",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Pin indeks güvenlik sistemi",
+      "en": "Pin index safety system (PISS)",
+      "definition": "Silindir valfi ile boyunduruktaki gaza özgü pin dizilimini kullanarak yanlış gaz silindirinin takılmasını önleyen bağlantı sistemi.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1d5jinl",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Çap indeks güvenlik sistemi",
+      "en": "Diameter index safety system (DISS)",
+      "definition": "Boru hattı bağlantılarında gaza özgü çaplarla yanlış bağlantıyı önler.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-11dq1gc",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Basınç regülatörü",
+      "en": "Pressure regulator",
+      "definition": "Gaz silindirindeki yüksek ve değişken basıncı, anestezi cihazının kullanabileceği sabit düşük basınca indiren düzenek.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0mb3rp5",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Akış ölçer",
+      "en": "Flowmeter (Thorpe tube)",
+      "definition": "Konik tüpteki şamandırayla gaz akımını gösteren değişken orifisli düzenek; şamandıranın üstünden okunur.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0cxrwi4",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen flaş valfi",
+      "en": "Oxygen flush valve",
+      "definition": "Akış ölçer ve vaporizatörü atlayarak solunum devresine yüksek akımda saf oksijen veren valf.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1n2srb2",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen yetmezlik güvenlik sistemi",
+      "en": "Oxygen failure safety device",
+      "definition": "oksijen basıncı düşünce susturulamayan alarm verip diğer gazları azaltan/kesen sistem.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0dqp6zi",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Hipoksik karışım önleyici",
+      "en": "Hypoxic guard (proportioning system)",
+      "definition": "Nitröz oksit ve oksijen akımlarını birbirine bağlayarak taze gazda hipoksik karışım oluşmasını sınırlayan düzenek.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1g8ht1r",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Vaporizatör",
+      "en": "Vaporizer",
+      "definition": "Sıvı volatil ajanı kontrollü konsantrasyonda buhara çeviren, ajana özgü cihaz.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1nvcz9z",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Halka sistem",
+      "en": "Circle breathing system",
+      "definition": "Tek yönlü valfler ve karbondioksit absorbanıyla ekshale gazın yeniden solunmasına izin veren solunum devresi.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-09jql9h",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Soda lime",
+      "en": "Soda lime",
+      "definition": "Ca(OH)2 ağırlıklı, NaOH/KOH ve su içeren karbondioksit absorbanı; tepkimesi ekzotermiktir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0wx72yq",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "APL valfi",
+      "en": "Adjustable pressure-limiting valve",
+      "definition": "Devredeki fazla gazı atık sisteme bırakan ayarlanabilir basınç sınırlayıcı valf.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1h3pff0",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Atık gaz uzaklaştırma",
+      "en": "Scavenging",
+      "definition": "Ekshale anestezik gazların ameliyathane ortamından uzaklaştırılmasını sağlayan sistem.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0vyoo80",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Düşük akım anestezisi",
+      "en": "Low-flow anesthesia",
+      "definition": "Taze gaz akımının <2 L/dk tutulduğu halka sistem uygulaması.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-06f72z4",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Kendiliğinden şişen balon",
+      "en": "Self-inflating bag (Ambu)",
+      "definition": "Makine arızasında elle ventilasyon için her zaman hazır bulunması gereken balon-valf-maske düzeneği.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1g3m3ph",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Tidal volüm",
+      "en": "Tidal volume",
+      "definition": "Her solukta verilen gaz hacmi; akciğer koruyucu ventilasyonda tahmini vücut ağırlığına göre belirlenir.",
+      "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+    },
+    {
+      "id": "PER243-00qossv",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 3,
+      "term": "PEEP",
+      "en": "Positive end-expiratory pressure",
+      "definition": "Ekspirasyon sonunda havayolunda korunan pozitif basınç; alveollerin açık tutulmasına ve atelektazinin azaltılmasına yardımcı olur.",
+      "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+    },
+    {
+      "id": "PER243-0rcigwr",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Hacim / basınç kontrollü ventilasyon",
+      "en": "VCV / PCV",
+      "definition": "VCV'de tidal volüm sabit, basınç değişken; PCV'de basınç sabit, tidal volüm değişken.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0agv8y1",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Silindirde kalan N2O",
+      "body": "Nitröz oksit silindirinde sıvı kaldıkça basınç yaklaşık sabit kalır; kalan miktar **tartılarak** değerlendirilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1nvz0h3",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijen güvenliğinin sınırı",
+      "body": "Oksijen yetmezlik güvenlik sistemi **basıncı** algılar; yanlış gaz dolumunu veya hatalı akış karışımını tek başına saptayamaz.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0srir7o",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Gaz kimliğinde etiket",
+      "body": "Gaz silindirinin **etiketi okunmalıdır**. Renk kodu ülkelere göre farklılaşabildiğinden tek başına birincil tanımlama yöntemi değildir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-157hcpq",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Vaporizatör kilidi",
+      "body": "Vaporizatörler arasındaki **interlock**, aynı anda birden fazla vaporizatörün açılmasını önleyen güvenlik mekanizmasıdır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0tj7jmb",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "fact",
+      "importance": 1,
+      "title": "Absorban renginin sınırı",
+      "body": "Soda lime indikatörünün renk değişimi, absorbanın işlevini değerlendirmede **tek başına tamamen güvenilir değildir**.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1j47ukd",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Makine arızasına hazırlık",
+      "body": "Anestezi cihazı kontrolünde **kendiliğinden şişen balon ve alternatif oksijen kaynağı** hazır bulundurulur.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0vxiqm1",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Düşük basınçlı anestezi sistemi hangi bölümden başlar?",
+      "answer": "**Akış ölçerlerin sonrasından** başlar; vaporizatörler ve ortak gaz çıkışını kapsar.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1xgj2j1",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Halka sistemde hiperkapninin devreyle ilişkili nedenleri nelerdir?",
+      "answer": "**Tükenmiş absorban, yetersiz tek yönlü valf ve absorban baypasının yanlış kullanımı** yeniden karbondioksit solunmasına yol açabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-03as38g",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Oksijen flaş valfi anesteziği neden seyreltebilir?",
+      "answer": "Saf oksijeni **akış ölçer ve vaporizatörü atlayarak** verir; hastaya giden anestezik konsantrasyonu azalabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-02sp21c",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "Oksijen ölçerinin yeri",
+      "body": "Klasik akış ölçer dizisinde **oksijen ölçeri en sonda**, aşağı akımda yer alır; ara tüp kaçağında hipoksik karışım riskini azaltır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1m4fur2",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "Gaz basıncı yeterli değil",
+      "body": "Oksijen basıncı güvenlik sistemi oksijen konsantrasyonunu doğrudan ölçmez. **Oksijen analizörü** ayrı bir güvenlik katmanıdır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-13pjl94",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Oksijen flaş valfinin uygunsuz kullanımı hangi fiziksel hasar riskini artırır?",
+      "options": [
+        "Hiperkapni",
+        "Barotravma",
+        "Atelektazi",
+        "Bronkospazm"
+      ],
+      "correct": 1,
+      "explanation": "Yüksek akımlı oksijen flaşının uygunsuz kullanımı havayolu basıncını artırıp barotravma yapabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1tmo8i6",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Thorpe tüpündeki bobin biçimli şamandıra hangi noktadan okunur?",
+      "options": [
+        "Alt kenarından",
+        "Orta seviyesinden",
+        "Üst kenarından",
+        "Şamandıra çapından"
+      ],
+      "correct": 2,
+      "explanation": "Bobin biçimli şamandırada akım üst kenardan okunur; farklı gösterge tiplerinin okuma biçimi aynı değildir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1or6j1m",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Atık gaz uzaklaştırma sistemi hangi riski azaltmayı amaçlar?",
+      "options": [
+        "Hastanın yeniden CO2 solumasını",
+        "Gaz silindirinin yanlış bağlanmasını",
+        "Anestezik sıvının yanlış doldurulmasını",
+        "Personelin anestezik gaza maruziyetini"
+      ],
+      "correct": 3,
+      "explanation": "Scavenging ekshale anestezik gazları ortamdan uzaklaştırır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-146wyc4",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Oksijen silindirinde yanlış bağlantıyı önleyen düzenek hangisidir?",
+      "options": [
+        "Pin indeks sistemi",
+        "Çap indeks sistemi",
+        "Vaporizatör kilidi",
+        "Ajana özgü dolum anahtarı"
+      ],
+      "correct": 0,
+      "explanation": "Pin indeks sistemi silindir valfi ve boyundurukta gaza özgü dizilim kullanır.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0vdabpk",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hacim kontrollü ventilasyonda hangi büyüklük sabit hedeflenir?",
+      "options": [
+        "Havayolu basıncı",
+        "Tidal volüm",
+        "Arter kan basıncı",
+        "Kan/gaz katsayısı"
+      ],
+      "correct": 1,
+      "explanation": "Hacim kontrollü ventilasyonda volüm sabit, basınç değişkendir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1flxohh",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Sıvılaştırılmış nitröz oksit silindirinde kalan miktar yalnız basınç göstergesinden güvenilir biçimde okunur.",
+      "isTrue": false,
+      "explanation": "Sıvı kaldıkça basınç yaklaşık sabit kalır; içerik tartılarak değerlendirilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1yevedx",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ajana özgü vaporizatör dolum bağlantısı yanlış anestezikle doldurma riskini azaltır.",
+      "isTrue": true,
+      "explanation": "Anahtarlı dolum sistemi vaporizatörün ajana özgü güvenlik özelliklerinden biridir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0a99k4l",
+      "course": "PER243",
+      "topic": "Anestezi cihazı ve mekanik ventilasyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Basınç kontrollü ventilasyonda tidal volüm sabit, havayolu basıncı değişkendir.",
+      "isTrue": false,
+      "explanation": "Basınç kontrollü modda basınç hedefi sabittir; tidal volüm değişebilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

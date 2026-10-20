@@ -1,0 +1,858 @@
+{
+  "id": "review-80ae7d1e2f240f65",
+  "title": "İnhalasyon anestezikleri",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "MAK",
+      "text": "Minimum alveolar concentration\nBir atmosferde cerrahi insizyona karşı hastaların **%50'sinin** hareket etmediği alveoler anestezik konsantrasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER243-1k2gbm4",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 3,
+        "term": "MAK",
+        "en": "Minimum alveolar concentration",
+        "definition": "Bir atmosferde cerrahi insizyona karşı hastaların **%50'sinin** hareket etmediği alveoler anestezik konsantrasyonu.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Kan/gaz partisyon katsayısı",
+      "text": "Blood/gas partition coefficient\nAnesteziğin kan ile gaz fazı arasındaki dağılım oranı; düşük olması hızlı indüksiyon ve derlenme demektir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1l3u2db",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Kan/gaz partisyon katsayısı",
+        "en": "Blood/gas partition coefficient",
+        "definition": "Anesteziğin kan ile gaz fazı arasındaki dağılım oranı; düşük olması hızlı indüksiyon ve derlenme demektir.",
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "Sevofluran",
+      "text": "Sevoflurane\nİnhalasyonla verilen volatil anestezik; güçlü baz içeren karbondioksit absorbanlarıyla etkileşimde Compound A oluşabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xrvwqw",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Sevofluran",
+        "en": "Sevoflurane",
+        "definition": "İnhalasyonla verilen volatil anestezik; güçlü baz içeren karbondioksit absorbanlarıyla etkileşimde Compound A oluşabilir.",
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "Desfluran",
+      "text": "Desflurane\nYüksek uçuculuğu nedeniyle ısıtmalı özel vaporizatör gerektiren volatil inhalasyon anesteziği.",
+      "images": [],
+      "card": {
+        "id": "PER243-141scgp",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Desfluran",
+        "en": "Desflurane",
+        "definition": "Yüksek uçuculuğu nedeniyle ısıtmalı özel vaporizatör gerektiren volatil inhalasyon anesteziği.",
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "İzofluran",
+      "text": "Isoflurane\nİnhalasyonla verilen volatil anestezik; kan/gaz partisyon katsayısı sevofluran ve desflurandan daha yüksektir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1m3imzh",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 3,
+        "term": "İzofluran",
+        "en": "Isoflurane",
+        "definition": "İnhalasyonla verilen volatil anestezik; kan/gaz partisyon katsayısı sevofluran ve desflurandan daha yüksektir.",
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "Nitröz oksit",
+      "text": "Nitrous oxide (N2O)\nDüşük potensli gaz anestezik; dolaşımdaki hava kabarcıklarını büyütebildiği için kardiyopulmoner bypass çevresinde sorun yaratabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0cmol5c",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Nitröz oksit",
+        "en": "Nitrous oxide (N2O)",
+        "definition": "Düşük potensli gaz anestezik; dolaşımdaki hava kabarcıklarını büyütebildiği için kardiyopulmoner bypass çevresinde sorun yaratabilir.",
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "Volatil anestezik",
+      "text": "Volatile anesthetic\nOda ısısında sıvı olup vaporizatörle buharlaştırılarak solutulan anestezik.",
+      "images": [],
+      "card": {
+        "id": "PER243-12bi738",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Volatil anestezik",
+        "en": "Volatile anesthetic",
+        "definition": "Oda ısısında sıvı olup vaporizatörle buharlaştırılarak solutulan anestezik.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Anestezik ön koşullandırma",
+      "text": "Anesthetic preconditioning\nVolatil ajanların miyokardı iskemi-reperfüzyona karşı koruyan yolakları (ör. K-ATP) tetiklemesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1r1tgdl",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Anestezik ön koşullandırma",
+        "en": "Anesthetic preconditioning",
+        "definition": "Volatil ajanların miyokardı iskemi-reperfüzyona karşı koruyan yolakları (ör. K-ATP) tetiklemesi.",
+        "source": "Ann Card Anaesth 2019: ön koşullandırma"
+      }
+    },
+    {
+      "title": "İskemik ön koşullandırma",
+      "text": "Ischemic preconditioning\nKısa iskemi dönemlerinin miyokardı sonraki daha uzun iskemiye karşı koruyan yanıtları tetiklemesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1jg8vpu",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 2,
+        "term": "İskemik ön koşullandırma",
+        "en": "Ischemic preconditioning",
+        "definition": "Kısa iskemi dönemlerinin miyokardı sonraki daha uzun iskemiye karşı koruyan yanıtları tetiklemesi.",
+        "source": "Ann Card Anaesth 2019: ön koşullandırma"
+      }
+    },
+    {
+      "title": "Compound A",
+      "text": "Compound A\nSevofluranın güçlü bazlı karbondioksit absorbanlarıyla yıkımından oluşan madde.",
+      "images": [],
+      "card": {
+        "id": "PER243-1huvw8b",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Compound A",
+        "en": "Compound A",
+        "definition": "Sevofluranın güçlü bazlı karbondioksit absorbanlarıyla yıkımından oluşan madde.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Malign hipertermi",
+      "text": "Malignant hyperthermia\nVolatil ajan veya süksinilkolinle tetiklenen kalıtsal hipermetabolik kas krizi; tedavisi dantrolen.",
+      "images": [],
+      "card": {
+        "id": "PER243-0l4r9n8",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Malign hipertermi",
+        "en": "Malignant hyperthermia",
+        "definition": "Volatil ajan veya süksinilkolinle tetiklenen kalıtsal hipermetabolik kas krizi; tedavisi dantrolen.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Dantrolen",
+      "text": "Dantrolene\nMalign hipertermi tedavisinde kullanılan iskelet kası gevşeticisi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1obf6rm",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Dantrolen",
+        "en": "Dantrolene",
+        "definition": "Malign hipertermi tedavisinde kullanılan iskelet kası gevşeticisi.",
+        "source": "DailyMed: dantrolen"
+      }
+    },
+    {
+      "title": "İnhalasyon ajanını değerlendirme",
+      "text": "MAK\nAnestezik potensi gösterir\nDüşük değer daha güçlü ajanı gösterir\n\nKan/gaz katsayısı\nKandaki çözünürlüğü gösterir\nDüşük değer daha hızlı indüksiyon ve derlenmeyle ilişkilidir",
+      "images": [],
+      "card": {
+        "id": "PER243-1at4ybe",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "compare",
+        "importance": 2,
+        "title": "İnhalasyon ajanını değerlendirme",
+        "left": {
+          "title": "MAK",
+          "points": [
+            "Anestezik potensi gösterir",
+            "Düşük değer daha güçlü ajanı gösterir"
+          ]
+        },
+        "right": {
+          "title": "Kan/gaz katsayısı",
+          "points": [
+            "Kandaki çözünürlüğü gösterir",
+            "Düşük değer daha hızlı indüksiyon ve derlenmeyle ilişkilidir"
+          ]
+        },
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "Yaş ve volatil gereksinimi",
+      "text": "İnhalasyon anesteziklerinde minimum alveoler konsantrasyon **yaşla azalır**; farklı yaş gruplarının değerleri aynı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-147163n",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Yaş ve volatil gereksinimi",
+        "body": "İnhalasyon anesteziklerinde minimum alveoler konsantrasyon **yaşla azalır**; farklı yaş gruplarının değerleri aynı değildir.",
+        "source": "Barash Clinical Anesthesia"
+      }
+    },
+    {
+      "title": "Hipotermi ve çözünürlük",
+      "text": "Kardiyopulmoner bypassta hipotermi volatil ajanın kan/gaz katsayısını artırırken, **hemodilüsyon azaltır**.",
+      "images": [],
+      "card": {
+        "id": "PER243-1bb5i5r",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hipotermi ve çözünürlük",
+        "body": "Kardiyopulmoner bypassta hipotermi volatil ajanın kan/gaz katsayısını artırırken, **hemodilüsyon azaltır**.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Isınmada derinlik değişimi",
+      "text": "Kardiyopulmoner bypassta sıcaklık hematokritten daha hızlı yükselirse volatil ajanın kan/gaz katsayısı düşebilir ve **derinlik hızla artabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-1oy37bx",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Isınmada derinlik değişimi",
+        "body": "Kardiyopulmoner bypassta sıcaklık hematokritten daha hızlı yükselirse volatil ajanın kan/gaz katsayısı düşebilir ve **derinlik hızla artabilir**.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Volatil anestezinin klinik kanıtı",
+      "text": "2024 KPB kılavuzu, volatil ajanların total intravenöz anesteziye göre mortalite üstünlüğünü **kesinleşmiş kabul etmez**. Ön koşullandırma mekanizması klinik üstünlükle aynı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-16nhfvu",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Volatil anestezinin klinik kanıtı",
+        "body": "2024 KPB kılavuzu, volatil ajanların total intravenöz anesteziye göre mortalite üstünlüğünü **kesinleşmiş kabul etmez**. Ön koşullandırma mekanizması klinik üstünlükle aynı değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Compound A oluşum koşulları",
+      "text": "Güçlü baz içeren absorbanlarla sevofluran etkileşiminde Compound A oluşumu; **düşük akım, uzun süre ve yüksek konsantrasyonla** artabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-13t0kwh",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Compound A oluşum koşulları",
+        "body": "Güçlü baz içeren absorbanlarla sevofluran etkileşiminde Compound A oluşumu; **düşük akım, uzun süre ve yüksek konsantrasyonla** artabilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Malign hiperterminin sistemi",
+      "text": "Malign hipertermi iskelet kasına ait **farmakogenetik hipermetabolik krizdir**; yalnız vücut sıcaklığındaki artıştan ibaret değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1wyxa73",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Malign hiperterminin sistemi",
+        "body": "Malign hipertermi iskelet kasına ait **farmakogenetik hipermetabolik krizdir**; yalnız vücut sıcaklığındaki artıştan ibaret değildir.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Volatil ajanlar KPB'de hangi gaz hattından verilebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-12j525l",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Volatil ajanlar KPB'de hangi gaz hattından verilebilir?",
+        "answer": "Volatil ajan **oksijenatör gaz hattından** verilir; konsantrasyonu egzoz hattından izlenir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Nitröz oksit KPB çevresinde neden sorun oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-19n34hr",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "flip",
+        "importance": 3,
+        "question": "Nitröz oksit KPB çevresinde neden sorun oluşturur?",
+        "answer": "**Hava kabarcıklarını büyütebilir**, gaz embolilerinin etkisini ağırlaştırabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dantrolen hangi anestezi acilinin özgül ilacıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1ow0i6v",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "flip",
+        "importance": 3,
+        "question": "Dantrolen hangi anestezi acilinin özgül ilacıdır?",
+        "answer": "**Malign hipertermi** krizinin tedavisinde kullanılan özgül ilaçtır.",
+        "source": "DailyMed: dantrolen"
+      }
+    },
+    {
+      "title": "Tetikleyiciler ve MH",
+      "text": "Volatil anestezikler ve **süksinilkolin** malign hipertermiyi tetikleyebilir; dantrolen tetikleyici ajan kullanılan yerde hazır bulunmalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0qy90a9",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "remember",
+        "importance": 3,
+        "title": "Tetikleyiciler ve MH",
+        "body": "Volatil anestezikler ve **süksinilkolin** malign hipertermiyi tetikleyebilir; dantrolen tetikleyici ajan kullanılan yerde hazır bulunmalıdır.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Desfluran hangi vaporizatör düzenini gerektirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1lzapkd",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Desfluran hangi vaporizatör düzenini gerektirir?",
+        "options": [
+          "Soğutmalı oksijen regülatörü",
+          "Soda lime kanisteri",
+          "Isıtmalı özel vaporizatör",
+          "Tek yönlü venöz valf"
+        ],
+        "correct": 2,
+        "explanation": "Desfluranın yüksek uçuculuğu özel ısıtmalı gaz-buhar karıştırıcısı gerektirir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Volatil ajanın etkisiyle ön koşullandırmada hangi kanal yolu anılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-141eatd",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Volatil ajanın etkisiyle ön koşullandırmada hangi kanal yolu anılır?",
+        "options": [
+          "GPIb reseptörleri",
+          "GPIIb/IIIa reseptörleri",
+          "V2 su kanalları",
+          "K-ATP kanalları"
+        ],
+        "correct": 3,
+        "explanation": "Anestezik ön koşullandırmanın koruyucu yolakları arasında K-ATP kanalları bulunur.",
+        "source": "Ann Card Anaesth 2019: ön koşullandırma"
+      }
+    },
+    {
+      "title": "Kuru absorbanla volatil ajan etkileşiminde hangi toksik gaz oluşabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0dee3h3",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kuru absorbanla volatil ajan etkileşiminde hangi toksik gaz oluşabilir?",
+        "options": [
+          "Karbon monoksit",
+          "Oksijen",
+          "Tıbbi hava",
+          "Helyum"
+        ],
+        "correct": 0,
+        "explanation": "Güçlü baz içeren kuru absorbanlar volatil anesteziklerden karbon monoksit oluşumuna yol açabilir.",
+        "source": "Indian J Anaesth 2013: anestezi cihazı"
+      }
+    },
+    {
+      "title": "Minimum alveoler konsantrasyon azalınca ajan potensi nasıl yorumlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0gbovzb",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Minimum alveoler konsantrasyon azalınca ajan potensi nasıl yorumlanır?",
+        "options": [
+          "Potens azalır",
+          "Potens artar",
+          "Çözünürlük mutlaka artar",
+          "Kaynama noktası mutlaka düşer"
+        ],
+        "correct": 1,
+        "explanation": "Daha düşük konsantrasyonda aynı hareketsizlik sonlanımına ulaşılması daha yüksek potensi gösterir.",
+        "source": "StatPearls"
+      }
+    },
+    {
+      "title": "Hipotermi inhalasyon anesteziği gereksinimini artırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1r0gu8k",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Hipotermi inhalasyon anesteziği gereksinimini artırır.",
+        "isTrue": false,
+        "explanation": "Hipotermi volatil anestezik gereksinimini azaltır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Desfluranın hava yolunu irrite eden keskin kokusu olduğu genel kabul edilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1xa85v5",
+        "course": "PER243",
+        "topic": "İnhalasyon anestezikleri",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Desfluranın hava yolunu irrite eden keskin kokusu olduğu genel kabul edilir.",
+        "isTrue": true,
+        "explanation": "Genel kabul gören bu özellik, anestezik potensi veya kan/gaz çözünürlüğüyle aynı kavram değildir.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1k2gbm4",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 3,
+      "term": "MAK",
+      "en": "Minimum alveolar concentration",
+      "definition": "Bir atmosferde cerrahi insizyona karşı hastaların **%50'sinin** hareket etmediği alveoler anestezik konsantrasyonu.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-1l3u2db",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Kan/gaz partisyon katsayısı",
+      "en": "Blood/gas partition coefficient",
+      "definition": "Anesteziğin kan ile gaz fazı arasındaki dağılım oranı; düşük olması hızlı indüksiyon ve derlenme demektir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-1xrvwqw",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Sevofluran",
+      "en": "Sevoflurane",
+      "definition": "İnhalasyonla verilen volatil anestezik; güçlü baz içeren karbondioksit absorbanlarıyla etkileşimde Compound A oluşabilir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-141scgp",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Desfluran",
+      "en": "Desflurane",
+      "definition": "Yüksek uçuculuğu nedeniyle ısıtmalı özel vaporizatör gerektiren volatil inhalasyon anesteziği.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-1m3imzh",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 3,
+      "term": "İzofluran",
+      "en": "Isoflurane",
+      "definition": "İnhalasyonla verilen volatil anestezik; kan/gaz partisyon katsayısı sevofluran ve desflurandan daha yüksektir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-0cmol5c",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Nitröz oksit",
+      "en": "Nitrous oxide (N2O)",
+      "definition": "Düşük potensli gaz anestezik; dolaşımdaki hava kabarcıklarını büyütebildiği için kardiyopulmoner bypass çevresinde sorun yaratabilir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-12bi738",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Volatil anestezik",
+      "en": "Volatile anesthetic",
+      "definition": "Oda ısısında sıvı olup vaporizatörle buharlaştırılarak solutulan anestezik.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1r1tgdl",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Anestezik ön koşullandırma",
+      "en": "Anesthetic preconditioning",
+      "definition": "Volatil ajanların miyokardı iskemi-reperfüzyona karşı koruyan yolakları (ör. K-ATP) tetiklemesi.",
+      "source": "Ann Card Anaesth 2019: ön koşullandırma"
+    },
+    {
+      "id": "PER243-1jg8vpu",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 2,
+      "term": "İskemik ön koşullandırma",
+      "en": "Ischemic preconditioning",
+      "definition": "Kısa iskemi dönemlerinin miyokardı sonraki daha uzun iskemiye karşı koruyan yanıtları tetiklemesi.",
+      "source": "Ann Card Anaesth 2019: ön koşullandırma"
+    },
+    {
+      "id": "PER243-1huvw8b",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Compound A",
+      "en": "Compound A",
+      "definition": "Sevofluranın güçlü bazlı karbondioksit absorbanlarıyla yıkımından oluşan madde.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0l4r9n8",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Malign hipertermi",
+      "en": "Malignant hyperthermia",
+      "definition": "Volatil ajan veya süksinilkolinle tetiklenen kalıtsal hipermetabolik kas krizi; tedavisi dantrolen.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-1obf6rm",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Dantrolen",
+      "en": "Dantrolene",
+      "definition": "Malign hipertermi tedavisinde kullanılan iskelet kası gevşeticisi.",
+      "source": "DailyMed: dantrolen"
+    },
+    {
+      "id": "PER243-1at4ybe",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "compare",
+      "importance": 2,
+      "title": "İnhalasyon ajanını değerlendirme",
+      "left": {
+        "title": "MAK",
+        "points": [
+          "Anestezik potensi gösterir",
+          "Düşük değer daha güçlü ajanı gösterir"
+        ]
+      },
+      "right": {
+        "title": "Kan/gaz katsayısı",
+        "points": [
+          "Kandaki çözünürlüğü gösterir",
+          "Düşük değer daha hızlı indüksiyon ve derlenmeyle ilişkilidir"
+        ]
+      },
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-147163n",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Yaş ve volatil gereksinimi",
+      "body": "İnhalasyon anesteziklerinde minimum alveoler konsantrasyon **yaşla azalır**; farklı yaş gruplarının değerleri aynı değildir.",
+      "source": "Barash Clinical Anesthesia"
+    },
+    {
+      "id": "PER243-1bb5i5r",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hipotermi ve çözünürlük",
+      "body": "Kardiyopulmoner bypassta hipotermi volatil ajanın kan/gaz katsayısını artırırken, **hemodilüsyon azaltır**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1oy37bx",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Isınmada derinlik değişimi",
+      "body": "Kardiyopulmoner bypassta sıcaklık hematokritten daha hızlı yükselirse volatil ajanın kan/gaz katsayısı düşebilir ve **derinlik hızla artabilir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-16nhfvu",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Volatil anestezinin klinik kanıtı",
+      "body": "2024 KPB kılavuzu, volatil ajanların total intravenöz anesteziye göre mortalite üstünlüğünü **kesinleşmiş kabul etmez**. Ön koşullandırma mekanizması klinik üstünlükle aynı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-13t0kwh",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Compound A oluşum koşulları",
+      "body": "Güçlü baz içeren absorbanlarla sevofluran etkileşiminde Compound A oluşumu; **düşük akım, uzun süre ve yüksek konsantrasyonla** artabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-1wyxa73",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Malign hiperterminin sistemi",
+      "body": "Malign hipertermi iskelet kasına ait **farmakogenetik hipermetabolik krizdir**; yalnız vücut sıcaklığındaki artıştan ibaret değildir.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-12j525l",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Volatil ajanlar KPB'de hangi gaz hattından verilebilir?",
+      "answer": "Volatil ajan **oksijenatör gaz hattından** verilir; konsantrasyonu egzoz hattından izlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-19n34hr",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "flip",
+      "importance": 3,
+      "question": "Nitröz oksit KPB çevresinde neden sorun oluşturur?",
+      "answer": "**Hava kabarcıklarını büyütebilir**, gaz embolilerinin etkisini ağırlaştırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1ow0i6v",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "flip",
+      "importance": 3,
+      "question": "Dantrolen hangi anestezi acilinin özgül ilacıdır?",
+      "answer": "**Malign hipertermi** krizinin tedavisinde kullanılan özgül ilaçtır.",
+      "source": "DailyMed: dantrolen"
+    },
+    {
+      "id": "PER243-0qy90a9",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "remember",
+      "importance": 3,
+      "title": "Tetikleyiciler ve MH",
+      "body": "Volatil anestezikler ve **süksinilkolin** malign hipertermiyi tetikleyebilir; dantrolen tetikleyici ajan kullanılan yerde hazır bulunmalıdır.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-1lzapkd",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Desfluran hangi vaporizatör düzenini gerektirir?",
+      "options": [
+        "Soğutmalı oksijen regülatörü",
+        "Soda lime kanisteri",
+        "Isıtmalı özel vaporizatör",
+        "Tek yönlü venöz valf"
+      ],
+      "correct": 2,
+      "explanation": "Desfluranın yüksek uçuculuğu özel ısıtmalı gaz-buhar karıştırıcısı gerektirir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-141eatd",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Volatil ajanın etkisiyle ön koşullandırmada hangi kanal yolu anılır?",
+      "options": [
+        "GPIb reseptörleri",
+        "GPIIb/IIIa reseptörleri",
+        "V2 su kanalları",
+        "K-ATP kanalları"
+      ],
+      "correct": 3,
+      "explanation": "Anestezik ön koşullandırmanın koruyucu yolakları arasında K-ATP kanalları bulunur.",
+      "source": "Ann Card Anaesth 2019: ön koşullandırma"
+    },
+    {
+      "id": "PER243-0dee3h3",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kuru absorbanla volatil ajan etkileşiminde hangi toksik gaz oluşabilir?",
+      "options": [
+        "Karbon monoksit",
+        "Oksijen",
+        "Tıbbi hava",
+        "Helyum"
+      ],
+      "correct": 0,
+      "explanation": "Güçlü baz içeren kuru absorbanlar volatil anesteziklerden karbon monoksit oluşumuna yol açabilir.",
+      "source": "Indian J Anaesth 2013: anestezi cihazı"
+    },
+    {
+      "id": "PER243-0gbovzb",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Minimum alveoler konsantrasyon azalınca ajan potensi nasıl yorumlanır?",
+      "options": [
+        "Potens azalır",
+        "Potens artar",
+        "Çözünürlük mutlaka artar",
+        "Kaynama noktası mutlaka düşer"
+      ],
+      "correct": 1,
+      "explanation": "Daha düşük konsantrasyonda aynı hareketsizlik sonlanımına ulaşılması daha yüksek potensi gösterir.",
+      "source": "StatPearls"
+    },
+    {
+      "id": "PER243-1r0gu8k",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Hipotermi inhalasyon anesteziği gereksinimini artırır.",
+      "isTrue": false,
+      "explanation": "Hipotermi volatil anestezik gereksinimini azaltır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1xa85v5",
+      "course": "PER243",
+      "topic": "İnhalasyon anestezikleri",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Desfluranın hava yolunu irrite eden keskin kokusu olduğu genel kabul edilir.",
+      "isTrue": true,
+      "explanation": "Genel kabul gören bu özellik, anestezik potensi veya kan/gaz çözünürlüğüyle aynı kavram değildir.",
+      "source": "Genel kabul (PER243 araştırması)"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

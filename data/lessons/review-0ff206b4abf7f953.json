@@ -1,0 +1,725 @@
+{
+  "id": "review-0ff206b4abf7f953",
+  "title": "Kapak hastalıklarının cerrahisi",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Aort darlığı (AS)",
+      "text": "Aortic stenosis\nAort kapağı açıklığının daralmasıyla sol ventrikülden aortaya kan çıkışının engellenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1my0u4q",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 1,
+        "term": "Aort darlığı (AS)",
+        "en": "Aortic stenosis",
+        "definition": "Aort kapağı açıklığının daralmasıyla sol ventrikülden aortaya kan çıkışının engellenmesi.",
+        "source": "ESC/EACTS kapak kılavuzları"
+      }
+    },
+    {
+      "title": "Aort yetersizliği (AY)",
+      "text": "Aortic regurgitation\nDiyastolde aort kapağından sol ventriküle patolojik kan geri kaçışı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0rp930w",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Aort yetersizliği (AY)",
+        "en": "Aortic regurgitation",
+        "definition": "Diyastolde aort kapağından sol ventriküle patolojik kan geri kaçışı.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Mitral darlığı (MS)",
+      "text": "Mitral stenosis\nMitral kapak açıklığının daralmasıyla sol atriyumdan sol ventriküle kan geçişinin zorlaşması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1rt2p0f",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Mitral darlığı (MS)",
+        "en": "Mitral stenosis",
+        "definition": "Mitral kapak açıklığının daralmasıyla sol atriyumdan sol ventriküle kan geçişinin zorlaşması.",
+        "source": "Mitral darlığı, Diagnostics"
+      }
+    },
+    {
+      "title": "Mekanik protez kapak",
+      "text": "Mechanical valve prosthesis\nDayanıklı, ömür boyu oral antikoagülasyon gerektiren yapay kapak.",
+      "images": [],
+      "card": {
+        "id": "PER245-0yscjpr",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Mekanik protez kapak",
+        "en": "Mechanical valve prosthesis",
+        "definition": "Dayanıklı, ömür boyu oral antikoagülasyon gerektiren yapay kapak.",
+        "source": "ESC/EACTS kapak kılavuzları"
+      }
+    },
+    {
+      "title": "Biyoprotez",
+      "text": "Bioprosthetic valve\nBiyolojik dokudan üretilen protez kapak; yapısal dejenerasyon riski ve antikoagülasyon gereksinimi hastaya göre değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0m274a2",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Biyoprotez",
+        "en": "Bioprosthetic valve",
+        "definition": "Biyolojik dokudan üretilen protez kapak; yapısal dejenerasyon riski ve antikoagülasyon gereksinimi hastaya göre değerlendirilir.",
+        "source": "ESC/EACTS kapak kılavuzları"
+      }
+    },
+    {
+      "title": "TAVI",
+      "text": "Transcatheter aortic valve implantation\nKateter aracılığıyla aort kapağına protez yerleştirilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1skalrj",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 3,
+        "term": "TAVI",
+        "en": "Transcatheter aortic valve implantation",
+        "definition": "Kateter aracılığıyla aort kapağına protez yerleştirilmesi.",
+        "source": "ESC/EACTS kapak kılavuzları"
+      }
+    },
+    {
+      "title": "Konno ameliyatı",
+      "text": "Konno procedure\nAort kapak replasmanı ile sol ventrikül çıkış yolunun yama ile genişletilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0b1fnbr",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Konno ameliyatı",
+        "en": "Konno procedure",
+        "definition": "Aort kapak replasmanı ile sol ventrikül çıkış yolunun yama ile genişletilmesi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Otogreft ve homogreft",
+      "text": "Autograft / homograft\nHastanın kendi dokusundan / aynı türden donörden alınan greft.",
+      "images": [],
+      "card": {
+        "id": "PER245-1505crl",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Otogreft ve homogreft",
+        "en": "Autograft / homograft",
+        "definition": "Hastanın kendi dokusundan / aynı türden donörden alınan greft.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Aort kökünde kapak yaklaşımı",
+      "text": "Bentall\nKök kompozit kapak-greftle değiştirilir\nNativ aort kapağı değiştirilir\n\nDavid\nKök greftle yeniden oluşturulur\nNativ aort kapağı korunur",
+      "images": [],
+      "card": {
+        "id": "PER245-0g7h0gc",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Aort kökünde kapak yaklaşımı",
+        "left": {
+          "title": "Bentall",
+          "points": [
+            "Kök kompozit kapak-greftle değiştirilir",
+            "Nativ aort kapağı değiştirilir"
+          ]
+        },
+        "right": {
+          "title": "David",
+          "points": [
+            "Kök greftle yeniden oluşturulur",
+            "Nativ aort kapağı korunur"
+          ]
+        },
+        "source": "Aort kökü onarımı, Europe PMC"
+      }
+    },
+    {
+      "title": "Aort yetersizliğinde kaçış",
+      "text": "Aort kökünden verilen solüsyon yetersiz aort kapağından sol ventriküle kaçabilir; bunun sonucu yetersiz koruma ve distansiyon olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-13udo0p",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aort yetersizliğinde kaçış",
+        "body": "Aort kökünden verilen solüsyon yetersiz aort kapağından sol ventriküle kaçabilir; bunun sonucu yetersiz koruma ve distansiyon olabilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Onarım seçiminin gerekçesi",
+      "text": "Primer mitral yetersizliğinde uygun onarım, kapak yapısını korumayı amaçlar; onarımın mümkün ve dayanıklı olması önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ejo5ui",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Onarım seçiminin gerekçesi",
+        "body": "Primer mitral yetersizliğinde uygun onarım, kapak yapısını korumayı amaçlar; onarımın mümkün ve dayanıklı olması önemlidir.",
+        "source": "ESC/EACTS kapak kılavuzları"
+      }
+    },
+    {
+      "title": "Mekanik kapak ve izlem",
+      "text": "Mekanik protezlerin dayanıklılığı, uzun dönem antikoagülasyon ve kanama riskinin değerlendirilmesini gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER245-01ayj0a",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Mekanik kapak ve izlem",
+        "body": "Mekanik protezlerin dayanıklılığı, uzun dönem antikoagülasyon ve kanama riskinin değerlendirilmesini gerektirir.",
+        "source": "ESC/EACTS kapak kılavuzları"
+      }
+    },
+    {
+      "title": "Minimal erişim ve devre",
+      "text": "Sağ mini-torakotomi yaklaşımı, periferik kanülasyon ve destekli venöz drenaj gerektirebilir; devre planı cerrahi erişime uyarlanır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ap835m",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Minimal erişim ve devre",
+        "body": "Sağ mini-torakotomi yaklaşımı, periferik kanülasyon ve destekli venöz drenaj gerektirebilir; devre planı cerrahi erişime uyarlanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ross'ta pulmoner pozisyon",
+      "text": "Ross ameliyatında hastanın pulmoner kapağı aort pozisyonuna taşınır; boşalan pulmoner pozisyona homogreft yerleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-05o7ujh",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ross'ta pulmoner pozisyon",
+        "body": "Ross ameliyatında hastanın pulmoner kapağı aort pozisyonuna taşınır; boşalan pulmoner pozisyona homogreft yerleştirilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Sağ üst pulmoner venden yerleştirilen vent sol ventriküle hangi yoldan ulaşır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1j4mfar",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sağ üst pulmoner venden yerleştirilen vent sol ventriküle hangi yoldan ulaşır?",
+        "answer": "Sağ üst pulmoner venden sol atriyuma, ardından mitral kapaktan sol ventriküle ilerler.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Konno ameliyatı kapak replasmanına hangi işlemi ekler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0qz17td",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Konno ameliyatı kapak replasmanına hangi işlemi ekler?",
+        "answer": "Sol ventrikül çıkış yolunun insizyon ve yama ile genişletilmesi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "İzole mitral cerrahide venöz kanülasyon seçimi neden tek kalıba indirgenmez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-13gdq5h",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "İzole mitral cerrahide venöz kanülasyon seçimi neden tek kalıba indirgenmez?",
+        "answer": "Cerrahi erişim, sağ kalbin açılıp açılmaması ve kurum tekniği farklıdır; sağ atriyal veya bikaval yaklaşım planlanabilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "AY ve kök kardiyoplejisi",
+      "text": "Aort yetersizliğinde kökten sol ventriküle kaçış, **distansiyon ve yetersiz koruma** yaratabilir; uygulama yolu buna göre planlanır.",
+      "images": [],
+      "card": {
+        "id": "PER245-0uokb0h",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "remember",
+        "importance": 3,
+        "title": "AY ve kök kardiyoplejisi",
+        "body": "Aort yetersizliğinde kökten sol ventriküle kaçış, **distansiyon ve yetersiz koruma** yaratabilir; uygulama yolu buna göre planlanır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Kendi pulmoner kapağını aort pozisyonuna taşıyan işlem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0b5zcsg",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Kendi pulmoner kapağını aort pozisyonuna taşıyan işlem hangisidir?",
+        "options": [
+          "Ross",
+          "Konno",
+          "David",
+          "Bentall"
+        ],
+        "correct": 0,
+        "explanation": "Ross ameliyatında pulmoner otogreft aort kapağının yerini alır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Hastanın kendi dokusundan alınan greft hangi adla anılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-09e69qn",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hastanın kendi dokusundan alınan greft hangi adla anılır?",
+        "options": [
+          "Sentetik greft",
+          "Otogreft",
+          "Homogreft",
+          "Ksenogreft"
+        ],
+        "correct": 1,
+        "explanation": "Otogreft hastanın kendi dokusudur; homogreft aynı türden donörden alınır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Diyastolde aorttan sol ventriküle kan kaçışı hangi kapak bozukluğudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1ko72r6",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Diyastolde aorttan sol ventriküle kan kaçışı hangi kapak bozukluğudur?",
+        "options": [
+          "Mitral darlığı",
+          "Pulmoner darlık",
+          "Aort yetersizliği",
+          "Aort darlığı"
+        ],
+        "correct": 2,
+        "explanation": "Aort yetersizliği geri kaçıştır; aort darlığı ileri çıkışta obstrüksiyon oluşturur.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Sağ kalp boşluğu açılacak işlemde venöz izolasyona en uygun düzen hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-00qohfz",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Sağ kalp boşluğu açılacak işlemde venöz izolasyona en uygun düzen hangisidir?",
+        "options": [
+          "İki kademeli kanül, snare yok",
+          "Tek femoral venöz kanül, snare yok",
+          "Tek sağ atriyal kanül, snare yok",
+          "Bikaval kanül ve snare"
+        ],
+        "correct": 3,
+        "explanation": "Bikaval kanüller ve kaval snare'ler sistemik venöz dönüşü sağ atriyumdan ayırabilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Pulmoner arter venti aort yetersizliğinden gelen sol ventrikül yükünü tam karşılamayabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1gmm5x1",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Pulmoner arter venti aort yetersizliğinden gelen sol ventrikül yükünü tam karşılamayabilir.",
+        "isTrue": true,
+        "explanation": "AY'de doğrudan sol kalbe uygun erişim sağlayan vent yolu ayrıca planlanır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Aort darlığı sol ventrikülün sistolik çıkışında direnç azalması oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1xd52mv",
+        "course": "PER245",
+        "topic": "Kapak hastalıklarının cerrahisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Aort darlığı sol ventrikülün sistolik çıkışında direnç azalması oluşturur.",
+        "isTrue": false,
+        "explanation": "Aort darlığı çıkış direncini ve sol ventrikül basınç yükünü artırır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-1my0u4q",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 1,
+      "term": "Aort darlığı (AS)",
+      "en": "Aortic stenosis",
+      "definition": "Aort kapağı açıklığının daralmasıyla sol ventrikülden aortaya kan çıkışının engellenmesi.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "id": "PER245-0rp930w",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Aort yetersizliği (AY)",
+      "en": "Aortic regurgitation",
+      "definition": "Diyastolde aort kapağından sol ventriküle patolojik kan geri kaçışı.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1rt2p0f",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Mitral darlığı (MS)",
+      "en": "Mitral stenosis",
+      "definition": "Mitral kapak açıklığının daralmasıyla sol atriyumdan sol ventriküle kan geçişinin zorlaşması.",
+      "source": "Mitral darlığı, Diagnostics"
+    },
+    {
+      "id": "PER245-0yscjpr",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Mekanik protez kapak",
+      "en": "Mechanical valve prosthesis",
+      "definition": "Dayanıklı, ömür boyu oral antikoagülasyon gerektiren yapay kapak.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "id": "PER245-0m274a2",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Biyoprotez",
+      "en": "Bioprosthetic valve",
+      "definition": "Biyolojik dokudan üretilen protez kapak; yapısal dejenerasyon riski ve antikoagülasyon gereksinimi hastaya göre değerlendirilir.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "id": "PER245-1skalrj",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 3,
+      "term": "TAVI",
+      "en": "Transcatheter aortic valve implantation",
+      "definition": "Kateter aracılığıyla aort kapağına protez yerleştirilmesi.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "id": "PER245-0b1fnbr",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Konno ameliyatı",
+      "en": "Konno procedure",
+      "definition": "Aort kapak replasmanı ile sol ventrikül çıkış yolunun yama ile genişletilmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1505crl",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Otogreft ve homogreft",
+      "en": "Autograft / homograft",
+      "definition": "Hastanın kendi dokusundan / aynı türden donörden alınan greft.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0g7h0gc",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Aort kökünde kapak yaklaşımı",
+      "left": {
+        "title": "Bentall",
+        "points": [
+          "Kök kompozit kapak-greftle değiştirilir",
+          "Nativ aort kapağı değiştirilir"
+        ]
+      },
+      "right": {
+        "title": "David",
+        "points": [
+          "Kök greftle yeniden oluşturulur",
+          "Nativ aort kapağı korunur"
+        ]
+      },
+      "source": "Aort kökü onarımı, Europe PMC"
+    },
+    {
+      "id": "PER245-13udo0p",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aort yetersizliğinde kaçış",
+      "body": "Aort kökünden verilen solüsyon yetersiz aort kapağından sol ventriküle kaçabilir; bunun sonucu yetersiz koruma ve distansiyon olabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0ejo5ui",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Onarım seçiminin gerekçesi",
+      "body": "Primer mitral yetersizliğinde uygun onarım, kapak yapısını korumayı amaçlar; onarımın mümkün ve dayanıklı olması önemlidir.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "id": "PER245-01ayj0a",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Mekanik kapak ve izlem",
+      "body": "Mekanik protezlerin dayanıklılığı, uzun dönem antikoagülasyon ve kanama riskinin değerlendirilmesini gerektirir.",
+      "source": "ESC/EACTS kapak kılavuzları"
+    },
+    {
+      "id": "PER245-0ap835m",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Minimal erişim ve devre",
+      "body": "Sağ mini-torakotomi yaklaşımı, periferik kanülasyon ve destekli venöz drenaj gerektirebilir; devre planı cerrahi erişime uyarlanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-05o7ujh",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ross'ta pulmoner pozisyon",
+      "body": "Ross ameliyatında hastanın pulmoner kapağı aort pozisyonuna taşınır; boşalan pulmoner pozisyona homogreft yerleştirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1j4mfar",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sağ üst pulmoner venden yerleştirilen vent sol ventriküle hangi yoldan ulaşır?",
+      "answer": "Sağ üst pulmoner venden sol atriyuma, ardından mitral kapaktan sol ventriküle ilerler.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0qz17td",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Konno ameliyatı kapak replasmanına hangi işlemi ekler?",
+      "answer": "Sol ventrikül çıkış yolunun insizyon ve yama ile genişletilmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-13gdq5h",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "İzole mitral cerrahide venöz kanülasyon seçimi neden tek kalıba indirgenmez?",
+      "answer": "Cerrahi erişim, sağ kalbin açılıp açılmaması ve kurum tekniği farklıdır; sağ atriyal veya bikaval yaklaşım planlanabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0uokb0h",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "remember",
+      "importance": 3,
+      "title": "AY ve kök kardiyoplejisi",
+      "body": "Aort yetersizliğinde kökten sol ventriküle kaçış, **distansiyon ve yetersiz koruma** yaratabilir; uygulama yolu buna göre planlanır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0b5zcsg",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Kendi pulmoner kapağını aort pozisyonuna taşıyan işlem hangisidir?",
+      "options": [
+        "Ross",
+        "Konno",
+        "David",
+        "Bentall"
+      ],
+      "correct": 0,
+      "explanation": "Ross ameliyatında pulmoner otogreft aort kapağının yerini alır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-09e69qn",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hastanın kendi dokusundan alınan greft hangi adla anılır?",
+      "options": [
+        "Sentetik greft",
+        "Otogreft",
+        "Homogreft",
+        "Ksenogreft"
+      ],
+      "correct": 1,
+      "explanation": "Otogreft hastanın kendi dokusudur; homogreft aynı türden donörden alınır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1ko72r6",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diyastolde aorttan sol ventriküle kan kaçışı hangi kapak bozukluğudur?",
+      "options": [
+        "Mitral darlığı",
+        "Pulmoner darlık",
+        "Aort yetersizliği",
+        "Aort darlığı"
+      ],
+      "correct": 2,
+      "explanation": "Aort yetersizliği geri kaçıştır; aort darlığı ileri çıkışta obstrüksiyon oluşturur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-00qohfz",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sağ kalp boşluğu açılacak işlemde venöz izolasyona en uygun düzen hangisidir?",
+      "options": [
+        "İki kademeli kanül, snare yok",
+        "Tek femoral venöz kanül, snare yok",
+        "Tek sağ atriyal kanül, snare yok",
+        "Bikaval kanül ve snare"
+      ],
+      "correct": 3,
+      "explanation": "Bikaval kanüller ve kaval snare'ler sistemik venöz dönüşü sağ atriyumdan ayırabilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1gmm5x1",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Pulmoner arter venti aort yetersizliğinden gelen sol ventrikül yükünü tam karşılamayabilir.",
+      "isTrue": true,
+      "explanation": "AY'de doğrudan sol kalbe uygun erişim sağlayan vent yolu ayrıca planlanır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1xd52mv",
+      "course": "PER245",
+      "topic": "Kapak hastalıklarının cerrahisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Aort darlığı sol ventrikülün sistolik çıkışında direnç azalması oluşturur.",
+      "isTrue": false,
+      "explanation": "Aort darlığı çıkış direncini ve sol ventrikül basınç yükünü artırır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

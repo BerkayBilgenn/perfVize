@@ -1,0 +1,756 @@
+{
+  "id": "review-c5242e7ca5e8a2d6",
+  "title": "Kan koruma, biyouyumluluk ve MiECC",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "MiECC",
+      "text": "Minimal invasive extracorporeal circulation\nKüçük prime'lı, uçtan uca kaplamalı, kapalı, santrifügal pompalı ve venöz kabarcık tutuculu minimal invaziv EKD.",
+      "images": [],
+      "card": {
+        "id": "PER141-1x9srbo",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "MiECC",
+        "definition": "Küçük prime'lı, uçtan uca kaplamalı, kapalı, santrifügal pompalı ve venöz kabarcık tutuculu minimal invaziv EKD.",
+        "en": "Minimal invasive extracorporeal circulation",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ultrafiltrasyon",
+      "text": "Ultrafiltration\nBasınç farkıyla yarı geçirgen membrandan plazma suyu ve küçük moleküllerin uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mvoh5s",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 3,
+        "term": "Ultrafiltrasyon",
+        "definition": "Basınç farkıyla yarı geçirgen membrandan plazma suyu ve küçük moleküllerin uzaklaştırılması.",
+        "en": "Ultrafiltration",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hemokonsantratör",
+      "text": "Hemoconcentrator (hemofilter)\nKandan plazma suyunu uzaklaştırıp hematokrit'yi yükselten ultrafiltre; protein ve hücreleri tutar.",
+      "images": [],
+      "card": {
+        "id": "PER141-1yhpwa3",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Hemokonsantratör",
+        "definition": "Kandan plazma suyunu uzaklaştırıp hematokrit'yi yükselten ultrafiltre; protein ve hücreleri tutar.",
+        "en": "Hemoconcentrator (hemofilter)",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "CUF",
+      "text": "Conventional ultrafiltration\nKPB sırasında yapılan ultrafiltrasyon.",
+      "images": [],
+      "card": {
+        "id": "PER141-1cl44a5",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "CUF",
+        "definition": "KPB sırasında yapılan ultrafiltrasyon.",
+        "en": "Conventional ultrafiltration",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "MUF",
+      "text": "Modified ultrafiltration\nKPB'den ayrıldıktan sonra, aort kanülünden alınan kanın ultrafiltreden geçirilerek sağ atriyuma döndürülmesi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1puaadr",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 3,
+        "term": "MUF",
+        "definition": "KPB'den ayrıldıktan sonra, aort kanülünden alınan kanın ultrafiltreden geçirilerek sağ atriyuma döndürülmesi.",
+        "en": "Modified ultrafiltration",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ZBUF",
+      "text": "Zero-balance ultrafiltration\nUzaklaştırılan hacim kadar replasman sıvısı verilerek yapılan UF (ör. K⁺ uzaklaştırma).",
+      "images": [],
+      "card": {
+        "id": "PER141-0p8tfkm",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "ZBUF",
+        "definition": "Uzaklaştırılan hacim kadar replasman sıvısı verilerek yapılan UF (ör. K⁺ uzaklaştırma).",
+        "en": "Zero-balance ultrafiltration",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Cell saver",
+      "text": "Intraoperative cell salvage\nSaha kanını toplayıp santrifüjle ayıran, serum fizyolojikle yıkayıp eritrositleri geri veren sistem.",
+      "images": [],
+      "card": {
+        "id": "PER141-0jzt924",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 3,
+        "term": "Cell saver",
+        "definition": "Saha kanını toplayıp santrifüjle ayıran, serum fizyolojikle yıkayıp eritrositleri geri veren sistem.",
+        "en": "Intraoperative cell salvage",
+        "source": "Cell salvage çalışması 2026"
+      }
+    },
+    {
+      "title": "Biyouyumluluk",
+      "text": "Biocompatibility\nMalzemenin kanla temasında minimum aktivasyon/inflamasyon oluşturma özelliği.",
+      "images": [],
+      "card": {
+        "id": "PER141-1tau0ml",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Biyouyumluluk",
+        "definition": "Malzemenin kanla temasında minimum aktivasyon/inflamasyon oluşturma özelliği.",
+        "en": "Biocompatibility",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Heparin kaplı devre",
+      "text": "Heparin-bonded circuit\nYüzeyine heparin bağlanmış biyoaktif devre; daha düşük ACT ile kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0jen3af",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Heparin kaplı devre",
+        "definition": "Yüzeyine heparin bağlanmış biyoaktif devre; daha düşük ACT ile kullanılabilir.",
+        "en": "Heparin-bonded circuit",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Fosforilkolin (PC) kaplama",
+      "text": "Phosphorylcholine coating\nHücre zarını taklit eden biyopasif kaplama.",
+      "images": [],
+      "card": {
+        "id": "PER141-1w8212p",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 2,
+        "term": "Fosforilkolin (PC) kaplama",
+        "definition": "Hücre zarını taklit eden biyopasif kaplama.",
+        "en": "Phosphorylcholine coating",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "PMEA",
+      "text": "Poly(2-methoxyethyl acrylate)\nProtein adsorpsiyonunu azaltan biyopasif kaplama.",
+      "images": [],
+      "card": {
+        "id": "PER141-0t3lfc4",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "term",
+        "importance": 1,
+        "term": "PMEA",
+        "definition": "Protein adsorpsiyonunu azaltan biyopasif kaplama.",
+        "en": "Poly(2-methoxyethyl acrylate)",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kanı yoğunlaştırmak veya yıkamak",
+      "text": "Hemokonsantratör\nPlazma suyu membrandan uzaklaştırılır\nHücreler ve proteinler kanda tutulur\n\nCell saver\nSantrifüj ve yıkama ile eritrositler hazırlanır\nTrombosit ve plazma ürünle geri dönmez",
+      "images": [],
+      "card": {
+        "id": "PER141-1o4t2gb",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kanı yoğunlaştırmak veya yıkamak",
+        "left": {
+          "title": "Hemokonsantratör",
+          "points": [
+            "Plazma suyu membrandan uzaklaştırılır",
+            "Hücreler ve proteinler kanda tutulur"
+          ]
+        },
+        "right": {
+          "title": "Cell saver",
+          "points": [
+            "Santrifüj ve yıkama ile eritrositler hazırlanır",
+            "Trombosit ve plazma ürünle geri dönmez"
+          ]
+        },
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Konvansiyonel ve modifiye ultrafiltrasyon",
+      "text": "**CUF KPB sırasında**, MUF KPB'den ayrıldıktan sonra yapılır. MUF aort kanülünden alınan kanı filtreden geçirerek sağ atriyuma döndürür.",
+      "images": [],
+      "card": {
+        "id": "PER141-1qirh7g",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "fact",
+        "importance": 3,
+        "title": "Konvansiyonel ve modifiye ultrafiltrasyon",
+        "body": "**CUF KPB sırasında**, MUF KPB'den ayrıldıktan sonra yapılır. MUF aort kanülünden alınan kanı filtreden geçirerek sağ atriyuma döndürür.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ZBUF'ta sıvı dengesi",
+      "text": "Sıfır dengeli ultrafiltrasyonda filtre edilen hacim kadar replasman verilir. **Potasyum gibi maddeler** net hacim kaybı olmadan uzaklaştırılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-19a7anp",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "fact",
+        "importance": 2,
+        "title": "ZBUF'ta sıvı dengesi",
+        "body": "Sıfır dengeli ultrafiltrasyonda filtre edilen hacim kadar replasman verilir. **Potasyum gibi maddeler** net hacim kaybı olmadan uzaklaştırılabilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "MiECC temel düzeni",
+      "text": "MiECC **küçük prime, uçtan uca kaplama, kapalı sistem ve santrifügal pompa** kullanır. Venöz hava tutucu ve ayrı saha kanı yönetimi devrenin güvenliğini tamamlar.",
+      "images": [],
+      "card": {
+        "id": "PER141-0kuzk65",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "fact",
+        "importance": 3,
+        "title": "MiECC temel düzeni",
+        "body": "MiECC **küçük prime, uçtan uca kaplama, kapalı sistem ve santrifügal pompa** kullanır. Venöz hava tutucu ve ayrı saha kanı yönetimi devrenin güvenliğini tamamlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "MiECC'de ACT örnekleri",
+      "text": "MiECC 2021 derlemesinde CABG için yaklaşık **300 sn**, kapak veya kompleks işlemler için 400 sn ACT örnekleri verilir; cihaz, işlem ve kurum protokolüne göre değişir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0drvsza",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "fact",
+        "importance": 2,
+        "title": "MiECC'de ACT örnekleri",
+        "body": "MiECC 2021 derlemesinde CABG için yaklaşık **300 sn**, kapak veya kompleks işlemler için 400 sn ACT örnekleri verilir; cihaz, işlem ve kurum protokolüne göre değişir.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "Kanın yabancı devre yüzeyiyle teması hangi aktivasyon zincirini başlatabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1hfg3fj",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kanın yabancı devre yüzeyiyle teması hangi aktivasyon zincirini başlatabilir?",
+        "answer": "Protein adsorpsiyonu, trombosit adezyon/aktivasyonu, trombüs oluşumu; ayrıca kompleman ve inflamatuvar yanıt.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Biyomimetik ve biyopasif yüzeylere birer örnek veriniz.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-08znxsw",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "flip",
+        "importance": 2,
+        "question": "Biyomimetik ve biyopasif yüzeylere birer örnek veriniz.",
+        "answer": "Biyomimetik/biyoaktif yüzeye **heparin**, biyopasif yüzeye fosforilkolin veya PMEA örnektir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Cell saver ürünü tam kan değildir",
+      "text": "Yıkanmış ürün eritrosit ağırlıklıdır; **trombosit ve plazma faktörleri** yıkamayla uzaklaştırılır. Cell saver geri dönüşü, tam kan geri dönüşüyle eşit değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-020gbis",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "remember",
+        "importance": 3,
+        "title": "Cell saver ürünü tam kan değildir",
+        "body": "Yıkanmış ürün eritrosit ağırlıklıdır; **trombosit ve plazma faktörleri** yıkamayla uzaklaştırılır. Cell saver geri dönüşü, tam kan geri dönüşüyle eşit değildir.",
+        "source": "Cell salvage çalışması 2026"
+      }
+    },
+    {
+      "title": "MiECC Tip II'yi Tip I'den ayıran ek bileşen hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0ihyenw",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECC Tip II'yi Tip I'den ayıran ek bileşen hangisidir?",
+        "options": [
+          "Hard-shell yedek rezervuar",
+          "Soft-bag hacim rezervuarı",
+          "Yalnız kardiyopleji hattı",
+          "Venöz hava uzaklaştırma cihazı"
+        ],
+        "correct": 3,
+        "explanation": "MiECC sınıflamasında Tip II, venöz kabarcık tutucu veya VARD eklenmiş düzeni ifade eder.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "MiECC Tip III'te hacim kontrolüne hangi bileşen eklenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0pfrdcb",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECC Tip III'te hacim kontrolüne hangi bileşen eklenir?",
+        "options": [
+          "Soft-bag rezervuar",
+          "Gaz hattı filtresi",
+          "Aort kökü kanülü",
+          "Yeni anestezik vaporizer"
+        ],
+        "correct": 0,
+        "explanation": "Tip III'te esnek torba rezervuar hacim yönetimine katkı sağlar.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "MiECC Tip IV'ün ayırt edici özelliği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-17pm69g",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECC Tip IV'ün ayırt edici özelliği hangisidir?",
+        "options": [
+          "Yalnız ECLS devresi olması",
+          "Açık sisteme geçebilen modüler düzen",
+          "Havasız bir gaz hattı olması",
+          "Kardiyoplejisiz açık rezervuar olması"
+        ],
+        "correct": 1,
+        "explanation": "Tip IV, gerekirse açık hard-shell rezervuara geçiş sağlayan modüler veya hibrit sistemdir.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "MiECC'de hastanın hangi bölümü rezervuar gibi davranır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1yz7p40",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "mcq",
+        "importance": 2,
+        "question": "MiECC'de hastanın hangi bölümü rezervuar gibi davranır?",
+        "options": [
+          "Koroner ostiumları",
+          "Aort kapağı",
+          "Venöz kompartmanı",
+          "Sol ventrikül endokardı"
+        ],
+        "correct": 2,
+        "explanation": "Kapalı devrede hastanın venöz kompartmanı hacim rezervuarı gibi işlev görür.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "Cell saver kanı santrifüjle ayırıp serum fizyolojikle yıkar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0vc3yus",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Cell saver kanı santrifüjle ayırıp serum fizyolojikle yıkar.",
+        "isTrue": true,
+        "explanation": "Cell salvage sisteminde toplanan kan antikoagüle edilir, santrifüjle ayrılır ve yıkanmış eritrositler hazırlanır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Heparin kaplı devre kullanılması sistemik antikoagülasyon ihtiyacını kaldırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0x3aicl",
+        "course": "PER141",
+        "topic": "Kan koruma, biyouyumluluk ve MiECC",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Heparin kaplı devre kullanılması sistemik antikoagülasyon ihtiyacını kaldırır.",
+        "isTrue": false,
+        "explanation": "Kaplama bazı protokollerde daha düşük heparin/ACT düzeyini sağlayabilir; antikoagülasyonu ortadan kaldırmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1x9srbo",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "MiECC",
+      "definition": "Küçük prime'lı, uçtan uca kaplamalı, kapalı, santrifügal pompalı ve venöz kabarcık tutuculu minimal invaziv EKD.",
+      "en": "Minimal invasive extracorporeal circulation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1mvoh5s",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 3,
+      "term": "Ultrafiltrasyon",
+      "definition": "Basınç farkıyla yarı geçirgen membrandan plazma suyu ve küçük moleküllerin uzaklaştırılması.",
+      "en": "Ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1yhpwa3",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Hemokonsantratör",
+      "definition": "Kandan plazma suyunu uzaklaştırıp hematokrit'yi yükselten ultrafiltre; protein ve hücreleri tutar.",
+      "en": "Hemoconcentrator (hemofilter)",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1cl44a5",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "CUF",
+      "definition": "KPB sırasında yapılan ultrafiltrasyon.",
+      "en": "Conventional ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1puaadr",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 3,
+      "term": "MUF",
+      "definition": "KPB'den ayrıldıktan sonra, aort kanülünden alınan kanın ultrafiltreden geçirilerek sağ atriyuma döndürülmesi.",
+      "en": "Modified ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0p8tfkm",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "ZBUF",
+      "definition": "Uzaklaştırılan hacim kadar replasman sıvısı verilerek yapılan UF (ör. K⁺ uzaklaştırma).",
+      "en": "Zero-balance ultrafiltration",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0jzt924",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 3,
+      "term": "Cell saver",
+      "definition": "Saha kanını toplayıp santrifüjle ayıran, serum fizyolojikle yıkayıp eritrositleri geri veren sistem.",
+      "en": "Intraoperative cell salvage",
+      "source": "Cell salvage çalışması 2026"
+    },
+    {
+      "id": "PER141-1tau0ml",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Biyouyumluluk",
+      "definition": "Malzemenin kanla temasında minimum aktivasyon/inflamasyon oluşturma özelliği.",
+      "en": "Biocompatibility",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0jen3af",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin kaplı devre",
+      "definition": "Yüzeyine heparin bağlanmış biyoaktif devre; daha düşük ACT ile kullanılabilir.",
+      "en": "Heparin-bonded circuit",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1w8212p",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 2,
+      "term": "Fosforilkolin (PC) kaplama",
+      "definition": "Hücre zarını taklit eden biyopasif kaplama.",
+      "en": "Phosphorylcholine coating",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0t3lfc4",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "term",
+      "importance": 1,
+      "term": "PMEA",
+      "definition": "Protein adsorpsiyonunu azaltan biyopasif kaplama.",
+      "en": "Poly(2-methoxyethyl acrylate)",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1o4t2gb",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kanı yoğunlaştırmak veya yıkamak",
+      "left": {
+        "title": "Hemokonsantratör",
+        "points": [
+          "Plazma suyu membrandan uzaklaştırılır",
+          "Hücreler ve proteinler kanda tutulur"
+        ]
+      },
+      "right": {
+        "title": "Cell saver",
+        "points": [
+          "Santrifüj ve yıkama ile eritrositler hazırlanır",
+          "Trombosit ve plazma ürünle geri dönmez"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1qirh7g",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "fact",
+      "importance": 3,
+      "title": "Konvansiyonel ve modifiye ultrafiltrasyon",
+      "body": "**CUF KPB sırasında**, MUF KPB'den ayrıldıktan sonra yapılır. MUF aort kanülünden alınan kanı filtreden geçirerek sağ atriyuma döndürür.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-19a7anp",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "fact",
+      "importance": 2,
+      "title": "ZBUF'ta sıvı dengesi",
+      "body": "Sıfır dengeli ultrafiltrasyonda filtre edilen hacim kadar replasman verilir. **Potasyum gibi maddeler** net hacim kaybı olmadan uzaklaştırılabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0kuzk65",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "fact",
+      "importance": 3,
+      "title": "MiECC temel düzeni",
+      "body": "MiECC **küçük prime, uçtan uca kaplama, kapalı sistem ve santrifügal pompa** kullanır. Venöz hava tutucu ve ayrı saha kanı yönetimi devrenin güvenliğini tamamlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0drvsza",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC'de ACT örnekleri",
+      "body": "MiECC 2021 derlemesinde CABG için yaklaşık **300 sn**, kapak veya kompleks işlemler için 400 sn ACT örnekleri verilir; cihaz, işlem ve kurum protokolüne göre değişir.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-1hfg3fj",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kanın yabancı devre yüzeyiyle teması hangi aktivasyon zincirini başlatabilir?",
+      "answer": "Protein adsorpsiyonu, trombosit adezyon/aktivasyonu, trombüs oluşumu; ayrıca kompleman ve inflamatuvar yanıt.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-08znxsw",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "flip",
+      "importance": 2,
+      "question": "Biyomimetik ve biyopasif yüzeylere birer örnek veriniz.",
+      "answer": "Biyomimetik/biyoaktif yüzeye **heparin**, biyopasif yüzeye fosforilkolin veya PMEA örnektir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-020gbis",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "remember",
+      "importance": 3,
+      "title": "Cell saver ürünü tam kan değildir",
+      "body": "Yıkanmış ürün eritrosit ağırlıklıdır; **trombosit ve plazma faktörleri** yıkamayla uzaklaştırılır. Cell saver geri dönüşü, tam kan geri dönüşüyle eşit değildir.",
+      "source": "Cell salvage çalışması 2026"
+    },
+    {
+      "id": "PER141-0ihyenw",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip II'yi Tip I'den ayıran ek bileşen hangisidir?",
+      "options": [
+        "Hard-shell yedek rezervuar",
+        "Soft-bag hacim rezervuarı",
+        "Yalnız kardiyopleji hattı",
+        "Venöz hava uzaklaştırma cihazı"
+      ],
+      "correct": 3,
+      "explanation": "MiECC sınıflamasında Tip II, venöz kabarcık tutucu veya VARD eklenmiş düzeni ifade eder.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-0pfrdcb",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip III'te hacim kontrolüne hangi bileşen eklenir?",
+      "options": [
+        "Soft-bag rezervuar",
+        "Gaz hattı filtresi",
+        "Aort kökü kanülü",
+        "Yeni anestezik vaporizer"
+      ],
+      "correct": 0,
+      "explanation": "Tip III'te esnek torba rezervuar hacim yönetimine katkı sağlar.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-17pm69g",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC Tip IV'ün ayırt edici özelliği hangisidir?",
+      "options": [
+        "Yalnız ECLS devresi olması",
+        "Açık sisteme geçebilen modüler düzen",
+        "Havasız bir gaz hattı olması",
+        "Kardiyoplejisiz açık rezervuar olması"
+      ],
+      "correct": 1,
+      "explanation": "Tip IV, gerekirse açık hard-shell rezervuara geçiş sağlayan modüler veya hibrit sistemdir.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-1yz7p40",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "mcq",
+      "importance": 2,
+      "question": "MiECC'de hastanın hangi bölümü rezervuar gibi davranır?",
+      "options": [
+        "Koroner ostiumları",
+        "Aort kapağı",
+        "Venöz kompartmanı",
+        "Sol ventrikül endokardı"
+      ],
+      "correct": 2,
+      "explanation": "Kapalı devrede hastanın venöz kompartmanı hacim rezervuarı gibi işlev görür.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-0vc3yus",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Cell saver kanı santrifüjle ayırıp serum fizyolojikle yıkar.",
+      "isTrue": true,
+      "explanation": "Cell salvage sisteminde toplanan kan antikoagüle edilir, santrifüjle ayrılır ve yıkanmış eritrositler hazırlanır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0x3aicl",
+      "course": "PER141",
+      "topic": "Kan koruma, biyouyumluluk ve MiECC",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Heparin kaplı devre kullanılması sistemik antikoagülasyon ihtiyacını kaldırır.",
+      "isTrue": false,
+      "explanation": "Kaplama bazı protokollerde daha düşük heparin/ACT düzeyini sağlayabilir; antikoagülasyonu ortadan kaldırmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

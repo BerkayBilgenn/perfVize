@@ -1,0 +1,916 @@
+{
+  "id": "review-9dd9bda10476aab6",
+  "title": "Cerrahi alan enfeksiyonları ve profilaksi",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Normotermi",
+      "text": "Normothermia\nAmeliyat çevresindeki dönemde **normal vücut sıcaklığının korunması**. Cerrahi alan enfeksiyonunu önleme yaklaşımının bir parçasıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0gyiifp",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Normotermi",
+        "definition": "Ameliyat çevresindeki dönemde **normal vücut sıcaklığının korunması**. Cerrahi alan enfeksiyonunu önleme yaklaşımının bir parçasıdır.",
+        "en": "Normothermia"
+      }
+    },
+    {
+      "title": "Güvenli Cerrahi Kontrol Listesi",
+      "text": "WHO Surgical Safety Checklist\nSign In – Time Out – Sign Out aşamalı 19 maddelik DSÖ listesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-1wl18fu",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "term": "Güvenli Cerrahi Kontrol Listesi",
+        "definition": "Sign In – Time Out – Sign Out aşamalı 19 maddelik DSÖ listesi.",
+        "en": "WHO Surgical Safety Checklist"
+      }
+    },
+    {
+      "title": "Sign In",
+      "text": "Sign In\nDSÖ Güvenli Cerrahi Kontrol Listesi’nin **anestezi indüksiyonundan önceki** giriş kontrol aşaması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1py14xj",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "term": "Sign In",
+        "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **anestezi indüksiyonundan önceki** giriş kontrol aşaması.",
+        "en": "Sign In"
+      }
+    },
+    {
+      "title": "Time Out",
+      "text": "Time Out\nDSÖ Güvenli Cerrahi Kontrol Listesi’nin **cilt insizyonundan önceki** ekip doğrulama aşaması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ykdi8s",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "term": "Time Out",
+        "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **cilt insizyonundan önceki** ekip doğrulama aşaması.",
+        "en": "Time Out"
+      }
+    },
+    {
+      "title": "Sign Out",
+      "text": "Sign Out\nDSÖ Güvenli Cerrahi Kontrol Listesi’nin **hasta ameliyathaneden çıkmadan önceki** çıkış kontrol aşaması.",
+      "images": [],
+      "card": {
+        "id": "PER247-0fzk6v8",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "term": "Sign Out",
+        "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **hasta ameliyathaneden çıkmadan önceki** çıkış kontrol aşaması.",
+        "en": "Sign Out"
+      }
+    },
+    {
+      "title": "Cerrahi alan enfeksiyonu",
+      "text": "Surgical site infection (SSI)\nCerrahi insizyon veya ameliyatta açılan organ/boşlukla ilişkili, tanımlanmış sürveyans ölçütlerini karşılayan enfeksiyon.",
+      "images": [],
+      "card": {
+        "id": "PER247-0hnfm9x",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC NHSN 2026",
+        "term": "Cerrahi alan enfeksiyonu",
+        "definition": "Cerrahi insizyon veya ameliyatta açılan organ/boşlukla ilişkili, tanımlanmış sürveyans ölçütlerini karşılayan enfeksiyon.",
+        "en": "Surgical site infection (SSI)"
+      }
+    },
+    {
+      "title": "Yüzeysel insizyonel CAE",
+      "text": "Superficial incisional SSI\n30 gün içinde yalnız deri ve deri altını tutan CAE.",
+      "images": [],
+      "card": {
+        "id": "PER247-0s84su9",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC NHSN 2026",
+        "term": "Yüzeysel insizyonel CAE",
+        "definition": "30 gün içinde yalnız deri ve deri altını tutan CAE.",
+        "en": "Superficial incisional SSI"
+      }
+    },
+    {
+      "title": "Derin insizyonel CAE",
+      "text": "Deep incisional SSI\nFasya ve kası tutan CAE (30/90 gün).",
+      "images": [],
+      "card": {
+        "id": "PER247-19ka494",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC NHSN 2026",
+        "term": "Derin insizyonel CAE",
+        "definition": "Fasya ve kası tutan CAE (30/90 gün).",
+        "en": "Deep incisional SSI"
+      }
+    },
+    {
+      "title": "Organ/boşluk CAE",
+      "text": "Organ/space SSI\nFasya/kasın derinindeki, ameliyatta açılan bölgenin CAE'si (ör. mediastinit).",
+      "images": [],
+      "card": {
+        "id": "PER247-1ioj4qs",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC NHSN 2026",
+        "term": "Organ/boşluk CAE",
+        "definition": "Fasya/kasın derinindeki, ameliyatta açılan bölgenin CAE'si (ör. mediastinit).",
+        "en": "Organ/space SSI"
+      }
+    },
+    {
+      "title": "Temiz yara",
+      "text": "Clean wound\nEnflamasyonsuz, solunum-sindirim-genital-üriner sisteme girilmeyen yara.",
+      "images": [],
+      "card": {
+        "id": "PER247-15tisnx",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Temiz yara",
+        "definition": "Enflamasyonsuz, solunum-sindirim-genital-üriner sisteme girilmeyen yara.",
+        "en": "Clean wound"
+      }
+    },
+    {
+      "title": "Temiz-kontamine yara",
+      "text": "Clean-contaminated\nSolunum, sindirim, genital veya üriner sisteme **kontrollü koşullarda**, olağandışı kontaminasyon olmadan girilen cerrahi yara.",
+      "images": [],
+      "card": {
+        "id": "PER247-10moiwu",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Temiz-kontamine yara",
+        "definition": "Solunum, sindirim, genital veya üriner sisteme **kontrollü koşullarda**, olağandışı kontaminasyon olmadan girilen cerrahi yara.",
+        "en": "Clean-contaminated"
+      }
+    },
+    {
+      "title": "Kontamine yara",
+      "text": "Contaminated\nAçık taze kaza yarası, büyük asepsi ihlali veya GİS döküntüsü.",
+      "images": [],
+      "card": {
+        "id": "PER247-01h5lau",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Kontamine yara",
+        "definition": "Açık taze kaza yarası, büyük asepsi ihlali veya GİS döküntüsü.",
+        "en": "Contaminated"
+      }
+    },
+    {
+      "title": "Kirli-enfekte yara",
+      "text": "Dirty/infected\nDevitalize dokulu eski travma yarası veya mevcut enfeksiyon/perforasyon.",
+      "images": [],
+      "card": {
+        "id": "PER247-067b9jm",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Kirli-enfekte yara",
+        "definition": "Devitalize dokulu eski travma yarası veya mevcut enfeksiyon/perforasyon.",
+        "en": "Dirty/infected"
+      }
+    },
+    {
+      "title": "Cerrahi antibiyotik profilaksisi",
+      "text": "Surgical antibiotic prophylaxis (SAP)\nİnsizyon anında dokuda etkin düzey sağlayacak şekilde insizyondan önce verilen antibiyotik.",
+      "images": [],
+      "card": {
+        "id": "PER247-0dj2gwe",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 3,
+        "source": "WHO 2018",
+        "term": "Cerrahi antibiyotik profilaksisi",
+        "definition": "İnsizyon anında dokuda etkin düzey sağlayacak şekilde insizyondan önce verilen antibiyotik.",
+        "en": "Surgical antibiotic prophylaxis (SAP)"
+      }
+    },
+    {
+      "title": "Mupirosin dekolonizasyonu",
+      "text": "Mupirocin decolonization\nNazal S. aureus taşıyıcılığında kullanılan topikal antibiyotik. WHO, kardiyotorasik ve ortopedik cerrahi geçiren bilinen taşıyıcılarda **%2 burun merhemiyle** dekolonizasyon önerir; diğer cerrahiler ayrı koşullu bağlamdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1fspugj",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Mupirosin dekolonizasyonu",
+        "definition": "Nazal S. aureus taşıyıcılığında kullanılan topikal antibiyotik. WHO, kardiyotorasik ve ortopedik cerrahi geçiren bilinen taşıyıcılarda **%2 burun merhemiyle** dekolonizasyon önerir; diğer cerrahiler ayrı koşullu bağlamdır.",
+        "en": "Mupirocin decolonization"
+      }
+    },
+    {
+      "title": "Mediastinit",
+      "text": "Mediastinitis\nKalp cerrahisi sonrası önemli organ/boşluk CAE türü (NHSN kodu MED).",
+      "images": [],
+      "card": {
+        "id": "PER247-0k6o7ea",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC NHSN 2026",
+        "term": "Mediastinit",
+        "definition": "Kalp cerrahisi sonrası önemli organ/boşluk CAE türü (NHSN kodu MED).",
+        "en": "Mediastinitis"
+      }
+    },
+    {
+      "title": "Temiz ve kontamine yara",
+      "text": "Temiz yara\nEnfeksiyon ve enflamasyon yoktur\nSolunum/sindirim/genital/üriner sisteme girilmez\n\nKontamine yara\nTaze travma veya büyük steril teknik ihlali vardır\nBelirgin gastrointestinal döküntü bu sınıfa girebilir",
+      "images": [],
+      "card": {
+        "id": "PER247-0n459kn",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "compare",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Temiz ve kontamine yara",
+        "left": {
+          "title": "Temiz yara",
+          "points": [
+            "Enfeksiyon ve enflamasyon yoktur",
+            "Solunum/sindirim/genital/üriner sisteme girilmez"
+          ]
+        },
+        "right": {
+          "title": "Kontamine yara",
+          "points": [
+            "Taze travma veya büyük steril teknik ihlali vardır",
+            "Belirgin gastrointestinal döküntü bu sınıfa girebilir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Yüzeysel CAE izlem penceresi",
+      "text": "CDC NHSN 2026’da yüzeysel insizyonel cerrahi alan enfeksiyonu **tüm işlem kategorilerinde 30 gün** izlenir; işlem günü birinci gündür.",
+      "images": [],
+      "card": {
+        "id": "PER247-08qnc68",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC NHSN 2026",
+        "title": "Yüzeysel CAE izlem penceresi",
+        "body": "CDC NHSN 2026’da yüzeysel insizyonel cerrahi alan enfeksiyonu **tüm işlem kategorilerinde 30 gün** izlenir; işlem günü birinci gündür."
+      }
+    },
+    {
+      "title": "Derin CAE’de işlem kategorisi",
+      "text": "Derin insizyonel ve organ/boşluk cerrahi alan enfeksiyonlarında izlem **30 veya 90 gündür**; süreyi işlem kategorisi belirler. Yüzeysel CAE’nin penceresi bununla karıştırılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-0zod1xj",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC NHSN 2026",
+        "title": "Derin CAE’de işlem kategorisi",
+        "body": "Derin insizyonel ve organ/boşluk cerrahi alan enfeksiyonlarında izlem **30 veya 90 gündür**; süreyi işlem kategorisi belirler. Yüzeysel CAE’nin penceresi bununla karıştırılmaz."
+      }
+    },
+    {
+      "title": "WHO profilaksi zamanlaması",
+      "text": "WHO 2018, endike cerrahi profilaksiyi **insizyondan önceki 120 dk içinde**, ilacın yarılanma ömrü gözetilerek önerir. Kontrol listesindeki 60 dk sorusu aynı bağlamda tek evrensel kural değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1gcudd5",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "WHO profilaksi zamanlaması",
+        "body": "WHO 2018, endike cerrahi profilaksiyi **insizyondan önceki 120 dk içinde**, ilacın yarılanma ömrü gözetilerek önerir. Kontrol listesindeki 60 dk sorusu aynı bağlamda tek evrensel kural değildir."
+      }
+    },
+    {
+      "title": "Dren profilaksiyi uzatmaz",
+      "text": "CDC 2017’de temiz ve temiz-kontamine cerrahide insizyon kapandıktan sonra, **dren bulunsa bile**, ek profilaktik antibiyotik dozu önerilmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-0210umv",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "fact",
+        "importance": 3,
+        "source": "CDC CAE 2017",
+        "title": "Dren profilaksiyi uzatmaz",
+        "body": "CDC 2017’de temiz ve temiz-kontamine cerrahide insizyon kapandıktan sonra, **dren bulunsa bile**, ek profilaktik antibiyotik dozu önerilmez."
+      }
+    },
+    {
+      "title": "CDC’nin glisemi hedefi",
+      "text": "CDC 2017 cerrahi alan enfeksiyonu kılavuzu, ameliyat sırasında glisemik kontrol için **<200 mg/dL** hedefini verir. Bu, ders kapsamındaki kılavuz önerisidir.",
+      "images": [],
+      "card": {
+        "id": "PER247-148s1v2",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC CAE 2017",
+        "title": "CDC’nin glisemi hedefi",
+        "body": "CDC 2017 cerrahi alan enfeksiyonu kılavuzu, ameliyat sırasında glisemik kontrol için **<200 mg/dL** hedefini verir. Bu, ders kapsamındaki kılavuz önerisidir."
+      }
+    },
+    {
+      "title": "Çıkış kontrolünde hangi sayımlar sözlü doğrulanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0it5np3",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "question": "Çıkış kontrolünde hangi sayımlar sözlü doğrulanır?",
+        "answer": "**Alet, spanç ve iğne sayımları**. Bu kontrol hasta ameliyathaneden çıkmadan önceki Sign Out aşamasındadır."
+      }
+    },
+    {
+      "title": "Time Out’ta steriliteyi kim, hangi verilerle doğrular?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1wkcfox",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "question": "Time Out’ta steriliteyi kim, hangi verilerle doğrular?",
+        "answer": "Hemşire ekibi, **indikatör sonuçları dâhil steriliteyi** ve ekipman sorunlarını sözlü doğrular. Bu işlem cilt insizyonundan önce yapılır."
+      }
+    },
+    {
+      "title": "Profilaksi için insizyon anı belirleyici",
+      "text": "Profilaksi yalnız endikasyonu varsa ve **insizyon sırasında serum/dokuda bakterisid düzey** sağlayacak zamanlamayla verilir. Kaynak ve ilaç bağlamından kopuk tek dakika değeri ezberlenmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-0vpl2z5",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC CAE 2017",
+        "title": "Profilaksi için insizyon anı belirleyici",
+        "body": "Profilaksi yalnız endikasyonu varsa ve **insizyon sırasında serum/dokuda bakterisid düzey** sağlayacak zamanlamayla verilir. Kaynak ve ilaç bağlamından kopuk tek dakika değeri ezberlenmez."
+      }
+    },
+    {
+      "title": "Yalnız deri ve deri altını tutan CAE hangi anatomik sınıftadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0gng8bh",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC NHSN 2026",
+        "question": "Yalnız deri ve deri altını tutan CAE hangi anatomik sınıftadır?",
+        "options": [
+          "Derin insizyonel",
+          "Organ/boşluk",
+          "Mediastinal organ/boşluk",
+          "Yüzeysel insizyonel"
+        ],
+        "correct": 3,
+        "explanation": "**Yüzeysel** CAE deri/deri altıyla sınırlıdır; fasya-kas tutulumu derin sınıftadır."
+      }
+    },
+    {
+      "title": "Bağırsak sistemine kontrollü, olağandışı kontaminasyonsuz giriş hangi yara sınıfıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0s6ylzq",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO 2018",
+        "question": "Bağırsak sistemine kontrollü, olağandışı kontaminasyonsuz giriş hangi yara sınıfıdır?",
+        "options": [
+          "Temiz-kontamine",
+          "Temiz",
+          "Kontamine",
+          "Kirli-enfekte"
+        ],
+        "correct": 0,
+        "explanation": "Sistemlere kontrollü giriş **Sınıf II temiz-kontamine** yarayı tanımlar; belirgin döküntü varsa sınıf değişir."
+      }
+    },
+    {
+      "title": "Mevcut enfeksiyon ve perfore organ hangi yara sınıfına örnektir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1fkywy9",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO 2018",
+        "question": "Mevcut enfeksiyon ve perfore organ hangi yara sınıfına örnektir?",
+        "options": [
+          "Temiz",
+          "Kirli-enfekte",
+          "Temiz-kontamine",
+          "Kontamine"
+        ],
+        "correct": 1,
+        "explanation": "**Sınıf IV kirli-enfekte** yarada etkenler ameliyattan önce alanda bulunur."
+      }
+    },
+    {
+      "title": "Anestezi indüksiyonundan önceki kontrol listesi aşaması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-115lf5n",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "question": "Anestezi indüksiyonundan önceki kontrol listesi aşaması hangisidir?",
+        "options": [
+          "Time Out",
+          "Sign Out",
+          "Sign In",
+          "Ameliyat sonrası servis kontrolü"
+        ],
+        "correct": 2,
+        "explanation": "**Sign In**, anestezi indüksiyonundan öncedir; Time Out insizyon, Sign Out çıkış öncesindedir."
+      }
+    },
+    {
+      "title": "Time Out’ta gerekli görüntülemenin ekranda bulunması doğrulanır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0q99zfd",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "tf",
+        "importance": 2,
+        "source": "WHO Güvenli Cerrahi 2009",
+        "statement": "Time Out’ta gerekli görüntülemenin ekranda bulunması doğrulanır.",
+        "isTrue": true,
+        "explanation": "Kontrol listesi insizyon öncesi aşamada **gerekli görüntülemenin gösterimini** sorar."
+      }
+    },
+    {
+      "title": "İnsizyonun fasya ve kasını tutan CAE, yüzeysel insizyonel sınıftadır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-03jcg26",
+        "course": "PER247",
+        "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC NHSN 2026",
+        "statement": "İnsizyonun fasya ve kasını tutan CAE, yüzeysel insizyonel sınıftadır.",
+        "isTrue": false,
+        "explanation": "Fasya/kas tutulumu **derin insizyonel CAE** sınıfına girer; yüzeysel sınıf deri/deri altıyla sınırlıdır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0gyiifp",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Normotermi",
+      "definition": "Ameliyat çevresindeki dönemde **normal vücut sıcaklığının korunması**. Cerrahi alan enfeksiyonunu önleme yaklaşımının bir parçasıdır.",
+      "en": "Normothermia"
+    },
+    {
+      "id": "PER247-1wl18fu",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Güvenli Cerrahi Kontrol Listesi",
+      "definition": "Sign In – Time Out – Sign Out aşamalı 19 maddelik DSÖ listesi.",
+      "en": "WHO Surgical Safety Checklist"
+    },
+    {
+      "id": "PER247-1py14xj",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Sign In",
+      "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **anestezi indüksiyonundan önceki** giriş kontrol aşaması.",
+      "en": "Sign In"
+    },
+    {
+      "id": "PER247-1ykdi8s",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Time Out",
+      "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **cilt insizyonundan önceki** ekip doğrulama aşaması.",
+      "en": "Time Out"
+    },
+    {
+      "id": "PER247-0fzk6v8",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "term": "Sign Out",
+      "definition": "DSÖ Güvenli Cerrahi Kontrol Listesi’nin **hasta ameliyathaneden çıkmadan önceki** çıkış kontrol aşaması.",
+      "en": "Sign Out"
+    },
+    {
+      "id": "PER247-0hnfm9x",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Cerrahi alan enfeksiyonu",
+      "definition": "Cerrahi insizyon veya ameliyatta açılan organ/boşlukla ilişkili, tanımlanmış sürveyans ölçütlerini karşılayan enfeksiyon.",
+      "en": "Surgical site infection (SSI)"
+    },
+    {
+      "id": "PER247-0s84su9",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Yüzeysel insizyonel CAE",
+      "definition": "30 gün içinde yalnız deri ve deri altını tutan CAE.",
+      "en": "Superficial incisional SSI"
+    },
+    {
+      "id": "PER247-19ka494",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Derin insizyonel CAE",
+      "definition": "Fasya ve kası tutan CAE (30/90 gün).",
+      "en": "Deep incisional SSI"
+    },
+    {
+      "id": "PER247-1ioj4qs",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "term": "Organ/boşluk CAE",
+      "definition": "Fasya/kasın derinindeki, ameliyatta açılan bölgenin CAE'si (ör. mediastinit).",
+      "en": "Organ/space SSI"
+    },
+    {
+      "id": "PER247-15tisnx",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Temiz yara",
+      "definition": "Enflamasyonsuz, solunum-sindirim-genital-üriner sisteme girilmeyen yara.",
+      "en": "Clean wound"
+    },
+    {
+      "id": "PER247-10moiwu",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Temiz-kontamine yara",
+      "definition": "Solunum, sindirim, genital veya üriner sisteme **kontrollü koşullarda**, olağandışı kontaminasyon olmadan girilen cerrahi yara.",
+      "en": "Clean-contaminated"
+    },
+    {
+      "id": "PER247-01h5lau",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Kontamine yara",
+      "definition": "Açık taze kaza yarası, büyük asepsi ihlali veya GİS döküntüsü.",
+      "en": "Contaminated"
+    },
+    {
+      "id": "PER247-067b9jm",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Kirli-enfekte yara",
+      "definition": "Devitalize dokulu eski travma yarası veya mevcut enfeksiyon/perforasyon.",
+      "en": "Dirty/infected"
+    },
+    {
+      "id": "PER247-0dj2gwe",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 3,
+      "source": "WHO 2018",
+      "term": "Cerrahi antibiyotik profilaksisi",
+      "definition": "İnsizyon anında dokuda etkin düzey sağlayacak şekilde insizyondan önce verilen antibiyotik.",
+      "en": "Surgical antibiotic prophylaxis (SAP)"
+    },
+    {
+      "id": "PER247-1fspugj",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Mupirosin dekolonizasyonu",
+      "definition": "Nazal S. aureus taşıyıcılığında kullanılan topikal antibiyotik. WHO, kardiyotorasik ve ortopedik cerrahi geçiren bilinen taşıyıcılarda **%2 burun merhemiyle** dekolonizasyon önerir; diğer cerrahiler ayrı koşullu bağlamdır.",
+      "en": "Mupirocin decolonization"
+    },
+    {
+      "id": "PER247-0k6o7ea",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "term": "Mediastinit",
+      "definition": "Kalp cerrahisi sonrası önemli organ/boşluk CAE türü (NHSN kodu MED).",
+      "en": "Mediastinitis"
+    },
+    {
+      "id": "PER247-0n459kn",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "compare",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Temiz ve kontamine yara",
+      "left": {
+        "title": "Temiz yara",
+        "points": [
+          "Enfeksiyon ve enflamasyon yoktur",
+          "Solunum/sindirim/genital/üriner sisteme girilmez"
+        ]
+      },
+      "right": {
+        "title": "Kontamine yara",
+        "points": [
+          "Taze travma veya büyük steril teknik ihlali vardır",
+          "Belirgin gastrointestinal döküntü bu sınıfa girebilir"
+        ]
+      }
+    },
+    {
+      "id": "PER247-08qnc68",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "title": "Yüzeysel CAE izlem penceresi",
+      "body": "CDC NHSN 2026’da yüzeysel insizyonel cerrahi alan enfeksiyonu **tüm işlem kategorilerinde 30 gün** izlenir; işlem günü birinci gündür."
+    },
+    {
+      "id": "PER247-0zod1xj",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "title": "Derin CAE’de işlem kategorisi",
+      "body": "Derin insizyonel ve organ/boşluk cerrahi alan enfeksiyonlarında izlem **30 veya 90 gündür**; süreyi işlem kategorisi belirler. Yüzeysel CAE’nin penceresi bununla karıştırılmaz."
+    },
+    {
+      "id": "PER247-1gcudd5",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "WHO profilaksi zamanlaması",
+      "body": "WHO 2018, endike cerrahi profilaksiyi **insizyondan önceki 120 dk içinde**, ilacın yarılanma ömrü gözetilerek önerir. Kontrol listesindeki 60 dk sorusu aynı bağlamda tek evrensel kural değildir."
+    },
+    {
+      "id": "PER247-0210umv",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC CAE 2017",
+      "title": "Dren profilaksiyi uzatmaz",
+      "body": "CDC 2017’de temiz ve temiz-kontamine cerrahide insizyon kapandıktan sonra, **dren bulunsa bile**, ek profilaktik antibiyotik dozu önerilmez."
+    },
+    {
+      "id": "PER247-148s1v2",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC CAE 2017",
+      "title": "CDC’nin glisemi hedefi",
+      "body": "CDC 2017 cerrahi alan enfeksiyonu kılavuzu, ameliyat sırasında glisemik kontrol için **<200 mg/dL** hedefini verir. Bu, ders kapsamındaki kılavuz önerisidir."
+    },
+    {
+      "id": "PER247-0it5np3",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "question": "Çıkış kontrolünde hangi sayımlar sözlü doğrulanır?",
+      "answer": "**Alet, spanç ve iğne sayımları**. Bu kontrol hasta ameliyathaneden çıkmadan önceki Sign Out aşamasındadır."
+    },
+    {
+      "id": "PER247-1wkcfox",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "question": "Time Out’ta steriliteyi kim, hangi verilerle doğrular?",
+      "answer": "Hemşire ekibi, **indikatör sonuçları dâhil steriliteyi** ve ekipman sorunlarını sözlü doğrular. Bu işlem cilt insizyonundan önce yapılır."
+    },
+    {
+      "id": "PER247-0vpl2z5",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC CAE 2017",
+      "title": "Profilaksi için insizyon anı belirleyici",
+      "body": "Profilaksi yalnız endikasyonu varsa ve **insizyon sırasında serum/dokuda bakterisid düzey** sağlayacak zamanlamayla verilir. Kaynak ve ilaç bağlamından kopuk tek dakika değeri ezberlenmez."
+    },
+    {
+      "id": "PER247-0gng8bh",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC NHSN 2026",
+      "question": "Yalnız deri ve deri altını tutan CAE hangi anatomik sınıftadır?",
+      "options": [
+        "Derin insizyonel",
+        "Organ/boşluk",
+        "Mediastinal organ/boşluk",
+        "Yüzeysel insizyonel"
+      ],
+      "correct": 3,
+      "explanation": "**Yüzeysel** CAE deri/deri altıyla sınırlıdır; fasya-kas tutulumu derin sınıftadır."
+    },
+    {
+      "id": "PER247-0s6ylzq",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Bağırsak sistemine kontrollü, olağandışı kontaminasyonsuz giriş hangi yara sınıfıdır?",
+      "options": [
+        "Temiz-kontamine",
+        "Temiz",
+        "Kontamine",
+        "Kirli-enfekte"
+      ],
+      "correct": 0,
+      "explanation": "Sistemlere kontrollü giriş **Sınıf II temiz-kontamine** yarayı tanımlar; belirgin döküntü varsa sınıf değişir."
+    },
+    {
+      "id": "PER247-1fkywy9",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Mevcut enfeksiyon ve perfore organ hangi yara sınıfına örnektir?",
+      "options": [
+        "Temiz",
+        "Kirli-enfekte",
+        "Temiz-kontamine",
+        "Kontamine"
+      ],
+      "correct": 1,
+      "explanation": "**Sınıf IV kirli-enfekte** yarada etkenler ameliyattan önce alanda bulunur."
+    },
+    {
+      "id": "PER247-115lf5n",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "question": "Anestezi indüksiyonundan önceki kontrol listesi aşaması hangisidir?",
+      "options": [
+        "Time Out",
+        "Sign Out",
+        "Sign In",
+        "Ameliyat sonrası servis kontrolü"
+      ],
+      "correct": 2,
+      "explanation": "**Sign In**, anestezi indüksiyonundan öncedir; Time Out insizyon, Sign Out çıkış öncesindedir."
+    },
+    {
+      "id": "PER247-0q99zfd",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "tf",
+      "importance": 2,
+      "source": "WHO Güvenli Cerrahi 2009",
+      "statement": "Time Out’ta gerekli görüntülemenin ekranda bulunması doğrulanır.",
+      "isTrue": true,
+      "explanation": "Kontrol listesi insizyon öncesi aşamada **gerekli görüntülemenin gösterimini** sorar."
+    },
+    {
+      "id": "PER247-03jcg26",
+      "course": "PER247",
+      "topic": "Cerrahi alan enfeksiyonları ve profilaksi",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC NHSN 2026",
+      "statement": "İnsizyonun fasya ve kasını tutan CAE, yüzeysel insizyonel sınıftadır.",
+      "isTrue": false,
+      "explanation": "Fasya/kas tutulumu **derin insizyonel CAE** sınıfına girer; yüzeysel sınıf deri/deri altıyla sınırlıdır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

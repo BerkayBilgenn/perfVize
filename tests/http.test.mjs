@@ -1,0 +1,50 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {mkdtemp,rm,writeFile,mkdir} from 'node:fs/promises';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import {createApp} from '../server.mjs';
+import {gunzipSync} from 'node:zlib';
+
+test('HTTP saves lessons, blocks foreign writes and unsafe files, and serves local images',async()=>{
+ const root=await mkdtemp(join(tmpdir(),'perfuzyon-http-'));
+ await mkdir(join(root,'public'));await writeFile(join(root,'public','index.html'),'<h1>Perfüzyon</h1>');await writeFile(join(root,'server.mjs'),'private server source');
+ const server=createApp(root);await new Promise(r=>server.listen(0,'127.0.0.1',r));
+ const base='http://127.0.0.1:'+server.address().port;
+ const post=(path,data,headers={})=>fetch(base+path,{method:'POST',headers:{'Content-Type':'application/json',...headers},body:JSON.stringify(data)});
+ try{
+  assert.equal((await (await fetch(base+'/api/health')).json()).app,'perfuzyon');
+  assert.equal((await post('/api/lessons',{title:'Ders',sections:[]},{Origin:'https://other.example'})).status,403);
+  assert.equal((await post('/api/uploads',{name:'x.html',base64:Buffer.from('<script>x</script>').toString('base64')})).status,400);
+  assert.equal((await post('/api/uploads',{name:'bad.png',base64:Buffer.from('html').toString('base64')})).status,400);
+  const image='iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jRZkAAAAASUVORK5CYII=';
+  const uploaded=await(await post('/api/uploads',{name:'görsel.png',base64:image})).json();
+  const rawPath='/api/assets/uploads/offline-image.png',raw=Buffer.from(image,'base64');
+  const putRaw=bytes=>fetch(base+rawPath,{method:'PUT',headers:{'Content-Type':'image/png'},body:bytes});
+  assert.equal((await putRaw(Buffer.from('fake image'))).status,400);
+  assert.equal((await putRaw(raw)).status,201);
+  assert.equal((await putRaw(raw)).status,201,'retrying identical content is safe');
+  assert.equal((await putRaw(Buffer.concat([raw,Buffer.from('other')]))).status,409,'a reused key with different bytes cannot be acknowledged');
+  assert.deepEqual(Buffer.from(await(await fetch(base+rawPath.slice(4))).arrayBuffer()),raw);
+  const response=await fetch(base+uploaded.url);assert.equal(response.headers.get('content-type'),'image/png');assert.equal((await response.arrayBuffer()).byteLength,Buffer.from(image,'base64').length);
+  const saved=await(await post('/api/lessons',{title:'Test dersi',category:'Anatomi',sections:[{text:'Kalp',images:[{url:uploaded.url,alt:'Kalp'}]}],attachments:[uploaded]})).json();
+  assert.ok(saved.id);
+  const update=await fetch(base+'/api/lessons/'+saved.id,{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({personalNotes:'Kalıcı not'})});assert.equal(update.status,200);
+  const data=await(await fetch(base+'/api/library')).json();assert.equal(data.lessons[0].personalNotes,'Kalıcı not');
+  const offline={id:'offline-create',lessonId:'offline-lesson',type:'create',lesson:{title:'Çevrimdışı ders',sections:[],attachments:[]}};
+  const first=await(await post('/api/sync',{operations:[offline]})).json();assert.equal(first.results[0].lessonId,'offline-lesson');
+  await post('/api/sync',{operations:[offline]});
+  const changed=await(await post('/api/sync',{operations:[{id:'remote-edit',lessonId:saved.id,type:'patch',before:{personalNotes:'Kalıcı not'},patch:{personalNotes:'Diğer cihazın notu'}}]})).json();
+  assert.equal(changed.results[0].conflict,false);
+  const conflict=await(await post('/api/sync',{operations:[{id:'stale-editor',lessonId:saved.id,type:'patch',before:{personalNotes:'Kalıcı not'},patch:{personalNotes:'Açık editördeki not'}}]})).json();
+  assert.equal(conflict.results[0].conflict,true);
+  assert.equal(conflict.lessons.find(l=>l.id===saved.id).personalNotes,'Diğer cihazın notu');
+  assert.equal(conflict.lessons.filter(l=>l.id==='offline-lesson').length,1);
+  assert.equal((await fetch(base+'/server.mjs')).status,404);
+  assert.equal((await fetch(base+'/assets/%2e%2e%2fserver.mjs')).status,403);
+  const backup=await fetch(base+'/api/backup');await backup.arrayBuffer();assert.equal(backup.status,500,'a failed archive must not be offered as a successful backup');
+  await mkdir(join(root,'sources'));await writeFile(join(root,'README.md'),'Perfüzyon library');
+  const complete=await fetch(base+'/api/backup');const archive=gunzipSync(Buffer.from(await complete.arrayBuffer()));
+  assert.equal(complete.status,200);assert.ok(archive.includes(Buffer.from('Diğer cihazın notu')));assert.ok(archive.includes(Buffer.from('Açık editördeki not')));assert.ok(archive.includes(Buffer.from(image,'base64')));
+ }finally{await new Promise(r=>server.close(r));await rm(root,{recursive:true,force:true});}
+});

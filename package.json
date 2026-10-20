@@ -1,0 +1,8 @@
+{
+  "name": "perfuzyon-calisma-merkezi",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {"start":"node server.mjs", "test":"node --test", "open":"node scripts/start.mjs"},
+  "engines": {"node":">=22"}
+}

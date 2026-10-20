@@ -1,0 +1,833 @@
+{
+  "id": "review-f4b740db13c33732",
+  "title": "Yıkama, temizlik ve dekontaminasyon",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Deterjan",
+      "text": "Detergent\nAntimikrobiyal iddiası olmayan temizleyici (anyonik, katyonik, amfoterik, noniyonik).",
+      "images": [],
+      "card": {
+        "id": "PER247-06ua176",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Deterjan",
+        "definition": "Antimikrobiyal iddiası olmayan temizleyici (anyonik, katyonik, amfoterik, noniyonik).",
+        "en": "Detergent"
+      }
+    },
+    {
+      "title": "Enzimatik temizleyici",
+      "text": "Enzyme cleaner\nOrganik maddenin (ör. proteazlarla protein) uzaklaştırılmasını kolaylaştıran çözelti.",
+      "images": [],
+      "card": {
+        "id": "PER247-08uybg7",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Enzimatik temizleyici",
+        "definition": "Organik maddenin (ör. proteazlarla protein) uzaklaştırılmasını kolaylaştıran çözelti.",
+        "en": "Enzyme cleaner"
+      }
+    },
+    {
+      "title": "Yüzey aktif madde",
+      "text": "Surfactant\nSuyun yüzey gerilimini azaltan ıslatıcı ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-14zqvxm",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Yüzey aktif madde",
+        "definition": "Suyun yüzey gerilimini azaltan ıslatıcı ajan.",
+        "en": "Surfactant"
+      }
+    },
+    {
+      "title": "Ultrasonik temizleyici",
+      "text": "Ultrasonic cleaner\nSıvı içindeki akustik dalgalarla **kavitasyon** oluşturarak yüzeye bağlı kirleri gevşeten cihaz. Tek başına güvenilir dezenfeksiyon sağlamaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1j79hzn",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Ultrasonik temizleyici",
+        "definition": "Sıvı içindeki akustik dalgalarla **kavitasyon** oluşturarak yüzeye bağlı kirleri gevşeten cihaz. Tek başına güvenilir dezenfeksiyon sağlamaz.",
+        "en": "Ultrasonic cleaner"
+      }
+    },
+    {
+      "title": "Kavitasyon",
+      "text": "Cavitation\nAkustik enerjiyle sıvıda oluşan kabarcıkların çökmesi (implozyon) ile partikül bağlarının kopması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1b37vbm",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kavitasyon",
+        "definition": "Akustik enerjiyle sıvıda oluşan kabarcıkların çökmesi (implozyon) ile partikül bağlarının kopması.",
+        "en": "Cavitation"
+      }
+    },
+    {
+      "title": "Yıkama-dezenfeksiyon cihazı",
+      "text": "Washer-disinfector\nSu jeti + deterjanla yıkayıp termal dezenfeksiyon (ve kurutma) uygulayan otomatik cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1y70y6m",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Yıkama-dezenfeksiyon cihazı",
+        "definition": "Su jeti + deterjanla yıkayıp termal dezenfeksiyon (ve kurutma) uygulayan otomatik cihaz.",
+        "en": "Washer-disinfector"
+      }
+    },
+    {
+      "title": "Termal dezenfeksiyon",
+      "text": "Thermal disinfection\nIsıyla (sıcak su) yapılan dezenfeksiyon aşaması.",
+      "images": [],
+      "card": {
+        "id": "PER247-0ac6l7a",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Termal dezenfeksiyon",
+        "definition": "Isıyla (sıcak su) yapılan dezenfeksiyon aşaması.",
+        "en": "Thermal disinfection"
+      }
+    },
+    {
+      "title": "Ön temizlik",
+      "text": "Precleaning / prerinse\nKullanım yerinde kaba kirin alınması/durulama; kan ve dokunun kurumasını önler.",
+      "images": [],
+      "card": {
+        "id": "PER247-1gnklvo",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Ön temizlik",
+        "definition": "Kullanım yerinde kaba kirin alınması/durulama; kan ve dokunun kurumasını önler.",
+        "en": "Precleaning / prerinse"
+      }
+    },
+    {
+      "title": "Protein testi",
+      "text": "Protein residue test\nYıkama sonrası alet yüzeyindeki kalıntı proteinin saptanması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1vguyb7",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "WHO 2018",
+        "term": "Protein testi",
+        "definition": "Yıkama sonrası alet yüzeyindeki kalıntı proteinin saptanması.",
+        "en": "Protein residue test"
+      }
+    },
+    {
+      "title": "Akışkanla temizlik",
+      "text": "Fluidics\nFırça geçmeyen kanalların basınçlı sıvıyla temizlenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0he9r4l",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Akışkanla temizlik",
+        "definition": "Fırça geçmeyen kanalların basınçlı sıvıyla temizlenmesi.",
+        "en": "Fluidics"
+      }
+    },
+    {
+      "title": "Yağlama",
+      "text": "Instrument lubrication\nAletin menteşe ve eklemlerinin işlevini korumak için **suda çözünen uygun ürünle bakım yapılması**. Ürün ve alet talimatlarına uyulur.",
+      "images": [],
+      "card": {
+        "id": "PER247-10qfakh",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 1,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "term": "Yağlama",
+        "definition": "Aletin menteşe ve eklemlerinin işlevini korumak için **suda çözünen uygun ürünle bakım yapılması**. Ürün ve alet talimatlarına uyulur.",
+        "en": "Instrument lubrication"
+      }
+    },
+    {
+      "title": "Yeniden işleme",
+      "text": "Reprocessing\nTemizlik, inceleme, sarma, sterilizasyon ve saklamayı içeren süreç.",
+      "images": [],
+      "card": {
+        "id": "PER247-1urertu",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Yeniden işleme",
+        "definition": "Temizlik, inceleme, sarma, sterilizasyon ve saklamayı içeren süreç.",
+        "en": "Reprocessing"
+      }
+    },
+    {
+      "title": "Protein testi ve görsel inceleme",
+      "text": "Protein testi\nYıkama sonrası kalıntı proteini araştırır\nKayıtlı temizlik kontrolünün bir aracıdır\n\nGörsel/işlevsel inceleme\nYüzey, korozyon, hasar ve çalışmayı değerlendirir\nKalıntılı/hasarlı aletin uygun ayrılmasını sağlar",
+      "images": [],
+      "card": {
+        "id": "PER247-0fsyx0x",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "compare",
+        "importance": 2,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "title": "Protein testi ve görsel inceleme",
+        "left": {
+          "title": "Protein testi",
+          "points": [
+            "Yıkama sonrası kalıntı proteini araştırır",
+            "Kayıtlı temizlik kontrolünün bir aracıdır"
+          ]
+        },
+        "right": {
+          "title": "Görsel/işlevsel inceleme",
+          "points": [
+            "Yüzey, korozyon, hasar ve çalışmayı değerlendirir",
+            "Kalıntılı/hasarlı aletin uygun ayrılmasını sağlar"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Kuruyan kirin sonucu",
+      "text": "Kan ve doku alet üzerinde kuruduğunda uzaklaştırılması zorlaşır. Yeniden işlenecek aletler kullanım sonrası **mümkün olan en kısa sürede** temizlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1vgk8zx",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "fact",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kuruyan kirin sonucu",
+        "body": "Kan ve doku alet üzerinde kuruduğunda uzaklaştırılması zorlaşır. Yeniden işlenecek aletler kullanım sonrası **mümkün olan en kısa sürede** temizlenir."
+      }
+    },
+    {
+      "title": "Elle fırçalamada su seviyesi",
+      "text": "Elle temizliğin **su yüzeyinin altında** yapılması sıçrama riskini azaltır. WHO, uygun kişisel koruyucu ekipmanla yumuşak naylon fırça kullanımını tarif eder.",
+      "images": [],
+      "card": {
+        "id": "PER247-0t3auo9",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Elle fırçalamada su seviyesi",
+        "body": "Elle temizliğin **su yüzeyinin altında** yapılması sıçrama riskini azaltır. WHO, uygun kişisel koruyucu ekipmanla yumuşak naylon fırça kullanımını tarif eder."
+      }
+    },
+    {
+      "title": "Elle temizlik suyunun sınırı",
+      "text": "WHO cerrahi alan enfeksiyonu kılavuzunun yeniden işleme bölümünde elle temizlik suyu için **en fazla 50 °C** belirtilir. Deterjan ve cihaz üretici talimatları da gözetilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1tjyytx",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "fact",
+        "importance": 2,
+        "source": "WHO 2018",
+        "title": "Elle temizlik suyunun sınırı",
+        "body": "WHO cerrahi alan enfeksiyonu kılavuzunun yeniden işleme bölümünde elle temizlik suyu için **en fazla 50 °C** belirtilir. Deterjan ve cihaz üretici talimatları da gözetilir."
+      }
+    },
+    {
+      "title": "Enzim ve dezenfeksiyon ayrımı",
+      "text": "Enzimatik temizleyiciler organik kirin parçalanmasına yardım eder; **dezenfektan değildir**. Temizlik sonrası gereken dezenfeksiyon veya sterilizasyon aşaması devam eder.",
+      "images": [],
+      "card": {
+        "id": "PER247-1txu0m8",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "fact",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Enzim ve dezenfeksiyon ayrımı",
+        "body": "Enzimatik temizleyiciler organik kirin parçalanmasına yardım eder; **dezenfektan değildir**. Temizlik sonrası gereken dezenfeksiyon veya sterilizasyon aşaması devam eder."
+      }
+    },
+    {
+      "title": "Protein kalıntısının kontrolü",
+      "text": "ÇOMÜ’nün 2024 prosedüründe yıkama sonrası **her gün protein testi** yapılır ve sonucu kaydedilir. Bu sıklık kurum prosedürünün örneğidir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1p9vr2a",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "fact",
+        "importance": 1,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "title": "Protein kalıntısının kontrolü",
+        "body": "ÇOMÜ’nün 2024 prosedüründe yıkama sonrası **her gün protein testi** yapılır ve sonucu kaydedilir. Bu sıklık kurum prosedürünün örneğidir."
+      }
+    },
+    {
+      "title": "Birden fazla parçalı alet temizliğe nasıl hazırlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-18q171k",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Birden fazla parçalı alet temizliğe nasıl hazırlanır?",
+        "answer": "Üretici talimatına uygun **demonte edilir**, menteşeleri açılır ve parçaları birlikte izlenir. Kapalı eklem ve kanallar kirin uzaklaştırılmasını güçleştirir."
+      }
+    },
+    {
+      "title": "Temizlikten sonra aletin incelemesinde hangi iki hedef aranır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1ivnmwt",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO 2018",
+        "question": "Temizlikten sonra aletin incelemesinde hangi iki hedef aranır?",
+        "answer": "**Temizlik ve işlevsellik**. Kalıntı varsa yeniden temizlenir; hasar varsa kullanım dışı bırakılıp uygun işlem için ayrılır."
+      }
+    },
+    {
+      "title": "Temizlik öncesi dezenfektanda bekletme neden önerilmez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0qontp9",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "flip",
+        "importance": 2,
+        "source": "WHO 2018",
+        "question": "Temizlik öncesi dezenfektanda bekletme neden önerilmez?",
+        "answer": "Aleti hasarlayabilir; kan/vücut sıvıları dezenfektanı inaktive edebilir. Kontamine bekletme sıvısı ve taşınması **çalışan güvenliğini** de olumsuz etkileyebilir."
+      }
+    },
+    {
+      "title": "Ultrason mikrop testi değildir",
+      "text": "Ultrasonik temizlik tek başına anlamlı mikrobiyal inaktivasyon sağlamaz. Kullanılmış sıvı **kontamine olabilir**; temizlik cihazı sterilizatör yerine geçmez.",
+      "images": [],
+      "card": {
+        "id": "PER247-1bk6oa7",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Ultrason mikrop testi değildir",
+        "body": "Ultrasonik temizlik tek başına anlamlı mikrobiyal inaktivasyon sağlamaz. Kullanılmış sıvı **kontamine olabilir**; temizlik cihazı sterilizatör yerine geçmez."
+      }
+    },
+    {
+      "title": "Ultrasonik temizleyici kirleri hangi süreçle gevşetir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-07ott3f",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Ultrasonik temizleyici kirleri hangi süreçle gevşetir?",
+        "options": [
+          "Proteinlerin alkilasyonu",
+          "Kavitasyon ve implozyon",
+          "Radyasyonla iyonizasyon",
+          "Doymuş buhar yoğuşması"
+        ],
+        "correct": 1,
+        "explanation": "Akustik dalgaların oluşturduğu **kavitasyon**, partikülleri yüzeye bağlayan bağları koparır."
+      }
+    },
+    {
+      "title": "Protein artıklarını parçalayan enzim örneği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0r04r60",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Protein artıklarını parçalayan enzim örneği hangisidir?",
+        "options": [
+          "Lipaz",
+          "Amilaz",
+          "Proteaz",
+          "Selülaz"
+        ],
+        "correct": 2,
+        "explanation": "**Proteaz** proteinleri parçalar; enzimatik temizleyici kullanımı dezenfeksiyonun yerine geçmez."
+      }
+    },
+    {
+      "title": "Temizliği tamamlanan alette görünür kalıntı bulundu. Uygun sonraki işlem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1d1dc03",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "WHO 2018",
+        "question": "Temizliği tamamlanan alette görünür kalıntı bulundu. Uygun sonraki işlem hangisidir?",
+        "options": [
+          "Doğrudan steril pakete koymak",
+          "Buhar süresini gelişigüzel artırmak",
+          "Yalnız yüzeyi kurutup paketlemek",
+          "Yeniden temizliğe göndermek"
+        ],
+        "correct": 3,
+        "explanation": "İnceleme sonunda kalıntı varsa alet **yeniden temizlenir**; kirli alet pakete alınmaz."
+      }
+    },
+    {
+      "title": "Fırça girmeyen kanalda tarif edilen temizlik yaklaşımı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0fam8r4",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Fırça girmeyen kanalda tarif edilen temizlik yaklaşımı hangisidir?",
+        "options": [
+          "Basınçlı sıvıyla kanal temizliği",
+          "Kanalı kapalı halde kuru silme",
+          "Kanal ağzını yalnız alkolle silme",
+          "Dış yüzeye yağlayıcı uygulama"
+        ],
+        "correct": 0,
+        "explanation": "CDC **fluidics**, yani basınçlı sıvıyla kanal temizliğini, uygun kanallar için tanımlar."
+      }
+    },
+    {
+      "title": "Yıkama cihazına yüklenirken menteşeli aletler açılır ve üst üste yığılmaz.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1tk6ikf",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Yıkama cihazına yüklenirken menteşeli aletler açılır ve üst üste yığılmaz.",
+        "isTrue": true,
+        "explanation": "Açık ve uygun yerleşim, su/deterjanın yüzeylere ulaşmasını sağlar."
+      }
+    },
+    {
+      "title": "Enzimatik deterjan, temizlikten sonra gereken dezenfeksiyonun yerine geçer.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-06141i9",
+        "course": "PER247",
+        "topic": "Yıkama, temizlik ve dekontaminasyon",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Enzimatik deterjan, temizlikten sonra gereken dezenfeksiyonun yerine geçer.",
+        "isTrue": false,
+        "explanation": "Enzimatik temizleyiciler **dezenfektan değildir**; sonraki gerekli işlem devam eder."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-06ua176",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Deterjan",
+      "definition": "Antimikrobiyal iddiası olmayan temizleyici (anyonik, katyonik, amfoterik, noniyonik).",
+      "en": "Detergent"
+    },
+    {
+      "id": "PER247-08uybg7",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Enzimatik temizleyici",
+      "definition": "Organik maddenin (ör. proteazlarla protein) uzaklaştırılmasını kolaylaştıran çözelti.",
+      "en": "Enzyme cleaner"
+    },
+    {
+      "id": "PER247-14zqvxm",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yüzey aktif madde",
+      "definition": "Suyun yüzey gerilimini azaltan ıslatıcı ajan.",
+      "en": "Surfactant"
+    },
+    {
+      "id": "PER247-1j79hzn",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ultrasonik temizleyici",
+      "definition": "Sıvı içindeki akustik dalgalarla **kavitasyon** oluşturarak yüzeye bağlı kirleri gevşeten cihaz. Tek başına güvenilir dezenfeksiyon sağlamaz.",
+      "en": "Ultrasonic cleaner"
+    },
+    {
+      "id": "PER247-1b37vbm",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kavitasyon",
+      "definition": "Akustik enerjiyle sıvıda oluşan kabarcıkların çökmesi (implozyon) ile partikül bağlarının kopması.",
+      "en": "Cavitation"
+    },
+    {
+      "id": "PER247-1y70y6m",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yıkama-dezenfeksiyon cihazı",
+      "definition": "Su jeti + deterjanla yıkayıp termal dezenfeksiyon (ve kurutma) uygulayan otomatik cihaz.",
+      "en": "Washer-disinfector"
+    },
+    {
+      "id": "PER247-0ac6l7a",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Termal dezenfeksiyon",
+      "definition": "Isıyla (sıcak su) yapılan dezenfeksiyon aşaması.",
+      "en": "Thermal disinfection"
+    },
+    {
+      "id": "PER247-1gnklvo",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Ön temizlik",
+      "definition": "Kullanım yerinde kaba kirin alınması/durulama; kan ve dokunun kurumasını önler.",
+      "en": "Precleaning / prerinse"
+    },
+    {
+      "id": "PER247-1vguyb7",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "WHO 2018",
+      "term": "Protein testi",
+      "definition": "Yıkama sonrası alet yüzeyindeki kalıntı proteinin saptanması.",
+      "en": "Protein residue test"
+    },
+    {
+      "id": "PER247-0he9r4l",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Akışkanla temizlik",
+      "definition": "Fırça geçmeyen kanalların basınçlı sıvıyla temizlenmesi.",
+      "en": "Fluidics"
+    },
+    {
+      "id": "PER247-10qfakh",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "term": "Yağlama",
+      "definition": "Aletin menteşe ve eklemlerinin işlevini korumak için **suda çözünen uygun ürünle bakım yapılması**. Ürün ve alet talimatlarına uyulur.",
+      "en": "Instrument lubrication"
+    },
+    {
+      "id": "PER247-1urertu",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yeniden işleme",
+      "definition": "Temizlik, inceleme, sarma, sterilizasyon ve saklamayı içeren süreç.",
+      "en": "Reprocessing"
+    },
+    {
+      "id": "PER247-0fsyx0x",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "compare",
+      "importance": 2,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Protein testi ve görsel inceleme",
+      "left": {
+        "title": "Protein testi",
+        "points": [
+          "Yıkama sonrası kalıntı proteini araştırır",
+          "Kayıtlı temizlik kontrolünün bir aracıdır"
+        ]
+      },
+      "right": {
+        "title": "Görsel/işlevsel inceleme",
+        "points": [
+          "Yüzey, korozyon, hasar ve çalışmayı değerlendirir",
+          "Kalıntılı/hasarlı aletin uygun ayrılmasını sağlar"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1vgk8zx",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuruyan kirin sonucu",
+      "body": "Kan ve doku alet üzerinde kuruduğunda uzaklaştırılması zorlaşır. Yeniden işlenecek aletler kullanım sonrası **mümkün olan en kısa sürede** temizlenir."
+    },
+    {
+      "id": "PER247-0t3auo9",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Elle fırçalamada su seviyesi",
+      "body": "Elle temizliğin **su yüzeyinin altında** yapılması sıçrama riskini azaltır. WHO, uygun kişisel koruyucu ekipmanla yumuşak naylon fırça kullanımını tarif eder."
+    },
+    {
+      "id": "PER247-1tjyytx",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "fact",
+      "importance": 2,
+      "source": "WHO 2018",
+      "title": "Elle temizlik suyunun sınırı",
+      "body": "WHO cerrahi alan enfeksiyonu kılavuzunun yeniden işleme bölümünde elle temizlik suyu için **en fazla 50 °C** belirtilir. Deterjan ve cihaz üretici talimatları da gözetilir."
+    },
+    {
+      "id": "PER247-1txu0m8",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "fact",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Enzim ve dezenfeksiyon ayrımı",
+      "body": "Enzimatik temizleyiciler organik kirin parçalanmasına yardım eder; **dezenfektan değildir**. Temizlik sonrası gereken dezenfeksiyon veya sterilizasyon aşaması devam eder."
+    },
+    {
+      "id": "PER247-1p9vr2a",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "fact",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Protein kalıntısının kontrolü",
+      "body": "ÇOMÜ’nün 2024 prosedüründe yıkama sonrası **her gün protein testi** yapılır ve sonucu kaydedilir. Bu sıklık kurum prosedürünün örneğidir."
+    },
+    {
+      "id": "PER247-18q171k",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Birden fazla parçalı alet temizliğe nasıl hazırlanır?",
+      "answer": "Üretici talimatına uygun **demonte edilir**, menteşeleri açılır ve parçaları birlikte izlenir. Kapalı eklem ve kanallar kirin uzaklaştırılmasını güçleştirir."
+    },
+    {
+      "id": "PER247-1ivnmwt",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Temizlikten sonra aletin incelemesinde hangi iki hedef aranır?",
+      "answer": "**Temizlik ve işlevsellik**. Kalıntı varsa yeniden temizlenir; hasar varsa kullanım dışı bırakılıp uygun işlem için ayrılır."
+    },
+    {
+      "id": "PER247-0qontp9",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "flip",
+      "importance": 2,
+      "source": "WHO 2018",
+      "question": "Temizlik öncesi dezenfektanda bekletme neden önerilmez?",
+      "answer": "Aleti hasarlayabilir; kan/vücut sıvıları dezenfektanı inaktive edebilir. Kontamine bekletme sıvısı ve taşınması **çalışan güvenliğini** de olumsuz etkileyebilir."
+    },
+    {
+      "id": "PER247-1bk6oa7",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Ultrason mikrop testi değildir",
+      "body": "Ultrasonik temizlik tek başına anlamlı mikrobiyal inaktivasyon sağlamaz. Kullanılmış sıvı **kontamine olabilir**; temizlik cihazı sterilizatör yerine geçmez."
+    },
+    {
+      "id": "PER247-07ott3f",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ultrasonik temizleyici kirleri hangi süreçle gevşetir?",
+      "options": [
+        "Proteinlerin alkilasyonu",
+        "Kavitasyon ve implozyon",
+        "Radyasyonla iyonizasyon",
+        "Doymuş buhar yoğuşması"
+      ],
+      "correct": 1,
+      "explanation": "Akustik dalgaların oluşturduğu **kavitasyon**, partikülleri yüzeye bağlayan bağları koparır."
+    },
+    {
+      "id": "PER247-0r04r60",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Protein artıklarını parçalayan enzim örneği hangisidir?",
+      "options": [
+        "Lipaz",
+        "Amilaz",
+        "Proteaz",
+        "Selülaz"
+      ],
+      "correct": 2,
+      "explanation": "**Proteaz** proteinleri parçalar; enzimatik temizleyici kullanımı dezenfeksiyonun yerine geçmez."
+    },
+    {
+      "id": "PER247-1d1dc03",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "WHO 2018",
+      "question": "Temizliği tamamlanan alette görünür kalıntı bulundu. Uygun sonraki işlem hangisidir?",
+      "options": [
+        "Doğrudan steril pakete koymak",
+        "Buhar süresini gelişigüzel artırmak",
+        "Yalnız yüzeyi kurutup paketlemek",
+        "Yeniden temizliğe göndermek"
+      ],
+      "correct": 3,
+      "explanation": "İnceleme sonunda kalıntı varsa alet **yeniden temizlenir**; kirli alet pakete alınmaz."
+    },
+    {
+      "id": "PER247-0fam8r4",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Fırça girmeyen kanalda tarif edilen temizlik yaklaşımı hangisidir?",
+      "options": [
+        "Basınçlı sıvıyla kanal temizliği",
+        "Kanalı kapalı halde kuru silme",
+        "Kanal ağzını yalnız alkolle silme",
+        "Dış yüzeye yağlayıcı uygulama"
+      ],
+      "correct": 0,
+      "explanation": "CDC **fluidics**, yani basınçlı sıvıyla kanal temizliğini, uygun kanallar için tanımlar."
+    },
+    {
+      "id": "PER247-1tk6ikf",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Yıkama cihazına yüklenirken menteşeli aletler açılır ve üst üste yığılmaz.",
+      "isTrue": true,
+      "explanation": "Açık ve uygun yerleşim, su/deterjanın yüzeylere ulaşmasını sağlar."
+    },
+    {
+      "id": "PER247-06141i9",
+      "course": "PER247",
+      "topic": "Yıkama, temizlik ve dekontaminasyon",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Enzimatik deterjan, temizlikten sonra gereken dezenfeksiyonun yerine geçer.",
+      "isTrue": false,
+      "explanation": "Enzimatik temizleyiciler **dezenfektan değildir**; sonraki gerekli işlem devam eder."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

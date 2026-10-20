@@ -1,0 +1,961 @@
+{
+  "id": "review-25f11ec79d0985fa",
+  "title": "Rezervuarlar, aspiratörler ve vent",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Venöz rezervuar",
+      "text": "Venous reservoir\nVenöz kanın toplandığı, hacim tamponu ve hava ayırıcı görevi gören hazne.",
+      "images": [],
+      "card": {
+        "id": "PER141-0xvxb1u",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Venöz rezervuar",
+        "definition": "Venöz kanın toplandığı, hacim tamponu ve hava ayırıcı görevi gören hazne.",
+        "en": "Venous reservoir",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hard-shell rezervuar",
+      "text": "Hard-shell (open) reservoir\nSert plastik, atmosfere açık, basınç tahliye valfli venöz rezervuar; VAVD'ye uygun, kullanımı kolay.",
+      "images": [],
+      "card": {
+        "id": "PER141-0wppsun",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Hard-shell rezervuar",
+        "definition": "Sert plastik, atmosfere açık, basınç tahliye valfli venöz rezervuar; VAVD'ye uygun, kullanımı kolay.",
+        "en": "Hard-shell (open) reservoir",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Soft-shell rezervuar",
+      "text": "Soft-shell (closed) reservoir\nKatlanabilir torba rezervuar; kan–hava teması az, biyouyumlu; aspirasyon kanı için ayrı kardiyotomi rezervuarı gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER141-14f3q9i",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Soft-shell rezervuar",
+        "definition": "Katlanabilir torba rezervuar; kan–hava teması az, biyouyumlu; aspirasyon kanı için ayrı kardiyotomi rezervuarı gerekir.",
+        "en": "Soft-shell (closed) reservoir",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kardiyotomi rezervuarı",
+      "text": "Cardiotomy reservoir\nSaha (SMB) ve vent kanını toplayan, defoamer ve filtre içeren hazne.",
+      "images": [],
+      "card": {
+        "id": "PER141-1gphfrc",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyotomi rezervuarı",
+        "definition": "Saha (SMB) ve vent kanını toplayan, defoamer ve filtre içeren hazne.",
+        "en": "Cardiotomy reservoir",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Defoamer",
+      "text": "Defoamer / antifoam\nRezervuardaki köpüğü kıran yüzey; materyalinin embolizasyonu FMEA'da yüksek risktir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0rzt18w",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Defoamer",
+        "definition": "Rezervuardaki köpüğü kıran yüzey; materyalinin embolizasyonu FMEA'da yüksek risktir.",
+        "en": "Defoamer / antifoam",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyotomi aspiratörü",
+      "text": "Cardiotomy suction\nSahadaki kanı roller pompa ile kardiyotomi rezervuarına aspire eden hat.",
+      "images": [],
+      "card": {
+        "id": "PER141-1z11yjp",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyotomi aspiratörü",
+        "definition": "Sahadaki kanı roller pompa ile kardiyotomi rezervuarına aspire eden hat.",
+        "en": "Cardiotomy suction",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Saha kanı",
+      "text": "Shed mediastinal blood\nMediastinal/plevral alandan toplanan, aktive olmuş, yağ ve debris içeren kan.",
+      "images": [],
+      "card": {
+        "id": "PER141-0o92lwv",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Saha kanı",
+        "definition": "Mediastinal/plevral alandan toplanan, aktive olmuş, yağ ve debris içeren kan.",
+        "en": "Shed mediastinal blood",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Vent",
+      "text": "Vent\nKalp boşluklarını (özellikle sol ventrikül) dekomprese eden, kan ve havayı boşaltan hat/kanül.",
+      "images": [],
+      "card": {
+        "id": "PER141-01b8rfe",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 3,
+        "term": "Vent",
+        "definition": "Kalp boşluklarını (özellikle sol ventrikül) dekomprese eden, kan ve havayı boşaltan hat/kanül.",
+        "en": "Vent",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Sol ventrikül venti",
+      "text": "Left ventricular vent\nSağ üst pulmoner venden sol atriyum–mitral yoluyla sol ventriküle yerleştirilen vent.",
+      "images": [],
+      "card": {
+        "id": "PER141-19yib9o",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Sol ventrikül venti",
+        "definition": "Sağ üst pulmoner venden sol atriyum–mitral yoluyla sol ventriküle yerleştirilen vent.",
+        "en": "Left ventricular vent",
+        "source": "Kumamoto ve ark. 2023"
+      }
+    },
+    {
+      "title": "Aort kökü venti",
+      "text": "Aortic root vent\nKardiyopleji kanülü üzerinden aort kökünden aspirasyon; yalnız aort klempliyken etkili.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ae4wal",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Aort kökü venti",
+        "definition": "Kardiyopleji kanülü üzerinden aort kökünden aspirasyon; yalnız aort klempliyken etkili.",
+        "en": "Aortic root vent",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Tek yönlü valf",
+      "text": "One-way (check) valve\nAkıma tek yönde izin veren valf; vent hattında zorunlu, santrifügal pompada geri akışı önleyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-199bcpv",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 3,
+        "term": "Tek yönlü valf",
+        "definition": "Akıma tek yönde izin veren valf; vent hattında zorunlu, santrifügal pompada geri akışı önleyebilir.",
+        "en": "One-way (check) valve",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Seviye sensörü",
+      "text": "Level sensor / detector\nRezervuar seviyesi kritik düzeye inince alarm verip arteriyel pompayı yavaşlatan/durduran sensör.",
+      "images": [],
+      "card": {
+        "id": "PER141-0p2pgf3",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 3,
+        "term": "Seviye sensörü",
+        "definition": "Rezervuar seviyesi kritik düzeye inince alarm verip arteriyel pompayı yavaşlatan/durduran sensör.",
+        "en": "Level sensor / detector",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Basınç tahliye valfi",
+      "text": "Pressure relief valve\nRezervuarda aşırı pozitif/negatif basıncı önleyen valf (VAVD'de kritik).",
+      "images": [],
+      "card": {
+        "id": "PER141-1hi8s91",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "term",
+        "importance": 2,
+        "term": "Basınç tahliye valfi",
+        "definition": "Rezervuarda aşırı pozitif/negatif basıncı önleyen valf (VAVD'de kritik).",
+        "en": "Pressure relief valve",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Rezervuar yapısı",
+      "text": "Hard-shell\nSert plastik; hava ayrılması ve hacim görünürlüğü\nVakum yardımlı drenaj için uygun model kullanılabilir\n\nSoft-shell\nKatlanabilir torba; daha az kan-hava teması\nSaha kanı için ayrı toplama düzeni gerekir",
+      "images": [],
+      "card": {
+        "id": "PER141-19ey2bx",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "compare",
+        "importance": 2,
+        "title": "Rezervuar yapısı",
+        "left": {
+          "title": "Hard-shell",
+          "points": [
+            "Sert plastik; hava ayrılması ve hacim görünürlüğü",
+            "Vakum yardımlı drenaj için uygun model kullanılabilir"
+          ]
+        },
+        "right": {
+          "title": "Soft-shell",
+          "points": [
+            "Katlanabilir torba; daha az kan-hava teması",
+            "Saha kanı için ayrı toplama düzeni gerekir"
+          ]
+        },
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Rezervuara gelen kan",
+      "text": "Venöz rezervuar\nHastanın sistemik venöz kanını toplar\nAna devrede hacim tamponu görevi görür\n\nKardiyotomi rezervuarı\nSaha ve vent kanını toplar\nKöpük giderici ile filtre içerir",
+      "images": [],
+      "card": {
+        "id": "PER141-1jxv792",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "compare",
+        "importance": 2,
+        "title": "Rezervuara gelen kan",
+        "left": {
+          "title": "Venöz rezervuar",
+          "points": [
+            "Hastanın sistemik venöz kanını toplar",
+            "Ana devrede hacim tamponu görevi görür"
+          ]
+        },
+        "right": {
+          "title": "Kardiyotomi rezervuarı",
+          "points": [
+            "Saha ve vent kanını toplar",
+            "Köpük giderici ile filtre içerir"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Saha kanının içeriği",
+      "text": "Yıkanmadan geri verilen mediastinal saha kanı **yağ partikülleri, debris ve sitokinler** içerebilir. Cell salvage ile işlenmesi ayrı bir kan koruma seçeneğidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1eh2opp",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "fact",
+        "importance": 2,
+        "title": "Saha kanının içeriği",
+        "body": "Yıkanmadan geri verilen mediastinal saha kanı **yağ partikülleri, debris ve sitokinler** içerebilir. Cell salvage ile işlenmesi ayrı bir kan koruma seçeneğidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Aspirasyonda kan hasarı",
+      "text": "Negatif basınç, kan-hava karışımı ve yabancı yüzey teması koagülasyon aktivasyonu ile **hemolizi** artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1bxxk9j",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aspirasyonda kan hasarı",
+        "body": "Negatif basınç, kan-hava karışımı ve yabancı yüzey teması koagülasyon aktivasyonu ile **hemolizi** artırabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Aspiratör ucunun tıkanması",
+      "text": "Tam tıkanmış aspiratör ucunun oluşturduğu negatif basınç, aralıklı hava-kan aspirasyonuna göre daha fazla serbest hemoglobin oluşumuyla ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0c4hxlf",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aspiratör ucunun tıkanması",
+        "body": "Tam tıkanmış aspiratör ucunun oluşturduğu negatif basınç, aralıklı hava-kan aspirasyonuna göre daha fazla serbest hemoglobin oluşumuyla ilişkilidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Rezervuar seviyesi modele özgüdür",
+      "text": "Terumo örneklerinde FX25 rezervuarının en az çalışma hacmi **150 mL**, FX15'in 70 mL'dir. Cihaz minimumu tüm rezervuarlara genellenmez.",
+      "images": [],
+      "card": {
+        "id": "PER141-0uqtrcz",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "fact",
+        "importance": 1,
+        "title": "Rezervuar seviyesi modele özgüdür",
+        "body": "Terumo örneklerinde FX25 rezervuarının en az çalışma hacmi **150 mL**, FX15'in 70 mL'dir. Cihaz minimumu tüm rezervuarlara genellenmez.",
+        "source": "Terumo CAPIOX FX"
+      }
+    },
+    {
+      "title": "Aspiratör hızı ve mikroemboli",
+      "text": "Deneysel çalışmada aspiratör akımı artıp rezervuar seviyesi azaldığında daha fazla gazlı mikroemboli iletildi. **En düşük etkili aspirasyon** ve uygun rezervuar düzeyi önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1i97imr",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aspiratör hızı ve mikroemboli",
+        "body": "Deneysel çalışmada aspiratör akımı artıp rezervuar seviyesi azaldığında daha fazla gazlı mikroemboli iletildi. **En düşük etkili aspirasyon** ve uygun rezervuar düzeyi önemlidir.",
+        "source": "GME çalışması 2026"
+      }
+    },
+    {
+      "title": "LV'ye bypass sırasında gelen kan",
+      "text": "Bronşiyal ve Thebesian venlerden sol ventriküle kan gelmeye devam edebilir; aort yetmezliği ve bazı şantlar da dolumu artırır.",
+      "images": [],
+      "card": {
+        "id": "PER141-19it664",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "fact",
+        "importance": 2,
+        "title": "LV'ye bypass sırasında gelen kan",
+        "body": "Bronşiyal ve Thebesian venlerden sol ventriküle kan gelmeye devam edebilir; aort yetmezliği ve bazı şantlar da dolumu artırır.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "KPB'de sol ventrikül ventinin başlıca koruyucu amaçları nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1gradqh",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "flip",
+        "importance": 3,
+        "question": "KPB'de sol ventrikül ventinin başlıca koruyucu amaçları nelerdir?",
+        "answer": "Ventrikül distansiyonunu sınırlamak, kan ve havayı boşaltmak, görüş alanını iyileştirmek ve miyokardın yeniden ısınmasını azaltmak.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Sol ventrikül ventinin konumu hangi yöntemle doğrulanabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-01c08ro",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sol ventrikül ventinin konumu hangi yöntemle doğrulanabilir?",
+        "answer": "**Transözofageal ekokardiyografi (TEE)** ile vent ucu ve yanlış yerleşim değerlendirilir.",
+        "source": "Kumamoto ve ark. 2023"
+      }
+    },
+    {
+      "title": "Sol ventrikül distansiyonu akciğerlerde hangi sonuca yol açabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1ysvdlt",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sol ventrikül distansiyonu akciğerlerde hangi sonuca yol açabilir?",
+        "answer": "Pulmoner venöz hipertansiyon ve **pulmoner ödem** gelişebilir.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Protamin ile aspirasyon aynı anda sürmez",
+      "text": "AmSECT 2017 ve EACTS 2024'e göre **protamin başlanırken kardiyotomi aspirasyonu kapatılır**. Amaç nötralize kanın devreye dönmesiyle pıhtılaşmayı önlemektir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0ak8apt",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "remember",
+        "importance": 3,
+        "title": "Protamin ile aspirasyon aynı anda sürmez",
+        "body": "AmSECT 2017 ve EACTS 2024'e göre **protamin başlanırken kardiyotomi aspirasyonu kapatılır**. Amaç nötralize kanın devreye dönmesiyle pıhtılaşmayı önlemektir.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Rezervuarın boşalmasını bekleme",
+      "text": "Hard-shell rezervuarda seviye sensörü, yeterli tepki süresi ve güvenli hacim bırakacak şekilde yerleştirilir. Alarm **pompayı yavaşlatabilir veya durdurabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER141-18htwvt",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "remember",
+        "importance": 3,
+        "title": "Rezervuarın boşalmasını bekleme",
+        "body": "Hard-shell rezervuarda seviye sensörü, yeterli tepki süresi ve güvenli hacim bırakacak şekilde yerleştirilir. Alarm **pompayı yavaşlatabilir veya durdurabilir**.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Yaygın sol ventrikül venti hangi giriş yolunu kullanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1izpnda",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Yaygın sol ventrikül venti hangi giriş yolunu kullanır?",
+        "options": [
+          "Sağ üst pulmoner ven",
+          "Vena kava superior",
+          "Koroner sinüs",
+          "Femoral arter"
+        ],
+        "correct": 0,
+        "explanation": "RSPV yoluyla sol atriyum ve mitral kapaktan sol ventriküle ulaşılır.",
+        "source": "Kumamoto ve ark. 2023"
+      }
+    },
+    {
+      "title": "Antegrad kardiyopleji verilirken aort kökü venti neden durdurulur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-12kjkqv",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Antegrad kardiyopleji verilirken aort kökü venti neden durdurulur?",
+        "options": [
+          "Arteriyel kanülü soğutmak için",
+          "Verilen solüsyonu aspire etmemesi için",
+          "Venöz kanülü genişletmek için",
+          "Koroner sinüsü kapatmak için"
+        ],
+        "correct": 1,
+        "explanation": "Aort kökü venti antegrad kök uygulaması sırasında çalıştırılmaz; solüsyonun koroner dolaşıma gitmesi amaçlanır.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Vent hattındaki tek yönlü valfin temel görevi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1chg6z2",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Vent hattındaki tek yönlü valfin temel görevi nedir?",
+        "options": [
+          "Gaz fraksiyonunu ölçmek",
+          "Hematokriti hesaplamak",
+          "Ters akımı önlemek",
+          "Hasta sıcaklığını ölçmek"
+        ],
+        "correct": 2,
+        "explanation": "Tek yönlü valf, vent hattından ters akımla hava veya kan dönmesini önler.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Vent ucunun yanlış yerleşmesi hangi komplikasyonu doğurabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1tu2kg1",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Vent ucunun yanlış yerleşmesi hangi komplikasyonu doğurabilir?",
+        "options": [
+          "Tüpün boyunun kısalması",
+          "Blender gaz oranının değişmesi",
+          "Su tankının büyümesi",
+          "Kalp yaralanması veya hava embolisi"
+        ],
+        "correct": 3,
+        "explanation": "Yanlış konumlu vent kalp yaralanması, kanama ve hava embolisi riski taşır.",
+        "source": "Kumamoto ve ark. 2023"
+      }
+    },
+    {
+      "title": "Venöz rezervuarda kan seviyesi görünürlüğü yalnızca kullanım kolaylığı sağlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-18d05zt",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Venöz rezervuarda kan seviyesi görünürlüğü yalnızca kullanım kolaylığı sağlar.",
+        "isTrue": false,
+        "explanation": "Seviyenin izlenmesi sıvı yönetimi ve devreye hava girişinin önlenmesi için güvenlik unsurudur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kapalı torba rezervuar kan-hava temasını azaltır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-04aaopx",
+        "course": "PER141",
+        "topic": "Rezervuarlar, aspiratörler ve vent",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Kapalı torba rezervuar kan-hava temasını azaltır.",
+        "isTrue": true,
+        "explanation": "Soft-shell yapısı açık rezervuara göre daha az kan-hava teması sağlar.",
+        "source": "Basics of CPB 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0xvxb1u",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz rezervuar",
+      "definition": "Venöz kanın toplandığı, hacim tamponu ve hava ayırıcı görevi gören hazne.",
+      "en": "Venous reservoir",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0wppsun",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Hard-shell rezervuar",
+      "definition": "Sert plastik, atmosfere açık, basınç tahliye valfli venöz rezervuar; VAVD'ye uygun, kullanımı kolay.",
+      "en": "Hard-shell (open) reservoir",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-14f3q9i",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Soft-shell rezervuar",
+      "definition": "Katlanabilir torba rezervuar; kan–hava teması az, biyouyumlu; aspirasyon kanı için ayrı kardiyotomi rezervuarı gerekir.",
+      "en": "Soft-shell (closed) reservoir",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1gphfrc",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyotomi rezervuarı",
+      "definition": "Saha (SMB) ve vent kanını toplayan, defoamer ve filtre içeren hazne.",
+      "en": "Cardiotomy reservoir",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rzt18w",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Defoamer",
+      "definition": "Rezervuardaki köpüğü kıran yüzey; materyalinin embolizasyonu FMEA'da yüksek risktir.",
+      "en": "Defoamer / antifoam",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1z11yjp",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyotomi aspiratörü",
+      "definition": "Sahadaki kanı roller pompa ile kardiyotomi rezervuarına aspire eden hat.",
+      "en": "Cardiotomy suction",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0o92lwv",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Saha kanı",
+      "definition": "Mediastinal/plevral alandan toplanan, aktive olmuş, yağ ve debris içeren kan.",
+      "en": "Shed mediastinal blood",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-01b8rfe",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 3,
+      "term": "Vent",
+      "definition": "Kalp boşluklarını (özellikle sol ventrikül) dekomprese eden, kan ve havayı boşaltan hat/kanül.",
+      "en": "Vent",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-19yib9o",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Sol ventrikül venti",
+      "definition": "Sağ üst pulmoner venden sol atriyum–mitral yoluyla sol ventriküle yerleştirilen vent.",
+      "en": "Left ventricular vent",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "id": "PER141-1ae4wal",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Aort kökü venti",
+      "definition": "Kardiyopleji kanülü üzerinden aort kökünden aspirasyon; yalnız aort klempliyken etkili.",
+      "en": "Aortic root vent",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-199bcpv",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 3,
+      "term": "Tek yönlü valf",
+      "definition": "Akıma tek yönde izin veren valf; vent hattında zorunlu, santrifügal pompada geri akışı önleyebilir.",
+      "en": "One-way (check) valve",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0p2pgf3",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 3,
+      "term": "Seviye sensörü",
+      "definition": "Rezervuar seviyesi kritik düzeye inince alarm verip arteriyel pompayı yavaşlatan/durduran sensör.",
+      "en": "Level sensor / detector",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1hi8s91",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "term",
+      "importance": 2,
+      "term": "Basınç tahliye valfi",
+      "definition": "Rezervuarda aşırı pozitif/negatif basıncı önleyen valf (VAVD'de kritik).",
+      "en": "Pressure relief valve",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-19ey2bx",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "compare",
+      "importance": 2,
+      "title": "Rezervuar yapısı",
+      "left": {
+        "title": "Hard-shell",
+        "points": [
+          "Sert plastik; hava ayrılması ve hacim görünürlüğü",
+          "Vakum yardımlı drenaj için uygun model kullanılabilir"
+        ]
+      },
+      "right": {
+        "title": "Soft-shell",
+        "points": [
+          "Katlanabilir torba; daha az kan-hava teması",
+          "Saha kanı için ayrı toplama düzeni gerekir"
+        ]
+      },
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1jxv792",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "compare",
+      "importance": 2,
+      "title": "Rezervuara gelen kan",
+      "left": {
+        "title": "Venöz rezervuar",
+        "points": [
+          "Hastanın sistemik venöz kanını toplar",
+          "Ana devrede hacim tamponu görevi görür"
+        ]
+      },
+      "right": {
+        "title": "Kardiyotomi rezervuarı",
+        "points": [
+          "Saha ve vent kanını toplar",
+          "Köpük giderici ile filtre içerir"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1eh2opp",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "fact",
+      "importance": 2,
+      "title": "Saha kanının içeriği",
+      "body": "Yıkanmadan geri verilen mediastinal saha kanı **yağ partikülleri, debris ve sitokinler** içerebilir. Cell salvage ile işlenmesi ayrı bir kan koruma seçeneğidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1bxxk9j",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspirasyonda kan hasarı",
+      "body": "Negatif basınç, kan-hava karışımı ve yabancı yüzey teması koagülasyon aktivasyonu ile **hemolizi** artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0c4hxlf",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspiratör ucunun tıkanması",
+      "body": "Tam tıkanmış aspiratör ucunun oluşturduğu negatif basınç, aralıklı hava-kan aspirasyonuna göre daha fazla serbest hemoglobin oluşumuyla ilişkilidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0uqtrcz",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "fact",
+      "importance": 1,
+      "title": "Rezervuar seviyesi modele özgüdür",
+      "body": "Terumo örneklerinde FX25 rezervuarının en az çalışma hacmi **150 mL**, FX15'in 70 mL'dir. Cihaz minimumu tüm rezervuarlara genellenmez.",
+      "source": "Terumo CAPIOX FX"
+    },
+    {
+      "id": "PER141-1i97imr",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aspiratör hızı ve mikroemboli",
+      "body": "Deneysel çalışmada aspiratör akımı artıp rezervuar seviyesi azaldığında daha fazla gazlı mikroemboli iletildi. **En düşük etkili aspirasyon** ve uygun rezervuar düzeyi önemlidir.",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "id": "PER141-19it664",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "fact",
+      "importance": 2,
+      "title": "LV'ye bypass sırasında gelen kan",
+      "body": "Bronşiyal ve Thebesian venlerden sol ventriküle kan gelmeye devam edebilir; aort yetmezliği ve bazı şantlar da dolumu artırır.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1gradqh",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB'de sol ventrikül ventinin başlıca koruyucu amaçları nelerdir?",
+      "answer": "Ventrikül distansiyonunu sınırlamak, kan ve havayı boşaltmak, görüş alanını iyileştirmek ve miyokardın yeniden ısınmasını azaltmak.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-01c08ro",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ventrikül ventinin konumu hangi yöntemle doğrulanabilir?",
+      "answer": "**Transözofageal ekokardiyografi (TEE)** ile vent ucu ve yanlış yerleşim değerlendirilir.",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "id": "PER141-1ysvdlt",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ventrikül distansiyonu akciğerlerde hangi sonuca yol açabilir?",
+      "answer": "Pulmoner venöz hipertansiyon ve **pulmoner ödem** gelişebilir.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0ak8apt",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "remember",
+      "importance": 3,
+      "title": "Protamin ile aspirasyon aynı anda sürmez",
+      "body": "AmSECT 2017 ve EACTS 2024'e göre **protamin başlanırken kardiyotomi aspirasyonu kapatılır**. Amaç nötralize kanın devreye dönmesiyle pıhtılaşmayı önlemektir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-18htwvt",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "remember",
+      "importance": 3,
+      "title": "Rezervuarın boşalmasını bekleme",
+      "body": "Hard-shell rezervuarda seviye sensörü, yeterli tepki süresi ve güvenli hacim bırakacak şekilde yerleştirilir. Alarm **pompayı yavaşlatabilir veya durdurabilir**.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1izpnda",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Yaygın sol ventrikül venti hangi giriş yolunu kullanır?",
+      "options": [
+        "Sağ üst pulmoner ven",
+        "Vena kava superior",
+        "Koroner sinüs",
+        "Femoral arter"
+      ],
+      "correct": 0,
+      "explanation": "RSPV yoluyla sol atriyum ve mitral kapaktan sol ventriküle ulaşılır.",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "id": "PER141-12kjkqv",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Antegrad kardiyopleji verilirken aort kökü venti neden durdurulur?",
+      "options": [
+        "Arteriyel kanülü soğutmak için",
+        "Verilen solüsyonu aspire etmemesi için",
+        "Venöz kanülü genişletmek için",
+        "Koroner sinüsü kapatmak için"
+      ],
+      "correct": 1,
+      "explanation": "Aort kökü venti antegrad kök uygulaması sırasında çalıştırılmaz; solüsyonun koroner dolaşıma gitmesi amaçlanır.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-1chg6z2",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Vent hattındaki tek yönlü valfin temel görevi nedir?",
+      "options": [
+        "Gaz fraksiyonunu ölçmek",
+        "Hematokriti hesaplamak",
+        "Ters akımı önlemek",
+        "Hasta sıcaklığını ölçmek"
+      ],
+      "correct": 2,
+      "explanation": "Tek yönlü valf, vent hattından ters akımla hava veya kan dönmesini önler.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1tu2kg1",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Vent ucunun yanlış yerleşmesi hangi komplikasyonu doğurabilir?",
+      "options": [
+        "Tüpün boyunun kısalması",
+        "Blender gaz oranının değişmesi",
+        "Su tankının büyümesi",
+        "Kalp yaralanması veya hava embolisi"
+      ],
+      "correct": 3,
+      "explanation": "Yanlış konumlu vent kalp yaralanması, kanama ve hava embolisi riski taşır.",
+      "source": "Kumamoto ve ark. 2023"
+    },
+    {
+      "id": "PER141-18d05zt",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Venöz rezervuarda kan seviyesi görünürlüğü yalnızca kullanım kolaylığı sağlar.",
+      "isTrue": false,
+      "explanation": "Seviyenin izlenmesi sıvı yönetimi ve devreye hava girişinin önlenmesi için güvenlik unsurudur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-04aaopx",
+      "course": "PER141",
+      "topic": "Rezervuarlar, aspiratörler ve vent",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kapalı torba rezervuar kan-hava temasını azaltır.",
+      "isTrue": true,
+      "explanation": "Soft-shell yapısı açık rezervuara göre daha az kan-hava teması sağlar.",
+      "source": "Basics of CPB 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

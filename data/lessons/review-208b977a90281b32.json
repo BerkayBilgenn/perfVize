@@ -1,0 +1,693 @@
+{
+  "id": "review-208b977a90281b32",
+  "title": "Obstrüktif konjenital kalp hastalıkları",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Aort koarktasyonu",
+      "text": "Coarctation of the aorta\nİnen aortada, çoğunlukla duktus girişi yerinde (jukstaduktal) daralma.",
+      "images": [],
+      "card": {
+        "id": "PER245-0chhtq2",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Aort koarktasyonu",
+        "en": "Coarctation of the aorta",
+        "definition": "İnen aortada, çoğunlukla duktus girişi yerinde (jukstaduktal) daralma.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kesintili aortik ark (IAA)",
+      "text": "Interrupted aortic arch\nÇıkan ve inen aorta arasında anatomik sürekliliğin bulunmaması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0yarccl",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 1,
+        "term": "Kesintili aortik ark (IAA)",
+        "en": "Interrupted aortic arch",
+        "definition": "Çıkan ve inen aorta arasında anatomik sürekliliğin bulunmaması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kosta çentiklenmesi",
+      "text": "Rib notching\nKoarktasyonda genişlemiş interkostal kollateral arterlerin kostalarda yaptığı çentikler.",
+      "images": [],
+      "card": {
+        "id": "PER245-0sjzng4",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Kosta çentiklenmesi",
+        "en": "Rib notching",
+        "definition": "Koarktasyonda genişlemiş interkostal kollateral arterlerin kostalarda yaptığı çentikler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Supravalvüler aort darlığı",
+      "text": "Supravalvular aortic stenosis\nKapak üstünde aort daralması; Williams sendromunda tipik.",
+      "images": [],
+      "card": {
+        "id": "PER245-0b7j17g",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Supravalvüler aort darlığı",
+        "en": "Supravalvular aortic stenosis",
+        "definition": "Kapak üstünde aort daralması; Williams sendromunda tipik.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner darlık (PS)",
+      "text": "Pulmonary stenosis\nSağ ventrikül çıkışının valvüler (en sık), subvalvüler veya supravalvüler daralması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1bhe20w",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 3,
+        "term": "Pulmoner darlık (PS)",
+        "en": "Pulmonary stenosis",
+        "definition": "Sağ ventrikül çıkışının valvüler (en sık), subvalvüler veya supravalvüler daralması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Valvüler aort darlığı",
+      "text": "Sol ventrikül çıkış obstrüksiyonunun aort kapağı düzeyinde olduğu konjenital darlık.",
+      "images": [],
+      "card": {
+        "id": "PER245-08q9bf5",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Valvüler aort darlığı",
+        "definition": "Sol ventrikül çıkış obstrüksiyonunun aort kapağı düzeyinde olduğu konjenital darlık.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Subvalvüler aort darlığı",
+      "text": "Aort kapağının altında, sol ventrikül çıkış yolunda yer alan obstrüksiyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-0rgc86p",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Subvalvüler aort darlığı",
+        "definition": "Aort kapağının altında, sol ventrikül çıkış yolunda yer alan obstrüksiyon.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Balon valvüloplasti",
+      "text": "Darlık bulunan kapağın kateterle taşınan balon kullanılarak genişletilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0vupfle",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Balon valvüloplasti",
+        "definition": "Darlık bulunan kapağın kateterle taşınan balon kullanılarak genişletilmesi.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Komissürotomi",
+      "text": "Kaynaşmış kapak komissürlerinin cerrahi olarak ayrılarak açıklığın artırılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0wl4iid",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "term",
+        "importance": 2,
+        "term": "Komissürotomi",
+        "definition": "Kaynaşmış kapak komissürlerinin cerrahi olarak ayrılarak açıklığın artırılması.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Koarktasyonda basınç yükü",
+      "text": "Daralmanın proksimalinde basınç yükselmesi ve sol ventrikül hipertrofisi oluşabilir; üst-alt ekstremite dolaşımı birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-07ko0bd",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Koarktasyonda basınç yükü",
+        "body": "Daralmanın proksimalinde basınç yükselmesi ve sol ventrikül hipertrofisi oluşabilir; üst-alt ekstremite dolaşımı birlikte değerlendirilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Ark kesintisi ve duktus",
+      "text": "Kesintili aortik arkta alt vücut kanlanması duktusa bağımlı olabilir; duktusun kapanması dolaşım çöküşüne yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0uq5edb",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ark kesintisi ve duktus",
+        "body": "Kesintili aortik arkta alt vücut kanlanması duktusa bağımlı olabilir; duktusun kapanması dolaşım çöküşüne yol açabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Darlığın üç düzeyi",
+      "text": "Konjenital aort çıkış obstrüksiyonu kapak altında, kapakta veya kapak üstünde olabilir; anatomik düzey cerrahi yöntemi etkiler.",
+      "images": [],
+      "card": {
+        "id": "PER245-0z6mjm1",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Darlığın üç düzeyi",
+        "body": "Konjenital aort çıkış obstrüksiyonu kapak altında, kapakta veya kapak üstünde olabilir; anatomik düzey cerrahi yöntemi etkiler.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kritik pulmoner darlık",
+      "text": "Ağır yenidoğan pulmoner darlığında atriyal sağdan-sola şant ve duktusa bağımlı pulmoner akım görülebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0wx0t9d",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kritik pulmoner darlık",
+        "body": "Ağır yenidoğan pulmoner darlığında atriyal sağdan-sola şant ve duktusa bağımlı pulmoner akım görülebilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Balon ve açık cerrahi",
+      "text": "Konjenital valvüler darlıklarda balon dilatasyon seçenek olabilir; subvalvüler membran veya ağır anülüs hipoplazisinde yöntem farklılaşır.",
+      "images": [],
+      "card": {
+        "id": "PER245-16hnbsx",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "fact",
+        "importance": 2,
+        "title": "Balon ve açık cerrahi",
+        "body": "Konjenital valvüler darlıklarda balon dilatasyon seçenek olabilir; subvalvüler membran veya ağır anülüs hipoplazisinde yöntem farklılaşır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Koarktasyonda kosta çentiklenmesi hangi damar değişimiyle ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1glx06b",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Koarktasyonda kosta çentiklenmesi hangi damar değişimiyle ilişkilidir?",
+        "answer": "Genişleyen interkostal kollateral arterlerin kostalar üzerinde oluşturduğu erozyonla.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Kesintili aortik ark tip B'de kesinti hangi dallar arasındadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0yrikeo",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kesintili aortik ark tip B'de kesinti hangi dallar arasındadır?",
+        "answer": "Sol ortak karotis ile sol subklavyen arter arasındadır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Supravalvüler aort darlığının kapak darlığından anatomik farkı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1chko7x",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "flip",
+        "importance": 2,
+        "question": "Supravalvüler aort darlığının kapak darlığından anatomik farkı nedir?",
+        "answer": "Obstrüksiyon kapak yaprakçıklarında değil, aort kapağının üstündeki damar bölümündedir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Duktusun kapanması tehlike yaratabilir",
+      "text": "Kritik sol kalp obstrüksiyonunda duktus sistemik akımı sağlayabilir; kapanması **şok ve asidoza** yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-17al2lh",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "remember",
+        "importance": 3,
+        "title": "Duktusun kapanması tehlike yaratabilir",
+        "body": "Kritik sol kalp obstrüksiyonunda duktus sistemik akımı sağlayabilir; kapanması **şok ve asidoza** yol açabilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "IAA tip A'da aortik kesinti hangi bölgededir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1rt1y7i",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 3,
+        "question": "IAA tip A'da aortik kesinti hangi bölgededir?",
+        "options": [
+          "Sol subklavyenin distalinde",
+          "Sol karotis–sol subklavyen arasında",
+          "İnnominat–sol karotis arasında",
+          "Aort kapağı–koroner ağız arasında"
+        ],
+        "correct": 0,
+        "explanation": "Tip A, sol subklavyen arter ile inen aorta arasındaki süreksizliktir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Biküspit aort kapağıyla sık birlikte görülen obstrüktif lezyon hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0tq2ij8",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Biküspit aort kapağıyla sık birlikte görülen obstrüktif lezyon hangisidir?",
+        "options": [
+          "Valvüler pulmoner darlık",
+          "Aort koarktasyonu",
+          "İnfundibuler pulmoner darlık",
+          "Periferik pulmoner arter darlığı"
+        ],
+        "correct": 1,
+        "explanation": "Koarktasyon ve biküspit aort kapağı birlikteliği önemlidir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Aort kapağının altında membran varsa darlığın anatomik adı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1xvuypn",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aort kapağının altında membran varsa darlığın anatomik adı nedir?",
+        "options": [
+          "Valvüler",
+          "Supravalvüler",
+          "Subvalvüler",
+          "Dinamik infundibuler pulmoner"
+        ],
+        "correct": 2,
+        "explanation": "Subvalvüler obstrüksiyon aort kapağının altındaki sol ventrikül çıkış yolundadır.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner kapak darlığı hangi ventrikülde basınç yükü oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1cxt04d",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Pulmoner kapak darlığı hangi ventrikülde basınç yükü oluşturur?",
+        "options": [
+          "Sol ventrikül",
+          "Sağ atriyum",
+          "Sol atriyum",
+          "Sağ ventrikül"
+        ],
+        "correct": 3,
+        "explanation": "Pulmoner çıkış darlığı sağ ventrikülün kanı ileri göndermek için daha yüksek basınç üretmesini gerektirir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Koarktasyonda kollateral damarlar kol-bacak basınç farkının yorumunu etkileyebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1rjvk62",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Koarktasyonda kollateral damarlar kol-bacak basınç farkının yorumunu etkileyebilir.",
+        "isTrue": true,
+        "explanation": "Gelişen kollateraller darlığın distalindeki kanlanmayı destekler; basınç farkı anatomiyi tek başına açıklamaz.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Pulmoner darlığın valvüler tipi aort kapağı düzeyindedir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0evyytt",
+        "course": "PER245",
+        "topic": "Obstrüktif konjenital kalp hastalıkları",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Pulmoner darlığın valvüler tipi aort kapağı düzeyindedir.",
+        "isTrue": false,
+        "explanation": "Valvüler pulmoner darlık pulmoner kapaktadır ve sağ ventrikül çıkışını etkiler.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0chhtq2",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Aort koarktasyonu",
+      "en": "Coarctation of the aorta",
+      "definition": "İnen aortada, çoğunlukla duktus girişi yerinde (jukstaduktal) daralma.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0yarccl",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 1,
+      "term": "Kesintili aortik ark (IAA)",
+      "en": "Interrupted aortic arch",
+      "definition": "Çıkan ve inen aorta arasında anatomik sürekliliğin bulunmaması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0sjzng4",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Kosta çentiklenmesi",
+      "en": "Rib notching",
+      "definition": "Koarktasyonda genişlemiş interkostal kollateral arterlerin kostalarda yaptığı çentikler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0b7j17g",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Supravalvüler aort darlığı",
+      "en": "Supravalvular aortic stenosis",
+      "definition": "Kapak üstünde aort daralması; Williams sendromunda tipik.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1bhe20w",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 3,
+      "term": "Pulmoner darlık (PS)",
+      "en": "Pulmonary stenosis",
+      "definition": "Sağ ventrikül çıkışının valvüler (en sık), subvalvüler veya supravalvüler daralması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-08q9bf5",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Valvüler aort darlığı",
+      "definition": "Sol ventrikül çıkış obstrüksiyonunun aort kapağı düzeyinde olduğu konjenital darlık.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0rgc86p",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Subvalvüler aort darlığı",
+      "definition": "Aort kapağının altında, sol ventrikül çıkış yolunda yer alan obstrüksiyon.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0vupfle",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Balon valvüloplasti",
+      "definition": "Darlık bulunan kapağın kateterle taşınan balon kullanılarak genişletilmesi.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0wl4iid",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "term",
+      "importance": 2,
+      "term": "Komissürotomi",
+      "definition": "Kaynaşmış kapak komissürlerinin cerrahi olarak ayrılarak açıklığın artırılması.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-07ko0bd",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Koarktasyonda basınç yükü",
+      "body": "Daralmanın proksimalinde basınç yükselmesi ve sol ventrikül hipertrofisi oluşabilir; üst-alt ekstremite dolaşımı birlikte değerlendirilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0uq5edb",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ark kesintisi ve duktus",
+      "body": "Kesintili aortik arkta alt vücut kanlanması duktusa bağımlı olabilir; duktusun kapanması dolaşım çöküşüne yol açabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0z6mjm1",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Darlığın üç düzeyi",
+      "body": "Konjenital aort çıkış obstrüksiyonu kapak altında, kapakta veya kapak üstünde olabilir; anatomik düzey cerrahi yöntemi etkiler.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0wx0t9d",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kritik pulmoner darlık",
+      "body": "Ağır yenidoğan pulmoner darlığında atriyal sağdan-sola şant ve duktusa bağımlı pulmoner akım görülebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-16hnbsx",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "fact",
+      "importance": 2,
+      "title": "Balon ve açık cerrahi",
+      "body": "Konjenital valvüler darlıklarda balon dilatasyon seçenek olabilir; subvalvüler membran veya ağır anülüs hipoplazisinde yöntem farklılaşır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1glx06b",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Koarktasyonda kosta çentiklenmesi hangi damar değişimiyle ilişkilidir?",
+      "answer": "Genişleyen interkostal kollateral arterlerin kostalar üzerinde oluşturduğu erozyonla.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0yrikeo",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kesintili aortik ark tip B'de kesinti hangi dallar arasındadır?",
+      "answer": "Sol ortak karotis ile sol subklavyen arter arasındadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1chko7x",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "flip",
+      "importance": 2,
+      "question": "Supravalvüler aort darlığının kapak darlığından anatomik farkı nedir?",
+      "answer": "Obstrüksiyon kapak yaprakçıklarında değil, aort kapağının üstündeki damar bölümündedir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-17al2lh",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "remember",
+      "importance": 3,
+      "title": "Duktusun kapanması tehlike yaratabilir",
+      "body": "Kritik sol kalp obstrüksiyonunda duktus sistemik akımı sağlayabilir; kapanması **şok ve asidoza** yol açabilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1rt1y7i",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 3,
+      "question": "IAA tip A'da aortik kesinti hangi bölgededir?",
+      "options": [
+        "Sol subklavyenin distalinde",
+        "Sol karotis–sol subklavyen arasında",
+        "İnnominat–sol karotis arasında",
+        "Aort kapağı–koroner ağız arasında"
+      ],
+      "correct": 0,
+      "explanation": "Tip A, sol subklavyen arter ile inen aorta arasındaki süreksizliktir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0tq2ij8",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Biküspit aort kapağıyla sık birlikte görülen obstrüktif lezyon hangisidir?",
+      "options": [
+        "Valvüler pulmoner darlık",
+        "Aort koarktasyonu",
+        "İnfundibuler pulmoner darlık",
+        "Periferik pulmoner arter darlığı"
+      ],
+      "correct": 1,
+      "explanation": "Koarktasyon ve biküspit aort kapağı birlikteliği önemlidir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1xvuypn",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort kapağının altında membran varsa darlığın anatomik adı nedir?",
+      "options": [
+        "Valvüler",
+        "Supravalvüler",
+        "Subvalvüler",
+        "Dinamik infundibuler pulmoner"
+      ],
+      "correct": 2,
+      "explanation": "Subvalvüler obstrüksiyon aort kapağının altındaki sol ventrikül çıkış yolundadır.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1cxt04d",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Pulmoner kapak darlığı hangi ventrikülde basınç yükü oluşturur?",
+      "options": [
+        "Sol ventrikül",
+        "Sağ atriyum",
+        "Sol atriyum",
+        "Sağ ventrikül"
+      ],
+      "correct": 3,
+      "explanation": "Pulmoner çıkış darlığı sağ ventrikülün kanı ileri göndermek için daha yüksek basınç üretmesini gerektirir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-1rjvk62",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Koarktasyonda kollateral damarlar kol-bacak basınç farkının yorumunu etkileyebilir.",
+      "isTrue": true,
+      "explanation": "Gelişen kollateraller darlığın distalindeki kanlanmayı destekler; basınç farkı anatomiyi tek başına açıklamaz.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-0evyytt",
+      "course": "PER245",
+      "topic": "Obstrüktif konjenital kalp hastalıkları",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Pulmoner darlığın valvüler tipi aort kapağı düzeyindedir.",
+      "isTrue": false,
+      "explanation": "Valvüler pulmoner darlık pulmoner kapaktadır ve sağ ventrikül çıkışını etkiler.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

@@ -1,0 +1,1173 @@
+{
+  "id": "review-239b78fb54a76f71",
+  "title": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Siyanoz",
+      "text": "Cyanosis\nDeri ve mukozalarda deoksijenize hemoglobinin artmasına bağlı mavi-mor renk değişikliği.\nYun. kyanos = koyu mavi",
+      "images": [],
+      "card": {
+        "id": "PER241-1ckufrm",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Siyanoz",
+        "en": "Cyanosis",
+        "definition": "Deri ve mukozalarda deoksijenize hemoglobinin artmasına bağlı mavi-mor renk değişikliği.",
+        "origin": "Yun. kyanos = koyu mavi"
+      }
+    },
+    {
+      "title": "Asiyanotik",
+      "text": "Acyanotic\nSiyanoza yol açmayan lezyon (çoğunlukla soldan sağa şantlı veya obstrüktif).\na- = olumsuzluk + siyanotik",
+      "images": [],
+      "card": {
+        "id": "PER241-0b2zhmv",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Asiyanotik",
+        "en": "Acyanotic",
+        "definition": "Siyanoza yol açmayan lezyon (çoğunlukla soldan sağa şantlı veya obstrüktif).",
+        "origin": "a- = olumsuzluk + siyanotik"
+      }
+    },
+    {
+      "title": "Diferansiyel siyanoz",
+      "text": "Differential cyanosis\nPre- ve postduktal satürasyon farkı (alt vücudun daha siyanotik olması); PPHN, IAA, kritik koarktasyonda.",
+      "images": [],
+      "card": {
+        "id": "PER241-1c7fagv",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Diferansiyel siyanoz",
+        "en": "Differential cyanosis",
+        "definition": "Pre- ve postduktal satürasyon farkı (alt vücudun daha siyanotik olması); PPHN, IAA, kritik koarktasyonda."
+      }
+    },
+    {
+      "title": "Şant",
+      "text": "Shunt\nKanın normal dolaşım yolundan sapması (soldan sağa, sağdan sola veya çift yönlü).\nİng. shunt = saptırmak",
+      "images": [],
+      "card": {
+        "id": "PER241-1xyr6qj",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "Şant",
+        "en": "Shunt",
+        "definition": "Kanın normal dolaşım yolundan sapması (soldan sağa, sağdan sola veya çift yönlü).",
+        "origin": "İng. shunt = saptırmak"
+      }
+    },
+    {
+      "title": "Soldan sağa şant",
+      "text": "Left-to-right shunt\nOksijenli kanın sol kalpten sağ kalbe/pulmoner dolaşıma geçmesi; pulmoner aşırı dolaşım, siyanoz yok.",
+      "images": [],
+      "card": {
+        "id": "PER241-1mlh1jm",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Soldan sağa şant",
+        "en": "Left-to-right shunt",
+        "definition": "Oksijenli kanın sol kalpten sağ kalbe/pulmoner dolaşıma geçmesi; pulmoner aşırı dolaşım, siyanoz yok."
+      }
+    },
+    {
+      "title": "Sağdan sola şant",
+      "text": "Right-to-left shunt\nDeoksijenize kanın akciğeri atlayarak sistemik dolaşıma geçmesi; siyanoz.",
+      "images": [],
+      "card": {
+        "id": "PER241-057j2co",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Sağdan sola şant",
+        "en": "Right-to-left shunt",
+        "definition": "Deoksijenize kanın akciğeri atlayarak sistemik dolaşıma geçmesi; siyanoz."
+      }
+    },
+    {
+      "title": "Qp/Qs",
+      "text": "Pulmonary-to-systemic flow ratio\nPulmoner kan akımının sistemik kan akımına oranı; şantın net yönünü ve miktarını değerlendirmede kullanılır.\nQ = akım",
+      "images": [],
+      "card": {
+        "id": "PER241-0fgbyzp",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "Qp/Qs",
+        "en": "Pulmonary-to-systemic flow ratio",
+        "definition": "Pulmoner kan akımının sistemik kan akımına oranı; şantın net yönünü ve miktarını değerlendirmede kullanılır.",
+        "origin": "Q = akım"
+      }
+    },
+    {
+      "title": "Pulmoner vasküler direnç",
+      "text": "Pulmonary vascular resistance\nPulmoner dolaşımın akıma direnci; doğumda düşer, şantın yön ve miktarını belirler.",
+      "images": [],
+      "card": {
+        "id": "PER241-08bfdka",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "LITFL fetal dolaşım",
+        "term": "Pulmoner vasküler direnç",
+        "en": "Pulmonary vascular resistance",
+        "definition": "Pulmoner dolaşımın akıma direnci; doğumda düşer, şantın yön ve miktarını belirler."
+      }
+    },
+    {
+      "title": "Eisenmenger sendromu",
+      "text": "Eisenmenger syndrome\nUzun süreli soldan sağa şantın pulmoner vasküler hastalık sonucu sağdan sola dönmesi; geri dönüşsüz.\nV. Eisenmenger (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-1s8zejw",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Eisenmenger sendromu",
+        "en": "Eisenmenger syndrome",
+        "definition": "Uzun süreli soldan sağa şantın pulmoner vasküler hastalık sonucu sağdan sola dönmesi; geri dönüşsüz.",
+        "origin": "V. Eisenmenger (eponim)"
+      }
+    },
+    {
+      "title": "Duktus-bağımlı lezyon",
+      "text": "Ductal-dependent lesion\nPulmoner veya sistemik akımın (ya da karışımın) açık duktusa bağlı olduğu lezyon; PGE1 gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1dxsm5q",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Duktus-bağımlı lezyon",
+        "en": "Ductal-dependent lesion",
+        "definition": "Pulmoner veya sistemik akımın (ya da karışımın) açık duktusa bağlı olduğu lezyon; PGE1 gerektirir."
+      }
+    },
+    {
+      "title": "Paralel dolaşım",
+      "text": "Parallel circulation\nD-TGA'da sistemik ve pulmoner dolaşımın seri değil paralel çalışması; yaşam için karışım gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0672c6t",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Paralel dolaşım",
+        "en": "Parallel circulation",
+        "definition": "D-TGA'da sistemik ve pulmoner dolaşımın seri değil paralel çalışması; yaşam için karışım gerekir."
+      }
+    },
+    {
+      "title": "Tek ventrikül fizyolojisi",
+      "text": "Single-ventricle physiology\nTek fonksiyonel ventrikülün hem sistemik hem pulmoner akımı sağlaması; Qp/Qs dengesi kritiktir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1ut4vy9",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Tek ventrikül fizyolojisi",
+        "en": "Single-ventricle physiology",
+        "definition": "Tek fonksiyonel ventrikülün hem sistemik hem pulmoner akımı sağlaması; Qp/Qs dengesi kritiktir."
+      }
+    },
+    {
+      "title": "Çomak parmak",
+      "text": "Clubbing\nKronik siyanozda parmak uçları ve tırnak yatağının genişlemesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-0d9s43w",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Çomak parmak",
+        "en": "Clubbing",
+        "definition": "Kronik siyanozda parmak uçları ve tırnak yatağının genişlemesi."
+      }
+    },
+    {
+      "title": "Polisitemi",
+      "text": "Polycythemia\nKronik hipoksemiye yanıt olarak eritrosit kütlesinin artması.\nYun. polys + kytos + haima",
+      "images": [],
+      "card": {
+        "id": "PER241-0tejjoy",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Polisitemi",
+        "en": "Polycythemia",
+        "definition": "Kronik hipoksemiye yanıt olarak eritrosit kütlesinin artması.",
+        "origin": "Yun. polys + kytos + haima"
+      }
+    },
+    {
+      "title": "Diyastolik kaçak",
+      "text": "Diastolic run-off\nDiyastolde aortadan düşük dirençli yatağa (PDA, şant) akım; diyastolik basınç ve koroner perfüzyon düşer.",
+      "images": [],
+      "card": {
+        "id": "PER241-15sc2yh",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Diyastolik kaçak",
+        "en": "Diastolic run-off",
+        "definition": "Diyastolde aortadan düşük dirençli yatağa (PDA, şant) akım; diyastolik basınç ve koroner perfüzyon düşer."
+      }
+    },
+    {
+      "title": "SIRS",
+      "text": "Systemic inflammatory response syndrome\nKPB'nin tetiklediği nonspesifik sistemik inflamatuvar yanıt.",
+      "images": [],
+      "card": {
+        "id": "PER241-15xi18i",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "term": "SIRS",
+        "en": "Systemic inflammatory response syndrome",
+        "definition": "KPB'nin tetiklediği nonspesifik sistemik inflamatuvar yanıt."
+      }
+    },
+    {
+      "title": "22q11 delesyonu",
+      "text": "22q11 deletion syndrome\nKonotrunkal anomalilerle ilişkili kromozomal delesyon; trunkus arteriyozus, Fallot tetralojisi ve kesintili aortik arkla birliktelik gösterebilir.\nA. DiGeorge (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0u5ivce",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "22q11 delesyonu",
+        "en": "22q11 deletion syndrome",
+        "definition": "Konotrunkal anomalilerle ilişkili kromozomal delesyon; trunkus arteriyozus, Fallot tetralojisi ve kesintili aortik arkla birliktelik gösterebilir.",
+        "origin": "A. DiGeorge (eponim)"
+      }
+    },
+    {
+      "title": "KKH'nin iki klinik grubu",
+      "text": "Siyanotik lezyon\nDeoksijenize kan sistemik dolaşıma karışır\nÖrnek: Fallot tetralojisi\n\nAsiyanotik lezyon\nSoldan sağa şant veya obstrüksiyon olabilir\nÖrnek: atriyal septal defekt",
+      "images": [],
+      "card": {
+        "id": "PER241-1f4u6gj",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "KKH'nin iki klinik grubu",
+        "left": {
+          "title": "Siyanotik lezyon",
+          "points": [
+            "Deoksijenize kan sistemik dolaşıma karışır",
+            "Örnek: Fallot tetralojisi"
+          ]
+        },
+        "right": {
+          "title": "Asiyanotik lezyon",
+          "points": [
+            "Soldan sağa şant veya obstrüksiyon olabilir",
+            "Örnek: atriyal septal defekt"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Şantın yönü",
+      "text": "Soldan sağa şant\nOksijenli kan pulmoner dolaşıma döner\nPulmoner aşırı akım görülebilir\n\nSağdan sola şant\nDeoksijenize kan sistemik dolaşıma geçer\nSiyanoz görülebilir",
+      "images": [],
+      "card": {
+        "id": "PER241-1qyn2r8",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Şantın yönü",
+        "left": {
+          "title": "Soldan sağa şant",
+          "points": [
+            "Oksijenli kan pulmoner dolaşıma döner",
+            "Pulmoner aşırı akım görülebilir"
+          ]
+        },
+        "right": {
+          "title": "Sağdan sola şant",
+          "points": [
+            "Deoksijenize kan sistemik dolaşıma geçer",
+            "Siyanoz görülebilir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Pulmoner hipertansiyonun bağlamı",
+      "text": "Eisenmenger sendromu\nUzun süreli şantla damar hastalığı gelişir\nŞantın tersine dönmesiyle siyanoz oluşur\n\nPPHN\nFetal yüksek pulmoner direnç devam eder\nYenidoğanın geçiş dolaşımı bozukluğudur",
+      "images": [],
+      "card": {
+        "id": "PER241-0drkx6h",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Pulmoner hipertansiyonun bağlamı",
+        "left": {
+          "title": "Eisenmenger sendromu",
+          "points": [
+            "Uzun süreli şantla damar hastalığı gelişir",
+            "Şantın tersine dönmesiyle siyanoz oluşur"
+          ]
+        },
+        "right": {
+          "title": "PPHN",
+          "points": [
+            "Fetal yüksek pulmoner direnç devam eder",
+            "Yenidoğanın geçiş dolaşımı bozukluğudur"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Merck'in KKH sınıflaması",
+      "text": "Konjenital kalp hastalıkları **siyanotik**, soldan sağa şantlı asiyanotik ve obstrüktif lezyonlar olarak gruplandırılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1v0cfwz",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Merck'in KKH sınıflaması",
+        "body": "Konjenital kalp hastalıkları **siyanotik**, soldan sağa şantlı asiyanotik ve obstrüktif lezyonlar olarak gruplandırılır."
+      }
+    },
+    {
+      "title": "KKH'nin kalıtsal ilişkileri",
+      "text": "Kromozomal anomaliler ve tek gen hastalıkları KKH ile ilişkili olabilir; **her olguda tanımlanabilir bir genetik neden bulunmaz**.",
+      "images": [],
+      "card": {
+        "id": "PER241-06g68oh",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "KKH'nin kalıtsal ilişkileri",
+        "body": "Kromozomal anomaliler ve tek gen hastalıkları KKH ile ilişkili olabilir; **her olguda tanımlanabilir bir genetik neden bulunmaz**."
+      }
+    },
+    {
+      "title": "Down sendromunda sık eşleşme",
+      "text": "**Komplet atriyoventriküler septal defekt**, Down sendromuyla güçlü birliktelik gösterir.",
+      "images": [],
+      "card": {
+        "id": "PER241-09on6ch",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Down sendromunda sık eşleşme",
+        "body": "**Komplet atriyoventriküler septal defekt**, Down sendromuyla güçlü birliktelik gösterir."
+      }
+    },
+    {
+      "title": "Turner sendromunda aort",
+      "text": "Turner sendromuyla ilişkili kardiyovasküler lezyonlardan biri **aort koarktasyonudur**.",
+      "images": [],
+      "card": {
+        "id": "PER241-1u2rd48",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Turner sendromunda aort",
+        "body": "Turner sendromuyla ilişkili kardiyovasküler lezyonlardan biri **aort koarktasyonudur**."
+      }
+    },
+    {
+      "title": "22q11 delesyonunda çıkış yolu",
+      "text": "**Persistan trunkus arteriyozus** ve diğer konotrunkal anomaliler, 22q11 delesyonuyla ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0y1gub1",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "22q11 delesyonunda çıkış yolu",
+        "body": "**Persistan trunkus arteriyozus** ve diğer konotrunkal anomaliler, 22q11 delesyonuyla ilişkilidir."
+      }
+    },
+    {
+      "title": "Eisenmenger'de şant neden tersine döner?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0rf32ju",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Eisenmenger'de şant neden tersine döner?",
+        "answer": "Kronik yüksek pulmoner akımın yol açtığı **pulmoner vasküler hastalık**, direnci artırarak net akımı sağdan sola çevirebilir."
+      }
+    },
+    {
+      "title": "Eisenmenger'de defekt kapatma",
+      "text": "İleri geri dönüşsüz pulmoner vasküler hastalık gelişmiş **Eisenmenger sendromunda defekt kapatma uygun değildir**.",
+      "images": [],
+      "card": {
+        "id": "PER241-0yeyzt2",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Eisenmenger'de defekt kapatma",
+        "body": "İleri geri dönüşsüz pulmoner vasküler hastalık gelişmiş **Eisenmenger sendromunda defekt kapatma uygun değildir**."
+      }
+    },
+    {
+      "title": "Kronik siyanozun kan bulgusu",
+      "text": "Uzun süreli hipoksemiye yanıt olarak **eritrosit kütlesi artabilir**; sekonder eritrositoz gelişir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1stv0gn",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Kronik siyanozun kan bulgusu",
+        "body": "Uzun süreli hipoksemiye yanıt olarak **eritrosit kütlesi artabilir**; sekonder eritrositoz gelişir."
+      }
+    },
+    {
+      "title": "Karışım da duktusa bağlı olabilir",
+      "text": "Büyük arter transpozisyonunda duktusun açıklığı yalnız akım için değil, **iki dolaşım arasında karışım** için de önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-04ycu4v",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Karışım da duktusa bağlı olabilir",
+        "body": "Büyük arter transpozisyonunda duktusun açıklığı yalnız akım için değil, **iki dolaşım arasında karışım** için de önemlidir."
+      }
+    },
+    {
+      "title": "Duktus kapanmasının sistemik sonucu",
+      "text": "Hipoplastik sol kalp ve kritik aortik obstrüksiyonda duktusun kapanması **sistemik hipoperfüzyon ve şok** oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0d186z2",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Duktus kapanmasının sistemik sonucu",
+        "body": "Hipoplastik sol kalp ve kritik aortik obstrüksiyonda duktusun kapanması **sistemik hipoperfüzyon ve şok** oluşturabilir."
+      }
+    },
+    {
+      "title": "Qp/Qs'nin satürasyon formülü",
+      "text": "Fick ilkesinden: **Qp/Qs = (SaO2 − SvO2) / (SpvO2 − SpaO2)**. Sa: sistemik arter; Sv: karışık ven; Spv: pulmoner ven; Spa: pulmoner arter.",
+      "images": [],
+      "card": {
+        "id": "PER241-0p8fz52",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Qp/Qs'nin satürasyon formülü",
+        "body": "Fick ilkesinden: **Qp/Qs = (SaO2 − SvO2) / (SpvO2 − SpaO2)**. Sa: sistemik arter; Sv: karışık ven; Spv: pulmoner ven; Spa: pulmoner arter."
+      }
+    },
+    {
+      "title": "Uzun süreli siyanozda parmak uçlarının genişlemesi hangi terimle ifade edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1h0bdvb",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Uzun süreli siyanozda parmak uçlarının genişlemesi hangi terimle ifade edilir?",
+        "options": [
+          "Diferansiyel siyanoz",
+          "Çomak parmak",
+          "Taşipne",
+          "Hepatomegali"
+        ],
+        "correct": 1,
+        "explanation": "Çomak parmak kronik hipokseminin periferik bulgularındandır."
+      }
+    },
+    {
+      "title": "Qp/Qs oranının payında hangi akım bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-076p3cz",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "Qp/Qs oranının payında hangi akım bulunur?",
+        "options": [
+          "Sistemik akım",
+          "Koroner akım",
+          "Pulmoner akım",
+          "Portal akım"
+        ],
+        "correct": 2,
+        "explanation": "Qp pulmoner, Qs sistemik akımı ifade eder."
+      }
+    },
+    {
+      "title": "Eisenmenger sendromunun en sık başlangıç lezyonu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0d71muj",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Eisenmenger sendromunun en sık başlangıç lezyonu hangisidir?",
+        "options": [
+          "Biküspit aort kapağı",
+          "İzole pulmoner stenoz",
+          "Aort kapak yetersizliği",
+          "Ventriküler septal defekt"
+        ],
+        "correct": 3,
+        "explanation": "Merck'e göre en sık neden büyük VSD'dir; kronik şant pulmoner damar hastalığına ilerler."
+      }
+    },
+    {
+      "title": "Merck'e göre en sık siyanotik konjenital kalp hastalığı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1t6om0b",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Merck'e göre en sık siyanotik konjenital kalp hastalığı hangisidir?",
+        "options": [
+          "Fallot tetralojisi",
+          "Hipoplastik sol kalp",
+          "Triküspit atrezisi",
+          "Ebstein anomalisi"
+        ],
+        "correct": 0,
+        "explanation": "Fallot tetralojisi en sık siyanotik KKH olarak belirtilir."
+      }
+    },
+    {
+      "title": "Aşağıdaki lezyonlardan hangisinde sistemik akım duktusa bağımlıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0um4r2m",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Aşağıdaki lezyonlardan hangisinde sistemik akım duktusa bağımlıdır?",
+        "options": [
+          "Küçük sekundum ASD",
+          "Hipoplastik sol kalp sendromu",
+          "Küçük musküler VSD",
+          "Hafif pulmoner stenoz"
+        ],
+        "correct": 1,
+        "explanation": "HLHS'de sağ ventrikülün kanı açık duktus üzerinden sistemik dolaşıma ulaşır."
+      }
+    },
+    {
+      "title": "Asiyanotik KKH grubunda obstrüktif lezyonlar bulunabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0p05ani",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Asiyanotik KKH grubunda obstrüktif lezyonlar bulunabilir.",
+        "isTrue": true,
+        "explanation": "Merck sınıflaması soldan sağa şantların yanında obstrüktif grubu da ayırır."
+      }
+    },
+    {
+      "title": "Eisenmenger sendromunda ilerleyen damar hastalığı pulmoner vasküler direnci düşürür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1s4aupq",
+        "course": "PER241",
+        "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Eisenmenger sendromunda ilerleyen damar hastalığı pulmoner vasküler direnci düşürür.",
+        "isTrue": false,
+        "explanation": "Pulmoner vasküler direnç yükselir ve net şant sağdan sola dönebilir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-1ckufrm",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Siyanoz",
+      "en": "Cyanosis",
+      "definition": "Deri ve mukozalarda deoksijenize hemoglobinin artmasına bağlı mavi-mor renk değişikliği.",
+      "origin": "Yun. kyanos = koyu mavi"
+    },
+    {
+      "id": "PER241-0b2zhmv",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Asiyanotik",
+      "en": "Acyanotic",
+      "definition": "Siyanoza yol açmayan lezyon (çoğunlukla soldan sağa şantlı veya obstrüktif).",
+      "origin": "a- = olumsuzluk + siyanotik"
+    },
+    {
+      "id": "PER241-1c7fagv",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Diferansiyel siyanoz",
+      "en": "Differential cyanosis",
+      "definition": "Pre- ve postduktal satürasyon farkı (alt vücudun daha siyanotik olması); PPHN, IAA, kritik koarktasyonda."
+    },
+    {
+      "id": "PER241-1xyr6qj",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Şant",
+      "en": "Shunt",
+      "definition": "Kanın normal dolaşım yolundan sapması (soldan sağa, sağdan sola veya çift yönlü).",
+      "origin": "İng. shunt = saptırmak"
+    },
+    {
+      "id": "PER241-1mlh1jm",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Soldan sağa şant",
+      "en": "Left-to-right shunt",
+      "definition": "Oksijenli kanın sol kalpten sağ kalbe/pulmoner dolaşıma geçmesi; pulmoner aşırı dolaşım, siyanoz yok."
+    },
+    {
+      "id": "PER241-057j2co",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Sağdan sola şant",
+      "en": "Right-to-left shunt",
+      "definition": "Deoksijenize kanın akciğeri atlayarak sistemik dolaşıma geçmesi; siyanoz."
+    },
+    {
+      "id": "PER241-0fgbyzp",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Qp/Qs",
+      "en": "Pulmonary-to-systemic flow ratio",
+      "definition": "Pulmoner kan akımının sistemik kan akımına oranı; şantın net yönünü ve miktarını değerlendirmede kullanılır.",
+      "origin": "Q = akım"
+    },
+    {
+      "id": "PER241-08bfdka",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "LITFL fetal dolaşım",
+      "term": "Pulmoner vasküler direnç",
+      "en": "Pulmonary vascular resistance",
+      "definition": "Pulmoner dolaşımın akıma direnci; doğumda düşer, şantın yön ve miktarını belirler."
+    },
+    {
+      "id": "PER241-1s8zejw",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Eisenmenger sendromu",
+      "en": "Eisenmenger syndrome",
+      "definition": "Uzun süreli soldan sağa şantın pulmoner vasküler hastalık sonucu sağdan sola dönmesi; geri dönüşsüz.",
+      "origin": "V. Eisenmenger (eponim)"
+    },
+    {
+      "id": "PER241-1dxsm5q",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Duktus-bağımlı lezyon",
+      "en": "Ductal-dependent lesion",
+      "definition": "Pulmoner veya sistemik akımın (ya da karışımın) açık duktusa bağlı olduğu lezyon; PGE1 gerektirir."
+    },
+    {
+      "id": "PER241-0672c6t",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Paralel dolaşım",
+      "en": "Parallel circulation",
+      "definition": "D-TGA'da sistemik ve pulmoner dolaşımın seri değil paralel çalışması; yaşam için karışım gerekir."
+    },
+    {
+      "id": "PER241-1ut4vy9",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Tek ventrikül fizyolojisi",
+      "en": "Single-ventricle physiology",
+      "definition": "Tek fonksiyonel ventrikülün hem sistemik hem pulmoner akımı sağlaması; Qp/Qs dengesi kritiktir."
+    },
+    {
+      "id": "PER241-0d9s43w",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Çomak parmak",
+      "en": "Clubbing",
+      "definition": "Kronik siyanozda parmak uçları ve tırnak yatağının genişlemesi."
+    },
+    {
+      "id": "PER241-0tejjoy",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Polisitemi",
+      "en": "Polycythemia",
+      "definition": "Kronik hipoksemiye yanıt olarak eritrosit kütlesinin artması.",
+      "origin": "Yun. polys + kytos + haima"
+    },
+    {
+      "id": "PER241-15sc2yh",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Diyastolik kaçak",
+      "en": "Diastolic run-off",
+      "definition": "Diyastolde aortadan düşük dirençli yatağa (PDA, şant) akım; diyastolik basınç ve koroner perfüzyon düşer."
+    },
+    {
+      "id": "PER241-15xi18i",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "SIRS",
+      "en": "Systemic inflammatory response syndrome",
+      "definition": "KPB'nin tetiklediği nonspesifik sistemik inflamatuvar yanıt."
+    },
+    {
+      "id": "PER241-0u5ivce",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "22q11 delesyonu",
+      "en": "22q11 deletion syndrome",
+      "definition": "Konotrunkal anomalilerle ilişkili kromozomal delesyon; trunkus arteriyozus, Fallot tetralojisi ve kesintili aortik arkla birliktelik gösterebilir.",
+      "origin": "A. DiGeorge (eponim)"
+    },
+    {
+      "id": "PER241-1f4u6gj",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "KKH'nin iki klinik grubu",
+      "left": {
+        "title": "Siyanotik lezyon",
+        "points": [
+          "Deoksijenize kan sistemik dolaşıma karışır",
+          "Örnek: Fallot tetralojisi"
+        ]
+      },
+      "right": {
+        "title": "Asiyanotik lezyon",
+        "points": [
+          "Soldan sağa şant veya obstrüksiyon olabilir",
+          "Örnek: atriyal septal defekt"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1qyn2r8",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Şantın yönü",
+      "left": {
+        "title": "Soldan sağa şant",
+        "points": [
+          "Oksijenli kan pulmoner dolaşıma döner",
+          "Pulmoner aşırı akım görülebilir"
+        ]
+      },
+      "right": {
+        "title": "Sağdan sola şant",
+        "points": [
+          "Deoksijenize kan sistemik dolaşıma geçer",
+          "Siyanoz görülebilir"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0drkx6h",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pulmoner hipertansiyonun bağlamı",
+      "left": {
+        "title": "Eisenmenger sendromu",
+        "points": [
+          "Uzun süreli şantla damar hastalığı gelişir",
+          "Şantın tersine dönmesiyle siyanoz oluşur"
+        ]
+      },
+      "right": {
+        "title": "PPHN",
+        "points": [
+          "Fetal yüksek pulmoner direnç devam eder",
+          "Yenidoğanın geçiş dolaşımı bozukluğudur"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1v0cfwz",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Merck'in KKH sınıflaması",
+      "body": "Konjenital kalp hastalıkları **siyanotik**, soldan sağa şantlı asiyanotik ve obstrüktif lezyonlar olarak gruplandırılır."
+    },
+    {
+      "id": "PER241-06g68oh",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "KKH'nin kalıtsal ilişkileri",
+      "body": "Kromozomal anomaliler ve tek gen hastalıkları KKH ile ilişkili olabilir; **her olguda tanımlanabilir bir genetik neden bulunmaz**."
+    },
+    {
+      "id": "PER241-09on6ch",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Down sendromunda sık eşleşme",
+      "body": "**Komplet atriyoventriküler septal defekt**, Down sendromuyla güçlü birliktelik gösterir."
+    },
+    {
+      "id": "PER241-1u2rd48",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Turner sendromunda aort",
+      "body": "Turner sendromuyla ilişkili kardiyovasküler lezyonlardan biri **aort koarktasyonudur**."
+    },
+    {
+      "id": "PER241-0y1gub1",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "22q11 delesyonunda çıkış yolu",
+      "body": "**Persistan trunkus arteriyozus** ve diğer konotrunkal anomaliler, 22q11 delesyonuyla ilişkilidir."
+    },
+    {
+      "id": "PER241-0rf32ju",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Eisenmenger'de şant neden tersine döner?",
+      "answer": "Kronik yüksek pulmoner akımın yol açtığı **pulmoner vasküler hastalık**, direnci artırarak net akımı sağdan sola çevirebilir."
+    },
+    {
+      "id": "PER241-0yeyzt2",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Eisenmenger'de defekt kapatma",
+      "body": "İleri geri dönüşsüz pulmoner vasküler hastalık gelişmiş **Eisenmenger sendromunda defekt kapatma uygun değildir**."
+    },
+    {
+      "id": "PER241-1stv0gn",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Kronik siyanozun kan bulgusu",
+      "body": "Uzun süreli hipoksemiye yanıt olarak **eritrosit kütlesi artabilir**; sekonder eritrositoz gelişir."
+    },
+    {
+      "id": "PER241-04ycu4v",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Karışım da duktusa bağlı olabilir",
+      "body": "Büyük arter transpozisyonunda duktusun açıklığı yalnız akım için değil, **iki dolaşım arasında karışım** için de önemlidir."
+    },
+    {
+      "id": "PER241-0d186z2",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Duktus kapanmasının sistemik sonucu",
+      "body": "Hipoplastik sol kalp ve kritik aortik obstrüksiyonda duktusun kapanması **sistemik hipoperfüzyon ve şok** oluşturabilir."
+    },
+    {
+      "id": "PER241-0p8fz52",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Qp/Qs'nin satürasyon formülü",
+      "body": "Fick ilkesinden: **Qp/Qs = (SaO2 − SvO2) / (SpvO2 − SpaO2)**. Sa: sistemik arter; Sv: karışık ven; Spv: pulmoner ven; Spa: pulmoner arter."
+    },
+    {
+      "id": "PER241-1h0bdvb",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Uzun süreli siyanozda parmak uçlarının genişlemesi hangi terimle ifade edilir?",
+      "options": [
+        "Diferansiyel siyanoz",
+        "Çomak parmak",
+        "Taşipne",
+        "Hepatomegali"
+      ],
+      "correct": 1,
+      "explanation": "Çomak parmak kronik hipokseminin periferik bulgularındandır."
+    },
+    {
+      "id": "PER241-076p3cz",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Qp/Qs oranının payında hangi akım bulunur?",
+      "options": [
+        "Sistemik akım",
+        "Koroner akım",
+        "Pulmoner akım",
+        "Portal akım"
+      ],
+      "correct": 2,
+      "explanation": "Qp pulmoner, Qs sistemik akımı ifade eder."
+    },
+    {
+      "id": "PER241-0d71muj",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Eisenmenger sendromunun en sık başlangıç lezyonu hangisidir?",
+      "options": [
+        "Biküspit aort kapağı",
+        "İzole pulmoner stenoz",
+        "Aort kapak yetersizliği",
+        "Ventriküler septal defekt"
+      ],
+      "correct": 3,
+      "explanation": "Merck'e göre en sık neden büyük VSD'dir; kronik şant pulmoner damar hastalığına ilerler."
+    },
+    {
+      "id": "PER241-1t6om0b",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Merck'e göre en sık siyanotik konjenital kalp hastalığı hangisidir?",
+      "options": [
+        "Fallot tetralojisi",
+        "Hipoplastik sol kalp",
+        "Triküspit atrezisi",
+        "Ebstein anomalisi"
+      ],
+      "correct": 0,
+      "explanation": "Fallot tetralojisi en sık siyanotik KKH olarak belirtilir."
+    },
+    {
+      "id": "PER241-0um4r2m",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Aşağıdaki lezyonlardan hangisinde sistemik akım duktusa bağımlıdır?",
+      "options": [
+        "Küçük sekundum ASD",
+        "Hipoplastik sol kalp sendromu",
+        "Küçük musküler VSD",
+        "Hafif pulmoner stenoz"
+      ],
+      "correct": 1,
+      "explanation": "HLHS'de sağ ventrikülün kanı açık duktus üzerinden sistemik dolaşıma ulaşır."
+    },
+    {
+      "id": "PER241-0p05ani",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Asiyanotik KKH grubunda obstrüktif lezyonlar bulunabilir.",
+      "isTrue": true,
+      "explanation": "Merck sınıflaması soldan sağa şantların yanında obstrüktif grubu da ayırır."
+    },
+    {
+      "id": "PER241-1s4aupq",
+      "course": "PER241",
+      "topic": "KKH sınıflaması, Qp/Qs ve Eisenmenger",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Eisenmenger sendromunda ilerleyen damar hastalığı pulmoner vasküler direnci düşürür.",
+      "isTrue": false,
+      "explanation": "Pulmoner vasküler direnç yükselir ve net şant sağdan sola dönebilir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

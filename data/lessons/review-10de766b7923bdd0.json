@@ -1,0 +1,644 @@
+{
+  "id": "review-10de766b7923bdd0",
+  "title": "Depolama, raf ömrü ve taşıma",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Raf ömrü",
+      "text": "Shelf life\nÜrünün etkin kaldığı süre; sterilize ürünün steril kalmasının beklendiği süre.",
+      "images": [],
+      "card": {
+        "id": "PER247-1t0r3pd",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Raf ömrü",
+        "definition": "Ürünün etkin kaldığı süre; sterilize ürünün steril kalmasının beklendiği süre.",
+        "en": "Shelf life"
+      }
+    },
+    {
+      "title": "Olaya bağlı sterilite",
+      "text": "Event-related shelf life\nKontaminasyona yol açan bir olay (yırtılma, ıslanma, mühür bozulması) olmadıkça ürünün steril kabul edilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-04dirsx",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Olaya bağlı sterilite",
+        "definition": "Kontaminasyona yol açan bir olay (yırtılma, ıslanma, mühür bozulması) olmadıkça ürünün steril kabul edilmesi.",
+        "en": "Event-related shelf life"
+      }
+    },
+    {
+      "title": "Polietilen dış örtü",
+      "text": "3-mil polyethylene overwrap\nSterilizasyon sonrasında paket üzerine uygulanan koruyucu örtü. Steriliteyi koruyabilmesi uygun kapatma ve paket bütünlüğüne bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0evwpts",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Polietilen dış örtü",
+        "definition": "Sterilizasyon sonrasında paket üzerine uygulanan koruyucu örtü. Steriliteyi koruyabilmesi uygun kapatma ve paket bütünlüğüne bağlıdır.",
+        "en": "3-mil polyethylene overwrap"
+      }
+    },
+    {
+      "title": "İlk giren ilk çıkar",
+      "text": "First in, first out (FIFO)\nÖnce sterilize edilen malzemenin önce kullanılması.",
+      "images": [],
+      "card": {
+        "id": "PER247-1yx7nx8",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "term",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "İlk giren ilk çıkar",
+        "definition": "Önce sterilize edilen malzemenin önce kullanılması.",
+        "en": "First in, first out (FIFO)"
+      }
+    },
+    {
+      "title": "Cep depo",
+      "text": "Satellite storage\nMSÜ dışındaki kullanıcı birimlerde steril malzemenin bekletildiği küçük teslim/depolama alanı. Bekletme süresine göre depo koşulları sağlanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-00jmwwf",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "term",
+        "importance": 1,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "Cep depo",
+        "definition": "MSÜ dışındaki kullanıcı birimlerde steril malzemenin bekletildiği küçük teslim/depolama alanı. Bekletme süresine göre depo koşulları sağlanır.",
+        "en": "Satellite storage"
+      }
+    },
+    {
+      "title": "Raf ömrü ve kullanım ömrü",
+      "text": "Raf ömrü\nÜrünün etkin/steril kalmasının beklendiği süre\nSteril pakette ambalaj bütünlüğü ve saklama koşulları önemlidir\n\nKullanım ömrü\nSeyreltilmiş ürünün etkin kaldığı süre\nHazırlanmış germisit çözeltisinin kullanımını tanımlar",
+      "images": [],
+      "card": {
+        "id": "PER247-0cfkfy4",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "compare",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Raf ömrü ve kullanım ömrü",
+        "left": {
+          "title": "Raf ömrü",
+          "points": [
+            "Ürünün etkin/steril kalmasının beklendiği süre",
+            "Steril pakette ambalaj bütünlüğü ve saklama koşulları önemlidir"
+          ]
+        },
+        "right": {
+          "title": "Kullanım ömrü",
+          "points": [
+            "Seyreltilmiş ürünün etkin kaldığı süre",
+            "Hazırlanmış germisit çözeltisinin kullanımını tanımlar"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Türkiye’de steril depo koşulları",
+      "text": "SKS değerlendirmesinde steril depo **22 °C’yi ve %60 nemi aşmamalıdır**; değerler günlük izlenir. CDC’nin daha farklı sınırları bulunduğundan kaynağın adı belirtilmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1241dbo",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "fact",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Türkiye’de steril depo koşulları",
+        "body": "SKS değerlendirmesinde steril depo **22 °C’yi ve %60 nemi aşmamalıdır**; değerler günlük izlenir. CDC’nin daha farklı sınırları bulunduğundan kaynağın adı belirtilmelidir."
+      }
+    },
+    {
+      "title": "SKS raf mesafeleri",
+      "text": "SKS’de raflar **zeminden 30 cm**, **tavandan 50 cm**, duvardan 5 cm uzak düzenlenir. CDC/WHO farklı mesafeler verir; bu değerler Türkiye’deki SKS bağlamıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1urdhm3",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "fact",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "SKS raf mesafeleri",
+        "body": "SKS’de raflar **zeminden 30 cm**, **tavandan 50 cm**, duvardan 5 cm uzak düzenlenir. CDC/WHO farklı mesafeler verir; bu değerler Türkiye’deki SKS bağlamıdır."
+      }
+    },
+    {
+      "title": "Depoda FIFO ilkesi",
+      "text": "Steril malzemede **ilk giren ilk çıkar** ilkesi uygulanır. SKS’ye göre depo ve kullanım yerlerinde son kullanma tarihi geçmiş steril malzeme bulundurulmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1hp8m2h",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "fact",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Depoda FIFO ilkesi",
+        "body": "Steril malzemede **ilk giren ilk çıkar** ilkesi uygulanır. SKS’ye göre depo ve kullanım yerlerinde son kullanma tarihi geçmiş steril malzeme bulundurulmaz."
+      }
+    },
+    {
+      "title": "Yere düşen sağlam paket",
+      "text": "Yere düşen paket hasar yönünden incelenir. CDC’ye göre geçirimsiz plastikle **ısıyla kapatılmış ve mührü sağlam** paket, yalnız düşmesi nedeniyle otomatik kontamine sayılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-0t3g7ar",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Yere düşen sağlam paket",
+        "body": "Yere düşen paket hasar yönünden incelenir. CDC’ye göre geçirimsiz plastikle **ısıyla kapatılmış ve mührü sağlam** paket, yalnız düşmesi nedeniyle otomatik kontamine sayılmaz."
+      }
+    },
+    {
+      "title": "Kuruma bağlı raf ömrü örneği",
+      "text": "ÇOMÜ 2024 prosedüründe poşet için **en fazla 6 ay**, çift wrap/tekstil için **30 gün** verilir. Bu süreler bütün kurumlar için ulusal standart değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-175zpki",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "fact",
+        "importance": 1,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "title": "Kuruma bağlı raf ömrü örneği",
+        "body": "ÇOMÜ 2024 prosedüründe poşet için **en fazla 6 ay**, çift wrap/tekstil için **30 gün** verilir. Bu süreler bütün kurumlar için ulusal standart değildir."
+      }
+    },
+    {
+      "title": "Olaya bağlı sterilitede hangi olaylar paketi sorgulatır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0uxo6qb",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Olaya bağlı sterilitede hangi olaylar paketi sorgulatır?",
+        "answer": "**Yırtılma, delinme, ıslanma veya kapatmanın bozulması**. Paket bütünlüğünün korunması, yalnız geçen gün sayısından daha doğrudan bir kontaminasyon göstergesidir."
+      }
+    },
+    {
+      "title": "Lavabo altı neden steril paket deposu değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-092c0r8",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Lavabo altı neden steril paket deposu değildir?",
+        "answer": "**Su, sızıntı ve nem riski** yüksektir. Depolama yeri, ambalajı çevresel sudan ve kirden koruyacak şekilde seçilir."
+      }
+    },
+    {
+      "title": "Cep depoda uzun bekletmenin sonucu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-133a37r",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "flip",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "Cep depoda uzun bekletmenin sonucu nedir?",
+        "answer": "SKS’ye göre **24 saatten fazla** bekletiliyorsa sıcaklık, nem ve depo koşulları burada da sağlanır. MSÜ dışında olması steriliteyi koruma sorumluluğunu kaldırmaz."
+      }
+    },
+    {
+      "title": "Bariyer bozulduysa kullanma",
+      "text": "**Islak, yırtık veya delinmiş** steril paket kullanıma verilmez. Paket sorunu saptanınca uygun yeniden işleme süreciyle değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ygkstg",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Bariyer bozulduysa kullanma",
+        "body": "**Islak, yırtık veya delinmiş** steril paket kullanıma verilmez. Paket sorunu saptanınca uygun yeniden işleme süreciyle değerlendirilir."
+      }
+    },
+    {
+      "title": "Steril paketler için CDC’nin tercih ettiği depolama düzeni hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1hlmdfd",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Steril paketler için CDC’nin tercih ettiği depolama düzeni hangisidir?",
+        "options": [
+          "Temiz fakat örtüsüz açık raf",
+          "Personel geçişine açık temiz raf",
+          "Kuru açık taşıma arabası",
+          "Kapalı veya örtülü dolap"
+        ],
+        "correct": 3,
+        "explanation": "CDC **kapalı veya örtülü dolapları ideal** sayar; uygun açık raflar da kullanılabilir. Depo su, toz ve aşırı elleçlemeden korunur."
+      }
+    },
+    {
+      "title": "Raflarda steril ürünlerin kontaminasyon riskini artıran çevre etkeni hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-174aacf",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Raflarda steril ürünlerin kontaminasyon riskini artıran çevre etkeni hangisidir?",
+        "options": [
+          "Haşere veya su baskını",
+          "Sınırlı erişim sağlanması",
+          "Ambalaj bütünlüğünün korunması",
+          "Temiz kapalı dolap kullanımı"
+        ],
+        "correct": 0,
+        "explanation": "CDC olaya bağlı sterilitede **böcek, haşere ve su baskını** gibi çevresel olayları da dikkate alır. Depo yalnız takvim süresiyle değerlendirilmez."
+      }
+    },
+    {
+      "title": "Steril paketin kontaminasyon olasılığını artıran etken hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1coh2xx",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Steril paketin kontaminasyon olasılığını artıran etken hangisidir?",
+        "options": [
+          "Ambalaj mührünün korunması",
+          "Elleçleme sayısının artması",
+          "Kuru ortamın sağlanması",
+          "Trafiğin sınırlandırılması"
+        ],
+        "correct": 1,
+        "explanation": "CDC’ye göre paketle temas/elleçleme arttıkça **kontaminasyon olasılığı artar**."
+      }
+    },
+    {
+      "title": "Steril malzeme transferine uygun araç hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0z5iiul",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+        "question": "Steril malzeme transferine uygun araç hangisidir?",
+        "options": [
+          "Ortak kirli malzeme tepsisi",
+          "Açık atık taşıma kovası",
+          "Kapalı temiz taşıma kutusu",
+          "Lavabo altı toplama sepeti"
+        ],
+        "correct": 2,
+        "explanation": "Kurum prosedürü steril malzemeyi **kapalı kutu/arabayla** taşır; bariyer bütünlüğü korunur."
+      }
+    },
+    {
+      "title": "Bir paketin elleçlenmesi arttıkça kontaminasyon olasılığı artabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-02kskm3",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Bir paketin elleçlenmesi arttıkça kontaminasyon olasılığı artabilir.",
+        "isTrue": true,
+        "explanation": "Elleçleme, olaya bağlı sterilitenin değerlendirilmesinde dikkate alınan etkenlerdendir."
+      }
+    },
+    {
+      "title": "Isıyla kapatılmış sağlam plastik paket, yere düşmüş olması nedeniyle koşulsuz kontamine sayılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-056n18c",
+        "course": "PER247",
+        "topic": "Depolama, raf ömrü ve taşıma",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Isıyla kapatılmış sağlam plastik paket, yere düşmüş olması nedeniyle koşulsuz kontamine sayılır.",
+        "isTrue": false,
+        "explanation": "CDC, **mührü sağlam geçirimsiz plastik paketin** yalnız düşmekle kontamine sayılmadığını belirtir; hasar incelenir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-1t0r3pd",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Raf ömrü",
+      "definition": "Ürünün etkin kaldığı süre; sterilize ürünün steril kalmasının beklendiği süre.",
+      "en": "Shelf life"
+    },
+    {
+      "id": "PER247-04dirsx",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Olaya bağlı sterilite",
+      "definition": "Kontaminasyona yol açan bir olay (yırtılma, ıslanma, mühür bozulması) olmadıkça ürünün steril kabul edilmesi.",
+      "en": "Event-related shelf life"
+    },
+    {
+      "id": "PER247-0evwpts",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Polietilen dış örtü",
+      "definition": "Sterilizasyon sonrasında paket üzerine uygulanan koruyucu örtü. Steriliteyi koruyabilmesi uygun kapatma ve paket bütünlüğüne bağlıdır.",
+      "en": "3-mil polyethylene overwrap"
+    },
+    {
+      "id": "PER247-1yx7nx8",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "İlk giren ilk çıkar",
+      "definition": "Önce sterilize edilen malzemenin önce kullanılması.",
+      "en": "First in, first out (FIFO)"
+    },
+    {
+      "id": "PER247-00jmwwf",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "term",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Cep depo",
+      "definition": "MSÜ dışındaki kullanıcı birimlerde steril malzemenin bekletildiği küçük teslim/depolama alanı. Bekletme süresine göre depo koşulları sağlanır.",
+      "en": "Satellite storage"
+    },
+    {
+      "id": "PER247-0cfkfy4",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "compare",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Raf ömrü ve kullanım ömrü",
+      "left": {
+        "title": "Raf ömrü",
+        "points": [
+          "Ürünün etkin/steril kalmasının beklendiği süre",
+          "Steril pakette ambalaj bütünlüğü ve saklama koşulları önemlidir"
+        ]
+      },
+      "right": {
+        "title": "Kullanım ömrü",
+        "points": [
+          "Seyreltilmiş ürünün etkin kaldığı süre",
+          "Hazırlanmış germisit çözeltisinin kullanımını tanımlar"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1241dbo",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Türkiye’de steril depo koşulları",
+      "body": "SKS değerlendirmesinde steril depo **22 °C’yi ve %60 nemi aşmamalıdır**; değerler günlük izlenir. CDC’nin daha farklı sınırları bulunduğundan kaynağın adı belirtilmelidir."
+    },
+    {
+      "id": "PER247-1urdhm3",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "SKS raf mesafeleri",
+      "body": "SKS’de raflar **zeminden 30 cm**, **tavandan 50 cm**, duvardan 5 cm uzak düzenlenir. CDC/WHO farklı mesafeler verir; bu değerler Türkiye’deki SKS bağlamıdır."
+    },
+    {
+      "id": "PER247-1hp8m2h",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "fact",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Depoda FIFO ilkesi",
+      "body": "Steril malzemede **ilk giren ilk çıkar** ilkesi uygulanır. SKS’ye göre depo ve kullanım yerlerinde son kullanma tarihi geçmiş steril malzeme bulundurulmaz."
+    },
+    {
+      "id": "PER247-0t3g7ar",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Yere düşen sağlam paket",
+      "body": "Yere düşen paket hasar yönünden incelenir. CDC’ye göre geçirimsiz plastikle **ısıyla kapatılmış ve mührü sağlam** paket, yalnız düşmesi nedeniyle otomatik kontamine sayılmaz."
+    },
+    {
+      "id": "PER247-175zpki",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "fact",
+      "importance": 1,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "title": "Kuruma bağlı raf ömrü örneği",
+      "body": "ÇOMÜ 2024 prosedüründe poşet için **en fazla 6 ay**, çift wrap/tekstil için **30 gün** verilir. Bu süreler bütün kurumlar için ulusal standart değildir."
+    },
+    {
+      "id": "PER247-0uxo6qb",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Olaya bağlı sterilitede hangi olaylar paketi sorgulatır?",
+      "answer": "**Yırtılma, delinme, ıslanma veya kapatmanın bozulması**. Paket bütünlüğünün korunması, yalnız geçen gün sayısından daha doğrudan bir kontaminasyon göstergesidir."
+    },
+    {
+      "id": "PER247-092c0r8",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Lavabo altı neden steril paket deposu değildir?",
+      "answer": "**Su, sızıntı ve nem riski** yüksektir. Depolama yeri, ambalajı çevresel sudan ve kirden koruyacak şekilde seçilir."
+    },
+    {
+      "id": "PER247-133a37r",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "flip",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "Cep depoda uzun bekletmenin sonucu nedir?",
+      "answer": "SKS’ye göre **24 saatten fazla** bekletiliyorsa sıcaklık, nem ve depo koşulları burada da sağlanır. MSÜ dışında olması steriliteyi koruma sorumluluğunu kaldırmaz."
+    },
+    {
+      "id": "PER247-1ygkstg",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Bariyer bozulduysa kullanma",
+      "body": "**Islak, yırtık veya delinmiş** steril paket kullanıma verilmez. Paket sorunu saptanınca uygun yeniden işleme süreciyle değerlendirilir."
+    },
+    {
+      "id": "PER247-1hlmdfd",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Steril paketler için CDC’nin tercih ettiği depolama düzeni hangisidir?",
+      "options": [
+        "Temiz fakat örtüsüz açık raf",
+        "Personel geçişine açık temiz raf",
+        "Kuru açık taşıma arabası",
+        "Kapalı veya örtülü dolap"
+      ],
+      "correct": 3,
+      "explanation": "CDC **kapalı veya örtülü dolapları ideal** sayar; uygun açık raflar da kullanılabilir. Depo su, toz ve aşırı elleçlemeden korunur."
+    },
+    {
+      "id": "PER247-174aacf",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Raflarda steril ürünlerin kontaminasyon riskini artıran çevre etkeni hangisidir?",
+      "options": [
+        "Haşere veya su baskını",
+        "Sınırlı erişim sağlanması",
+        "Ambalaj bütünlüğünün korunması",
+        "Temiz kapalı dolap kullanımı"
+      ],
+      "correct": 0,
+      "explanation": "CDC olaya bağlı sterilitede **böcek, haşere ve su baskını** gibi çevresel olayları da dikkate alır. Depo yalnız takvim süresiyle değerlendirilmez."
+    },
+    {
+      "id": "PER247-1coh2xx",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Steril paketin kontaminasyon olasılığını artıran etken hangisidir?",
+      "options": [
+        "Ambalaj mührünün korunması",
+        "Elleçleme sayısının artması",
+        "Kuru ortamın sağlanması",
+        "Trafiğin sınırlandırılması"
+      ],
+      "correct": 1,
+      "explanation": "CDC’ye göre paketle temas/elleçleme arttıkça **kontaminasyon olasılığı artar**."
+    },
+    {
+      "id": "PER247-0z5iiul",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "ÇOMÜ Sterilizasyon Prosedürü 2024",
+      "question": "Steril malzeme transferine uygun araç hangisidir?",
+      "options": [
+        "Ortak kirli malzeme tepsisi",
+        "Açık atık taşıma kovası",
+        "Kapalı temiz taşıma kutusu",
+        "Lavabo altı toplama sepeti"
+      ],
+      "correct": 2,
+      "explanation": "Kurum prosedürü steril malzemeyi **kapalı kutu/arabayla** taşır; bariyer bütünlüğü korunur."
+    },
+    {
+      "id": "PER247-02kskm3",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Bir paketin elleçlenmesi arttıkça kontaminasyon olasılığı artabilir.",
+      "isTrue": true,
+      "explanation": "Elleçleme, olaya bağlı sterilitenin değerlendirilmesinde dikkate alınan etkenlerdendir."
+    },
+    {
+      "id": "PER247-056n18c",
+      "course": "PER247",
+      "topic": "Depolama, raf ömrü ve taşıma",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Isıyla kapatılmış sağlam plastik paket, yere düşmüş olması nedeniyle koşulsuz kontamine sayılır.",
+      "isTrue": false,
+      "explanation": "CDC, **mührü sağlam geçirimsiz plastik paketin** yalnız düşmekle kontamine sayılmadığını belirtir; hasar incelenir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

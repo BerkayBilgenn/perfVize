@@ -1,0 +1,528 @@
+{
+  "id": "review-f02ea8f0df49f2c1",
+  "title": "Pediatrik kalp yetmezliği",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Konjestif kalp yetmezliği",
+      "text": "Congestive heart failure\nKalbin metabolik ihtiyacı karşılayamaması ve konjesyon bulguları; bebekte taşipne, beslenme güçlüğü, terleme, kilo alamama.\nLat. congestio = birikme",
+      "images": [],
+      "card": {
+        "id": "PER241-19mac27",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Konjestif kalp yetmezliği",
+        "en": "Congestive heart failure",
+        "definition": "Kalbin metabolik ihtiyacı karşılayamaması ve konjesyon bulguları; bebekte taşipne, beslenme güçlüğü, terleme, kilo alamama.",
+        "origin": "Lat. congestio = birikme"
+      }
+    },
+    {
+      "title": "Kapiller kaçak",
+      "text": "Capillary leak\nSIRS'e bağlı sıvının damar dışına sızması; ödem ve organ disfonksiyonu.",
+      "images": [],
+      "card": {
+        "id": "PER241-1vkelog",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "term",
+        "importance": 1,
+        "source": "Draaisma 2009",
+        "term": "Kapiller kaçak",
+        "en": "Capillary leak",
+        "definition": "SIRS'e bağlı sıvının damar dışına sızması; ödem ve organ disfonksiyonu."
+      }
+    },
+    {
+      "title": "Bebekte yetmezliğin beslenme bulgusu",
+      "text": "Beslenirken **dispne ve terleme**, kalp yetmezliğinin önemli belirtileridir. Süt alımı sırasında artan efor tabloyu görünür hale getirir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1d9nq4v",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Bebekte yetmezliğin beslenme bulgusu",
+        "body": "Beslenirken **dispne ve terleme**, kalp yetmezliğinin önemli belirtileridir. Süt alımı sırasında artan efor tabloyu görünür hale getirir."
+      }
+    },
+    {
+      "title": "Büyüme üzerinden ipucu",
+      "text": "Bebekte **kilo alamama**, taşipne ve hepatomegaliyle birlikte kalp yetmezliğini düşündürebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-01dac5n",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Büyüme üzerinden ipucu",
+        "body": "Bebekte **kilo alamama**, taşipne ve hepatomegaliyle birlikte kalp yetmezliğini düşündürebilir."
+      }
+    },
+    {
+      "title": "Hacim yükü kaynakları",
+      "text": "Büyük soldan sağa şantlar ve kapak yetersizlikleri, pediatrik kalpte **hacim yükü** oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-078jptv",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Hacim yükü kaynakları",
+        "body": "Büyük soldan sağa şantlar ve kapak yetersizlikleri, pediatrik kalpte **hacim yükü** oluşturabilir."
+      }
+    },
+    {
+      "title": "Basınç yükü kaynakları",
+      "text": "Aortik obstrüksiyon ve koarktasyon **sol ventrikülün basınç yükünü** artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-06633vc",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Basınç yükü kaynakları",
+        "body": "Aortik obstrüksiyon ve koarktasyon **sol ventrikülün basınç yükünü** artırabilir."
+      }
+    },
+    {
+      "title": "Koroner kökenli yetmezlik",
+      "text": "ALCAPA'da miyokard iskemisi, **ventrikül disfonksiyonu ve mitral yetersizliğiyle** kalp yetmezliği oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0noyihx",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "title": "Koroner kökenli yetmezlik",
+        "body": "ALCAPA'da miyokard iskemisi, **ventrikül disfonksiyonu ve mitral yetersizliğiyle** kalp yetmezliği oluşturabilir."
+      }
+    },
+    {
+      "title": "Ritim bozukluğuyla yetmezlik",
+      "text": "Konjenital düzeltilmiş transpozisyonda **atriyoventriküler blok**, pediatrik kalp yetmezliğinin ritimle ilişkili nedenlerinden biridir.",
+      "images": [],
+      "card": {
+        "id": "PER241-15ernlt",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Ritim bozukluğuyla yetmezlik",
+        "body": "Konjenital düzeltilmiş transpozisyonda **atriyoventriküler blok**, pediatrik kalp yetmezliğinin ritimle ilişkili nedenlerinden biridir."
+      }
+    },
+    {
+      "title": "Ödemin KPB ile ilişkisi",
+      "text": "KPB'nin tetiklediği inflamasyon, damar dışına sıvı kaçışını artırıp **interstisyel ödem ve organ disfonksiyonuna** katkıda bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0qnh758",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "fact",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "Ödemin KPB ile ilişkisi",
+        "body": "KPB'nin tetiklediği inflamasyon, damar dışına sıvı kaçışını artırıp **interstisyel ödem ve organ disfonksiyonuna** katkıda bulunur."
+      }
+    },
+    {
+      "title": "Nedenin düzeltilmesi neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0inq36u",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Nedenin düzeltilmesi neden önemlidir?",
+        "answer": "Semptomların giderilmesine ek olarak **altta yatan yapısal lezyonun düzeltilmesi**, şant veya obstrüksiyonun kalbe yükünü ortadan kaldırmayı hedefler."
+      }
+    },
+    {
+      "title": "Kalp yetmezliğinin temel tanımı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-13ddqds",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Kalp yetmezliğinin temel tanımı hangisidir?",
+        "options": [
+          "Yalnızca kalp hızının yüksek olması",
+          "Yalnızca oksijen satürasyonunun düşük olması",
+          "Kalbin metabolik gereksinimi karşılayamaması",
+          "Herhangi bir üfürüm duyulması"
+        ],
+        "correct": 2,
+        "explanation": "Yapısal veya fonksiyonel bozukluk yeterli dolaşımın sağlanmasını engeller."
+      }
+    },
+    {
+      "title": "Bebekte sistemik venöz konjesyonu en doğrudan destekleyen muayene bulgusu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0gz5xtd",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Bebekte sistemik venöz konjesyonu en doğrudan destekleyen muayene bulgusu hangisidir?",
+        "options": [
+          "Çomak parmak",
+          "Siyanoz",
+          "Sistolik üfürüm",
+          "Hepatomegali"
+        ],
+        "correct": 3,
+        "explanation": "Hepatomegali pediatrik konjesyon bulgularındandır."
+      }
+    },
+    {
+      "title": "KPB sonrası sıvının damar dışına sızması hangi tabloyu tanımlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1d5ui5b",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Draaisma 2009",
+        "question": "KPB sonrası sıvının damar dışına sızması hangi tabloyu tanımlar?",
+        "options": [
+          "Kapiller kaçak",
+          "Koroner çalma",
+          "Arteriyel diskordans",
+          "Duktal konstriksiyon"
+        ],
+        "correct": 0,
+        "explanation": "İnflamatuvar yanıt kapiller geçirgenliği artırıp ekstravasküler sıvı birikimine neden olabilir."
+      }
+    },
+    {
+      "title": "Büyük VSD'de kalbe yük oluşturan temel mekanizma hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0er9jx6",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Büyük VSD'de kalbe yük oluşturan temel mekanizma hangisidir?",
+        "options": [
+          "İzole atriyal sağdan sola şant",
+          "Soldan sağa şantla hacim yükü",
+          "Koroner ostium atrezisi",
+          "Aortik arkın kesilmesi"
+        ],
+        "correct": 1,
+        "explanation": "Büyük VSD pulmoner aşırı akım ve özellikle sol kalpte hacim yükü oluşturur."
+      }
+    },
+    {
+      "title": "Konjesyonu azaltmak için kullanılan loop diüretik hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1qqpqnp",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Konjesyonu azaltmak için kullanılan loop diüretik hangisidir?",
+        "options": [
+          "Alprostadil",
+          "Protamin",
+          "Furosemid",
+          "Heparin"
+        ],
+        "correct": 2,
+        "explanation": "Furosemid dekonjesyon için kullanılan loop diüretiktir; heparin ve protamin pıhtılaşma yönetimiyle ilgilidir."
+      }
+    },
+    {
+      "title": "Kalp yetmezliğinde afterload azaltmanın amacı ventrikülün karşısındaki yükü artırmaktır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0dw7yld",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Kalp yetmezliğinde afterload azaltmanın amacı ventrikülün karşısındaki yükü artırmaktır.",
+        "isTrue": false,
+        "explanation": "Vazodilatörlerle afterload azaltılması ventrikülün karşısındaki yükü düşürmeyi amaçlar."
+      }
+    },
+    {
+      "title": "Bebekte taşipne ve beslenme güçlüğü kalp yetmezliği bulguları arasında yer alır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-19fg3tl",
+        "course": "PER241",
+        "topic": "Pediatrik kalp yetmezliği",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Bebekte taşipne ve beslenme güçlüğü kalp yetmezliği bulguları arasında yer alır.",
+        "isTrue": true,
+        "explanation": "Terleme, kilo alamama ve hepatomegali de bu tabloya eşlik edebilir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-19mac27",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Konjestif kalp yetmezliği",
+      "en": "Congestive heart failure",
+      "definition": "Kalbin metabolik ihtiyacı karşılayamaması ve konjesyon bulguları; bebekte taşipne, beslenme güçlüğü, terleme, kilo alamama.",
+      "origin": "Lat. congestio = birikme"
+    },
+    {
+      "id": "PER241-1vkelog",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "term",
+      "importance": 1,
+      "source": "Draaisma 2009",
+      "term": "Kapiller kaçak",
+      "en": "Capillary leak",
+      "definition": "SIRS'e bağlı sıvının damar dışına sızması; ödem ve organ disfonksiyonu."
+    },
+    {
+      "id": "PER241-1d9nq4v",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Bebekte yetmezliğin beslenme bulgusu",
+      "body": "Beslenirken **dispne ve terleme**, kalp yetmezliğinin önemli belirtileridir. Süt alımı sırasında artan efor tabloyu görünür hale getirir."
+    },
+    {
+      "id": "PER241-01dac5n",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Büyüme üzerinden ipucu",
+      "body": "Bebekte **kilo alamama**, taşipne ve hepatomegaliyle birlikte kalp yetmezliğini düşündürebilir."
+    },
+    {
+      "id": "PER241-078jptv",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Hacim yükü kaynakları",
+      "body": "Büyük soldan sağa şantlar ve kapak yetersizlikleri, pediatrik kalpte **hacim yükü** oluşturabilir."
+    },
+    {
+      "id": "PER241-06633vc",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Basınç yükü kaynakları",
+      "body": "Aortik obstrüksiyon ve koarktasyon **sol ventrikülün basınç yükünü** artırabilir."
+    },
+    {
+      "id": "PER241-0noyihx",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Koroner kökenli yetmezlik",
+      "body": "ALCAPA'da miyokard iskemisi, **ventrikül disfonksiyonu ve mitral yetersizliğiyle** kalp yetmezliği oluşturabilir."
+    },
+    {
+      "id": "PER241-15ernlt",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Ritim bozukluğuyla yetmezlik",
+      "body": "Konjenital düzeltilmiş transpozisyonda **atriyoventriküler blok**, pediatrik kalp yetmezliğinin ritimle ilişkili nedenlerinden biridir."
+    },
+    {
+      "id": "PER241-0qnh758",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Ödemin KPB ile ilişkisi",
+      "body": "KPB'nin tetiklediği inflamasyon, damar dışına sıvı kaçışını artırıp **interstisyel ödem ve organ disfonksiyonuna** katkıda bulunur."
+    },
+    {
+      "id": "PER241-0inq36u",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Nedenin düzeltilmesi neden önemlidir?",
+      "answer": "Semptomların giderilmesine ek olarak **altta yatan yapısal lezyonun düzeltilmesi**, şant veya obstrüksiyonun kalbe yükünü ortadan kaldırmayı hedefler."
+    },
+    {
+      "id": "PER241-13ddqds",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Kalp yetmezliğinin temel tanımı hangisidir?",
+      "options": [
+        "Yalnızca kalp hızının yüksek olması",
+        "Yalnızca oksijen satürasyonunun düşük olması",
+        "Kalbin metabolik gereksinimi karşılayamaması",
+        "Herhangi bir üfürüm duyulması"
+      ],
+      "correct": 2,
+      "explanation": "Yapısal veya fonksiyonel bozukluk yeterli dolaşımın sağlanmasını engeller."
+    },
+    {
+      "id": "PER241-0gz5xtd",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Bebekte sistemik venöz konjesyonu en doğrudan destekleyen muayene bulgusu hangisidir?",
+      "options": [
+        "Çomak parmak",
+        "Siyanoz",
+        "Sistolik üfürüm",
+        "Hepatomegali"
+      ],
+      "correct": 3,
+      "explanation": "Hepatomegali pediatrik konjesyon bulgularındandır."
+    },
+    {
+      "id": "PER241-1d5ui5b",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "question": "KPB sonrası sıvının damar dışına sızması hangi tabloyu tanımlar?",
+      "options": [
+        "Kapiller kaçak",
+        "Koroner çalma",
+        "Arteriyel diskordans",
+        "Duktal konstriksiyon"
+      ],
+      "correct": 0,
+      "explanation": "İnflamatuvar yanıt kapiller geçirgenliği artırıp ekstravasküler sıvı birikimine neden olabilir."
+    },
+    {
+      "id": "PER241-0er9jx6",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Büyük VSD'de kalbe yük oluşturan temel mekanizma hangisidir?",
+      "options": [
+        "İzole atriyal sağdan sola şant",
+        "Soldan sağa şantla hacim yükü",
+        "Koroner ostium atrezisi",
+        "Aortik arkın kesilmesi"
+      ],
+      "correct": 1,
+      "explanation": "Büyük VSD pulmoner aşırı akım ve özellikle sol kalpte hacim yükü oluşturur."
+    },
+    {
+      "id": "PER241-1qqpqnp",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Konjesyonu azaltmak için kullanılan loop diüretik hangisidir?",
+      "options": [
+        "Alprostadil",
+        "Protamin",
+        "Furosemid",
+        "Heparin"
+      ],
+      "correct": 2,
+      "explanation": "Furosemid dekonjesyon için kullanılan loop diüretiktir; heparin ve protamin pıhtılaşma yönetimiyle ilgilidir."
+    },
+    {
+      "id": "PER241-0dw7yld",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Kalp yetmezliğinde afterload azaltmanın amacı ventrikülün karşısındaki yükü artırmaktır.",
+      "isTrue": false,
+      "explanation": "Vazodilatörlerle afterload azaltılması ventrikülün karşısındaki yükü düşürmeyi amaçlar."
+    },
+    {
+      "id": "PER241-19fg3tl",
+      "course": "PER241",
+      "topic": "Pediatrik kalp yetmezliği",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Bebekte taşipne ve beslenme güçlüğü kalp yetmezliği bulguları arasında yer alır.",
+      "isTrue": true,
+      "explanation": "Terleme, kilo alamama ve hepatomegali de bu tabloya eşlik edebilir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

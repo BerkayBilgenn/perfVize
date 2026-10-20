@@ -1,0 +1,620 @@
+{
+  "id": "review-94dfda46901ecf0c",
+  "title": "Tüpler, konnektörler ve prime hacmi",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "PVC",
+      "text": "Polyvinyl chloride\nEn yaygın KPB tüp malzemesi; esneklik için plastikleştirici içerir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0wmo4b8",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "term",
+        "importance": 2,
+        "term": "PVC",
+        "definition": "En yaygın KPB tüp malzemesi; esneklik için plastikleştirici içerir.",
+        "en": "Polyvinyl chloride",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "DEHP",
+      "text": "Di(2-ethylhexyl) phthalate\nEn yaygın PVC plastikleştiricisi; kana sızar.",
+      "images": [],
+      "card": {
+        "id": "PER141-093jrg6",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "term",
+        "importance": 2,
+        "term": "DEHP",
+        "definition": "En yaygın PVC plastikleştiricisi; kana sızar.",
+        "en": "Di(2-ethylhexyl) phthalate",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "TOTM",
+      "text": "Trioctyl trimellitate\nPVC için kullanılan, DEHP'ye göre kana daha az sızan plastikleştirici.",
+      "images": [],
+      "card": {
+        "id": "PER141-1amzfpv",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "term",
+        "importance": 1,
+        "term": "TOTM",
+        "definition": "PVC için kullanılan, DEHP'ye göre kana daha az sızan plastikleştirici.",
+        "en": "Trioctyl trimellitate",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Konnektör",
+      "text": "Connector\nTüp ve bileşenleri birleştiren parça (düz, Y, redüktör, luer).",
+      "images": [],
+      "card": {
+        "id": "PER141-0ef8nr5",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "term",
+        "importance": 2,
+        "term": "Konnektör",
+        "definition": "Tüp ve bileşenleri birleştiren parça (düz, Y, redüktör, luer).",
+        "en": "Connector",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Redüktör",
+      "text": "Reducer\nFarklı çaplı iki tüpün güvenli bağlantısını sağlayan konnektör tipi.",
+      "images": [],
+      "card": {
+        "id": "PER141-0w86snj",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "term",
+        "importance": 1,
+        "term": "Redüktör",
+        "definition": "Farklı çaplı iki tüpün güvenli bağlantısını sağlayan konnektör tipi.",
+        "en": "Reducer",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Y-konnektör",
+      "text": "Y-connector\nİki hattı tek bir hatta birleştiren veya bir hattı iki kola ayıran bağlantı parçası; bikaval drenajda kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1uxki5j",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "term",
+        "importance": 2,
+        "term": "Y-konnektör",
+        "definition": "İki hattı tek bir hatta birleştiren veya bir hattı iki kola ayıran bağlantı parçası; bikaval drenajda kullanılır.",
+        "en": "Y-connector",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Erişkin tüp kullanım eşleşmesi",
+      "text": "National Heart Center 2026'da **1/2 inç venöz**, 3/8 inç arteriyel, 1/4 inç aspiratör ve 3/16 inç kardiyopleji tüpü örnekleri verilir; hasta ve sisteme göre seçim değişir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0v3294v",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Erişkin tüp kullanım eşleşmesi",
+        "body": "National Heart Center 2026'da **1/2 inç venöz**, 3/8 inç arteriyel, 1/4 inç aspiratör ve 3/16 inç kardiyopleji tüpü örnekleri verilir; hasta ve sisteme göre seçim değişir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "İç çapın metrik karşılığı",
+      "text": "1 inç = 25,4 mm hesabıyla iç çaplar yaklaşık: 3/16 inç **4,8 mm**, 1/4 inç 6,4 mm, 3/8 inç 9,5 mm ve 1/2 inç 12,7 mm. Kaynakta yuvarlamalar farklı olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0q94s9a",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "fact",
+        "importance": 1,
+        "title": "İç çapın metrik karşılığı",
+        "body": "1 inç = 25,4 mm hesabıyla iç çaplar yaklaşık: 3/16 inç **4,8 mm**, 1/4 inç 6,4 mm, 3/8 inç 9,5 mm ve 1/2 inç 12,7 mm. Kaynakta yuvarlamalar farklı olabilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Tüp hacmi hesabı",
+      "text": "Tüp dolum hacmi **π × r² × L** ile hesaplanır. Metre başına yaklaşık hacimler: 1/4 inç 32 mL, 3/8 inç 71 mL, 1/2 inç 127 mL; yuvarlanmış örneklerdir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0wb7x20",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Tüp hacmi hesabı",
+        "body": "Tüp dolum hacmi **π × r² × L** ile hesaplanır. Metre başına yaklaşık hacimler: 1/4 inç 32 mL, 3/8 inç 71 mL, 1/2 inç 127 mL; yuvarlanmış örneklerdir.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "DEHP yerine TOTM",
+      "text": "EACTS 2024, daha az sızması ve daha düşük toksisite nedeniyle PVC plastikleştiricisi olarak **TOTM'nin DEHP yerine düşünülmesini** önerir.",
+      "images": [],
+      "card": {
+        "id": "PER141-185als2",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "fact",
+        "importance": 2,
+        "title": "DEHP yerine TOTM",
+        "body": "EACTS 2024, daha az sızması ve daha düşük toksisite nedeniyle PVC plastikleştiricisi olarak **TOTM'nin DEHP yerine düşünülmesini** önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Soğuk PVC'nin davranışı",
+      "text": "PVC soğukta sertleşebilir ve mikropartikül salabilir. Tüp seçimi esneklik, kan hasarı ve mekanik kullanım koşullarıyla birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1gegwww",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "fact",
+        "importance": 1,
+        "title": "Soğuk PVC'nin davranışı",
+        "body": "PVC soğukta sertleşebilir ve mikropartikül salabilir. Tüp seçimi esneklik, kan hasarı ve mekanik kullanım koşullarıyla birlikte değerlendirilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Tüpün etiketindeki çap ile duvar ölçüsü nasıl okunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1omosvm",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Tüpün etiketindeki çap ile duvar ölçüsü nasıl okunur?",
+        "answer": "Tüp tanımı **iç çap × duvar kalınlığı** biçimindedir; dış çap veya kanülün French ölçüsüyle karıştırılmaz.",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Tüp çapını küçültmek prime'ı azaltırken hangi bedeli doğurabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-12ibv8s",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Tüp çapını küçültmek prime'ı azaltırken hangi bedeli doğurabilir?",
+        "answer": "Direnci ve gerekli basınç farkını artırabilir; prime kazancı hedef akım ve basınç güvenliğiyle birlikte değerlendirilir.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Tüpleri kısaltmak devrenin hangi üç yükünü azaltmayı amaçlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1brp9yq",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Tüpleri kısaltmak devrenin hangi üç yükünü azaltmayı amaçlar?",
+        "answer": "Prime hacmini, hat boyunca basınç kaybını ve kanın devreye maruz kalmasını azaltmayı amaçlar.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Prime tasarımını girişten önce değerlendir",
+      "text": "KPB öncesi tahmini dilüsyon sonrası **hemoglobin ve hematokrit** hesaplanıp ekibe bildirilir. Devre küçültme kararı hastanın oksijen taşıma kapasitesiyle ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0gp7ml5",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Prime tasarımını girişten önce değerlendir",
+        "body": "KPB öncesi tahmini dilüsyon sonrası **hemoglobin ve hematokrit** hesaplanıp ekibe bildirilir. Devre küçültme kararı hastanın oksijen taşıma kapasitesiyle ilişkilidir.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Bikaval kanül hatlarını ortak venöz hatta birleştiren parça hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-164wjxx",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Bikaval kanül hatlarını ortak venöz hatta birleştiren parça hangisidir?",
+        "options": [
+          "Y-konnektör",
+          "Gaz blenderi",
+          "Arteriyel elek filtre",
+          "Vakum regülatörü"
+        ],
+        "correct": 0,
+        "explanation": "Y-konnektör iki venöz drenaj kolunu ortak hatta bağlar.",
+        "source": "Konjenital cerrahi derlemesi 2020"
+      }
+    },
+    {
+      "title": "Çapı farklı tüpleri bağlamak için hangi konnektör uygundur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0fhy314",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Çapı farklı tüpleri bağlamak için hangi konnektör uygundur?",
+        "options": [
+          "Tek yönlü valf",
+          "Redüktör",
+          "Gaz analizörü",
+          "Seviye sensörü"
+        ],
+        "correct": 1,
+        "explanation": "Redüktör farklı çaplar arasında bağlantı sağlar.",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Aynı çaplı tüpün uzunluğu yarıya indirilirse dolum hacmi nasıl değişir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0pkglt2",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aynı çaplı tüpün uzunluğu yarıya indirilirse dolum hacmi nasıl değişir?",
+        "options": [
+          "İki katına çıkar",
+          "Dörtte bire iner",
+          "Yarıya iner",
+          "Değişmeden kalır"
+        ],
+        "correct": 2,
+        "explanation": "Hacim πr²L olduğundan uzunlukla doğru orantılıdır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Tüp bağlantı kontrolünde hangi bulgu doğrudan mekanik sorundur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1byc19r",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Tüp bağlantı kontrolünde hangi bulgu doğrudan mekanik sorundur?",
+        "options": [
+          "Kararlı gaz fraksiyonu",
+          "Kalibre sıcaklık probu",
+          "Açık gaz egzozu",
+          "Katlanmış hat"
+        ],
+        "correct": 3,
+        "explanation": "Katlanma akım yolunu daraltabilir; hat yönü, açıklığı ve bağlantıları kontrol edilir.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Luer ve stopcock bağlantıları örnekleme portlarında kullanılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1fdbj4k",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Luer ve stopcock bağlantıları örnekleme portlarında kullanılabilir.",
+        "isTrue": true,
+        "explanation": "Örnekleme bağlantıları devreye luer/stopcock ile bağlanabilir; güvenli kapanmaları kontrol edilir.",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Tüpün iç çapı azaldıkça aynı uzunluk için prime hacmi artar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0jzc0fx",
+        "course": "PER141",
+        "topic": "Tüpler, konnektörler ve prime hacmi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Tüpün iç çapı azaldıkça aynı uzunluk için prime hacmi artar.",
+        "isTrue": false,
+        "explanation": "Tüp hacmi kesit alanıyla doğru orantılıdır; çap azalırsa prime hacmi de azalır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0wmo4b8",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "term",
+      "importance": 2,
+      "term": "PVC",
+      "definition": "En yaygın KPB tüp malzemesi; esneklik için plastikleştirici içerir.",
+      "en": "Polyvinyl chloride",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-093jrg6",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "term",
+      "importance": 2,
+      "term": "DEHP",
+      "definition": "En yaygın PVC plastikleştiricisi; kana sızar.",
+      "en": "Di(2-ethylhexyl) phthalate",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1amzfpv",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "term",
+      "importance": 1,
+      "term": "TOTM",
+      "definition": "PVC için kullanılan, DEHP'ye göre kana daha az sızan plastikleştirici.",
+      "en": "Trioctyl trimellitate",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0ef8nr5",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "term",
+      "importance": 2,
+      "term": "Konnektör",
+      "definition": "Tüp ve bileşenleri birleştiren parça (düz, Y, redüktör, luer).",
+      "en": "Connector",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-0w86snj",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "term",
+      "importance": 1,
+      "term": "Redüktör",
+      "definition": "Farklı çaplı iki tüpün güvenli bağlantısını sağlayan konnektör tipi.",
+      "en": "Reducer",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-1uxki5j",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "term",
+      "importance": 2,
+      "term": "Y-konnektör",
+      "definition": "İki hattı tek bir hatta birleştiren veya bir hattı iki kola ayıran bağlantı parçası; bikaval drenajda kullanılır.",
+      "en": "Y-connector",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-0v3294v",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Erişkin tüp kullanım eşleşmesi",
+      "body": "National Heart Center 2026'da **1/2 inç venöz**, 3/8 inç arteriyel, 1/4 inç aspiratör ve 3/16 inç kardiyopleji tüpü örnekleri verilir; hasta ve sisteme göre seçim değişir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0q94s9a",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "fact",
+      "importance": 1,
+      "title": "İç çapın metrik karşılığı",
+      "body": "1 inç = 25,4 mm hesabıyla iç çaplar yaklaşık: 3/16 inç **4,8 mm**, 1/4 inç 6,4 mm, 3/8 inç 9,5 mm ve 1/2 inç 12,7 mm. Kaynakta yuvarlamalar farklı olabilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0wb7x20",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Tüp hacmi hesabı",
+      "body": "Tüp dolum hacmi **π × r² × L** ile hesaplanır. Metre başına yaklaşık hacimler: 1/4 inç 32 mL, 3/8 inç 71 mL, 1/2 inç 127 mL; yuvarlanmış örneklerdir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-185als2",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "fact",
+      "importance": 2,
+      "title": "DEHP yerine TOTM",
+      "body": "EACTS 2024, daha az sızması ve daha düşük toksisite nedeniyle PVC plastikleştiricisi olarak **TOTM'nin DEHP yerine düşünülmesini** önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1gegwww",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "fact",
+      "importance": 1,
+      "title": "Soğuk PVC'nin davranışı",
+      "body": "PVC soğukta sertleşebilir ve mikropartikül salabilir. Tüp seçimi esneklik, kan hasarı ve mekanik kullanım koşullarıyla birlikte değerlendirilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1omosvm",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Tüpün etiketindeki çap ile duvar ölçüsü nasıl okunur?",
+      "answer": "Tüp tanımı **iç çap × duvar kalınlığı** biçimindedir; dış çap veya kanülün French ölçüsüyle karıştırılmaz.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-12ibv8s",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Tüp çapını küçültmek prime'ı azaltırken hangi bedeli doğurabilir?",
+      "answer": "Direnci ve gerekli basınç farkını artırabilir; prime kazancı hedef akım ve basınç güvenliğiyle birlikte değerlendirilir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1brp9yq",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Tüpleri kısaltmak devrenin hangi üç yükünü azaltmayı amaçlar?",
+      "answer": "Prime hacmini, hat boyunca basınç kaybını ve kanın devreye maruz kalmasını azaltmayı amaçlar.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0gp7ml5",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Prime tasarımını girişten önce değerlendir",
+      "body": "KPB öncesi tahmini dilüsyon sonrası **hemoglobin ve hematokrit** hesaplanıp ekibe bildirilir. Devre küçültme kararı hastanın oksijen taşıma kapasitesiyle ilişkilidir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-164wjxx",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Bikaval kanül hatlarını ortak venöz hatta birleştiren parça hangisidir?",
+      "options": [
+        "Y-konnektör",
+        "Gaz blenderi",
+        "Arteriyel elek filtre",
+        "Vakum regülatörü"
+      ],
+      "correct": 0,
+      "explanation": "Y-konnektör iki venöz drenaj kolunu ortak hatta bağlar.",
+      "source": "Konjenital cerrahi derlemesi 2020"
+    },
+    {
+      "id": "PER141-0fhy314",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Çapı farklı tüpleri bağlamak için hangi konnektör uygundur?",
+      "options": [
+        "Tek yönlü valf",
+        "Redüktör",
+        "Gaz analizörü",
+        "Seviye sensörü"
+      ],
+      "correct": 1,
+      "explanation": "Redüktör farklı çaplar arasında bağlantı sağlar.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-0pkglt2",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aynı çaplı tüpün uzunluğu yarıya indirilirse dolum hacmi nasıl değişir?",
+      "options": [
+        "İki katına çıkar",
+        "Dörtte bire iner",
+        "Yarıya iner",
+        "Değişmeden kalır"
+      ],
+      "correct": 2,
+      "explanation": "Hacim πr²L olduğundan uzunlukla doğru orantılıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1byc19r",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Tüp bağlantı kontrolünde hangi bulgu doğrudan mekanik sorundur?",
+      "options": [
+        "Kararlı gaz fraksiyonu",
+        "Kalibre sıcaklık probu",
+        "Açık gaz egzozu",
+        "Katlanmış hat"
+      ],
+      "correct": 3,
+      "explanation": "Katlanma akım yolunu daraltabilir; hat yönü, açıklığı ve bağlantıları kontrol edilir.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1fdbj4k",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Luer ve stopcock bağlantıları örnekleme portlarında kullanılabilir.",
+      "isTrue": true,
+      "explanation": "Örnekleme bağlantıları devreye luer/stopcock ile bağlanabilir; güvenli kapanmaları kontrol edilir.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-0jzc0fx",
+      "course": "PER141",
+      "topic": "Tüpler, konnektörler ve prime hacmi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Tüpün iç çapı azaldıkça aynı uzunluk için prime hacmi artar.",
+      "isTrue": false,
+      "explanation": "Tüp hacmi kesit alanıyla doğru orantılıdır; çap azalırsa prime hacmi de azalır.",
+      "source": "Klabunde: CV Physiology"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

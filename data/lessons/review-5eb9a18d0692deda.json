@@ -1,0 +1,804 @@
+{
+  "id": "review-5eb9a18d0692deda",
+  "title": "ECMO fizyolojisi",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Oksijen sunumu",
+      "text": "Oxygen delivery\nBirim zamanda dokulara taşınan oksijen miktarı; kan akımı ile arteriyel oksijen içeriğinin çarpımına bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0b63frb",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Oksijen sunumu",
+        "en": "Oxygen delivery",
+        "definition": "Birim zamanda dokulara taşınan oksijen miktarı; kan akımı ile arteriyel oksijen içeriğinin çarpımına bağlıdır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Oksijen tüketimi",
+      "text": "Oxygen consumption\nDokuların birim zamanda metabolizma için kullandığı oksijen miktarı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1yvu8l9",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Oksijen tüketimi",
+        "en": "Oxygen consumption",
+        "definition": "Dokuların birim zamanda metabolizma için kullandığı oksijen miktarı.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Arteriyel O2 içeriği",
+      "text": "Arterial oxygen content\nArteriyel kandaki toplam oksijen miktarı; hemoglobine bağlı ve plazmada çözünmüş oksijenin toplamıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-179s6wt",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Arteriyel O2 içeriği",
+        "en": "Arterial oxygen content",
+        "definition": "Arteriyel kandaki toplam oksijen miktarı; hemoglobine bağlı ve plazmada çözünmüş oksijenin toplamıdır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Resirkülasyon",
+      "text": "Recirculation\nVV ECMO'da oksijenatörden dönen kanın sisteme geçmeden drenaj kanülüne geri emilmesi; etkin O2 sunumunu azaltır.",
+      "images": [],
+      "card": {
+        "id": "PER207-00p4kr7",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Resirkülasyon",
+        "en": "Recirculation",
+        "definition": "VV ECMO'da oksijenatörden dönen kanın sisteme geçmeden drenaj kanülüne geri emilmesi; etkin O2 sunumunu azaltır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Diferansiyel hipoksemi",
+      "text": "Differential hypoxemia\nFemoral VA ECMO'da üst vücudun (koroner, beyin, sağ kol) LV'nin pompaladığı desatüre kanla, alt vücudun ECMO'nun oksijenli kanıyla perfüze olması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0i5x85v",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Diferansiyel hipoksemi",
+        "en": "Differential hypoxemia",
+        "definition": "Femoral VA ECMO'da üst vücudun (koroner, beyin, sağ kol) LV'nin pompaladığı desatüre kanla, alt vücudun ECMO'nun oksijenli kanıyla perfüze olması.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Karışım bölgesi",
+      "text": "Mixing zone (watershed)\nNativ ejeksiyonla retrograd ECMO akımının aortta karşılaştığı bölge; ECMO akımı arttıkça proksimale kayar.",
+      "images": [],
+      "card": {
+        "id": "PER207-0u7hedb",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 1,
+        "term": "Karışım bölgesi",
+        "en": "Mixing zone (watershed)",
+        "definition": "Nativ ejeksiyonla retrograd ECMO akımının aortta karşılaştığı bölge; ECMO akımı arttıkça proksimale kayar.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Art yük",
+      "text": "Afterload\nVentrikülün ejeksiyon sırasında karşılaştığı yük; retrograd VA akımı LV art yükünü artırır.",
+      "images": [],
+      "card": {
+        "id": "PER207-15f57xg",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Art yük",
+        "en": "Afterload",
+        "definition": "Ventrikülün ejeksiyon sırasında karşılaştığı yük; retrograd VA akımı LV art yükünü artırır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Ön yük",
+      "text": "Preload\nVentrikülün diyastol sonu dolum yükü; santrifüj pompa akımı da ön yüke bağımlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-04busfb",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 1,
+        "term": "Ön yük",
+        "en": "Preload",
+        "definition": "Ventrikülün diyastol sonu dolum yükü; santrifüj pompa akımı da ön yüke bağımlıdır.",
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Nabız basıncı",
+      "text": "Pulse pressure\nSistolik ve diyastolik arter basınçları arasındaki fark. VA ECMO sırasında nativ kalbin ejeksiyonunu değerlendirmede kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0m97lrw",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 1,
+        "term": "Nabız basıncı",
+        "en": "Pulse pressure",
+        "definition": "Sistolik ve diyastolik arter basınçları arasındaki fark. VA ECMO sırasında nativ kalbin ejeksiyonunu değerlendirmede kullanılır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Karışık venöz satürasyon",
+      "text": "Mixed venous oxygen saturation\nPulmoner arter kanının O2 satürasyonu; doku O2 sunum yeterliliğinin göstergesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-19wyp7w",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Karışık venöz satürasyon",
+        "en": "Mixed venous oxygen saturation",
+        "definition": "Pulmoner arter kanının O2 satürasyonu; doku O2 sunum yeterliliğinin göstergesi.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Oksijen miktarı ve oksijen basıncı",
+      "text": "Oksijen içeriği\nHemoglobine bağlı ve çözünmüş O2 toplamı\nOksijen sunumu hesabında kullanılır\n\nParsiyel basınç\nÇözünmüş O2’nin oluşturduğu basınç\nHemoglobin miktarını tek başına göstermez",
+      "images": [],
+      "card": {
+        "id": "PER207-04n3iky",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Oksijen miktarı ve oksijen basıncı",
+        "left": {
+          "title": "Oksijen içeriği",
+          "points": [
+            "Hemoglobine bağlı ve çözünmüş O2 toplamı",
+            "Oksijen sunumu hesabında kullanılır"
+          ]
+        },
+        "right": {
+          "title": "Parsiyel basınç",
+          "points": [
+            "Çözünmüş O2’nin oluşturduğu basınç",
+            "Hemoglobin miktarını tek başına göstermez"
+          ]
+        },
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Devre ne kadar oksijen sağlar?",
+      "text": "Devrenin O2 katkısı = kan akımı × (çıkış − giriş O2 içeriği); birimler uyumlu tutulur. **CaO2 = Hb × 1,39 × SaO2 + 0,0034 × PaO2**: Hb g/dL, SaO2 0–1 kesir, PaO2 mmHg kullanılır; sonuç mL O2/dL’dir. Akım L/dk ise mL O2/dk için içerik farkı ayrıca 10 ile çarpılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1t3bq0i",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Devre ne kadar oksijen sağlar?",
+        "body": "Devrenin O2 katkısı = kan akımı × (çıkış − giriş O2 içeriği); birimler uyumlu tutulur. **CaO2 = Hb × 1,39 × SaO2 + 0,0034 × PaO2**: Hb g/dL, SaO2 0–1 kesir, PaO2 mmHg kullanılır; sonuç mL O2/dL’dir. Akım L/dk ise mL O2/dk için içerik farkı ayrıca 10 ile çarpılır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV devre hangi O2 sunumuna göre planlanır?",
+      "text": "Normal sistemik O2 sunumu ~600 mL/m²/dk'dır; istirahatte 300 mL/m²/dk yeterlidir. VV devre en az **240 mL/m²/dk** O2 sağlayacak şekilde planlanır. Örnek: 80 kg, Hb 12 g/dL erişkinde gereken akım **~4 L/dk**'dır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0v8pkch",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "VV devre hangi O2 sunumuna göre planlanır?",
+        "body": "Normal sistemik O2 sunumu ~600 mL/m²/dk'dır; istirahatte 300 mL/m²/dk yeterlidir. VV devre en az **240 mL/m²/dk** O2 sağlayacak şekilde planlanır. Örnek: 80 kg, Hb 12 g/dL erişkinde gereken akım **~4 L/dk**'dır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "DO2/VO2 oranı",
+      "text": "Normal oksijen sunumu/tüketimi (DO2/VO2) oranı yaklaşık **5:1**'dir; ~2:1'de tüketim sunuma bağımlı hale gelir (kritik eşik). VA ECMO'da SvO2'nin %66'nın üzerinde tutulması DO2/VO2 > 3 hedefini karşılar.",
+      "images": [],
+      "card": {
+        "id": "PER207-09eni1c",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "DO2/VO2 oranı",
+        "body": "Normal oksijen sunumu/tüketimi (DO2/VO2) oranı yaklaşık **5:1**'dir; ~2:1'de tüketim sunuma bağımlı hale gelir (kritik eşik). VA ECMO'da SvO2'nin %66'nın üzerinde tutulması DO2/VO2 > 3 hedefini karşılar.",
+        "source": "ELSO VV 2021; ELSO VA 2021"
+      }
+    },
+    {
+      "title": "PaCO2 yavaş düşürülür",
+      "text": "ECMO başlarken PaCO2'nin hızla düşmesi nörolojik hasarla ilişkilidir. Başlangıç PaCO2'si **70 mmHg'nin üzerindeyse** birkaç saat içinde yavaşça normale getirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0igtejf",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "PaCO2 yavaş düşürülür",
+        "body": "ECMO başlarken PaCO2'nin hızla düşmesi nörolojik hasarla ilişkilidir. Başlangıç PaCO2'si **70 mmHg'nin üzerindeyse** birkaç saat içinde yavaşça normale getirilir.",
+        "source": "ELSO 2017; ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV ECMO'da SaO2 neden %100 olmaz?",
+      "text": "VV ECMO'da venöz dönüşün yalnız bir kısmı devreye girer; geri kalan desatüre (%60–80) kan sağ kalpte devreden gelen oksijenli kanla karışır. Bu yüzden arteriyel satürasyon tipik olarak **%80–90** olur.",
+      "images": [],
+      "card": {
+        "id": "PER207-1dj221o",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "VV ECMO'da SaO2 neden %100 olmaz?",
+        "body": "VV ECMO'da venöz dönüşün yalnız bir kısmı devreye girer; geri kalan desatüre (%60–80) kan sağ kalpte devreden gelen oksijenli kanla karışır. Bu yüzden arteriyel satürasyon tipik olarak **%80–90** olur.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VA ECMO'da alt vücut hiperoksemisi",
+      "text": "Femoral VA ECMO'da alt vücut hiperoksemisi ve hipokapnisi zararlıdır. Her ayar değişikliğinden sonra post-membran kan gazı alınır; post-oksijenatör PO2 için **~150 mmHg** hedeflenebilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1u2mhzg",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "fact",
+        "importance": 1,
+        "title": "VA ECMO'da alt vücut hiperoksemisi",
+        "body": "Femoral VA ECMO'da alt vücut hiperoksemisi ve hipokapnisi zararlıdır. Her ayar değişikliğinden sonra post-membran kan gazı alınır; post-oksijenatör PO2 için **~150 mmHg** hedeflenebilir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VV ECMO'daki hastada oksijenasyon yeterli ama PaCO2 yüksek. CO2 temizliğini artırmak için hangi ayar değiştirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-025md6r",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "VV ECMO'daki hastada oksijenasyon yeterli ama PaCO2 yüksek. CO2 temizliğini artırmak için hangi ayar değiştirilir?",
+        "options": [
+          "Sweep gaz akımı artırılır",
+          "Pompa (kan) akımı artırılır",
+          "Sweep gazdaki O2 oranı (FDO2) artırılır",
+          "Ventilatörde FiO2 artırılır"
+        ],
+        "correct": 0,
+        "explanation": "CO2 uzaklaştırılması esas olarak sweep ile ayarlanır. Oksijenasyon kan akımı/kalp debisi oranı, Hb, resirkülasyon ve nativ akciğerden etkilenir; oksijenasyon yeterliyken yüksek PaCO2 için sweep titre edilir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Femoral VA ECMO'da diferansiyel hipoksemiyi (Harlequin sendromu) saptamak için kan gazı en doğru nereden alınır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-17e2aoh",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Femoral VA ECMO'da diferansiyel hipoksemiyi (Harlequin sendromu) saptamak için kan gazı en doğru nereden alınır?",
+        "options": [
+          "Sol radiyal arterden",
+          "Femoral arterden",
+          "Post-oksijenatör hattından",
+          "Sağ radiyal arterden"
+        ],
+        "correct": 3,
+        "explanation": "Sağ kol, beyin ve koronerlerle birlikte LV'nin pompaladığı desatüre kanla beslenir; bu yüzden sağ radiyal gaz ve serebral NIRS izlenir. Femoral bölge ECMO'nun oksijenli kanını alır.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VV ECMO'da aşağıdakilerden hangisi resirkülasyonu düşündüren bir bulgudur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-03m1ziw",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "VV ECMO'da aşağıdakilerden hangisi resirkülasyonu düşündüren bir bulgudur?",
+        "options": [
+          "Drenaj kanülündeki kanın renginin koyulaşması",
+          "Pre-oksijenatör satürasyonunun düşmesi",
+          "Akım artırılınca sistemik satürasyonun düşmesi",
+          "Transmembran basınç farkının artması"
+        ],
+        "correct": 2,
+        "explanation": "Resirkülasyonda oksijenli kan drenaja geri emilir; drenaj satürasyonu yükselir ve akım artınca sistemik satürasyon düşebilir. Benzer kan akımında ΔP artışı oksijenatör direnci/trombozunu düşündürür; resirkülasyon belirtisi değildir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ELSO 2017 kılavuzuna göre VA ECMO'da doku perfüzyonunun yeterliliğini en iyi gösteren parametre hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-111b69q",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO 2017 kılavuzuna göre VA ECMO'da doku perfüzyonunun yeterliliğini en iyi gösteren parametre hangisidir?",
+        "options": [
+          "Karışık venöz satürasyon (SvO2)",
+          "Post-oksijenatör PO2",
+          "Pompa devri (RPM)",
+          "Sweep gaz akımı"
+        ],
+        "correct": 0,
+        "explanation": "SaO2 > %95 iken SvO2'nin > %70 olması sistemik O2 sunumunun yeterli olduğunu gösterir. Post-oksijenatör PO2 yalnızca membranın performansını yansıtır.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Femoral VA ECMO'da diferansiyel hipoksemi saptanırsa hangi çözümler uygulanabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0pnotn2",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "flip",
+        "importance": 3,
+        "question": "Femoral VA ECMO'da diferansiyel hipoksemi saptanırsa hangi çözümler uygulanabilir?",
+        "answer": "Ventilasyon optimize edilir; SVC drenajı eklenir veya drenaj kanülü SVC ağzına ilerletilir; **V-AV** konfigürasyonuna ya da aksiller/subklavyen arteriyel dönüşe geçilir. Kalp yeterince düzeldiyse VV ECMO'ya geçilebilir.",
+        "source": "ELSO 2017; ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VV ECMO'da resirkülasyon nasıl azaltılır ve hangi konfigürasyonda daha sık görülür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-003gne9",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "VV ECMO'da resirkülasyon nasıl azaltılır ve hangi konfigürasyonda daha sık görülür?",
+        "answer": "Kanül pozisyonu, ECMO akımı ve volüm durumu ayarlanır. Resirkülasyon, femoral–juguler tek lümenli **iki kanüllü** konfigürasyonda daha sıktır.",
+        "source": "ELSO VV 2021; ELSO neonatal 2020"
+      }
+    },
+    {
+      "title": "VV ECMO’da resirkülasyon sonrası efektif kan akımı nasıl hesaplanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0kclcup",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "flip",
+        "importance": 1,
+        "question": "VV ECMO’da resirkülasyon sonrası efektif kan akımı nasıl hesaplanır?",
+        "answer": "**Efektif akım = toplam ECMO akımı − resirkülasyon akımı** (aynı akım birimi). Bu değerin kalp debisine bölünmesi boyutsuz efektif ECMO akımı/kalp debisi oranını verir; oran bir kan akımı değildir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ARDS'de VV ECMO akımı kalp debisinin %60'ından azsa arteriyel satürasyon sıklıkla %90'ın altında kalır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1hw07fj",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ARDS'de VV ECMO akımı kalp debisinin %60'ından azsa arteriyel satürasyon sıklıkla %90'ın altında kalır.",
+        "isTrue": true,
+        "explanation": "Devreye girmeyen venöz kan desatüredir; ECMO akımının kalp debisine oranı azaldıkça arteriyel satürasyon düşer.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Diferansiyel hipoksemi en çok santral (aort + sağ atriyum) kanülasyonlu VA ECMO'da görülür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-013hdi3",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Diferansiyel hipoksemi en çok santral (aort + sağ atriyum) kanülasyonlu VA ECMO'da görülür.",
+        "isTrue": false,
+        "explanation": "Diferansiyel hipoksemi özellikle retrograd femoral VA akım ile nativ kalbin desatüre kanı ileri pompalaması birleştiğinde oluşur. Santral antegrad dönüşte bu mekanizma daha az belirgindir; tek bir erişime mutlak olarak özgü değildir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VV ECMO'da satürasyon tek başına yeterli değil",
+      "text": "VV ECMO'da SaO2 sıklıkla %80–90 olabilir; bu değer tek başına yeterli oksijen sunumunu kanıtlamaz. **Doku perfüzyonu ve oksijen sunumu** birlikte değerlendirilir. Hipoksemide devre ve hasta kaynaklı nedenler araştırılır; akciğer koruyucu ventilasyon korunur.",
+      "images": [],
+      "card": {
+        "id": "PER207-1n3kr5j",
+        "course": "PER207",
+        "topic": "ECMO fizyolojisi",
+        "type": "remember",
+        "importance": 3,
+        "title": "VV ECMO'da satürasyon tek başına yeterli değil",
+        "body": "VV ECMO'da SaO2 sıklıkla %80–90 olabilir; bu değer tek başına yeterli oksijen sunumunu kanıtlamaz. **Doku perfüzyonu ve oksijen sunumu** birlikte değerlendirilir. Hipoksemide devre ve hasta kaynaklı nedenler araştırılır; akciğer koruyucu ventilasyon korunur.",
+        "source": "ELSO VV 2021"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-0b63frb",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijen sunumu",
+      "en": "Oxygen delivery",
+      "definition": "Birim zamanda dokulara taşınan oksijen miktarı; kan akımı ile arteriyel oksijen içeriğinin çarpımına bağlıdır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1yvu8l9",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Oksijen tüketimi",
+      "en": "Oxygen consumption",
+      "definition": "Dokuların birim zamanda metabolizma için kullandığı oksijen miktarı.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-179s6wt",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Arteriyel O2 içeriği",
+      "en": "Arterial oxygen content",
+      "definition": "Arteriyel kandaki toplam oksijen miktarı; hemoglobine bağlı ve plazmada çözünmüş oksijenin toplamıdır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-00p4kr7",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Resirkülasyon",
+      "en": "Recirculation",
+      "definition": "VV ECMO'da oksijenatörden dönen kanın sisteme geçmeden drenaj kanülüne geri emilmesi; etkin O2 sunumunu azaltır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0i5x85v",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Diferansiyel hipoksemi",
+      "en": "Differential hypoxemia",
+      "definition": "Femoral VA ECMO'da üst vücudun (koroner, beyin, sağ kol) LV'nin pompaladığı desatüre kanla, alt vücudun ECMO'nun oksijenli kanıyla perfüze olması.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0u7hedb",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 1,
+      "term": "Karışım bölgesi",
+      "en": "Mixing zone (watershed)",
+      "definition": "Nativ ejeksiyonla retrograd ECMO akımının aortta karşılaştığı bölge; ECMO akımı arttıkça proksimale kayar.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-15f57xg",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Art yük",
+      "en": "Afterload",
+      "definition": "Ventrikülün ejeksiyon sırasında karşılaştığı yük; retrograd VA akımı LV art yükünü artırır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-04busfb",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 1,
+      "term": "Ön yük",
+      "en": "Preload",
+      "definition": "Ventrikülün diyastol sonu dolum yükü; santrifüj pompa akımı da ön yüke bağımlıdır.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-0m97lrw",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 1,
+      "term": "Nabız basıncı",
+      "en": "Pulse pressure",
+      "definition": "Sistolik ve diyastolik arter basınçları arasındaki fark. VA ECMO sırasında nativ kalbin ejeksiyonunu değerlendirmede kullanılır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-19wyp7w",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Karışık venöz satürasyon",
+      "en": "Mixed venous oxygen saturation",
+      "definition": "Pulmoner arter kanının O2 satürasyonu; doku O2 sunum yeterliliğinin göstergesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-04n3iky",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Oksijen miktarı ve oksijen basıncı",
+      "left": {
+        "title": "Oksijen içeriği",
+        "points": [
+          "Hemoglobine bağlı ve çözünmüş O2 toplamı",
+          "Oksijen sunumu hesabında kullanılır"
+        ]
+      },
+      "right": {
+        "title": "Parsiyel basınç",
+        "points": [
+          "Çözünmüş O2’nin oluşturduğu basınç",
+          "Hemoglobin miktarını tek başına göstermez"
+        ]
+      },
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1t3bq0i",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Devre ne kadar oksijen sağlar?",
+      "body": "Devrenin O2 katkısı = kan akımı × (çıkış − giriş O2 içeriği); birimler uyumlu tutulur. **CaO2 = Hb × 1,39 × SaO2 + 0,0034 × PaO2**: Hb g/dL, SaO2 0–1 kesir, PaO2 mmHg kullanılır; sonuç mL O2/dL’dir. Akım L/dk ise mL O2/dk için içerik farkı ayrıca 10 ile çarpılır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0v8pkch",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "VV devre hangi O2 sunumuna göre planlanır?",
+      "body": "Normal sistemik O2 sunumu ~600 mL/m²/dk'dır; istirahatte 300 mL/m²/dk yeterlidir. VV devre en az **240 mL/m²/dk** O2 sağlayacak şekilde planlanır. Örnek: 80 kg, Hb 12 g/dL erişkinde gereken akım **~4 L/dk**'dır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-09eni1c",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "DO2/VO2 oranı",
+      "body": "Normal oksijen sunumu/tüketimi (DO2/VO2) oranı yaklaşık **5:1**'dir; ~2:1'de tüketim sunuma bağımlı hale gelir (kritik eşik). VA ECMO'da SvO2'nin %66'nın üzerinde tutulması DO2/VO2 > 3 hedefini karşılar.",
+      "source": "ELSO VV 2021; ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0igtejf",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "PaCO2 yavaş düşürülür",
+      "body": "ECMO başlarken PaCO2'nin hızla düşmesi nörolojik hasarla ilişkilidir. Başlangıç PaCO2'si **70 mmHg'nin üzerindeyse** birkaç saat içinde yavaşça normale getirilir.",
+      "source": "ELSO 2017; ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1dj221o",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "VV ECMO'da SaO2 neden %100 olmaz?",
+      "body": "VV ECMO'da venöz dönüşün yalnız bir kısmı devreye girer; geri kalan desatüre (%60–80) kan sağ kalpte devreden gelen oksijenli kanla karışır. Bu yüzden arteriyel satürasyon tipik olarak **%80–90** olur.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1u2mhzg",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "fact",
+      "importance": 1,
+      "title": "VA ECMO'da alt vücut hiperoksemisi",
+      "body": "Femoral VA ECMO'da alt vücut hiperoksemisi ve hipokapnisi zararlıdır. Her ayar değişikliğinden sonra post-membran kan gazı alınır; post-oksijenatör PO2 için **~150 mmHg** hedeflenebilir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-025md6r",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "VV ECMO'daki hastada oksijenasyon yeterli ama PaCO2 yüksek. CO2 temizliğini artırmak için hangi ayar değiştirilir?",
+      "options": [
+        "Sweep gaz akımı artırılır",
+        "Pompa (kan) akımı artırılır",
+        "Sweep gazdaki O2 oranı (FDO2) artırılır",
+        "Ventilatörde FiO2 artırılır"
+      ],
+      "correct": 0,
+      "explanation": "CO2 uzaklaştırılması esas olarak sweep ile ayarlanır. Oksijenasyon kan akımı/kalp debisi oranı, Hb, resirkülasyon ve nativ akciğerden etkilenir; oksijenasyon yeterliyken yüksek PaCO2 için sweep titre edilir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-17e2aoh",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Femoral VA ECMO'da diferansiyel hipoksemiyi (Harlequin sendromu) saptamak için kan gazı en doğru nereden alınır?",
+      "options": [
+        "Sol radiyal arterden",
+        "Femoral arterden",
+        "Post-oksijenatör hattından",
+        "Sağ radiyal arterden"
+      ],
+      "correct": 3,
+      "explanation": "Sağ kol, beyin ve koronerlerle birlikte LV'nin pompaladığı desatüre kanla beslenir; bu yüzden sağ radiyal gaz ve serebral NIRS izlenir. Femoral bölge ECMO'nun oksijenli kanını alır.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-03m1ziw",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "VV ECMO'da aşağıdakilerden hangisi resirkülasyonu düşündüren bir bulgudur?",
+      "options": [
+        "Drenaj kanülündeki kanın renginin koyulaşması",
+        "Pre-oksijenatör satürasyonunun düşmesi",
+        "Akım artırılınca sistemik satürasyonun düşmesi",
+        "Transmembran basınç farkının artması"
+      ],
+      "correct": 2,
+      "explanation": "Resirkülasyonda oksijenli kan drenaja geri emilir; drenaj satürasyonu yükselir ve akım artınca sistemik satürasyon düşebilir. Benzer kan akımında ΔP artışı oksijenatör direnci/trombozunu düşündürür; resirkülasyon belirtisi değildir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-111b69q",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO 2017 kılavuzuna göre VA ECMO'da doku perfüzyonunun yeterliliğini en iyi gösteren parametre hangisidir?",
+      "options": [
+        "Karışık venöz satürasyon (SvO2)",
+        "Post-oksijenatör PO2",
+        "Pompa devri (RPM)",
+        "Sweep gaz akımı"
+      ],
+      "correct": 0,
+      "explanation": "SaO2 > %95 iken SvO2'nin > %70 olması sistemik O2 sunumunun yeterli olduğunu gösterir. Post-oksijenatör PO2 yalnızca membranın performansını yansıtır.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0pnotn2",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "flip",
+      "importance": 3,
+      "question": "Femoral VA ECMO'da diferansiyel hipoksemi saptanırsa hangi çözümler uygulanabilir?",
+      "answer": "Ventilasyon optimize edilir; SVC drenajı eklenir veya drenaj kanülü SVC ağzına ilerletilir; **V-AV** konfigürasyonuna ya da aksiller/subklavyen arteriyel dönüşe geçilir. Kalp yeterince düzeldiyse VV ECMO'ya geçilebilir.",
+      "source": "ELSO 2017; ELSO VA 2021"
+    },
+    {
+      "id": "PER207-003gne9",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "VV ECMO'da resirkülasyon nasıl azaltılır ve hangi konfigürasyonda daha sık görülür?",
+      "answer": "Kanül pozisyonu, ECMO akımı ve volüm durumu ayarlanır. Resirkülasyon, femoral–juguler tek lümenli **iki kanüllü** konfigürasyonda daha sıktır.",
+      "source": "ELSO VV 2021; ELSO neonatal 2020"
+    },
+    {
+      "id": "PER207-0kclcup",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "flip",
+      "importance": 1,
+      "question": "VV ECMO’da resirkülasyon sonrası efektif kan akımı nasıl hesaplanır?",
+      "answer": "**Efektif akım = toplam ECMO akımı − resirkülasyon akımı** (aynı akım birimi). Bu değerin kalp debisine bölünmesi boyutsuz efektif ECMO akımı/kalp debisi oranını verir; oran bir kan akımı değildir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1hw07fj",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ARDS'de VV ECMO akımı kalp debisinin %60'ından azsa arteriyel satürasyon sıklıkla %90'ın altında kalır.",
+      "isTrue": true,
+      "explanation": "Devreye girmeyen venöz kan desatüredir; ECMO akımının kalp debisine oranı azaldıkça arteriyel satürasyon düşer.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-013hdi3",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Diferansiyel hipoksemi en çok santral (aort + sağ atriyum) kanülasyonlu VA ECMO'da görülür.",
+      "isTrue": false,
+      "explanation": "Diferansiyel hipoksemi özellikle retrograd femoral VA akım ile nativ kalbin desatüre kanı ileri pompalaması birleştiğinde oluşur. Santral antegrad dönüşte bu mekanizma daha az belirgindir; tek bir erişime mutlak olarak özgü değildir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1n3kr5j",
+      "course": "PER207",
+      "topic": "ECMO fizyolojisi",
+      "type": "remember",
+      "importance": 3,
+      "title": "VV ECMO'da satürasyon tek başına yeterli değil",
+      "body": "VV ECMO'da SaO2 sıklıkla %80–90 olabilir; bu değer tek başına yeterli oksijen sunumunu kanıtlamaz. **Doku perfüzyonu ve oksijen sunumu** birlikte değerlendirilir. Hipoksemide devre ve hasta kaynaklı nedenler araştırılır; akciğer koruyucu ventilasyon korunur.",
+      "source": "ELSO VV 2021"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

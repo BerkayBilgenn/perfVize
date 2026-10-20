@@ -1,0 +1,724 @@
+{
+  "id": "review-73ce4c167bfe5779",
+  "title": "Mikrosirkülasyon ve KPB",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Mikrosirkülasyon",
+      "text": "Microcirculation\nArteriyol, kapiller, glikokaliks ve venülden oluşan, O2 sunumu ve madde alışverişinin yapıldığı damar ağı.",
+      "images": [],
+      "card": {
+        "id": "PER245-0u0ou0q",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Mikrosirkülasyon",
+        "en": "Microcirculation",
+        "definition": "Arteriyol, kapiller, glikokaliks ve venülden oluşan, O2 sunumu ve madde alışverişinin yapıldığı damar ağı.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Endotelyal glikokaliks",
+      "text": "Endothelial glycocalyx\nDamar endotelinin kanla temas eden yüzeyini kaplayan, sıvı ve protein geçişini düzenleyen jel benzeri tabaka.",
+      "images": [],
+      "card": {
+        "id": "PER245-0cgee6f",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "Endotelyal glikokaliks",
+        "en": "Endothelial glycocalyx",
+        "definition": "Damar endotelinin kanla temas eden yüzeyini kaplayan, sıvı ve protein geçişini düzenleyen jel benzeri tabaka.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Starling ilkesi (revize)",
+      "text": "(Revised) Starling principle\nKapiller sıvı hareketinde glikokaliksi ve subglikokaliks onkotik gradyanını dikkate alan yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER245-0du6nne",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Starling ilkesi (revize)",
+        "en": "(Revised) Starling principle",
+        "definition": "Kapiller sıvı hareketinde glikokaliksi ve subglikokaliks onkotik gradyanını dikkate alan yaklaşım.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Onkotik basınç",
+      "text": "Oncotic (colloid osmotic) pressure\nPlazma proteinlerinin (özellikle albümin) suyu damar içinde tutan ozmotik basıncı.",
+      "images": [],
+      "card": {
+        "id": "PER245-07d608c",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Onkotik basınç",
+        "en": "Oncotic (colloid osmotic) pressure",
+        "definition": "Plazma proteinlerinin (özellikle albümin) suyu damar içinde tutan ozmotik basıncı.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Otoregülasyon",
+      "text": "Autoregulation\nPerfüzyon basıncındaki değişime rağmen bir organın kan akımını belli sınırlar içinde düzenleyebilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0nx0ju3",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Otoregülasyon",
+        "en": "Autoregulation",
+        "definition": "Perfüzyon basıncındaki değişime rağmen bir organın kan akımını belli sınırlar içinde düzenleyebilmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "NIRS",
+      "text": "Near-infrared spectroscopy\nKızılötesine yakın ışıkla bölgesel (ör. serebral) doku O2 satürasyonunu ölçen noninvaziv izlem.",
+      "images": [],
+      "card": {
+        "id": "PER245-01nxm37",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "NIRS",
+        "en": "Near-infrared spectroscopy",
+        "definition": "Kızılötesine yakın ışıkla bölgesel (ör. serebral) doku O2 satürasyonunu ölçen noninvaziv izlem.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Oksijen ekstraksiyon oranı (O2ER)",
+      "text": "Oxygen extraction ratio\nDokuların kendilerine sunulan oksijenin ne kadarını kullandığını gösteren oran.",
+      "images": [],
+      "card": {
+        "id": "PER245-02cumsj",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 1,
+        "term": "Oksijen ekstraksiyon oranı (O2ER)",
+        "en": "Oxygen extraction ratio",
+        "definition": "Dokuların kendilerine sunulan oksijenin ne kadarını kullandığını gösteren oran.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kapiller kaçak",
+      "text": "Capillary leak\nEndotel/glikokaliks hasarıyla sıvı ve proteinin interstisyuma kaçması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1vkelog",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Kapiller kaçak",
+        "en": "Capillary leak",
+        "definition": "Endotel/glikokaliks hasarıyla sıvı ve proteinin interstisyuma kaçması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sublingual videomikroskopi",
+      "text": "Dil altı küçük damarların görüntülenmesiyle mikrosirkülasyonun değerlendirilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1503a1e",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Sublingual videomikroskopi",
+        "definition": "Dil altı küçük damarların görüntülenmesiyle mikrosirkülasyonun değerlendirilmesi.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "İşlevsel şant",
+      "text": "Kanın dokudaki etkin oksijen alışverişine yeterli katkı sağlamadan mikrodolaşımdan geçmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0c678j6",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "İşlevsel şant",
+        "definition": "Kanın dokudaki etkin oksijen alışverişine yeterli katkı sağlamadan mikrodolaşımdan geçmesi.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Normal basınç yeterli mi?",
+      "text": "Normal makrohemodinamik değerler, mikrosirkülasyonun normal olduğunu kanıtlamaz. KPB'de işlevsel şant ve küçük damar bozukluğu doku hipoksisiyle birlikte olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1kv80yn",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Normal basınç yeterli mi?",
+        "body": "Normal makrohemodinamik değerler, mikrosirkülasyonun normal olduğunu kanıtlamaz. KPB'de işlevsel şant ve küçük damar bozukluğu doku hipoksisiyle birlikte olabilir.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Glikokaliksin bileşenleri",
+      "text": "Proteoglikan ve glikozaminoglikanlardan oluşan glikokaliks, endotelyal bariyerin sıvı ve protein geçişini düzenlemesine katkı sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-0zhemyt",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Glikokaliksin bileşenleri",
+        "body": "Proteoglikan ve glikozaminoglikanlardan oluşan glikokaliks, endotelyal bariyerin sıvı ve protein geçişini düzenlemesine katkı sağlar.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Revize Starling'de sıvı dönüşü",
+      "text": "Revize Starling modelinde filtre edilen sıvının dolaşıma dönüşünde lenf sistemi başlıca rol oynar; sürekli venöz uç reabsorpsiyonu temel açıklama değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1tmbs8k",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Revize Starling'de sıvı dönüşü",
+        "body": "Revize Starling modelinde filtre edilen sıvının dolaşıma dönüşünde lenf sistemi başlıca rol oynar; sürekli venöz uç reabsorpsiyonu temel açıklama değildir.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Reperfüzyon ve endotel",
+      "text": "Aort klempinin kaldırılmasıyla gelişen iskemi-reperfüzyon, glikokaliks yıkımını artırabilir; syndecan-1 gibi belirteçler bu süreçte araştırılır.",
+      "images": [],
+      "card": {
+        "id": "PER245-01s1rf6",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Reperfüzyon ve endotel",
+        "body": "Aort klempinin kaldırılmasıyla gelişen iskemi-reperfüzyon, glikokaliks yıkımını artırabilir; syndecan-1 gibi belirteçler bu süreçte araştırılır.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "İzlem göstergelerinin birlikteliği",
+      "text": "Laktat, venöz satürasyon, oksijen ekstraksiyonu ve bölgesel oksimetri birlikte değerlendirilir; tek bir değer bütün doku dolaşımını temsil etmez.",
+      "images": [],
+      "card": {
+        "id": "PER245-0s0kg9f",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "İzlem göstergelerinin birlikteliği",
+        "body": "Laktat, venöz satürasyon, oksijen ekstraksiyonu ve bölgesel oksimetri birlikte değerlendirilir; tek bir değer bütün doku dolaşımını temsil etmez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kapiller duvarın temel hücresel katmanı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1r6m7ke",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kapiller duvarın temel hücresel katmanı nedir?",
+        "answer": "Tek katlı endotel; ince duvar doku ile madde alışverişine uygun yapı sağlar.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Onkotik basınca plazmada en çok hangi protein katkı verir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-04lmp13",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "flip",
+        "importance": 2,
+        "question": "Onkotik basınca plazmada en çok hangi protein katkı verir?",
+        "answer": "Albümin; plazma proteinlerinin ozmotik etkisi damar içi sıvı dengesine katkı sağlar.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Mikrosirkülasyonun doğrudan görüntülenmesi için hangi bölge sık kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0kd7wqz",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "flip",
+        "importance": 2,
+        "question": "Mikrosirkülasyonun doğrudan görüntülenmesi için hangi bölge sık kullanılır?",
+        "answer": "Sublingual bölge; videomikroskopiyle küçük damar akımı ve perfüze damarlar değerlendirilebilir.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Basınçla yetinme",
+      "text": "Normal arter basıncı, her dokunun yeterli oksijen aldığını göstermez. **Mikrosirkülasyon** ve oksijen dengesi ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ambqgk",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "remember",
+        "importance": 3,
+        "title": "Basınçla yetinme",
+        "body": "Normal arter basıncı, her dokunun yeterli oksijen aldığını göstermez. **Mikrosirkülasyon** ve oksijen dengesi ayrıca değerlendirilir.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Doku alışverişinin başlıca ince duvarlı damarı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-04rq33p",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Doku alışverişinin başlıca ince duvarlı damarı hangisidir?",
+        "options": [
+          "Kapiller",
+          "Arteriyol",
+          "Venül",
+          "Küçük musküler arter"
+        ],
+        "correct": 0,
+        "explanation": "Kapillerin tek katlı endotel duvarı doku ile madde alışverişine elverişlidir.",
+        "source": "Mikrosirkülasyon, Front CVM 2026"
+      }
+    },
+    {
+      "title": "Revize Starling modelinde onkotik gradyanın doku tarafındaki referans bölge hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0lp5ve2",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Revize Starling modelinde onkotik gradyanın doku tarafındaki referans bölge hangisidir?",
+        "options": [
+          "Toplam interstisyel sıvı",
+          "Subglikokaliks alan",
+          "Kapiller lümen merkezi",
+          "Lenf düğümünün korteksi"
+        ],
+        "correct": 1,
+        "explanation": "Revize model glikokaliks altındaki protein açısından fakir alanı dikkate alır.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "Bölgesel doku oksijenlenmesi için kızılötesine yakın ışık kullanan yöntem hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-17841lt",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Bölgesel doku oksijenlenmesi için kızılötesine yakın ışık kullanan yöntem hangisidir?",
+        "options": [
+          "Epiaortik ultrason",
+          "Elektrokardiyografi",
+          "NIRS",
+          "Transkraniyal Doppler"
+        ],
+        "correct": 2,
+        "explanation": "NIRS bölgesel doku oksijenasyonunu optik yöntemle izler; Doppler akım hakkında bilgi verir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kapiller hidrostatik basınç artışı diğer etkenler sabitken hangi yönde etki eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0jwf02t",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kapiller hidrostatik basınç artışı diğer etkenler sabitken hangi yönde etki eder?",
+        "options": [
+          "Dışa sıvı filtrasyonunu azaltır",
+          "Sıvı geçişini yalnız içe yönlendirir",
+          "Filtrasyon kuvvetini değiştirmez",
+          "Dışa sıvı filtrasyonunu artırır"
+        ],
+        "correct": 3,
+        "explanation": "Starling çerçevesinde kapiller içi hidrostatik basınç dışa sıvı hareketini destekler.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    },
+    {
+      "title": "KPB sırasında kanın yabancı yüzeylerle teması inflamatuvar yanıtı tetikleyebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0jt8vzq",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "tf",
+        "importance": 2,
+        "statement": "KPB sırasında kanın yabancı yüzeylerle teması inflamatuvar yanıtı tetikleyebilir.",
+        "isTrue": true,
+        "explanation": "Kontakt aktivasyon, kompleman ve hücresel yanıtlar mikrodolaşım bozukluğuna katkı sağlayabilir.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "Revize Starling ilkesi, glikokaliksin sıvı bariyerindeki rolünü dışlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-01x1u0g",
+        "course": "PER245",
+        "topic": "Mikrosirkülasyon ve KPB",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Revize Starling ilkesi, glikokaliksin sıvı bariyerindeki rolünü dışlar.",
+        "isTrue": false,
+        "explanation": "Revize yaklaşım glikokaliksi ve subglikokaliks onkotik gradyanı modelin merkezine alır.",
+        "source": "Glikokaliks, Indian J Anaesth 2019"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0u0ou0q",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Mikrosirkülasyon",
+      "en": "Microcirculation",
+      "definition": "Arteriyol, kapiller, glikokaliks ve venülden oluşan, O2 sunumu ve madde alışverişinin yapıldığı damar ağı.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-0cgee6f",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "Endotelyal glikokaliks",
+      "en": "Endothelial glycocalyx",
+      "definition": "Damar endotelinin kanla temas eden yüzeyini kaplayan, sıvı ve protein geçişini düzenleyen jel benzeri tabaka.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-0du6nne",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Starling ilkesi (revize)",
+      "en": "(Revised) Starling principle",
+      "definition": "Kapiller sıvı hareketinde glikokaliksi ve subglikokaliks onkotik gradyanını dikkate alan yaklaşım.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-07d608c",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Onkotik basınç",
+      "en": "Oncotic (colloid osmotic) pressure",
+      "definition": "Plazma proteinlerinin (özellikle albümin) suyu damar içinde tutan ozmotik basıncı.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-0nx0ju3",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Otoregülasyon",
+      "en": "Autoregulation",
+      "definition": "Perfüzyon basıncındaki değişime rağmen bir organın kan akımını belli sınırlar içinde düzenleyebilmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-01nxm37",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "NIRS",
+      "en": "Near-infrared spectroscopy",
+      "definition": "Kızılötesine yakın ışıkla bölgesel (ör. serebral) doku O2 satürasyonunu ölçen noninvaziv izlem.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-02cumsj",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 1,
+      "term": "Oksijen ekstraksiyon oranı (O2ER)",
+      "en": "Oxygen extraction ratio",
+      "definition": "Dokuların kendilerine sunulan oksijenin ne kadarını kullandığını gösteren oran.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1vkelog",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Kapiller kaçak",
+      "en": "Capillary leak",
+      "definition": "Endotel/glikokaliks hasarıyla sıvı ve proteinin interstisyuma kaçması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1503a1e",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Sublingual videomikroskopi",
+      "definition": "Dil altı küçük damarların görüntülenmesiyle mikrosirkülasyonun değerlendirilmesi.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-0c678j6",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "İşlevsel şant",
+      "definition": "Kanın dokudaki etkin oksijen alışverişine yeterli katkı sağlamadan mikrodolaşımdan geçmesi.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-1kv80yn",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Normal basınç yeterli mi?",
+      "body": "Normal makrohemodinamik değerler, mikrosirkülasyonun normal olduğunu kanıtlamaz. KPB'de işlevsel şant ve küçük damar bozukluğu doku hipoksisiyle birlikte olabilir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-0zhemyt",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Glikokaliksin bileşenleri",
+      "body": "Proteoglikan ve glikozaminoglikanlardan oluşan glikokaliks, endotelyal bariyerin sıvı ve protein geçişini düzenlemesine katkı sağlar.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-1tmbs8k",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Revize Starling'de sıvı dönüşü",
+      "body": "Revize Starling modelinde filtre edilen sıvının dolaşıma dönüşünde lenf sistemi başlıca rol oynar; sürekli venöz uç reabsorpsiyonu temel açıklama değildir.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-01s1rf6",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Reperfüzyon ve endotel",
+      "body": "Aort klempinin kaldırılmasıyla gelişen iskemi-reperfüzyon, glikokaliks yıkımını artırabilir; syndecan-1 gibi belirteçler bu süreçte araştırılır.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-0s0kg9f",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "İzlem göstergelerinin birlikteliği",
+      "body": "Laktat, venöz satürasyon, oksijen ekstraksiyonu ve bölgesel oksimetri birlikte değerlendirilir; tek bir değer bütün doku dolaşımını temsil etmez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1r6m7ke",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kapiller duvarın temel hücresel katmanı nedir?",
+      "answer": "Tek katlı endotel; ince duvar doku ile madde alışverişine uygun yapı sağlar.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-04lmp13",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "flip",
+      "importance": 2,
+      "question": "Onkotik basınca plazmada en çok hangi protein katkı verir?",
+      "answer": "Albümin; plazma proteinlerinin ozmotik etkisi damar içi sıvı dengesine katkı sağlar.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-0kd7wqz",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "flip",
+      "importance": 2,
+      "question": "Mikrosirkülasyonun doğrudan görüntülenmesi için hangi bölge sık kullanılır?",
+      "answer": "Sublingual bölge; videomikroskopiyle küçük damar akımı ve perfüze damarlar değerlendirilebilir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-0ambqgk",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "remember",
+      "importance": 3,
+      "title": "Basınçla yetinme",
+      "body": "Normal arter basıncı, her dokunun yeterli oksijen aldığını göstermez. **Mikrosirkülasyon** ve oksijen dengesi ayrıca değerlendirilir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-04rq33p",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Doku alışverişinin başlıca ince duvarlı damarı hangisidir?",
+      "options": [
+        "Kapiller",
+        "Arteriyol",
+        "Venül",
+        "Küçük musküler arter"
+      ],
+      "correct": 0,
+      "explanation": "Kapillerin tek katlı endotel duvarı doku ile madde alışverişine elverişlidir.",
+      "source": "Mikrosirkülasyon, Front CVM 2026"
+    },
+    {
+      "id": "PER245-0lp5ve2",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Revize Starling modelinde onkotik gradyanın doku tarafındaki referans bölge hangisidir?",
+      "options": [
+        "Toplam interstisyel sıvı",
+        "Subglikokaliks alan",
+        "Kapiller lümen merkezi",
+        "Lenf düğümünün korteksi"
+      ],
+      "correct": 1,
+      "explanation": "Revize model glikokaliks altındaki protein açısından fakir alanı dikkate alır.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-17841lt",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Bölgesel doku oksijenlenmesi için kızılötesine yakın ışık kullanan yöntem hangisidir?",
+      "options": [
+        "Epiaortik ultrason",
+        "Elektrokardiyografi",
+        "NIRS",
+        "Transkraniyal Doppler"
+      ],
+      "correct": 2,
+      "explanation": "NIRS bölgesel doku oksijenasyonunu optik yöntemle izler; Doppler akım hakkında bilgi verir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0jwf02t",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kapiller hidrostatik basınç artışı diğer etkenler sabitken hangi yönde etki eder?",
+      "options": [
+        "Dışa sıvı filtrasyonunu azaltır",
+        "Sıvı geçişini yalnız içe yönlendirir",
+        "Filtrasyon kuvvetini değiştirmez",
+        "Dışa sıvı filtrasyonunu artırır"
+      ],
+      "correct": 3,
+      "explanation": "Starling çerçevesinde kapiller içi hidrostatik basınç dışa sıvı hareketini destekler.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    },
+    {
+      "id": "PER245-0jt8vzq",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB sırasında kanın yabancı yüzeylerle teması inflamatuvar yanıtı tetikleyebilir.",
+      "isTrue": true,
+      "explanation": "Kontakt aktivasyon, kompleman ve hücresel yanıtlar mikrodolaşım bozukluğuna katkı sağlayabilir.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-01x1u0g",
+      "course": "PER245",
+      "topic": "Mikrosirkülasyon ve KPB",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Revize Starling ilkesi, glikokaliksin sıvı bariyerindeki rolünü dışlar.",
+      "isTrue": false,
+      "explanation": "Revize yaklaşım glikokaliksi ve subglikokaliks onkotik gradyanı modelin merkezine alır.",
+      "source": "Glikokaliks, Indian J Anaesth 2019"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

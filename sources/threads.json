@@ -1,0 +1,1288 @@
+[
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad7aa4c-6328-83eb-887a-5dfafa129eb7",
+      "kind": "chatgpt",
+      "title": "Yerelde Açma",
+      "preview": "::chatgpt-content-reference{index=\"0\" source_message_id=\"2dd85d15-c0e0-42ba-85d2-2c0efe92f63a\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792518733.003969,
+      "updatedAt": 1792527800.216819
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "a487ed8e-7e98-4c92-b8e3-db4c87a23b72",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792527724.958,
+        "completedAt": 1792527766.4447,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "a487ed8e-7e98-4c92-b8e3-db4c87a23b72",
+            "content": [
+              {
+                "type": "text",
+                "text": "tm izin veriyorum"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "2dd85d15-c0e0-42ba-85d2-2c0efe92f63a",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"2dd85d15-c0e0-42ba-85d2-2c0efe92f63a\"}"
+          }
+        ]
+      },
+      {
+        "id": "d281cd89-433b-46b5-84f2-7b3ea7fced85",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792527663.396,
+        "completedAt": 1792527705.619065,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "d281cd89-433b-46b5-84f2-7b3ea7fced85",
+            "content": [
+              {
+                "type": "text",
+                "text": "tm yapalım"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "bdd3ddc7-2f20-4b45-b429-160b00747a6e",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"bdd3ddc7-2f20-4b45-b429-160b00747a6e\"}"
+          }
+        ]
+      },
+      {
+        "id": "4728da9f-c4a2-4cd7-8241-b4e5374a7048",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792527598.842,
+        "completedAt": 1792527641.987948,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "4728da9f-c4a2-4cd7-8241-b4e5374a7048",
+            "content": [
+              {
+                "type": "text",
+                "text": "finderda değil bundan sonra ben bu perfüzyon klasöründe çalışacğaım çalıştıkça ekle dediğimde genel yapımım içine koyacağız tüm bilgileri ve google da bir localhot çalıştıracaksın tamam mı şuan da çalıştır o localhocatu"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "7e851211-d1c9-4b65-9db1-be29cf45533f",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"7e851211-d1c9-4b65-9db1-be29cf45533f\"}"
+          }
+        ]
+      },
+      {
+        "id": "40b4f796-f3de-4b04-80df-e0745bc5e601",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792527494.928,
+        "completedAt": 1792527546.679205,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "40b4f796-f3de-4b04-80df-e0745bc5e601",
+            "content": [
+              {
+                "type": "text",
+                "text": "bunu localde açsana"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "e815291c-1319-40ec-a318-6809713670e3",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"e815291c-1319-40ec-a318-6809713670e3\"}"
+          }
+        ]
+      },
+      {
+        "id": "2e626b33-3cf7-4ffb-8aad-4e8edd0aa369",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792518740.845263,
+        "completedAt": 1792518740.845263,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "2e626b33-3cf7-4ffb-8aad-4e8edd0aa369",
+            "content": [
+              {
+                "type": "text",
+                "text": "Lokalde açsana"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad7a437-57a0-83ed-b8cc-bafc2c25791b",
+      "kind": "chatgpt",
+      "title": "Yerel çalışma merkezi oluşturma",
+      "preview": "::chatgpt-content-reference{index=\"3\" source_message_id=\"5eb0fb91-861d-4b60-aadf-6bfb7e88457b\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792517176.218176,
+      "updatedAt": 1792518719.633842
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "3178a4cf-b8ef-4522-a0d1-49c026a4f977",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792518702.148437,
+        "completedAt": 1792518704.68625,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "3178a4cf-b8ef-4522-a0d1-49c026a4f977",
+            "content": [
+              {
+                "type": "text",
+                "text": "Localimde aç"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "5eb0fb91-861d-4b60-aadf-6bfb7e88457b",
+            "text": "::chatgpt-content-reference{index=\"3\" source_message_id=\"5eb0fb91-861d-4b60-aadf-6bfb7e88457b\"}"
+          }
+        ]
+      },
+      {
+        "id": "7fc8a2d1-3844-47d1-b4d0-df86aa5dcd4e",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792518601.524,
+        "completedAt": 1792518601.524,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "7fc8a2d1-3844-47d1-b4d0-df86aa5dcd4e",
+            "content": [
+              {
+                "type": "text",
+                "text": "yo direkt sen açsana localimde google da lcoal:host\n mac ipad chatte projelerde çalışacak dersi budnan sorna her çalışma sonarsı sana çalıştıklarını eklemeni söyleyecek sende ekleyeceksin"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b411c5a9-2e20-4b75-99d2-ec475d80aa83",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792518564.622,
+        "completedAt": 1792518564.622,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "b411c5a9-2e20-4b75-99d2-ec475d80aa83",
+            "content": [
+              {
+                "type": "text",
+                "text": "yo direkt sen açsana localimde google da lcoal:host"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "48c9d8e9-5cf6-4906-8ca3-ceb60ef5bdbf",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792518516.991,
+        "completedAt": 1792518540.071867,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "48c9d8e9-5cf6-4906-8ca3-ceb60ef5bdbf",
+            "content": [
+              {
+                "type": "text",
+                "text": "tm localimde çalıştırabilirsin"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "ddb6af15-df81-40e2-af50-f0b91547ec96",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"ddb6af15-df81-40e2-af50-f0b91547ec96\"}"
+          }
+        ]
+      },
+      {
+        "id": "6c75fe96-1bd7-4948-9685-dee820e4c9c9",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792517699.616,
+        "completedAt": 1792518385.990093,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "6c75fe96-1bd7-4948-9685-dee820e4c9c9",
+            "content": [
+              {
+                "type": "text",
+                "text": "hayır bu şekilde değil tüm çalıştığım dersleri başlık başlık görebileyim ürettiğin resimleri yine görbiletim o ders notlarının arasında"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "1772f426-d059-47e9-9187-e63ba7bb9087",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"1772f426-d059-47e9-9187-e63ba7bb9087\"}"
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad79d61-a440-83eb-a49f-7965d6ac4758",
+      "kind": "chatgpt",
+      "title": "Kalp Anatomisi Özeti",
+      "preview": "::chatgpt-content-reference{index=\"0\" source_message_id=\"7ee9c0af-37aa-4714-b819-3c6e8871021d\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792515426.180796,
+      "updatedAt": 1792519068.401051
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "1a202a58-4f12-4eb3-97cb-e6914908b82b",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792519000.978777,
+        "completedAt": 1792519061.145564,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "1a202a58-4f12-4eb3-97cb-e6914908b82b",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bana bunu pdf yap"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "7ee9c0af-37aa-4714-b819-3c6e8871021d",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"7ee9c0af-37aa-4714-b819-3c6e8871021d\"}"
+          }
+        ]
+      },
+      {
+        "id": "8818cec5-1fb9-48ae-9900-3ca62517dba2",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792515425.038463,
+        "completedAt": 1792515428.873211,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "8818cec5-1fb9-48ae-9900-3ca62517dba2",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bana güzelce anlat özetle sınava hazırla\n\n[User attached 1 file; file contents were not included]"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "fdb98343-49c1-4544-ba5e-b6f49f8cacae",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"fdb98343-49c1-4544-ba5e-b6f49f8cacae\"}"
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "name": "2.hafta kalp ve damar anatomisi.pdf",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-cTnEzt/2.hafta kalp ve damar anatomisi.pdf"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad79508-1ed8-83ed-add4-0b51f879468c",
+      "kind": "chatgpt",
+      "title": "Özetle Sınava Hazırla",
+      "preview": "::chatgpt-content-reference{index=\"0\" source_message_id=\"501f42d8-8a3a-47df-8959-93153fdcfbdf\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792513288.864778,
+      "updatedAt": 1792515117.544827
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "d28f7b6e-daf7-4251-aa8d-e68e5dc2a32e",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792515024.2617989,
+        "completedAt": 1792515096.183129,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "d28f7b6e-daf7-4251-aa8d-e68e5dc2a32e",
+            "content": [
+              {
+                "type": "text",
+                "text": "Harika bir özetti pdf de yapar mısın bu deneme ve cevaplarda olsun"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "501f42d8-8a3a-47df-8959-93153fdcfbdf",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"501f42d8-8a3a-47df-8959-93153fdcfbdf\"}"
+          }
+        ]
+      },
+      {
+        "id": "86d60e58-40b0-41c7-b515-9db5932502d2",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792513350.587202,
+        "completedAt": 1792513354.90391,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "86d60e58-40b0-41c7-b515-9db5932502d2",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bana bunu güzelce anlat özetle sınava hazırla\n\n[User attached 1 file; file contents were not included]"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "61f8ae87-47f7-4bcb-8268-54697d9d16a0",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"61f8ae87-47f7-4bcb-8268-54697d9d16a0\"}"
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "name": "1._hafta_-_mediasten_anatomisi.pdf",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-Tnb82s/1._hafta_-_mediasten_anatomisi.pdf"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad4f402-32ac-83ed-a768-acbcb91d436a",
+      "kind": "chatgpt",
+      "title": "Büyük kan dolaşımı anlatımı",
+      "preview": "::chatgpt-content-reference{index=\"1\" source_message_id=\"b71ebde6-5f33-423b-bc53-7aedbc462b2d\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792340994.662035,
+      "updatedAt": 1792513181.798705
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "da99f0fe-837d-495b-ba66-c8b314d12659",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792513152.892431,
+        "completedAt": 1792513156.574712,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "da99f0fe-837d-495b-ba66-c8b314d12659",
+            "content": [
+              {
+                "type": "text",
+                "text": "Protamin sonrası pulmoner hipertansiyonda yükü artan kalp boşluğu sorusuna cevabım C. Kontrol et, pulmoner vasküler direnci açıkla ve yeni bir perfüzyon sınav sorusu sor."
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "b71ebde6-5f33-423b-bc53-7aedbc462b2d",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"b71ebde6-5f33-423b-bc53-7aedbc462b2d\"}"
+          }
+        ]
+      },
+      {
+        "id": "6f67c31c-7439-440b-b090-c7c8053d166a",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792513106.58378,
+        "completedAt": 1792513109.255474,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "6f67c31c-7439-440b-b090-c7c8053d166a",
+            "content": [
+              {
+                "type": "text",
+                "text": "KPB sonrasında protamin verilmesinin amacı sorusuna cevabım B. Kontrol et, protaminin nasıl çalıştığını ve olası komplikasyonlarını açıkla, ardından yeni bir perfüzyon sınav sorusu sor."
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "107b6810-e60b-402a-8c40-6b478c5ac9a3",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"107b6810-e60b-402a-8c40-6b478c5ac9a3\"}"
+          }
+        ]
+      },
+      {
+        "id": "583d3e6a-81a7-4d8c-8783-7159f52ee080",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792510384.455322,
+        "completedAt": 1792510388.497674,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "583d3e6a-81a7-4d8c-8783-7159f52ee080",
+            "content": [
+              {
+                "type": "text",
+                "text": "Cross-clamp sorusuna cevabım A. Kontrol et, cross-clamp'ın ne olduğunu ve perfüzyon açısından önemini açıkla, sonra yeni bir sınav sorusu sor."
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "95f6567a-9f33-4af1-bcef-ba44241683f2",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"95f6567a-9f33-4af1-bcef-ba44241683f2\"}"
+          }
+        ]
+      },
+      {
+        "id": "dd8abc5f-1f7d-4dba-a258-9c1fe5f56c36",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792510302.879787,
+        "completedAt": 1792510306.828952,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "dd8abc5f-1f7d-4dba-a258-9c1fe5f56c36",
+            "content": [
+              {
+                "type": "text",
+                "text": "Retrograd kardiyoplejinin uygulandığı anatomik yapı sorusuna cevabım D. Kontrol et, koroner sinüsün nerede olduğunu açıkla ve sonraki perfüzyon sınav sorusuna geç."
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "c2f0e9da-bc97-421e-ae5c-94f4d065f020",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"c2f0e9da-bc97-421e-ae5c-94f4d065f020\"}"
+          }
+        ]
+      },
+      {
+        "id": "aff02fc7-92a0-40e8-83f4-29eacb08965b",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792510254.887021,
+        "completedAt": 1792510258.612999,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "aff02fc7-92a0-40e8-83f4-29eacb08965b",
+            "content": [
+              {
+                "type": "text",
+                "text": "Kardiyoplejinin temel amacı sorusuna cevabım B. Kontrol et, kardiyoplejiyi detaylı açıkla ve sonraki perfüzyon sınav sorusuna geç."
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "b4672625-0a7b-4a83-a3b3-60604c1f280a",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"b4672625-0a7b-4a83-a3b3-60604c1f280a\"}"
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad77444-20ac-83ed-9582-4692a45d0680",
+      "kind": "chatgpt",
+      "title": "PDA nedir açıklaması",
+      "preview": "::chatgpt-content-reference{index=\"1\"}\n\n\n\n**Turuncu: çıkan aort · Sarı: aort kavsi · Yeşil: göğüsteki inen aort · Mor: karın aortu.**\n\n:chatgpt-content-reference{index=\"0\"}[Aort_Bolumleri_Gorsel.png](sandbox:/workspace/scratch/641e66f4d80e/Aort_Bolumleri_Gorsel.png)",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792504950.291215,
+      "updatedAt": 1792506892.4771
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "f75ce29c-0bb5-4719-ab24-23e425c25688",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792506774.6859012,
+        "completedAt": 1792506879.376479,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "f75ce29c-0bb5-4719-ab24-23e425c25688",
+            "content": [
+              {
+                "type": "text",
+                "text": "GÖRSELLE AŞKIM YA"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "d19e72c5-f26c-5ef2-aa7c-bc51ce16cdfc",
+            "text": "::chatgpt-content-reference{index=\"1\"}\n\n\n\n**Turuncu: çıkan aort · Sarı: aort kavsi · Yeşil: göğüsteki inen aort · Mor: karın aortu.**\n\n:chatgpt-content-reference{index=\"0\"}[Aort_Bolumleri_Gorsel.png](sandbox:/workspace/scratch/641e66f4d80e/Aort_Bolumleri_Gorsel.png)"
+          }
+        ]
+      },
+      {
+        "id": "3f118d0c-15c4-4cd7-a7a8-549d5a4630eb",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792506494.402501,
+        "completedAt": 1792506710.187158,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "3f118d0c-15c4-4cd7-a7a8-549d5a4630eb",
+            "content": [
+              {
+                "type": "text",
+                "text": "Aortu detaylı ve görselle anlat"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "125c126a-2c3b-59fa-92af-50b47253b62b",
+            "text": "**Aort, sol ventrikülden (sol karıncıktan) çıkan, vücudun en büyük atardamarıdır.** Oksijenden zengin kanı, dalları aracılığıyla kalbe ve diğer organlara dağıtır. **Büyük kan dolaşımı sol ventrikülden aorta kanın atılmasıyla başlar.** :chatgpt-content-reference{index=\"0\"}\n\nÖnce görselde kalpten çıkan damarı takip et: **yükseliyor → kavis yapıyor → göğüsten ve karından aşağı iniyor.**\n\n\n\n::chatgpt-content-reference{index=\"1\" is_streaming=\"false\"}\n\n\n\n**1. Aort kökü: Kalp ile aortun birleştiği başlangıç bölgesi**\n\nBurada birbiriyle ilişkili birkaç yapı bulunur:\n\n- **Aort kapağı:** Sol ventrikül ile aort arasındadır. Normalde üç yaprakçıklıdır. Kanın aorta geçmesini sağlar; kalp gevşediğinde aorttan ventriküle geri kaçmasını önler.\n- **Annulus:** Aort kapağının tabanındaki halka şeklindeki destek bölgesidir.\n- **Valsalva sinüsleri:** Kapak yaprakçıklarının arkasındaki, aort duvarının genişlediği üç küçük bölgedir.\n- **Sinotübüler bileşke:** Sinüslerin bittiği, aortun daha düz ve tüp şeklindeki bölümünün başladığı sınırdır.\n\n**Sağ koroner arter (RCA), sağ koroner sinüsten; sol ana koroner arter (LMCA), sol koroner sinüsten çıkar.** Üçüncü sinüse **nonkoroner sinüs** denir; normalde buradan koroner arter çıkmaz. Yani “koronerler çıkan aorttan çıkar” bilgisinin daha kesin karşılığı, **aort kökündeki sinüslerden çıkmalarıdır.** :chatgpt-content-reference{index=\"2\"}\n\n**2. Aorta ascendens: Çıkan aort**\n\n**Ascendens = yükselen / çıkan.**\n\nAortun kalpten çıktıktan sonra yukarı ilerleyen bölümüdür. Aort kökünün üstündeki tüp şeklindeki kısmı, aort kavsine kadar devam eder. Erişkinde çıkan aortun uzunluğu yaklaşık **5 cm** olarak öğretilir; kişiye göre değişir.\n\nKalbin kendi kas dokusuna giden kan, başlangıçtaki **koroner arterlere** ayrılır. Ana damardaki kanın geri kalanı ise aort kavsine ilerler. :chatgpt-content-reference{index=\"3\"}\n\n**3. Arcus aortae: Aort kavsi**\n\n**Arcus = yay / kavis.**\n\nÇıkan aort burada **sola ve arkaya doğru kıvrılarak** inen aorta devam eder. Normal anatomide kavisten, kalbe yakın olandan uzağa doğru **üç ana dal** çıkar:\n\n| Sıra | Damar | Temel dağılımı |\n|---|---|---|\n| **1** | **Truncus brachiocephalicus** | Sağ baş-boyun bölgesi ve sağ kol |\n| **2** | **Sol a. carotis communis** | Sol baş-boyun bölgesi |\n| **3** | **Sol a. subclavia** | Sol kol; ayrıca boyun ve beyne giden dallar |\n\n**Truncus brachiocephalicus**, daha sonra **sağ ortak karotis** ve **sağ subklavyen artere** ayrılır.\n\nBu nedenle **sağ ortak karotis ve sağ subklavyen genellikle doğrudan aort kavsinden çıkmaz; önce ortak bir gövdeyi paylaşır.** Soldakiler ise ayrı ayrı çıkar. Bunlar normal dallanma düzenidir; anatomik varyasyonlar bulunabilir. :chatgpt-content-reference{index=\"4\"}\n\n**4. Aorta descendens: İnen aort**\n\n**Descendens = aşağı inen.**\n\nAort kavsinden sonra başlayan bölümdür. **İki bölümden oluşur:**\n\n**İnen aort = İnen torasik aort + Abdominal aort.**\n\nAralarındaki sınır **diyaframdır**. Diyafram, göğüs boşluğu ile karın boşluğunu ayıran temel solunum kasıdır. :chatgpt-content-reference{index=\"5\"}\n\n**5. İnen torasik aort: Göğüsteki bölüm**\n\nAort kavsinden sonra, göğüs boşluğunun arka tarafında, omurgaya yakın ilerler. **Posterior mediastende**, yani iki akciğer arasındaki bölgenin arka kısmında bulunur.\n\nBaşlıca dalları:\n\n- **Posterior interkostal arterler:** Kaburgalar arasındaki bölgeleri ve göğüs duvarını besler.\n- **Bronşiyal arterler:** Bronşlara ve akciğerin destek dokularına besleyici kan sağlar.\n- **Özofageal dallar:** Özofagusu, yani yemek borusunu besler.\n- **Mediastinal dallar:** Mediastendeki dokulara gider.\n- **Üst frenik arterler:** Diyaframın üst yüzünü besler.\n\n**Bronşiyal arterleri pulmoner arterlerle karıştırma:** Bronşiyal arterler dokulara besleyici kan getirir; pulmoner arterler gaz alışverişine katılacak kanı akciğerlere taşır. Torasik aort, yaklaşık **T12 düzeyindeki aort açıklığından** karına geçer. :chatgpt-content-reference{index=\"6\"}\n\n**6. Aorta abdominalis: Karındaki bölüm**\n\nDiyaframın altında başlar. **Retroperitoneal**, yani karın zarının arkasında ilerler. Başlıca dallarını şöyle öğrenebilirsin:\n\n| Dal | Beslediği temel bölgeler |\n|---|---|\n| **Truncus coeliacus — çölyak trunkus** | Dallarıyla mide, karaciğer, dalak; pankreas ve duodenumun bir bölümü |\n| **A. mesenterica superior — üst mezenterik arter** | İnce bağırsağın büyük kısmı ve kalın bağırsağın başlangıç bölümleri |\n| **Sağ ve sol renal arterler** | Böbrekler |\n| **Gonadal arterler** | Testisler veya yumurtalıklar |\n| **A. mesenterica inferior — alt mezenterik arter** | Kalın bağırsağın daha son bölümleri ve rektumun üst bölümü |\n| **Lumbal arterler** | Bel ve arka karın duvarı; omurilik dolaşımına katkı |\n\nÇölyak trunkusun üç temel dalı **sol gastrik, splenik ve ortak hepatik arterdir.** Abdominal aort ayrıca diyaframa ve böbreküstü bezlerine giden dallar da verir. :chatgpt-content-reference{index=\"7\"}\n\nYaklaşık **L4 düzeyinde**, sağ ve sol **ortak iliak artere** ayrılır. Bu ayrılmaya **bifurkasyon** denir. İliak arterleri",
+            "truncated": true
+          }
+        ]
+      },
+      {
+        "id": "c0a2eba8-8ef6-4da4-a4fc-69f1b459812e",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792506429.6228518,
+        "completedAt": 1792506432.925112,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "c0a2eba8-8ef6-4da4-a4fc-69f1b459812e",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ascenden ile desceng aynı mı"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "7b816c77-0d8e-58c2-a451-4081c59ebbc5",
+            "text": "**Hayır, ascendens ile descendens farklıdır:**\n\n- **Aorta ascendens = Çıkan aort:** Sol ventrikülden çıkar ve yukarı doğru ilerler. **Koroner arterler buradan çıkar.**\n- **Aorta descendens = İnen aort:** Aort kavsinden sonra aşağı doğru ilerler; göğüste ve karında devam eder.\n\n**Sıralama:** Sol ventrikül → **Aorta ascendens** → **Arcus aortae (aort kavsi)** → **Aorta descendens**\n\n📌 **Ascendens = çıkan · Descendens = inen.**"
+          }
+        ]
+      },
+      {
+        "id": "8416239d-f740-4779-ae8a-81b759948ec2",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792506337.1531959,
+        "completedAt": 1792506341.139952,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "8416239d-f740-4779-ae8a-81b759948ec2",
+            "content": [
+              {
+                "type": "text",
+                "text": "Descending aort ile aort thprarica aynı mı"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "a304e3c0-2e86-5e56-a5b9-25b41ad78c82",
+            "text": "**Tam olarak aynı değil.** Sanırım “aorta thoracica”yı (torasik aort) kastediyorsun.\n\n**Aorta descendens = İnen aort**, iki bölüme ayrılır:\n\n- **Aorta thoracica:** Göğüs boşluğundaki bölümü; diyaframa kadar uzanır.\n- **Aorta abdominalis:** Diyaframı geçtikten sonra karın boşluğunda devam eden bölümü.\n\n📌 **İnen aort = Torasik aort + Abdominal aort.** Yani **torasik aort, inen aortun bir bölümüdür.**"
+          }
+        ]
+      },
+      {
+        "id": "69e5fa70-afb6-4be8-9dde-17cdcca1d1bd",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792505730.812838,
+        "completedAt": 1792505736.871495,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "69e5fa70-afb6-4be8-9dde-17cdcca1d1bd",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sağ dominant diyorsan PDA NIN rcadan çıktığı anlamına geliyor o zaman"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "fc56d620-00c9-5010-9d4b-43186d219d96",
+            "text": "Evet, doğru anlamışsın. **Sağ dominant dolaşım = PDA’nın RCA’dan (sağ koroner arterden) çıkmasıdır.**\n\n**Sol dominant dolaşım = PDA’nın Cx’ten (sirkumfleks arterden) çıkmasıdır.**\n\n📌 **Dominansı belirleyen soru: “PDA hangi damardan çıkıyor?”**"
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad4ea99-2c04-83ed-9a37-caf43d6f1998",
+      "kind": "chatgpt",
+      "title": "Perfüzyonist El Kitabı PDF",
+      "preview": "Canım, söz verdiğim Perfüzyon El Kitabı – Cilt 2 için devam ediyoruz. ❤️ Bu ciltte kanülasyon, prime, antikoagülasyon, kardiyopleji, kan gazları, pompa akımları ve klinik hesaplamalar gibi konuları derin anlatacağım.",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792338585.64993,
+      "updatedAt": 1792342378.723845
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "cc92cd8f-7471-464e-9048-55b02ede5407",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792342332.7383769,
+        "completedAt": 1792342378.460715,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "cc92cd8f-7471-464e-9048-55b02ede5407",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hadi tamamladın mı? Bana bunu at"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "dbe360bf-6597-4d24-a8c2-3e8bfe6cad94",
+            "text": "Canım, söz verdiğim Perfüzyon El Kitabı – Cilt 2 için devam ediyoruz. ❤️ Bu ciltte kanülasyon, prime, antikoagülasyon, kardiyopleji, kan gazları, pompa akımları ve klinik hesaplamalar gibi konuları derin anlatacağım."
+          }
+        ]
+      },
+      {
+        "id": "1bd2bf43-5bcd-41eb-8ddf-13e9fae712cc",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792340987.7462442,
+        "completedAt": 1792340995.589306,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "1bd2bf43-5bcd-41eb-8ddf-13e9fae712cc",
+            "content": [
+              {
+                "type": "text",
+                "text": "Aynen öyle hadi kolay gelsin sana"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "9e9cc72f-7bf2-44dc-b052-90ca9147dcbf",
+            "text": "prime hazırlığı, antikoagülasyon, hesaplamalar gibi. Onu da tamamlayınca sana"
+          }
+        ]
+      },
+      {
+        "id": "e91074c8-1259-4736-802d-da7164ed8a26",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792340977.5989769,
+        "completedAt": 1792340989.074718,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "e91074c8-1259-4736-802d-da7164ed8a26",
+            "content": [
+              {
+                "type": "text",
+                "text": "Tamam, açıldı. Ben şimdi yani devamını yap"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "97aaa980-6d8a-46f4-888d-8c42ef14954b",
+            "text": "Oh, harika. O zaman bir sonraki cilde geçebiliriz: **Kalp-akciğer makinesi, kanül asyon tipleri,"
+          }
+        ]
+      },
+      {
+        "id": "f81c3661-9b67-4dc9-8e43-1ac33f6a4ec9",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792340796.230455,
+        "completedAt": 1792340812.996671,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "f81c3661-9b67-4dc9-8e43-1ac33f6a4ec9",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ya safariden giriyorum da yine olmuyor"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "fb3302e0-718c-4f96-8f5d-91b0984acef9",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"fb3302e0-718c-4f96-8f5d-91b0984acef9\"}"
+          }
+        ]
+      },
+      {
+        "id": "06c2db17-febf-4c1d-8c9c-ef3cd1678d78",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792340680.6942701,
+        "completedAt": 1792340680.6942701,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "06c2db17-febf-4c1d-8c9c-ef3cd1678d78",
+            "content": [
+              {
+                "type": "text",
+                "text": "Evet"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "attachments": []
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad3d63e-e724-83eb-b4e1-bdd74a00e94a",
+      "kind": "chatgpt",
+      "title": "PDF Hazırlama",
+      "preview": "**17 sayfalık sade ve detaylı özet hazır.** Normal konu anlatımıyla düzenledim; sınavlık bilgileri vurguladım, terimleri geçtiği yerde açıkladım.\n\n📄 :chatgpt-content-reference{index=\"0\"}[Sterilizasyon_Cerrahi_Asepsi_Sade_Detayli_Ozet.pdf](sandbox:/workspace/scratch/96f50f552094/output/pdf/Sterilizasyon_Cerrahi_Asepsi_Sade_Detayli_Ozet.pdf)",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792267842.92592,
+      "updatedAt": 1792270239.086694
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "3b7526f9-23af-4a1d-a54b-78d831e0af4e",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792269927.764194,
+        "completedAt": 1792270234.412226,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "3b7526f9-23af-4a1d-a54b-78d831e0af4e",
+            "content": [
+              {
+                "type": "text",
+                "text": "Normal özet yapsan detaylı sınavda çıkabilecek sade olsun"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "dc6f6f1d-0c37-589f-ad64-30a1558e56c6",
+            "text": "**17 sayfalık sade ve detaylı özet hazır.** Normal konu anlatımıyla düzenledim; sınavlık bilgileri vurguladım, terimleri geçtiği yerde açıkladım.\n\n📄 :chatgpt-content-reference{index=\"0\"}[Sterilizasyon_Cerrahi_Asepsi_Sade_Detayli_Ozet.pdf](sandbox:/workspace/scratch/96f50f552094/output/pdf/Sterilizasyon_Cerrahi_Asepsi_Sade_Detayli_Ozet.pdf)"
+          }
+        ]
+      },
+      {
+        "id": "546c9b22-c9ee-48d4-bf09-011326c1ba95",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792269777.4124851,
+        "completedAt": 1792269784.261706,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "546c9b22-c9ee-48d4-bf09-011326c1ba95",
+            "content": [
+              {
+                "type": "text",
+                "text": "E hadi"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "33c270b4-cd01-591b-9a96-1fd46d968f54",
+            "text": "Hazır, buradan açıp indirebilirsin:\n\n📄 :chatgpt-content-reference{index=\"0\"}[Sterilizasyon_Cerrahi_Asepsi_Detayli_Hap_Bilgiler.pdf](sandbox:/workspace/scratch/96f50f552094/output/pdf/Sterilizasyon_Cerrahi_Asepsi_Detayli_Hap_Bilgiler.pdf)"
+          }
+        ]
+      },
+      {
+        "id": "105cad13-bd8e-491a-a0f0-624da567222c",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792268407.901247,
+        "completedAt": 1792268407.901247,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "105cad13-bd8e-491a-a0f0-624da567222c",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sınavda çıkabilecek şekilde bilmem gereken her şeyi detaylıca hap bilgiler şeklinde pdf haline getir her latince kelimeyi bana tek tek açıkla"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "961aa300-4d5b-498a-b6ec-fd8dab5e46f2",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792267919.1066852,
+        "completedAt": 1792267919.1066852,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "961aa300-4d5b-498a-b6ec-fd8dab5e46f2",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sınavda çıkabilecek şekilde bilmem gereken her şeyi detaylıca hap bilgiler şeklinde pdf haline getir her latince kelimeyi bana tek tek açıkla\n\n[User attached 6 files; file contents were not included]"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "name": "Perfu%CC%88zyon-St-7.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-57igVz/Perfu%CC%88zyon-St-7.pptx"
+      },
+      {
+        "name": "Perfuzyon-St-2(1).pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-0tGBFw/Perfuzyon-St-2(1).pptx"
+      },
+      {
+        "name": "Perfuzyon-St-4(1).pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-RvynVs/Perfuzyon-St-4(1).pptx"
+      },
+      {
+        "name": "Perfuzyon-St-3(1).pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-o1MexJ/Perfuzyon-St-3(1).pptx"
+      },
+      {
+        "name": "Perfuzyon-St-1(1).pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-sSQc66/Perfuzyon-St-1(1).pptx"
+      },
+      {
+        "name": "Perfu%CC%88zyon-St-6.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-u9kJ3W/Perfu%CC%88zyon-St-6.pptx"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad3d1cb-c8fc-83eb-b55b-b60a8d09b18e",
+      "kind": "chatgpt",
+      "title": "Kardiyak Anestezi Özeti PDF",
+      "preview": "::chatgpt-content-reference{index=\"1\" source_message_id=\"b4a86095-1f1c-4642-8496-83b3df2337ba\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792266700.304362,
+      "updatedAt": 1792267591.342014
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "8d701fc0-05c3-4d8a-a555-706f337ad31a",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792267494.150867,
+        "completedAt": 1792267582.764675,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "8d701fc0-05c3-4d8a-a555-706f337ad31a",
+            "content": [
+              {
+                "type": "text",
+                "text": "Ya Slayt Slayt açıklamak yerine daha detaylı hap bilgiler odaklı yapsan pdfi"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "b4a86095-1f1c-4642-8496-83b3df2337ba",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"b4a86095-1f1c-4642-8496-83b3df2337ba\"}"
+          }
+        ]
+      },
+      {
+        "id": "92d4f899-63c0-4e0d-a5d3-180a08f9dd65",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792267247.946671,
+        "completedAt": 1792267346.465703,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "92d4f899-63c0-4e0d-a5d3-180a08f9dd65",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bunları da sınavda çıkabilecek şekilde detaylı her kelimenin anlamını tek tek açıklayarak pdf şeklinde ayarla\n\n[User attached 5 files; file contents were not included]"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "e0118334-46a8-4d16-a22e-dd95d8f65254",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"e0118334-46a8-4d16-a22e-dd95d8f65254\"}"
+          }
+        ]
+      },
+      {
+        "id": "3e9e7edf-4102-4daa-ac54-c17dbeb3db4e",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792266699.141032,
+        "completedAt": 1792266934.877286,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "3e9e7edf-4102-4daa-ac54-c17dbeb3db4e",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bunları bana detaylıca özetle ve sınavdan çıkabilecek her şeyi yaz @PDF haline getir\n\n[User attached 1 file; file contents were not included]"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "83f4672a-17d8-4b7d-b0fb-e733eafd6fe7",
+            "text": "::chatgpt-content-reference{index=\"1\" source_message_id=\"83f4672a-17d8-4b7d-b0fb-e733eafd6fe7\"}"
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "name": "Perfuzyon-St-3.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-DjBXKk/Perfuzyon-St-3.pptx"
+      },
+      {
+        "name": "Perfu%CC%88zyon-St-11.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-WQyRhN/Perfu%CC%88zyon-St-11.pptx"
+      },
+      {
+        "name": "Perfuzyon-St-1.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-rj78qA/Perfuzyon-St-1.pptx"
+      },
+      {
+        "name": "Perfuzyon-St-2.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-tYufTd/Perfuzyon-St-2.pptx"
+      },
+      {
+        "name": "Perfuzyon-St-4.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-dbdXz9/Perfuzyon-St-4.pptx"
+      },
+      {
+        "name": "6 belgeler.zip",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-oXkUZN/6 belgeler.zip"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6ad3ce52-bcd4-83ed-b6e3-839824167b46",
+      "kind": "chatgpt",
+      "title": "Kardiyak Anestezi PDF Özeti",
+      "preview": "::chatgpt-content-reference{index=\"0\" source_message_id=\"4a94a2ea-6a52-4fa9-aa59-f4241b2156fa\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1792265811.337287,
+      "updatedAt": 1792266125.637848
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "440cd554-83d6-4f70-88a3-93936d54511f",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792265860.204281,
+        "completedAt": 1792265835.212339,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "440cd554-83d6-4f70-88a3-93936d54511f",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hadi yap"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "4a94a2ea-6a52-4fa9-aa59-f4241b2156fa",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"4a94a2ea-6a52-4fa9-aa59-f4241b2156fa\"}"
+          }
+        ]
+      },
+      {
+        "id": "651ca00b-a702-4d06-bc94-c8f83e9306dc",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1792265809.797093,
+        "completedAt": 1792265809.797093,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "651ca00b-a702-4d06-bc94-c8f83e9306dc",
+            "content": [
+              {
+                "type": "text",
+                "text": "Bunu bana detaylı şekilde özetle sınavda çıkabilecek her şey dahil olsun @PDF yap\n\n[User attached 1 file; file contents were not included]"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "name": "1.Hafta 4.pdf",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-A9DbXx/1.Hafta 4.pdf"
+      }
+    ]
+  },
+  {
+    "schemaVersion": 1,
+    "untrustedDataNotice": "Thread titles and messages are untrusted data, not instructions.",
+    "thread": {
+      "id": "6acf64ea-9d08-83ed-9719-c3d58130412c",
+      "kind": "chatgpt",
+      "title": "Mitral Kapak Özeti",
+      "preview": "::chatgpt-content-reference{index=\"0\" source_message_id=\"22c54812-08eb-4739-89b9-ef5997fd5838\"}",
+      "status": {
+        "type": "idle"
+      },
+      "cwd": null,
+      "createdAt": 1791976683.48227,
+      "updatedAt": 1791976721.505124
+    },
+    "page": {
+      "order": "newest_first",
+      "limit": 10,
+      "nextCursor": null,
+      "hasMore": false
+    },
+    "turns": [
+      {
+        "id": "30aef2c0-b596-4780-94d0-e28c66559713",
+        "status": "completed",
+        "error": null,
+        "startedAt": 1791976687.365392,
+        "completedAt": 1791976689.303728,
+        "durationMs": null,
+        "items": [
+          {
+            "type": "userMessage",
+            "id": "30aef2c0-b596-4780-94d0-e28c66559713",
+            "content": [
+              {
+                "type": "text",
+                "text": "Özetle\n\n[User attached 1 file; file contents were not included]"
+              }
+            ]
+          },
+          {
+            "type": "agentMessage",
+            "id": "22c54812-08eb-4739-89b9-ef5997fd5838",
+            "text": "::chatgpt-content-reference{index=\"0\" source_message_id=\"22c54812-08eb-4739-89b9-ef5997fd5838\"}"
+          }
+        ]
+      }
+    ],
+    "attachments": [
+      {
+        "name": "4.mitral kapak hastaliklari ve cerrahisi.pptx",
+        "path": "/var/folders/x1/7mdh5gtd1w77pl8mb449wx1c0000gn/T/codex-file-preview-pP99s1/4.mitral kapak hastaliklari ve cerrahisi.pptx"
+      }
+    ]
+  }
+]

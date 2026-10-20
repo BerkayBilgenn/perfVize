@@ -1,0 +1,1114 @@
+{
+  "id": "review-ee92133f311004c2",
+  "title": "Endikasyonlar, skorlar ve ECPR",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "ECPR",
+      "text": "Extracorporeal cardiopulmonary resuscitation\nKonvansiyonel KPR başarısız olduğunda, KPR sürerken ECMO başlatılması; ECMO akımı resüsitasyonun parçası olur.",
+      "images": [],
+      "card": {
+        "id": "PER207-04d6hyn",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 3,
+        "term": "ECPR",
+        "en": "Extracorporeal cardiopulmonary resuscitation",
+        "definition": "Konvansiyonel KPR başarısız olduğunda, KPR sürerken ECMO başlatılması; ECMO akımı resüsitasyonun parçası olur.",
+        "source": "ELSO ECPR 2021"
+      }
+    },
+    {
+      "title": "Mekanik dolaşım desteği",
+      "text": "Mechanical circulatory support\nDolaşımı destekleyen cihazların genel adı (İABP, Impella, TandemHeart, ECMO, VAD, TAH).",
+      "images": [],
+      "card": {
+        "id": "PER207-0jwnzdt",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "Mekanik dolaşım desteği",
+        "en": "Mechanical circulatory support",
+        "definition": "Dolaşımı destekleyen cihazların genel adı (İABP, Impella, TandemHeart, ECMO, VAD, TAH).",
+        "source": "ACC Destek Cihazları El Kitabı"
+      }
+    },
+    {
+      "title": "İyileşmeye köprü",
+      "text": "Bridge to recovery (BTR)\nOrgan fonksiyonu düzelene kadar geçici destek.",
+      "images": [],
+      "card": {
+        "id": "PER207-0aikdpj",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "İyileşmeye köprü",
+        "en": "Bridge to recovery (BTR)",
+        "definition": "Organ fonksiyonu düzelene kadar geçici destek.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Karara köprü",
+      "text": "Bridge to decision (BTD)\nPrognoz veya nakil adaylığı netleşene kadar destek.",
+      "images": [],
+      "card": {
+        "id": "PER207-0e9djlc",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "Karara köprü",
+        "en": "Bridge to decision (BTD)",
+        "definition": "Prognoz veya nakil adaylığı netleşene kadar destek.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Transplantasyona köprü",
+      "text": "Bridge to transplant (BTT)\nUygun organ bulunana kadar destek.",
+      "images": [],
+      "card": {
+        "id": "PER207-1dghjm6",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "Transplantasyona köprü",
+        "en": "Bridge to transplant (BTT)",
+        "definition": "Uygun organ bulunana kadar destek.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Adaylığa köprü",
+      "text": "Bridge to candidacy (BTC)\nHastayı nakil adayı olabilecek duruma getirmek için destek.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ij2da8",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "Adaylığa köprü",
+        "en": "Bridge to candidacy (BTC)",
+        "definition": "Hastayı nakil adayı olabilecek duruma getirmek için destek.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Kalıcı cihaza köprü",
+      "text": "Bridge to destination / bridge to bridge\nKısa süreli destekten uzun süreli cihaza geçişe kadar destek.",
+      "images": [],
+      "card": {
+        "id": "PER207-14tzjut",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "Kalıcı cihaza köprü",
+        "en": "Bridge to destination / bridge to bridge",
+        "definition": "Kısa süreli destekten uzun süreli cihaza geçişe kadar destek.",
+        "source": "ELSO Maastricht 2019"
+      }
+    },
+    {
+      "title": "Destinasyon tedavisi",
+      "text": "Destination therapy (DT)\nKalp nakli adayı olmayan hastada uzun süreli mekanik dolaşım desteğinin kalıcı tedavi olarak kullanılması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1hzj8qp",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "Destinasyon tedavisi",
+        "en": "Destination therapy (DT)",
+        "definition": "Kalp nakli adayı olmayan hastada uzun süreli mekanik dolaşım desteğinin kalıcı tedavi olarak kullanılması.",
+        "source": "Prinzing, LVAD 2016"
+      }
+    },
+    {
+      "title": "Futilite",
+      "text": "Futility\nAnlamlı iyileşme ya da organ replasmanına ulaşma beklentisinin kalmaması. ECMO desteğinin amacı ve sürdürülmesi ekip tarafından yeniden değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0v609jf",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 3,
+        "term": "Futilite",
+        "en": "Futility",
+        "definition": "Anlamlı iyileşme ya da organ replasmanına ulaşma beklentisinin kalmaması. ECMO desteğinin amacı ve sürdürülmesi ekip tarafından yeniden değerlendirilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Postkardiyotomi şoku",
+      "text": "Postcardiotomy cardiogenic shock\nKalp cerrahisi sonrası KPB'den ayrılamama veya ağır düşük debi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1pi63xr",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "Postkardiyotomi şoku",
+        "en": "Postcardiotomy cardiogenic shock",
+        "definition": "Kalp cerrahisi sonrası KPB'den ayrılamama veya ağır düşük debi.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Kardiyojenik şok",
+      "text": "Cardiogenic shock\nKalbin yeterli sistemik akım sağlayamamasına bağlı uç organ hipoperfüzyonu ve dolaşım yetersizliği.",
+      "images": [],
+      "card": {
+        "id": "PER207-0qq4nj8",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyojenik şok",
+        "en": "Cardiogenic shock",
+        "definition": "Kalbin yeterli sistemik akım sağlayamamasına bağlı uç organ hipoperfüzyonu ve dolaşım yetersizliği.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "ARDS",
+      "text": "Acute respiratory distress syndrome\nAkut, yaygın inflamatuvar akciğer hasarı ve hipoksemi; ağır formunda VV ECMO düşünülür.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ww9c7j",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 3,
+        "term": "ARDS",
+        "en": "Acute respiratory distress syndrome",
+        "definition": "Akut, yaygın inflamatuvar akciğer hasarı ve hipoksemi; ağır formunda VV ECMO düşünülür.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Hiperkapni",
+      "text": "Hypercapnia\nArteriyel kandaki karbondioksit parsiyel basıncının yükselmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0uewl6y",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "Hiperkapni",
+        "en": "Hypercapnia",
+        "definition": "Arteriyel kandaki karbondioksit parsiyel basıncının yükselmesi.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Hipoksemi",
+      "text": "Hypoxemia\nArteriyel kanda oksijenin düşük olması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0164z9m",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "Hipoksemi",
+        "en": "Hypoxemia",
+        "definition": "Arteriyel kanda oksijenin düşük olması.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "PaO2/FiO2 oranı",
+      "text": "P/F ratio\nArteriyel oksijen parsiyel basıncının solunan oksijen fraksiyonuna bölünmesiyle elde edilen oksijenasyon göstergesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1pepbb5",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "PaO2/FiO2 oranı",
+        "en": "P/F ratio",
+        "definition": "Arteriyel oksijen parsiyel basıncının solunan oksijen fraksiyonuna bölünmesiyle elde edilen oksijenasyon göstergesi.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Murray skoru",
+      "text": "Lung Injury Score\nAkciğer grafisi, oksijenasyon, PEEP ve statik kompliyansı birlikte değerlendiren akciğer hasarı skoru.",
+      "images": [],
+      "card": {
+        "id": "PER207-1dhzhrn",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "Murray skoru",
+        "en": "Lung Injury Score",
+        "definition": "Akciğer grafisi, oksijenasyon, PEEP ve statik kompliyansı birlikte değerlendiren akciğer hasarı skoru.",
+        "source": "Murray 1988"
+      }
+    },
+    {
+      "title": "RESP skoru",
+      "text": "RESP score\nVV ECMO başlanan hastada sağkalımı öngören skor.",
+      "images": [],
+      "card": {
+        "id": "PER207-0i0xodh",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "RESP skoru",
+        "en": "RESP score",
+        "definition": "VV ECMO başlanan hastada sağkalımı öngören skor.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "SAVE skoru",
+      "text": "SAVE score\nKardiyojenik şokta VA ECMO sağkalımını öngören ELSO kayıt kaynaklı skor (postkardiyotomide geçersiz).",
+      "images": [],
+      "card": {
+        "id": "PER207-0cech9q",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 1,
+        "term": "SAVE skoru",
+        "en": "SAVE score",
+        "definition": "Kardiyojenik şokta VA ECMO sağkalımını öngören ELSO kayıt kaynaklı skor (postkardiyotomide geçersiz).",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "No-flow süresi",
+      "text": "No-flow interval\nKardiyak arrestin başlaması ile göğüs kompresyonlarının başlaması arasında dolaşım desteğinin olmadığı süre.",
+      "images": [],
+      "card": {
+        "id": "PER207-1d4ax5d",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "No-flow süresi",
+        "en": "No-flow interval",
+        "definition": "Kardiyak arrestin başlaması ile göğüs kompresyonlarının başlaması arasında dolaşım desteğinin olmadığı süre.",
+        "source": "ELSO ECPR 2021"
+      }
+    },
+    {
+      "title": "Low-flow süresi",
+      "text": "Low-flow interval\nELSO ECPR 2021’in örnek seçim tablosunda kardiyak arrestin başlangıcından ECMO akımına kadar geçen süre. Kompresyonların başlamasından ECMO’ya kadar geçen düşük akımlı KPR dönemiyle aynı zaman aralığı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ov0916",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "term",
+        "importance": 2,
+        "term": "Low-flow süresi",
+        "en": "Low-flow interval",
+        "definition": "ELSO ECPR 2021’in örnek seçim tablosunda kardiyak arrestin başlangıcından ECMO akımına kadar geçen süre. Kompresyonların başlamasından ECMO’ya kadar geçen düşük akımlı KPR dönemiyle aynı zaman aralığı değildir.",
+        "source": "ELSO ECPR 2021"
+      }
+    },
+    {
+      "title": "ECLS'nin temel endikasyonu",
+      "text": "Birincil endikasyon, optimal konvansiyonel tedaviye rağmen yüksek mortalite riski taşıyan **akut, ağır ve potansiyel olarak geri dönüşlü** kalp veya akciğer yetmezliğidir. ELSO'ya göre ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1tggmco",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "fact",
+        "importance": 3,
+        "title": "ECLS'nin temel endikasyonu",
+        "body": "Birincil endikasyon, optimal konvansiyonel tedaviye rağmen yüksek mortalite riski taşıyan **akut, ağır ve potansiyel olarak geri dönüşlü** kalp veya akciğer yetmezliğidir. ELSO'ya göre ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Kardiyojenik şokta VA ECMO zamanlaması",
+      "text": "Farmakolojik ve sıvı tedavisine dirençli kardiyojenik şokta VA ECMO, ideal olarak **şok başlangıcından itibaren 6 saat içinde** ve çoklu organ yetmezliği gelişmeden düşünülmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER207-06mrelh",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kardiyojenik şokta VA ECMO zamanlaması",
+        "body": "Farmakolojik ve sıvı tedavisine dirençli kardiyojenik şokta VA ECMO, ideal olarak **şok başlangıcından itibaren 6 saat içinde** ve çoklu organ yetmezliği gelişmeden düşünülmelidir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VA ECMO kontrendikasyonları",
+      "text": "İyileşme beklenmeyen ve VAD/transplant adayı olmayan hasta, **ağır aort yetmezliği**, dal tutulumlu akut aort diseksiyonu, ağır nörolojik hasar ve Child-Pugh B–C siroz başlıca kontrendikasyonlardır. Yaş tek başına mutlak kontrendikasyon değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1tizpv8",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "fact",
+        "importance": 2,
+        "title": "VA ECMO kontrendikasyonları",
+        "body": "İyileşme beklenmeyen ve VAD/transplant adayı olmayan hasta, **ağır aort yetmezliği**, dal tutulumlu akut aort diseksiyonu, ağır nörolojik hasar ve Child-Pugh B–C siroz başlıca kontrendikasyonlardır. Yaş tek başına mutlak kontrendikasyon değildir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "CESAR çalışması (Lancet 2009)",
+      "text": "Murray skoru > 3,0 veya pH < 7,20 olan 180 erişkinde **ECMO merkezine sevk** stratejisi test edildi. 6. ayda ağır engelsiz sağkalım %63 vs %47 idi (p = 0,03). Sevk kolundaki 90 hastanın 68'i fiilen ECMO aldı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1w5tq3n",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "fact",
+        "importance": 2,
+        "title": "CESAR çalışması (Lancet 2009)",
+        "body": "Murray skoru > 3,0 veya pH < 7,20 olan 180 erişkinde **ECMO merkezine sevk** stratejisi test edildi. 6. ayda ağır engelsiz sağkalım %63 vs %47 idi (p = 0,03). Sevk kolundaki 90 hastanın 68'i fiilen ECMO aldı.",
+        "source": "CESAR, Lancet 2009"
+      }
+    },
+    {
+      "title": "EOLIA çalışması (NEJM 2018)",
+      "text": "Ağır ARDS'de erken VV ECMO sınandı (249 hasta). 60. gün mortalite %35 vs %46 idi (RR 0,76; **p = 0,09**, anlamlı değil); kontrol grubunun %28'i kurtarıcı ECMO'ya geçti. Çalışma futilite nedeniyle erken durduruldu.",
+      "images": [],
+      "card": {
+        "id": "PER207-1xm8835",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "fact",
+        "importance": 2,
+        "title": "EOLIA çalışması (NEJM 2018)",
+        "body": "Ağır ARDS'de erken VV ECMO sınandı (249 hasta). 60. gün mortalite %35 vs %46 idi (RR 0,76; **p = 0,09**, anlamlı değil); kontrol grubunun %28'i kurtarıcı ECMO'ya geçti. Çalışma futilite nedeniyle erken durduruldu.",
+        "source": "EOLIA, NEJM 2018"
+      }
+    },
+    {
+      "title": "ECPR için örnek dahil etme kriterleri",
+      "text": "Yaş < 70, tanıklı arrest, **no-flow < 5 dk**, başlangıç ritmi VF/nabızsız VT/nabızsız elektriksel aktivite, **low-flow < 60 dk**, KPR sırasında ETCO2 > 10 mmHg ve yaşamı sınırlayan komorbidite olmaması.",
+      "images": [],
+      "card": {
+        "id": "PER207-16g4lqz",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "fact",
+        "importance": 2,
+        "title": "ECPR için örnek dahil etme kriterleri",
+        "body": "Yaş < 70, tanıklı arrest, **no-flow < 5 dk**, başlangıç ritmi VF/nabızsız VT/nabızsız elektriksel aktivite, **low-flow < 60 dk**, KPR sırasında ETCO2 > 10 mmHg ve yaşamı sınırlayan komorbidite olmaması.",
+        "source": "ELSO ECPR 2021"
+      }
+    },
+    {
+      "title": "ELSO 2021 VV kılavuzuna göre optimal tedavi ve prone pozisyon denemesine rağmen süren hipoksemik yetmezlikte VV ECMO eşiği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1v0hmdp",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ELSO 2021 VV kılavuzuna göre optimal tedavi ve prone pozisyon denemesine rağmen süren hipoksemik yetmezlikte VV ECMO eşiği hangisidir?",
+        "options": [
+          "PaO2/FiO2 < 80 mmHg",
+          "PaO2/FiO2 < 150 mmHg",
+          "PaO2/FiO2 < 200 mmHg",
+          "PaO2/FiO2 < 300 mmHg"
+        ],
+        "correct": 0,
+        "explanation": "Eşik EOLIA kriterlerine dayanır. Hiperkapnik yetmezlikte ise eşik pH < 7,25 ve PaCO2 ≥ 60 mmHg'dir.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ELSO 2021 VV ECMO kılavuzunda belirtilen tek mutlak kontrendikasyon hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0d1jimm",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ELSO 2021 VV ECMO kılavuzunda belirtilen tek mutlak kontrendikasyon hangisidir?",
+        "options": [
+          "SSS kanaması veya ciddi SSS hasarı",
+          "Dekanülasyon planı olmadan iyileşme beklenmemesi",
+          "Antikoagülasyonun kontrendike olması",
+          "7 günden uzun, yüksek basınç ve FiO2 ile ventilasyon"
+        ],
+        "correct": 1,
+        "explanation": "Diğer üçü göreceli kontrendikasyondur (SSS: santral sinir sistemi). İleri yaş da görecelidir; kesin bir yaş eşiği yoktur.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ELSO'ya göre ECLS hangi mortalite riskinde düşünülür ve hangi riskte çoğu durumda endikedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1seataz",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO'ya göre ECLS hangi mortalite riskinde düşünülür ve hangi riskte çoğu durumda endikedir?",
+        "options": [
+          "%30'da düşünülür, %50'de endike",
+          "%40'ta düşünülür, %70'te endike",
+          "%50'de düşünülür, %80'de endike",
+          "%60'ta düşünülür, %90'da endike"
+        ],
+        "correct": 2,
+        "explanation": "Genel ilke: ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "CESAR çalışmasında (2009) test edilen strateji ve birincil sonuç hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1do98vq",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "mcq",
+        "importance": 2,
+        "question": "CESAR çalışmasında (2009) test edilen strateji ve birincil sonuç hangisidir?",
+        "options": [
+          "Erken VV ECMO; 60. gün mortalite %35 vs %46",
+          "ECCO2R ile düşük Vt; 90. gün mortalite %41,5 vs %39,5",
+          "Parsiyel VA ECMO; sağkalım %9,5 vs %8,3",
+          "ECMO merkezine sevk; 6. ayda engelsiz sağkalım %63 vs %47"
+        ],
+        "correct": 3,
+        "explanation": "CESAR sevk stratejisini test etti. İlk şık EOLIA'ya, ikincisi REST'e, üçüncüsü Zapol (1979) çalışmasına aittir.",
+        "source": "CESAR, Lancet 2009"
+      }
+    },
+    {
+      "title": "ELSO ECPR kılavuzuna göre arrestten ECMO akımının başlamasına kadar geçen \"low-flow\" süresi için hedef hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1ev60uz",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO ECPR kılavuzuna göre arrestten ECMO akımının başlamasına kadar geçen \"low-flow\" süresi için hedef hangisidir?",
+        "options": [
+          "< 20 dk",
+          "< 30 dk",
+          "< 90 dk",
+          "< 60 dk"
+        ],
+        "correct": 3,
+        "explanation": "Low-flow süresinin 60 dakikanın altında olması hedeflenir. No-flow (KPR'siz arrest) süresi ise 5 dakikanın altında olmalıdır.",
+        "source": "ELSO ECPR 2021"
+      }
+    },
+    {
+      "title": "ELSO 2021'e göre hiperkapnik solunum yetmezliğinde VV ECMO eşiği nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1suzq5n",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "flip",
+        "importance": 3,
+        "question": "ELSO 2021'e göre hiperkapnik solunum yetmezliğinde VV ECMO eşiği nedir?",
+        "answer": "Optimal ventilasyona rağmen (solunum sayısı 35/dk, Pplat ≤ 30 cmH2O) **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "ECPR'de kanülasyona ne zaman başlanmalıdır? ELSO verisinde erişkin ECPR sağkalımı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0yrfzd3",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "flip",
+        "importance": 2,
+        "question": "ECPR'de kanülasyona ne zaman başlanmalıdır? ELSO verisinde erişkin ECPR sağkalımı nedir?",
+        "answer": "10–20 dakikalık başarısız resüsitasyondan sonra; 20 dakikayı aşan refrakter arrestte konvansiyonel KPR ile ROSC/sağkalım olasılığı %5'in altındadır. Erişkin ECPR'de taburculuğa kadar sağkalım **%29**'dur.",
+        "source": "ELSO ECPR 2021"
+      }
+    },
+    {
+      "title": "VA ECMO'nun sık endikasyonu olan klinik durumlar nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-01msfvq",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "flip",
+        "importance": 2,
+        "question": "VA ECMO'nun sık endikasyonu olan klinik durumlar nelerdir?",
+        "answer": "Akut miyokard enfarktüsü, fulminan miyokardit, kardiyotoksik ilaç zehirlenmesi, masif pulmoner emboli, son evre kardiyomiyopati, KPB'den ayrılamama (postkardiyotomi şoku) ve refrakter VT/VF.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "EOLIA çalışmasında erken VV ECMO, ağır ARDS'de 60. gün mortaliteyi istatistiksel olarak anlamlı biçimde azalttı.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-03hqj2x",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "tf",
+        "importance": 3,
+        "statement": "EOLIA çalışmasında erken VV ECMO, ağır ARDS'de 60. gün mortaliteyi istatistiksel olarak anlamlı biçimde azalttı.",
+        "isTrue": false,
+        "explanation": "Mortalite %35 vs %46 idi ama fark anlamlı değildi (p = 0,09). Kontrol grubunun %28'i kurtarıcı ECMO'ya geçti.",
+        "source": "EOLIA, NEJM 2018"
+      }
+    },
+    {
+      "title": "Akut solunum yetmezliğine bağlı pulmoner hipertansiyon ve sağ ventrikül disfonksiyonu genellikle VV ECMO ile düzelir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0hosw8b",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Akut solunum yetmezliğine bağlı pulmoner hipertansiyon ve sağ ventrikül disfonksiyonu genellikle VV ECMO ile düzelir.",
+        "isTrue": true,
+        "explanation": "Bu tablo önceden var olan kalp yetmezliği sanılıp gereksiz yere VA ECMO başlatılırsa hasta ek riske girer.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "SAVE skoru, postkardiyotomi şokundaki hastalarda VA ECMO sağkalımını öngörmek için kullanılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1pgd2o6",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "tf",
+        "importance": 1,
+        "statement": "SAVE skoru, postkardiyotomi şokundaki hastalarda VA ECMO sağkalımını öngörmek için kullanılır.",
+        "isTrue": false,
+        "explanation": "SAVE, ELSO kayıt verisinden türetilen VA ECMO sağkalım skorudur ama postkardiyotomi hastalarına uygulanmaz. Sınıf I'de sağkalım %75, sınıf V'te %18'dir.",
+        "source": "ELSO VA 2021"
+      }
+    },
+    {
+      "title": "VV ECMO başlama eşikleri (ELSO 2021)",
+      "text": "Hipoksemik yetmezlik: optimal tedavi ve prone denemesinden sonra **PaO2/FiO2 < 80 mmHg**. Hiperkapnik yetmezlik: optimal ventilasyona rağmen **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+      "images": [],
+      "card": {
+        "id": "PER207-1s5ze8t",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "remember",
+        "importance": 3,
+        "title": "VV ECMO başlama eşikleri (ELSO 2021)",
+        "body": "Hipoksemik yetmezlik: optimal tedavi ve prone denemesinden sonra **PaO2/FiO2 < 80 mmHg**. Hiperkapnik yetmezlik: optimal ventilasyona rağmen **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "VV ECMO değerlendirmesinde akciğer hasarının geri dönüşebilirliği neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-16w5za8",
+        "course": "PER207",
+        "topic": "Endikasyonlar, skorlar ve ECPR",
+        "type": "flip",
+        "importance": 2,
+        "question": "VV ECMO değerlendirmesinde akciğer hasarının geri dönüşebilirliği neden önemlidir?",
+        "answer": "Geçici destek, iyileşmeye ya da nakle köprü sağlamalıdır. Çıkış planı bulunmayan geri dönüşümsüz hastalıkta anlamlı dekanülasyon mümkün olmayabilir.",
+        "source": "ELSO VV 2021"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-04d6hyn",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 3,
+      "term": "ECPR",
+      "en": "Extracorporeal cardiopulmonary resuscitation",
+      "definition": "Konvansiyonel KPR başarısız olduğunda, KPR sürerken ECMO başlatılması; ECMO akımı resüsitasyonun parçası olur.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "id": "PER207-0jwnzdt",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "Mekanik dolaşım desteği",
+      "en": "Mechanical circulatory support",
+      "definition": "Dolaşımı destekleyen cihazların genel adı (İABP, Impella, TandemHeart, ECMO, VAD, TAH).",
+      "source": "ACC Destek Cihazları El Kitabı"
+    },
+    {
+      "id": "PER207-0aikdpj",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "İyileşmeye köprü",
+      "en": "Bridge to recovery (BTR)",
+      "definition": "Organ fonksiyonu düzelene kadar geçici destek.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-0e9djlc",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "Karara köprü",
+      "en": "Bridge to decision (BTD)",
+      "definition": "Prognoz veya nakil adaylığı netleşene kadar destek.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1dghjm6",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "Transplantasyona köprü",
+      "en": "Bridge to transplant (BTT)",
+      "definition": "Uygun organ bulunana kadar destek.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-0ij2da8",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "Adaylığa köprü",
+      "en": "Bridge to candidacy (BTC)",
+      "definition": "Hastayı nakil adayı olabilecek duruma getirmek için destek.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-14tzjut",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "Kalıcı cihaza köprü",
+      "en": "Bridge to destination / bridge to bridge",
+      "definition": "Kısa süreli destekten uzun süreli cihaza geçişe kadar destek.",
+      "source": "ELSO Maastricht 2019"
+    },
+    {
+      "id": "PER207-1hzj8qp",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "Destinasyon tedavisi",
+      "en": "Destination therapy (DT)",
+      "definition": "Kalp nakli adayı olmayan hastada uzun süreli mekanik dolaşım desteğinin kalıcı tedavi olarak kullanılması.",
+      "source": "Prinzing, LVAD 2016"
+    },
+    {
+      "id": "PER207-0v609jf",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 3,
+      "term": "Futilite",
+      "en": "Futility",
+      "definition": "Anlamlı iyileşme ya da organ replasmanına ulaşma beklentisinin kalmaması. ECMO desteğinin amacı ve sürdürülmesi ekip tarafından yeniden değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1pi63xr",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "Postkardiyotomi şoku",
+      "en": "Postcardiotomy cardiogenic shock",
+      "definition": "Kalp cerrahisi sonrası KPB'den ayrılamama veya ağır düşük debi.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0qq4nj8",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyojenik şok",
+      "en": "Cardiogenic shock",
+      "definition": "Kalbin yeterli sistemik akım sağlayamamasına bağlı uç organ hipoperfüzyonu ve dolaşım yetersizliği.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-0ww9c7j",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 3,
+      "term": "ARDS",
+      "en": "Acute respiratory distress syndrome",
+      "definition": "Akut, yaygın inflamatuvar akciğer hasarı ve hipoksemi; ağır formunda VV ECMO düşünülür.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0uewl6y",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "Hiperkapni",
+      "en": "Hypercapnia",
+      "definition": "Arteriyel kandaki karbondioksit parsiyel basıncının yükselmesi.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0164z9m",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "Hipoksemi",
+      "en": "Hypoxemia",
+      "definition": "Arteriyel kanda oksijenin düşük olması.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1pepbb5",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "PaO2/FiO2 oranı",
+      "en": "P/F ratio",
+      "definition": "Arteriyel oksijen parsiyel basıncının solunan oksijen fraksiyonuna bölünmesiyle elde edilen oksijenasyon göstergesi.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1dhzhrn",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "Murray skoru",
+      "en": "Lung Injury Score",
+      "definition": "Akciğer grafisi, oksijenasyon, PEEP ve statik kompliyansı birlikte değerlendiren akciğer hasarı skoru.",
+      "source": "Murray 1988"
+    },
+    {
+      "id": "PER207-0i0xodh",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "RESP skoru",
+      "en": "RESP score",
+      "definition": "VV ECMO başlanan hastada sağkalımı öngören skor.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0cech9q",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 1,
+      "term": "SAVE skoru",
+      "en": "SAVE score",
+      "definition": "Kardiyojenik şokta VA ECMO sağkalımını öngören ELSO kayıt kaynaklı skor (postkardiyotomide geçersiz).",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1d4ax5d",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "No-flow süresi",
+      "en": "No-flow interval",
+      "definition": "Kardiyak arrestin başlaması ile göğüs kompresyonlarının başlaması arasında dolaşım desteğinin olmadığı süre.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "id": "PER207-0ov0916",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "term",
+      "importance": 2,
+      "term": "Low-flow süresi",
+      "en": "Low-flow interval",
+      "definition": "ELSO ECPR 2021’in örnek seçim tablosunda kardiyak arrestin başlangıcından ECMO akımına kadar geçen süre. Kompresyonların başlamasından ECMO’ya kadar geçen düşük akımlı KPR dönemiyle aynı zaman aralığı değildir.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "id": "PER207-1tggmco",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "fact",
+      "importance": 3,
+      "title": "ECLS'nin temel endikasyonu",
+      "body": "Birincil endikasyon, optimal konvansiyonel tedaviye rağmen yüksek mortalite riski taşıyan **akut, ağır ve potansiyel olarak geri dönüşlü** kalp veya akciğer yetmezliğidir. ELSO'ya göre ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-06mrelh",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kardiyojenik şokta VA ECMO zamanlaması",
+      "body": "Farmakolojik ve sıvı tedavisine dirençli kardiyojenik şokta VA ECMO, ideal olarak **şok başlangıcından itibaren 6 saat içinde** ve çoklu organ yetmezliği gelişmeden düşünülmelidir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1tizpv8",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "fact",
+      "importance": 2,
+      "title": "VA ECMO kontrendikasyonları",
+      "body": "İyileşme beklenmeyen ve VAD/transplant adayı olmayan hasta, **ağır aort yetmezliği**, dal tutulumlu akut aort diseksiyonu, ağır nörolojik hasar ve Child-Pugh B–C siroz başlıca kontrendikasyonlardır. Yaş tek başına mutlak kontrendikasyon değildir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1w5tq3n",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "fact",
+      "importance": 2,
+      "title": "CESAR çalışması (Lancet 2009)",
+      "body": "Murray skoru > 3,0 veya pH < 7,20 olan 180 erişkinde **ECMO merkezine sevk** stratejisi test edildi. 6. ayda ağır engelsiz sağkalım %63 vs %47 idi (p = 0,03). Sevk kolundaki 90 hastanın 68'i fiilen ECMO aldı.",
+      "source": "CESAR, Lancet 2009"
+    },
+    {
+      "id": "PER207-1xm8835",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "fact",
+      "importance": 2,
+      "title": "EOLIA çalışması (NEJM 2018)",
+      "body": "Ağır ARDS'de erken VV ECMO sınandı (249 hasta). 60. gün mortalite %35 vs %46 idi (RR 0,76; **p = 0,09**, anlamlı değil); kontrol grubunun %28'i kurtarıcı ECMO'ya geçti. Çalışma futilite nedeniyle erken durduruldu.",
+      "source": "EOLIA, NEJM 2018"
+    },
+    {
+      "id": "PER207-16g4lqz",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "fact",
+      "importance": 2,
+      "title": "ECPR için örnek dahil etme kriterleri",
+      "body": "Yaş < 70, tanıklı arrest, **no-flow < 5 dk**, başlangıç ritmi VF/nabızsız VT/nabızsız elektriksel aktivite, **low-flow < 60 dk**, KPR sırasında ETCO2 > 10 mmHg ve yaşamı sınırlayan komorbidite olmaması.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "id": "PER207-1v0hmdp",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021 VV kılavuzuna göre optimal tedavi ve prone pozisyon denemesine rağmen süren hipoksemik yetmezlikte VV ECMO eşiği hangisidir?",
+      "options": [
+        "PaO2/FiO2 < 80 mmHg",
+        "PaO2/FiO2 < 150 mmHg",
+        "PaO2/FiO2 < 200 mmHg",
+        "PaO2/FiO2 < 300 mmHg"
+      ],
+      "correct": 0,
+      "explanation": "Eşik EOLIA kriterlerine dayanır. Hiperkapnik yetmezlikte ise eşik pH < 7,25 ve PaCO2 ≥ 60 mmHg'dir.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0d1jimm",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ELSO 2021 VV ECMO kılavuzunda belirtilen tek mutlak kontrendikasyon hangisidir?",
+      "options": [
+        "SSS kanaması veya ciddi SSS hasarı",
+        "Dekanülasyon planı olmadan iyileşme beklenmemesi",
+        "Antikoagülasyonun kontrendike olması",
+        "7 günden uzun, yüksek basınç ve FiO2 ile ventilasyon"
+      ],
+      "correct": 1,
+      "explanation": "Diğer üçü göreceli kontrendikasyondur (SSS: santral sinir sistemi). İleri yaş da görecelidir; kesin bir yaş eşiği yoktur.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1seataz",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO'ya göre ECLS hangi mortalite riskinde düşünülür ve hangi riskte çoğu durumda endikedir?",
+      "options": [
+        "%30'da düşünülür, %50'de endike",
+        "%40'ta düşünülür, %70'te endike",
+        "%50'de düşünülür, %80'de endike",
+        "%60'ta düşünülür, %90'da endike"
+      ],
+      "correct": 2,
+      "explanation": "Genel ilke: ECLS %50 mortalite riskinde düşünülür, %80 riskte çoğu durumda endikedir.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-1do98vq",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "mcq",
+      "importance": 2,
+      "question": "CESAR çalışmasında (2009) test edilen strateji ve birincil sonuç hangisidir?",
+      "options": [
+        "Erken VV ECMO; 60. gün mortalite %35 vs %46",
+        "ECCO2R ile düşük Vt; 90. gün mortalite %41,5 vs %39,5",
+        "Parsiyel VA ECMO; sağkalım %9,5 vs %8,3",
+        "ECMO merkezine sevk; 6. ayda engelsiz sağkalım %63 vs %47"
+      ],
+      "correct": 3,
+      "explanation": "CESAR sevk stratejisini test etti. İlk şık EOLIA'ya, ikincisi REST'e, üçüncüsü Zapol (1979) çalışmasına aittir.",
+      "source": "CESAR, Lancet 2009"
+    },
+    {
+      "id": "PER207-1ev60uz",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO ECPR kılavuzuna göre arrestten ECMO akımının başlamasına kadar geçen \"low-flow\" süresi için hedef hangisidir?",
+      "options": [
+        "< 20 dk",
+        "< 30 dk",
+        "< 90 dk",
+        "< 60 dk"
+      ],
+      "correct": 3,
+      "explanation": "Low-flow süresinin 60 dakikanın altında olması hedeflenir. No-flow (KPR'siz arrest) süresi ise 5 dakikanın altında olmalıdır.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "id": "PER207-1suzq5n",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "flip",
+      "importance": 3,
+      "question": "ELSO 2021'e göre hiperkapnik solunum yetmezliğinde VV ECMO eşiği nedir?",
+      "answer": "Optimal ventilasyona rağmen (solunum sayısı 35/dk, Pplat ≤ 30 cmH2O) **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-0yrfzd3",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "flip",
+      "importance": 2,
+      "question": "ECPR'de kanülasyona ne zaman başlanmalıdır? ELSO verisinde erişkin ECPR sağkalımı nedir?",
+      "answer": "10–20 dakikalık başarısız resüsitasyondan sonra; 20 dakikayı aşan refrakter arrestte konvansiyonel KPR ile ROSC/sağkalım olasılığı %5'in altındadır. Erişkin ECPR'de taburculuğa kadar sağkalım **%29**'dur.",
+      "source": "ELSO ECPR 2021"
+    },
+    {
+      "id": "PER207-01msfvq",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "flip",
+      "importance": 2,
+      "question": "VA ECMO'nun sık endikasyonu olan klinik durumlar nelerdir?",
+      "answer": "Akut miyokard enfarktüsü, fulminan miyokardit, kardiyotoksik ilaç zehirlenmesi, masif pulmoner emboli, son evre kardiyomiyopati, KPB'den ayrılamama (postkardiyotomi şoku) ve refrakter VT/VF.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-03hqj2x",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "tf",
+      "importance": 3,
+      "statement": "EOLIA çalışmasında erken VV ECMO, ağır ARDS'de 60. gün mortaliteyi istatistiksel olarak anlamlı biçimde azalttı.",
+      "isTrue": false,
+      "explanation": "Mortalite %35 vs %46 idi ama fark anlamlı değildi (p = 0,09). Kontrol grubunun %28'i kurtarıcı ECMO'ya geçti.",
+      "source": "EOLIA, NEJM 2018"
+    },
+    {
+      "id": "PER207-0hosw8b",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Akut solunum yetmezliğine bağlı pulmoner hipertansiyon ve sağ ventrikül disfonksiyonu genellikle VV ECMO ile düzelir.",
+      "isTrue": true,
+      "explanation": "Bu tablo önceden var olan kalp yetmezliği sanılıp gereksiz yere VA ECMO başlatılırsa hasta ek riske girer.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1pgd2o6",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "tf",
+      "importance": 1,
+      "statement": "SAVE skoru, postkardiyotomi şokundaki hastalarda VA ECMO sağkalımını öngörmek için kullanılır.",
+      "isTrue": false,
+      "explanation": "SAVE, ELSO kayıt verisinden türetilen VA ECMO sağkalım skorudur ama postkardiyotomi hastalarına uygulanmaz. Sınıf I'de sağkalım %75, sınıf V'te %18'dir.",
+      "source": "ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1s5ze8t",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "remember",
+      "importance": 3,
+      "title": "VV ECMO başlama eşikleri (ELSO 2021)",
+      "body": "Hipoksemik yetmezlik: optimal tedavi ve prone denemesinden sonra **PaO2/FiO2 < 80 mmHg**. Hiperkapnik yetmezlik: optimal ventilasyona rağmen **pH < 7,25 ve PaCO2 ≥ 60 mmHg**.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-16w5za8",
+      "course": "PER207",
+      "topic": "Endikasyonlar, skorlar ve ECPR",
+      "type": "flip",
+      "importance": 2,
+      "question": "VV ECMO değerlendirmesinde akciğer hasarının geri dönüşebilirliği neden önemlidir?",
+      "answer": "Geçici destek, iyileşmeye ya da nakle köprü sağlamalıdır. Çıkış planı bulunmayan geri dönüşümsüz hastalıkta anlamlı dekanülasyon mümkün olmayabilir.",
+      "source": "ELSO VV 2021"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

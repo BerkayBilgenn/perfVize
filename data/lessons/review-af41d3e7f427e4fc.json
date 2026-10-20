@@ -1,0 +1,867 @@
+{
+  "id": "review-af41d3e7f427e4fc",
+  "title": "Cerrahi türlerine göre anestezi",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "KABG",
+      "text": "Coronary artery bypass grafting (CABG)\nKoroner darlıkların arter/ven greftleriyle baypas edildiği cerrahi.",
+      "images": [],
+      "card": {
+        "id": "PER243-130dtz2",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 3,
+        "term": "KABG",
+        "en": "Coronary artery bypass grafting (CABG)",
+        "definition": "Koroner darlıkların arter/ven greftleriyle baypas edildiği cerrahi.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "OPCAB",
+      "text": "Off-pump CABG\nKPB kullanılmadan, atan kalpte stabilizatörle yapılan KABG.",
+      "images": [],
+      "card": {
+        "id": "PER243-1swagc0",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 3,
+        "term": "OPCAB",
+        "en": "Off-pump CABG",
+        "definition": "KPB kullanılmadan, atan kalpte stabilizatörle yapılan KABG.",
+        "source": "Front Surg 2022: OPCAB"
+      }
+    },
+    {
+      "title": "Aort darlığı",
+      "text": "Aortic stenosis\nAort kapak açıklığının daralmasıyla sol ventrikülün kanı aortaya atmasının zorlaşması; ciddi olgularda debi sınırlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1pzbanf",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 3,
+        "term": "Aort darlığı",
+        "en": "Aortic stenosis",
+        "definition": "Aort kapak açıklığının daralmasıyla sol ventrikülün kanı aortaya atmasının zorlaşması; ciddi olgularda debi sınırlıdır.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Aort yetmezliği",
+      "text": "Aortic regurgitation\nDiyastolde aorttan sol ventriküle geri kaçış; sol ventrikülde hacim yüklenmesi ve eksantrik hipertrofi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0q98y0w",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 2,
+        "term": "Aort yetmezliği",
+        "en": "Aortic regurgitation",
+        "definition": "Diyastolde aorttan sol ventriküle geri kaçış; sol ventrikülde hacim yüklenmesi ve eksantrik hipertrofi.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Mitral darlık",
+      "text": "Mitral stenosis\nMitral açıklığın daralması; taşikardi doluşu bozar, sol atriyum ve pulmoner arter basıncı artar.",
+      "images": [],
+      "card": {
+        "id": "PER243-1911tg5",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 3,
+        "term": "Mitral darlık",
+        "en": "Mitral stenosis",
+        "definition": "Mitral açıklığın daralması; taşikardi doluşu bozar, sol atriyum ve pulmoner arter basıncı artar.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Mitral yetmezlik",
+      "text": "Mitral regurgitation\nSistolde sol ventrikülden sol atriyuma geri akım; ardyük azaltma ileri akımı artırır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1bj6xgu",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 1,
+        "term": "Mitral yetmezlik",
+        "en": "Mitral regurgitation",
+        "definition": "Sistolde sol ventrikülden sol atriyuma geri akım; ardyük azaltma ileri akımı artırır.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "HOKM ve SAM",
+      "text": "HOCM / systolic anterior motion\nDinamik LVOT obstrüksiyonu ve mitral ön yaprakçığın sistolde öne hareketi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1e3i8ym",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 3,
+        "term": "HOKM ve SAM",
+        "en": "HOCM / systolic anterior motion",
+        "definition": "Dinamik LVOT obstrüksiyonu ve mitral ön yaprakçığın sistolde öne hareketi.",
+        "source": "Saudi J Anaesth 2021: HOKM"
+      }
+    },
+    {
+      "title": "Kardiyak tamponad",
+      "text": "Cardiac tamponade\nPerikardiyal sıvı/kanın kalbin doluşunu engellemesi; Beck triadı (JVD, hipotansiyon, derinden kalp sesleri).",
+      "images": [],
+      "card": {
+        "id": "PER243-1q58zj1",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyak tamponad",
+        "en": "Cardiac tamponade",
+        "definition": "Perikardiyal sıvı/kanın kalbin doluşunu engellemesi; Beck triadı (JVD, hipotansiyon, derinden kalp sesleri).",
+        "source": "Vasc Specialist Int 2023: tamponad"
+      }
+    },
+    {
+      "title": "Aort kapak lezyonlarında hedef",
+      "text": "Aort darlığı\nSinüs ritmi ve uygun doluş korunur\nSistemik vasküler direnç korunur\n\nAort yetmezliği\nBradikardiden kaçınılır\nArdyük azaltılması ileri akımı kolaylaştırır",
+      "images": [],
+      "card": {
+        "id": "PER243-1841nt9",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Aort kapak lezyonlarında hedef",
+        "left": {
+          "title": "Aort darlığı",
+          "points": [
+            "Sinüs ritmi ve uygun doluş korunur",
+            "Sistemik vasküler direnç korunur"
+          ]
+        },
+        "right": {
+          "title": "Aort yetmezliği",
+          "points": [
+            "Bradikardiden kaçınılır",
+            "Ardyük azaltılması ileri akımı kolaylaştırır"
+          ]
+        },
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Mitral kapak lezyonlarında hedef",
+      "text": "Mitral darlık\nTaşikardi doluşu kötüleştirir\nArdyük azaltma temel doluş engelini gidermez\n\nMitral yetmezlik\nBradikardi regürjitan yükü artırabilir\nArdyük azaltma ileri akımı artırır",
+      "images": [],
+      "card": {
+        "id": "PER243-0p5e4vx",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "compare",
+        "importance": 2,
+        "title": "Mitral kapak lezyonlarında hedef",
+        "left": {
+          "title": "Mitral darlık",
+          "points": [
+            "Taşikardi doluşu kötüleştirir",
+            "Ardyük azaltma temel doluş engelini gidermez"
+          ]
+        },
+        "right": {
+          "title": "Mitral yetmezlik",
+          "points": [
+            "Bradikardi regürjitan yükü artırabilir",
+            "Ardyük azaltma ileri akımı artırır"
+          ]
+        },
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "OPCAB'da bozulma nedenleri",
+      "text": "Pompasız koroner cerrahide stabilizatörün kalbe baskısı ve koroner akımın geçici kesilmesi **hemodinamik bozulma ve iskemi** oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ntanfy",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "fact",
+        "importance": 2,
+        "title": "OPCAB'da bozulma nedenleri",
+        "body": "Pompasız koroner cerrahide stabilizatörün kalbe baskısı ve koroner akımın geçici kesilmesi **hemodinamik bozulma ve iskemi** oluşturabilir.",
+        "source": "Front Surg 2022: OPCAB"
+      }
+    },
+    {
+      "title": "Aort yetmezliğinde diyastol",
+      "text": "Bradikardi diyastolü uzatarak aort yetmezliğinde **regürjitasyon süresini artırır**; bu nedenle daha hızlı kalp hızı tercih edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xssciz",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Aort yetmezliğinde diyastol",
+        "body": "Bradikardi diyastolü uzatarak aort yetmezliğinde **regürjitasyon süresini artırır**; bu nedenle daha hızlı kalp hızı tercih edilir.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Mitral darlıkta sıvı",
+      "text": "Mitral darlıkta aşırı sıvı yüklemesi **pulmoner ödem** oluşturabilir; önyük dikkatli değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1b2y6qk",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Mitral darlıkta sıvı",
+        "body": "Mitral darlıkta aşırı sıvı yüklemesi **pulmoner ödem** oluşturabilir; önyük dikkatli değerlendirilir.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "HOKM'de dinamik obstrüksiyon",
+      "text": "Hipertrofik obstrüktif kardiyomiyopatide önyük veya ardyük azalması, taşikardi ve kontraktilite artışı **çıkış yolu obstrüksiyonunu artırabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-0jvuudl",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "fact",
+        "importance": 2,
+        "title": "HOKM'de dinamik obstrüksiyon",
+        "body": "Hipertrofik obstrüktif kardiyomiyopatide önyük veya ardyük azalması, taşikardi ve kontraktilite artışı **çıkış yolu obstrüksiyonunu artırabilir**.",
+        "source": "Saudi J Anaesth 2021: HOKM"
+      }
+    },
+    {
+      "title": "Tamponadda pozitif basınç",
+      "text": "Kardiyak tamponadda pozitif basınçlı ventilasyonun başlaması **venöz dönüşü azaltarak** dolaşım çöküşü oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-132utlq",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "fact",
+        "importance": 1,
+        "title": "Tamponadda pozitif basınç",
+        "body": "Kardiyak tamponadda pozitif basınçlı ventilasyonun başlaması **venöz dönüşü azaltarak** dolaşım çöküşü oluşturabilir.",
+        "source": "Vasc Specialist Int 2023: tamponad"
+      }
+    },
+    {
+      "title": "Hipoksi, hiperkarbi ve asidoz sağ ventrikül yükünü neden artırabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0hc7yj9",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "flip",
+        "importance": 1,
+        "question": "Hipoksi, hiperkarbi ve asidoz sağ ventrikül yükünü neden artırabilir?",
+        "answer": "**Pulmoner vasküler direnci artırarak** sağ ventrikülün karşı koyduğu yükü yükseltirler.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "HOKM'de inotropla kötüleşen hipotansiyon hangi mekanizmayı düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-09rvtbw",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "flip",
+        "importance": 2,
+        "question": "HOKM'de inotropla kötüleşen hipotansiyon hangi mekanizmayı düşündürür?",
+        "answer": "Kontraktilite artışıyla ağırlaşan **dinamik sol ventrikül çıkış yolu obstrüksiyonunu** düşündürür.",
+        "source": "Saudi J Anaesth 2021: HOKM"
+      }
+    },
+    {
+      "title": "Beck triadının bileşenleri nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1v1ieg7",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Beck triadının bileşenleri nelerdir?",
+        "answer": "**Juguler venöz dolgunluk, hipotansiyon ve azalmış kalp sesleri**; kardiyak tamponadın klasik bulgularıdır.",
+        "source": "Vasc Specialist Int 2023: tamponad"
+      }
+    },
+    {
+      "title": "OPCAB'da kalbin yer değiştirmesi neden yakın izlem gerektirir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0gwvk7r",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "flip",
+        "importance": 3,
+        "question": "OPCAB'da kalbin yer değiştirmesi neden yakın izlem gerektirir?",
+        "answer": "Stabilizatör baskısı ve koroner akım kesilmesi **iskemi ve hemodinamik bozulma** oluşturabilir.",
+        "source": "Front Surg 2022: OPCAB"
+      }
+    },
+    {
+      "title": "HOKM'de inotrop tuzağı",
+      "text": "Hipertrofik obstrüktif kardiyomiyopatide kontraktiliteyi artırmak obstrüksiyonu ağırlaştırabilir. Hipotansiyonda **önyük ve ardyükün korunması** önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1f42mu9",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "remember",
+        "importance": 3,
+        "title": "HOKM'de inotrop tuzağı",
+        "body": "Hipertrofik obstrüktif kardiyomiyopatide kontraktiliteyi artırmak obstrüksiyonu ağırlaştırabilir. Hipotansiyonda **önyük ve ardyükün korunması** önemlidir.",
+        "source": "Saudi J Anaesth 2021: HOKM"
+      }
+    },
+    {
+      "title": "Aort darlığı ve hipotansiyonda hangi damar etkisi hedeflenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0mtro9d",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Aort darlığı ve hipotansiyonda hangi damar etkisi hedeflenir?",
+        "options": [
+          "Sistemik direncin korunması",
+          "Sistemik direncin ani düşürülmesi",
+          "Venöz dönüşün kesilmesi",
+          "Pulmoner basıncın yükseltilmesi"
+        ],
+        "correct": 0,
+        "explanation": "Aort darlığında ardyükün korunması ve hipotansiyonun önlenmesi önemlidir.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Mitral darlıkta taşikardi hangi mekanizmayla sorun oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1ugspcc",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Mitral darlıkta taşikardi hangi mekanizmayla sorun oluşturur?",
+        "options": [
+          "Kapak açıklığını genişletir",
+          "Diyastolik doluş süresini kısaltır",
+          "Atriyal katkıyı güçlendirir",
+          "Pulmoner direnci azaltır"
+        ],
+        "correct": 1,
+        "explanation": "Taşikardi doluş için ayrılan zamanı azaltır ve mitral gradyanı artırabilir.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "HOKM'de hangi inotrop ürün bilgisine göre kontrendikedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0519k47",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "HOKM'de hangi inotrop ürün bilgisine göre kontrendikedir?",
+        "options": [
+          "Fenilefrin",
+          "Noradrenalin",
+          "Dobutamin",
+          "Esmolol"
+        ],
+        "correct": 2,
+        "explanation": "Dobutamin etiketinde idiyopatik hipertrofik subaortik stenoz kontrendikasyon olarak yer alır.",
+        "source": "DailyMed: dobutamin"
+      }
+    },
+    {
+      "title": "Tamponadda korunması gereken kompansasyon hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1sgqwph",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Tamponadda korunması gereken kompansasyon hangisidir?",
+        "options": [
+          "Belirgin bradikardi ve venodilatasyon",
+          "Önyük azalması ve vazodilatasyon",
+          "Yüksek intratorasik basınç ve doluş azalması",
+          "Taşikardi ve kontraktilite"
+        ],
+        "correct": 3,
+        "explanation": "Tamponadda kompansatuvar hız ve kasılma ile önyükün korunması önemlidir.",
+        "source": "Vasc Specialist Int 2023: tamponad"
+      }
+    },
+    {
+      "title": "Mitral yetmezlikte ileri akımı hangi değişiklik kolaylaştırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-07jn3tm",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Mitral yetmezlikte ileri akımı hangi değişiklik kolaylaştırır?",
+        "options": [
+          "Ardyükün azaltılması",
+          "Ardyükün artırılması",
+          "Belirgin bradikardi",
+          "Hipervoleminin artırılması"
+        ],
+        "correct": 0,
+        "explanation": "Ardyükün azaltılması mitral yetmezlikte ileri sistolik akımı kolaylaştırır.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Tamponadda nitrogliserin ürün bilgisine göre kontrendikedir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0x36lrw",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Tamponadda nitrogliserin ürün bilgisine göre kontrendikedir.",
+        "isTrue": true,
+        "explanation": "Venodilatasyonla doluşun azaltılması tamponadda dolaşımı bozabilir; ürün bilgisi kontrendikasyon belirtir.",
+        "source": "DailyMed: nitrogliserin"
+      }
+    },
+    {
+      "title": "Mitral darlıkta ardyükün azaltılması mitral kapaktaki doluş engelini ortadan kaldırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-13mfg55",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Mitral darlıkta ardyükün azaltılması mitral kapaktaki doluş engelini ortadan kaldırır.",
+        "isTrue": false,
+        "explanation": "Temel problem kapak darlığıdır; ardyük azaltılması darlığa bağlı doluş engelini gidermez.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "KABG sırasında aşırı sol ventrikül doluş basıncı koroner perfüzyon basıncını azaltabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1jgy7v5",
+        "course": "PER243",
+        "topic": "Cerrahi türlerine göre anestezi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "KABG sırasında aşırı sol ventrikül doluş basıncı koroner perfüzyon basıncını azaltabilir.",
+        "isTrue": true,
+        "explanation": "Koroner perfüzyon basıncı diyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı farkına bağlıdır.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-130dtz2",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 3,
+      "term": "KABG",
+      "en": "Coronary artery bypass grafting (CABG)",
+      "definition": "Koroner darlıkların arter/ven greftleriyle baypas edildiği cerrahi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1swagc0",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 3,
+      "term": "OPCAB",
+      "en": "Off-pump CABG",
+      "definition": "KPB kullanılmadan, atan kalpte stabilizatörle yapılan KABG.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "id": "PER243-1pzbanf",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 3,
+      "term": "Aort darlığı",
+      "en": "Aortic stenosis",
+      "definition": "Aort kapak açıklığının daralmasıyla sol ventrikülün kanı aortaya atmasının zorlaşması; ciddi olgularda debi sınırlıdır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-0q98y0w",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 2,
+      "term": "Aort yetmezliği",
+      "en": "Aortic regurgitation",
+      "definition": "Diyastolde aorttan sol ventriküle geri kaçış; sol ventrikülde hacim yüklenmesi ve eksantrik hipertrofi.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1911tg5",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 3,
+      "term": "Mitral darlık",
+      "en": "Mitral stenosis",
+      "definition": "Mitral açıklığın daralması; taşikardi doluşu bozar, sol atriyum ve pulmoner arter basıncı artar.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1bj6xgu",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 1,
+      "term": "Mitral yetmezlik",
+      "en": "Mitral regurgitation",
+      "definition": "Sistolde sol ventrikülden sol atriyuma geri akım; ardyük azaltma ileri akımı artırır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1e3i8ym",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 3,
+      "term": "HOKM ve SAM",
+      "en": "HOCM / systolic anterior motion",
+      "definition": "Dinamik LVOT obstrüksiyonu ve mitral ön yaprakçığın sistolde öne hareketi.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "id": "PER243-1q58zj1",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyak tamponad",
+      "en": "Cardiac tamponade",
+      "definition": "Perikardiyal sıvı/kanın kalbin doluşunu engellemesi; Beck triadı (JVD, hipotansiyon, derinden kalp sesleri).",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "id": "PER243-1841nt9",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Aort kapak lezyonlarında hedef",
+      "left": {
+        "title": "Aort darlığı",
+        "points": [
+          "Sinüs ritmi ve uygun doluş korunur",
+          "Sistemik vasküler direnç korunur"
+        ]
+      },
+      "right": {
+        "title": "Aort yetmezliği",
+        "points": [
+          "Bradikardiden kaçınılır",
+          "Ardyük azaltılması ileri akımı kolaylaştırır"
+        ]
+      },
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-0p5e4vx",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "compare",
+      "importance": 2,
+      "title": "Mitral kapak lezyonlarında hedef",
+      "left": {
+        "title": "Mitral darlık",
+        "points": [
+          "Taşikardi doluşu kötüleştirir",
+          "Ardyük azaltma temel doluş engelini gidermez"
+        ]
+      },
+      "right": {
+        "title": "Mitral yetmezlik",
+        "points": [
+          "Bradikardi regürjitan yükü artırabilir",
+          "Ardyük azaltma ileri akımı artırır"
+        ]
+      },
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1ntanfy",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "fact",
+      "importance": 2,
+      "title": "OPCAB'da bozulma nedenleri",
+      "body": "Pompasız koroner cerrahide stabilizatörün kalbe baskısı ve koroner akımın geçici kesilmesi **hemodinamik bozulma ve iskemi** oluşturabilir.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "id": "PER243-1xssciz",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Aort yetmezliğinde diyastol",
+      "body": "Bradikardi diyastolü uzatarak aort yetmezliğinde **regürjitasyon süresini artırır**; bu nedenle daha hızlı kalp hızı tercih edilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1b2y6qk",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Mitral darlıkta sıvı",
+      "body": "Mitral darlıkta aşırı sıvı yüklemesi **pulmoner ödem** oluşturabilir; önyük dikkatli değerlendirilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-0jvuudl",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "fact",
+      "importance": 2,
+      "title": "HOKM'de dinamik obstrüksiyon",
+      "body": "Hipertrofik obstrüktif kardiyomiyopatide önyük veya ardyük azalması, taşikardi ve kontraktilite artışı **çıkış yolu obstrüksiyonunu artırabilir**.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "id": "PER243-132utlq",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "fact",
+      "importance": 1,
+      "title": "Tamponadda pozitif basınç",
+      "body": "Kardiyak tamponadda pozitif basınçlı ventilasyonun başlaması **venöz dönüşü azaltarak** dolaşım çöküşü oluşturabilir.",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "id": "PER243-0hc7yj9",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "flip",
+      "importance": 1,
+      "question": "Hipoksi, hiperkarbi ve asidoz sağ ventrikül yükünü neden artırabilir?",
+      "answer": "**Pulmoner vasküler direnci artırarak** sağ ventrikülün karşı koyduğu yükü yükseltirler.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-09rvtbw",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "flip",
+      "importance": 2,
+      "question": "HOKM'de inotropla kötüleşen hipotansiyon hangi mekanizmayı düşündürür?",
+      "answer": "Kontraktilite artışıyla ağırlaşan **dinamik sol ventrikül çıkış yolu obstrüksiyonunu** düşündürür.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "id": "PER243-1v1ieg7",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Beck triadının bileşenleri nelerdir?",
+      "answer": "**Juguler venöz dolgunluk, hipotansiyon ve azalmış kalp sesleri**; kardiyak tamponadın klasik bulgularıdır.",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "id": "PER243-0gwvk7r",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "flip",
+      "importance": 3,
+      "question": "OPCAB'da kalbin yer değiştirmesi neden yakın izlem gerektirir?",
+      "answer": "Stabilizatör baskısı ve koroner akım kesilmesi **iskemi ve hemodinamik bozulma** oluşturabilir.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "id": "PER243-1f42mu9",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "remember",
+      "importance": 3,
+      "title": "HOKM'de inotrop tuzağı",
+      "body": "Hipertrofik obstrüktif kardiyomiyopatide kontraktiliteyi artırmak obstrüksiyonu ağırlaştırabilir. Hipotansiyonda **önyük ve ardyükün korunması** önemlidir.",
+      "source": "Saudi J Anaesth 2021: HOKM"
+    },
+    {
+      "id": "PER243-0mtro9d",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Aort darlığı ve hipotansiyonda hangi damar etkisi hedeflenir?",
+      "options": [
+        "Sistemik direncin korunması",
+        "Sistemik direncin ani düşürülmesi",
+        "Venöz dönüşün kesilmesi",
+        "Pulmoner basıncın yükseltilmesi"
+      ],
+      "correct": 0,
+      "explanation": "Aort darlığında ardyükün korunması ve hipotansiyonun önlenmesi önemlidir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1ugspcc",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Mitral darlıkta taşikardi hangi mekanizmayla sorun oluşturur?",
+      "options": [
+        "Kapak açıklığını genişletir",
+        "Diyastolik doluş süresini kısaltır",
+        "Atriyal katkıyı güçlendirir",
+        "Pulmoner direnci azaltır"
+      ],
+      "correct": 1,
+      "explanation": "Taşikardi doluş için ayrılan zamanı azaltır ve mitral gradyanı artırabilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-0519k47",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "HOKM'de hangi inotrop ürün bilgisine göre kontrendikedir?",
+      "options": [
+        "Fenilefrin",
+        "Noradrenalin",
+        "Dobutamin",
+        "Esmolol"
+      ],
+      "correct": 2,
+      "explanation": "Dobutamin etiketinde idiyopatik hipertrofik subaortik stenoz kontrendikasyon olarak yer alır.",
+      "source": "DailyMed: dobutamin"
+    },
+    {
+      "id": "PER243-1sgqwph",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Tamponadda korunması gereken kompansasyon hangisidir?",
+      "options": [
+        "Belirgin bradikardi ve venodilatasyon",
+        "Önyük azalması ve vazodilatasyon",
+        "Yüksek intratorasik basınç ve doluş azalması",
+        "Taşikardi ve kontraktilite"
+      ],
+      "correct": 3,
+      "explanation": "Tamponadda kompansatuvar hız ve kasılma ile önyükün korunması önemlidir.",
+      "source": "Vasc Specialist Int 2023: tamponad"
+    },
+    {
+      "id": "PER243-07jn3tm",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Mitral yetmezlikte ileri akımı hangi değişiklik kolaylaştırır?",
+      "options": [
+        "Ardyükün azaltılması",
+        "Ardyükün artırılması",
+        "Belirgin bradikardi",
+        "Hipervoleminin artırılması"
+      ],
+      "correct": 0,
+      "explanation": "Ardyükün azaltılması mitral yetmezlikte ileri sistolik akımı kolaylaştırır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-0x36lrw",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Tamponadda nitrogliserin ürün bilgisine göre kontrendikedir.",
+      "isTrue": true,
+      "explanation": "Venodilatasyonla doluşun azaltılması tamponadda dolaşımı bozabilir; ürün bilgisi kontrendikasyon belirtir.",
+      "source": "DailyMed: nitrogliserin"
+    },
+    {
+      "id": "PER243-13mfg55",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Mitral darlıkta ardyükün azaltılması mitral kapaktaki doluş engelini ortadan kaldırır.",
+      "isTrue": false,
+      "explanation": "Temel problem kapak darlığıdır; ardyük azaltılması darlığa bağlı doluş engelini gidermez.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1jgy7v5",
+      "course": "PER243",
+      "topic": "Cerrahi türlerine göre anestezi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "KABG sırasında aşırı sol ventrikül doluş basıncı koroner perfüzyon basıncını azaltabilir.",
+      "isTrue": true,
+      "explanation": "Koroner perfüzyon basıncı diyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı farkına bağlıdır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

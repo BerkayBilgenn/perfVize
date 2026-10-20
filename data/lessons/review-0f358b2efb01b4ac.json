@@ -1,0 +1,1166 @@
+{
+  "id": "review-0f358b2efb01b4ac",
+  "title": "Kalp anatomisi",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Perikard",
+      "text": "Pericardium\nKalbi saran kese: dışta fibröz perikard, içte seröz perikard (pariyetal + viseral yaprak).\nYun. peri = çevre + kardia = kalp",
+      "images": [],
+      "card": {
+        "id": "PER241-0ydsc3p",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 3,
+        "source": "TeachMeAnatomy",
+        "term": "Perikard",
+        "en": "Pericardium",
+        "definition": "Kalbi saran kese: dışta fibröz perikard, içte seröz perikard (pariyetal + viseral yaprak).",
+        "origin": "Yun. peri = çevre + kardia = kalp"
+      }
+    },
+    {
+      "title": "Epikard",
+      "text": "Epicardium\nSeröz perikardın viseral yaprağı; kalp duvarının en dış tabakası.\nYun. epi = üst",
+      "images": [],
+      "card": {
+        "id": "PER241-0pve03d",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Epikard",
+        "en": "Epicardium",
+        "definition": "Seröz perikardın viseral yaprağı; kalp duvarının en dış tabakası.",
+        "origin": "Yun. epi = üst"
+      }
+    },
+    {
+      "title": "Miyokard",
+      "text": "Myocardium\nKalp duvarının kas tabakası; en kalın tabaka.\nYun. mys/myo = kas",
+      "images": [],
+      "card": {
+        "id": "PER241-0u1ttfl",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "term": "Miyokard",
+        "en": "Myocardium",
+        "definition": "Kalp duvarının kas tabakası; en kalın tabaka.",
+        "origin": "Yun. mys/myo = kas"
+      }
+    },
+    {
+      "title": "Endokard",
+      "text": "Endocardium\nKalp boşluklarını döşeyen iç tabaka (basit yassı epitel).\nYun. endon = iç",
+      "images": [],
+      "card": {
+        "id": "PER241-0bamig5",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Endokard",
+        "en": "Endocardium",
+        "definition": "Kalp boşluklarını döşeyen iç tabaka (basit yassı epitel).",
+        "origin": "Yun. endon = iç"
+      }
+    },
+    {
+      "title": "Transvers perikardiyal sinüs",
+      "text": "Transverse pericardial sinus\nAorta/pulmoner trunkusun arkası ile vena kava superior'nin önü arasındaki geçit; cerrahide klemp/bant geçirmede kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0oasn01",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Transvers perikardiyal sinüs",
+        "en": "Transverse pericardial sinus",
+        "definition": "Aorta/pulmoner trunkusun arkası ile vena kava superior'nin önü arasındaki geçit; cerrahide klemp/bant geçirmede kullanılır."
+      }
+    },
+    {
+      "title": "Kardiyak tamponad",
+      "text": "Cardiac tamponade\nEsnemeyen perikardda biriken sıvının odacıkları sıkıştırıp debiyi düşürmesi.\nFr. tampon",
+      "images": [],
+      "card": {
+        "id": "PER241-1q58zj1",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "term": "Kardiyak tamponad",
+        "en": "Cardiac tamponade",
+        "definition": "Esnemeyen perikardda biriken sıvının odacıkları sıkıştırıp debiyi düşürmesi.",
+        "origin": "Fr. tampon"
+      }
+    },
+    {
+      "title": "Pektinat kaslar",
+      "text": "Pectinate muscles\nSağ atriyum ön duvarı ve aurikulasındaki tarak dişine benzer paralel kas sırtları.\nLat. pecten = tarak",
+      "images": [],
+      "card": {
+        "id": "PER241-0g80ojt",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 1,
+        "source": "OpenStax A&P 2e",
+        "term": "Pektinat kaslar",
+        "en": "Pectinate muscles",
+        "definition": "Sağ atriyum ön duvarı ve aurikulasındaki tarak dişine benzer paralel kas sırtları.",
+        "origin": "Lat. pecten = tarak"
+      }
+    },
+    {
+      "title": "Fossa ovalis",
+      "text": "Fossa ovalis\nİnteratriyal septumda fetal foramen ovalenin kalıntısı olan çukurluk.\nLat. fossa = çukur",
+      "images": [],
+      "card": {
+        "id": "PER241-0aga16t",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Fossa ovalis",
+        "en": "Fossa ovalis",
+        "definition": "İnteratriyal septumda fetal foramen ovalenin kalıntısı olan çukurluk.",
+        "origin": "Lat. fossa = çukur"
+      }
+    },
+    {
+      "title": "Östaki valvi",
+      "text": "Eustachian valve\nvena kava inferior ağzındaki kapakçık; fetusta vena kava inferior kanını foramen ovaleye yönlendirir.\nB. Eustachi (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-15gecyb",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "LITFL fetal dolaşım",
+        "term": "Östaki valvi",
+        "en": "Eustachian valve",
+        "definition": "vena kava inferior ağzındaki kapakçık; fetusta vena kava inferior kanını foramen ovaleye yönlendirir.",
+        "origin": "B. Eustachi (eponim)"
+      }
+    },
+    {
+      "title": "Koroner sinüs",
+      "text": "Coronary sinus\nKalp venlerinin çoğunu toplayıp sağ atriyuma boşaltan ven; embriyolojik sinüs venozusun sol boynuzu.\nLat. sinus = cep",
+      "images": [],
+      "card": {
+        "id": "PER241-1xdj4yu",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "term": "Koroner sinüs",
+        "en": "Coronary sinus",
+        "definition": "Kalp venlerinin çoğunu toplayıp sağ atriyuma boşaltan ven; embriyolojik sinüs venozusun sol boynuzu.",
+        "origin": "Lat. sinus = cep"
+      }
+    },
+    {
+      "title": "Koch üçgeni",
+      "text": "Triangle of Koch\nKoroner sinüs ağzı, Todaro tendonu ve triküspit septal yaprağının sınırladığı alan; tepesinde atriyoventriküler düğüm.\nW. Koch (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-1hlfstk",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 1,
+        "source": "Koch üçgeni anatomisi",
+        "term": "Koch üçgeni",
+        "en": "Triangle of Koch",
+        "definition": "Koroner sinüs ağzı, Todaro tendonu ve triküspit septal yaprağının sınırladığı alan; tepesinde atriyoventriküler düğüm.",
+        "origin": "W. Koch (eponim)"
+      }
+    },
+    {
+      "title": "Todaro tendonu",
+      "text": "Tendon of Todaro\nKoch üçgeninin bir kenarını oluşturan fibröz bant.\nF. Todaro (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0ah5i17",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "Koch üçgeni anatomisi",
+        "term": "Todaro tendonu",
+        "en": "Tendon of Todaro",
+        "definition": "Koch üçgeninin bir kenarını oluşturan fibröz bant.",
+        "origin": "F. Todaro (eponim)"
+      }
+    },
+    {
+      "title": "Moderatör bant",
+      "text": "Moderator band (septomarginal trabecula)\nsağ ventrikülde septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0n6jtb4",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Moderatör bant",
+        "en": "Moderator band (septomarginal trabecula)",
+        "definition": "sağ ventrikülde septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır."
+      }
+    },
+    {
+      "title": "İnfundibulum",
+      "text": "Infundibulum\nsağ ventrikülün pulmoner kapağa uzanan düz duvarlı çıkış yolu; TOF'ta darlığın yeri.\nLat. = huni",
+      "images": [],
+      "card": {
+        "id": "PER241-0yrwz75",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "İnfundibulum",
+        "en": "Infundibulum",
+        "definition": "sağ ventrikülün pulmoner kapağa uzanan düz duvarlı çıkış yolu; TOF'ta darlığın yeri.",
+        "origin": "Lat. = huni"
+      }
+    },
+    {
+      "title": "Trabekül karne",
+      "text": "Trabeculae carneae\nVentrikül iç duvarındaki kas kabartıları.\nLat. trabecula = küçük kiriş, carneus = etli",
+      "images": [],
+      "card": {
+        "id": "PER241-0wl75x7",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Trabekül karne",
+        "en": "Trabeculae carneae",
+        "definition": "Ventrikül iç duvarındaki kas kabartıları.",
+        "origin": "Lat. trabecula = küçük kiriş, carneus = etli"
+      }
+    },
+    {
+      "title": "Papiller kas",
+      "text": "Papillary muscle\nAtriyoventriküler kapak yapraklarını korda tendinea aracılığıyla tutan ventriküler kas çıkıntıları.\nLat. papilla = meme başı",
+      "images": [],
+      "card": {
+        "id": "PER241-1e81wob",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 1,
+        "source": "TeachMeAnatomy",
+        "term": "Papiller kas",
+        "en": "Papillary muscle",
+        "definition": "Atriyoventriküler kapak yapraklarını korda tendinea aracılığıyla tutan ventriküler kas çıkıntıları.",
+        "origin": "Lat. papilla = meme başı"
+      }
+    },
+    {
+      "title": "Korda tendinea",
+      "text": "Chordae tendineae\nPapiller kasları atriyoventriküler kapak yaprakçıklarına bağlayan fibröz ipler.\nLat. chorda = ip",
+      "images": [],
+      "card": {
+        "id": "PER241-1hejjeo",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Korda tendinea",
+        "en": "Chordae tendineae",
+        "definition": "Papiller kasları atriyoventriküler kapak yaprakçıklarına bağlayan fibröz ipler.",
+        "origin": "Lat. chorda = ip"
+      }
+    },
+    {
+      "title": "Triküspit kapak",
+      "text": "Tricuspid valve\nSağ atriyum ile sağ ventrikül arasındaki kapak; anterior, septal ve posterior yaprakları vardır.\nLat. tri + cuspis = üç uç",
+      "images": [],
+      "card": {
+        "id": "PER241-0ktpptf",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 3,
+        "source": "TeachMeAnatomy",
+        "term": "Triküspit kapak",
+        "en": "Tricuspid valve",
+        "definition": "Sağ atriyum ile sağ ventrikül arasındaki kapak; anterior, septal ve posterior yaprakları vardır.",
+        "origin": "Lat. tri + cuspis = üç uç"
+      }
+    },
+    {
+      "title": "Mitral kapak",
+      "text": "Mitral valve\nSol atriyum ile sol ventrikül arasındaki kapak; anterior ve posterior yaprakları vardır.\nLat. mitra = piskopos başlığı",
+      "images": [],
+      "card": {
+        "id": "PER241-0hfpabw",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 3,
+        "source": "TeachMeAnatomy",
+        "term": "Mitral kapak",
+        "en": "Mitral valve",
+        "definition": "Sol atriyum ile sol ventrikül arasındaki kapak; anterior ve posterior yaprakları vardır.",
+        "origin": "Lat. mitra = piskopos başlığı"
+      }
+    },
+    {
+      "title": "Semilunar kapak",
+      "text": "Semilunar valve\nAort ve pulmoner arter girişlerinde yer alan, yarım ay biçimli kusplardan oluşan kapak tipi. Korda tendinea içermez.\nLat. semi + luna = yarım ay",
+      "images": [],
+      "card": {
+        "id": "PER241-00peun1",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Semilunar kapak",
+        "en": "Semilunar valve",
+        "definition": "Aort ve pulmoner arter girişlerinde yer alan, yarım ay biçimli kusplardan oluşan kapak tipi. Korda tendinea içermez.",
+        "origin": "Lat. semi + luna = yarım ay"
+      }
+    },
+    {
+      "title": "Valsalva sinüsleri",
+      "text": "Sinuses of Valsalva (aortic sinuses)\nAort kusplarının arkasındaki genişlemeler; sağ ve sol koroner arterler buradan çıkar.\nA. Valsalva (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0br45as",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "term",
+        "importance": 1,
+        "source": "OpenStax A&P 2e",
+        "term": "Valsalva sinüsleri",
+        "en": "Sinuses of Valsalva (aortic sinuses)",
+        "definition": "Aort kusplarının arkasındaki genişlemeler; sağ ve sol koroner arterler buradan çıkar.",
+        "origin": "A. Valsalva (eponim)"
+      }
+    },
+    {
+      "title": "Fibröz perikardın bağlantısı",
+      "text": "Fibröz perikard **diyaframın santral tendonuna** bağlanır ve kalbin aşırı ani dolmasını sınırlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-097jyn7",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "title": "Fibröz perikardın bağlantısı",
+        "body": "Fibröz perikard **diyaframın santral tendonuna** bağlanır ve kalbin aşırı ani dolmasını sınırlar."
+      }
+    },
+    {
+      "title": "Perikard boşluğundaki sıvının temel işlevi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1tf8ksc",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Perikard boşluğundaki sıvının temel işlevi nedir?",
+        "answer": "Perikardın seröz yaprakları arasındaki az miktarda sıvı, kalp hareketlerinde **sürtünmeyi azaltır**."
+      }
+    },
+    {
+      "title": "Transvers sinüs cerrahide ne için kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-115cp7s",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Transvers sinüs cerrahide ne için kullanılır?",
+        "answer": "Kalbin arteriyel çıkışlarının çevresinden **klemp veya bant geçirmek** için kullanılabilir."
+      }
+    },
+    {
+      "title": "Perikardit ağrısı neden omuza yansıyabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0twp619",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Perikardit ağrısı neden omuza yansıyabilir?",
+        "answer": "Perikardın duyu innervasyonunu sağlayan **frenik sinir** ile omuz bölgesinin ortak spinal kökleri nedeniyle."
+      }
+    },
+    {
+      "title": "Sol ventrikül duvarı",
+      "text": "Sol ventrikül miyokardı **sağ ventrikülünkinden daha kalındır**; sistemik dolaşımın basınç yükünü karşılar.",
+      "images": [],
+      "card": {
+        "id": "PER241-0ivarh3",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Sol ventrikül duvarı",
+        "body": "Sol ventrikül miyokardı **sağ ventrikülünkinden daha kalındır**; sistemik dolaşımın basınç yükünü karşılar."
+      }
+    },
+    {
+      "title": "Sol atriyum neden çoğunlukla düz duvarlıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0b2440h",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Sol atriyum neden çoğunlukla düz duvarlıdır?",
+        "answer": "Embriyonik **primitif pulmoner venin atriyum duvarına katılması** bu düz bölümü oluşturur."
+      }
+    },
+    {
+      "title": "S1 kalp sesi hangi olayla ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1siqnyp",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "S1 kalp sesi hangi olayla ilişkilidir?",
+        "answer": "**S1**, atriyoventriküler kapakların kapanmasıyla ilişkilidir."
+      }
+    },
+    {
+      "title": "S2 kalp sesi hangi olayla ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1qahxtg",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "flip",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "S2 kalp sesi hangi olayla ilişkilidir?",
+        "answer": "**S2**, aort ve pulmoner kapakların kapanmasıyla ilişkilidir."
+      }
+    },
+    {
+      "title": "Sağ atriyuma dönen kan",
+      "text": "Vena kava superior, vena kava inferior ve **koroner sinüs** sağ atriyuma açılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0izhzlj",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Sağ atriyuma dönen kan",
+        "body": "Vena kava superior, vena kava inferior ve **koroner sinüs** sağ atriyuma açılır."
+      }
+    },
+    {
+      "title": "Tamponadda mekanizma",
+      "text": "Perikardda biriken sıvı odacıkları sıkıştırarak **kalp debisini azaltabilir**; dıştaki fibröz kesenin esnememesi temel ilişkidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1meayoi",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "remember",
+        "importance": 3,
+        "source": "TeachMeAnatomy",
+        "title": "Tamponadda mekanizma",
+        "body": "Perikardda biriken sıvı odacıkları sıkıştırarak **kalp debisini azaltabilir**; dıştaki fibröz kesenin esnememesi temel ilişkidir."
+      }
+    },
+    {
+      "title": "Aşağıdakilerden hangisi sağ atriyumda görülen kas sırtlarıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1drgoov",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Aşağıdakilerden hangisi sağ atriyumda görülen kas sırtlarıdır?",
+        "options": [
+          "Papiller kaslar",
+          "Pektinat kaslar",
+          "Trabekül karne",
+          "İnterventriküler kas septumu"
+        ],
+        "correct": 1,
+        "explanation": "Pektinat kaslar sağ atriyumun ön duvarında ve aurikulasında bulunur."
+      }
+    },
+    {
+      "title": "Atriyoventriküler kapak yapraklarını papiller kaslara bağlayan yapı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1piwd8a",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Atriyoventriküler kapak yapraklarını papiller kaslara bağlayan yapı hangisidir?",
+        "options": [
+          "Purkinje lifi",
+          "Valsalva sinüsü",
+          "Korda tendinea",
+          "Koroner sinüs"
+        ],
+        "correct": 2,
+        "explanation": "Korda tendinea, papiller kaslarla atriyoventriküler kapak yaprakları arasındaki fibröz bağlantıdır."
+      }
+    },
+    {
+      "title": "Fetal foramen ovalenin sağ atriyumdaki kalıntısı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1smmb1c",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Fetal foramen ovalenin sağ atriyumdaki kalıntısı hangisidir?",
+        "options": [
+          "Koch üçgeni",
+          "Koroner sinüs",
+          "İnfundibulum",
+          "Fossa ovalis"
+        ],
+        "correct": 3,
+        "explanation": "İnteratriyal septumdaki fossa ovalis fetal foramen ovalenin kalıntısıdır."
+      }
+    },
+    {
+      "title": "Sağ ventrikülün düz duvarlı çıkış yolu hangi adla bilinir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1qtcbvu",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Sağ ventrikülün düz duvarlı çıkış yolu hangi adla bilinir?",
+        "options": [
+          "İnfundibulum",
+          "Fossa ovalis",
+          "Aurikula",
+          "Sinüs venarum"
+        ],
+        "correct": 0,
+        "explanation": "İnfundibulum, sağ ventrikülden pulmoner kapağa uzanan çıkış bölümüdür."
+      }
+    },
+    {
+      "title": "Kalp boşluklarını içten döşeyen duvar tabakası hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-095u997",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Kalp boşluklarını içten döşeyen duvar tabakası hangisidir?",
+        "options": [
+          "Epikard",
+          "Endokard",
+          "Miyokard",
+          "Fibröz perikard"
+        ],
+        "correct": 1,
+        "explanation": "İç yüzeyi endokard döşer; miyokard kas tabakasıdır."
+      }
+    },
+    {
+      "title": "Koroner arterler aort kökünün hangi bölümünden çıkar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0ljws4x",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "mcq",
+        "importance": 2,
+        "source": "TeachMeAnatomy",
+        "question": "Koroner arterler aort kökünün hangi bölümünden çıkar?",
+        "options": [
+          "Nonkoroner aortik kusp",
+          "Pulmoner kapak sinüsleri",
+          "Sağ ve sol Valsalva sinüsleri",
+          "Mitral anulus"
+        ],
+        "correct": 2,
+        "explanation": "Sağ ve sol koroner arterler ilgili aortik sinüslerden çıkar."
+      }
+    },
+    {
+      "title": "Epikard, seröz perikardın viseral yaprağıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1r2v8us",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "tf",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "statement": "Epikard, seröz perikardın viseral yaprağıdır.",
+        "isTrue": true,
+        "explanation": "Epikard kalp yüzeyindeki seröz yapraktır."
+      }
+    },
+    {
+      "title": "Aort ve pulmoner kapaklar korda tendineayla papiller kaslara bağlanır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1ttwu1a",
+        "course": "PER241",
+        "topic": "Kalp anatomisi",
+        "type": "tf",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "statement": "Aort ve pulmoner kapaklar korda tendineayla papiller kaslara bağlanır.",
+        "isTrue": false,
+        "explanation": "Korda bağlantısı atriyoventriküler kapaklarda vardır; semilunar kapaklarda korda bulunmaz."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-0ydsc3p",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Perikard",
+      "en": "Pericardium",
+      "definition": "Kalbi saran kese: dışta fibröz perikard, içte seröz perikard (pariyetal + viseral yaprak).",
+      "origin": "Yun. peri = çevre + kardia = kalp"
+    },
+    {
+      "id": "PER241-0pve03d",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Epikard",
+      "en": "Epicardium",
+      "definition": "Seröz perikardın viseral yaprağı; kalp duvarının en dış tabakası.",
+      "origin": "Yun. epi = üst"
+    },
+    {
+      "id": "PER241-0u1ttfl",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Miyokard",
+      "en": "Myocardium",
+      "definition": "Kalp duvarının kas tabakası; en kalın tabaka.",
+      "origin": "Yun. mys/myo = kas"
+    },
+    {
+      "id": "PER241-0bamig5",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Endokard",
+      "en": "Endocardium",
+      "definition": "Kalp boşluklarını döşeyen iç tabaka (basit yassı epitel).",
+      "origin": "Yun. endon = iç"
+    },
+    {
+      "id": "PER241-0oasn01",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Transvers perikardiyal sinüs",
+      "en": "Transverse pericardial sinus",
+      "definition": "Aorta/pulmoner trunkusun arkası ile vena kava superior'nin önü arasındaki geçit; cerrahide klemp/bant geçirmede kullanılır."
+    },
+    {
+      "id": "PER241-1q58zj1",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "term": "Kardiyak tamponad",
+      "en": "Cardiac tamponade",
+      "definition": "Esnemeyen perikardda biriken sıvının odacıkları sıkıştırıp debiyi düşürmesi.",
+      "origin": "Fr. tampon"
+    },
+    {
+      "id": "PER241-0g80ojt",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Pektinat kaslar",
+      "en": "Pectinate muscles",
+      "definition": "Sağ atriyum ön duvarı ve aurikulasındaki tarak dişine benzer paralel kas sırtları.",
+      "origin": "Lat. pecten = tarak"
+    },
+    {
+      "id": "PER241-0aga16t",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Fossa ovalis",
+      "en": "Fossa ovalis",
+      "definition": "İnteratriyal septumda fetal foramen ovalenin kalıntısı olan çukurluk.",
+      "origin": "Lat. fossa = çukur"
+    },
+    {
+      "id": "PER241-15gecyb",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "LITFL fetal dolaşım",
+      "term": "Östaki valvi",
+      "en": "Eustachian valve",
+      "definition": "vena kava inferior ağzındaki kapakçık; fetusta vena kava inferior kanını foramen ovaleye yönlendirir.",
+      "origin": "B. Eustachi (eponim)"
+    },
+    {
+      "id": "PER241-1xdj4yu",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "term": "Koroner sinüs",
+      "en": "Coronary sinus",
+      "definition": "Kalp venlerinin çoğunu toplayıp sağ atriyuma boşaltan ven; embriyolojik sinüs venozusun sol boynuzu.",
+      "origin": "Lat. sinus = cep"
+    },
+    {
+      "id": "PER241-1hlfstk",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 1,
+      "source": "Koch üçgeni anatomisi",
+      "term": "Koch üçgeni",
+      "en": "Triangle of Koch",
+      "definition": "Koroner sinüs ağzı, Todaro tendonu ve triküspit septal yaprağının sınırladığı alan; tepesinde atriyoventriküler düğüm.",
+      "origin": "W. Koch (eponim)"
+    },
+    {
+      "id": "PER241-0ah5i17",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "Koch üçgeni anatomisi",
+      "term": "Todaro tendonu",
+      "en": "Tendon of Todaro",
+      "definition": "Koch üçgeninin bir kenarını oluşturan fibröz bant.",
+      "origin": "F. Todaro (eponim)"
+    },
+    {
+      "id": "PER241-0n6jtb4",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Moderatör bant",
+      "en": "Moderator band (septomarginal trabecula)",
+      "definition": "sağ ventrikülde septumdan ön papiller kasa uzanan kas bandı; sağ dal demetini taşır."
+    },
+    {
+      "id": "PER241-0yrwz75",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "İnfundibulum",
+      "en": "Infundibulum",
+      "definition": "sağ ventrikülün pulmoner kapağa uzanan düz duvarlı çıkış yolu; TOF'ta darlığın yeri.",
+      "origin": "Lat. = huni"
+    },
+    {
+      "id": "PER241-0wl75x7",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Trabekül karne",
+      "en": "Trabeculae carneae",
+      "definition": "Ventrikül iç duvarındaki kas kabartıları.",
+      "origin": "Lat. trabecula = küçük kiriş, carneus = etli"
+    },
+    {
+      "id": "PER241-1e81wob",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 1,
+      "source": "TeachMeAnatomy",
+      "term": "Papiller kas",
+      "en": "Papillary muscle",
+      "definition": "Atriyoventriküler kapak yapraklarını korda tendinea aracılığıyla tutan ventriküler kas çıkıntıları.",
+      "origin": "Lat. papilla = meme başı"
+    },
+    {
+      "id": "PER241-1hejjeo",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Korda tendinea",
+      "en": "Chordae tendineae",
+      "definition": "Papiller kasları atriyoventriküler kapak yaprakçıklarına bağlayan fibröz ipler.",
+      "origin": "Lat. chorda = ip"
+    },
+    {
+      "id": "PER241-0ktpptf",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Triküspit kapak",
+      "en": "Tricuspid valve",
+      "definition": "Sağ atriyum ile sağ ventrikül arasındaki kapak; anterior, septal ve posterior yaprakları vardır.",
+      "origin": "Lat. tri + cuspis = üç uç"
+    },
+    {
+      "id": "PER241-0hfpabw",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "term": "Mitral kapak",
+      "en": "Mitral valve",
+      "definition": "Sol atriyum ile sol ventrikül arasındaki kapak; anterior ve posterior yaprakları vardır.",
+      "origin": "Lat. mitra = piskopos başlığı"
+    },
+    {
+      "id": "PER241-00peun1",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Semilunar kapak",
+      "en": "Semilunar valve",
+      "definition": "Aort ve pulmoner arter girişlerinde yer alan, yarım ay biçimli kusplardan oluşan kapak tipi. Korda tendinea içermez.",
+      "origin": "Lat. semi + luna = yarım ay"
+    },
+    {
+      "id": "PER241-0br45as",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Valsalva sinüsleri",
+      "en": "Sinuses of Valsalva (aortic sinuses)",
+      "definition": "Aort kusplarının arkasındaki genişlemeler; sağ ve sol koroner arterler buradan çıkar.",
+      "origin": "A. Valsalva (eponim)"
+    },
+    {
+      "id": "PER241-097jyn7",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "title": "Fibröz perikardın bağlantısı",
+      "body": "Fibröz perikard **diyaframın santral tendonuna** bağlanır ve kalbin aşırı ani dolmasını sınırlar."
+    },
+    {
+      "id": "PER241-1tf8ksc",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Perikard boşluğundaki sıvının temel işlevi nedir?",
+      "answer": "Perikardın seröz yaprakları arasındaki az miktarda sıvı, kalp hareketlerinde **sürtünmeyi azaltır**."
+    },
+    {
+      "id": "PER241-115cp7s",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Transvers sinüs cerrahide ne için kullanılır?",
+      "answer": "Kalbin arteriyel çıkışlarının çevresinden **klemp veya bant geçirmek** için kullanılabilir."
+    },
+    {
+      "id": "PER241-0twp619",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Perikardit ağrısı neden omuza yansıyabilir?",
+      "answer": "Perikardın duyu innervasyonunu sağlayan **frenik sinir** ile omuz bölgesinin ortak spinal kökleri nedeniyle."
+    },
+    {
+      "id": "PER241-0ivarh3",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sol ventrikül duvarı",
+      "body": "Sol ventrikül miyokardı **sağ ventrikülünkinden daha kalındır**; sistemik dolaşımın basınç yükünü karşılar."
+    },
+    {
+      "id": "PER241-0b2440h",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Sol atriyum neden çoğunlukla düz duvarlıdır?",
+      "answer": "Embriyonik **primitif pulmoner venin atriyum duvarına katılması** bu düz bölümü oluşturur."
+    },
+    {
+      "id": "PER241-1siqnyp",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "S1 kalp sesi hangi olayla ilişkilidir?",
+      "answer": "**S1**, atriyoventriküler kapakların kapanmasıyla ilişkilidir."
+    },
+    {
+      "id": "PER241-1qahxtg",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "flip",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "S2 kalp sesi hangi olayla ilişkilidir?",
+      "answer": "**S2**, aort ve pulmoner kapakların kapanmasıyla ilişkilidir."
+    },
+    {
+      "id": "PER241-0izhzlj",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Sağ atriyuma dönen kan",
+      "body": "Vena kava superior, vena kava inferior ve **koroner sinüs** sağ atriyuma açılır."
+    },
+    {
+      "id": "PER241-1meayoi",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "remember",
+      "importance": 3,
+      "source": "TeachMeAnatomy",
+      "title": "Tamponadda mekanizma",
+      "body": "Perikardda biriken sıvı odacıkları sıkıştırarak **kalp debisini azaltabilir**; dıştaki fibröz kesenin esnememesi temel ilişkidir."
+    },
+    {
+      "id": "PER241-1drgoov",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Aşağıdakilerden hangisi sağ atriyumda görülen kas sırtlarıdır?",
+      "options": [
+        "Papiller kaslar",
+        "Pektinat kaslar",
+        "Trabekül karne",
+        "İnterventriküler kas septumu"
+      ],
+      "correct": 1,
+      "explanation": "Pektinat kaslar sağ atriyumun ön duvarında ve aurikulasında bulunur."
+    },
+    {
+      "id": "PER241-1piwd8a",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Atriyoventriküler kapak yapraklarını papiller kaslara bağlayan yapı hangisidir?",
+      "options": [
+        "Purkinje lifi",
+        "Valsalva sinüsü",
+        "Korda tendinea",
+        "Koroner sinüs"
+      ],
+      "correct": 2,
+      "explanation": "Korda tendinea, papiller kaslarla atriyoventriküler kapak yaprakları arasındaki fibröz bağlantıdır."
+    },
+    {
+      "id": "PER241-1smmb1c",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Fetal foramen ovalenin sağ atriyumdaki kalıntısı hangisidir?",
+      "options": [
+        "Koch üçgeni",
+        "Koroner sinüs",
+        "İnfundibulum",
+        "Fossa ovalis"
+      ],
+      "correct": 3,
+      "explanation": "İnteratriyal septumdaki fossa ovalis fetal foramen ovalenin kalıntısıdır."
+    },
+    {
+      "id": "PER241-1qtcbvu",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Sağ ventrikülün düz duvarlı çıkış yolu hangi adla bilinir?",
+      "options": [
+        "İnfundibulum",
+        "Fossa ovalis",
+        "Aurikula",
+        "Sinüs venarum"
+      ],
+      "correct": 0,
+      "explanation": "İnfundibulum, sağ ventrikülden pulmoner kapağa uzanan çıkış bölümüdür."
+    },
+    {
+      "id": "PER241-095u997",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Kalp boşluklarını içten döşeyen duvar tabakası hangisidir?",
+      "options": [
+        "Epikard",
+        "Endokard",
+        "Miyokard",
+        "Fibröz perikard"
+      ],
+      "correct": 1,
+      "explanation": "İç yüzeyi endokard döşer; miyokard kas tabakasıdır."
+    },
+    {
+      "id": "PER241-0ljws4x",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "mcq",
+      "importance": 2,
+      "source": "TeachMeAnatomy",
+      "question": "Koroner arterler aort kökünün hangi bölümünden çıkar?",
+      "options": [
+        "Nonkoroner aortik kusp",
+        "Pulmoner kapak sinüsleri",
+        "Sağ ve sol Valsalva sinüsleri",
+        "Mitral anulus"
+      ],
+      "correct": 2,
+      "explanation": "Sağ ve sol koroner arterler ilgili aortik sinüslerden çıkar."
+    },
+    {
+      "id": "PER241-1r2v8us",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Epikard, seröz perikardın viseral yaprağıdır.",
+      "isTrue": true,
+      "explanation": "Epikard kalp yüzeyindeki seröz yapraktır."
+    },
+    {
+      "id": "PER241-1ttwu1a",
+      "course": "PER241",
+      "topic": "Kalp anatomisi",
+      "type": "tf",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "statement": "Aort ve pulmoner kapaklar korda tendineayla papiller kaslara bağlanır.",
+      "isTrue": false,
+      "explanation": "Korda bağlantısı atriyoventriküler kapaklarda vardır; semilunar kapaklarda korda bulunmaz."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

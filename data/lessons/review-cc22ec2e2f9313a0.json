@@ -1,0 +1,1524 @@
+{
+  "id": "review-cc22ec2e2f9313a0",
+  "title": "Kardiyovasküler fizyoloji",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kalp debisi",
+      "text": "Cardiac output\nBir ventrikülün dakikada pompaladığı kan hacmi; atım hacmi ile kalp hızının çarpımına eşittir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1vtmeyp",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Kalp debisi",
+        "en": "Cardiac output",
+        "definition": "Bir ventrikülün dakikada pompaladığı kan hacmi; atım hacmi ile kalp hızının çarpımına eşittir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kardiyak indeks",
+      "text": "Cardiac index\nKalp debisinin vücut yüzey alanına bölünmüş değeri (L/dk/m²).",
+      "images": [],
+      "card": {
+        "id": "PER243-0zle485",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Kardiyak indeks",
+        "en": "Cardiac index",
+        "definition": "Kalp debisinin vücut yüzey alanına bölünmüş değeri (L/dk/m²).",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Atım hacmi",
+      "text": "Stroke volume\nHer atımda ventrikülden atılan kan; diyastol sonu hacim − sistol sonu hacim.",
+      "images": [],
+      "card": {
+        "id": "PER243-1vrguxo",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Atım hacmi",
+        "en": "Stroke volume",
+        "definition": "Her atımda ventrikülden atılan kan; diyastol sonu hacim − sistol sonu hacim.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Ejeksiyon fraksiyonu",
+      "text": "Ejection fraction\nAtım hacminin ventrikül diyastol sonu hacmine oranının yüzdeyle ifade edilmesi; sistolik boşalmayı değerlendirir.",
+      "images": [],
+      "card": {
+        "id": "PER243-162j6h5",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Ejeksiyon fraksiyonu",
+        "en": "Ejection fraction",
+        "definition": "Atım hacminin ventrikül diyastol sonu hacmine oranının yüzdeyle ifade edilmesi; sistolik boşalmayı değerlendirir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Önyük",
+      "text": "Preload\nKasılma öncesi miyositlerin başlangıç gerilmesi (sarkomer uzunluğu); diyastol sonu hacim/basınçla tahmin edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-01riblx",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Önyük",
+        "en": "Preload",
+        "definition": "Kasılma öncesi miyositlerin başlangıç gerilmesi (sarkomer uzunluğu); diyastol sonu hacim/basınçla tahmin edilir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Ardyük",
+      "text": "Afterload\nVentrikülün kanı fırlatırken karşı koyduğu yük (duvar stresi); sol ventrikül için aort basıncı ve sistemik vasküler direnç ile ilişkili.",
+      "images": [],
+      "card": {
+        "id": "PER243-08jd9p4",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Ardyük",
+        "en": "Afterload",
+        "definition": "Ventrikülün kanı fırlatırken karşı koyduğu yük (duvar stresi); sol ventrikül için aort basıncı ve sistemik vasküler direnç ile ilişkili.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kontraktilite",
+      "text": "Contractility (inotropy)\nÖnyükten bağımsız olarak miyokardın kasılma gücü ve hızı.",
+      "images": [],
+      "card": {
+        "id": "PER243-1hgfm3a",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Kontraktilite",
+        "en": "Contractility (inotropy)",
+        "definition": "Önyükten bağımsız olarak miyokardın kasılma gücü ve hızı.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Frank-Starling yasası",
+      "text": "Frank-Starling law\nVenöz dönüş (önyük) arttıkça kasılma gücünün ve atım hacminin artması.",
+      "images": [],
+      "card": {
+        "id": "PER243-09442yk",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Frank-Starling yasası",
+        "en": "Frank-Starling law",
+        "definition": "Venöz dönüş (önyük) arttıkça kasılma gücünün ve atım hacminin artması.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Laplace yasası",
+      "text": "Law of Laplace / wall stress\nDuvar stresi ∝ basınç × yarıçap / duvar kalınlığı; ardyük ve miyokard oksijen tüketiminin belirleyicisi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0pcahll",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Laplace yasası",
+        "en": "Law of Laplace / wall stress",
+        "definition": "Duvar stresi ∝ basınç × yarıçap / duvar kalınlığı; ardyük ve miyokard oksijen tüketiminin belirleyicisi.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Sistemik vasküler direnç",
+      "text": "Systemic vascular resistance\nSistemik dolaşımın kan akımına karşı gösterdiği direnç; ortalama arter basıncı ile santral venöz basınç farkının debiye oranıyla ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0g72f09",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Sistemik vasküler direnç",
+        "en": "Systemic vascular resistance",
+        "definition": "Sistemik dolaşımın kan akımına karşı gösterdiği direnç; ortalama arter basıncı ile santral venöz basınç farkının debiye oranıyla ilişkilidir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Pulmoner vasküler direnç",
+      "text": "Pulmonary vascular resistance\nPulmoner dolaşımın kan akımına karşı gösterdiği direnç; pulmoner arter ile sol atriyum arasındaki basınç farkı ve kalp debisiyle hesaplanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-08bfdka",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Pulmoner vasküler direnç",
+        "en": "Pulmonary vascular resistance",
+        "definition": "Pulmoner dolaşımın kan akımına karşı gösterdiği direnç; pulmoner arter ile sol atriyum arasındaki basınç farkı ve kalp debisiyle hesaplanır.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Ortalama arter basıncı",
+      "text": "Mean arterial pressure\nBir kalp döngüsü boyunca arter basıncının zaman ortalaması; doku perfüzyonu değerlendirmesinde kullanılan basınç.",
+      "images": [],
+      "card": {
+        "id": "PER243-1vj2pfl",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Ortalama arter basıncı",
+        "en": "Mean arterial pressure",
+        "definition": "Bir kalp döngüsü boyunca arter basıncının zaman ortalaması; doku perfüzyonu değerlendirmesinde kullanılan basınç.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Koroner perfüzyon basıncı",
+      "text": "Coronary perfusion pressure\nDiyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı (klinikte PAOP) arasındaki fark; sol ventrikül perfüzyonunun itici gücü.",
+      "images": [],
+      "card": {
+        "id": "PER243-0gedjw1",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Koroner perfüzyon basıncı",
+        "en": "Coronary perfusion pressure",
+        "definition": "Diyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı (klinikte PAOP) arasındaki fark; sol ventrikül perfüzyonunun itici gücü.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Miyokard O2 tüketimi",
+      "text": "Myocardial O2 consumption (MVO2)\nKalbin dakikada tükettiği oksijen; kalp hızı, kontraktilite ve duvar stresiyle artar.",
+      "images": [],
+      "card": {
+        "id": "PER243-0u99aar",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Miyokard O2 tüketimi",
+        "en": "Myocardial O2 consumption (MVO2)",
+        "definition": "Kalbin dakikada tükettiği oksijen; kalp hızı, kontraktilite ve duvar stresiyle artar.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Hız-basınç çarpımı",
+      "text": "Rate-pressure product\nSistolik basınç × kalp hızı; MVO2'nin dolaylı göstergesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-13fh8gu",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Hız-basınç çarpımı",
+        "en": "Rate-pressure product",
+        "definition": "Sistolik basınç × kalp hızı; MVO2'nin dolaylı göstergesi.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Otoregülasyon",
+      "text": "Autoregulation\nPerfüzyon basıncı değişse de organ kan akımının sabit tutulması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0nx0ju3",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Otoregülasyon",
+        "en": "Autoregulation",
+        "definition": "Perfüzyon basıncı değişse de organ kan akımının sabit tutulması.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Subendokard",
+      "text": "Subendocardium\nVentrikül duvarının iç tabakası; sistolik kompresyon nedeniyle iskemiye en duyarlı bölge.",
+      "images": [],
+      "card": {
+        "id": "PER243-1j5ird1",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Subendokard",
+        "en": "Subendocardium",
+        "definition": "Ventrikül duvarının iç tabakası; sistolik kompresyon nedeniyle iskemiye en duyarlı bölge.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Koroner dominans",
+      "text": "Coronary dominance\nPosterior inen arteri hangi koroner arterin verdiğine göre koroner dolaşımın sağ, sol veya kodominant olarak tanımlanması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0jo0t8i",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Koroner dominans",
+        "en": "Coronary dominance",
+        "definition": "Posterior inen arteri hangi koroner arterin verdiğine göre koroner dolaşımın sağ, sol veya kodominant olarak tanımlanması.",
+        "source": "BJA Education 2024: koroner dolaşım"
+      }
+    },
+    {
+      "title": "Koroner sinüs",
+      "text": "Coronary sinus\nKalbin venöz kanını sağ atriyuma boşaltan ana venöz yapı.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xdj4yu",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Koroner sinüs",
+        "en": "Coronary sinus",
+        "definition": "Kalbin venöz kanını sağ atriyuma boşaltan ana venöz yapı.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kronotropi",
+      "text": "Chronotropy\nKalp hızı üzerindeki etki.",
+      "images": [],
+      "card": {
+        "id": "PER243-05jfoxi",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Kronotropi",
+        "en": "Chronotropy",
+        "definition": "Kalp hızı üzerindeki etki.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Dromotropi",
+      "text": "Dromotropy\nİleti hızı (özellikle AV düğüm) üzerindeki etki.",
+      "images": [],
+      "card": {
+        "id": "PER243-0hii1i4",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Dromotropi",
+        "en": "Dromotropy",
+        "definition": "İleti hızı (özellikle AV düğüm) üzerindeki etki.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Lusitropi",
+      "text": "Lusitropy\nMiyokardın gevşeme hızı/diyastolik fonksiyon üzerindeki etki.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xwljmy",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Lusitropi",
+        "en": "Lusitropy",
+        "definition": "Miyokardın gevşeme hızı/diyastolik fonksiyon üzerindeki etki.",
+        "source": "Klabunde: kardiyovasküler farmakoloji"
+      }
+    },
+    {
+      "title": "SA düğüm",
+      "text": "Sinoatrial node\nSağ atriyumda bulunan, normal kalp ritmini başlatan doğal uyarı merkezi.",
+      "images": [],
+      "card": {
+        "id": "PER243-19hn9gj",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 1,
+        "term": "SA düğüm",
+        "en": "Sinoatrial node",
+        "definition": "Sağ atriyumda bulunan, normal kalp ritmini başlatan doğal uyarı merkezi.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "AV düğüm",
+      "text": "Atrioventricular node\nAtriyum ile ventrikül arasındaki normal ileti yolunda uyarıyı yavaşlatarak atriyal kasılmanın önce tamamlanmasına katkı sağlayan yapı.",
+      "images": [],
+      "card": {
+        "id": "PER243-1mvq8gg",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 1,
+        "term": "AV düğüm",
+        "en": "Atrioventricular node",
+        "definition": "Atriyum ile ventrikül arasındaki normal ileti yolunda uyarıyı yavaşlatarak atriyal kasılmanın önce tamamlanmasına katkı sağlayan yapı.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "PR aralığı",
+      "text": "PR interval\nElektrokardiyografide P dalgasının başlangıcı ile QRS kompleksinin başlangıcı arasındaki süre.",
+      "images": [],
+      "card": {
+        "id": "PER243-0x46zxa",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "PR aralığı",
+        "en": "PR interval",
+        "definition": "Elektrokardiyografide P dalgasının başlangıcı ile QRS kompleksinin başlangıcı arasındaki süre.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "QTc",
+      "text": "Corrected QT interval\nElektrokardiyografide kalp hızına göre düzeltilmiş QT aralığı.",
+      "images": [],
+      "card": {
+        "id": "PER243-02i5rn1",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "QTc",
+        "en": "Corrected QT interval",
+        "definition": "Elektrokardiyografide kalp hızına göre düzeltilmiş QT aralığı.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Atriyal katkı",
+      "text": "Atrial kick\nDiyastol sonunda atriyal kasılmanın ventrikül doluşuna sağladığı katkı; kompliyansı düşük ventrikülde önem kazanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-0tlqlyl",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "Atriyal katkı",
+        "en": "Atrial kick",
+        "definition": "Diyastol sonunda atriyal kasılmanın ventrikül doluşuna sağladığı katkı; kompliyansı düşük ventrikülde önem kazanır.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "HFrEF / HFpEF",
+      "text": "HF with reduced / preserved EF\nSistolik (EF düşük) ve diyastolik (EF korunmuş, kompliyans düşük) kalp yetersizliği tipleri.",
+      "images": [],
+      "card": {
+        "id": "PER243-188ofes",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "HFrEF / HFpEF",
+        "en": "HF with reduced / preserved EF",
+        "definition": "Sistolik (EF düşük) ve diyastolik (EF korunmuş, kompliyans düşük) kalp yetersizliği tipleri.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "İskemi",
+      "text": "Ischemia\nGenel kabul gören tanımıyla, dokuya kan akımının ihtiyacı karşılayamayacak ölçüde azalması.",
+      "images": [],
+      "card": {
+        "id": "PER243-17ao9hz",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 3,
+        "term": "İskemi",
+        "en": "Ischemia",
+        "definition": "Genel kabul gören tanımıyla, dokuya kan akımının ihtiyacı karşılayamayacak ölçüde azalması.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Taşikardi / bradikardi",
+      "text": "Tachycardia / bradycardia\nKalp hızının normalden hızlı veya yavaş olması; kardiyak anestezide doluş ve miyokard oksijen dengesiyle ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0zdm3ur",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "term",
+        "importance": 2,
+        "term": "Taşikardi / bradikardi",
+        "en": "Tachycardia / bradycardia",
+        "definition": "Kalp hızının normalden hızlı veya yavaş olması; kardiyak anestezide doluş ve miyokard oksijen dengesiyle ilişkilidir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kalbin yükleri",
+      "text": "Önyük\nKasılma öncesindeki başlangıç gerilmesi\nDiyastol sonu hacim ve basınçla tahmin edilir\n\nArdyük\nEjeksiyon sırasında karşı konulan yük\nAort basıncı ve duvar stresiyle ilişkilidir",
+      "images": [],
+      "card": {
+        "id": "PER243-12lg073",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "compare",
+        "importance": 2,
+        "title": "Kalbin yükleri",
+        "left": {
+          "title": "Önyük",
+          "points": [
+            "Kasılma öncesindeki başlangıç gerilmesi",
+            "Diyastol sonu hacim ve basınçla tahmin edilir"
+          ]
+        },
+        "right": {
+          "title": "Ardyük",
+          "points": [
+            "Ejeksiyon sırasında karşı konulan yük",
+            "Aort basıncı ve duvar stresiyle ilişkilidir"
+          ]
+        },
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Frank-Starling eğrisinin kayması",
+      "text": "Ardyük artışı veya kontraktilite azalması Frank-Starling eğrisini **aşağı-sağa** kaydırır; aynı önyükte daha düşük atım hacmi elde edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ok7qvr",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Frank-Starling eğrisinin kayması",
+        "body": "Ardyük artışı veya kontraktilite azalması Frank-Starling eğrisini **aşağı-sağa** kaydırır; aynı önyükte daha düşük atım hacmi elde edilir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Duvar kalınlığı ve stres",
+      "text": "Laplace ilişkisine göre aynı basınç ve yarıçapta duvar kalınlığının artması **duvar stresini azaltır**.",
+      "images": [],
+      "card": {
+        "id": "PER243-0804f99",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Duvar kalınlığı ve stres",
+        "body": "Laplace ilişkisine göre aynı basınç ve yarıçapta duvar kalınlığının artması **duvar stresini azaltır**.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Ardyük artışında kalan kan",
+      "text": "Ardyük artışı sistol sonu hacmi artırıp atım hacmini azaltabilir. Yetersiz kalp, sağlıklı kalbe göre bu değişime daha duyarlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-09kqxs7",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ardyük artışında kalan kan",
+        "body": "Ardyük artışı sistol sonu hacmi artırıp atım hacmini azaltabilir. Yetersiz kalp, sağlıklı kalbe göre bu değişime daha duyarlıdır.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Diyastolik yetersizlikte EF",
+      "text": "Korunmuş ejeksiyon fraksiyonu **normal diyastolik işlev anlamına gelmez**; düşük ventrikül kompliyansı doluşu bozabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-08loogl",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Diyastolik yetersizlikte EF",
+        "body": "Korunmuş ejeksiyon fraksiyonu **normal diyastolik işlev anlamına gelmez**; düşük ventrikül kompliyansı doluşu bozabilir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Metabolik koroner düzenleme",
+      "text": "Koroner akımın metabolik düzenlenmesinde **adenozin ve nitrik oksit** önemlidir. Oksijen ihtiyacı arttığında akım artışı gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1fuok2i",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 1,
+        "title": "Metabolik koroner düzenleme",
+        "body": "Koroner akımın metabolik düzenlenmesinde **adenozin ve nitrik oksit** önemlidir. Oksijen ihtiyacı arttığında akım artışı gerekir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kalp hızı artarken koroner oksijen dengesi neden bozulabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1bkvoum",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "flip",
+        "importance": 1,
+        "question": "Kalp hızı artarken koroner oksijen dengesi neden bozulabilir?",
+        "answer": "Taşikardi **oksijen talebini artırır** ve diyastolü kısaltarak koroner oksijen sunumunu azaltabilir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Atriyal fibrilasyon önyükü hangi mekanizmayla azaltabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1takm6q",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "flip",
+        "importance": 2,
+        "question": "Atriyal fibrilasyon önyükü hangi mekanizmayla azaltabilir?",
+        "answer": "**Atriyal kasılmanın doluşa katkısı kaybolur**; bu durum ventrikül doluşunu azaltabilir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kontraktilite artışı sistol sonu hacmi nasıl etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-12bccvc",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kontraktilite artışı sistol sonu hacmi nasıl etkiler?",
+        "answer": "Daha güçlü boşalma nedeniyle **sistol sonu hacmi azalır**, atım hacmi artar.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "AV düğümdeki ileti gecikmesinin işlevi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0j5wk8m",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "flip",
+        "importance": 3,
+        "question": "AV düğümdeki ileti gecikmesinin işlevi nedir?",
+        "answer": "Atriyal kasılmanın ventrikül kasılmasından **önce tamamlanmasına** zaman sağlar.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Subendokardı koru",
+      "text": "**Subendokard**, sistolik kompresyon nedeniyle iskemiye en duyarlı miyokard bölgesidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1edjmrq",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "remember",
+        "importance": 3,
+        "title": "Subendokardı koru",
+        "body": "**Subendokard**, sistolik kompresyon nedeniyle iskemiye en duyarlı miyokard bölgesidir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Akım artışı neden gerekli?",
+      "text": "Miyokardın oksijen ekstraksiyonu zaten yüksektir. Artan talep esas olarak **koroner kan akımının artışıyla** karşılanır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1csaffs",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "remember",
+        "importance": 3,
+        "title": "Akım artışı neden gerekli?",
+        "body": "Miyokardın oksijen ekstraksiyonu zaten yüksektir. Artan talep esas olarak **koroner kan akımının artışıyla** karşılanır.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Edwards: hemodinamik aralıklar",
+      "text": "Edwards 2022'de kalp debisi **4–8 L/dk**, kardiyak indeks **2,5–4 L/dk/m²** olarak verilir. Klabunde indeks aralığını 2,6–4,2 L/dk/m² bildirir; kaynaklar farklıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1uwepxv",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 1,
+        "title": "Edwards: hemodinamik aralıklar",
+        "body": "Edwards 2022'de kalp debisi **4–8 L/dk**, kardiyak indeks **2,5–4 L/dk/m²** olarak verilir. Klabunde indeks aralığını 2,6–4,2 L/dk/m² bildirir; kaynaklar farklıdır.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Edwards: vasküler direnç",
+      "text": "Edwards 2022'de sistemik direnç **800–1.200 dyn·sn·cm⁻⁵**, pulmoner direnç **100–250 dyn·sn·cm⁻⁵** olarak verilir. Normal aralıklar kaynak ve klinik bağlamla değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0te35r3",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "fact",
+        "importance": 2,
+        "title": "Edwards: vasküler direnç",
+        "body": "Edwards 2022'de sistemik direnç **800–1.200 dyn·sn·cm⁻⁵**, pulmoner direnç **100–250 dyn·sn·cm⁻⁵** olarak verilir. Normal aralıklar kaynak ve klinik bağlamla değerlendirilir.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "Atım hacmi 70 mL, kalp hızı 70/dk olan hastanın debisi kaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1wci6sj",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Atım hacmi 70 mL, kalp hızı 70/dk olan hastanın debisi kaçtır?",
+        "options": [
+          "4,9 L/dk",
+          "0,49 L/dk",
+          "7,0 L/dk",
+          "9,8 L/dk"
+        ],
+        "correct": 0,
+        "explanation": "70 × 70 = 4.900 mL/dk = 4,9 L/dk.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Diyastol sonu hacmi 120 mL, sistol sonu hacmi 50 mL ise atım hacmi kaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-06mtog0",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Diyastol sonu hacmi 120 mL, sistol sonu hacmi 50 mL ise atım hacmi kaçtır?",
+        "options": [
+          "170 mL",
+          "70 mL",
+          "50 mL",
+          "120 mL"
+        ],
+        "correct": 1,
+        "explanation": "Atım hacmi = diyastol sonu hacim − sistol sonu hacim = 120 − 50 = 70 mL.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Kalp debisi 5 L/dk, vücut yüzey alanı 2 m² ise kardiyak indeks kaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-036zbem",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kalp debisi 5 L/dk, vücut yüzey alanı 2 m² ise kardiyak indeks kaçtır?",
+        "options": [
+          "10 L/dk/m²",
+          "5 L/dk/m²",
+          "2,5 L/dk/m²",
+          "0,4 L/dk/m²"
+        ],
+        "correct": 2,
+        "explanation": "Kardiyak indeks = kalp debisi / vücut yüzey alanı = 5 / 2 = 2,5 L/dk/m².",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Sistolik basınç 120 mmHg, diyastolik basınç 60 mmHg ise yaklaşık OAB kaçtır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1yix64h",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Sistolik basınç 120 mmHg, diyastolik basınç 60 mmHg ise yaklaşık OAB kaçtır?",
+        "options": [
+          "60 mmHg",
+          "90 mmHg",
+          "120 mmHg",
+          "80 mmHg"
+        ],
+        "correct": 3,
+        "explanation": "OAB ≈ (sistolik + 2 × diyastolik) / 3 = (120 + 120) / 3 = 80 mmHg.",
+        "source": "Edwards hemodinamik değerler 2022"
+      }
+    },
+    {
+      "title": "EKG'de ventrikül repolarizasyonunu hangi dalga gösterir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0qzcyqb",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "mcq",
+        "importance": 3,
+        "question": "EKG'de ventrikül repolarizasyonunu hangi dalga gösterir?",
+        "options": [
+          "T dalgası",
+          "P dalgası",
+          "Q dalgası",
+          "R dalgası"
+        ],
+        "correct": 0,
+        "explanation": "T dalgası ventrikül repolarizasyonunu gösterir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Sol ana koroner arterin başlıca dalları hangi çifttir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1156w9g",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "mcq",
+        "importance": 1,
+        "question": "Sol ana koroner arterin başlıca dalları hangi çifttir?",
+        "options": [
+          "LAD ve sağ koroner arter",
+          "LAD ve sirkumfleks",
+          "Sirkumfleks ve sağ koroner arter",
+          "Posterior inen ve sağ koroner arter"
+        ],
+        "correct": 1,
+        "explanation": "Sol ana koroner arter LAD ve sirkumfleks dallarına ayrılır.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Frank-Starling mekanizması, kalbin venöz dönüşe yanıt veren intrinsik bir özelliğidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-16794e9",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Frank-Starling mekanizması, kalbin venöz dönüşe yanıt veren intrinsik bir özelliğidir.",
+        "isTrue": true,
+        "explanation": "Mekanizma yalnız nörohumoral uyarıya dayanmaz; miyokardın intrinsik yanıtıdır.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "EKG'de P dalgası ventrikül depolarizasyonunu gösterir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1dooi6k",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "tf",
+        "importance": 2,
+        "statement": "EKG'de P dalgası ventrikül depolarizasyonunu gösterir.",
+        "isTrue": false,
+        "explanation": "P dalgası atriyal depolarizasyonu gösterir; ventrikül depolarizasyonu QRS kompleksidir.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    },
+    {
+      "title": "Vagal uyarı AV düğüm iletisini yavaşlatabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-17taa29",
+        "course": "PER243",
+        "topic": "Kardiyovasküler fizyoloji",
+        "type": "tf",
+        "importance": 3,
+        "statement": "Vagal uyarı AV düğüm iletisini yavaşlatabilir.",
+        "isTrue": true,
+        "explanation": "Parasempatik uyarı AV iletiyi yavaşlatır; sempatik uyarı ters yönde etki eder.",
+        "source": "Klabunde: kardiyovasküler fizyoloji"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1vtmeyp",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Kalp debisi",
+      "en": "Cardiac output",
+      "definition": "Bir ventrikülün dakikada pompaladığı kan hacmi; atım hacmi ile kalp hızının çarpımına eşittir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0zle485",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Kardiyak indeks",
+      "en": "Cardiac index",
+      "definition": "Kalp debisinin vücut yüzey alanına bölünmüş değeri (L/dk/m²).",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1vrguxo",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Atım hacmi",
+      "en": "Stroke volume",
+      "definition": "Her atımda ventrikülden atılan kan; diyastol sonu hacim − sistol sonu hacim.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-162j6h5",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Ejeksiyon fraksiyonu",
+      "en": "Ejection fraction",
+      "definition": "Atım hacminin ventrikül diyastol sonu hacmine oranının yüzdeyle ifade edilmesi; sistolik boşalmayı değerlendirir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-01riblx",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Önyük",
+      "en": "Preload",
+      "definition": "Kasılma öncesi miyositlerin başlangıç gerilmesi (sarkomer uzunluğu); diyastol sonu hacim/basınçla tahmin edilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-08jd9p4",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Ardyük",
+      "en": "Afterload",
+      "definition": "Ventrikülün kanı fırlatırken karşı koyduğu yük (duvar stresi); sol ventrikül için aort basıncı ve sistemik vasküler direnç ile ilişkili.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1hgfm3a",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Kontraktilite",
+      "en": "Contractility (inotropy)",
+      "definition": "Önyükten bağımsız olarak miyokardın kasılma gücü ve hızı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-09442yk",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Frank-Starling yasası",
+      "en": "Frank-Starling law",
+      "definition": "Venöz dönüş (önyük) arttıkça kasılma gücünün ve atım hacminin artması.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0pcahll",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Laplace yasası",
+      "en": "Law of Laplace / wall stress",
+      "definition": "Duvar stresi ∝ basınç × yarıçap / duvar kalınlığı; ardyük ve miyokard oksijen tüketiminin belirleyicisi.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0g72f09",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Sistemik vasküler direnç",
+      "en": "Systemic vascular resistance",
+      "definition": "Sistemik dolaşımın kan akımına karşı gösterdiği direnç; ortalama arter basıncı ile santral venöz basınç farkının debiye oranıyla ilişkilidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-08bfdka",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Pulmoner vasküler direnç",
+      "en": "Pulmonary vascular resistance",
+      "definition": "Pulmoner dolaşımın kan akımına karşı gösterdiği direnç; pulmoner arter ile sol atriyum arasındaki basınç farkı ve kalp debisiyle hesaplanır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-1vj2pfl",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Ortalama arter basıncı",
+      "en": "Mean arterial pressure",
+      "definition": "Bir kalp döngüsü boyunca arter basıncının zaman ortalaması; doku perfüzyonu değerlendirmesinde kullanılan basınç.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-0gedjw1",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner perfüzyon basıncı",
+      "en": "Coronary perfusion pressure",
+      "definition": "Diyastolik aort basıncı ile sol ventrikül diyastol sonu basıncı (klinikte PAOP) arasındaki fark; sol ventrikül perfüzyonunun itici gücü.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-0u99aar",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Miyokard O2 tüketimi",
+      "en": "Myocardial O2 consumption (MVO2)",
+      "definition": "Kalbin dakikada tükettiği oksijen; kalp hızı, kontraktilite ve duvar stresiyle artar.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-13fh8gu",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Hız-basınç çarpımı",
+      "en": "Rate-pressure product",
+      "definition": "Sistolik basınç × kalp hızı; MVO2'nin dolaylı göstergesi.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0nx0ju3",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Otoregülasyon",
+      "en": "Autoregulation",
+      "definition": "Perfüzyon basıncı değişse de organ kan akımının sabit tutulması.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1j5ird1",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Subendokard",
+      "en": "Subendocardium",
+      "definition": "Ventrikül duvarının iç tabakası; sistolik kompresyon nedeniyle iskemiye en duyarlı bölge.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0jo0t8i",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Koroner dominans",
+      "en": "Coronary dominance",
+      "definition": "Posterior inen arteri hangi koroner arterin verdiğine göre koroner dolaşımın sağ, sol veya kodominant olarak tanımlanması.",
+      "source": "BJA Education 2024: koroner dolaşım"
+    },
+    {
+      "id": "PER243-1xdj4yu",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Koroner sinüs",
+      "en": "Coronary sinus",
+      "definition": "Kalbin venöz kanını sağ atriyuma boşaltan ana venöz yapı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-05jfoxi",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Kronotropi",
+      "en": "Chronotropy",
+      "definition": "Kalp hızı üzerindeki etki.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0hii1i4",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Dromotropi",
+      "en": "Dromotropy",
+      "definition": "İleti hızı (özellikle AV düğüm) üzerindeki etki.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1xwljmy",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Lusitropi",
+      "en": "Lusitropy",
+      "definition": "Miyokardın gevşeme hızı/diyastolik fonksiyon üzerindeki etki.",
+      "source": "Klabunde: kardiyovasküler farmakoloji"
+    },
+    {
+      "id": "PER243-19hn9gj",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 1,
+      "term": "SA düğüm",
+      "en": "Sinoatrial node",
+      "definition": "Sağ atriyumda bulunan, normal kalp ritmini başlatan doğal uyarı merkezi.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1mvq8gg",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 1,
+      "term": "AV düğüm",
+      "en": "Atrioventricular node",
+      "definition": "Atriyum ile ventrikül arasındaki normal ileti yolunda uyarıyı yavaşlatarak atriyal kasılmanın önce tamamlanmasına katkı sağlayan yapı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0x46zxa",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "PR aralığı",
+      "en": "PR interval",
+      "definition": "Elektrokardiyografide P dalgasının başlangıcı ile QRS kompleksinin başlangıcı arasındaki süre.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-02i5rn1",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "QTc",
+      "en": "Corrected QT interval",
+      "definition": "Elektrokardiyografide kalp hızına göre düzeltilmiş QT aralığı.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0tlqlyl",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "Atriyal katkı",
+      "en": "Atrial kick",
+      "definition": "Diyastol sonunda atriyal kasılmanın ventrikül doluşuna sağladığı katkı; kompliyansı düşük ventrikülde önem kazanır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-188ofes",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "HFrEF / HFpEF",
+      "en": "HF with reduced / preserved EF",
+      "definition": "Sistolik (EF düşük) ve diyastolik (EF korunmuş, kompliyans düşük) kalp yetersizliği tipleri.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-17ao9hz",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 3,
+      "term": "İskemi",
+      "en": "Ischemia",
+      "definition": "Genel kabul gören tanımıyla, dokuya kan akımının ihtiyacı karşılayamayacak ölçüde azalması.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-0zdm3ur",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "term",
+      "importance": 2,
+      "term": "Taşikardi / bradikardi",
+      "en": "Tachycardia / bradycardia",
+      "definition": "Kalp hızının normalden hızlı veya yavaş olması; kardiyak anestezide doluş ve miyokard oksijen dengesiyle ilişkilidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-12lg073",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "compare",
+      "importance": 2,
+      "title": "Kalbin yükleri",
+      "left": {
+        "title": "Önyük",
+        "points": [
+          "Kasılma öncesindeki başlangıç gerilmesi",
+          "Diyastol sonu hacim ve basınçla tahmin edilir"
+        ]
+      },
+      "right": {
+        "title": "Ardyük",
+        "points": [
+          "Ejeksiyon sırasında karşı konulan yük",
+          "Aort basıncı ve duvar stresiyle ilişkilidir"
+        ]
+      },
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0ok7qvr",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Frank-Starling eğrisinin kayması",
+      "body": "Ardyük artışı veya kontraktilite azalması Frank-Starling eğrisini **aşağı-sağa** kaydırır; aynı önyükte daha düşük atım hacmi elde edilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0804f99",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Duvar kalınlığı ve stres",
+      "body": "Laplace ilişkisine göre aynı basınç ve yarıçapta duvar kalınlığının artması **duvar stresini azaltır**.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-09kqxs7",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ardyük artışında kalan kan",
+      "body": "Ardyük artışı sistol sonu hacmi artırıp atım hacmini azaltabilir. Yetersiz kalp, sağlıklı kalbe göre bu değişime daha duyarlıdır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-08loogl",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Diyastolik yetersizlikte EF",
+      "body": "Korunmuş ejeksiyon fraksiyonu **normal diyastolik işlev anlamına gelmez**; düşük ventrikül kompliyansı doluşu bozabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1fuok2i",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 1,
+      "title": "Metabolik koroner düzenleme",
+      "body": "Koroner akımın metabolik düzenlenmesinde **adenozin ve nitrik oksit** önemlidir. Oksijen ihtiyacı arttığında akım artışı gerekir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1bkvoum",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "flip",
+      "importance": 1,
+      "question": "Kalp hızı artarken koroner oksijen dengesi neden bozulabilir?",
+      "answer": "Taşikardi **oksijen talebini artırır** ve diyastolü kısaltarak koroner oksijen sunumunu azaltabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1takm6q",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "flip",
+      "importance": 2,
+      "question": "Atriyal fibrilasyon önyükü hangi mekanizmayla azaltabilir?",
+      "answer": "**Atriyal kasılmanın doluşa katkısı kaybolur**; bu durum ventrikül doluşunu azaltabilir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-12bccvc",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kontraktilite artışı sistol sonu hacmi nasıl etkiler?",
+      "answer": "Daha güçlü boşalma nedeniyle **sistol sonu hacmi azalır**, atım hacmi artar.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-0j5wk8m",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "flip",
+      "importance": 3,
+      "question": "AV düğümdeki ileti gecikmesinin işlevi nedir?",
+      "answer": "Atriyal kasılmanın ventrikül kasılmasından **önce tamamlanmasına** zaman sağlar.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1edjmrq",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "remember",
+      "importance": 3,
+      "title": "Subendokardı koru",
+      "body": "**Subendokard**, sistolik kompresyon nedeniyle iskemiye en duyarlı miyokard bölgesidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1csaffs",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "remember",
+      "importance": 3,
+      "title": "Akım artışı neden gerekli?",
+      "body": "Miyokardın oksijen ekstraksiyonu zaten yüksektir. Artan talep esas olarak **koroner kan akımının artışıyla** karşılanır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1uwepxv",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 1,
+      "title": "Edwards: hemodinamik aralıklar",
+      "body": "Edwards 2022'de kalp debisi **4–8 L/dk**, kardiyak indeks **2,5–4 L/dk/m²** olarak verilir. Klabunde indeks aralığını 2,6–4,2 L/dk/m² bildirir; kaynaklar farklıdır.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-0te35r3",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "fact",
+      "importance": 2,
+      "title": "Edwards: vasküler direnç",
+      "body": "Edwards 2022'de sistemik direnç **800–1.200 dyn·sn·cm⁻⁵**, pulmoner direnç **100–250 dyn·sn·cm⁻⁵** olarak verilir. Normal aralıklar kaynak ve klinik bağlamla değerlendirilir.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-1wci6sj",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Atım hacmi 70 mL, kalp hızı 70/dk olan hastanın debisi kaçtır?",
+      "options": [
+        "4,9 L/dk",
+        "0,49 L/dk",
+        "7,0 L/dk",
+        "9,8 L/dk"
+      ],
+      "correct": 0,
+      "explanation": "70 × 70 = 4.900 mL/dk = 4,9 L/dk.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-06mtog0",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diyastol sonu hacmi 120 mL, sistol sonu hacmi 50 mL ise atım hacmi kaçtır?",
+      "options": [
+        "170 mL",
+        "70 mL",
+        "50 mL",
+        "120 mL"
+      ],
+      "correct": 1,
+      "explanation": "Atım hacmi = diyastol sonu hacim − sistol sonu hacim = 120 − 50 = 70 mL.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-036zbem",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalp debisi 5 L/dk, vücut yüzey alanı 2 m² ise kardiyak indeks kaçtır?",
+      "options": [
+        "10 L/dk/m²",
+        "5 L/dk/m²",
+        "2,5 L/dk/m²",
+        "0,4 L/dk/m²"
+      ],
+      "correct": 2,
+      "explanation": "Kardiyak indeks = kalp debisi / vücut yüzey alanı = 5 / 2 = 2,5 L/dk/m².",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1yix64h",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sistolik basınç 120 mmHg, diyastolik basınç 60 mmHg ise yaklaşık OAB kaçtır?",
+      "options": [
+        "60 mmHg",
+        "90 mmHg",
+        "120 mmHg",
+        "80 mmHg"
+      ],
+      "correct": 3,
+      "explanation": "OAB ≈ (sistolik + 2 × diyastolik) / 3 = (120 + 120) / 3 = 80 mmHg.",
+      "source": "Edwards hemodinamik değerler 2022"
+    },
+    {
+      "id": "PER243-0qzcyqb",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "mcq",
+      "importance": 3,
+      "question": "EKG'de ventrikül repolarizasyonunu hangi dalga gösterir?",
+      "options": [
+        "T dalgası",
+        "P dalgası",
+        "Q dalgası",
+        "R dalgası"
+      ],
+      "correct": 0,
+      "explanation": "T dalgası ventrikül repolarizasyonunu gösterir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1156w9g",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "mcq",
+      "importance": 1,
+      "question": "Sol ana koroner arterin başlıca dalları hangi çifttir?",
+      "options": [
+        "LAD ve sağ koroner arter",
+        "LAD ve sirkumfleks",
+        "Sirkumfleks ve sağ koroner arter",
+        "Posterior inen ve sağ koroner arter"
+      ],
+      "correct": 1,
+      "explanation": "Sol ana koroner arter LAD ve sirkumfleks dallarına ayrılır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-16794e9",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Frank-Starling mekanizması, kalbin venöz dönüşe yanıt veren intrinsik bir özelliğidir.",
+      "isTrue": true,
+      "explanation": "Mekanizma yalnız nörohumoral uyarıya dayanmaz; miyokardın intrinsik yanıtıdır.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-1dooi6k",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "tf",
+      "importance": 2,
+      "statement": "EKG'de P dalgası ventrikül depolarizasyonunu gösterir.",
+      "isTrue": false,
+      "explanation": "P dalgası atriyal depolarizasyonu gösterir; ventrikül depolarizasyonu QRS kompleksidir.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    },
+    {
+      "id": "PER243-17taa29",
+      "course": "PER243",
+      "topic": "Kardiyovasküler fizyoloji",
+      "type": "tf",
+      "importance": 3,
+      "statement": "Vagal uyarı AV düğüm iletisini yavaşlatabilir.",
+      "isTrue": true,
+      "explanation": "Parasempatik uyarı AV iletiyi yavaşlatır; sempatik uyarı ters yönde etki eder.",
+      "source": "Klabunde: kardiyovasküler fizyoloji"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

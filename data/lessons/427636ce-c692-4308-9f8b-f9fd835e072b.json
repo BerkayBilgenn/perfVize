@@ -1,0 +1,22 @@
+{
+  "title": "Çevrimdışı çalışma rehberi",
+  "category": "Başlarken",
+  "tags": [],
+  "kind": "note",
+  "sections": [
+    {
+      "title": "Ders notları",
+      "text": "# Bağlantısız çalışmak\nDers metinleri ve kaydettiğin yeni notlar bu cihazda korunur. Uygulamayı kapatıp yeniden açabilirsin.\n\n# Görselleri yanında taşımak\nCihazlar ve çevrimdışı ekranındaki indirme düğmesi, ders görsellerini ve özgün dosyaları bu cihaza indirir. İlk indirme için bağlantı gerekir.\n\n# Eşitleme\nBağlantı geri geldiğinde bekleyen kayıtlar sırayla aktarılır. İki cihaz aynı notu farklı değiştirdiyse iki sürüm de ayrı ders kopyalarında korunur. Cihazlar arası özel eşitleme yayını ayrıca etkinleştirilmelidir.\n\n# Gün sonu\nSohbette çalıştıklarını merkeze ekleme komutu için merkezin kayıt bağlantısı o sohbette kullanılabilir olmalıdır. Kayıt sonucu doğrulanmadan tamamlandı sayılmaz.",
+      "images": []
+    }
+  ],
+  "attachments": [],
+  "id": "427636ce-c692-4308-9f8b-f9fd835e072b",
+  "createdAt": "2026-10-20T21:14:16.308Z",
+  "updatedAt": "2026-10-20T21:14:16.308Z",
+  "personalNotes": "",
+  "favorite": false,
+  "completed": false,
+  "_rev": 1,
+  "_lastOp": "cb8c8836-0286-4ebb-b8f8-b88236272a8b"
+}

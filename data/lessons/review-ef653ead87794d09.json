@@ -1,0 +1,737 @@
+{
+  "id": "review-ef653ead87794d09",
+  "title": "Total yapay kalp (TAH)",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Total yapay kalp",
+      "text": "Total artificial heart (TAH)\nNativ ventriküllerin işlevini, onları çıkarıp yerine yerleştirilen yapay pompa sistemiyle karşılayan total kalp replasmanı.",
+      "images": [],
+      "card": {
+        "id": "PER207-0w6zsu7",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "term",
+        "importance": 3,
+        "term": "Total yapay kalp",
+        "en": "Total artificial heart (TAH)",
+        "definition": "Nativ ventriküllerin işlevini, onları çıkarıp yerine yerleştirilen yapay pompa sistemiyle karşılayan total kalp replasmanı.",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "Freedom sürücüsü",
+      "text": "Freedom driver\nSynCardia total yapay kalbi için taşınabilir pnömatik sürücü. Hastanın nakli hastane yerine evde beklemesini sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER207-0b8dmmu",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "term",
+        "importance": 1,
+        "term": "Freedom sürücüsü",
+        "en": "Freedom driver",
+        "definition": "SynCardia total yapay kalbi için taşınabilir pnömatik sürücü. Hastanın nakli hastane yerine evde beklemesini sağlar.",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "Uzun süreli destekte seçenekler",
+      "text": "LVAD\nSol ventrikül boşaltılması hedeflenir\nNakle köprü veya destinasyon tedavisi olarak kullanılabilir\nSağ kalp işlevi aday seçiminde değerlendirilir\n\nTAH\nTotal kalp replasmanı amaçlanır\nSynCardia geçici sisteminde FDA 2004 endikasyonu nakle köprüdür\nGöğüs içi anatomik uygunluk ayrıca değerlendirilir",
+      "images": [],
+      "card": {
+        "id": "PER207-0u1v8hm",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "compare",
+        "importance": 3,
+        "title": "Uzun süreli destekte seçenekler",
+        "left": {
+          "title": "LVAD",
+          "points": [
+            "Sol ventrikül boşaltılması hedeflenir",
+            "Nakle köprü veya destinasyon tedavisi olarak kullanılabilir",
+            "Sağ kalp işlevi aday seçiminde değerlendirilir"
+          ]
+        },
+        "right": {
+          "title": "TAH",
+          "points": [
+            "Total kalp replasmanı amaçlanır",
+            "SynCardia geçici sisteminde FDA 2004 endikasyonu nakle köprüdür",
+            "Göğüs içi anatomik uygunluk ayrıca değerlendirilir"
+          ]
+        },
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "Pnömatik sürücü",
+      "text": "Pneumatic driver\nBasınçlı gazla diyafram hareketi oluşturarak pnömatik yapay kalp pompalarını çalıştıran dış ünite.",
+      "images": [],
+      "card": {
+        "id": "PER207-0h3a6rr",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "term",
+        "importance": 1,
+        "term": "Pnömatik sürücü",
+        "en": "Pneumatic driver",
+        "definition": "Basınçlı gazla diyafram hareketi oluşturarak pnömatik yapay kalp pompalarını çalıştıran dış ünite.",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "AbioCor",
+      "text": "AbioCor\nTranskütan enerji aktarımı kullanan, tamamen implante edilebilir total yapay kalp tasarımı.",
+      "images": [],
+      "card": {
+        "id": "PER207-19amxc6",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "term",
+        "importance": 1,
+        "term": "AbioCor",
+        "en": "AbioCor",
+        "definition": "Transkütan enerji aktarımı kullanan, tamamen implante edilebilir total yapay kalp tasarımı.",
+        "source": "FDA AbioCor HDE 2006"
+      }
+    },
+    {
+      "title": "Aeson",
+      "text": "CARMAT Aeson\nBiyoprotez kan temas yüzeyleri kullanan pulsatil total yapay kalp sistemi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0l2zh4t",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "term",
+        "importance": 1,
+        "term": "Aeson",
+        "en": "CARMAT Aeson",
+        "definition": "Biyoprotez kan temas yüzeyleri kullanan pulsatil total yapay kalp sistemi.",
+        "source": "CARMAT Aeson teknik tanımı 2021"
+      }
+    },
+    {
+      "title": "İnsana takılan ilk yapay kalp",
+      "text": "4 Nisan 1969'da **Liotta ve Cooley** (Houston) insana ilk total yapay kalbi köprü olarak taktı; 64 saat sonra hastaya donör kalp nakledildi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0zqim1m",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 2,
+        "title": "İnsana takılan ilk yapay kalp",
+        "body": "4 Nisan 1969'da **Liotta ve Cooley** (Houston) insana ilk total yapay kalbi köprü olarak taktı; 64 saat sonra hastaya donör kalp nakledildi.",
+        "source": "Cooley–Liotta, AJC 1969"
+      }
+    },
+    {
+      "title": "Jarvik-7 ve Barney Clark",
+      "text": "Aralık 1982’de William DeVries, **Jarvik-7**’yi Barney Clark’a kalıcı amaçla taktı. Hasta **112 gün** yaşadı. Utah arşivi ameliyatı 1–2 Aralık gecesi olarak kaydeder; kaynaklar arasındaki gün ve konsol ağırlığı farklılıkları sınav bilgisi yapılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1cqoyje",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 2,
+        "title": "Jarvik-7 ve Barney Clark",
+        "body": "Aralık 1982’de William DeVries, **Jarvik-7**’yi Barney Clark’a kalıcı amaçla taktı. Hasta **112 gün** yaşadı. Utah arşivi ameliyatı 1–2 Aralık gecesi olarak kaydeder; kaynaklar arasındaki gün ve konsol ağırlığı farklılıkları sınav bilgisi yapılmaz.",
+        "source": "University of Utah TAH arşivi"
+      }
+    },
+    {
+      "title": "SynCardia nasıl çalışır?",
+      "text": "Pnömatik diyaframlarla çalışan iki yapay ventrikülden oluşur. FDA 2004’ün 70 mL sistemi için maksimum dinamik atım hacmi **70 mL**, bildirilen kapasite 9,5 L/dk’ya kadardır. Bu cihaz özelliği, bütün hasta ve modeller için hedef debi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0b5toiy",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 2,
+        "title": "SynCardia nasıl çalışır?",
+        "body": "Pnömatik diyaframlarla çalışan iki yapay ventrikülden oluşur. FDA 2004’ün 70 mL sistemi için maksimum dinamik atım hacmi **70 mL**, bildirilen kapasite 9,5 L/dk’ya kadardır. Bu cihaz özelliği, bütün hasta ve modeller için hedef debi değildir.",
+        "source": "FDA SynCardia güvenlik-etkinlik 2004"
+      }
+    },
+    {
+      "title": "BiVACOR",
+      "text": "Titanyumdan yapılmış, **manyetik levitasyonlu tek döner rotorlu** ve kapaksız bir total yapay kalp. İlk kez 9 Temmuz 2024'te insana takıldı.",
+      "images": [],
+      "card": {
+        "id": "PER207-12uwi7l",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 1,
+        "title": "BiVACOR",
+        "body": "Titanyumdan yapılmış, **manyetik levitasyonlu tek döner rotorlu** ve kapaksız bir total yapay kalp. İlk kez 9 Temmuz 2024'te insana takıldı.",
+        "source": "Texas Heart Institute 2024"
+      }
+    },
+    {
+      "title": "FDA onaylı ilk TAH",
+      "text": "SynCardia (eski adı CardioWest) geçici total yapay kalp, **Ekim 2004**'te biventriküler yetmezlikte transplantasyona köprü olarak FDA onayı alan ilk yapay kalp oldu.",
+      "images": [],
+      "card": {
+        "id": "PER207-1k6ljvy",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "remember",
+        "importance": 3,
+        "title": "FDA onaylı ilk TAH",
+        "body": "SynCardia (eski adı CardioWest) geçici total yapay kalp, **Ekim 2004**'te biventriküler yetmezlikte transplantasyona köprü olarak FDA onayı alan ilk yapay kalp oldu.",
+        "source": "FDA SynCardia 2004"
+      }
+    },
+    {
+      "title": "Total yapay kalbin başlıca endikasyonu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1qt1kxl",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "flip",
+        "importance": 3,
+        "question": "Total yapay kalbin başlıca endikasyonu nedir?",
+        "answer": "Yakın ölüm riski taşıyan **ciddi biventriküler yetmezlikte** transplantasyona köprü (BTT).",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "Total yapay kalple desteklenen hastalarda başlıca ölüm nedenleri nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1b0wo10",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "flip",
+        "importance": 1,
+        "question": "Total yapay kalple desteklenen hastalarda başlıca ölüm nedenleri nelerdir?",
+        "answer": "Çoklu organ yetmezliği, nörolojik hasar ve cihazla ilişkili sorunlar (tromboz, enfeksiyon).",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "Total yapay kalbi (TAH) LVAD'den ayıran temel özellik hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-05gzqpv",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Total yapay kalbi (TAH) LVAD'den ayıran temel özellik hangisidir?",
+        "options": [
+          "Her iki ventrikülü çıkarıp yerini alması",
+          "Yalnızca sol ventrikülü desteklemesi",
+          "Perkütan yolla yerleştirilmesi",
+          "Diyastolde aortta şişip sistolde sönmesi"
+        ],
+        "correct": 0,
+        "explanation": "TAH ventrikülleri ve kapakları çıkarıp yerine geçer; LVAD nativ kalbi yerinde bırakır. Diyastolde şişip sistolde sönen cihaz İABP'dir.",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "1982'de Barney Clark'a kalıcı (destinasyon) amaçla takılan total yapay kalp hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1008wzd",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "1982'de Barney Clark'a kalıcı (destinasyon) amaçla takılan total yapay kalp hangisidir?",
+        "options": [
+          "Jarvik-7",
+          "SynCardia",
+          "BiVACOR",
+          "AbioCor"
+        ],
+        "correct": 0,
+        "explanation": "Jarvik-7 hastayı 112 gün yaşattı. SynCardia 2004'te köprü olarak FDA onayı aldı; BiVACOR ilk kez 2024'te takıldı.",
+        "source": "TAH derlemesi, PMC 2023"
+      }
+    },
+    {
+      "title": "FDA P030011’in 2004 SynCardia 70 mL onayı, hastane dışında evde kullanım için verilmiştir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0jyksnn",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "tf",
+        "importance": 2,
+        "statement": "FDA P030011’in 2004 SynCardia 70 mL onayı, hastane dışında evde kullanım için verilmiştir.",
+        "isTrue": false,
+        "explanation": "2004 P030011 belgesinde sistemin hastanede kullanım amacı belirtilir. Bu tarihli onay, sonraki taşınabilir sürücü izinleriyle karıştırılmaz.",
+        "source": "FDA SynCardia güvenlik-etkinlik 2004"
+      }
+    },
+    {
+      "title": "FDA 2004 SynCardia 70 mL sisteminde yeterli antikoagülasyon uygulanamaması bir kontrendikasyondur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1lect6i",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "tf",
+        "importance": 1,
+        "statement": "FDA 2004 SynCardia 70 mL sisteminde yeterli antikoagülasyon uygulanamaması bir kontrendikasyondur.",
+        "isTrue": true,
+        "explanation": "FDA P030011 güvenlik ve etkinlik belgesi, yeterli antikoagülasyon uygulanamayan hastayı kontraendikasyonlar arasında sayar.",
+        "source": "FDA SynCardia güvenlik-etkinlik 2004"
+      }
+    },
+    {
+      "title": "SynCardia’da göğüs içi uygunluk",
+      "text": "Total yapay kalp implantasyonunda ventriküllerin çıkarıldığı göğüs içi boşluğun cihazı barındırabilmesi gerekir. **Anatomik uygunluk** hasta seçiminde ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-06ul400",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 2,
+        "title": "SynCardia’da göğüs içi uygunluk",
+        "body": "Total yapay kalp implantasyonunda ventriküllerin çıkarıldığı göğüs içi boşluğun cihazı barındırabilmesi gerekir. **Anatomik uygunluk** hasta seçiminde ayrıca değerlendirilir.",
+        "source": "FDA SynCardia güvenlik-etkinlik 2004"
+      }
+    },
+    {
+      "title": "AbioCor’un tarihsel HDE onayı",
+      "text": "FDA, AbioCor için **5 Eylül 2006** tarihinde H040006 HDE kararı verdi. Endikasyon, nakil adayı olmayan ve diğer destek seçenekleri uygun bulunmayan ağır biventriküler kalp hastalığıyla sınırlıydı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1jxls81",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 1,
+        "title": "AbioCor’un tarihsel HDE onayı",
+        "body": "FDA, AbioCor için **5 Eylül 2006** tarihinde H040006 HDE kararı verdi. Endikasyon, nakil adayı olmayan ve diğer destek seçenekleri uygun bulunmayan ağır biventriküler kalp hastalığıyla sınırlıydı.",
+        "source": "FDA AbioCor HDE 2006"
+      }
+    },
+    {
+      "title": "BiVACOR erken fizibilite çalışmasının amacı",
+      "text": "2024 ilk insan çalışması, BiVACOR’un ağır biventriküler yetmezlikte veya LVAD uygun olmayan tek ventrikül yetmezliğinde **nakle köprü olarak güvenlik ve performansını** değerlendirmeyi amaçladı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1g8dqyk",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "fact",
+        "importance": 1,
+        "title": "BiVACOR erken fizibilite çalışmasının amacı",
+        "body": "2024 ilk insan çalışması, BiVACOR’un ağır biventriküler yetmezlikte veya LVAD uygun olmayan tek ventrikül yetmezliğinde **nakle köprü olarak güvenlik ve performansını** değerlendirmeyi amaçladı.",
+        "source": "Texas Heart Institute 2024"
+      }
+    },
+    {
+      "title": "SynCardia 70 mL sisteminde kanın sağ pompadan izlediği çıkış yolu nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0j72std",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "flip",
+        "importance": 2,
+        "question": "SynCardia 70 mL sisteminde kanın sağ pompadan izlediği çıkış yolu nedir?",
+        "answer": "Sağ yapay ventrikül kanı **pulmoner artere** gönderir; sol yapay ventrikülün çıkışı aortadır. İki devre için ayrı yapay ventriküller bulunur.",
+        "source": "FDA SynCardia güvenlik-etkinlik 2004"
+      }
+    },
+    {
+      "title": "FDA 2004 SynCardia 70 mL cihazında her yapay ventrikülün tek yönlü akımını hangi bileşenler sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-02eev7c",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "FDA 2004 SynCardia 70 mL cihazında her yapay ventrikülün tek yönlü akımını hangi bileşenler sağlar?",
+        "options": [
+          "Atriyumlar arasındaki transseptal açıklık",
+          "Aort içindeki karşı-atım balonu",
+          "Giriş ve çıkıştaki mekanik kapaklar",
+          "Yalnız çıkış greftindeki sürekli rotor"
+        ],
+        "correct": 2,
+        "explanation": "Her yapay ventrikülün giriş ve çıkışında mekanik kapak bulunur; akım yönünü bu kapaklar kontrol eder.",
+        "source": "FDA SynCardia güvenlik-etkinlik 2004"
+      }
+    },
+    {
+      "title": "Tamamen implante edilebilir AbioCor’un enerji aktarımı yaklaşımı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-01aq395",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Tamamen implante edilebilir AbioCor’un enerji aktarımı yaklaşımı hangisidir?",
+        "options": [
+          "Harici pnömatik hava hattı",
+          "Femoral arter basınç farkı",
+          "Sadece yerçekimi ile doluş",
+          "Transkütan enerji aktarımı"
+        ],
+        "correct": 3,
+        "explanation": "AbioCor tasarımı, deriyi geçen pnömatik sürücü hattından farklı olarak transkütan enerji aktarımını kullanır.",
+        "source": "FDA AbioCor HDE 2006"
+      }
+    },
+    {
+      "title": "CARMAT Aeson’da kanla temas eden yüzeyin hangi özelliği öne çıkar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0w7d34m",
+        "course": "PER207",
+        "topic": "Total yapay kalp (TAH)",
+        "type": "mcq",
+        "importance": 2,
+        "question": "CARMAT Aeson’da kanla temas eden yüzeyin hangi özelliği öne çıkar?",
+        "options": [
+          "Biyoprotez doku kaplama",
+          "Yalnız pirolitik karbon kaplama",
+          "Yalnız çıplak titanyum yüzey",
+          "Yalnız sentetik poliüretan yüzey"
+        ],
+        "correct": 0,
+        "explanation": "Aeson tasarımında biyoprotez kan temas yüzeyleri kullanılır; seçenekler farklı kan temas malzemelerini karşılaştırır.",
+        "source": "CARMAT Aeson teknik tanımı 2021"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-0w6zsu7",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "term",
+      "importance": 3,
+      "term": "Total yapay kalp",
+      "en": "Total artificial heart (TAH)",
+      "definition": "Nativ ventriküllerin işlevini, onları çıkarıp yerine yerleştirilen yapay pompa sistemiyle karşılayan total kalp replasmanı.",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-0b8dmmu",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "term",
+      "importance": 1,
+      "term": "Freedom sürücüsü",
+      "en": "Freedom driver",
+      "definition": "SynCardia total yapay kalbi için taşınabilir pnömatik sürücü. Hastanın nakli hastane yerine evde beklemesini sağlar.",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-0u1v8hm",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "compare",
+      "importance": 3,
+      "title": "Uzun süreli destekte seçenekler",
+      "left": {
+        "title": "LVAD",
+        "points": [
+          "Sol ventrikül boşaltılması hedeflenir",
+          "Nakle köprü veya destinasyon tedavisi olarak kullanılabilir",
+          "Sağ kalp işlevi aday seçiminde değerlendirilir"
+        ]
+      },
+      "right": {
+        "title": "TAH",
+        "points": [
+          "Total kalp replasmanı amaçlanır",
+          "SynCardia geçici sisteminde FDA 2004 endikasyonu nakle köprüdür",
+          "Göğüs içi anatomik uygunluk ayrıca değerlendirilir"
+        ]
+      },
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-0h3a6rr",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "term",
+      "importance": 1,
+      "term": "Pnömatik sürücü",
+      "en": "Pneumatic driver",
+      "definition": "Basınçlı gazla diyafram hareketi oluşturarak pnömatik yapay kalp pompalarını çalıştıran dış ünite.",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-19amxc6",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "term",
+      "importance": 1,
+      "term": "AbioCor",
+      "en": "AbioCor",
+      "definition": "Transkütan enerji aktarımı kullanan, tamamen implante edilebilir total yapay kalp tasarımı.",
+      "source": "FDA AbioCor HDE 2006"
+    },
+    {
+      "id": "PER207-0l2zh4t",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "term",
+      "importance": 1,
+      "term": "Aeson",
+      "en": "CARMAT Aeson",
+      "definition": "Biyoprotez kan temas yüzeyleri kullanan pulsatil total yapay kalp sistemi.",
+      "source": "CARMAT Aeson teknik tanımı 2021"
+    },
+    {
+      "id": "PER207-0zqim1m",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 2,
+      "title": "İnsana takılan ilk yapay kalp",
+      "body": "4 Nisan 1969'da **Liotta ve Cooley** (Houston) insana ilk total yapay kalbi köprü olarak taktı; 64 saat sonra hastaya donör kalp nakledildi.",
+      "source": "Cooley–Liotta, AJC 1969"
+    },
+    {
+      "id": "PER207-1cqoyje",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 2,
+      "title": "Jarvik-7 ve Barney Clark",
+      "body": "Aralık 1982’de William DeVries, **Jarvik-7**’yi Barney Clark’a kalıcı amaçla taktı. Hasta **112 gün** yaşadı. Utah arşivi ameliyatı 1–2 Aralık gecesi olarak kaydeder; kaynaklar arasındaki gün ve konsol ağırlığı farklılıkları sınav bilgisi yapılmaz.",
+      "source": "University of Utah TAH arşivi"
+    },
+    {
+      "id": "PER207-0b5toiy",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 2,
+      "title": "SynCardia nasıl çalışır?",
+      "body": "Pnömatik diyaframlarla çalışan iki yapay ventrikülden oluşur. FDA 2004’ün 70 mL sistemi için maksimum dinamik atım hacmi **70 mL**, bildirilen kapasite 9,5 L/dk’ya kadardır. Bu cihaz özelliği, bütün hasta ve modeller için hedef debi değildir.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "id": "PER207-12uwi7l",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 1,
+      "title": "BiVACOR",
+      "body": "Titanyumdan yapılmış, **manyetik levitasyonlu tek döner rotorlu** ve kapaksız bir total yapay kalp. İlk kez 9 Temmuz 2024'te insana takıldı.",
+      "source": "Texas Heart Institute 2024"
+    },
+    {
+      "id": "PER207-1k6ljvy",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "remember",
+      "importance": 3,
+      "title": "FDA onaylı ilk TAH",
+      "body": "SynCardia (eski adı CardioWest) geçici total yapay kalp, **Ekim 2004**'te biventriküler yetmezlikte transplantasyona köprü olarak FDA onayı alan ilk yapay kalp oldu.",
+      "source": "FDA SynCardia 2004"
+    },
+    {
+      "id": "PER207-1qt1kxl",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "flip",
+      "importance": 3,
+      "question": "Total yapay kalbin başlıca endikasyonu nedir?",
+      "answer": "Yakın ölüm riski taşıyan **ciddi biventriküler yetmezlikte** transplantasyona köprü (BTT).",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-1b0wo10",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "flip",
+      "importance": 1,
+      "question": "Total yapay kalple desteklenen hastalarda başlıca ölüm nedenleri nelerdir?",
+      "answer": "Çoklu organ yetmezliği, nörolojik hasar ve cihazla ilişkili sorunlar (tromboz, enfeksiyon).",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-05gzqpv",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Total yapay kalbi (TAH) LVAD'den ayıran temel özellik hangisidir?",
+      "options": [
+        "Her iki ventrikülü çıkarıp yerini alması",
+        "Yalnızca sol ventrikülü desteklemesi",
+        "Perkütan yolla yerleştirilmesi",
+        "Diyastolde aortta şişip sistolde sönmesi"
+      ],
+      "correct": 0,
+      "explanation": "TAH ventrikülleri ve kapakları çıkarıp yerine geçer; LVAD nativ kalbi yerinde bırakır. Diyastolde şişip sistolde sönen cihaz İABP'dir.",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-1008wzd",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "1982'de Barney Clark'a kalıcı (destinasyon) amaçla takılan total yapay kalp hangisidir?",
+      "options": [
+        "Jarvik-7",
+        "SynCardia",
+        "BiVACOR",
+        "AbioCor"
+      ],
+      "correct": 0,
+      "explanation": "Jarvik-7 hastayı 112 gün yaşattı. SynCardia 2004'te köprü olarak FDA onayı aldı; BiVACOR ilk kez 2024'te takıldı.",
+      "source": "TAH derlemesi, PMC 2023"
+    },
+    {
+      "id": "PER207-0jyksnn",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "tf",
+      "importance": 2,
+      "statement": "FDA P030011’in 2004 SynCardia 70 mL onayı, hastane dışında evde kullanım için verilmiştir.",
+      "isTrue": false,
+      "explanation": "2004 P030011 belgesinde sistemin hastanede kullanım amacı belirtilir. Bu tarihli onay, sonraki taşınabilir sürücü izinleriyle karıştırılmaz.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "id": "PER207-1lect6i",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "tf",
+      "importance": 1,
+      "statement": "FDA 2004 SynCardia 70 mL sisteminde yeterli antikoagülasyon uygulanamaması bir kontrendikasyondur.",
+      "isTrue": true,
+      "explanation": "FDA P030011 güvenlik ve etkinlik belgesi, yeterli antikoagülasyon uygulanamayan hastayı kontraendikasyonlar arasında sayar.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "id": "PER207-06ul400",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 2,
+      "title": "SynCardia’da göğüs içi uygunluk",
+      "body": "Total yapay kalp implantasyonunda ventriküllerin çıkarıldığı göğüs içi boşluğun cihazı barındırabilmesi gerekir. **Anatomik uygunluk** hasta seçiminde ayrıca değerlendirilir.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "id": "PER207-1jxls81",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 1,
+      "title": "AbioCor’un tarihsel HDE onayı",
+      "body": "FDA, AbioCor için **5 Eylül 2006** tarihinde H040006 HDE kararı verdi. Endikasyon, nakil adayı olmayan ve diğer destek seçenekleri uygun bulunmayan ağır biventriküler kalp hastalığıyla sınırlıydı.",
+      "source": "FDA AbioCor HDE 2006"
+    },
+    {
+      "id": "PER207-1g8dqyk",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "fact",
+      "importance": 1,
+      "title": "BiVACOR erken fizibilite çalışmasının amacı",
+      "body": "2024 ilk insan çalışması, BiVACOR’un ağır biventriküler yetmezlikte veya LVAD uygun olmayan tek ventrikül yetmezliğinde **nakle köprü olarak güvenlik ve performansını** değerlendirmeyi amaçladı.",
+      "source": "Texas Heart Institute 2024"
+    },
+    {
+      "id": "PER207-0j72std",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "flip",
+      "importance": 2,
+      "question": "SynCardia 70 mL sisteminde kanın sağ pompadan izlediği çıkış yolu nedir?",
+      "answer": "Sağ yapay ventrikül kanı **pulmoner artere** gönderir; sol yapay ventrikülün çıkışı aortadır. İki devre için ayrı yapay ventriküller bulunur.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "id": "PER207-02eev7c",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "FDA 2004 SynCardia 70 mL cihazında her yapay ventrikülün tek yönlü akımını hangi bileşenler sağlar?",
+      "options": [
+        "Atriyumlar arasındaki transseptal açıklık",
+        "Aort içindeki karşı-atım balonu",
+        "Giriş ve çıkıştaki mekanik kapaklar",
+        "Yalnız çıkış greftindeki sürekli rotor"
+      ],
+      "correct": 2,
+      "explanation": "Her yapay ventrikülün giriş ve çıkışında mekanik kapak bulunur; akım yönünü bu kapaklar kontrol eder.",
+      "source": "FDA SynCardia güvenlik-etkinlik 2004"
+    },
+    {
+      "id": "PER207-01aq395",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Tamamen implante edilebilir AbioCor’un enerji aktarımı yaklaşımı hangisidir?",
+      "options": [
+        "Harici pnömatik hava hattı",
+        "Femoral arter basınç farkı",
+        "Sadece yerçekimi ile doluş",
+        "Transkütan enerji aktarımı"
+      ],
+      "correct": 3,
+      "explanation": "AbioCor tasarımı, deriyi geçen pnömatik sürücü hattından farklı olarak transkütan enerji aktarımını kullanır.",
+      "source": "FDA AbioCor HDE 2006"
+    },
+    {
+      "id": "PER207-0w7d34m",
+      "course": "PER207",
+      "topic": "Total yapay kalp (TAH)",
+      "type": "mcq",
+      "importance": 2,
+      "question": "CARMAT Aeson’da kanla temas eden yüzeyin hangi özelliği öne çıkar?",
+      "options": [
+        "Biyoprotez doku kaplama",
+        "Yalnız pirolitik karbon kaplama",
+        "Yalnız çıplak titanyum yüzey",
+        "Yalnız sentetik poliüretan yüzey"
+      ],
+      "correct": 0,
+      "explanation": "Aeson tasarımında biyoprotez kan temas yüzeyleri kullanılır; seçenekler farklı kan temas malzemelerini karşılaştırır.",
+      "source": "CARMAT Aeson teknik tanımı 2021"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

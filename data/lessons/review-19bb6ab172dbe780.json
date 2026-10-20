@@ -1,0 +1,1347 @@
+{
+  "id": "review-19bb6ab172dbe780",
+  "title": "Testler, indikatörler ve geri çağırma",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Fiziksel indikatör",
+      "text": "Mechanical indicator\nSüreci gösteren grafik, gösterge ve çıktılar (süre, sıcaklık, basınç).",
+      "images": [],
+      "card": {
+        "id": "PER247-0m4amca",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Fiziksel indikatör",
+        "definition": "Süreci gösteren grafik, gösterge ve çıktılar (süre, sıcaklık, basınç).",
+        "en": "Mechanical indicator"
+      }
+    },
+    {
+      "title": "Kimyasal indikatör",
+      "text": "Chemical indicator\nSterilizasyon koşullarına renk vb. değişimle yanıt veren gösterge; sterilliği kanıtlamaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1dheuk6",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kimyasal indikatör",
+        "definition": "Sterilizasyon koşullarına renk vb. değişimle yanıt veren gösterge; sterilliği kanıtlamaz.",
+        "en": "Chemical indicator"
+      }
+    },
+    {
+      "title": "Proses indikatörü",
+      "text": "Process indicator\nİşleme girmiş paketleri işlem görmemişlerden ayıran dış gösterge. ISO tip sınıflamasında Tip 1 olarak adlandırılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0cr3cob",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Proses indikatörü",
+        "definition": "İşleme girmiş paketleri işlem görmemişlerden ayıran dış gösterge. ISO tip sınıflamasında Tip 1 olarak adlandırılır.",
+        "en": "Process indicator"
+      }
+    },
+    {
+      "title": "Maruziyet bandı",
+      "text": "Exposure/autoclave tape\nPaketi kapalı tutan ve sterilizasyon işlemine maruziyeti gösteren bant. **Sterilizasyon etkinliğinin tek başına kanıtı değildir.**",
+      "images": [],
+      "card": {
+        "id": "PER247-137rhqx",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "Maruziyet bandı",
+        "definition": "Paketi kapalı tutan ve sterilizasyon işlemine maruziyeti gösteren bant. **Sterilizasyon etkinliğinin tek başına kanıtı değildir.**",
+        "en": "Exposure/autoclave tape"
+      }
+    },
+    {
+      "title": "Özel test indikatörü",
+      "text": "Specific-use / special test indicator\nBowie-Dick gibi özel bir test prosedürü için tasarlanmış gösterge. ISO tip sınıflamasında Tip 2 olarak adlandırılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0cai08w",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Özel test indikatörü",
+        "definition": "Bowie-Dick gibi özel bir test prosedürü için tasarlanmış gösterge. ISO tip sınıflamasında Tip 2 olarak adlandırılır.",
+        "en": "Specific-use / special test indicator"
+      }
+    },
+    {
+      "title": "Tek değişkenli indikatör",
+      "text": "Single-variable indicator\nSterilizasyon sürecinin tek kritik değişkenine yanıt vermek üzere tasarlanmış kimyasal gösterge; ISO Tip 3.",
+      "images": [],
+      "card": {
+        "id": "PER247-0c9e1c4",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Tek değişkenli indikatör",
+        "definition": "Sterilizasyon sürecinin tek kritik değişkenine yanıt vermek üzere tasarlanmış kimyasal gösterge; ISO Tip 3.",
+        "en": "Single-variable indicator"
+      }
+    },
+    {
+      "title": "Çok değişkenli indikatör",
+      "text": "Multi-variable indicator\nSterilizasyon sürecinin iki veya daha fazla kritik değişkenine yanıt veren kimyasal gösterge; ISO Tip 4.",
+      "images": [],
+      "card": {
+        "id": "PER247-1gidoed",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Çok değişkenli indikatör",
+        "definition": "Sterilizasyon sürecinin iki veya daha fazla kritik değişkenine yanıt veren kimyasal gösterge; ISO Tip 4.",
+        "en": "Multi-variable indicator"
+      }
+    },
+    {
+      "title": "Entegre indikatör",
+      "text": "Integrating indicator\nTüm kritik değişkenlere yanıt veren, belirtilen değerleri biyolojik indikatör performansıyla ilişkili kimyasal gösterge; ISO Tip 5.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ylh5rv",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Entegre indikatör",
+        "definition": "Tüm kritik değişkenlere yanıt veren, belirtilen değerleri biyolojik indikatör performansıyla ilişkili kimyasal gösterge; ISO Tip 5.",
+        "en": "Integrating indicator"
+      }
+    },
+    {
+      "title": "Emülasyon indikatörü",
+      "text": "Emulating indicator\nBelirli bir sterilizasyon döngüsünün tüm kritik değişkenlerine yanıt vermek üzere tasarlanmış döngü doğrulama göstergesi; ISO Tip 6.",
+      "images": [],
+      "card": {
+        "id": "PER247-1sutyg9",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Emülasyon indikatörü",
+        "definition": "Belirli bir sterilizasyon döngüsünün tüm kritik değişkenlerine yanıt vermek üzere tasarlanmış döngü doğrulama göstergesi; ISO Tip 6.",
+        "en": "Emulating indicator"
+      }
+    },
+    {
+      "title": "Uç nokta",
+      "text": "Endpoint\nKİ'de \"geçti\" renk değişiminin oluştuğu nokta.",
+      "images": [],
+      "card": {
+        "id": "PER247-1c7yyua",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Uç nokta",
+        "definition": "Kİ'de \"geçti\" renk değişiminin oluştuğu nokta.",
+        "en": "Endpoint"
+      }
+    },
+    {
+      "title": "Belirtilen değer",
+      "text": "Stated value\nKİ'nin uç noktaya ulaşmasını sağlayan maruziyet koşulları.",
+      "images": [],
+      "card": {
+        "id": "PER247-1k8vf9c",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "STERIS Kİ teknik belgesi",
+        "term": "Belirtilen değer",
+        "definition": "Kİ'nin uç noktaya ulaşmasını sağlayan maruziyet koşulları.",
+        "en": "Stated value"
+      }
+    },
+    {
+      "title": "Bowie-Dick testi",
+      "text": "Bowie-Dick test\nÖn vakumlu otoklavın hava uzaklaştırma yeteneğini ve kaçakları gösteren günlük test; sterilizasyon testi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1mtwo92",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Bowie-Dick testi",
+        "definition": "Ön vakumlu otoklavın hava uzaklaştırma yeteneğini ve kaçakları gösteren günlük test; sterilizasyon testi değildir.",
+        "en": "Bowie-Dick test"
+      }
+    },
+    {
+      "title": "Vakum kaçak testi",
+      "text": "Vacuum leak test\nSterilizatör haznesinin vakum altında hava sızdırma hızını **mbar/dk** olarak ölçen test. Sonuç sayısal kaydedilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0aizl5d",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "Vakum kaçak testi",
+        "definition": "Sterilizatör haznesinin vakum altında hava sızdırma hızını **mbar/dk** olarak ölçen test. Sonuç sayısal kaydedilir.",
+        "en": "Vacuum leak test"
+      }
+    },
+    {
+      "title": "Biyolojik indikatör",
+      "text": "Biological indicator\nSterilizasyona dirençli standardize spor popülasyonuyla öldürücülüğü doğrudan gösteren test.",
+      "images": [],
+      "card": {
+        "id": "PER247-1lykjbt",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Biyolojik indikatör",
+        "definition": "Sterilizasyona dirençli standardize spor popülasyonuyla öldürücülüğü doğrudan gösteren test.",
+        "en": "Biological indicator"
+      }
+    },
+    {
+      "title": "Geobacillus stearothermophilus",
+      "text": "Buhar, hidrojen peroksit gaz plazma ve sıvı perasetik asit işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri.",
+      "images": [],
+      "card": {
+        "id": "PER247-0pj61a1",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Geobacillus stearothermophilus",
+        "definition": "Buhar, hidrojen peroksit gaz plazma ve sıvı perasetik asit işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
+      }
+    },
+    {
+      "title": "Bacillus atrophaeus",
+      "text": "Etilen oksit ve kuru ısı işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri.",
+      "images": [],
+      "card": {
+        "id": "PER247-0nzgq0w",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Bacillus atrophaeus",
+        "definition": "Etilen oksit ve kuru ısı işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
+      }
+    },
+    {
+      "title": "Kendi içinde biyolojik indikatör",
+      "text": "Self-contained BI\nSpor taşıyıcısı ve besiyeri ampulünü tek flakonda birleştiren biyolojik izleme aracı.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ko1kgk",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kendi içinde biyolojik indikatör",
+        "definition": "Spor taşıyıcısı ve besiyeri ampulünü tek flakonda birleştiren biyolojik izleme aracı.",
+        "en": "Self-contained BI"
+      }
+    },
+    {
+      "title": "Hızlı okumalı biyolojik indikatör",
+      "text": "Rapid-readout BI\nSpor kaynaklı enzim aktivitesini floresan sinyalle değerlendirerek erken sonuç veren izleme aracı. Okuma süresi sisteme bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-134mba9",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Hızlı okumalı biyolojik indikatör",
+        "definition": "Spor kaynaklı enzim aktivitesini floresan sinyalle değerlendirerek erken sonuç veren izleme aracı. Okuma süresi sisteme bağlıdır.",
+        "en": "Rapid-readout BI"
+      }
+    },
+    {
+      "title": "Pozitif kontrol",
+      "text": "Positive control\nAynı lottan, sterilizasyona girmeden inkübe edilip canlılığı doğrulayan BI.",
+      "images": [],
+      "card": {
+        "id": "PER247-12s5lmx",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Pozitif kontrol",
+        "definition": "Aynı lottan, sterilizasyona girmeden inkübe edilip canlılığı doğrulayan BI.",
+        "en": "Positive control"
+      }
+    },
+    {
+      "title": "Spor şeridi",
+      "text": "Spore strip\nBilinen sayıda dirençli bakteri sporunun emdirildiği taşıyıcı şerit. İşlem sonrasında kültürle değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0uu20zr",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Spor şeridi",
+        "definition": "Bilinen sayıda dirençli bakteri sporunun emdirildiği taşıyıcı şerit. İşlem sonrasında kültürle değerlendirilir.",
+        "en": "Spore strip"
+      }
+    },
+    {
+      "title": "Proses zorlayıcı cihaz",
+      "text": "Process challenge device\nÜrünü taklit eden, BI veya sınıf 5 Kİ içeren test paketi/tepsisi.",
+      "images": [],
+      "card": {
+        "id": "PER247-08ejry8",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Proses zorlayıcı cihaz",
+        "definition": "Ürünü taklit eden, BI veya sınıf 5 Kİ içeren test paketi/tepsisi.",
+        "en": "Process challenge device"
+      }
+    },
+    {
+      "title": "Huck havlu",
+      "text": "Huck towel\nBal peteği dokulu pamuklu havlu; BI test paketi yapımında kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1w9e87w",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Huck havlu",
+        "definition": "Bal peteği dokulu pamuklu havlu; BI test paketi yapımında kullanılır.",
+        "en": "Huck towel"
+      }
+    },
+    {
+      "title": "Geri çağırma",
+      "text": "Recall\nŞüpheli yük(ler)deki malzemenin steril değil kabul edilip toplatılması ve yeniden işlenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0i1dl7o",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Geri çağırma",
+        "definition": "Şüpheli yük(ler)deki malzemenin steril değil kabul edilip toplatılması ve yeniden işlenmesi.",
+        "en": "Recall"
+      }
+    },
+    {
+      "title": "Karantina",
+      "text": "Quarantine\nMalzemenin (ör. implant) BI negatif çıkana kadar kullanılmadan bekletilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER247-0izhnio",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Karantina",
+        "definition": "Malzemenin (ör. implant) BI negatif çıkana kadar kullanılmadan bekletilmesi.",
+        "en": "Quarantine"
+      }
+    },
+    {
+      "title": "Yük kimliği",
+      "text": "Load identification\nSterilizatör, döngü (şarj) numarası ve tarihten oluşan yük tanımı; izlenebilirlik ve geri çağırma için.",
+      "images": [],
+      "card": {
+        "id": "PER247-1mkwdo5",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Yük kimliği",
+        "definition": "Sterilizatör, döngü (şarj) numarası ve tarihten oluşan yük tanımı; izlenebilirlik ve geri çağırma için.",
+        "en": "Load identification"
+      }
+    },
+    {
+      "title": "Steril malzeme uygunsuzluk takip tablosu",
+      "text": "Kullanıcı birimlerden bildirilen steril malzeme sorunlarını kaydetmek ve dönemsel izlemek için kullanılan SKS kayıt aracı.",
+      "images": [],
+      "card": {
+        "id": "PER247-1od6zoo",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "term",
+        "importance": 1,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "term": "Steril malzeme uygunsuzluk takip tablosu",
+        "definition": "Kullanıcı birimlerden bildirilen steril malzeme sorunlarını kaydetmek ve dönemsel izlemek için kullanılan SKS kayıt aracı."
+      }
+    },
+    {
+      "title": "Tip 5 ve Tip 6 indikatör",
+      "text": "Tip 5 entegre\nTüm kritik değişkenlere yanıt verir\nBelirtilen değerler BI performansıyla ilişkilidir\n\nTip 6 emülasyon\nBelirli döngünün tüm kritik değişkenlerine yanıt verir\nDeğerlendirme tanımlı döngüye özgüdür",
+      "images": [],
+      "card": {
+        "id": "PER247-0m6uea9",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "compare",
+        "importance": 1,
+        "source": "STERIS Kİ teknik belgesi",
+        "title": "Tip 5 ve Tip 6 indikatör",
+        "left": {
+          "title": "Tip 5 entegre",
+          "points": [
+            "Tüm kritik değişkenlere yanıt verir",
+            "Belirtilen değerler BI performansıyla ilişkilidir"
+          ]
+        },
+        "right": {
+          "title": "Tip 6 emülasyon",
+          "points": [
+            "Belirli döngünün tüm kritik değişkenlerine yanıt verir",
+            "Değerlendirme tanımlı döngüye özgüdür"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Parametrik karar ve biyolojik izlem",
+      "text": "Parametrik serbest bırakma\nValide sürecin kritik fiziksel parametre kayıtlarına dayanır\nKarar biyolojik kültür sonucunu beklemeden tanımlı koşullarla verilir\n\nBiyolojik indikatör izleme\nDirençli sporların canlılığını değerlendirir\nİnkübasyon/okuma sonucu süreç güvencesine bilgi sağlar",
+      "images": [],
+      "card": {
+        "id": "PER247-1g51mvr",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Parametrik karar ve biyolojik izlem",
+        "left": {
+          "title": "Parametrik serbest bırakma",
+          "points": [
+            "Valide sürecin kritik fiziksel parametre kayıtlarına dayanır",
+            "Karar biyolojik kültür sonucunu beklemeden tanımlı koşullarla verilir"
+          ]
+        },
+        "right": {
+          "title": "Biyolojik indikatör izleme",
+          "points": [
+            "Dirençli sporların canlılığını değerlendirir",
+            "İnkübasyon/okuma sonucu süreç güvencesine bilgi sağlar"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Vakum kaçağının sayısal yönetimi",
+      "text": "SKS: kaçak **<1 mbar/dk** ise en az haftalık; **1–1,3 mbar/dk** ise günlük test. **>1,3 mbar/dk** olduğunda cihaz durdurulur; sadece \"geçti\" kaydı yeterli değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0mzzgvb",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "fact",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Vakum kaçağının sayısal yönetimi",
+        "body": "SKS: kaçak **<1 mbar/dk** ise en az haftalık; **1–1,3 mbar/dk** ise günlük test. **>1,3 mbar/dk** olduğunda cihaz durdurulur; sadece \"geçti\" kaydı yeterli değildir."
+      }
+    },
+    {
+      "title": "Bowie-Dick’in örnek parametresi",
+      "text": "CDC’de ön vakumlu cihazın Bowie-Dick testi **boş haznede, 134 °C’de 3,5 dk** uygulanır. Test paketi ve cihaz talimatları izlenir; bu bir yük sterilite testi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-18xv301",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "fact",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Bowie-Dick’in örnek parametresi",
+        "body": "CDC’de ön vakumlu cihazın Bowie-Dick testi **boş haznede, 134 °C’de 3,5 dk** uygulanır. Test paketi ve cihaz talimatları izlenir; bu bir yük sterilite testi değildir."
+      }
+    },
+    {
+      "title": "Spor inkübasyon sıcaklıkları",
+      "text": "CDC’de **G. stearothermophilus 55–60 °C**, **B. atrophaeus 35–37 °C** inkübasyonla değerlendirilir. Biyolojik indikatörün kendi üretici talimatı uygulanır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0nrst3n",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Spor inkübasyon sıcaklıkları",
+        "body": "CDC’de **G. stearothermophilus 55–60 °C**, **B. atrophaeus 35–37 °C** inkübasyonla değerlendirilir. Biyolojik indikatörün kendi üretici talimatı uygulanır."
+      }
+    },
+    {
+      "title": "BI kullanım sıklığı",
+      "text": "SKS’de biyolojik indikatör **en az haftalık**; implante edilecek cihazların sterilizasyonunda **her yükte** kullanılır. İlk kurulum ve tamir gerektiren arıza sonrasında da kontrol yapılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0mrblax",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "fact",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "BI kullanım sıklığı",
+        "body": "SKS’de biyolojik indikatör **en az haftalık**; implante edilecek cihazların sterilizasyonunda **her yükte** kullanılır. İlk kurulum ve tamir gerektiren arıza sonrasında da kontrol yapılır."
+      }
+    },
+    {
+      "title": "Uygunsuzlukların dönemsel izlemi",
+      "text": "Kullanıcı birimler steril malzeme sorunlarını MSÜ’ye bildirir. SKS’de uygunsuzluk tablosu, sağlık bilgi sistemi üzerinden **üçer aylık dönemlerle** izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER247-15gw8om",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "fact",
+        "importance": 1,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "Uygunsuzlukların dönemsel izlemi",
+        "body": "Kullanıcı birimler steril malzeme sorunlarını MSÜ’ye bildirir. SKS’de uygunsuzluk tablosu, sağlık bilgi sistemi üzerinden **üçer aylık dönemlerle** izlenir."
+      }
+    },
+    {
+      "title": "Pozitif kontrol biyolojik indikatöre ne ekler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1i4p9ue",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Pozitif kontrol biyolojik indikatöre ne ekler?",
+        "answer": "Aynı lottaki işlem görmemiş sporların **canlılığını ve inkübasyon koşullarını** kontrol eder. Kontrolde beklenen üreme görülmezse test sonucu güvenle yorumlanamaz."
+      }
+    },
+    {
+      "title": "Ön vakumlu cihazda Bowie-Dick başarısızsa ne yapılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1glbkib",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Ön vakumlu cihazda Bowie-Dick başarısızsa ne yapılır?",
+        "answer": "Cihaz teknik incelemeden geçirilir ve **test başarıyla sonuçlanana kadar kullanılmaz**. Test yaprağındaki düzensiz renk buharın homojen girişini sorgulatır."
+      }
+    },
+    {
+      "title": "Tek pozitif buhar BI sonucunda neden bağlam aranır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0aw86vy",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Tek pozitif buhar BI sonucunda neden bağlam aranır?",
+        "answer": "İmplant dışı yüklerde mekanik/kimyasal sonuçlar ve işlem kusuru araştırılır; CDC’ye göre test **hemen tekrarlanır**. Tek sonucun yönetimi, yöntem ve yük türünden bağımsız değildir."
+      }
+    },
+    {
+      "title": "İmplantı sonuç çıkmadan ayır",
+      "text": "İmplant içeren her yük biyolojik indikatörle izlenir. CDC, **mümkünse negatif BI sonucu çıkana kadar** implantın kullanılmadan karantinada tutulmasını önerir.",
+      "images": [],
+      "card": {
+        "id": "PER247-05arprq",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "İmplantı sonuç çıkmadan ayır",
+        "body": "İmplant içeren her yük biyolojik indikatörle izlenir. CDC, **mümkünse negatif BI sonucu çıkana kadar** implantın kullanılmadan karantinada tutulmasını önerir."
+      }
+    },
+    {
+      "title": "Buhar dışı pozitif BI’da geri çağırma",
+      "text": "CDC, EtO/H2O2 gibi buhar dışı yöntemlerde pozitif BI için **son negatif BI’dan sonraki yükleri** şüpheli kabul eden muhafazakâr yaklaşımı belirtir. Yöntem bağlamı kayıtta bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER247-0d282wp",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Buhar dışı pozitif BI’da geri çağırma",
+        "body": "CDC, EtO/H2O2 gibi buhar dışı yöntemlerde pozitif BI için **son negatif BI’dan sonraki yükleri** şüpheli kabul eden muhafazakâr yaklaşımı belirtir. Yöntem bağlamı kayıtta bulunur."
+      }
+    },
+    {
+      "title": "Sterilizasyonun öldürücülüğünü doğrudan izleyen araç hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1vxybup",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Sterilizasyonun öldürücülüğünü doğrudan izleyen araç hangisidir?",
+        "options": [
+          "Maruziyet bandı",
+          "Basınç göstergesi",
+          "Biyolojik indikatör",
+          "Sıcaklık kayıt grafiği"
+        ],
+        "correct": 2,
+        "explanation": "BI, dirençli sporların canlılığını değerlendirerek **öldürücülüğü doğrudan** izler."
+      }
+    },
+    {
+      "title": "Bowie-Dick testinin temel hedefi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1vrinpv",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Bowie-Dick testinin temel hedefi hangisidir?",
+        "options": [
+          "Alet üzerindeki protein kalıntısı",
+          "Hastanın kolonizasyon durumu",
+          "Dezenfektanın aktif konsantrasyonu",
+          "Hava uzaklaştırma ve buhar penetrasyonu"
+        ],
+        "correct": 3,
+        "explanation": "Bowie-Dick, ön vakumlu cihazdaki **hava uzaklaştırmayı** sınar; sterilite veya temizlik testi değildir."
+      }
+    },
+    {
+      "title": "Kuru ısı sürecinde BI olarak hangi mikroorganizma kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-18nu5qp",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Kuru ısı sürecinde BI olarak hangi mikroorganizma kullanılır?",
+        "options": [
+          "Bacillus atrophaeus",
+          "Geobacillus stearothermophilus",
+          "Mycobacterium tuberculosis",
+          "Staphylococcus aureus"
+        ],
+        "correct": 0,
+        "explanation": "**B. atrophaeus**, kuru ısı ve EtO için kullanılan dirençli spor kaynağıdır."
+      }
+    },
+    {
+      "title": "SKS’ye göre vakum kaçağı 1,5 mbar/dk bulunan cihazda ne yapılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0wbt385",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "SKS’ye göre vakum kaçağı 1,5 mbar/dk bulunan cihazda ne yapılır?",
+        "options": [
+          "Haftalık testle çalışması sürdürülür",
+          "Çalışması durdurulur",
+          "Günlük testle koşulsuz sürdürülür",
+          "Bowie-Dick atlanarak sürdürülür"
+        ],
+        "correct": 1,
+        "explanation": "**1,3 mbar/dk üzeri** kaçakta cihaz durdurulur; test sıklığını artırmak arızayı gidermez."
+      }
+    },
+    {
+      "title": "H2O2 gaz plazma için kullanılan BI spor kaynağı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-17qyigm",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "mcq",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "H2O2 gaz plazma için kullanılan BI spor kaynağı hangisidir?",
+        "options": [
+          "Bacillus atrophaeus",
+          "Candida albicans",
+          "Geobacillus stearothermophilus",
+          "Pseudomonas aeruginosa"
+        ],
+        "correct": 2,
+        "explanation": "**G. stearothermophilus**, buhar, H2O2 gaz plazma ve sıvı PAA işlemlerinde kullanılır."
+      }
+    },
+    {
+      "title": "Sterilizatörün koruyucu bakımı, üretici talimatına göre yetkin personelce yapılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1qubdwk",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Sterilizatörün koruyucu bakımı, üretici talimatına göre yetkin personelce yapılır.",
+        "isTrue": true,
+        "explanation": "CDC, koruyucu bakımın **üretici talimatını izleyen yetkin personel** tarafından yapılmasını önerir."
+      }
+    },
+    {
+      "title": "Negatif BI, yükteki her malzemenin steril olduğunu tek başına kanıtlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0udcwwy",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Negatif BI, yükteki her malzemenin steril olduğunu tek başına kanıtlar.",
+        "isTrue": false,
+        "explanation": "BI bir proses örneğidir; **negatif sonuç tüm yükün steril olduğunun tek başına kanıtı değildir**."
+      }
+    },
+    {
+      "title": "Kimyasal indikatörün tip numarası bir üstünlük sıralaması olarak yorumlanmaz.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1gx1giv",
+        "course": "PER247",
+        "topic": "Testler, indikatörler ve geri çağırma",
+        "type": "tf",
+        "importance": 2,
+        "source": "STERIS Kİ teknik belgesi",
+        "statement": "Kimyasal indikatörün tip numarası bir üstünlük sıralaması olarak yorumlanmaz.",
+        "isTrue": true,
+        "explanation": "ISO tipleri farklı kullanım amaçlarını tanımlar; büyük numara otomatik olarak daha iyi indikatör değildir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-0m4amca",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Fiziksel indikatör",
+      "definition": "Süreci gösteren grafik, gösterge ve çıktılar (süre, sıcaklık, basınç).",
+      "en": "Mechanical indicator"
+    },
+    {
+      "id": "PER247-1dheuk6",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kimyasal indikatör",
+      "definition": "Sterilizasyon koşullarına renk vb. değişimle yanıt veren gösterge; sterilliği kanıtlamaz.",
+      "en": "Chemical indicator"
+    },
+    {
+      "id": "PER247-0cr3cob",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Proses indikatörü",
+      "definition": "İşleme girmiş paketleri işlem görmemişlerden ayıran dış gösterge. ISO tip sınıflamasında Tip 1 olarak adlandırılır.",
+      "en": "Process indicator"
+    },
+    {
+      "id": "PER247-137rhqx",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Maruziyet bandı",
+      "definition": "Paketi kapalı tutan ve sterilizasyon işlemine maruziyeti gösteren bant. **Sterilizasyon etkinliğinin tek başına kanıtı değildir.**",
+      "en": "Exposure/autoclave tape"
+    },
+    {
+      "id": "PER247-0cai08w",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Özel test indikatörü",
+      "definition": "Bowie-Dick gibi özel bir test prosedürü için tasarlanmış gösterge. ISO tip sınıflamasında Tip 2 olarak adlandırılır.",
+      "en": "Specific-use / special test indicator"
+    },
+    {
+      "id": "PER247-0c9e1c4",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Tek değişkenli indikatör",
+      "definition": "Sterilizasyon sürecinin tek kritik değişkenine yanıt vermek üzere tasarlanmış kimyasal gösterge; ISO Tip 3.",
+      "en": "Single-variable indicator"
+    },
+    {
+      "id": "PER247-1gidoed",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Çok değişkenli indikatör",
+      "definition": "Sterilizasyon sürecinin iki veya daha fazla kritik değişkenine yanıt veren kimyasal gösterge; ISO Tip 4.",
+      "en": "Multi-variable indicator"
+    },
+    {
+      "id": "PER247-1ylh5rv",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Entegre indikatör",
+      "definition": "Tüm kritik değişkenlere yanıt veren, belirtilen değerleri biyolojik indikatör performansıyla ilişkili kimyasal gösterge; ISO Tip 5.",
+      "en": "Integrating indicator"
+    },
+    {
+      "id": "PER247-1sutyg9",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Emülasyon indikatörü",
+      "definition": "Belirli bir sterilizasyon döngüsünün tüm kritik değişkenlerine yanıt vermek üzere tasarlanmış döngü doğrulama göstergesi; ISO Tip 6.",
+      "en": "Emulating indicator"
+    },
+    {
+      "id": "PER247-1c7yyua",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Uç nokta",
+      "definition": "Kİ'de \"geçti\" renk değişiminin oluştuğu nokta.",
+      "en": "Endpoint"
+    },
+    {
+      "id": "PER247-1k8vf9c",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "term": "Belirtilen değer",
+      "definition": "Kİ'nin uç noktaya ulaşmasını sağlayan maruziyet koşulları.",
+      "en": "Stated value"
+    },
+    {
+      "id": "PER247-1mtwo92",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bowie-Dick testi",
+      "definition": "Ön vakumlu otoklavın hava uzaklaştırma yeteneğini ve kaçakları gösteren günlük test; sterilizasyon testi değildir.",
+      "en": "Bowie-Dick test"
+    },
+    {
+      "id": "PER247-0aizl5d",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Vakum kaçak testi",
+      "definition": "Sterilizatör haznesinin vakum altında hava sızdırma hızını **mbar/dk** olarak ölçen test. Sonuç sayısal kaydedilir.",
+      "en": "Vacuum leak test"
+    },
+    {
+      "id": "PER247-1lykjbt",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Biyolojik indikatör",
+      "definition": "Sterilizasyona dirençli standardize spor popülasyonuyla öldürücülüğü doğrudan gösteren test.",
+      "en": "Biological indicator"
+    },
+    {
+      "id": "PER247-0pj61a1",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Geobacillus stearothermophilus",
+      "definition": "Buhar, hidrojen peroksit gaz plazma ve sıvı perasetik asit işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
+    },
+    {
+      "id": "PER247-0nzgq0w",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Bacillus atrophaeus",
+      "definition": "Etilen oksit ve kuru ısı işlemlerinde biyolojik indikatör olarak kullanılan dirençli sporlu bakteri."
+    },
+    {
+      "id": "PER247-1ko1kgk",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kendi içinde biyolojik indikatör",
+      "definition": "Spor taşıyıcısı ve besiyeri ampulünü tek flakonda birleştiren biyolojik izleme aracı.",
+      "en": "Self-contained BI"
+    },
+    {
+      "id": "PER247-134mba9",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hızlı okumalı biyolojik indikatör",
+      "definition": "Spor kaynaklı enzim aktivitesini floresan sinyalle değerlendirerek erken sonuç veren izleme aracı. Okuma süresi sisteme bağlıdır.",
+      "en": "Rapid-readout BI"
+    },
+    {
+      "id": "PER247-12s5lmx",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Pozitif kontrol",
+      "definition": "Aynı lottan, sterilizasyona girmeden inkübe edilip canlılığı doğrulayan BI.",
+      "en": "Positive control"
+    },
+    {
+      "id": "PER247-0uu20zr",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Spor şeridi",
+      "definition": "Bilinen sayıda dirençli bakteri sporunun emdirildiği taşıyıcı şerit. İşlem sonrasında kültürle değerlendirilir.",
+      "en": "Spore strip"
+    },
+    {
+      "id": "PER247-08ejry8",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Proses zorlayıcı cihaz",
+      "definition": "Ürünü taklit eden, BI veya sınıf 5 Kİ içeren test paketi/tepsisi.",
+      "en": "Process challenge device"
+    },
+    {
+      "id": "PER247-1w9e87w",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Huck havlu",
+      "definition": "Bal peteği dokulu pamuklu havlu; BI test paketi yapımında kullanılır.",
+      "en": "Huck towel"
+    },
+    {
+      "id": "PER247-0i1dl7o",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Geri çağırma",
+      "definition": "Şüpheli yük(ler)deki malzemenin steril değil kabul edilip toplatılması ve yeniden işlenmesi.",
+      "en": "Recall"
+    },
+    {
+      "id": "PER247-0izhnio",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Karantina",
+      "definition": "Malzemenin (ör. implant) BI negatif çıkana kadar kullanılmadan bekletilmesi.",
+      "en": "Quarantine"
+    },
+    {
+      "id": "PER247-1mkwdo5",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yük kimliği",
+      "definition": "Sterilizatör, döngü (şarj) numarası ve tarihten oluşan yük tanımı; izlenebilirlik ve geri çağırma için.",
+      "en": "Load identification"
+    },
+    {
+      "id": "PER247-1od6zoo",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "term",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "term": "Steril malzeme uygunsuzluk takip tablosu",
+      "definition": "Kullanıcı birimlerden bildirilen steril malzeme sorunlarını kaydetmek ve dönemsel izlemek için kullanılan SKS kayıt aracı."
+    },
+    {
+      "id": "PER247-0m6uea9",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "compare",
+      "importance": 1,
+      "source": "STERIS Kİ teknik belgesi",
+      "title": "Tip 5 ve Tip 6 indikatör",
+      "left": {
+        "title": "Tip 5 entegre",
+        "points": [
+          "Tüm kritik değişkenlere yanıt verir",
+          "Belirtilen değerler BI performansıyla ilişkilidir"
+        ]
+      },
+      "right": {
+        "title": "Tip 6 emülasyon",
+        "points": [
+          "Belirli döngünün tüm kritik değişkenlerine yanıt verir",
+          "Değerlendirme tanımlı döngüye özgüdür"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1g51mvr",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Parametrik karar ve biyolojik izlem",
+      "left": {
+        "title": "Parametrik serbest bırakma",
+        "points": [
+          "Valide sürecin kritik fiziksel parametre kayıtlarına dayanır",
+          "Karar biyolojik kültür sonucunu beklemeden tanımlı koşullarla verilir"
+        ]
+      },
+      "right": {
+        "title": "Biyolojik indikatör izleme",
+        "points": [
+          "Dirençli sporların canlılığını değerlendirir",
+          "İnkübasyon/okuma sonucu süreç güvencesine bilgi sağlar"
+        ]
+      }
+    },
+    {
+      "id": "PER247-0mzzgvb",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "fact",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Vakum kaçağının sayısal yönetimi",
+      "body": "SKS: kaçak **<1 mbar/dk** ise en az haftalık; **1–1,3 mbar/dk** ise günlük test. **>1,3 mbar/dk** olduğunda cihaz durdurulur; sadece \"geçti\" kaydı yeterli değildir."
+    },
+    {
+      "id": "PER247-18xv301",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "fact",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Bowie-Dick’in örnek parametresi",
+      "body": "CDC’de ön vakumlu cihazın Bowie-Dick testi **boş haznede, 134 °C’de 3,5 dk** uygulanır. Test paketi ve cihaz talimatları izlenir; bu bir yük sterilite testi değildir."
+    },
+    {
+      "id": "PER247-0nrst3n",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Spor inkübasyon sıcaklıkları",
+      "body": "CDC’de **G. stearothermophilus 55–60 °C**, **B. atrophaeus 35–37 °C** inkübasyonla değerlendirilir. Biyolojik indikatörün kendi üretici talimatı uygulanır."
+    },
+    {
+      "id": "PER247-0mrblax",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "fact",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "BI kullanım sıklığı",
+      "body": "SKS’de biyolojik indikatör **en az haftalık**; implante edilecek cihazların sterilizasyonunda **her yükte** kullanılır. İlk kurulum ve tamir gerektiren arıza sonrasında da kontrol yapılır."
+    },
+    {
+      "id": "PER247-15gw8om",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "fact",
+      "importance": 1,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "Uygunsuzlukların dönemsel izlemi",
+      "body": "Kullanıcı birimler steril malzeme sorunlarını MSÜ’ye bildirir. SKS’de uygunsuzluk tablosu, sağlık bilgi sistemi üzerinden **üçer aylık dönemlerle** izlenir."
+    },
+    {
+      "id": "PER247-1i4p9ue",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Pozitif kontrol biyolojik indikatöre ne ekler?",
+      "answer": "Aynı lottaki işlem görmemiş sporların **canlılığını ve inkübasyon koşullarını** kontrol eder. Kontrolde beklenen üreme görülmezse test sonucu güvenle yorumlanamaz."
+    },
+    {
+      "id": "PER247-1glbkib",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Ön vakumlu cihazda Bowie-Dick başarısızsa ne yapılır?",
+      "answer": "Cihaz teknik incelemeden geçirilir ve **test başarıyla sonuçlanana kadar kullanılmaz**. Test yaprağındaki düzensiz renk buharın homojen girişini sorgulatır."
+    },
+    {
+      "id": "PER247-0aw86vy",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Tek pozitif buhar BI sonucunda neden bağlam aranır?",
+      "answer": "İmplant dışı yüklerde mekanik/kimyasal sonuçlar ve işlem kusuru araştırılır; CDC’ye göre test **hemen tekrarlanır**. Tek sonucun yönetimi, yöntem ve yük türünden bağımsız değildir."
+    },
+    {
+      "id": "PER247-05arprq",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "İmplantı sonuç çıkmadan ayır",
+      "body": "İmplant içeren her yük biyolojik indikatörle izlenir. CDC, **mümkünse negatif BI sonucu çıkana kadar** implantın kullanılmadan karantinada tutulmasını önerir."
+    },
+    {
+      "id": "PER247-0d282wp",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Buhar dışı pozitif BI’da geri çağırma",
+      "body": "CDC, EtO/H2O2 gibi buhar dışı yöntemlerde pozitif BI için **son negatif BI’dan sonraki yükleri** şüpheli kabul eden muhafazakâr yaklaşımı belirtir. Yöntem bağlamı kayıtta bulunur."
+    },
+    {
+      "id": "PER247-1vxybup",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Sterilizasyonun öldürücülüğünü doğrudan izleyen araç hangisidir?",
+      "options": [
+        "Maruziyet bandı",
+        "Basınç göstergesi",
+        "Biyolojik indikatör",
+        "Sıcaklık kayıt grafiği"
+      ],
+      "correct": 2,
+      "explanation": "BI, dirençli sporların canlılığını değerlendirerek **öldürücülüğü doğrudan** izler."
+    },
+    {
+      "id": "PER247-1vrinpv",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Bowie-Dick testinin temel hedefi hangisidir?",
+      "options": [
+        "Alet üzerindeki protein kalıntısı",
+        "Hastanın kolonizasyon durumu",
+        "Dezenfektanın aktif konsantrasyonu",
+        "Hava uzaklaştırma ve buhar penetrasyonu"
+      ],
+      "correct": 3,
+      "explanation": "Bowie-Dick, ön vakumlu cihazdaki **hava uzaklaştırmayı** sınar; sterilite veya temizlik testi değildir."
+    },
+    {
+      "id": "PER247-18nu5qp",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kuru ısı sürecinde BI olarak hangi mikroorganizma kullanılır?",
+      "options": [
+        "Bacillus atrophaeus",
+        "Geobacillus stearothermophilus",
+        "Mycobacterium tuberculosis",
+        "Staphylococcus aureus"
+      ],
+      "correct": 0,
+      "explanation": "**B. atrophaeus**, kuru ısı ve EtO için kullanılan dirençli spor kaynağıdır."
+    },
+    {
+      "id": "PER247-0wbt385",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "SKS’ye göre vakum kaçağı 1,5 mbar/dk bulunan cihazda ne yapılır?",
+      "options": [
+        "Haftalık testle çalışması sürdürülür",
+        "Çalışması durdurulur",
+        "Günlük testle koşulsuz sürdürülür",
+        "Bowie-Dick atlanarak sürdürülür"
+      ],
+      "correct": 1,
+      "explanation": "**1,3 mbar/dk üzeri** kaçakta cihaz durdurulur; test sıklığını artırmak arızayı gidermez."
+    },
+    {
+      "id": "PER247-17qyigm",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "mcq",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "H2O2 gaz plazma için kullanılan BI spor kaynağı hangisidir?",
+      "options": [
+        "Bacillus atrophaeus",
+        "Candida albicans",
+        "Geobacillus stearothermophilus",
+        "Pseudomonas aeruginosa"
+      ],
+      "correct": 2,
+      "explanation": "**G. stearothermophilus**, buhar, H2O2 gaz plazma ve sıvı PAA işlemlerinde kullanılır."
+    },
+    {
+      "id": "PER247-1qubdwk",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Sterilizatörün koruyucu bakımı, üretici talimatına göre yetkin personelce yapılır.",
+      "isTrue": true,
+      "explanation": "CDC, koruyucu bakımın **üretici talimatını izleyen yetkin personel** tarafından yapılmasını önerir."
+    },
+    {
+      "id": "PER247-0udcwwy",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Negatif BI, yükteki her malzemenin steril olduğunu tek başına kanıtlar.",
+      "isTrue": false,
+      "explanation": "BI bir proses örneğidir; **negatif sonuç tüm yükün steril olduğunun tek başına kanıtı değildir**."
+    },
+    {
+      "id": "PER247-1gx1giv",
+      "course": "PER247",
+      "topic": "Testler, indikatörler ve geri çağırma",
+      "type": "tf",
+      "importance": 2,
+      "source": "STERIS Kİ teknik belgesi",
+      "statement": "Kimyasal indikatörün tip numarası bir üstünlük sıralaması olarak yorumlanmaz.",
+      "isTrue": true,
+      "explanation": "ISO tipleri farklı kullanım amaçlarını tanımlar; büyük numara otomatik olarak daha iyi indikatör değildir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

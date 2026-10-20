@@ -1,0 +1,1520 @@
+{
+  "id": "review-e222195818400422",
+  "title": "ECMO devresi ve basınçlar",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Santrifüj pompa",
+      "text": "Centrifugal pump\nDönen rotorla basınç farkı yaratan, oklüzif olmayan, ön yüke bağımlı ve art yüke duyarlı pompa; devre patlaması nadir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1tsi251",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Santrifüj pompa",
+        "en": "Centrifugal pump",
+        "definition": "Dönen rotorla basınç farkı yaratan, oklüzif olmayan, ön yüke bağımlı ve art yüke duyarlı pompa; devre patlaması nadir.",
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Roller pompa",
+      "text": "Roller pump\nTüpü silindirlerle sıkıştırarak akım sağlayan yarı-oklüzif pompa; giriş servo-haznesi gerekir, çıkış tıkanırsa patlama riski.",
+      "images": [],
+      "card": {
+        "id": "PER207-1x5r5om",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Roller pompa",
+        "en": "Roller pump",
+        "definition": "Tüpü silindirlerle sıkıştırarak akım sağlayan yarı-oklüzif pompa; giriş servo-haznesi gerekir, çıkış tıkanırsa patlama riski.",
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Membran oksijenatör",
+      "text": "Membrane oxygenator / membrane lung\nKan ile gaz arasında membran bulunan, O2 ekleyip CO2 uzaklaştıran yapay akciğer.",
+      "images": [],
+      "card": {
+        "id": "PER207-0vyjaaf",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Membran oksijenatör",
+        "en": "Membrane oxygenator / membrane lung",
+        "definition": "Kan ile gaz arasında membran bulunan, O2 ekleyip CO2 uzaklaştıran yapay akciğer.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "PMP",
+      "text": "Polymethylpentene\nPlazma sızıntısı minimal, düşük dirençli, uzun ömürlü, katı (non-mikroporöz) içi boş lif membran materyali.",
+      "images": [],
+      "card": {
+        "id": "PER207-0qbcx9a",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "PMP",
+        "en": "Polymethylpentene",
+        "definition": "Plazma sızıntısı minimal, düşük dirençli, uzun ömürlü, katı (non-mikroporöz) içi boş lif membran materyali.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Mikroporöz membran",
+      "text": "Microporous membrane\nGözenekli içi boş lif (ör. polipropilen); hızlı prime, ama plazma sızıntısı ve hava geçişi riski.",
+      "images": [],
+      "card": {
+        "id": "PER207-04gvku6",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Mikroporöz membran",
+        "en": "Microporous membrane",
+        "definition": "Gözenekli içi boş lif (ör. polipropilen); hızlı prime, ama plazma sızıntısı ve hava geçişi riski.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Silikon membran",
+      "text": "Silicone membrane\nKatı difüzyon membranı (Kolobow tipi); yüksek direnç, uzun ve zor prime.",
+      "images": [],
+      "card": {
+        "id": "PER207-1frwolc",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Silikon membran",
+        "en": "Silicone membrane",
+        "definition": "Katı difüzyon membranı (Kolobow tipi); yüksek direnç, uzun ve zor prime.",
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Rated flow",
+      "text": "Rated flow\nTanımlanmış giriş koşullarında venöz kanı hedef çıkış satürasyonuna oksijenleyebilen en yüksek kan akımı; oksijenatör kapasitesini ifade eder.",
+      "images": [],
+      "card": {
+        "id": "PER207-0oyzxgb",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Rated flow",
+        "en": "Rated flow",
+        "definition": "Tanımlanmış giriş koşullarında venöz kanı hedef çıkış satürasyonuna oksijenleyebilen en yüksek kan akımı; oksijenatör kapasitesini ifade eder.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Sweep gaz",
+      "text": "Sweep gas\nOksijenatörün gaz fazından geçirilen gaz; akımı CO2 eliminasyonunu belirler.",
+      "images": [],
+      "card": {
+        "id": "PER207-0do26ph",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Sweep gaz",
+        "en": "Sweep gas",
+        "definition": "Oksijenatörün gaz fazından geçirilen gaz; akımı CO2 eliminasyonunu belirler.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "FDO2",
+      "text": "Fraction of delivered oxygen\nSweep gazdaki O2 fraksiyonu; blender ile ayarlanır.",
+      "images": [],
+      "card": {
+        "id": "PER207-03or9aa",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "FDO2",
+        "en": "Fraction of delivered oxygen",
+        "definition": "Sweep gazdaki O2 fraksiyonu; blender ile ayarlanır.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Gaz blenderi",
+      "text": "Gas blender\nO2 ve havayı karıştırarak FDO2'yi ayarlayan cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1mba4gc",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Gaz blenderi",
+        "en": "Gas blender",
+        "definition": "O2 ve havayı karıştırarak FDO2'yi ayarlayan cihaz.",
+        "source": "ELSO VV 2021"
+      }
+    },
+    {
+      "title": "Karbojen",
+      "text": "Carbogen\nOksijen ve karbondioksitten oluşan gaz karışımı; ECMO gaz yönetiminde karbondioksit düzeyini düzenlemek için kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1jgdz3b",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Karbojen",
+        "en": "Carbogen",
+        "definition": "Oksijen ve karbondioksitten oluşan gaz karışımı; ECMO gaz yönetiminde karbondioksit düzeyini düzenlemek için kullanılabilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Isı değiştirici",
+      "text": "Heat exchanger\nHarici su sistemiyle kan arasında ısı aktararak kan sıcaklığını düzenleyen devre bileşeni.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ae7n5q",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Isı değiştirici",
+        "en": "Heat exchanger",
+        "definition": "Harici su sistemiyle kan arasında ısı aktararak kan sıcaklığını düzenleyen devre bileşeni.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Köprü",
+      "text": "Bridge\nHasta yakınında arteriyel ve venöz hatları birleştiren hat; trial-off ve acillerde kullanılır, kapalıyken staz alanıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0e4wwuu",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Köprü",
+        "en": "Bridge",
+        "definition": "Hasta yakınında arteriyel ve venöz hatları birleştiren hat; trial-off ve acillerde kullanılır, kapalıyken staz alanıdır.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Servo-hazne",
+      "text": "Bladder\nRoller pompa girişinde venöz dönüş azalınca pompayı yavaşlatan/durduran kollabe olabilen hazne.",
+      "images": [],
+      "card": {
+        "id": "PER207-1x8j8ch",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Servo-hazne",
+        "en": "Bladder",
+        "definition": "Roller pompa girişinde venöz dönüş azalınca pompayı yavaşlatan/durduran kollabe olabilen hazne.",
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Servo-regülasyon",
+      "text": "Servo-regulation\nBasınç sensörüne göre pompa hızının otomatik ayarlanması.",
+      "images": [],
+      "card": {
+        "id": "PER207-0yzjni1",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Servo-regülasyon",
+        "en": "Servo-regulation",
+        "definition": "Basınç sensörüne göre pompa hızının otomatik ayarlanması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Kabarcık dedektörü",
+      "text": "Bubble detector\nDönüş hattında hava algılayıp alarm veya klemp tetikleyen sensör.",
+      "images": [],
+      "card": {
+        "id": "PER207-1u8hdfe",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Kabarcık dedektörü",
+        "en": "Bubble detector",
+        "definition": "Dönüş hattında hava algılayıp alarm veya klemp tetikleyen sensör.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "El krankı",
+      "text": "Hand crank\nElektrik ve batarya kesildiğinde pompayı elle döndürme düzeneği.",
+      "images": [],
+      "card": {
+        "id": "PER207-1qw22ge",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "El krankı",
+        "en": "Hand crank",
+        "definition": "Elektrik ve batarya kesildiğinde pompayı elle döndürme düzeneği.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Drenaj basıncı",
+      "text": "Drainage / inlet pressure\nPompa öncesindeki venöz drenaj hattında ölçülen, genellikle negatif olan basınç; aşırı negatiflik drenaj sorununu düşündürür.",
+      "images": [],
+      "card": {
+        "id": "PER207-06sadna",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Drenaj basıncı",
+        "en": "Drainage / inlet pressure",
+        "definition": "Pompa öncesindeki venöz drenaj hattında ölçülen, genellikle negatif olan basınç; aşırı negatiflik drenaj sorununu düşündürür.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Pre-oksijenatör basıncı",
+      "text": "Pre-oxygenator pressure\nPompadan sonra, oksijenatöre girmeden önce ölçülen kan basıncı; pompanın karşılaştığı devre direncini değerlendirmeye yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER207-0fvcpw4",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Pre-oksijenatör basıncı",
+        "en": "Pre-oxygenator pressure",
+        "definition": "Pompadan sonra, oksijenatöre girmeden önce ölçülen kan basıncı; pompanın karşılaştığı devre direncini değerlendirmeye yardım eder.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Post-oksijenatör basıncı",
+      "text": "Post-oxygenator pressure\nOksijenatörden sonra dönüş hattında ölçülen basınç; dönüş hattı ve kanül direncinden etkilenir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1vzpy6d",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Post-oksijenatör basıncı",
+        "en": "Post-oxygenator pressure",
+        "definition": "Oksijenatörden sonra dönüş hattında ölçülen basınç; dönüş hattı ve kanül direncinden etkilenir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Transmembran basınç gradyanı",
+      "text": "Transmembrane pressure gradient\nOksijenatör giriş ve çıkış kan basınçları arasındaki fark; aynı akımda artması membran direncinin yükseldiğini düşündürür.",
+      "images": [],
+      "card": {
+        "id": "PER207-05m18vc",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Transmembran basınç gradyanı",
+        "en": "Transmembrane pressure gradient",
+        "definition": "Oksijenatör giriş ve çıkış kan basınçları arasındaki fark; aynı akımda artması membran direncinin yükseldiğini düşündürür.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Priming",
+      "text": "Priming\nDevrenin kullanım öncesi kristalloid (± kan) ile doldurulup havasının alınması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1gvkrqf",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Priming",
+        "en": "Priming",
+        "definition": "Devrenin kullanım öncesi kristalloid (± kan) ile doldurulup havasının alınması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Kan prime",
+      "text": "Blood prime\nÖzellikle küçük hastada aşırı hemodilüsyonu sınırlamak için devre doldurma sıvısına kan ürünü eklenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-0jw1xme",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Kan prime",
+        "en": "Blood prime",
+        "definition": "Özellikle küçük hastada aşırı hemodilüsyonu sınırlamak için devre doldurma sıvısına kan ürünü eklenmesi.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hemodilüsyon",
+      "text": "Hemodilution\nDevre doldurma sıvısının hastanın kanıyla karışmasıyla hemoglobin ve hücresel bileşenlerin konsantrasyonunun azalması.",
+      "images": [],
+      "card": {
+        "id": "PER207-174ejjg",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Hemodilüsyon",
+        "en": "Hemodilution",
+        "definition": "Devre doldurma sıvısının hastanın kanıyla karışmasıyla hemoglobin ve hücresel bileşenlerin konsantrasyonunun azalması.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Heparin kaplı yüzey",
+      "text": "Heparin-bonded surface\nKan-yüzey etkileşimini azaltan kaplama; sistemik antikoagülasyon ihtiyacını kaldırmaz.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ps6pkm",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Heparin kaplı yüzey",
+        "en": "Heparin-bonded surface",
+        "definition": "Kan-yüzey etkileşimini azaltan kaplama; sistemik antikoagülasyon ihtiyacını kaldırmaz.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Plazma sızıntısı",
+      "text": "Plasma leakage\nMikroporöz liflerde plazmanın gaz fazına geçerek gaz transferini bozması.",
+      "images": [],
+      "card": {
+        "id": "PER207-01x73sq",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Plazma sızıntısı",
+        "en": "Plasma leakage",
+        "definition": "Mikroporöz liflerde plazmanın gaz fazına geçerek gaz transferini bozması.",
+        "source": "Matte, JECT 2024"
+      }
+    },
+    {
+      "title": "Su yoğuşması",
+      "text": "Water condensation\nGaz fazında biriken su buharı; CO2 temizliğini azaltır, aralıklı yüksek sweep ile giderilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-16g5p3e",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Su yoğuşması",
+        "en": "Water condensation",
+        "definition": "Gaz fazında biriken su buharı; CO2 temizliğini azaltır, aralıklı yüksek sweep ile giderilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Hemofiltre / CRRT",
+      "text": "Hemofilter / continuous renal replacement therapy\nDevreye eklenerek sıvı ve elektrolit dengesini sağlayan ultrafiltrasyon/sürekli böbrek replasmanı.",
+      "images": [],
+      "card": {
+        "id": "PER207-0coupia",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Hemofiltre / CRRT",
+        "en": "Hemofilter / continuous renal replacement therapy",
+        "definition": "Devreye eklenerek sıvı ve elektrolit dengesini sağlayan ultrafiltrasyon/sürekli böbrek replasmanı.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Acil devre",
+      "text": "Emergency (primed) circuit\nKristalloidle prime edilmiş, dakikalar içinde bağlanabilecek yedek devre.",
+      "images": [],
+      "card": {
+        "id": "PER207-0yhmseq",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Acil devre",
+        "en": "Emergency (primed) circuit",
+        "definition": "Kristalloidle prime edilmiş, dakikalar içinde bağlanabilecek yedek devre.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Membran malzemesi",
+      "text": "PMP\nKatı, içi boş lif yapısı\nPlazma sızıntısı daha az\n\nMikroporöz polipropilen\nGözenekli, içi boş lif yapısı\nPlazma sızıntısı gaz transferini bozabilir",
+      "images": [],
+      "card": {
+        "id": "PER207-02qh6vz",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Membran malzemesi",
+        "left": {
+          "title": "PMP",
+          "points": [
+            "Katı, içi boş lif yapısı",
+            "Plazma sızıntısı daha az"
+          ]
+        },
+        "right": {
+          "title": "Mikroporöz polipropilen",
+          "points": [
+            "Gözenekli, içi boş lif yapısı",
+            "Plazma sızıntısı gaz transferini bozabilir"
+          ]
+        },
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Pompanın giriş ve çıkış tıkanması",
+      "text": "Giriş tıkanması\nVenöz drenaj azalır\nAşırı emme ve kavitasyon gelişebilir\n\nÇıkış tıkanması\nDönüş direnci yükselir\nPompa sonrası basınç yükselir",
+      "images": [],
+      "card": {
+        "id": "PER207-1nttrgj",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Pompanın giriş ve çıkış tıkanması",
+        "left": {
+          "title": "Giriş tıkanması",
+          "points": [
+            "Venöz drenaj azalır",
+            "Aşırı emme ve kavitasyon gelişebilir"
+          ]
+        },
+        "right": {
+          "title": "Çıkış tıkanması",
+          "points": [
+            "Dönüş direnci yükselir",
+            "Pompa sonrası basınç yükselir"
+          ]
+        },
+        "source": "Lequier, devreler 2013"
+      }
+    },
+    {
+      "title": "Devre kapasitesi tam desteğe göre seçilir",
+      "text": "Devre, aksi planlanmadıkça (ör. yalnız CO2 uzaklaştırma) hastanın **tam desteğini** sağlayabilecek kapasitede seçilir. Kardiyak destekte hedef ~3 L/m²/dk'dır: yenidoğanda 100, çocukta 80, erişkinde **60 mL/kg/dk**.",
+      "images": [],
+      "card": {
+        "id": "PER207-10toke0",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Devre kapasitesi tam desteğe göre seçilir",
+        "body": "Devre, aksi planlanmadıkça (ör. yalnız CO2 uzaklaştırma) hastanın **tam desteğini** sağlayabilecek kapasitede seçilir. Kardiyak destekte hedef ~3 L/m²/dk'dır: yenidoğanda 100, çocukta 80, erişkinde **60 mL/kg/dk**.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Tüp çapı akımı belirler",
+      "text": "Tüp direncini uzunluk ve iç çap belirler. 1 m tüpten 100 mmHg gradyanla geçen akım: 3/16 inç 1,2 L/dk; 1/4 inç 2,5 L/dk; **3/8 inç 5 L/dk**; 1/2 inç 10 L/dk.",
+      "images": [],
+      "card": {
+        "id": "PER207-1sc0z9r",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 1,
+        "title": "Tüp çapı akımı belirler",
+        "body": "Tüp direncini uzunluk ve iç çap belirler. 1 m tüpten 100 mmHg gradyanla geçen akım: 3/16 inç 1,2 L/dk; 1/4 inç 2,5 L/dk; **3/8 inç 5 L/dk**; 1/2 inç 10 L/dk.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Isı değiştiricide kaçak şüphesi",
+      "text": "Isı değiştiricinin suyu steril değildir ve kontamine olabilir; dönemsel dezenfeksiyon gerekir. **Açıklanamayan hemoliz** ya da suda kan veya protein görülmesi, kan ile suyun temas ettiğini (kaçak) düşündürür.",
+      "images": [],
+      "card": {
+        "id": "PER207-0wba35b",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 1,
+        "title": "Isı değiştiricide kaçak şüphesi",
+        "body": "Isı değiştiricinin suyu steril değildir ve kontamine olabilir; dönemsel dezenfeksiyon gerekir. **Açıklanamayan hemoliz** ya da suda kan veya protein görülmesi, kan ile suyun temas ettiğini (kaçak) düşündürür.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "ECMO devresinin primingi",
+      "text": "Devre steril koşullarda, ekstraselüler sıvıya benzer izotonik elektrolit çözeltisiyle (potasyum 4–5 mEq/L) doldurulur; kabarcıklar rezervuar torbasından atılır. Devreyi önce **%100 CO2** ile doldurmak işlemi hızlandırır.",
+      "images": [],
+      "card": {
+        "id": "PER207-07s7pd0",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "ECMO devresinin primingi",
+        "body": "Devre steril koşullarda, ekstraselüler sıvıya benzer izotonik elektrolit çözeltisiyle (potasyum 4–5 mEq/L) doldurulur; kabarcıklar rezervuar torbasından atılır. Devreyi önce **%100 CO2** ile doldurmak işlemi hızlandırır.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Prime'a kan eklenince",
+      "text": "Bebeklerde hematokriti **%30–40**'a getirmek için prime'a eritrosit eklenir. Kan eklenince prime'a heparin (1 U/mL) ve sitratın bağladığı kalsiyumu yerine koymak için kalsiyum verilir. Birçok merkez yüzeyi kaplamak için albümin (12,5 g) de ekler.",
+      "images": [],
+      "card": {
+        "id": "PER207-0dsm8lp",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Prime'a kan eklenince",
+        "body": "Bebeklerde hematokriti **%30–40**'a getirmek için prime'a eritrosit eklenir. Kan eklenince prime'a heparin (1 U/mL) ve sitratın bağladığı kalsiyumu yerine koymak için kalsiyum verilir. Birçok merkez yüzeyi kaplamak için albümin (12,5 g) de ekler.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Drenaj basıncı nasıl değerlendirilir?",
+      "text": "P1, hastadan pompaya kan çekilirken oluşan negatif basınçtır. **Aşırı negatif basınç** drenaj sorunu, kavitasyon ve hava emilmesi açısından değerlendirilir. ELSO 2017’deki −300 mmHg değeri pompa özelliğidir; hasta hedefi değildir. Güvenlik sınırı cihaz ve merkez protokolüne göre belirlenir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bvwelh",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 1,
+        "title": "Drenaj basıncı nasıl değerlendirilir?",
+        "body": "P1, hastadan pompaya kan çekilirken oluşan negatif basınçtır. **Aşırı negatif basınç** drenaj sorunu, kavitasyon ve hava emilmesi açısından değerlendirilir. ELSO 2017’deki −300 mmHg değeri pompa özelliğidir; hasta hedefi değildir. Güvenlik sınırı cihaz ve merkez protokolüne göre belirlenir.",
+        "source": "ELSO 2017; ELSO devre kılavuzu 2022"
+      }
+    },
+    {
+      "title": "ECMO devresinde transmembran basınç farkının (ΔP = pre-oksijenatör − post-oksijenatör basınç) giderek artması en çok neyi düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-10ji1h7",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "mcq",
+        "importance": 3,
+        "question": "ECMO devresinde transmembran basınç farkının (ΔP = pre-oksijenatör − post-oksijenatör basınç) giderek artması en çok neyi düşündürür?",
+        "options": [
+          "Drenaj kanülünde kollaps",
+          "Oksijenatör içinde pıhtılaşma",
+          "Sweep gaz hattında kaçak",
+          "Isı değiştiricide su kaçağı"
+        ],
+        "correct": 1,
+        "explanation": "Benzer kan akımında oksijenatörün giriş–çıkış basınç farkının yükselmesi membran direncinin artmasını ve trombozu düşündürebilir. Kan akımı, kan özellikleri ve hat/kanül sorunları da değerlendirilir; tek başına kesin tanı değildir.",
+        "source": "ELSO 2017; Pediatr Crit Care Med 2013"
+      }
+    },
+    {
+      "title": "Membran oksijenatörden hastaya hava embolisini önlemeye yönelik doğru uygulama hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0brke2x",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Membran oksijenatörden hastaya hava embolisini önlemeye yönelik doğru uygulama hangisidir?",
+        "options": [
+          "Gaz tarafı basıncını kan tarafından yüksek tutmak",
+          "Sweep hattındaki basınç sınırlayıcı valfi çıkarmak",
+          "Oksijenatörü hasta seviyesinin altında tutmak",
+          "Oksijenatörü hasta seviyesinin üstüne yerleştirmek"
+        ],
+        "correct": 2,
+        "explanation": "Oksijenatör hasta seviyesinin altında tutulur, kan tarafı basıncı gaz tarafından yüksek olmalıdır ve sweep hattında pop-off valf bulunur.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "ELSO 2017’ye göre ECMO’da plazma serbest hemoglobin hangi değeri aşınca nedeninin araştırılması gerekir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1bmwv8s",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "ELSO 2017’ye göre ECMO’da plazma serbest hemoglobin hangi değeri aşınca nedeninin araştırılması gerekir?",
+        "options": [
+          "20 mg/dL",
+          "50 mg/dL",
+          "100 mg/dL",
+          "150 mg/dL"
+        ],
+        "correct": 1,
+        "explanation": "ELSO 2017’de plazma serbest Hb çoğu koşulda < 10 mg/dL olmalıdır; > 50 mg/dL olduğunda neden araştırılır. Bu eşik hemolizin tüm dereceleri için tek tanı sınırı değildir.",
+        "source": "ELSO 2017; ELSO VA 2021"
+      }
+    },
+    {
+      "title": "Aşağıdakilerden hangisi santrifüj pompanın özelliğidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1c8f9xq",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Aşağıdakilerden hangisi santrifüj pompanın özelliğidir?",
+        "options": [
+          "Akımı devir × tüp hacmiyle belirlenir",
+          "Girişinde servo-hazne (bladder) gerekir",
+          "Çıkış tıkanırsa devre patlama riski yüksektir",
+          "Ön yüke bağımlı, art yüke duyarlıdır"
+        ],
+        "correct": 3,
+        "explanation": "Santrifüj pompa oklüzif değildir ve çıkış basıncı devirle sınırlıdır. Diğer üç şık roller pompanın özellikleridir: roller pompa çıkış tıkanırsa devreyi patlatabilir.",
+        "source": "Pediatr Crit Care Med 2013"
+      }
+    },
+    {
+      "title": "İstenen akımda post-pompa basıncı 300 mmHg'nin üzerindeyse ne düşünülmelidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-01lfofd",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "İstenen akımda post-pompa basıncı 300 mmHg'nin üzerindeyse ne düşünülmelidir?",
+        "answer": "VA modda yüksek sistemik basınç ya da dönüş kanülünde, tüplerde veya oksijenatörde **yüksek direnç** (obstrüksiyon) araştırılır.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "ECMO devresinde rutin olarak neler izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0kcrbe3",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "ECMO devresinde rutin olarak neler izlenir?",
+        "answer": "Ultrasonik akım probuyla kan akımı; pre- ve post-membran basınçları; pre-pompa venöz drenaj basıncı; pre- ve post-membran oksihemoglobin satürasyonu; kabarcık (bubble) dedektörü.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "ELSO 2017’nin verilen örneğinde rated flow’u 2 L/dk olan oksijenatör neden 4 L/dk tam destek gereksinimine uygun değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0n0rtz3",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "flip",
+        "importance": 1,
+        "question": "ELSO 2017’nin verilen örneğinde rated flow’u 2 L/dk olan oksijenatör neden 4 L/dk tam destek gereksinimine uygun değildir?",
+        "answer": "Kaynağın giriş/çıkış O2 içeriği varsayımlarıyla cihaz yaklaşık **100 mL O2/dk** aktarır; örnekte 1 L/dk gereksinime yeterli olabilir fakat 4 L/dk tam desteğe yetmez. Bu sonuç verilen örneğe aittir; hastanın Hb’si, O2 içeriği ve cihaz kapasitesi ayrıca değerlendirilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Önceden prime edilmiş devre: kaynak yılı önemli",
+      "text": "ELSO 2017, önceden prime edilmiş devrenin 30 günden sonra kullanımını önermez. Bu süre evrensel bir cihaz raf ömrü değildir; sterilite koşulları, üretici talimatı ve merkez protokolü ayrıca değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-115ssqx",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "fact",
+        "importance": 1,
+        "title": "Önceden prime edilmiş devre: kaynak yılı önemli",
+        "body": "ELSO 2017, önceden prime edilmiş devrenin 30 günden sonra kullanımını önermez. Bu süre evrensel bir cihaz raf ömrü değildir; sterilite koşulları, üretici talimatı ve merkez protokolü ayrıca değerlendirilir.",
+        "source": "ELSO 2017; ELSO devre kılavuzu 2022"
+      }
+    },
+    {
+      "title": "Sweep gaz olarak karbojen (%5 CO2 + %95 O2) kullanmak, oksijenatör çıkışındaki PCO2'yi belirgin biçimde düşürür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1c4k8wn",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Sweep gaz olarak karbojen (%5 CO2 + %95 O2) kullanmak, oksijenatör çıkışındaki PCO2'yi belirgin biçimde düşürür.",
+        "isTrue": false,
+        "explanation": "Karbojen, titrasyona gerek kalmadan oksijenatör çıkışındaki PCO2'yi ~40 mmHg civarında tutar.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "Pompa basınç kapasitesi hasta hedefi değildir",
+      "text": "ELSO 2017’de pompanın giriş/çıkış güvenlik özellikleri için **−300 ve 400 mmHg** sınırları tarif edilir. Bunlar hastada ulaşılacak basınç hedefleri değildir. Drenaj emmesi ve devre basıncı üretici sınırları ve merkez güvenlik yaklaşımıyla izlenir; aşırı basınç nedenleri düzeltilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-06otecu",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Pompa basınç kapasitesi hasta hedefi değildir",
+        "body": "ELSO 2017’de pompanın giriş/çıkış güvenlik özellikleri için **−300 ve 400 mmHg** sınırları tarif edilir. Bunlar hastada ulaşılacak basınç hedefleri değildir. Drenaj emmesi ve devre basıncı üretici sınırları ve merkez güvenlik yaklaşımıyla izlenir; aşırı basınç nedenleri düzeltilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Pompa girişinden önce musluk olmaz",
+      "text": "ELSO 2017, hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** hava emilmesi riski nedeniyle erişim noktası veya musluk bulunmamasını önerir. Erişim noktaları en aza indirilir; uygulama devre tasarımı ve güvenlik protokolüyle değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0ib0ksa",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Pompa girişinden önce musluk olmaz",
+        "body": "ELSO 2017, hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** hava emilmesi riski nedeniyle erişim noktası veya musluk bulunmamasını önerir. Erişim noktaları en aza indirilir; uygulama devre tasarımı ve güvenlik protokolüyle değerlendirilir.",
+        "source": "ELSO 2017"
+      }
+    },
+    {
+      "title": "ECMO pompasında RPM göstergesi ile akım göstergesi hangi farklı büyüklükleri ölçer?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-103272b",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "ECMO pompasında RPM göstergesi ile akım göstergesi hangi farklı büyüklükleri ölçer?",
+        "answer": "**RPM rotorun dakikadaki devrini**, akım probu ise hattan birim zamanda geçen kan hacmini ölçer. Hız göstergesi gerçek kan akımı ölçümünün yerine geçmez.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Gaz fazında yoğuşan su, oksijenatörün hangi işlevini bozabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-16bpvem",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Gaz fazında yoğuşan su, oksijenatörün hangi işlevini bozabilir?",
+        "answer": "Gaz geçişini kısıtlayarak özellikle **CO2 uzaklaştırmayı** azaltabilir; üretici/merkez yöntemine göre gaz fazı değerlendirilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Kan ve gaz basıncını karıştırma",
+      "text": "Membrandan gazın kana geçmesini önlemeye yönelik güvenlikte **kan tarafı basıncı gaz tarafının üzerinde** tutulur; gaz hattı basınç tahliye mekanizması gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0jc2ld2",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kan ve gaz basıncını karıştırma",
+        "body": "Membrandan gazın kana geçmesini önlemeye yönelik güvenlikte **kan tarafı basıncı gaz tarafının üzerinde** tutulur; gaz hattı basınç tahliye mekanizması gerekir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Membran oksijenatörde kan ile gaz arasında fiziksel bir membran bulunur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-02op00k",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Membran oksijenatörde kan ile gaz arasında fiziksel bir membran bulunur.",
+        "isTrue": true,
+        "explanation": "Gaz değişimi membran üzerinden gerçekleşir; kan ve gaz doğrudan karışmaz.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Oksijenatörün gaz çıkışını kapatmak gaz fazı basıncını güvenle düşürür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-05wa9ms",
+        "course": "PER207",
+        "topic": "ECMO devresi ve basınçlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Oksijenatörün gaz çıkışını kapatmak gaz fazı basıncını güvenle düşürür.",
+        "isTrue": false,
+        "explanation": "Gaz çıkışının engellenmesi gaz fazı basıncını yükseltebilir; basınç tahliyesi ve üreticiye uygun açık gaz çıkışı gerekir.",
+        "source": "ELSO Genel 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1tsi251",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Santrifüj pompa",
+      "en": "Centrifugal pump",
+      "definition": "Dönen rotorla basınç farkı yaratan, oklüzif olmayan, ön yüke bağımlı ve art yüke duyarlı pompa; devre patlaması nadir.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-1x5r5om",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Roller pompa",
+      "en": "Roller pump",
+      "definition": "Tüpü silindirlerle sıkıştırarak akım sağlayan yarı-oklüzif pompa; giriş servo-haznesi gerekir, çıkış tıkanırsa patlama riski.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-0vyjaaf",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Membran oksijenatör",
+      "en": "Membrane oxygenator / membrane lung",
+      "definition": "Kan ile gaz arasında membran bulunan, O2 ekleyip CO2 uzaklaştıran yapay akciğer.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0qbcx9a",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "PMP",
+      "en": "Polymethylpentene",
+      "definition": "Plazma sızıntısı minimal, düşük dirençli, uzun ömürlü, katı (non-mikroporöz) içi boş lif membran materyali.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-04gvku6",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Mikroporöz membran",
+      "en": "Microporous membrane",
+      "definition": "Gözenekli içi boş lif (ör. polipropilen); hızlı prime, ama plazma sızıntısı ve hava geçişi riski.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1frwolc",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Silikon membran",
+      "en": "Silicone membrane",
+      "definition": "Katı difüzyon membranı (Kolobow tipi); yüksek direnç, uzun ve zor prime.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-0oyzxgb",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Rated flow",
+      "en": "Rated flow",
+      "definition": "Tanımlanmış giriş koşullarında venöz kanı hedef çıkış satürasyonuna oksijenleyebilen en yüksek kan akımı; oksijenatör kapasitesini ifade eder.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0do26ph",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Sweep gaz",
+      "en": "Sweep gas",
+      "definition": "Oksijenatörün gaz fazından geçirilen gaz; akımı CO2 eliminasyonunu belirler.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-03or9aa",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "FDO2",
+      "en": "Fraction of delivered oxygen",
+      "definition": "Sweep gazdaki O2 fraksiyonu; blender ile ayarlanır.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1mba4gc",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Gaz blenderi",
+      "en": "Gas blender",
+      "definition": "O2 ve havayı karıştırarak FDO2'yi ayarlayan cihaz.",
+      "source": "ELSO VV 2021"
+    },
+    {
+      "id": "PER207-1jgdz3b",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Karbojen",
+      "en": "Carbogen",
+      "definition": "Oksijen ve karbondioksitten oluşan gaz karışımı; ECMO gaz yönetiminde karbondioksit düzeyini düzenlemek için kullanılabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1ae7n5q",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Isı değiştirici",
+      "en": "Heat exchanger",
+      "definition": "Harici su sistemiyle kan arasında ısı aktararak kan sıcaklığını düzenleyen devre bileşeni.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0e4wwuu",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Köprü",
+      "en": "Bridge",
+      "definition": "Hasta yakınında arteriyel ve venöz hatları birleştiren hat; trial-off ve acillerde kullanılır, kapalıyken staz alanıdır.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1x8j8ch",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Servo-hazne",
+      "en": "Bladder",
+      "definition": "Roller pompa girişinde venöz dönüş azalınca pompayı yavaşlatan/durduran kollabe olabilen hazne.",
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-0yzjni1",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Servo-regülasyon",
+      "en": "Servo-regulation",
+      "definition": "Basınç sensörüne göre pompa hızının otomatik ayarlanması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1u8hdfe",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Kabarcık dedektörü",
+      "en": "Bubble detector",
+      "definition": "Dönüş hattında hava algılayıp alarm veya klemp tetikleyen sensör.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1qw22ge",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "El krankı",
+      "en": "Hand crank",
+      "definition": "Elektrik ve batarya kesildiğinde pompayı elle döndürme düzeneği.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-06sadna",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Drenaj basıncı",
+      "en": "Drainage / inlet pressure",
+      "definition": "Pompa öncesindeki venöz drenaj hattında ölçülen, genellikle negatif olan basınç; aşırı negatiflik drenaj sorununu düşündürür.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0fvcpw4",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Pre-oksijenatör basıncı",
+      "en": "Pre-oxygenator pressure",
+      "definition": "Pompadan sonra, oksijenatöre girmeden önce ölçülen kan basıncı; pompanın karşılaştığı devre direncini değerlendirmeye yardım eder.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1vzpy6d",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Post-oksijenatör basıncı",
+      "en": "Post-oxygenator pressure",
+      "definition": "Oksijenatörden sonra dönüş hattında ölçülen basınç; dönüş hattı ve kanül direncinden etkilenir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-05m18vc",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Transmembran basınç gradyanı",
+      "en": "Transmembrane pressure gradient",
+      "definition": "Oksijenatör giriş ve çıkış kan basınçları arasındaki fark; aynı akımda artması membran direncinin yükseldiğini düşündürür.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1gvkrqf",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Priming",
+      "en": "Priming",
+      "definition": "Devrenin kullanım öncesi kristalloid (± kan) ile doldurulup havasının alınması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0jw1xme",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Kan prime",
+      "en": "Blood prime",
+      "definition": "Özellikle küçük hastada aşırı hemodilüsyonu sınırlamak için devre doldurma sıvısına kan ürünü eklenmesi.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-174ejjg",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Hemodilüsyon",
+      "en": "Hemodilution",
+      "definition": "Devre doldurma sıvısının hastanın kanıyla karışmasıyla hemoglobin ve hücresel bileşenlerin konsantrasyonunun azalması.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1ps6pkm",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Heparin kaplı yüzey",
+      "en": "Heparin-bonded surface",
+      "definition": "Kan-yüzey etkileşimini azaltan kaplama; sistemik antikoagülasyon ihtiyacını kaldırmaz.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-01x73sq",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Plazma sızıntısı",
+      "en": "Plasma leakage",
+      "definition": "Mikroporöz liflerde plazmanın gaz fazına geçerek gaz transferini bozması.",
+      "source": "Matte, JECT 2024"
+    },
+    {
+      "id": "PER207-16g5p3e",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Su yoğuşması",
+      "en": "Water condensation",
+      "definition": "Gaz fazında biriken su buharı; CO2 temizliğini azaltır, aralıklı yüksek sweep ile giderilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0coupia",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Hemofiltre / CRRT",
+      "en": "Hemofilter / continuous renal replacement therapy",
+      "definition": "Devreye eklenerek sıvı ve elektrolit dengesini sağlayan ultrafiltrasyon/sürekli böbrek replasmanı.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0yhmseq",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Acil devre",
+      "en": "Emergency (primed) circuit",
+      "definition": "Kristalloidle prime edilmiş, dakikalar içinde bağlanabilecek yedek devre.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-02qh6vz",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Membran malzemesi",
+      "left": {
+        "title": "PMP",
+        "points": [
+          "Katı, içi boş lif yapısı",
+          "Plazma sızıntısı daha az"
+        ]
+      },
+      "right": {
+        "title": "Mikroporöz polipropilen",
+        "points": [
+          "Gözenekli, içi boş lif yapısı",
+          "Plazma sızıntısı gaz transferini bozabilir"
+        ]
+      },
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-1nttrgj",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Pompanın giriş ve çıkış tıkanması",
+      "left": {
+        "title": "Giriş tıkanması",
+        "points": [
+          "Venöz drenaj azalır",
+          "Aşırı emme ve kavitasyon gelişebilir"
+        ]
+      },
+      "right": {
+        "title": "Çıkış tıkanması",
+        "points": [
+          "Dönüş direnci yükselir",
+          "Pompa sonrası basınç yükselir"
+        ]
+      },
+      "source": "Lequier, devreler 2013"
+    },
+    {
+      "id": "PER207-10toke0",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Devre kapasitesi tam desteğe göre seçilir",
+      "body": "Devre, aksi planlanmadıkça (ör. yalnız CO2 uzaklaştırma) hastanın **tam desteğini** sağlayabilecek kapasitede seçilir. Kardiyak destekte hedef ~3 L/m²/dk'dır: yenidoğanda 100, çocukta 80, erişkinde **60 mL/kg/dk**.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-1sc0z9r",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 1,
+      "title": "Tüp çapı akımı belirler",
+      "body": "Tüp direncini uzunluk ve iç çap belirler. 1 m tüpten 100 mmHg gradyanla geçen akım: 3/16 inç 1,2 L/dk; 1/4 inç 2,5 L/dk; **3/8 inç 5 L/dk**; 1/2 inç 10 L/dk.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0wba35b",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 1,
+      "title": "Isı değiştiricide kaçak şüphesi",
+      "body": "Isı değiştiricinin suyu steril değildir ve kontamine olabilir; dönemsel dezenfeksiyon gerekir. **Açıklanamayan hemoliz** ya da suda kan veya protein görülmesi, kan ile suyun temas ettiğini (kaçak) düşündürür.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-07s7pd0",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "ECMO devresinin primingi",
+      "body": "Devre steril koşullarda, ekstraselüler sıvıya benzer izotonik elektrolit çözeltisiyle (potasyum 4–5 mEq/L) doldurulur; kabarcıklar rezervuar torbasından atılır. Devreyi önce **%100 CO2** ile doldurmak işlemi hızlandırır.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0dsm8lp",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Prime'a kan eklenince",
+      "body": "Bebeklerde hematokriti **%30–40**'a getirmek için prime'a eritrosit eklenir. Kan eklenince prime'a heparin (1 U/mL) ve sitratın bağladığı kalsiyumu yerine koymak için kalsiyum verilir. Birçok merkez yüzeyi kaplamak için albümin (12,5 g) de ekler.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-1bvwelh",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 1,
+      "title": "Drenaj basıncı nasıl değerlendirilir?",
+      "body": "P1, hastadan pompaya kan çekilirken oluşan negatif basınçtır. **Aşırı negatif basınç** drenaj sorunu, kavitasyon ve hava emilmesi açısından değerlendirilir. ELSO 2017’deki −300 mmHg değeri pompa özelliğidir; hasta hedefi değildir. Güvenlik sınırı cihaz ve merkez protokolüne göre belirlenir.",
+      "source": "ELSO 2017; ELSO devre kılavuzu 2022"
+    },
+    {
+      "id": "PER207-10ji1h7",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "mcq",
+      "importance": 3,
+      "question": "ECMO devresinde transmembran basınç farkının (ΔP = pre-oksijenatör − post-oksijenatör basınç) giderek artması en çok neyi düşündürür?",
+      "options": [
+        "Drenaj kanülünde kollaps",
+        "Oksijenatör içinde pıhtılaşma",
+        "Sweep gaz hattında kaçak",
+        "Isı değiştiricide su kaçağı"
+      ],
+      "correct": 1,
+      "explanation": "Benzer kan akımında oksijenatörün giriş–çıkış basınç farkının yükselmesi membran direncinin artmasını ve trombozu düşündürebilir. Kan akımı, kan özellikleri ve hat/kanül sorunları da değerlendirilir; tek başına kesin tanı değildir.",
+      "source": "ELSO 2017; Pediatr Crit Care Med 2013"
+    },
+    {
+      "id": "PER207-0brke2x",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Membran oksijenatörden hastaya hava embolisini önlemeye yönelik doğru uygulama hangisidir?",
+      "options": [
+        "Gaz tarafı basıncını kan tarafından yüksek tutmak",
+        "Sweep hattındaki basınç sınırlayıcı valfi çıkarmak",
+        "Oksijenatörü hasta seviyesinin altında tutmak",
+        "Oksijenatörü hasta seviyesinin üstüne yerleştirmek"
+      ],
+      "correct": 2,
+      "explanation": "Oksijenatör hasta seviyesinin altında tutulur, kan tarafı basıncı gaz tarafından yüksek olmalıdır ve sweep hattında pop-off valf bulunur.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-1bmwv8s",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "ELSO 2017’ye göre ECMO’da plazma serbest hemoglobin hangi değeri aşınca nedeninin araştırılması gerekir?",
+      "options": [
+        "20 mg/dL",
+        "50 mg/dL",
+        "100 mg/dL",
+        "150 mg/dL"
+      ],
+      "correct": 1,
+      "explanation": "ELSO 2017’de plazma serbest Hb çoğu koşulda < 10 mg/dL olmalıdır; > 50 mg/dL olduğunda neden araştırılır. Bu eşik hemolizin tüm dereceleri için tek tanı sınırı değildir.",
+      "source": "ELSO 2017; ELSO VA 2021"
+    },
+    {
+      "id": "PER207-1c8f9xq",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Aşağıdakilerden hangisi santrifüj pompanın özelliğidir?",
+      "options": [
+        "Akımı devir × tüp hacmiyle belirlenir",
+        "Girişinde servo-hazne (bladder) gerekir",
+        "Çıkış tıkanırsa devre patlama riski yüksektir",
+        "Ön yüke bağımlı, art yüke duyarlıdır"
+      ],
+      "correct": 3,
+      "explanation": "Santrifüj pompa oklüzif değildir ve çıkış basıncı devirle sınırlıdır. Diğer üç şık roller pompanın özellikleridir: roller pompa çıkış tıkanırsa devreyi patlatabilir.",
+      "source": "Pediatr Crit Care Med 2013"
+    },
+    {
+      "id": "PER207-01lfofd",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "İstenen akımda post-pompa basıncı 300 mmHg'nin üzerindeyse ne düşünülmelidir?",
+      "answer": "VA modda yüksek sistemik basınç ya da dönüş kanülünde, tüplerde veya oksijenatörde **yüksek direnç** (obstrüksiyon) araştırılır.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0kcrbe3",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO devresinde rutin olarak neler izlenir?",
+      "answer": "Ultrasonik akım probuyla kan akımı; pre- ve post-membran basınçları; pre-pompa venöz drenaj basıncı; pre- ve post-membran oksihemoglobin satürasyonu; kabarcık (bubble) dedektörü.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-0n0rtz3",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "flip",
+      "importance": 1,
+      "question": "ELSO 2017’nin verilen örneğinde rated flow’u 2 L/dk olan oksijenatör neden 4 L/dk tam destek gereksinimine uygun değildir?",
+      "answer": "Kaynağın giriş/çıkış O2 içeriği varsayımlarıyla cihaz yaklaşık **100 mL O2/dk** aktarır; örnekte 1 L/dk gereksinime yeterli olabilir fakat 4 L/dk tam desteğe yetmez. Bu sonuç verilen örneğe aittir; hastanın Hb’si, O2 içeriği ve cihaz kapasitesi ayrıca değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-115ssqx",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "fact",
+      "importance": 1,
+      "title": "Önceden prime edilmiş devre: kaynak yılı önemli",
+      "body": "ELSO 2017, önceden prime edilmiş devrenin 30 günden sonra kullanımını önermez. Bu süre evrensel bir cihaz raf ömrü değildir; sterilite koşulları, üretici talimatı ve merkez protokolü ayrıca değerlendirilir.",
+      "source": "ELSO 2017; ELSO devre kılavuzu 2022"
+    },
+    {
+      "id": "PER207-1c4k8wn",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Sweep gaz olarak karbojen (%5 CO2 + %95 O2) kullanmak, oksijenatör çıkışındaki PCO2'yi belirgin biçimde düşürür.",
+      "isTrue": false,
+      "explanation": "Karbojen, titrasyona gerek kalmadan oksijenatör çıkışındaki PCO2'yi ~40 mmHg civarında tutar.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-06otecu",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Pompa basınç kapasitesi hasta hedefi değildir",
+      "body": "ELSO 2017’de pompanın giriş/çıkış güvenlik özellikleri için **−300 ve 400 mmHg** sınırları tarif edilir. Bunlar hastada ulaşılacak basınç hedefleri değildir. Drenaj emmesi ve devre basıncı üretici sınırları ve merkez güvenlik yaklaşımıyla izlenir; aşırı basınç nedenleri düzeltilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0ib0ksa",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Pompa girişinden önce musluk olmaz",
+      "body": "ELSO 2017, hasta ile pompa girişi arasındaki **negatif basınçlı bölümde** hava emilmesi riski nedeniyle erişim noktası veya musluk bulunmamasını önerir. Erişim noktaları en aza indirilir; uygulama devre tasarımı ve güvenlik protokolüyle değerlendirilir.",
+      "source": "ELSO 2017"
+    },
+    {
+      "id": "PER207-103272b",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "ECMO pompasında RPM göstergesi ile akım göstergesi hangi farklı büyüklükleri ölçer?",
+      "answer": "**RPM rotorun dakikadaki devrini**, akım probu ise hattan birim zamanda geçen kan hacmini ölçer. Hız göstergesi gerçek kan akımı ölçümünün yerine geçmez.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-16bpvem",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Gaz fazında yoğuşan su, oksijenatörün hangi işlevini bozabilir?",
+      "answer": "Gaz geçişini kısıtlayarak özellikle **CO2 uzaklaştırmayı** azaltabilir; üretici/merkez yöntemine göre gaz fazı değerlendirilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-0jc2ld2",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kan ve gaz basıncını karıştırma",
+      "body": "Membrandan gazın kana geçmesini önlemeye yönelik güvenlikte **kan tarafı basıncı gaz tarafının üzerinde** tutulur; gaz hattı basınç tahliye mekanizması gerekir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-02op00k",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Membran oksijenatörde kan ile gaz arasında fiziksel bir membran bulunur.",
+      "isTrue": true,
+      "explanation": "Gaz değişimi membran üzerinden gerçekleşir; kan ve gaz doğrudan karışmaz.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-05wa9ms",
+      "course": "PER207",
+      "topic": "ECMO devresi ve basınçlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Oksijenatörün gaz çıkışını kapatmak gaz fazı basıncını güvenle düşürür.",
+      "isTrue": false,
+      "explanation": "Gaz çıkışının engellenmesi gaz fazı basıncını yükseltebilir; basınç tahliyesi ve üreticiye uygun açık gaz çıkışı gerekir.",
+      "source": "ELSO Genel 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

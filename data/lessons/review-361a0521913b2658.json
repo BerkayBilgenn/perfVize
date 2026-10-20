@@ -1,0 +1,687 @@
+{
+  "id": "review-361a0521913b2658",
+  "title": "Pediatrik kalp cerrahisinde KPB",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "DHCA",
+      "text": "Deep hypothermic circulatory arrest\nDerin hipotermiyle metabolik gereksinim azaltıldıktan sonra dolaşımın cerrahi amaçla geçici olarak tamamen durdurulması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1sqinhl",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "DHCA",
+        "en": "Deep hypothermic circulatory arrest",
+        "definition": "Derin hipotermiyle metabolik gereksinim azaltıldıktan sonra dolaşımın cerrahi amaçla geçici olarak tamamen durdurulması.",
+        "source": "Frontiers in Pediatrics 2016"
+      }
+    },
+    {
+      "title": "SACP",
+      "text": "Selective antegrade cerebral perfusion\nDolaşım arresti sırasında beynin innominat/karotis yoluyla antegrad perfüzyonu.",
+      "images": [],
+      "card": {
+        "id": "PER207-19bg8xy",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "SACP",
+        "en": "Selective antegrade cerebral perfusion",
+        "definition": "Dolaşım arresti sırasında beynin innominat/karotis yoluyla antegrad perfüzyonu.",
+        "source": "Frontiers in Pediatrics 2016"
+      }
+    },
+    {
+      "title": "pH-stat",
+      "text": "pH-stat\nHipotermide sıcaklığa göre düzeltilmiş PaCO2'yi normal tutmak için CO2 ekleme stratejisi; serebral akımı artırır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0b8gx0m",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "pH-stat",
+        "en": "pH-stat",
+        "definition": "Hipotermide sıcaklığa göre düzeltilmiş PaCO2'yi normal tutmak için CO2 ekleme stratejisi; serebral akımı artırır.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "Alfa-stat",
+      "text": "Alpha-stat\nKan gazlarının 37 °C'de ölçülen (düzeltilmemiş) değerlerine göre yönetimi; CO2 eklenmez.",
+      "images": [],
+      "card": {
+        "id": "PER207-15k44my",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "Alfa-stat",
+        "en": "Alpha-stat",
+        "definition": "Kan gazlarının 37 °C'de ölçülen (düzeltilmemiş) değerlerine göre yönetimi; CO2 eklenmez.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "MUF",
+      "text": "Modified ultrafiltration\nKPB bitince aortik kanülden alınan kanın hemofiltreden geçirilip hastaya verilmesi; Hct ve proteinleri artırır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1puaadr",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 3,
+        "term": "MUF",
+        "en": "Modified ultrafiltration",
+        "definition": "KPB bitince aortik kanülden alınan kanın hemofiltreden geçirilip hastaya verilmesi; Hct ve proteinleri artırır.",
+        "source": "Naik–Knight–Elliott, MUF 1991"
+      }
+    },
+    {
+      "title": "Konvansiyonel ultrafiltrasyon",
+      "text": "Conventional ultrafiltration\nKPB sırasında devredeki fazla sıvının hemofiltreyle uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1y322sc",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 1,
+        "term": "Konvansiyonel ultrafiltrasyon",
+        "en": "Conventional ultrafiltration",
+        "definition": "KPB sırasında devredeki fazla sıvının hemofiltreyle uzaklaştırılması.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "del Nido kardiyoplejisi",
+      "text": "del Nido cardioplegia\nKan ve kristalloid bileşenleri birleştiren, pediatrik kalp cerrahisi için geliştirilmiş kardiyopleji solüsyonu; sık kullanılan formülünde kristalloid ağırlığı fazladır.",
+      "images": [],
+      "card": {
+        "id": "PER207-12fu63n",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 1,
+        "term": "del Nido kardiyoplejisi",
+        "en": "del Nido cardioplegia",
+        "definition": "Kan ve kristalloid bileşenleri birleştiren, pediatrik kalp cerrahisi için geliştirilmiş kardiyopleji solüsyonu; sık kullanılan formülünde kristalloid ağırlığı fazladır.",
+        "source": "Matte–del Nido, JECT 2012"
+      }
+    },
+    {
+      "title": "Kan prime hacmi oranı",
+      "text": "Prime-to-blood-volume ratio\nDevreyi dolduran sıvı hacminin hastanın kan hacmine oranı; küçük hastada hemodilüsyonun boyutunu belirlemeye yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER207-1nad8hd",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "term",
+        "importance": 2,
+        "term": "Kan prime hacmi oranı",
+        "en": "Prime-to-blood-volume ratio",
+        "definition": "Devreyi dolduran sıvı hacminin hastanın kan hacmine oranı; küçük hastada hemodilüsyonun boyutunu belirlemeye yardım eder.",
+        "source": "Pediatrik devre çalışması 2018"
+      }
+    },
+    {
+      "title": "Hipotermide kan gazı yaklaşımı",
+      "text": "pH-stat\nSıcaklığa düzeltilmiş değerler kullanılır\nCO2 eklenmesi serebral akımı artırır\n\nAlfa-stat\n37 °C’de ölçülen değerler kullanılır\nEk CO2 ile düzeltme yapılmaz",
+      "images": [],
+      "card": {
+        "id": "PER207-1bxlmzc",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "compare",
+        "importance": 2,
+        "title": "Hipotermide kan gazı yaklaşımı",
+        "left": {
+          "title": "pH-stat",
+          "points": [
+            "Sıcaklığa düzeltilmiş değerler kullanılır",
+            "CO2 eklenmesi serebral akımı artırır"
+          ]
+        },
+        "right": {
+          "title": "Alfa-stat",
+          "points": [
+            "37 °C’de ölçülen değerler kullanılır",
+            "Ek CO2 ile düzeltme yapılmaz"
+          ]
+        },
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "Ultrafiltrasyonun zamanı",
+      "text": "Konvansiyonel UF\nKPB sırasında uygulanır\nDevredeki fazla suyu uzaklaştırır\n\nMUF\nKPB sonlandırıldıktan sonra uygulanır\nKanı filtreleyip hastaya geri verir",
+      "images": [],
+      "card": {
+        "id": "PER207-0gndk3z",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "compare",
+        "importance": 2,
+        "title": "Ultrafiltrasyonun zamanı",
+        "left": {
+          "title": "Konvansiyonel UF",
+          "points": [
+            "KPB sırasında uygulanır",
+            "Devredeki fazla suyu uzaklaştırır"
+          ]
+        },
+        "right": {
+          "title": "MUF",
+          "points": [
+            "KPB sonlandırıldıktan sonra uygulanır",
+            "Kanı filtreleyip hastaya geri verir"
+          ]
+        },
+        "source": "Naik–Knight–Elliott, MUF 1991"
+      }
+    },
+    {
+      "title": "Yüksek akım stratejisinin kaynak sınırı",
+      "text": "Ramakrishnan 2023’teki yüksek akım–yüksek hematokrit yaklaşımı **merkezin uyguladığı strateji** olarak anlatılır; bütün pediatrik KPB merkezleri için tek protokol değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-19dyvji",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Yüksek akım stratejisinin kaynak sınırı",
+        "body": "Ramakrishnan 2023’teki yüksek akım–yüksek hematokrit yaklaşımı **merkezin uyguladığı strateji** olarak anlatılır; bütün pediatrik KPB merkezleri için tek protokol değildir.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "Pediatrik akım ağırlığa göre",
+      "text": "Ramakrishnan 2023 tablosunda < 2,5 kg için 200; 2,5–3,5 kg için 175; > 3,5–10 kg için 150 mL/kg/dk ve > 10 kg için 2,6 L/dk/m² yer alır. Bunlar **kaynağa özgü** hedeflerdir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1qzpowk",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pediatrik akım ağırlığa göre",
+        "body": "Ramakrishnan 2023 tablosunda < 2,5 kg için 200; 2,5–3,5 kg için 175; > 3,5–10 kg için 150 mL/kg/dk ve > 10 kg için 2,6 L/dk/m² yer alır. Bunlar **kaynağa özgü** hedeflerdir.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "Pediatrik hematokrit stratejileri",
+      "text": "Ramakrishnan 2023’te konvansiyonel yaklaşımda yaklaşık %25, yüksek akım yaklaşımında KPB sırasında ≥ %32 hematokrit anlatılır. Merkez stratejisi ve oksijen sunumu birlikte değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-0u3bxj1",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pediatrik hematokrit stratejileri",
+        "body": "Ramakrishnan 2023’te konvansiyonel yaklaşımda yaklaşık %25, yüksek akım yaklaşımında KPB sırasında ≥ %32 hematokrit anlatılır. Merkez stratejisi ve oksijen sunumu birlikte değerlendirilir.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "del Nido karışım oranı",
+      "text": "Klasik Boston del Nido formülünde **4 kısım kristalloid ve 1 kısım kan** bulunur. Tek doz yaklaşımı uygulanabilir; tekrar doz gereksinimi işlemin süresine ve merkez protokolüne bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0qgne5n",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "fact",
+        "importance": 2,
+        "title": "del Nido karışım oranı",
+        "body": "Klasik Boston del Nido formülünde **4 kısım kristalloid ve 1 kısım kan** bulunur. Tek doz yaklaşımı uygulanabilir; tekrar doz gereksinimi işlemin süresine ve merkez protokolüne bağlıdır.",
+        "source": "Matte–del Nido, JECT 2012"
+      }
+    },
+    {
+      "title": "Bebekte devreyi kısaltmak hemodilüsyonu neden azaltabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0rpjqtx",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "flip",
+        "importance": 2,
+        "question": "Bebekte devreyi kısaltmak hemodilüsyonu neden azaltabilir?",
+        "answer": "Daha kısa hatlar daha az **prime hacmi** gerektirir; hastanın kanıyla karışan hücresiz sıvı miktarı azalır.",
+        "source": "Pediatrik devre çalışması 2018"
+      }
+    },
+    {
+      "title": "Pediatrik KPB’de yalnız pompa akımını izlemek neden yeterli değildir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1o2ugz4",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "flip",
+        "importance": 2,
+        "question": "Pediatrik KPB’de yalnız pompa akımını izlemek neden yeterli değildir?",
+        "answer": "Dokuya ulaşan O2, akım yanında **hemoglobin ve oksijen içeriğine** bağlıdır; hematokrit ve perfüzyon bulguları da değerlendirilir.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "Ultrafiltrasyonda uzaklaştırılan ve korunan",
+      "text": "Ultrafiltrasyon fazla plazma suyunu ve küçük çözünmüş maddeleri uzaklaştırırken kan hücrelerini ve büyük plazma proteinlerini devrede tutar; **hemokonsantrasyon** bu seçici uzaklaştırmayla oluşur.",
+      "images": [],
+      "card": {
+        "id": "PER207-0d7llrk",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "remember",
+        "importance": 3,
+        "title": "Ultrafiltrasyonda uzaklaştırılan ve korunan",
+        "body": "Ultrafiltrasyon fazla plazma suyunu ve küçük çözünmüş maddeleri uzaklaştırırken kan hücrelerini ve büyük plazma proteinlerini devrede tutar; **hemokonsantrasyon** bu seçici uzaklaştırmayla oluşur.",
+        "source": "Naik–Knight–Elliott, MUF 1991"
+      }
+    },
+    {
+      "title": "Ramakrishnan 2023’te anlatılan merkez stratejisinde soğutma ve yeniden ısıtmanın kan gazı yaklaşımları hangi sıradadır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0wr993j",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Ramakrishnan 2023’te anlatılan merkez stratejisinde soğutma ve yeniden ısıtmanın kan gazı yaklaşımları hangi sıradadır?",
+        "options": [
+          "Soğutmada pH-stat, ısıtmada alfa-stat",
+          "Soğutmada alfa-stat, ısıtmada pH-stat",
+          "İki evrede de yalnız alfa-stat",
+          "İki evrede de yalnız pH-stat"
+        ],
+        "correct": 0,
+        "explanation": "Yazarların merkezinde soğutmada pH-stat ve yeniden ısıtmada alfa-stat kullanılır. Bu, kaynak merkezinin hibrit stratejisidir; evrensel protokol olarak sunulmaz.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "SACP sırasında beyne kan hangi yönde verilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-11log0z",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "mcq",
+        "importance": 2,
+        "question": "SACP sırasında beyne kan hangi yönde verilir?",
+        "options": [
+          "Koroner sinüsten sol atriyuma",
+          "Arteriyel sistemden antegrad",
+          "SVC’den retrograd",
+          "Aorttan venöz rezervuara"
+        ],
+        "correct": 1,
+        "explanation": "Selektif antegrad serebral perfüzyon, innominat/karotis üzerinden fizyolojik arteriyel yönde akım sağlar.",
+        "source": "Frontiers in Pediatrics 2016"
+      }
+    },
+    {
+      "title": "Küçük hastada prime hacminin kan hacmine oranı arttığında hangi etki belirginleşir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0i2juba",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Küçük hastada prime hacminin kan hacmine oranı arttığında hangi etki belirginleşir?",
+        "options": [
+          "Polisitemi",
+          "Eritrosit üretimi",
+          "Hemodilüsyon",
+          "Hemokonsantrasyon"
+        ],
+        "correct": 2,
+        "explanation": "Hücresiz prime kanı seyreltir; küçük kan hacmi nedeniyle pediatrik hastada etki daha büyüktür.",
+        "source": "Pediatrik devre çalışması 2018"
+      }
+    },
+    {
+      "title": "Ramakrishnan 2023’teki merkez stratejisinde derin hipotermiye soğutma en az 10 dakika olarak tarif edilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1khl6sq",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Ramakrishnan 2023’teki merkez stratejisinde derin hipotermiye soğutma en az 10 dakika olarak tarif edilir.",
+        "isTrue": false,
+        "explanation": "Kaynakta derin hipotermiye soğutma en az 20 dakika olarak anlatılır. Süre bu tarihli merkez stratejisine aittir; bütün ameliyatlar için tek hedef değildir.",
+        "source": "Ramakrishnan, pediatrik KPB 2023"
+      }
+    },
+    {
+      "title": "Ultrafiltrasyonun hemokonsantrasyon etkisi eritrositleri plazmadan uzaklaştırarak oluşur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-07qg8u5",
+        "course": "PER207",
+        "topic": "Pediatrik kalp cerrahisinde KPB",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Ultrafiltrasyonun hemokonsantrasyon etkisi eritrositleri plazmadan uzaklaştırarak oluşur.",
+        "isTrue": false,
+        "explanation": "Hemokonsantrasyon suyun uzaklaştırılması ve kan hücrelerinin korunmasıyla oluşur; eritrositlerin atılmasıyla değil.",
+        "source": "Naik–Knight–Elliott, MUF 1991"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1sqinhl",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "DHCA",
+      "en": "Deep hypothermic circulatory arrest",
+      "definition": "Derin hipotermiyle metabolik gereksinim azaltıldıktan sonra dolaşımın cerrahi amaçla geçici olarak tamamen durdurulması.",
+      "source": "Frontiers in Pediatrics 2016"
+    },
+    {
+      "id": "PER207-19bg8xy",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "SACP",
+      "en": "Selective antegrade cerebral perfusion",
+      "definition": "Dolaşım arresti sırasında beynin innominat/karotis yoluyla antegrad perfüzyonu.",
+      "source": "Frontiers in Pediatrics 2016"
+    },
+    {
+      "id": "PER207-0b8gx0m",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "pH-stat",
+      "en": "pH-stat",
+      "definition": "Hipotermide sıcaklığa göre düzeltilmiş PaCO2'yi normal tutmak için CO2 ekleme stratejisi; serebral akımı artırır.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-15k44my",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "Alfa-stat",
+      "en": "Alpha-stat",
+      "definition": "Kan gazlarının 37 °C'de ölçülen (düzeltilmemiş) değerlerine göre yönetimi; CO2 eklenmez.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-1puaadr",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 3,
+      "term": "MUF",
+      "en": "Modified ultrafiltration",
+      "definition": "KPB bitince aortik kanülden alınan kanın hemofiltreden geçirilip hastaya verilmesi; Hct ve proteinleri artırır.",
+      "source": "Naik–Knight–Elliott, MUF 1991"
+    },
+    {
+      "id": "PER207-1y322sc",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 1,
+      "term": "Konvansiyonel ultrafiltrasyon",
+      "en": "Conventional ultrafiltration",
+      "definition": "KPB sırasında devredeki fazla sıvının hemofiltreyle uzaklaştırılması.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-12fu63n",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 1,
+      "term": "del Nido kardiyoplejisi",
+      "en": "del Nido cardioplegia",
+      "definition": "Kan ve kristalloid bileşenleri birleştiren, pediatrik kalp cerrahisi için geliştirilmiş kardiyopleji solüsyonu; sık kullanılan formülünde kristalloid ağırlığı fazladır.",
+      "source": "Matte–del Nido, JECT 2012"
+    },
+    {
+      "id": "PER207-1nad8hd",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "term",
+      "importance": 2,
+      "term": "Kan prime hacmi oranı",
+      "en": "Prime-to-blood-volume ratio",
+      "definition": "Devreyi dolduran sıvı hacminin hastanın kan hacmine oranı; küçük hastada hemodilüsyonun boyutunu belirlemeye yardım eder.",
+      "source": "Pediatrik devre çalışması 2018"
+    },
+    {
+      "id": "PER207-1bxlmzc",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "compare",
+      "importance": 2,
+      "title": "Hipotermide kan gazı yaklaşımı",
+      "left": {
+        "title": "pH-stat",
+        "points": [
+          "Sıcaklığa düzeltilmiş değerler kullanılır",
+          "CO2 eklenmesi serebral akımı artırır"
+        ]
+      },
+      "right": {
+        "title": "Alfa-stat",
+        "points": [
+          "37 °C’de ölçülen değerler kullanılır",
+          "Ek CO2 ile düzeltme yapılmaz"
+        ]
+      },
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-0gndk3z",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "compare",
+      "importance": 2,
+      "title": "Ultrafiltrasyonun zamanı",
+      "left": {
+        "title": "Konvansiyonel UF",
+        "points": [
+          "KPB sırasında uygulanır",
+          "Devredeki fazla suyu uzaklaştırır"
+        ]
+      },
+      "right": {
+        "title": "MUF",
+        "points": [
+          "KPB sonlandırıldıktan sonra uygulanır",
+          "Kanı filtreleyip hastaya geri verir"
+        ]
+      },
+      "source": "Naik–Knight–Elliott, MUF 1991"
+    },
+    {
+      "id": "PER207-19dyvji",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Yüksek akım stratejisinin kaynak sınırı",
+      "body": "Ramakrishnan 2023’teki yüksek akım–yüksek hematokrit yaklaşımı **merkezin uyguladığı strateji** olarak anlatılır; bütün pediatrik KPB merkezleri için tek protokol değildir.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-1qzpowk",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pediatrik akım ağırlığa göre",
+      "body": "Ramakrishnan 2023 tablosunda < 2,5 kg için 200; 2,5–3,5 kg için 175; > 3,5–10 kg için 150 mL/kg/dk ve > 10 kg için 2,6 L/dk/m² yer alır. Bunlar **kaynağa özgü** hedeflerdir.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-0u3bxj1",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pediatrik hematokrit stratejileri",
+      "body": "Ramakrishnan 2023’te konvansiyonel yaklaşımda yaklaşık %25, yüksek akım yaklaşımında KPB sırasında ≥ %32 hematokrit anlatılır. Merkez stratejisi ve oksijen sunumu birlikte değerlendirilir.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-0qgne5n",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "fact",
+      "importance": 2,
+      "title": "del Nido karışım oranı",
+      "body": "Klasik Boston del Nido formülünde **4 kısım kristalloid ve 1 kısım kan** bulunur. Tek doz yaklaşımı uygulanabilir; tekrar doz gereksinimi işlemin süresine ve merkez protokolüne bağlıdır.",
+      "source": "Matte–del Nido, JECT 2012"
+    },
+    {
+      "id": "PER207-0rpjqtx",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "flip",
+      "importance": 2,
+      "question": "Bebekte devreyi kısaltmak hemodilüsyonu neden azaltabilir?",
+      "answer": "Daha kısa hatlar daha az **prime hacmi** gerektirir; hastanın kanıyla karışan hücresiz sıvı miktarı azalır.",
+      "source": "Pediatrik devre çalışması 2018"
+    },
+    {
+      "id": "PER207-1o2ugz4",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "flip",
+      "importance": 2,
+      "question": "Pediatrik KPB’de yalnız pompa akımını izlemek neden yeterli değildir?",
+      "answer": "Dokuya ulaşan O2, akım yanında **hemoglobin ve oksijen içeriğine** bağlıdır; hematokrit ve perfüzyon bulguları da değerlendirilir.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-0d7llrk",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "remember",
+      "importance": 3,
+      "title": "Ultrafiltrasyonda uzaklaştırılan ve korunan",
+      "body": "Ultrafiltrasyon fazla plazma suyunu ve küçük çözünmüş maddeleri uzaklaştırırken kan hücrelerini ve büyük plazma proteinlerini devrede tutar; **hemokonsantrasyon** bu seçici uzaklaştırmayla oluşur.",
+      "source": "Naik–Knight–Elliott, MUF 1991"
+    },
+    {
+      "id": "PER207-0wr993j",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Ramakrishnan 2023’te anlatılan merkez stratejisinde soğutma ve yeniden ısıtmanın kan gazı yaklaşımları hangi sıradadır?",
+      "options": [
+        "Soğutmada pH-stat, ısıtmada alfa-stat",
+        "Soğutmada alfa-stat, ısıtmada pH-stat",
+        "İki evrede de yalnız alfa-stat",
+        "İki evrede de yalnız pH-stat"
+      ],
+      "correct": 0,
+      "explanation": "Yazarların merkezinde soğutmada pH-stat ve yeniden ısıtmada alfa-stat kullanılır. Bu, kaynak merkezinin hibrit stratejisidir; evrensel protokol olarak sunulmaz.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-11log0z",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "mcq",
+      "importance": 2,
+      "question": "SACP sırasında beyne kan hangi yönde verilir?",
+      "options": [
+        "Koroner sinüsten sol atriyuma",
+        "Arteriyel sistemden antegrad",
+        "SVC’den retrograd",
+        "Aorttan venöz rezervuara"
+      ],
+      "correct": 1,
+      "explanation": "Selektif antegrad serebral perfüzyon, innominat/karotis üzerinden fizyolojik arteriyel yönde akım sağlar.",
+      "source": "Frontiers in Pediatrics 2016"
+    },
+    {
+      "id": "PER207-0i2juba",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Küçük hastada prime hacminin kan hacmine oranı arttığında hangi etki belirginleşir?",
+      "options": [
+        "Polisitemi",
+        "Eritrosit üretimi",
+        "Hemodilüsyon",
+        "Hemokonsantrasyon"
+      ],
+      "correct": 2,
+      "explanation": "Hücresiz prime kanı seyreltir; küçük kan hacmi nedeniyle pediatrik hastada etki daha büyüktür.",
+      "source": "Pediatrik devre çalışması 2018"
+    },
+    {
+      "id": "PER207-1khl6sq",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ramakrishnan 2023’teki merkez stratejisinde derin hipotermiye soğutma en az 10 dakika olarak tarif edilir.",
+      "isTrue": false,
+      "explanation": "Kaynakta derin hipotermiye soğutma en az 20 dakika olarak anlatılır. Süre bu tarihli merkez stratejisine aittir; bütün ameliyatlar için tek hedef değildir.",
+      "source": "Ramakrishnan, pediatrik KPB 2023"
+    },
+    {
+      "id": "PER207-07qg8u5",
+      "course": "PER207",
+      "topic": "Pediatrik kalp cerrahisinde KPB",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Ultrafiltrasyonun hemokonsantrasyon etkisi eritrositleri plazmadan uzaklaştırarak oluşur.",
+      "isTrue": false,
+      "explanation": "Hemokonsantrasyon suyun uzaklaştırılması ve kan hücrelerinin korunmasıyla oluşur; eritrositlerin atılmasıyla değil.",
+      "source": "Naik–Knight–Elliott, MUF 1991"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

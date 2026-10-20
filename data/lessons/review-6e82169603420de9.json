@@ -1,0 +1,1629 @@
+{
+  "id": "review-6e82169603420de9",
+  "title": "Siyanotik lezyonlar",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hiperkiyanotik nöbet",
+      "text": "Hypercyanotic (tet) spell\nFallot tetralojisinde ani ve belirgin siyanoz artışıyla gelişen atak.",
+      "images": [],
+      "card": {
+        "id": "PER241-0cyxpyv",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Hiperkiyanotik nöbet",
+        "en": "Hypercyanotic (tet) spell",
+        "definition": "Fallot tetralojisinde ani ve belirgin siyanoz artışıyla gelişen atak."
+      }
+    },
+    {
+      "title": "Çömelme",
+      "text": "Squatting\nTOF'lu çocuğun sistemik vasküler direnç'yi artırarak sağdan sola şantı azaltmak için çömelmesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-02d7mz4",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Çömelme",
+        "en": "Squatting",
+        "definition": "TOF'lu çocuğun sistemik vasküler direnç'yi artırarak sağdan sola şantı azaltmak için çömelmesi."
+      }
+    },
+    {
+      "title": "Bot şeklinde kalp",
+      "text": "Boot-shaped heart (coeur en sabot)\nTOF'ta sağ ventrikül hipertrofisi ve konkav pulmoner segmentle oluşan grafi görünümü.\nFr. sabot = takunya",
+      "images": [],
+      "card": {
+        "id": "PER241-1gygsev",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Bot şeklinde kalp",
+        "en": "Boot-shaped heart (coeur en sabot)",
+        "definition": "TOF'ta sağ ventrikül hipertrofisi ve konkav pulmoner segmentle oluşan grafi görünümü.",
+        "origin": "Fr. sabot = takunya"
+      }
+    },
+    {
+      "title": "İp üzerinde yumurta",
+      "text": "Egg-on-a-string\nD-TGA'da dar üst mediastenle oluşan grafi görünümü.",
+      "images": [],
+      "card": {
+        "id": "PER241-0utso18",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "İp üzerinde yumurta",
+        "en": "Egg-on-a-string",
+        "definition": "D-TGA'da dar üst mediastenle oluşan grafi görünümü."
+      }
+    },
+    {
+      "title": "Kardan adam görünümü",
+      "text": "Snowman sign (figure of 8)\nSuprakardiyak TAPVR'de genişlemiş vertikal ven, innominat ven ve vena kava superior'nin oluşturduğu grafi görünümü.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jxlb2p",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Kardan adam görünümü",
+        "en": "Snowman sign (figure of 8)",
+        "definition": "Suprakardiyak TAPVR'de genişlemiş vertikal ven, innominat ven ve vena kava superior'nin oluşturduğu grafi görünümü."
+      }
+    },
+    {
+      "title": "Fallot tetralojisi",
+      "text": "Tetralogy of Fallot\nVSD + sağ ventrikül çıkış yolu obstrüksiyonu + aortanın ata binmesi + sağ ventrikül hipertrofisi; en sık siyanotik KKH.\nÉ. Fallot + Yun. tetra = dört",
+      "images": [],
+      "card": {
+        "id": "PER241-13q0idz",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Fallot tetralojisi",
+        "en": "Tetralogy of Fallot",
+        "definition": "VSD + sağ ventrikül çıkış yolu obstrüksiyonu + aortanın ata binmesi + sağ ventrikül hipertrofisi; en sık siyanotik KKH.",
+        "origin": "É. Fallot + Yun. tetra = dört"
+      }
+    },
+    {
+      "title": "Pembe Fallot",
+      "text": "Pink tetralogy\nSağ ventrikül çıkış yolu darlığının hafif olduğu, siyanozu belirgin olmayan Fallot tetralojisi görünümü.",
+      "images": [],
+      "card": {
+        "id": "PER241-1q0t0i2",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "term": "Pembe Fallot",
+        "en": "Pink tetralogy",
+        "definition": "Sağ ventrikül çıkış yolu darlığının hafif olduğu, siyanozu belirgin olmayan Fallot tetralojisi görünümü."
+      }
+    },
+    {
+      "title": "D-TGA",
+      "text": "Dextro-transposition of the great arteries\nAortun sağ ventrikülden, pulmoner arterin sol ventrikülden çıktığı ventrikülo-arteriyel diskordans.\nLat. trans + positio",
+      "images": [],
+      "card": {
+        "id": "PER241-06cq8xy",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "D-TGA",
+        "en": "Dextro-transposition of the great arteries",
+        "definition": "Aortun sağ ventrikülden, pulmoner arterin sol ventrikülden çıktığı ventrikülo-arteriyel diskordans.",
+        "origin": "Lat. trans + positio"
+      }
+    },
+    {
+      "title": "ccTGA",
+      "text": "Congenitally corrected TGA\natriyoventriküler ve ventrikülo-arteriyel çift diskordans; sistemik ventrikül morfolojik sağ ventrikül.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jrfhzd",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "ccTGA",
+        "en": "Congenitally corrected TGA",
+        "definition": "atriyoventriküler ve ventrikülo-arteriyel çift diskordans; sistemik ventrikül morfolojik sağ ventrikül."
+      }
+    },
+    {
+      "title": "Persistan trunkus arteriyozus",
+      "text": "Persistent truncus arteriosus\nTek trunkal kapaklı tek arteriyel gövdenin sistemik, pulmoner ve koroner dolaşımı beslemesi + VSD.\nLat. truncus = gövde",
+      "images": [],
+      "card": {
+        "id": "PER241-0j3amdv",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "Persistan trunkus arteriyozus",
+        "en": "Persistent truncus arteriosus",
+        "definition": "Tek trunkal kapaklı tek arteriyel gövdenin sistemik, pulmoner ve koroner dolaşımı beslemesi + VSD.",
+        "origin": "Lat. truncus = gövde"
+      }
+    },
+    {
+      "title": "TAPVR",
+      "text": "Total anomalous pulmonary venous return\nTüm pulmoner venlerin sol atriyum yerine sistemik venöz dolaşıma açılması.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jd7iwu",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "TAPVR",
+        "en": "Total anomalous pulmonary venous return",
+        "definition": "Tüm pulmoner venlerin sol atriyum yerine sistemik venöz dolaşıma açılması."
+      }
+    },
+    {
+      "title": "Triküspit atrezisi",
+      "text": "Tricuspid atresia\nTriküspit kapağın yokluğu ve hipoplastik sağ ventrikül; zorunlu atriyal sağdan sola şant.\nYun. a- + tresis = deliksizlik",
+      "images": [],
+      "card": {
+        "id": "PER241-016z4q4",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Triküspit atrezisi",
+        "en": "Tricuspid atresia",
+        "definition": "Triküspit kapağın yokluğu ve hipoplastik sağ ventrikül; zorunlu atriyal sağdan sola şant.",
+        "origin": "Yun. a- + tresis = deliksizlik"
+      }
+    },
+    {
+      "title": "PA-İVS",
+      "text": "Pulmonary atresia with intact ventricular septum\nPulmoner kapağın oluşmaması, septumun sağlam olması; sağ ventrikül hipoplazisi, koroner fistüller.",
+      "images": [],
+      "card": {
+        "id": "PER241-0nlqb3v",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "PA-İVS",
+        "en": "Pulmonary atresia with intact ventricular septum",
+        "definition": "Pulmoner kapağın oluşmaması, septumun sağlam olması; sağ ventrikül hipoplazisi, koroner fistüller."
+      }
+    },
+    {
+      "title": "Ebstein anomalisi",
+      "text": "Ebstein anomaly\nTriküspit septal ve inferior yapraklarının apekse yer değiştirmesi; \"atriyalize sağ ventrikül\".\nW. Ebstein (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-13wgdxq",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Ebstein anomalisi",
+        "en": "Ebstein anomaly",
+        "definition": "Triküspit septal ve inferior yapraklarının apekse yer değiştirmesi; \"atriyalize sağ ventrikül\".",
+        "origin": "W. Ebstein (eponim)"
+      }
+    },
+    {
+      "title": "Atriyalize sağ ventrikül",
+      "text": "Atrialized right ventricle\nEbstein'da yer değiştiren kapağın üstünde kalıp atriyum gibi davranan sağ ventrikül bölümü.",
+      "images": [],
+      "card": {
+        "id": "PER241-0ufo1s3",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Atriyalize sağ ventrikül",
+        "en": "Atrialized right ventricle",
+        "definition": "Ebstein'da yer değiştiren kapağın üstünde kalıp atriyum gibi davranan sağ ventrikül bölümü."
+      }
+    },
+    {
+      "title": "DORV",
+      "text": "Double outlet right ventricle\nHer iki büyük arterin tamamen/çoğunlukla sağ ventrikülden çıkması.",
+      "images": [],
+      "card": {
+        "id": "PER241-1q77080",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "DORV",
+        "en": "Double outlet right ventricle",
+        "definition": "Her iki büyük arterin tamamen/çoğunlukla sağ ventrikülden çıkması."
+      }
+    },
+    {
+      "title": "Taussig-Bing anomalisi",
+      "text": "Taussig-Bing anomaly\nSubpulmoner VSD'li DORV; TGA benzeri fizyoloji.\nH. Taussig, R. Bing (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-019qa4d",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Taussig-Bing anomalisi",
+        "en": "Taussig-Bing anomaly",
+        "definition": "Subpulmoner VSD'li DORV; TGA benzeri fizyoloji.",
+        "origin": "H. Taussig, R. Bing (eponim)"
+      }
+    },
+    {
+      "title": "HLHS",
+      "text": "Hypoplastic left heart syndrome\nsol ventrikül, mitral/aort kapak ve çıkan aorta hipoplazisi; sistemik akım duktusa bağımlı.\nYun. hypo + plasis = az biçimlenme",
+      "images": [],
+      "card": {
+        "id": "PER241-1uhtwv0",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "HLHS",
+        "en": "Hypoplastic left heart syndrome",
+        "definition": "sol ventrikül, mitral/aort kapak ve çıkan aorta hipoplazisi; sistemik akım duktusa bağımlı.",
+        "origin": "Yun. hypo + plasis = az biçimlenme"
+      }
+    },
+    {
+      "title": "Heterotaksi",
+      "text": "Heterotaxy\nOrganların sağ-sol düzeninin bozulması; TAPVR ile (özellikle aspleni) ilişkili.\nYun. heteros = farklı + taxis = düzen",
+      "images": [],
+      "card": {
+        "id": "PER241-1nvcuhi",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Heterotaksi",
+        "en": "Heterotaxy",
+        "definition": "Organların sağ-sol düzeninin bozulması; TAPVR ile (özellikle aspleni) ilişkili.",
+        "origin": "Yun. heteros = farklı + taxis = düzen"
+      }
+    },
+    {
+      "title": "Transpozisyonda uyumsuzluk",
+      "text": "D-TGA\nVentrikül-arter bağlantıları uyumsuzdur\nSistemik ve pulmoner devreler paraleldir\n\nccTGA\natriyoventriküler ve ventrikül-arter bağlantıları uyumsuzdur\nMorfolojik sağ ventrikül sistemik çalışır",
+      "images": [],
+      "card": {
+        "id": "PER241-1sxzos3",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Transpozisyonda uyumsuzluk",
+        "left": {
+          "title": "D-TGA",
+          "points": [
+            "Ventrikül-arter bağlantıları uyumsuzdur",
+            "Sistemik ve pulmoner devreler paraleldir"
+          ]
+        },
+        "right": {
+          "title": "ccTGA",
+          "points": [
+            "atriyoventriküler ve ventrikül-arter bağlantıları uyumsuzdur",
+            "Morfolojik sağ ventrikül sistemik çalışır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Pulmoner venöz dönüş düzeyleri",
+      "text": "Suprakardiyak TAPVR\nDrenaj kalbin üstündeki venleredir\nGrafide kardan adam görünümü olabilir\n\nİnfrakardiyak TAPVR\nDrenaj diyafram altındaki venleredir\nObstrüksiyon varsa acil cerrahi gerekir",
+      "images": [],
+      "card": {
+        "id": "PER241-1bnnxh7",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Pulmoner venöz dönüş düzeyleri",
+        "left": {
+          "title": "Suprakardiyak TAPVR",
+          "points": [
+            "Drenaj kalbin üstündeki venleredir",
+            "Grafide kardan adam görünümü olabilir"
+          ]
+        },
+        "right": {
+          "title": "İnfrakardiyak TAPVR",
+          "points": [
+            "Drenaj diyafram altındaki venleredir",
+            "Obstrüksiyon varsa acil cerrahi gerekir"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Fallot'un bileşenlerini birlikte hatırla",
+      "text": "VSD, sağ ventrikül çıkış yolu darlığı, aortanın ata binmesi ve **sağ ventrikül hipertrofisi** Fallot tetralojisinin bileşenleridir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1n6njhr",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Fallot'un bileşenlerini birlikte hatırla",
+        "body": "VSD, sağ ventrikül çıkış yolu darlığı, aortanın ata binmesi ve **sağ ventrikül hipertrofisi** Fallot tetralojisinin bileşenleridir."
+      }
+    },
+    {
+      "title": "Fallot'ta siyanozu ne belirler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0yvy3zz",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Fallot'ta siyanozu ne belirler?",
+        "answer": "**Sağ ventrikül çıkış yolu obstrüksiyonunun derecesi** net şant yönünü ve siyanozun şiddetini belirler."
+      }
+    },
+    {
+      "title": "Pembe Fallot",
+      "text": "Hafif çıkış yolu obstrüksiyonunda net şant **soldan sağa** olabilir; siyanozu belirgin olmayan bu durum pembe Fallot olarak anılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-09kdehl",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Pembe Fallot",
+        "body": "Hafif çıkış yolu obstrüksiyonunda net şant **soldan sağa** olabilir; siyanozu belirgin olmayan bu durum pembe Fallot olarak anılır."
+      }
+    },
+    {
+      "title": "Tet nöbetinin tetikleyicileri",
+      "text": "Ağlama, defekasyon ve **sistemik direnci azaltan durumlar** hiperkiyanotik atağı tetikleyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-03y7u5r",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Tet nöbetinin tetikleyicileri",
+        "body": "Ağlama, defekasyon ve **sistemik direnci azaltan durumlar** hiperkiyanotik atağı tetikleyebilir."
+      }
+    },
+    {
+      "title": "Tet nöbetinde pozisyon",
+      "text": "**Diz-göğüs pozisyonu** sistemik direnç artışıyla sağdan sola şantın azaltılmasına yardım eder.",
+      "images": [],
+      "card": {
+        "id": "PER241-0ykopdy",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Tet nöbetinde pozisyon",
+        "body": "**Diz-göğüs pozisyonu** sistemik direnç artışıyla sağdan sola şantın azaltılmasına yardım eder."
+      }
+    },
+    {
+      "title": "Transanüler yamadan sonraki sorun",
+      "text": "Fallot onarımında transanüler yama sonrası önemli uzun dönem sorun **pulmoner kapak yetersizliğidir**.",
+      "images": [],
+      "card": {
+        "id": "PER241-1h52vag",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Transanüler yamadan sonraki sorun",
+        "body": "Fallot onarımında transanüler yama sonrası önemli uzun dönem sorun **pulmoner kapak yetersizliğidir**."
+      }
+    },
+    {
+      "title": "TGA'da yaşam için gerekli iletişim",
+      "text": "ASD/PFO, VSD veya PDA yoluyla **sistemik ve pulmoner kanın karışması** gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1fk8d2p",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "TGA'da yaşam için gerekli iletişim",
+        "body": "ASD/PFO, VSD veya PDA yoluyla **sistemik ve pulmoner kanın karışması** gerekir."
+      }
+    },
+    {
+      "title": "Restriktif atriyal septumda girişim",
+      "text": "TGA'da yetersiz atriyal karışım varsa **balon atriyal septostomi** iletişimi genişletmek için kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0527l6n",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Restriktif atriyal septumda girişim",
+        "body": "TGA'da yetersiz atriyal karışım varsa **balon atriyal septostomi** iletişimi genişletmek için kullanılabilir."
+      }
+    },
+    {
+      "title": "Trunkus onarımında iki temel adım",
+      "text": "VSD'nin kapatılmasıyla sol ventrikül trunkal kapağa yönlendirilir; **sağ ventrikül–pulmoner arter kondüiti** eklenir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1bymp4v",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Trunkus onarımında iki temel adım",
+        "body": "VSD'nin kapatılmasıyla sol ventrikül trunkal kapağa yönlendirilir; **sağ ventrikül–pulmoner arter kondüiti** eklenir."
+      }
+    },
+    {
+      "title": "TAPVR'de sol kalp nasıl dolar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1uvh00x",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "TAPVR'de sol kalp nasıl dolar?",
+        "answer": "Sistemik venöz dolaşıma dönen pulmoner kanın sol kalbe geçmesi **atriyal iletişim** gerektirir."
+      }
+    },
+    {
+      "title": "Obstrüktif TAPVR",
+      "text": "Pulmoner venöz drenajın tıkanması **pulmoner ödem ve ağır siyanoza** yol açar; acil cerrahi değerlendirme gerektiren tablodur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0vleanx",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "Obstrüktif TAPVR",
+        "body": "Pulmoner venöz drenajın tıkanması **pulmoner ödem ve ağır siyanoza** yol açar; acil cerrahi değerlendirme gerektiren tablodur."
+      }
+    },
+    {
+      "title": "Triküspit atrezisinin EKG ipucu",
+      "text": "Siyanotik bebekte **sol aks deviasyonu** ve sol ventrikül hipertrofisi triküspit atrezisini düşündürür.",
+      "images": [],
+      "card": {
+        "id": "PER241-1o4tipe",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Triküspit atrezisinin EKG ipucu",
+        "body": "Siyanotik bebekte **sol aks deviasyonu** ve sol ventrikül hipertrofisi triküspit atrezisini düşündürür."
+      }
+    },
+    {
+      "title": "PA-İVS'de hangi koroner dolaşım riski değerlendirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1juktno",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "PA-İVS'de hangi koroner dolaşım riski değerlendirilir?",
+        "answer": "Hipoplastik sağ ventrikülün koroner arterlerle fistül bağlantıları olabilir; **sağ ventrikül-bağımlı koroner dolaşım riski** değerlendirilir."
+      }
+    },
+    {
+      "title": "Ebstein'da küçük fonksiyonel ventrikül",
+      "text": "Triküspit yapraklarının apikal yer değiştirmesiyle sağ ventrikülün bir bölümü **atriyalize olur**; fonksiyonel ventrikül hacmi azalır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1y66ri8",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Ebstein'da küçük fonksiyonel ventrikül",
+        "body": "Triküspit yapraklarının apikal yer değiştirmesiyle sağ ventrikülün bir bölümü **atriyalize olur**; fonksiyonel ventrikül hacmi azalır."
+      }
+    },
+    {
+      "title": "DORV'de fizyolojiyi ne belirler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-02336hp",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "DORV'de fizyolojiyi ne belirler?",
+        "answer": "**VSD'nin büyük arterlere göre konumu** ve eşlik eden çıkış yolu darlığı belirler."
+      }
+    },
+    {
+      "title": "Subaortik DORV onarımının amacı",
+      "text": "Sol ventrikül çıkışı, VSD üzerinden **aortaya yönlendirilerek** uygun anatomi varsa tam onarım yapılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1sv0lc0",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Subaortik DORV onarımının amacı",
+        "body": "Sol ventrikül çıkışı, VSD üzerinden **aortaya yönlendirilerek** uygun anatomi varsa tam onarım yapılır."
+      }
+    },
+    {
+      "title": "ccTGA'da uzun dönem yük",
+      "text": "Dolaşım fizyolojik olarak düzeltilmiş olsa da **morfolojik sağ ventrikül sistemik yükü** taşır; disfonksiyon ve atriyoventriküler blok riski vardır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jdy6vj",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "ccTGA'da uzun dönem yük",
+        "body": "Dolaşım fizyolojik olarak düzeltilmiş olsa da **morfolojik sağ ventrikül sistemik yükü** taşır; disfonksiyon ve atriyoventriküler blok riski vardır."
+      }
+    },
+    {
+      "title": "HLHS'de fazla pulmoner akım",
+      "text": "Oksijenle pulmoner direnç fazla düşerse **pulmoner aşırı akım**, sistemik akımdan pay alabilir; dolaşım dengesi önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0sav4dd",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "HLHS'de fazla pulmoner akım",
+        "body": "Oksijenle pulmoner direnç fazla düşerse **pulmoner aşırı akım**, sistemik akımdan pay alabilir; dolaşım dengesi önemlidir."
+      }
+    },
+    {
+      "title": "HLHS'de satürasyon dengesi",
+      "text": "Merck'in HLHS yaklaşımında hedef sistemik satürasyon **%70–80** olarak verilir; aşırı pulmoner akımla sistemik hipoperfüzyondan kaçınma bağlamındadır.",
+      "images": [],
+      "card": {
+        "id": "PER241-16oit5a",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "HLHS'de satürasyon dengesi",
+        "body": "Merck'in HLHS yaklaşımında hedef sistemik satürasyon **%70–80** olarak verilir; aşırı pulmoner akımla sistemik hipoperfüzyondan kaçınma bağlamındadır."
+      }
+    },
+    {
+      "title": "Tet nöbetinde çömelme hangi fizyolojik etkiyi sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0relk72",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Tet nöbetinde çömelme hangi fizyolojik etkiyi sağlar?",
+        "options": [
+          "Sistemik direnci artırır",
+          "Sistemik direnci azaltır",
+          "Pulmoner venöz dönüşü keser",
+          "Koroner ostiumları kapatır"
+        ],
+        "correct": 0,
+        "explanation": "Sistemik direnç artışı sağdan sola şantı azaltıp oksijenasyonu iyileştirebilir."
+      }
+    },
+    {
+      "title": "Tek trunkal kapak ve geniş VSD ile hangi lezyon tanımlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1esrw4b",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Tek trunkal kapak ve geniş VSD ile hangi lezyon tanımlanır?",
+        "options": [
+          "Aortopulmoner pencere",
+          "Persistan trunkus arteriyozus",
+          "Patent duktus arteriyozus",
+          "Sekundum ASD"
+        ],
+        "correct": 1,
+        "explanation": "Trunkusta sistemik, pulmoner ve koroner akım tek arteriyel gövdeden çıkar."
+      }
+    },
+    {
+      "title": "Tüm pulmoner venlerin sistemik venöz dolaşıma döndüğü lezyon hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1aeacr3",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Tüm pulmoner venlerin sistemik venöz dolaşıma döndüğü lezyon hangisidir?",
+        "options": [
+          "PAPVR",
+          "ALCAPA",
+          "TAPVR",
+          "AAOCA"
+        ],
+        "correct": 2,
+        "explanation": "Total anormal pulmoner venöz dönüşte hiçbir pulmoner ven normal sol atriyal bağlantıyı sağlamaz."
+      }
+    },
+    {
+      "title": "Triküspit atrezisinde sağ atriyumdan kanın çıkışı için hangi bağlantı gereklidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-12gqm3j",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Triküspit atrezisinde sağ atriyumdan kanın çıkışı için hangi bağlantı gereklidir?",
+        "options": [
+          "Aortopulmoner pencere",
+          "Koroner arter fistülü",
+          "Ventriküler soldan sağa şant",
+          "Atriyal sağdan sola şant"
+        ],
+        "correct": 3,
+        "explanation": "Triküspit giriş kapalı olduğu için kan atriyal düzeyde sol tarafa geçmek zorundadır."
+      }
+    },
+    {
+      "title": "Ebstein anomalisiyle ilişkili maternal ilaç maruziyeti hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1j5dgl6",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Ebstein anomalisiyle ilişkili maternal ilaç maruziyeti hangisidir?",
+        "options": [
+          "Lityum",
+          "İbuprofen",
+          "İnsülin",
+          "Penisilin"
+        ],
+        "correct": 0,
+        "explanation": "Maternal lityum maruziyeti Ebstein anomalisiyle ilişkilidir."
+      }
+    },
+    {
+      "title": "Ebstein anomalisiyle sık birliktelik gösteren ileti tablosu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0fk7xni",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Ebstein anomalisiyle sık birliktelik gösteren ileti tablosu hangisidir?",
+        "options": [
+          "İzole sol dal bloğu",
+          "Wolff-Parkinson-White",
+          "Sinüs arresti",
+          "Uzun QT sendromu"
+        ],
+        "correct": 1,
+        "explanation": "Aksesuar ileti yollarıyla ilişkili WPW, Ebstein anomalisiyle birliktelik gösterebilir."
+      }
+    },
+    {
+      "title": "Taussig-Bing anomalisi hangi VSD yerleşimiyle tanımlanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0lujx4t",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Taussig-Bing anomalisi hangi VSD yerleşimiyle tanımlanır?",
+        "options": [
+          "Subaortik VSD",
+          "Uzak VSD",
+          "Subpulmoner VSD",
+          "İzole inlet VSD"
+        ],
+        "correct": 2,
+        "explanation": "Subpulmoner VSD'li çift çıkışlı sağ ventrikül TGA benzeri fizyoloji oluşturur."
+      }
+    },
+    {
+      "title": "ccTGA'da sistemik ventrikülün morfolojisi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1i9zr7m",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "ccTGA'da sistemik ventrikülün morfolojisi hangisidir?",
+        "options": [
+          "Morfolojik sol ventrikül",
+          "Primitif atriyum",
+          "Hipoplastik pulmoner ventrikül",
+          "Morfolojik sağ ventrikül"
+        ],
+        "correct": 3,
+        "explanation": "Çift diskordans fizyolojik seri akım sağlasa da sistemik yük sağ ventriküldedir."
+      }
+    },
+    {
+      "title": "HLHS'nin anatomik parçası hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1mjg69j",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "HLHS'nin anatomik parçası hangisidir?",
+        "options": [
+          "Sol ventrikül ve çıkan aorta hipoplazisi",
+          "Sağ atriyumun izole yokluğu",
+          "İzole pulmoner ven fistülü",
+          "Tek başına sağ aortik ark"
+        ],
+        "correct": 0,
+        "explanation": "HLHS sol kalp yapılarının gelişim yetersizliğidir."
+      }
+    },
+    {
+      "title": "Bot şeklindeki kalp grafisi hangi lezyonla ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0ar57mw",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "question": "Bot şeklindeki kalp grafisi hangi lezyonla ilişkilidir?",
+        "options": [
+          "D-TGA",
+          "Fallot tetralojisi",
+          "Suprakardiyak TAPVR",
+          "Aort koarktasyonu"
+        ],
+        "correct": 1,
+        "explanation": "Sağ ventrikül hipertrofisi ve konkav pulmoner segment bot görünümünü oluşturur."
+      }
+    },
+    {
+      "title": "D-TGA'da aorta morfolojik sol ventrikülden çıkar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-131fmzx",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "D-TGA'da aorta morfolojik sol ventrikülden çıkar.",
+        "isTrue": false,
+        "explanation": "D-TGA'da aorta sağ ventrikülden, pulmoner arter sol ventrikülden çıkar."
+      }
+    },
+    {
+      "title": "Çift çıkışlı sağ ventrikülde her iki büyük arter tamamen veya ağırlıkla sağ ventrikülden çıkar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1fdi3ol",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Çift çıkışlı sağ ventrikülde her iki büyük arter tamamen veya ağırlıkla sağ ventrikülden çıkar.",
+        "isTrue": true,
+        "explanation": "DORV'nin anatomik tanımı büyük arterlerin sağ ventrikül kökenidir."
+      }
+    },
+    {
+      "title": "Kardan adam grafi görünümü tipik olarak infrakardiyak TAPVR ile ilişkilidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1y3cx83",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Kardan adam grafi görünümü tipik olarak infrakardiyak TAPVR ile ilişkilidir.",
+        "isTrue": false,
+        "explanation": "Kardan adam görünümü suprakardiyak TAPVR ile ilişkilidir."
+      }
+    },
+    {
+      "title": "Ebstein anomalisi triküspit kapağın yapraklarında apikal yer değişikliğiyle ilişkilidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0ntsagw",
+        "course": "PER241",
+        "topic": "Siyanotik lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Ebstein anomalisi triküspit kapağın yapraklarında apikal yer değişikliğiyle ilişkilidir.",
+        "isTrue": true,
+        "explanation": "Özellikle septal ve inferior yaprakların aşağı yer değiştirmesi atriyalize sağ ventrikül oluşturur."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-0cyxpyv",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Hiperkiyanotik nöbet",
+      "en": "Hypercyanotic (tet) spell",
+      "definition": "Fallot tetralojisinde ani ve belirgin siyanoz artışıyla gelişen atak."
+    },
+    {
+      "id": "PER241-02d7mz4",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Çömelme",
+      "en": "Squatting",
+      "definition": "TOF'lu çocuğun sistemik vasküler direnç'yi artırarak sağdan sola şantı azaltmak için çömelmesi."
+    },
+    {
+      "id": "PER241-1gygsev",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Bot şeklinde kalp",
+      "en": "Boot-shaped heart (coeur en sabot)",
+      "definition": "TOF'ta sağ ventrikül hipertrofisi ve konkav pulmoner segmentle oluşan grafi görünümü.",
+      "origin": "Fr. sabot = takunya"
+    },
+    {
+      "id": "PER241-0utso18",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "İp üzerinde yumurta",
+      "en": "Egg-on-a-string",
+      "definition": "D-TGA'da dar üst mediastenle oluşan grafi görünümü."
+    },
+    {
+      "id": "PER241-0jxlb2p",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Kardan adam görünümü",
+      "en": "Snowman sign (figure of 8)",
+      "definition": "Suprakardiyak TAPVR'de genişlemiş vertikal ven, innominat ven ve vena kava superior'nin oluşturduğu grafi görünümü."
+    },
+    {
+      "id": "PER241-13q0idz",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Fallot tetralojisi",
+      "en": "Tetralogy of Fallot",
+      "definition": "VSD + sağ ventrikül çıkış yolu obstrüksiyonu + aortanın ata binmesi + sağ ventrikül hipertrofisi; en sık siyanotik KKH.",
+      "origin": "É. Fallot + Yun. tetra = dört"
+    },
+    {
+      "id": "PER241-1q0t0i2",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "term": "Pembe Fallot",
+      "en": "Pink tetralogy",
+      "definition": "Sağ ventrikül çıkış yolu darlığının hafif olduğu, siyanozu belirgin olmayan Fallot tetralojisi görünümü."
+    },
+    {
+      "id": "PER241-06cq8xy",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "D-TGA",
+      "en": "Dextro-transposition of the great arteries",
+      "definition": "Aortun sağ ventrikülden, pulmoner arterin sol ventrikülden çıktığı ventrikülo-arteriyel diskordans.",
+      "origin": "Lat. trans + positio"
+    },
+    {
+      "id": "PER241-0jrfhzd",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "ccTGA",
+      "en": "Congenitally corrected TGA",
+      "definition": "atriyoventriküler ve ventrikülo-arteriyel çift diskordans; sistemik ventrikül morfolojik sağ ventrikül."
+    },
+    {
+      "id": "PER241-0j3amdv",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "Persistan trunkus arteriyozus",
+      "en": "Persistent truncus arteriosus",
+      "definition": "Tek trunkal kapaklı tek arteriyel gövdenin sistemik, pulmoner ve koroner dolaşımı beslemesi + VSD.",
+      "origin": "Lat. truncus = gövde"
+    },
+    {
+      "id": "PER241-0jd7iwu",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "TAPVR",
+      "en": "Total anomalous pulmonary venous return",
+      "definition": "Tüm pulmoner venlerin sol atriyum yerine sistemik venöz dolaşıma açılması."
+    },
+    {
+      "id": "PER241-016z4q4",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Triküspit atrezisi",
+      "en": "Tricuspid atresia",
+      "definition": "Triküspit kapağın yokluğu ve hipoplastik sağ ventrikül; zorunlu atriyal sağdan sola şant.",
+      "origin": "Yun. a- + tresis = deliksizlik"
+    },
+    {
+      "id": "PER241-0nlqb3v",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "PA-İVS",
+      "en": "Pulmonary atresia with intact ventricular septum",
+      "definition": "Pulmoner kapağın oluşmaması, septumun sağlam olması; sağ ventrikül hipoplazisi, koroner fistüller."
+    },
+    {
+      "id": "PER241-13wgdxq",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Ebstein anomalisi",
+      "en": "Ebstein anomaly",
+      "definition": "Triküspit septal ve inferior yapraklarının apekse yer değiştirmesi; \"atriyalize sağ ventrikül\".",
+      "origin": "W. Ebstein (eponim)"
+    },
+    {
+      "id": "PER241-0ufo1s3",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Atriyalize sağ ventrikül",
+      "en": "Atrialized right ventricle",
+      "definition": "Ebstein'da yer değiştiren kapağın üstünde kalıp atriyum gibi davranan sağ ventrikül bölümü."
+    },
+    {
+      "id": "PER241-1q77080",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "DORV",
+      "en": "Double outlet right ventricle",
+      "definition": "Her iki büyük arterin tamamen/çoğunlukla sağ ventrikülden çıkması."
+    },
+    {
+      "id": "PER241-019qa4d",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Taussig-Bing anomalisi",
+      "en": "Taussig-Bing anomaly",
+      "definition": "Subpulmoner VSD'li DORV; TGA benzeri fizyoloji.",
+      "origin": "H. Taussig, R. Bing (eponim)"
+    },
+    {
+      "id": "PER241-1uhtwv0",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "HLHS",
+      "en": "Hypoplastic left heart syndrome",
+      "definition": "sol ventrikül, mitral/aort kapak ve çıkan aorta hipoplazisi; sistemik akım duktusa bağımlı.",
+      "origin": "Yun. hypo + plasis = az biçimlenme"
+    },
+    {
+      "id": "PER241-1nvcuhi",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Heterotaksi",
+      "en": "Heterotaxy",
+      "definition": "Organların sağ-sol düzeninin bozulması; TAPVR ile (özellikle aspleni) ilişkili.",
+      "origin": "Yun. heteros = farklı + taxis = düzen"
+    },
+    {
+      "id": "PER241-1sxzos3",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Transpozisyonda uyumsuzluk",
+      "left": {
+        "title": "D-TGA",
+        "points": [
+          "Ventrikül-arter bağlantıları uyumsuzdur",
+          "Sistemik ve pulmoner devreler paraleldir"
+        ]
+      },
+      "right": {
+        "title": "ccTGA",
+        "points": [
+          "atriyoventriküler ve ventrikül-arter bağlantıları uyumsuzdur",
+          "Morfolojik sağ ventrikül sistemik çalışır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1bnnxh7",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pulmoner venöz dönüş düzeyleri",
+      "left": {
+        "title": "Suprakardiyak TAPVR",
+        "points": [
+          "Drenaj kalbin üstündeki venleredir",
+          "Grafide kardan adam görünümü olabilir"
+        ]
+      },
+      "right": {
+        "title": "İnfrakardiyak TAPVR",
+        "points": [
+          "Drenaj diyafram altındaki venleredir",
+          "Obstrüksiyon varsa acil cerrahi gerekir"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1n6njhr",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Fallot'un bileşenlerini birlikte hatırla",
+      "body": "VSD, sağ ventrikül çıkış yolu darlığı, aortanın ata binmesi ve **sağ ventrikül hipertrofisi** Fallot tetralojisinin bileşenleridir."
+    },
+    {
+      "id": "PER241-0yvy3zz",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Fallot'ta siyanozu ne belirler?",
+      "answer": "**Sağ ventrikül çıkış yolu obstrüksiyonunun derecesi** net şant yönünü ve siyanozun şiddetini belirler."
+    },
+    {
+      "id": "PER241-09kdehl",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Pembe Fallot",
+      "body": "Hafif çıkış yolu obstrüksiyonunda net şant **soldan sağa** olabilir; siyanozu belirgin olmayan bu durum pembe Fallot olarak anılır."
+    },
+    {
+      "id": "PER241-03y7u5r",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Tet nöbetinin tetikleyicileri",
+      "body": "Ağlama, defekasyon ve **sistemik direnci azaltan durumlar** hiperkiyanotik atağı tetikleyebilir."
+    },
+    {
+      "id": "PER241-0ykopdy",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Tet nöbetinde pozisyon",
+      "body": "**Diz-göğüs pozisyonu** sistemik direnç artışıyla sağdan sola şantın azaltılmasına yardım eder."
+    },
+    {
+      "id": "PER241-1h52vag",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Transanüler yamadan sonraki sorun",
+      "body": "Fallot onarımında transanüler yama sonrası önemli uzun dönem sorun **pulmoner kapak yetersizliğidir**."
+    },
+    {
+      "id": "PER241-1fk8d2p",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "TGA'da yaşam için gerekli iletişim",
+      "body": "ASD/PFO, VSD veya PDA yoluyla **sistemik ve pulmoner kanın karışması** gerekir."
+    },
+    {
+      "id": "PER241-0527l6n",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Restriktif atriyal septumda girişim",
+      "body": "TGA'da yetersiz atriyal karışım varsa **balon atriyal septostomi** iletişimi genişletmek için kullanılabilir."
+    },
+    {
+      "id": "PER241-1bymp4v",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Trunkus onarımında iki temel adım",
+      "body": "VSD'nin kapatılmasıyla sol ventrikül trunkal kapağa yönlendirilir; **sağ ventrikül–pulmoner arter kondüiti** eklenir."
+    },
+    {
+      "id": "PER241-1uvh00x",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "TAPVR'de sol kalp nasıl dolar?",
+      "answer": "Sistemik venöz dolaşıma dönen pulmoner kanın sol kalbe geçmesi **atriyal iletişim** gerektirir."
+    },
+    {
+      "id": "PER241-0vleanx",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "Obstrüktif TAPVR",
+      "body": "Pulmoner venöz drenajın tıkanması **pulmoner ödem ve ağır siyanoza** yol açar; acil cerrahi değerlendirme gerektiren tablodur."
+    },
+    {
+      "id": "PER241-1o4tipe",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Triküspit atrezisinin EKG ipucu",
+      "body": "Siyanotik bebekte **sol aks deviasyonu** ve sol ventrikül hipertrofisi triküspit atrezisini düşündürür."
+    },
+    {
+      "id": "PER241-1juktno",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "PA-İVS'de hangi koroner dolaşım riski değerlendirilir?",
+      "answer": "Hipoplastik sağ ventrikülün koroner arterlerle fistül bağlantıları olabilir; **sağ ventrikül-bağımlı koroner dolaşım riski** değerlendirilir."
+    },
+    {
+      "id": "PER241-1y66ri8",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Ebstein'da küçük fonksiyonel ventrikül",
+      "body": "Triküspit yapraklarının apikal yer değiştirmesiyle sağ ventrikülün bir bölümü **atriyalize olur**; fonksiyonel ventrikül hacmi azalır."
+    },
+    {
+      "id": "PER241-02336hp",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "DORV'de fizyolojiyi ne belirler?",
+      "answer": "**VSD'nin büyük arterlere göre konumu** ve eşlik eden çıkış yolu darlığı belirler."
+    },
+    {
+      "id": "PER241-1sv0lc0",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Subaortik DORV onarımının amacı",
+      "body": "Sol ventrikül çıkışı, VSD üzerinden **aortaya yönlendirilerek** uygun anatomi varsa tam onarım yapılır."
+    },
+    {
+      "id": "PER241-0jdy6vj",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "ccTGA'da uzun dönem yük",
+      "body": "Dolaşım fizyolojik olarak düzeltilmiş olsa da **morfolojik sağ ventrikül sistemik yükü** taşır; disfonksiyon ve atriyoventriküler blok riski vardır."
+    },
+    {
+      "id": "PER241-0sav4dd",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "HLHS'de fazla pulmoner akım",
+      "body": "Oksijenle pulmoner direnç fazla düşerse **pulmoner aşırı akım**, sistemik akımdan pay alabilir; dolaşım dengesi önemlidir."
+    },
+    {
+      "id": "PER241-16oit5a",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "HLHS'de satürasyon dengesi",
+      "body": "Merck'in HLHS yaklaşımında hedef sistemik satürasyon **%70–80** olarak verilir; aşırı pulmoner akımla sistemik hipoperfüzyondan kaçınma bağlamındadır."
+    },
+    {
+      "id": "PER241-0relk72",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Tet nöbetinde çömelme hangi fizyolojik etkiyi sağlar?",
+      "options": [
+        "Sistemik direnci artırır",
+        "Sistemik direnci azaltır",
+        "Pulmoner venöz dönüşü keser",
+        "Koroner ostiumları kapatır"
+      ],
+      "correct": 0,
+      "explanation": "Sistemik direnç artışı sağdan sola şantı azaltıp oksijenasyonu iyileştirebilir."
+    },
+    {
+      "id": "PER241-1esrw4b",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Tek trunkal kapak ve geniş VSD ile hangi lezyon tanımlanır?",
+      "options": [
+        "Aortopulmoner pencere",
+        "Persistan trunkus arteriyozus",
+        "Patent duktus arteriyozus",
+        "Sekundum ASD"
+      ],
+      "correct": 1,
+      "explanation": "Trunkusta sistemik, pulmoner ve koroner akım tek arteriyel gövdeden çıkar."
+    },
+    {
+      "id": "PER241-1aeacr3",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Tüm pulmoner venlerin sistemik venöz dolaşıma döndüğü lezyon hangisidir?",
+      "options": [
+        "PAPVR",
+        "ALCAPA",
+        "TAPVR",
+        "AAOCA"
+      ],
+      "correct": 2,
+      "explanation": "Total anormal pulmoner venöz dönüşte hiçbir pulmoner ven normal sol atriyal bağlantıyı sağlamaz."
+    },
+    {
+      "id": "PER241-12gqm3j",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Triküspit atrezisinde sağ atriyumdan kanın çıkışı için hangi bağlantı gereklidir?",
+      "options": [
+        "Aortopulmoner pencere",
+        "Koroner arter fistülü",
+        "Ventriküler soldan sağa şant",
+        "Atriyal sağdan sola şant"
+      ],
+      "correct": 3,
+      "explanation": "Triküspit giriş kapalı olduğu için kan atriyal düzeyde sol tarafa geçmek zorundadır."
+    },
+    {
+      "id": "PER241-1j5dgl6",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Ebstein anomalisiyle ilişkili maternal ilaç maruziyeti hangisidir?",
+      "options": [
+        "Lityum",
+        "İbuprofen",
+        "İnsülin",
+        "Penisilin"
+      ],
+      "correct": 0,
+      "explanation": "Maternal lityum maruziyeti Ebstein anomalisiyle ilişkilidir."
+    },
+    {
+      "id": "PER241-0fk7xni",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Ebstein anomalisiyle sık birliktelik gösteren ileti tablosu hangisidir?",
+      "options": [
+        "İzole sol dal bloğu",
+        "Wolff-Parkinson-White",
+        "Sinüs arresti",
+        "Uzun QT sendromu"
+      ],
+      "correct": 1,
+      "explanation": "Aksesuar ileti yollarıyla ilişkili WPW, Ebstein anomalisiyle birliktelik gösterebilir."
+    },
+    {
+      "id": "PER241-0lujx4t",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Taussig-Bing anomalisi hangi VSD yerleşimiyle tanımlanır?",
+      "options": [
+        "Subaortik VSD",
+        "Uzak VSD",
+        "Subpulmoner VSD",
+        "İzole inlet VSD"
+      ],
+      "correct": 2,
+      "explanation": "Subpulmoner VSD'li çift çıkışlı sağ ventrikül TGA benzeri fizyoloji oluşturur."
+    },
+    {
+      "id": "PER241-1i9zr7m",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "ccTGA'da sistemik ventrikülün morfolojisi hangisidir?",
+      "options": [
+        "Morfolojik sol ventrikül",
+        "Primitif atriyum",
+        "Hipoplastik pulmoner ventrikül",
+        "Morfolojik sağ ventrikül"
+      ],
+      "correct": 3,
+      "explanation": "Çift diskordans fizyolojik seri akım sağlasa da sistemik yük sağ ventriküldedir."
+    },
+    {
+      "id": "PER241-1mjg69j",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "HLHS'nin anatomik parçası hangisidir?",
+      "options": [
+        "Sol ventrikül ve çıkan aorta hipoplazisi",
+        "Sağ atriyumun izole yokluğu",
+        "İzole pulmoner ven fistülü",
+        "Tek başına sağ aortik ark"
+      ],
+      "correct": 0,
+      "explanation": "HLHS sol kalp yapılarının gelişim yetersizliğidir."
+    },
+    {
+      "id": "PER241-0ar57mw",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "question": "Bot şeklindeki kalp grafisi hangi lezyonla ilişkilidir?",
+      "options": [
+        "D-TGA",
+        "Fallot tetralojisi",
+        "Suprakardiyak TAPVR",
+        "Aort koarktasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Sağ ventrikül hipertrofisi ve konkav pulmoner segment bot görünümünü oluşturur."
+    },
+    {
+      "id": "PER241-131fmzx",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "D-TGA'da aorta morfolojik sol ventrikülden çıkar.",
+      "isTrue": false,
+      "explanation": "D-TGA'da aorta sağ ventrikülden, pulmoner arter sol ventrikülden çıkar."
+    },
+    {
+      "id": "PER241-1fdi3ol",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Çift çıkışlı sağ ventrikülde her iki büyük arter tamamen veya ağırlıkla sağ ventrikülden çıkar.",
+      "isTrue": true,
+      "explanation": "DORV'nin anatomik tanımı büyük arterlerin sağ ventrikül kökenidir."
+    },
+    {
+      "id": "PER241-1y3cx83",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Kardan adam grafi görünümü tipik olarak infrakardiyak TAPVR ile ilişkilidir.",
+      "isTrue": false,
+      "explanation": "Kardan adam görünümü suprakardiyak TAPVR ile ilişkilidir."
+    },
+    {
+      "id": "PER241-0ntsagw",
+      "course": "PER241",
+      "topic": "Siyanotik lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Ebstein anomalisi triküspit kapağın yapraklarında apikal yer değişikliğiyle ilişkilidir.",
+      "isTrue": true,
+      "explanation": "Özellikle septal ve inferior yaprakların aşağı yer değiştirmesi atriyalize sağ ventrikül oluşturur."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

@@ -1,0 +1,1219 @@
+{
+  "id": "review-e2b7cf1de9ab817e",
+  "title": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "CUF",
+      "text": "Conventional ultrafiltration\nKPB sırasında hemokonsantratörle sıvı uzaklaştırma; rezervuar minimum hacmiyle sınırlı.",
+      "images": [],
+      "card": {
+        "id": "PER241-1cl44a5",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "term": "CUF",
+        "en": "Conventional ultrafiltration",
+        "definition": "KPB sırasında hemokonsantratörle sıvı uzaklaştırma; rezervuar minimum hacmiyle sınırlı."
+      }
+    },
+    {
+      "title": "MUF",
+      "text": "Modified ultrafiltration\nKardiyopulmoner bypass sonlandıktan sonra, protamin verilmeden önce uygulanan ultrafiltrasyon yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER241-1puaadr",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 3,
+        "source": "Naik ve ark. 1991",
+        "term": "MUF",
+        "en": "Modified ultrafiltration",
+        "definition": "Kardiyopulmoner bypass sonlandıktan sonra, protamin verilmeden önce uygulanan ultrafiltrasyon yöntemi."
+      }
+    },
+    {
+      "title": "Z-BUF",
+      "text": "Zero-balance ultrafiltration\nKPB'de ultrafiltrat kadar kristaloid ekleyerek volüm nötr şekilde mediatör uzaklaştırma.",
+      "images": [],
+      "card": {
+        "id": "PER241-1ioi57t",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Journois ve ark. 1996",
+        "term": "Z-BUF",
+        "en": "Zero-balance ultrafiltration",
+        "definition": "KPB'de ultrafiltrat kadar kristaloid ekleyerek volüm nötr şekilde mediatör uzaklaştırma."
+      }
+    },
+    {
+      "title": "Hemokonsantratör",
+      "text": "Hemoconcentrator\nUltrafiltrasyon için yarı geçirgen membranlı filtre.",
+      "images": [],
+      "card": {
+        "id": "PER241-1yhpwa3",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Hendrix ve ark. 2021",
+        "term": "Hemokonsantratör",
+        "en": "Hemoconcentrator",
+        "definition": "Ultrafiltrasyon için yarı geçirgen membranlı filtre."
+      }
+    },
+    {
+      "title": "Kardiyopleji",
+      "text": "Cardioplegia\nKalbi diyastolde durdurup iskemiye karşı koruyan solüsyon.\nYun. kardia + plege = darbe/felç",
+      "images": [],
+      "card": {
+        "id": "PER241-093uw2s",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 3,
+        "source": "Matte ve del Nido 2012",
+        "term": "Kardiyopleji",
+        "en": "Cardioplegia",
+        "definition": "Kalbi diyastolde durdurup iskemiye karşı koruyan solüsyon.",
+        "origin": "Yun. kardia + plege = darbe/felç"
+      }
+    },
+    {
+      "title": "del Nido kardiyoplejisi",
+      "text": "del Nido cardioplegia\nKan ile kristaloidi **1:4** oranında birleştiren; lidokain, magnezyum, mannitol, bikarbonat ve potasyum içeren kardiyopleji.\nP. del Nido (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-12fu63n",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 1,
+        "source": "Matte ve del Nido 2012",
+        "term": "del Nido kardiyoplejisi",
+        "en": "del Nido cardioplegia",
+        "definition": "Kan ile kristaloidi **1:4** oranında birleştiren; lidokain, magnezyum, mannitol, bikarbonat ve potasyum içeren kardiyopleji.",
+        "origin": "P. del Nido (eponim)"
+      }
+    },
+    {
+      "title": "HTK",
+      "text": "Histidine-tryptophan-ketoglutarate\nDüşük Na'lı, histidin tamponlu, hiperpolarize arrest yapan kristaloid kardiyopleji.",
+      "images": [],
+      "card": {
+        "id": "PER241-19n082q",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Ghiragosian ve ark. 2022",
+        "term": "HTK",
+        "en": "Histidine-tryptophan-ketoglutarate",
+        "definition": "Düşük Na'lı, histidin tamponlu, hiperpolarize arrest yapan kristaloid kardiyopleji."
+      }
+    },
+    {
+      "title": "Depolarize arrest",
+      "text": "Depolarized arrest\nYüksek K ile membranın depolarize tutularak kalbin durdurulması (del Nido, kan kardiyoplejisi).",
+      "images": [],
+      "card": {
+        "id": "PER241-14ggd4d",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Matte ve del Nido 2012",
+        "term": "Depolarize arrest",
+        "en": "Depolarized arrest",
+        "definition": "Yüksek K ile membranın depolarize tutularak kalbin durdurulması (del Nido, kan kardiyoplejisi)."
+      }
+    },
+    {
+      "title": "Hiperpolarize arrest",
+      "text": "Hyperpolarized arrest\nEkstraselüler Na deplesyonu ile hızlı depolarizasyon fazının engellenmesi (HTK).",
+      "images": [],
+      "card": {
+        "id": "PER241-0in5e74",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Ghiragosian ve ark. 2022",
+        "term": "Hiperpolarize arrest",
+        "en": "Hyperpolarized arrest",
+        "definition": "Ekstraselüler Na deplesyonu ile hızlı depolarizasyon fazının engellenmesi (HTK)."
+      }
+    },
+    {
+      "title": "Heparin",
+      "text": "Heparin\nAntitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandıran antikoagülan.\nYun. hepar = karaciğer",
+      "images": [],
+      "card": {
+        "id": "PER241-1uvofvq",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "Heparin",
+        "en": "Heparin",
+        "definition": "Antitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandıran antikoagülan.",
+        "origin": "Yun. hepar = karaciğer"
+      }
+    },
+    {
+      "title": "Antitrombin",
+      "text": "Antithrombin\nHeparinin etki gösterebilmesi için gerekli doğal pıhtılaşma inhibitörü.",
+      "images": [],
+      "card": {
+        "id": "PER241-1id08sk",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 1,
+        "source": "Wikipedia",
+        "term": "Antitrombin",
+        "en": "Antithrombin",
+        "definition": "Heparinin etki gösterebilmesi için gerekli doğal pıhtılaşma inhibitörü."
+      }
+    },
+    {
+      "title": "Protamin",
+      "text": "Protamine\nHeparinin etkisini nötralize eden ilaç.",
+      "images": [],
+      "card": {
+        "id": "PER241-0rjdbtx",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Protamin",
+        "en": "Protamine",
+        "definition": "Heparinin etkisini nötralize eden ilaç."
+      }
+    },
+    {
+      "title": "ACT",
+      "text": "Activated clotting time\nHeparin etkisinin izlenmesinde kullanılan tam kan pıhtılaşma zamanı testi.",
+      "images": [],
+      "card": {
+        "id": "PER241-1hqevfr",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "ACT",
+        "en": "Activated clotting time",
+        "definition": "Heparin etkisinin izlenmesinde kullanılan tam kan pıhtılaşma zamanı testi."
+      }
+    },
+    {
+      "title": "HIT",
+      "text": "Heparin-induced thrombocytopenia\nHeparine karşı immün reaksiyonla gelişen ciddi trombositopeni.",
+      "images": [],
+      "card": {
+        "id": "PER241-15ppt5q",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "HIT",
+        "en": "Heparin-induced thrombocytopenia",
+        "definition": "Heparine karşı immün reaksiyonla gelişen ciddi trombositopeni."
+      }
+    },
+    {
+      "title": "Antifibrinolitik",
+      "text": "Antifibrinolytic\nFibrinolizi azaltarak kanamayı azaltan ajan (aprotinin, traneksamik asit).",
+      "images": [],
+      "card": {
+        "id": "PER241-1i3yhih",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "term": "Antifibrinolitik",
+        "en": "Antifibrinolytic",
+        "definition": "Fibrinolizi azaltarak kanamayı azaltan ajan (aprotinin, traneksamik asit)."
+      }
+    },
+    {
+      "title": "ECMO",
+      "text": "Extracorporeal membrane oxygenation\nGünler-haftalar sürebilen ekstrakorporeal kalp ve/veya akciğer desteği.",
+      "images": [],
+      "card": {
+        "id": "PER241-00oje1p",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "ECMO",
+        "en": "Extracorporeal membrane oxygenation",
+        "definition": "Günler-haftalar sürebilen ekstrakorporeal kalp ve/veya akciğer desteği."
+      }
+    },
+    {
+      "title": "VA ECMO",
+      "text": "Veno-arterial extracorporeal membrane oxygenation (VA ECMO)\nVenöz kanın arteriyel sisteme döndürüldüğü, kalp ve akciğer desteği sağlayan ekstrakorporeal membran oksijenasyonu biçimi.",
+      "images": [],
+      "card": {
+        "id": "PER241-1hzuk6w",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "VA ECMO",
+        "en": "Veno-arterial extracorporeal membrane oxygenation (VA ECMO)",
+        "definition": "Venöz kanın arteriyel sisteme döndürüldüğü, kalp ve akciğer desteği sağlayan ekstrakorporeal membran oksijenasyonu biçimi."
+      }
+    },
+    {
+      "title": "Oksijenasyon indeksi",
+      "text": "Oxygenation index\nYenidoğanın solunum yetmezliği şiddetini değerlendirmede kullanılan oksijenlenme ölçütü.",
+      "images": [],
+      "card": {
+        "id": "PER241-1avcy3j",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Oksijenasyon indeksi",
+        "en": "Oxygenation index",
+        "definition": "Yenidoğanın solunum yetmezliği şiddetini değerlendirmede kullanılan oksijenlenme ölçütü."
+      }
+    },
+    {
+      "title": "İnhale nitrik oksit",
+      "text": "Inhaled nitric oxide\nPulmoner damarları seçici olarak genişleten, solunum yoluyla uygulanan nitrik oksit.",
+      "images": [],
+      "card": {
+        "id": "PER241-0i9851v",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "İnhale nitrik oksit",
+        "en": "Inhaled nitric oxide",
+        "definition": "Pulmoner damarları seçici olarak genişleten, solunum yoluyla uygulanan nitrik oksit."
+      }
+    },
+    {
+      "title": "VV ECMO",
+      "text": "Veno-venous extracorporeal membrane oxygenation\nVenöz kanın oksijenlendirilip yeniden venöz sisteme verildiği, kalp fonksiyonu yeterliyken solunum desteği sağlayan yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER241-04nmh9j",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "VV ECMO",
+        "en": "Veno-venous extracorporeal membrane oxygenation",
+        "definition": "Venöz kanın oksijenlendirilip yeniden venöz sisteme verildiği, kalp fonksiyonu yeterliyken solunum desteği sağlayan yöntem."
+      }
+    },
+    {
+      "title": "Ultrafiltrasyonun zamanı",
+      "text": "CUF\nKPB sırasında uygulanır\nRezervuarın minimum hacmiyle sınırlanır\n\nMUF\nKPB sonrasında, protaminden önce uygulanır\nRezidüel devre kanını konsantre etmeyi sağlar",
+      "images": [],
+      "card": {
+        "id": "PER241-0uexo8e",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "compare",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "Ultrafiltrasyonun zamanı",
+        "left": {
+          "title": "CUF",
+          "points": [
+            "KPB sırasında uygulanır",
+            "Rezervuarın minimum hacmiyle sınırlanır"
+          ]
+        },
+        "right": {
+          "title": "MUF",
+          "points": [
+            "KPB sonrasında, protaminden önce uygulanır",
+            "Rezidüel devre kanını konsantre etmeyi sağlar"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Ultrafiltrasyonda hacim dengesi",
+      "text": "MUF\nSıvı uzaklaştırıp hematokriti artırır\nKPB sonrasında uygulanır\n\nZ-BUF\nUltrafiltrat kadar kristaloid eklenir\nKPB sırasında volüm nötr uygulanır",
+      "images": [],
+      "card": {
+        "id": "PER241-1x0uley",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "compare",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "Ultrafiltrasyonda hacim dengesi",
+        "left": {
+          "title": "MUF",
+          "points": [
+            "Sıvı uzaklaştırıp hematokriti artırır",
+            "KPB sonrasında uygulanır"
+          ]
+        },
+        "right": {
+          "title": "Z-BUF",
+          "points": [
+            "Ultrafiltrat kadar kristaloid eklenir",
+            "KPB sırasında volüm nötr uygulanır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "MUF'un temel amacı",
+      "text": "KPB sonundaki hasta ve devre kanını konsantre ederek **hemodilüsyonu donör kan olmadan azaltmayı** hedefler.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jo1r5n",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "MUF'un temel amacı",
+        "body": "KPB sonundaki hasta ve devre kanını konsantre ederek **hemodilüsyonu donör kan olmadan azaltmayı** hedefler."
+      }
+    },
+    {
+      "title": "MUF yararı konusunda araştırma ayrılığı",
+      "text": "Milovanovic ve ark. çalışmasında agresif CUF sonrasında MUF'un **ek klinik yararı gösterilememiştir**; her uygulamada aynı faydayı varsayma.",
+      "images": [],
+      "card": {
+        "id": "PER241-0aa3nt0",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Milovanovic ve ark. 2018",
+        "title": "MUF yararı konusunda araştırma ayrılığı",
+        "body": "Milovanovic ve ark. çalışmasında agresif CUF sonrasında MUF'un **ek klinik yararı gösterilememiştir**; her uygulamada aynı faydayı varsayma."
+      }
+    },
+    {
+      "title": "AV MUF örneğinde kanın yolu",
+      "text": "Çalışmanın atriyoventriküler yönteminde kan **aort kanülünden hemofiltreye**, ardından sağ atriyumdaki venöz kanüle yönlendirilir; devre düzeni kurumsaldır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0p1fkg3",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Milovanovic ve ark. 2018",
+        "title": "AV MUF örneğinde kanın yolu",
+        "body": "Çalışmanın atriyoventriküler yönteminde kan **aort kanülünden hemofiltreye**, ardından sağ atriyumdaki venöz kanüle yönlendirilir; devre düzeni kurumsaldır."
+      }
+    },
+    {
+      "title": "del Nido'nun kan oranı",
+      "text": "**Matte ve del Nido 2012**: kan:kristaloid oranı 1:4'tür; kristaloid ağırlıklı karışımı klasik kan kardiyoplejisiyle karıştırma.",
+      "images": [],
+      "card": {
+        "id": "PER241-1lhlwcw",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "remember",
+        "importance": 3,
+        "source": "Matte ve del Nido 2012",
+        "title": "del Nido'nun kan oranı",
+        "body": "**Matte ve del Nido 2012**: kan:kristaloid oranı 1:4'tür; kristaloid ağırlıklı karışımı klasik kan kardiyoplejisiyle karıştırma."
+      }
+    },
+    {
+      "title": "del Nido'nun doz bağlamı",
+      "text": "Boston protokolünde genellikle **20 mL/kg tek doz** kullanılır; 50 kg üzerindeki hastada başlangıç arrest dozu en çok 1 L ile sınırlandırılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1emi3pe",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Matte ve del Nido 2012",
+        "title": "del Nido'nun doz bağlamı",
+        "body": "Boston protokolünde genellikle **20 mL/kg tek doz** kullanılır; 50 kg üzerindeki hastada başlangıç arrest dozu en çok 1 L ile sınırlandırılır."
+      }
+    },
+    {
+      "title": "del Nido'da lidokainin görevi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1k1xfan",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "flip",
+        "importance": 2,
+        "source": "Matte ve del Nido 2012",
+        "question": "del Nido'da lidokainin görevi nedir?",
+        "answer": "**Sodyum kanalını bloke ederek** refrakter dönemi uzatır; sodyum ve kalsiyum birikimini sınırlamaya katkıda bulunur."
+      }
+    },
+    {
+      "title": "Mannitolün koruyucu etkileri",
+      "text": "del Nido formülündeki mannitol **serbest radikal temizleme ve hücre şişmesini azaltma** amaçlarına katkıda bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-07hroi5",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Matte ve del Nido 2012",
+        "title": "Mannitolün koruyucu etkileri",
+        "body": "del Nido formülündeki mannitol **serbest radikal temizleme ve hücre şişmesini azaltma** amaçlarına katkıda bulunur."
+      }
+    },
+    {
+      "title": "Bikarbonatın işlevi",
+      "text": "Kardiyoplejide bikarbonat **hidrojen iyonlarını tamponlayarak** hücre içi pH'nın korunmasına katkıda bulunur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0x9j9by",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Matte ve del Nido 2012",
+        "title": "Bikarbonatın işlevi",
+        "body": "Kardiyoplejide bikarbonat **hidrojen iyonlarını tamponlayarak** hücre içi pH'nın korunmasına katkıda bulunur."
+      }
+    },
+    {
+      "title": "HTK'de temel tampon hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1o6pj1c",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "flip",
+        "importance": 2,
+        "source": "Ghiragosian ve ark. 2022",
+        "question": "HTK'de temel tampon hangisidir?",
+        "answer": "**Histidin**, histidin-triptofan-ketoglutarat solüsyonunun temel tamponudur."
+      }
+    },
+    {
+      "title": "Heparin etkisinin ara proteini",
+      "text": "Heparin etkisini **antitrombin üzerinden** gösterir; doğrudan tek başına trombini nötralize eden bir madde olarak düşünme.",
+      "images": [],
+      "card": {
+        "id": "PER241-15sh0e5",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "remember",
+        "importance": 3,
+        "source": "Wikipedia",
+        "title": "Heparin etkisinin ara proteini",
+        "body": "Heparin etkisini **antitrombin üzerinden** gösterir; doğrudan tek başına trombini nötralize eden bir madde olarak düşünme."
+      }
+    },
+    {
+      "title": "Heparin dışında hangi fizyolojik durumlar ACT sonucunu etkileyebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-19z8ab9",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "flip",
+        "importance": 2,
+        "source": "Wikipedia",
+        "question": "Heparin dışında hangi fizyolojik durumlar ACT sonucunu etkileyebilir?",
+        "answer": "**Hipotermi ve hemodilüsyon** ACT sonucunu etkileyebilir; ölçüm yalnız heparin miktarını yansıtmaz."
+      }
+    },
+    {
+      "title": "Santral post-kardiyotomi ECMO",
+      "text": "Santral venoarteriyel ECMO'da örnek kanülasyon, **sağ atriyumdan drenaj ve çıkan aortaya dönüş** şeklindedir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1vr6n2r",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Wikipedia",
+        "title": "Santral post-kardiyotomi ECMO",
+        "body": "Santral venoarteriyel ECMO'da örnek kanülasyon, **sağ atriyumdan drenaj ve çıkan aortaya dönüş** şeklindedir."
+      }
+    },
+    {
+      "title": "PPHN'de iNO başlangıcı",
+      "text": "Merck PPHN bölümünde inhale nitrik oksidin başlangıç dozu **20 ppm** olarak verilir; etkiye göre azaltılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-16bh0p3",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "PPHN'de iNO başlangıcı",
+        "body": "Merck PPHN bölümünde inhale nitrik oksidin başlangıç dozu **20 ppm** olarak verilir; etkiye göre azaltılır."
+      }
+    },
+    {
+      "title": "PPHN'de ECMO değerlendirmesi",
+      "text": "Merck'e göre maksimum solunum desteğine karşın oksijenasyon indeksi **>35–40** olan ağır hipoksik solunum yetmezliğinde ECMO değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1aoyobd",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "PPHN'de ECMO değerlendirmesi",
+        "body": "Merck'e göre maksimum solunum desteğine karşın oksijenasyon indeksi **>35–40** olan ağır hipoksik solunum yetmezliğinde ECMO değerlendirilir."
+      }
+    },
+    {
+      "title": "Heparine bağlı immün trombositopeninin kısaltması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1xfsb5u",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "Heparine bağlı immün trombositopeninin kısaltması hangisidir?",
+        "options": [
+          "MUF",
+          "HIT",
+          "NIRS",
+          "SACP"
+        ],
+        "correct": 1,
+        "explanation": "HIT heparine karşı immün reaksiyonla gelişen ciddi trombositopenidir."
+      }
+    },
+    {
+      "title": "HTK'nin adında yer alan bileşen hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-11kbz6x",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Ghiragosian ve ark. 2022",
+        "question": "HTK'nin adında yer alan bileşen hangisidir?",
+        "options": [
+          "Lidokain",
+          "Aprotinin",
+          "Triptofan",
+          "Protamin"
+        ],
+        "correct": 2,
+        "explanation": "HTK histidin, triptofan ve ketoglutarat adlarının baş harflerinden oluşur."
+      }
+    },
+    {
+      "title": "Yüksek potasyumlu kardiyoplejinin temel arrest etkisi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1facgky",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Matte ve del Nido 2012",
+        "question": "Yüksek potasyumlu kardiyoplejinin temel arrest etkisi hangisidir?",
+        "options": [
+          "Sinüs hızını artırma",
+          "Koroner şant oluşturma",
+          "Kapiller kaçağı başlatma",
+          "Depolarize arrest"
+        ],
+        "correct": 3,
+        "explanation": "Ekstraselüler yüksek potasyum kardiyomiyositin depolarize arrestini sağlar."
+      }
+    },
+    {
+      "title": "Protamin, heparinin antikoagülan etkisini nötralize etmek için kullanılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1meu27h",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "tf",
+        "importance": 3,
+        "source": "Wikipedia",
+        "statement": "Protamin, heparinin antikoagülan etkisini nötralize etmek için kullanılır.",
+        "isTrue": true,
+        "explanation": "Heparin etkisinin geri çevrilmesinde protamin kullanılır."
+      }
+    },
+    {
+      "title": "VV ECMO'da kan arteriyel sisteme döndürülür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0smz6ge",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "tf",
+        "importance": 3,
+        "source": "Wikipedia",
+        "statement": "VV ECMO'da kan arteriyel sisteme döndürülür.",
+        "isTrue": false,
+        "explanation": "VV ECMO'da kan venöz sisteme döner; arteriyel dönüş VA ECMO'dadır."
+      }
+    },
+    {
+      "title": "Z-BUF'ta uzaklaştırılan ultrafiltrat kadar kristaloid eklenir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1sttuba",
+        "course": "PER241",
+        "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+        "type": "tf",
+        "importance": 3,
+        "source": "Draaisma 2009",
+        "statement": "Z-BUF'ta uzaklaştırılan ultrafiltrat kadar kristaloid eklenir.",
+        "isTrue": true,
+        "explanation": "Bu işlem KPB sırasında volüm nötr ultrafiltrasyon sağlar."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-1cl44a5",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "CUF",
+      "en": "Conventional ultrafiltration",
+      "definition": "KPB sırasında hemokonsantratörle sıvı uzaklaştırma; rezervuar minimum hacmiyle sınırlı."
+    },
+    {
+      "id": "PER241-1puaadr",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 3,
+      "source": "Naik ve ark. 1991",
+      "term": "MUF",
+      "en": "Modified ultrafiltration",
+      "definition": "Kardiyopulmoner bypass sonlandıktan sonra, protamin verilmeden önce uygulanan ultrafiltrasyon yöntemi."
+    },
+    {
+      "id": "PER241-1ioi57t",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Journois ve ark. 1996",
+      "term": "Z-BUF",
+      "en": "Zero-balance ultrafiltration",
+      "definition": "KPB'de ultrafiltrat kadar kristaloid ekleyerek volüm nötr şekilde mediatör uzaklaştırma."
+    },
+    {
+      "id": "PER241-1yhpwa3",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "term": "Hemokonsantratör",
+      "en": "Hemoconcentrator",
+      "definition": "Ultrafiltrasyon için yarı geçirgen membranlı filtre."
+    },
+    {
+      "id": "PER241-093uw2s",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 3,
+      "source": "Matte ve del Nido 2012",
+      "term": "Kardiyopleji",
+      "en": "Cardioplegia",
+      "definition": "Kalbi diyastolde durdurup iskemiye karşı koruyan solüsyon.",
+      "origin": "Yun. kardia + plege = darbe/felç"
+    },
+    {
+      "id": "PER241-12fu63n",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 1,
+      "source": "Matte ve del Nido 2012",
+      "term": "del Nido kardiyoplejisi",
+      "en": "del Nido cardioplegia",
+      "definition": "Kan ile kristaloidi **1:4** oranında birleştiren; lidokain, magnezyum, mannitol, bikarbonat ve potasyum içeren kardiyopleji.",
+      "origin": "P. del Nido (eponim)"
+    },
+    {
+      "id": "PER241-19n082q",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Ghiragosian ve ark. 2022",
+      "term": "HTK",
+      "en": "Histidine-tryptophan-ketoglutarate",
+      "definition": "Düşük Na'lı, histidin tamponlu, hiperpolarize arrest yapan kristaloid kardiyopleji."
+    },
+    {
+      "id": "PER241-14ggd4d",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "term": "Depolarize arrest",
+      "en": "Depolarized arrest",
+      "definition": "Yüksek K ile membranın depolarize tutularak kalbin durdurulması (del Nido, kan kardiyoplejisi)."
+    },
+    {
+      "id": "PER241-0in5e74",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Ghiragosian ve ark. 2022",
+      "term": "Hiperpolarize arrest",
+      "en": "Hyperpolarized arrest",
+      "definition": "Ekstraselüler Na deplesyonu ile hızlı depolarizasyon fazının engellenmesi (HTK)."
+    },
+    {
+      "id": "PER241-1uvofvq",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Heparin",
+      "en": "Heparin",
+      "definition": "Antitrombin üzerinden trombin ve faktör Xa inaktivasyonunu hızlandıran antikoagülan.",
+      "origin": "Yun. hepar = karaciğer"
+    },
+    {
+      "id": "PER241-1id08sk",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 1,
+      "source": "Wikipedia",
+      "term": "Antitrombin",
+      "en": "Antithrombin",
+      "definition": "Heparinin etki gösterebilmesi için gerekli doğal pıhtılaşma inhibitörü."
+    },
+    {
+      "id": "PER241-0rjdbtx",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Protamin",
+      "en": "Protamine",
+      "definition": "Heparinin etkisini nötralize eden ilaç."
+    },
+    {
+      "id": "PER241-1hqevfr",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "ACT",
+      "en": "Activated clotting time",
+      "definition": "Heparin etkisinin izlenmesinde kullanılan tam kan pıhtılaşma zamanı testi."
+    },
+    {
+      "id": "PER241-15ppt5q",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "HIT",
+      "en": "Heparin-induced thrombocytopenia",
+      "definition": "Heparine karşı immün reaksiyonla gelişen ciddi trombositopeni."
+    },
+    {
+      "id": "PER241-1i3yhih",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "Antifibrinolitik",
+      "en": "Antifibrinolytic",
+      "definition": "Fibrinolizi azaltarak kanamayı azaltan ajan (aprotinin, traneksamik asit)."
+    },
+    {
+      "id": "PER241-00oje1p",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "ECMO",
+      "en": "Extracorporeal membrane oxygenation",
+      "definition": "Günler-haftalar sürebilen ekstrakorporeal kalp ve/veya akciğer desteği."
+    },
+    {
+      "id": "PER241-1hzuk6w",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "VA ECMO",
+      "en": "Veno-arterial extracorporeal membrane oxygenation (VA ECMO)",
+      "definition": "Venöz kanın arteriyel sisteme döndürüldüğü, kalp ve akciğer desteği sağlayan ekstrakorporeal membran oksijenasyonu biçimi."
+    },
+    {
+      "id": "PER241-1avcy3j",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Oksijenasyon indeksi",
+      "en": "Oxygenation index",
+      "definition": "Yenidoğanın solunum yetmezliği şiddetini değerlendirmede kullanılan oksijenlenme ölçütü."
+    },
+    {
+      "id": "PER241-0i9851v",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "İnhale nitrik oksit",
+      "en": "Inhaled nitric oxide",
+      "definition": "Pulmoner damarları seçici olarak genişleten, solunum yoluyla uygulanan nitrik oksit."
+    },
+    {
+      "id": "PER241-04nmh9j",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "VV ECMO",
+      "en": "Veno-venous extracorporeal membrane oxygenation",
+      "definition": "Venöz kanın oksijenlendirilip yeniden venöz sisteme verildiği, kalp fonksiyonu yeterliyken solunum desteği sağlayan yöntem."
+    },
+    {
+      "id": "PER241-0uexo8e",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "compare",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Ultrafiltrasyonun zamanı",
+      "left": {
+        "title": "CUF",
+        "points": [
+          "KPB sırasında uygulanır",
+          "Rezervuarın minimum hacmiyle sınırlanır"
+        ]
+      },
+      "right": {
+        "title": "MUF",
+        "points": [
+          "KPB sonrasında, protaminden önce uygulanır",
+          "Rezidüel devre kanını konsantre etmeyi sağlar"
+        ]
+      }
+    },
+    {
+      "id": "PER241-1x0uley",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "compare",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Ultrafiltrasyonda hacim dengesi",
+      "left": {
+        "title": "MUF",
+        "points": [
+          "Sıvı uzaklaştırıp hematokriti artırır",
+          "KPB sonrasında uygulanır"
+        ]
+      },
+      "right": {
+        "title": "Z-BUF",
+        "points": [
+          "Ultrafiltrat kadar kristaloid eklenir",
+          "KPB sırasında volüm nötr uygulanır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0jo1r5n",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "MUF'un temel amacı",
+      "body": "KPB sonundaki hasta ve devre kanını konsantre ederek **hemodilüsyonu donör kan olmadan azaltmayı** hedefler."
+    },
+    {
+      "id": "PER241-0aa3nt0",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Milovanovic ve ark. 2018",
+      "title": "MUF yararı konusunda araştırma ayrılığı",
+      "body": "Milovanovic ve ark. çalışmasında agresif CUF sonrasında MUF'un **ek klinik yararı gösterilememiştir**; her uygulamada aynı faydayı varsayma."
+    },
+    {
+      "id": "PER241-0p1fkg3",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Milovanovic ve ark. 2018",
+      "title": "AV MUF örneğinde kanın yolu",
+      "body": "Çalışmanın atriyoventriküler yönteminde kan **aort kanülünden hemofiltreye**, ardından sağ atriyumdaki venöz kanüle yönlendirilir; devre düzeni kurumsaldır."
+    },
+    {
+      "id": "PER241-1lhlwcw",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "remember",
+      "importance": 3,
+      "source": "Matte ve del Nido 2012",
+      "title": "del Nido'nun kan oranı",
+      "body": "**Matte ve del Nido 2012**: kan:kristaloid oranı 1:4'tür; kristaloid ağırlıklı karışımı klasik kan kardiyoplejisiyle karıştırma."
+    },
+    {
+      "id": "PER241-1emi3pe",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "title": "del Nido'nun doz bağlamı",
+      "body": "Boston protokolünde genellikle **20 mL/kg tek doz** kullanılır; 50 kg üzerindeki hastada başlangıç arrest dozu en çok 1 L ile sınırlandırılır."
+    },
+    {
+      "id": "PER241-1k1xfan",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "flip",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "question": "del Nido'da lidokainin görevi nedir?",
+      "answer": "**Sodyum kanalını bloke ederek** refrakter dönemi uzatır; sodyum ve kalsiyum birikimini sınırlamaya katkıda bulunur."
+    },
+    {
+      "id": "PER241-07hroi5",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "title": "Mannitolün koruyucu etkileri",
+      "body": "del Nido formülündeki mannitol **serbest radikal temizleme ve hücre şişmesini azaltma** amaçlarına katkıda bulunur."
+    },
+    {
+      "id": "PER241-0x9j9by",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Matte ve del Nido 2012",
+      "title": "Bikarbonatın işlevi",
+      "body": "Kardiyoplejide bikarbonat **hidrojen iyonlarını tamponlayarak** hücre içi pH'nın korunmasına katkıda bulunur."
+    },
+    {
+      "id": "PER241-1o6pj1c",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "flip",
+      "importance": 2,
+      "source": "Ghiragosian ve ark. 2022",
+      "question": "HTK'de temel tampon hangisidir?",
+      "answer": "**Histidin**, histidin-triptofan-ketoglutarat solüsyonunun temel tamponudur."
+    },
+    {
+      "id": "PER241-15sh0e5",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "remember",
+      "importance": 3,
+      "source": "Wikipedia",
+      "title": "Heparin etkisinin ara proteini",
+      "body": "Heparin etkisini **antitrombin üzerinden** gösterir; doğrudan tek başına trombini nötralize eden bir madde olarak düşünme."
+    },
+    {
+      "id": "PER241-19z8ab9",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "flip",
+      "importance": 2,
+      "source": "Wikipedia",
+      "question": "Heparin dışında hangi fizyolojik durumlar ACT sonucunu etkileyebilir?",
+      "answer": "**Hipotermi ve hemodilüsyon** ACT sonucunu etkileyebilir; ölçüm yalnız heparin miktarını yansıtmaz."
+    },
+    {
+      "id": "PER241-1vr6n2r",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Wikipedia",
+      "title": "Santral post-kardiyotomi ECMO",
+      "body": "Santral venoarteriyel ECMO'da örnek kanülasyon, **sağ atriyumdan drenaj ve çıkan aortaya dönüş** şeklindedir."
+    },
+    {
+      "id": "PER241-16bh0p3",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PPHN'de iNO başlangıcı",
+      "body": "Merck PPHN bölümünde inhale nitrik oksidin başlangıç dozu **20 ppm** olarak verilir; etkiye göre azaltılır."
+    },
+    {
+      "id": "PER241-1aoyobd",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PPHN'de ECMO değerlendirmesi",
+      "body": "Merck'e göre maksimum solunum desteğine karşın oksijenasyon indeksi **>35–40** olan ağır hipoksik solunum yetmezliğinde ECMO değerlendirilir."
+    },
+    {
+      "id": "PER241-1xfsb5u",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Heparine bağlı immün trombositopeninin kısaltması hangisidir?",
+      "options": [
+        "MUF",
+        "HIT",
+        "NIRS",
+        "SACP"
+      ],
+      "correct": 1,
+      "explanation": "HIT heparine karşı immün reaksiyonla gelişen ciddi trombositopenidir."
+    },
+    {
+      "id": "PER241-11kbz6x",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Ghiragosian ve ark. 2022",
+      "question": "HTK'nin adında yer alan bileşen hangisidir?",
+      "options": [
+        "Lidokain",
+        "Aprotinin",
+        "Triptofan",
+        "Protamin"
+      ],
+      "correct": 2,
+      "explanation": "HTK histidin, triptofan ve ketoglutarat adlarının baş harflerinden oluşur."
+    },
+    {
+      "id": "PER241-1facgky",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Matte ve del Nido 2012",
+      "question": "Yüksek potasyumlu kardiyoplejinin temel arrest etkisi hangisidir?",
+      "options": [
+        "Sinüs hızını artırma",
+        "Koroner şant oluşturma",
+        "Kapiller kaçağı başlatma",
+        "Depolarize arrest"
+      ],
+      "correct": 3,
+      "explanation": "Ekstraselüler yüksek potasyum kardiyomiyositin depolarize arrestini sağlar."
+    },
+    {
+      "id": "PER241-1meu27h",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "Protamin, heparinin antikoagülan etkisini nötralize etmek için kullanılır.",
+      "isTrue": true,
+      "explanation": "Heparin etkisinin geri çevrilmesinde protamin kullanılır."
+    },
+    {
+      "id": "PER241-0smz6ge",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "tf",
+      "importance": 3,
+      "source": "Wikipedia",
+      "statement": "VV ECMO'da kan arteriyel sisteme döndürülür.",
+      "isTrue": false,
+      "explanation": "VV ECMO'da kan venöz sisteme döner; arteriyel dönüş VA ECMO'dadır."
+    },
+    {
+      "id": "PER241-1sttuba",
+      "course": "PER241",
+      "topic": "Ultrafiltrasyon, miyokard koruma ve ECMO",
+      "type": "tf",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "statement": "Z-BUF'ta uzaklaştırılan ultrafiltrat kadar kristaloid eklenir.",
+      "isTrue": true,
+      "explanation": "Bu işlem KPB sırasında volüm nötr ultrafiltrasyon sağlar."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

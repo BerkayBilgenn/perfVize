@@ -1,0 +1,1164 @@
+{
+  "id": "review-60b21b5b2295b7e2",
+  "title": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+  "category": "Sterilizasyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER247",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kimyasal sterilan",
+      "text": "Chemical sterilant\nUygun konsantrasyon ve yeterli uzun temasla bakteri sporları dâhil mikroorganizmaları yok etmek için kullanılan kimyasal ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1q9oogs",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kimyasal sterilan",
+        "definition": "Uygun konsantrasyon ve yeterli uzun temasla bakteri sporları dâhil mikroorganizmaları yok etmek için kullanılan kimyasal ajan.",
+        "en": "Chemical sterilant"
+      }
+    },
+    {
+      "title": "Kullanım ömrü",
+      "text": "Use-life\nSeyreltilmiş ürünün etkin kaldığı süre.",
+      "images": [],
+      "card": {
+        "id": "PER247-1pb2jfb",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kullanım ömrü",
+        "definition": "Seyreltilmiş ürünün etkin kaldığı süre.",
+        "en": "Use-life"
+      }
+    },
+    {
+      "title": "Temas süresi",
+      "text": "Contact time\nDezenfektanın yüzeyle doğrudan temasta kaldığı süre (uygulamadan kurumaya).",
+      "images": [],
+      "card": {
+        "id": "PER247-0z3r3k1",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Temas süresi",
+        "definition": "Dezenfektanın yüzeyle doğrudan temasta kaldığı süre (uygulamadan kurumaya).",
+        "en": "Contact time"
+      }
+    },
+    {
+      "title": "Minimum etkin konsantrasyon",
+      "text": "Minimum effective concentration (MEC)\nSıvı germisitin iddia edilen etkiyi gösterdiği en düşük aktif madde konsantrasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER247-0piyy00",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Minimum etkin konsantrasyon",
+        "definition": "Sıvı germisitin iddia edilen etkiyi gösterdiği en düşük aktif madde konsantrasyonu.",
+        "en": "Minimum effective concentration (MEC)"
+      }
+    },
+    {
+      "title": "Aktivasyon",
+      "text": "Activation\nAyrı kaplardaki aktivatör ve kimyasalın kullanım öncesi karıştırılması (ör. glutaraldehit).",
+      "images": [],
+      "card": {
+        "id": "PER247-1a570p6",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Aktivasyon",
+        "definition": "Ayrı kaplardaki aktivatör ve kimyasalın kullanım öncesi karıştırılması (ör. glutaraldehit).",
+        "en": "Activation"
+      }
+    },
+    {
+      "title": "Yüksek düzey dezenfeksiyon",
+      "text": "High-level disinfection\nÇok sayıda bakteri sporu dışında tüm mikroorganizmaları öldüren işlem.",
+      "images": [],
+      "card": {
+        "id": "PER247-0l50uf2",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Yüksek düzey dezenfeksiyon",
+        "definition": "Çok sayıda bakteri sporu dışında tüm mikroorganizmaları öldüren işlem.",
+        "en": "High-level disinfection"
+      }
+    },
+    {
+      "title": "Orta düzey dezenfektan",
+      "text": "Intermediate-level disinfectant\nTüberküloz basili dâhil vejetatif bakteri, lipid ve bazı lipid olmayan virüs ve mantarları öldüren; sporları öldürmeyen ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-0awfkha",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Orta düzey dezenfektan",
+        "definition": "Tüberküloz basili dâhil vejetatif bakteri, lipid ve bazı lipid olmayan virüs ve mantarları öldüren; sporları öldürmeyen ajan.",
+        "en": "Intermediate-level disinfectant"
+      }
+    },
+    {
+      "title": "Düşük düzey dezenfektan",
+      "text": "Low-level disinfectant\nTüberküloz basili hariç vejetatif bakteri, lipid virüs, bazı zarfsız virüs ve bazı mantarları öldüren ajan.",
+      "images": [],
+      "card": {
+        "id": "PER247-1d7lq3e",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Düşük düzey dezenfektan",
+        "definition": "Tüberküloz basili hariç vejetatif bakteri, lipid virüs, bazı zarfsız virüs ve bazı mantarları öldüren ajan.",
+        "en": "Low-level disinfectant"
+      }
+    },
+    {
+      "title": "Hastane dezenfektanı",
+      "text": "Hospital disinfectant\nSalmonella, S. aureus ve P. aeruginosa'ya etkinliği gösterilmiş kayıtlı dezenfektan.",
+      "images": [],
+      "card": {
+        "id": "PER247-0x2fp7r",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Hastane dezenfektanı",
+        "definition": "Salmonella, S. aureus ve P. aeruginosa'ya etkinliği gösterilmiş kayıtlı dezenfektan.",
+        "en": "Hospital disinfectant"
+      }
+    },
+    {
+      "title": "Sodyum hipoklorit",
+      "text": "Sodium hypochlorite (bleach)\nKlor salarak germisit etki gösteren dezenfektan. Organik madde etkinliğini azaltabilir; yüksek konsantrasyonları metalleri aşındırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-1fyw96v",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sodyum hipoklorit",
+        "definition": "Klor salarak germisit etki gösteren dezenfektan. Organik madde etkinliğini azaltabilir; yüksek konsantrasyonları metalleri aşındırabilir.",
+        "en": "Sodium hypochlorite (bleach)"
+      }
+    },
+    {
+      "title": "Hipokloröz asit",
+      "text": "Hypochlorous acid (HOCl)\nKlorun mikrobisidal etkisinden büyük ölçüde sorumlu **ayrışmamış HOCl formu**.",
+      "images": [],
+      "card": {
+        "id": "PER247-0twpvpm",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Hipokloröz asit",
+        "definition": "Klorun mikrobisidal etkisinden büyük ölçüde sorumlu **ayrışmamış HOCl formu**.",
+        "en": "Hypochlorous acid (HOCl)"
+      }
+    },
+    {
+      "title": "ppm",
+      "text": "Parts per million\nBir karışımda **milyonda bir kısım** anlamına gelen konsantrasyon birimi. Seyreltik sulu çözeltilerde yaklaşık mg/L olarak ifade edilebilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0sqndlo",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "ppm",
+        "definition": "Bir karışımda **milyonda bir kısım** anlamına gelen konsantrasyon birimi. Seyreltik sulu çözeltilerde yaklaşık mg/L olarak ifade edilebilir.",
+        "en": "Parts per million"
+      }
+    },
+    {
+      "title": "Glutaraldehit",
+      "text": "Glutaraldehyde\nDialdehit yapılı kimyasal germisit. Klasik sulu formülasyonu alkali aktivasyonla sporisidal özellik kazanır; yüksek düzey dezenfeksiyonda kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1hfa20n",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Glutaraldehit",
+        "definition": "Dialdehit yapılı kimyasal germisit. Klasik sulu formülasyonu alkali aktivasyonla sporisidal özellik kazanır; yüksek düzey dezenfeksiyonda kullanılır.",
+        "en": "Glutaraldehyde"
+      }
+    },
+    {
+      "title": "Orto-ftalaldehit",
+      "text": "Ortho-phthalaldehyde\nAktivasyon gerektirmeyen aldehit yapılı **yüksek düzey dezenfektan**; OPA kısaltmasıyla anılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-1s4zp0u",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Orto-ftalaldehit",
+        "definition": "Aktivasyon gerektirmeyen aldehit yapılı **yüksek düzey dezenfektan**; OPA kısaltmasıyla anılır.",
+        "en": "Ortho-phthalaldehyde"
+      }
+    },
+    {
+      "title": "Hidrojen peroksit",
+      "text": "Hydrogen peroxide\nHidroksil serbest radikalleriyle hücre bileşenlerini hasarlayan oksidan. Formülasyon ve yönteme göre dezenfeksiyon veya sterilizasyonda kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0c7gunp",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Hidrojen peroksit",
+        "definition": "Hidroksil serbest radikalleriyle hücre bileşenlerini hasarlayan oksidan. Formülasyon ve yönteme göre dezenfeksiyon veya sterilizasyonda kullanılır.",
+        "en": "Hydrogen peroxide"
+      }
+    },
+    {
+      "title": "Perasetik asit",
+      "text": "Peracetic (peroxyacetic) acid\nDüşük sıcaklıkta da sporisidal etki gösterebilen oksidan germisit. Otomatik sıvı işleme sistemlerinde kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-07h38iy",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Perasetik asit",
+        "definition": "Düşük sıcaklıkta da sporisidal etki gösterebilen oksidan germisit. Otomatik sıvı işleme sistemlerinde kullanılabilir.",
+        "en": "Peracetic (peroxyacetic) acid"
+      }
+    },
+    {
+      "title": "Kuaterner amonyum bileşiği",
+      "text": "Quaternary ammonium compound\nAzota dört organik grup bağlı yüzey aktif düşük düzey dezenfektan; sporisid/tüberkülosid değil.",
+      "images": [],
+      "card": {
+        "id": "PER247-10xrfuq",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Kuaterner amonyum bileşiği",
+        "definition": "Azota dört organik grup bağlı yüzey aktif düşük düzey dezenfektan; sporisid/tüberkülosid değil.",
+        "en": "Quaternary ammonium compound"
+      }
+    },
+    {
+      "title": "Fenolik",
+      "text": "Phenolic\nFenol türevi dezenfektan; protoplazmik zehir; gözenekli malzemeye emilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0x4oqzl",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Fenolik",
+        "definition": "Fenol türevi dezenfektan; protoplazmik zehir; gözenekli malzemeye emilir.",
+        "en": "Phenolic"
+      }
+    },
+    {
+      "title": "Sodyum dikloroizosiyanürat",
+      "text": "Sodium dichloroisocyanurate (NaDCC)\nKloru daha uzun süre tutan, tablet formu stabil klor salıcı bileşik.",
+      "images": [],
+      "card": {
+        "id": "PER247-06fp36r",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "term",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "term": "Sodyum dikloroizosiyanürat",
+        "definition": "Kloru daha uzun süre tutan, tablet formu stabil klor salıcı bileşik.",
+        "en": "Sodium dichloroisocyanurate (NaDCC)"
+      }
+    },
+    {
+      "title": "Temas süresi ve MEK",
+      "text": "Temas süresi\nGermisitin nesneyle temasta kaldığı süre\nZamanla tanımlanan işlem koşuludur\n\nMinimum etkin konsantrasyon\nİddia edilen etki için gereken en düşük aktif madde düzeyi\nKonsantrasyonla tanımlanan işlem koşuludur",
+      "images": [],
+      "card": {
+        "id": "PER247-13ej3wf",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Temas süresi ve MEK",
+        "left": {
+          "title": "Temas süresi",
+          "points": [
+            "Germisitin nesneyle temasta kaldığı süre",
+            "Zamanla tanımlanan işlem koşuludur"
+          ]
+        },
+        "right": {
+          "title": "Minimum etkin konsantrasyon",
+          "points": [
+            "İddia edilen etki için gereken en düşük aktif madde düzeyi",
+            "Konsantrasyonla tanımlanan işlem koşuludur"
+          ]
+        }
+      }
+    },
+    {
+      "title": "YDD ve sıvı kimyasal sterilizasyon",
+      "text": "Yüksek düzey dezenfeksiyon\nÇok sayıda bakteri sporu hedefin dışında kalabilir\nAynı kimyasalın daha kısa uygun temasını kullanabilir\n\nSıvı kimyasal sterilizasyon\nSporları da yok edecek uzun temas hedeflenir\nDaldırılabilen cihazın tüm yüzeyleri sterilana ulaşmalıdır",
+      "images": [],
+      "card": {
+        "id": "PER247-1qife8r",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "YDD ve sıvı kimyasal sterilizasyon",
+        "left": {
+          "title": "Yüksek düzey dezenfeksiyon",
+          "points": [
+            "Çok sayıda bakteri sporu hedefin dışında kalabilir",
+            "Aynı kimyasalın daha kısa uygun temasını kullanabilir"
+          ]
+        },
+        "right": {
+          "title": "Sıvı kimyasal sterilizasyon",
+          "points": [
+            "Sporları da yok edecek uzun temas hedeflenir",
+            "Daldırılabilen cihazın tüm yüzeyleri sterilana ulaşmalıdır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Glutaraldehit aktivasyon pH’ı",
+      "text": "Klasik sulu glutaraldehit çözeltisi, alkali ajanlarla **pH 7,5–8,5** aralığına aktive edildiğinde sporisidal özellik kazanır. Ürün formülasyonu ve talimatı esas alınır.",
+      "images": [],
+      "card": {
+        "id": "PER247-0iess4u",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Glutaraldehit aktivasyon pH’ı",
+        "body": "Klasik sulu glutaraldehit çözeltisi, alkali ajanlarla **pH 7,5–8,5** aralığına aktive edildiğinde sporisidal özellik kazanır. Ürün formülasyonu ve talimatı esas alınır."
+      }
+    },
+    {
+      "title": "OPA’nın etiket örneği",
+      "text": "CDC tablosunda **%0,55 OPA** için ABD’de yüksek düzey dezenfeksiyon koşulu **20 °C’de 12 dk** olarak yer alır. Otomatik sistem/ülke etiketleri farklı olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0k2q4zs",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "OPA’nın etiket örneği",
+        "body": "CDC tablosunda **%0,55 OPA** için ABD’de yüksek düzey dezenfeksiyon koşulu **20 °C’de 12 dk** olarak yer alır. Otomatik sistem/ülke etiketleri farklı olabilir."
+      }
+    },
+    {
+      "title": "Hidrojen peroksitin farklı hedefleri",
+      "text": "CDC Tablo 4’te **%7,5 H2O2**, 20 °C’de **30 dk** ile yüksek düzey dezenfeksiyon; **6 saat** ile sterilizasyon koşulu olarak verilir. Süre hedeflenen işleme göre değişir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0uh1r7j",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Hidrojen peroksitin farklı hedefleri",
+        "body": "CDC Tablo 4’te **%7,5 H2O2**, 20 °C’de **30 dk** ile yüksek düzey dezenfeksiyon; **6 saat** ile sterilizasyon koşulu olarak verilir. Süre hedeflenen işleme göre değişir."
+      }
+    },
+    {
+      "title": "MEK ölçüm yöntemi",
+      "text": "Yüksek düzey dezenfektanın minimum etkin konsantrasyonu, **ürüne özel etkinlik test şeridiyle** izlenir. SKS değerlendirmesinde **pH metre** bu amaçla kullanılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER247-1ctml9l",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "fact",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "title": "MEK ölçüm yöntemi",
+        "body": "Yüksek düzey dezenfektanın minimum etkin konsantrasyonu, **ürüne özel etkinlik test şeridiyle** izlenir. SKS değerlendirmesinde **pH metre** bu amaçla kullanılmaz."
+      }
+    },
+    {
+      "title": "Kuatı emen temizlik malzemesi",
+      "text": "Pamuk ve gazlı bez, kuaterner amonyum bileşiklerinin **aktif maddesini emerek** etkinliği azaltabilir. Uygulama malzemesi dezenfektanla uyumlu seçilir.",
+      "images": [],
+      "card": {
+        "id": "PER247-07qszzv",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "fact",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Kuatı emen temizlik malzemesi",
+        "body": "Pamuk ve gazlı bez, kuaterner amonyum bileşiklerinin **aktif maddesini emerek** etkinliği azaltabilir. Uygulama malzemesi dezenfektanla uyumlu seçilir."
+      }
+    },
+    {
+      "title": "Klor çözeltisinde pH yükselince etkinlik neden azalabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0e5xpk0",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "flip",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Klor çözeltisinde pH yükselince etkinlik neden azalabilir?",
+        "answer": "Daha etkin **hipokloröz asit (HOCl)**, daha az mikrobisidal hipoklorit iyonuna dönüşür. Bu nedenle pH değişimi kimyasal etkinliği etkiler."
+      }
+    },
+    {
+      "title": "Kuat çözeltisinin kirlenmesi neden önemlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1l7dei1",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "flip",
+        "importance": 1,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Kuat çözeltisinin kirlenmesi neden önemlidir?",
+        "answer": "Bazı **gram-negatif bakteriler** kontamine kuat çözeltisinde yaşayabilir veya üreyebilir. Dezenfektanın adı, kirlenmiş çözeltinin güvenli olduğu anlamına gelmez."
+      }
+    },
+    {
+      "title": "OPA’dan sonra durulama neden ihmal edilmez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1kchg9w",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "OPA’dan sonra durulama neden ihmal edilmez?",
+        "answer": "Kalıntı OPA proteinlerle reaksiyona girip **cilt/mukoza boyanmasına ve reaksiyonlara** yol açabilir. Cihaz ve ürün talimatındaki durulama koşulları uygulanır."
+      }
+    },
+    {
+      "title": "Hipokloriti karıştırma",
+      "text": "Hipoklorit **amonyak veya asitle karıştırılmaz**; toksik gaz oluşabilir. Kimyasalların ürün talimatı dışı birleştirilmesi güvenli dezenfeksiyon yöntemi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER247-0wdxua6",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "Hipokloriti karıştırma",
+        "body": "Hipoklorit **amonyak veya asitle karıştırılmaz**; toksik gaz oluşabilir. Kimyasalların ürün talimatı dışı birleştirilmesi güvenli dezenfeksiyon yöntemi değildir."
+      }
+    },
+    {
+      "title": "OPA’nın ürolojik uyarısı",
+      "text": "CDC, mesane kanseri öyküsü bulunan hastalarda kullanılan ürolojik aletlerde **OPA kullanımından kaçınılmasını** belirtir; bu uyarı ürün seçiminde gözden kaçmamalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER247-06cwtto",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "title": "OPA’nın ürolojik uyarısı",
+        "body": "CDC, mesane kanseri öyküsü bulunan hastalarda kullanılan ürolojik aletlerde **OPA kullanımından kaçınılmasını** belirtir; bu uyarı ürün seçiminde gözden kaçmamalıdır."
+      }
+    },
+    {
+      "title": "Kuaterner amonyum bileşikleri tipik olarak hangi işlem düzeyinde kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-14tkshu",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Kuaterner amonyum bileşikleri tipik olarak hangi işlem düzeyinde kullanılır?",
+        "options": [
+          "Düşük düzey dezenfeksiyon",
+          "Yüksek düzey dezenfeksiyon",
+          "Sıvı kimyasal sterilizasyon",
+          "Prion dekontaminasyonu"
+        ],
+        "correct": 0,
+        "explanation": "Kuatlar genellikle **sporisidal ve tüberkülosidal değildir**; düşük düzey yüzey dezenfektanı olarak kullanılır."
+      }
+    },
+    {
+      "title": "Klasik glutaraldehitten farklı olarak aktivasyon gerektirmeyen aldehit hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-09fsse9",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Klasik glutaraldehitten farklı olarak aktivasyon gerektirmeyen aldehit hangisidir?",
+        "options": [
+          "Glutaraldehit",
+          "Orto-ftalaldehit",
+          "Sodyum hipoklorit",
+          "Perasetik asit"
+        ],
+        "correct": 1,
+        "explanation": "OPA, **aktivasyon gerektirmeyen** yüksek düzey dezenfektandır."
+      }
+    },
+    {
+      "title": "Hipokloritin daha etkin ayrışmamış formu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0r9bubm",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Hipokloritin daha etkin ayrışmamış formu hangisidir?",
+        "options": [
+          "Hipoklorit iyonu",
+          "Sodyum iyonu",
+          "Hipokloröz asit",
+          "Klorür iyonu"
+        ],
+        "correct": 2,
+        "explanation": "Mikrobisidal etki büyük ölçüde **HOCl** ile ilişkilidir; pH yükselince daha az etkin OCl⁻ oranı artar."
+      }
+    },
+    {
+      "title": "MEK şeridi olumsuz çıkan çözeltide SKS’nin uygun yaklaşımı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0821rme",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "question": "MEK şeridi olumsuz çıkan çözeltide SKS’nin uygun yaklaşımı hangisidir?",
+        "options": [
+          "Aktif madde ekleyerek tamamlamak",
+          "Son kullanma tarihini uzatmak",
+          "pH ölçümüyle geçerli saymak",
+          "Yeni çözelti hazırlamak"
+        ],
+        "correct": 3,
+        "explanation": "Olumsuz minimum etkin konsantrasyonda çözeltiye ekleme yapılmaz; **yenisi hazırlanır**."
+      }
+    },
+    {
+      "title": "Proteinleri griye boyayabilen YDD ajanı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-1ud9abd",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "question": "Proteinleri griye boyayabilen YDD ajanı hangisidir?",
+        "options": [
+          "Orto-ftalaldehit",
+          "Etil alkol",
+          "Kuaterner amonyum",
+          "Sodyum dikloroizosiyanürat"
+        ],
+        "correct": 0,
+        "explanation": "OPA, proteinlerle reaksiyon vererek korunmasız deri veya yeterince durulanmamış cihazla temas eden mukozayı boyayabilir."
+      }
+    },
+    {
+      "title": "Hipoklorit organik maddeyle inaktive olabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0wsrkyl",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Hipoklorit organik maddeyle inaktive olabilir.",
+        "isTrue": true,
+        "explanation": "Kan ve organik yük hipokloritin etkinliğini düşürebilir; temizlik ve uygun etiket koşulları önemlidir."
+      }
+    },
+    {
+      "title": "Fenolik kalıntılar gözenekli malzemeden dokuyu irrite edemez.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0fcjurp",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "tf",
+        "importance": 2,
+        "source": "CDC 2008 (2019 güncellemesi)",
+        "statement": "Fenolik kalıntılar gözenekli malzemeden dokuyu irrite edemez.",
+        "isTrue": false,
+        "explanation": "Fenolikler gözenekli materyalce emilebilir; **kalıntıları dokuyu irrite edebilir**."
+      }
+    },
+    {
+      "title": "MEK şeridi olumluysa çözeltinin kullanım süresi uzatılabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER247-0xr5od0",
+        "course": "PER247",
+        "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+        "type": "tf",
+        "importance": 2,
+        "source": "Sağlık Bakanlığı SKS 2021",
+        "statement": "MEK şeridi olumluysa çözeltinin kullanım süresi uzatılabilir.",
+        "isTrue": false,
+        "explanation": "SKS, şeridin **kullanım süresini uzatmak için kullanılamayacağını** belirtir; süre dolan çözelti atılır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER247",
+  "cards": [
+    {
+      "id": "PER247-1q9oogs",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kimyasal sterilan",
+      "definition": "Uygun konsantrasyon ve yeterli uzun temasla bakteri sporları dâhil mikroorganizmaları yok etmek için kullanılan kimyasal ajan.",
+      "en": "Chemical sterilant"
+    },
+    {
+      "id": "PER247-1pb2jfb",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kullanım ömrü",
+      "definition": "Seyreltilmiş ürünün etkin kaldığı süre.",
+      "en": "Use-life"
+    },
+    {
+      "id": "PER247-0z3r3k1",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Temas süresi",
+      "definition": "Dezenfektanın yüzeyle doğrudan temasta kaldığı süre (uygulamadan kurumaya).",
+      "en": "Contact time"
+    },
+    {
+      "id": "PER247-0piyy00",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Minimum etkin konsantrasyon",
+      "definition": "Sıvı germisitin iddia edilen etkiyi gösterdiği en düşük aktif madde konsantrasyonu.",
+      "en": "Minimum effective concentration (MEC)"
+    },
+    {
+      "id": "PER247-1a570p6",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Aktivasyon",
+      "definition": "Ayrı kaplardaki aktivatör ve kimyasalın kullanım öncesi karıştırılması (ör. glutaraldehit).",
+      "en": "Activation"
+    },
+    {
+      "id": "PER247-0l50uf2",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Yüksek düzey dezenfeksiyon",
+      "definition": "Çok sayıda bakteri sporu dışında tüm mikroorganizmaları öldüren işlem.",
+      "en": "High-level disinfection"
+    },
+    {
+      "id": "PER247-0awfkha",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Orta düzey dezenfektan",
+      "definition": "Tüberküloz basili dâhil vejetatif bakteri, lipid ve bazı lipid olmayan virüs ve mantarları öldüren; sporları öldürmeyen ajan.",
+      "en": "Intermediate-level disinfectant"
+    },
+    {
+      "id": "PER247-1d7lq3e",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Düşük düzey dezenfektan",
+      "definition": "Tüberküloz basili hariç vejetatif bakteri, lipid virüs, bazı zarfsız virüs ve bazı mantarları öldüren ajan.",
+      "en": "Low-level disinfectant"
+    },
+    {
+      "id": "PER247-0x2fp7r",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hastane dezenfektanı",
+      "definition": "Salmonella, S. aureus ve P. aeruginosa'ya etkinliği gösterilmiş kayıtlı dezenfektan.",
+      "en": "Hospital disinfectant"
+    },
+    {
+      "id": "PER247-1fyw96v",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sodyum hipoklorit",
+      "definition": "Klor salarak germisit etki gösteren dezenfektan. Organik madde etkinliğini azaltabilir; yüksek konsantrasyonları metalleri aşındırabilir.",
+      "en": "Sodium hypochlorite (bleach)"
+    },
+    {
+      "id": "PER247-0twpvpm",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hipokloröz asit",
+      "definition": "Klorun mikrobisidal etkisinden büyük ölçüde sorumlu **ayrışmamış HOCl formu**.",
+      "en": "Hypochlorous acid (HOCl)"
+    },
+    {
+      "id": "PER247-0sqndlo",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "ppm",
+      "definition": "Bir karışımda **milyonda bir kısım** anlamına gelen konsantrasyon birimi. Seyreltik sulu çözeltilerde yaklaşık mg/L olarak ifade edilebilir.",
+      "en": "Parts per million"
+    },
+    {
+      "id": "PER247-1hfa20n",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Glutaraldehit",
+      "definition": "Dialdehit yapılı kimyasal germisit. Klasik sulu formülasyonu alkali aktivasyonla sporisidal özellik kazanır; yüksek düzey dezenfeksiyonda kullanılır.",
+      "en": "Glutaraldehyde"
+    },
+    {
+      "id": "PER247-1s4zp0u",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Orto-ftalaldehit",
+      "definition": "Aktivasyon gerektirmeyen aldehit yapılı **yüksek düzey dezenfektan**; OPA kısaltmasıyla anılır.",
+      "en": "Ortho-phthalaldehyde"
+    },
+    {
+      "id": "PER247-0c7gunp",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Hidrojen peroksit",
+      "definition": "Hidroksil serbest radikalleriyle hücre bileşenlerini hasarlayan oksidan. Formülasyon ve yönteme göre dezenfeksiyon veya sterilizasyonda kullanılır.",
+      "en": "Hydrogen peroxide"
+    },
+    {
+      "id": "PER247-07h38iy",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Perasetik asit",
+      "definition": "Düşük sıcaklıkta da sporisidal etki gösterebilen oksidan germisit. Otomatik sıvı işleme sistemlerinde kullanılabilir.",
+      "en": "Peracetic (peroxyacetic) acid"
+    },
+    {
+      "id": "PER247-10xrfuq",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Kuaterner amonyum bileşiği",
+      "definition": "Azota dört organik grup bağlı yüzey aktif düşük düzey dezenfektan; sporisid/tüberkülosid değil.",
+      "en": "Quaternary ammonium compound"
+    },
+    {
+      "id": "PER247-0x4oqzl",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Fenolik",
+      "definition": "Fenol türevi dezenfektan; protoplazmik zehir; gözenekli malzemeye emilir.",
+      "en": "Phenolic"
+    },
+    {
+      "id": "PER247-06fp36r",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "term",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "term": "Sodyum dikloroizosiyanürat",
+      "definition": "Kloru daha uzun süre tutan, tablet formu stabil klor salıcı bileşik.",
+      "en": "Sodium dichloroisocyanurate (NaDCC)"
+    },
+    {
+      "id": "PER247-13ej3wf",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Temas süresi ve MEK",
+      "left": {
+        "title": "Temas süresi",
+        "points": [
+          "Germisitin nesneyle temasta kaldığı süre",
+          "Zamanla tanımlanan işlem koşuludur"
+        ]
+      },
+      "right": {
+        "title": "Minimum etkin konsantrasyon",
+        "points": [
+          "İddia edilen etki için gereken en düşük aktif madde düzeyi",
+          "Konsantrasyonla tanımlanan işlem koşuludur"
+        ]
+      }
+    },
+    {
+      "id": "PER247-1qife8r",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "YDD ve sıvı kimyasal sterilizasyon",
+      "left": {
+        "title": "Yüksek düzey dezenfeksiyon",
+        "points": [
+          "Çok sayıda bakteri sporu hedefin dışında kalabilir",
+          "Aynı kimyasalın daha kısa uygun temasını kullanabilir"
+        ]
+      },
+      "right": {
+        "title": "Sıvı kimyasal sterilizasyon",
+        "points": [
+          "Sporları da yok edecek uzun temas hedeflenir",
+          "Daldırılabilen cihazın tüm yüzeyleri sterilana ulaşmalıdır"
+        ]
+      }
+    },
+    {
+      "id": "PER247-0iess4u",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Glutaraldehit aktivasyon pH’ı",
+      "body": "Klasik sulu glutaraldehit çözeltisi, alkali ajanlarla **pH 7,5–8,5** aralığına aktive edildiğinde sporisidal özellik kazanır. Ürün formülasyonu ve talimatı esas alınır."
+    },
+    {
+      "id": "PER247-0k2q4zs",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "OPA’nın etiket örneği",
+      "body": "CDC tablosunda **%0,55 OPA** için ABD’de yüksek düzey dezenfeksiyon koşulu **20 °C’de 12 dk** olarak yer alır. Otomatik sistem/ülke etiketleri farklı olabilir."
+    },
+    {
+      "id": "PER247-0uh1r7j",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Hidrojen peroksitin farklı hedefleri",
+      "body": "CDC Tablo 4’te **%7,5 H2O2**, 20 °C’de **30 dk** ile yüksek düzey dezenfeksiyon; **6 saat** ile sterilizasyon koşulu olarak verilir. Süre hedeflenen işleme göre değişir."
+    },
+    {
+      "id": "PER247-1ctml9l",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "fact",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "title": "MEK ölçüm yöntemi",
+      "body": "Yüksek düzey dezenfektanın minimum etkin konsantrasyonu, **ürüne özel etkinlik test şeridiyle** izlenir. SKS değerlendirmesinde **pH metre** bu amaçla kullanılmaz."
+    },
+    {
+      "id": "PER247-07qszzv",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "fact",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Kuatı emen temizlik malzemesi",
+      "body": "Pamuk ve gazlı bez, kuaterner amonyum bileşiklerinin **aktif maddesini emerek** etkinliği azaltabilir. Uygulama malzemesi dezenfektanla uyumlu seçilir."
+    },
+    {
+      "id": "PER247-0e5xpk0",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Klor çözeltisinde pH yükselince etkinlik neden azalabilir?",
+      "answer": "Daha etkin **hipokloröz asit (HOCl)**, daha az mikrobisidal hipoklorit iyonuna dönüşür. Bu nedenle pH değişimi kimyasal etkinliği etkiler."
+    },
+    {
+      "id": "PER247-1l7dei1",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "flip",
+      "importance": 1,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kuat çözeltisinin kirlenmesi neden önemlidir?",
+      "answer": "Bazı **gram-negatif bakteriler** kontamine kuat çözeltisinde yaşayabilir veya üreyebilir. Dezenfektanın adı, kirlenmiş çözeltinin güvenli olduğu anlamına gelmez."
+    },
+    {
+      "id": "PER247-1kchg9w",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "OPA’dan sonra durulama neden ihmal edilmez?",
+      "answer": "Kalıntı OPA proteinlerle reaksiyona girip **cilt/mukoza boyanmasına ve reaksiyonlara** yol açabilir. Cihaz ve ürün talimatındaki durulama koşulları uygulanır."
+    },
+    {
+      "id": "PER247-0wdxua6",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "Hipokloriti karıştırma",
+      "body": "Hipoklorit **amonyak veya asitle karıştırılmaz**; toksik gaz oluşabilir. Kimyasalların ürün talimatı dışı birleştirilmesi güvenli dezenfeksiyon yöntemi değildir."
+    },
+    {
+      "id": "PER247-06cwtto",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "title": "OPA’nın ürolojik uyarısı",
+      "body": "CDC, mesane kanseri öyküsü bulunan hastalarda kullanılan ürolojik aletlerde **OPA kullanımından kaçınılmasını** belirtir; bu uyarı ürün seçiminde gözden kaçmamalıdır."
+    },
+    {
+      "id": "PER247-14tkshu",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Kuaterner amonyum bileşikleri tipik olarak hangi işlem düzeyinde kullanılır?",
+      "options": [
+        "Düşük düzey dezenfeksiyon",
+        "Yüksek düzey dezenfeksiyon",
+        "Sıvı kimyasal sterilizasyon",
+        "Prion dekontaminasyonu"
+      ],
+      "correct": 0,
+      "explanation": "Kuatlar genellikle **sporisidal ve tüberkülosidal değildir**; düşük düzey yüzey dezenfektanı olarak kullanılır."
+    },
+    {
+      "id": "PER247-09fsse9",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Klasik glutaraldehitten farklı olarak aktivasyon gerektirmeyen aldehit hangisidir?",
+      "options": [
+        "Glutaraldehit",
+        "Orto-ftalaldehit",
+        "Sodyum hipoklorit",
+        "Perasetik asit"
+      ],
+      "correct": 1,
+      "explanation": "OPA, **aktivasyon gerektirmeyen** yüksek düzey dezenfektandır."
+    },
+    {
+      "id": "PER247-0r9bubm",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Hipokloritin daha etkin ayrışmamış formu hangisidir?",
+      "options": [
+        "Hipoklorit iyonu",
+        "Sodyum iyonu",
+        "Hipokloröz asit",
+        "Klorür iyonu"
+      ],
+      "correct": 2,
+      "explanation": "Mikrobisidal etki büyük ölçüde **HOCl** ile ilişkilidir; pH yükselince daha az etkin OCl⁻ oranı artar."
+    },
+    {
+      "id": "PER247-0821rme",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "question": "MEK şeridi olumsuz çıkan çözeltide SKS’nin uygun yaklaşımı hangisidir?",
+      "options": [
+        "Aktif madde ekleyerek tamamlamak",
+        "Son kullanma tarihini uzatmak",
+        "pH ölçümüyle geçerli saymak",
+        "Yeni çözelti hazırlamak"
+      ],
+      "correct": 3,
+      "explanation": "Olumsuz minimum etkin konsantrasyonda çözeltiye ekleme yapılmaz; **yenisi hazırlanır**."
+    },
+    {
+      "id": "PER247-1ud9abd",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "question": "Proteinleri griye boyayabilen YDD ajanı hangisidir?",
+      "options": [
+        "Orto-ftalaldehit",
+        "Etil alkol",
+        "Kuaterner amonyum",
+        "Sodyum dikloroizosiyanürat"
+      ],
+      "correct": 0,
+      "explanation": "OPA, proteinlerle reaksiyon vererek korunmasız deri veya yeterince durulanmamış cihazla temas eden mukozayı boyayabilir."
+    },
+    {
+      "id": "PER247-0wsrkyl",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Hipoklorit organik maddeyle inaktive olabilir.",
+      "isTrue": true,
+      "explanation": "Kan ve organik yük hipokloritin etkinliğini düşürebilir; temizlik ve uygun etiket koşulları önemlidir."
+    },
+    {
+      "id": "PER247-0fcjurp",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "tf",
+      "importance": 2,
+      "source": "CDC 2008 (2019 güncellemesi)",
+      "statement": "Fenolik kalıntılar gözenekli malzemeden dokuyu irrite edemez.",
+      "isTrue": false,
+      "explanation": "Fenolikler gözenekli materyalce emilebilir; **kalıntıları dokuyu irrite edebilir**."
+    },
+    {
+      "id": "PER247-0xr5od0",
+      "course": "PER247",
+      "topic": "Dezenfeksiyon düzeyleri ve dezenfektanlar",
+      "type": "tf",
+      "importance": 2,
+      "source": "Sağlık Bakanlığı SKS 2021",
+      "statement": "MEK şeridi olumluysa çözeltinin kullanım süresi uzatılabilir.",
+      "isTrue": false,
+      "explanation": "SKS, şeridin **kullanım süresini uzatmak için kullanılamayacağını** belirtir; süre dolan çözelti atılır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER247"
+}

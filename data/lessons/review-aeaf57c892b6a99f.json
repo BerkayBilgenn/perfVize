@@ -1,0 +1,954 @@
+{
+  "id": "review-aeaf57c892b6a99f",
+  "title": "KPB'den çıkış ve komplikasyonlar",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Weaning (KPB'den ayrılma)",
+      "text": "Weaning / separation from CPB\nPompa desteğinden kalp ve akciğerin kendi işlevine kademeli geçiş.",
+      "images": [],
+      "card": {
+        "id": "PER245-096vjv5",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Weaning (KPB'den ayrılma)",
+        "en": "Weaning / separation from CPB",
+        "definition": "Pompa desteğinden kalp ve akciğerin kendi işlevine kademeli geçiş.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Dekanülasyon",
+      "text": "Decannulation\nCerrahi destek sonunda arteriyel ve venöz kanüllerin çıkarılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-1akitv6",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Dekanülasyon",
+        "en": "Decannulation",
+        "definition": "Cerrahi destek sonunda arteriyel ve venöz kanüllerin çıkarılması.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "LCOS",
+      "text": "Low cardiac output syndrome\nPostoperatif düşük kalp debisi sendromu.",
+      "images": [],
+      "card": {
+        "id": "PER245-18eqyfy",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "LCOS",
+        "en": "Low cardiac output syndrome",
+        "definition": "Postoperatif düşük kalp debisi sendromu.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "IABP",
+      "text": "Intra-aortic balloon pump\nİnen aortada diyastolde şişip koroner perfüzyonu artıran, sistolde sönerek afterload'u azaltan geçici destek.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ak3p55",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "IABP",
+        "en": "Intra-aortic balloon pump",
+        "definition": "İnen aortada diyastolde şişip koroner perfüzyonu artıran, sistolde sönerek afterload'u azaltan geçici destek.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "ECMO / ECLS",
+      "text": "Extracorporeal membrane oxygenation / life support\nUzun süreli ekstrakorporeal kalp ve/veya akciğer desteği.",
+      "images": [],
+      "card": {
+        "id": "PER245-16yd8wp",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "ECMO / ECLS",
+        "en": "Extracorporeal membrane oxygenation / life support",
+        "definition": "Uzun süreli ekstrakorporeal kalp ve/veya akciğer desteği.",
+        "source": "Resmî Gazete 2014"
+      }
+    },
+    {
+      "title": "SIRS",
+      "text": "Systemic inflammatory response syndrome\nKPB'nin kontakt aktivasyon, kompleman, sitokin ve iskemi-reperfüzyon yoluyla tetiklediği sistemik inflamasyon.",
+      "images": [],
+      "card": {
+        "id": "PER245-15xi18i",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 3,
+        "term": "SIRS",
+        "en": "Systemic inflammatory response syndrome",
+        "definition": "KPB'nin kontakt aktivasyon, kompleman, sitokin ve iskemi-reperfüzyon yoluyla tetiklediği sistemik inflamasyon.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "Kontakt aktivasyon",
+      "text": "Contact activation\nKanın yabancı yüzeyle temasıyla faktör XII–kallikrein–bradikinin sisteminin aktivasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-1aakojy",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Kontakt aktivasyon",
+        "en": "Contact activation",
+        "definition": "Kanın yabancı yüzeyle temasıyla faktör XII–kallikrein–bradikinin sisteminin aktivasyonu.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "Kompleman aktivasyonu",
+      "text": "Complement activation\nKompleman proteinlerinin ardışık aktivasyonuyla C3a ve C5a gibi inflamatuvar mediyatörlerin oluşması.",
+      "images": [],
+      "card": {
+        "id": "PER245-17o7dj1",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Kompleman aktivasyonu",
+        "en": "Complement activation",
+        "definition": "Kompleman proteinlerinin ardışık aktivasyonuyla C3a ve C5a gibi inflamatuvar mediyatörlerin oluşması.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "İskemi-reperfüzyon hasarı",
+      "text": "Ischaemia-reperfusion injury\nİskemik dokuya kan dönüşüyle artan oksidatif ve inflamatuvar hasar.",
+      "images": [],
+      "card": {
+        "id": "PER245-15h0sla",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "İskemi-reperfüzyon hasarı",
+        "en": "Ischaemia-reperfusion injury",
+        "definition": "İskemik dokuya kan dönüşüyle artan oksidatif ve inflamatuvar hasar.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "Masif hava embolisi",
+      "text": "Massive air embolism\nArteriyel hatla hastaya büyük miktarda hava verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0alwrg3",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Masif hava embolisi",
+        "en": "Massive air embolism",
+        "definition": "Arteriyel hatla hastaya büyük miktarda hava verilmesi.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Ters kanülasyon",
+      "text": "Reversed cannulation\nArteriyel ve venöz hatların kanüllere ters bağlanması.",
+      "images": [],
+      "card": {
+        "id": "PER245-077r9eb",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Ters kanülasyon",
+        "en": "Reversed cannulation",
+        "definition": "Arteriyel ve venöz hatların kanüllere ters bağlanması.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Oksijenatör yetmezliği",
+      "text": "Oxygenator failure\nYüksek FiO2 ve gaz akımına rağmen oksijenasyonun bozulması veya yüksek transmembran basınç.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xeb7wm",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 1,
+        "term": "Oksijenatör yetmezliği",
+        "en": "Oxygenator failure",
+        "definition": "Yüksek FiO2 ve gaz akımına rağmen oksijenasyonun bozulması veya yüksek transmembran basınç.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Su–kan kaçağı",
+      "text": "Water-to-blood leak\nIsı değiştiricideki sızıntıyla suyun kana karışması (volüm artışı, pH ve Hct düşüşü, hemoliz).",
+      "images": [],
+      "card": {
+        "id": "PER245-0fz5nbg",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Su–kan kaçağı",
+        "en": "Water-to-blood leak",
+        "definition": "Isı değiştiricideki sızıntıyla suyun kana karışması (volüm artışı, pH ve Hct düşüşü, hemoliz).",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "El krankı",
+      "text": "Hand crank\nGüç kesintisinde roller pompayı elle çevirmeye yarayan aparat.",
+      "images": [],
+      "card": {
+        "id": "PER245-1qw22ge",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 3,
+        "term": "El krankı",
+        "en": "Hand crank",
+        "definition": "Güç kesintisinde roller pompayı elle çevirmeye yarayan aparat.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Mycobacterium chimaera",
+      "text": "Mycobacterium chimaera\nIsıtıcı-soğutucu ünitelerle ilişkili tüberküloz dışı mikobakteri enfeksiyonu etkeni.",
+      "images": [],
+      "card": {
+        "id": "PER245-0dsr0zd",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Mycobacterium chimaera",
+        "en": "Mycobacterium chimaera",
+        "definition": "Isıtıcı-soğutucu ünitelerle ilişkili tüberküloz dışı mikobakteri enfeksiyonu etkeni.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Pump lung",
+      "text": "Pump lung\nKPB sonrası pulmoner ödem ve akciğer disfonksiyonu.",
+      "images": [],
+      "card": {
+        "id": "PER245-02rmw2p",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Pump lung",
+        "en": "Pump lung",
+        "definition": "KPB sonrası pulmoner ödem ve akciğer disfonksiyonu.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Ayrılmada ventilasyon",
+      "text": "KPB'den ayrılma öncesi ventilasyonun yeniden başlatıldığı ve kalbin ritim-işlevinin yeterli olduğu ekipçe doğrulanır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1rvtife",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ayrılmada ventilasyon",
+        "body": "KPB'den ayrılma öncesi ventilasyonun yeniden başlatıldığı ve kalbin ritim-işlevinin yeterli olduğu ekipçe doğrulanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Zor ayrılmayı değerlendirme",
+      "text": "İlk ayrılma denemesinin başarısızlığı veya giderek artan vazoaktif destek gereksinimi, sistematik değerlendirme ve uygun mekanik destek planını gerektirebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0jehw52",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Zor ayrılmayı değerlendirme",
+        "body": "İlk ayrılma denemesinin başarısızlığı veya giderek artan vazoaktif destek gereksinimi, sistematik değerlendirme ve uygun mekanik destek planını gerektirebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Oksijenatörde ilk kontrol",
+      "text": "Beklenmedik oksijenasyon kaybında gaz kaynağı, bağlantı ve gazın oksijenatöre ulaşması değerlendirilir; sorun yalnız membrana bağlanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-0trh5ny",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Oksijenatörde ilk kontrol",
+        "body": "Beklenmedik oksijenasyon kaybında gaz kaynağı, bağlantı ve gazın oksijenatöre ulaşması değerlendirilir; sorun yalnız membrana bağlanmaz.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Hava kilidinin mekanizması",
+      "text": "Venöz hattaki büyük hava birikimi sıvı kolonunu ve sifon etkisini kesebilir; sonuç venöz drenajın durmasıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1537oy9",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hava kilidinin mekanizması",
+        "body": "Venöz hattaki büyük hava birikimi sıvı kolonunu ve sifon etkisini kesebilir; sonuç venöz drenajın durmasıdır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "KPB sonrası koagülopati",
+      "text": "Hemodilüsyon, hipotermi, trombosit işlev bozukluğu ve fibrinoliz kanamaya birlikte katkıda bulunabilir; tek bir neden varsayılmamalıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-17p1597",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "KPB sonrası koagülopati",
+        "body": "Hemodilüsyon, hipotermi, trombosit işlev bozukluğu ve fibrinoliz kanamaya birlikte katkıda bulunabilir; tek bir neden varsayılmamalıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Protamin sonrası acil yeniden KPB için hangi koşul tekrar doğrulanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0sdkmmg",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Protamin sonrası acil yeniden KPB için hangi koşul tekrar doğrulanır?",
+        "answer": "Yeterli antikoagülasyon sağlandığı; devre ve hastanın yeniden KPB için hazır olduğu ekipçe doğrulanır.",
+        "source": "STS/SCA/AmSECT 2018"
+      }
+    },
+    {
+      "title": "KPB'deki sistemik inflamatuvar yanıtın başlıca tetikleyicileri nelerdir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1wtm6kd",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "KPB'deki sistemik inflamatuvar yanıtın başlıca tetikleyicileri nelerdir?",
+        "answer": "Yabancı yüzey teması, cerrahi travma ve iskemi-reperfüzyon; kompleman, lökositler ve sitokinler sürece katılır.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "Hava embolisi bir ekip acilidir",
+      "text": "Masif arteriyel hava embolisinde **pompanın durdurulması ve hatların kontrolü** acil protokolün başlangıcıdır; devamı ekip ve kurum prosedürüyle yürütülür.",
+      "images": [],
+      "card": {
+        "id": "PER245-0zoss1f",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Hava embolisi bir ekip acilidir",
+        "body": "Masif arteriyel hava embolisinde **pompanın durdurulması ve hatların kontrolü** acil protokolün başlangıcıdır; devamı ekip ve kurum prosedürüyle yürütülür.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Kesintiye hazırlık",
+      "text": "KPB sırasında **el krankı, yedek güç ve yedek gaz** hazır bulunmalıdır; hazırlık, olay başladıktan sonra malzeme aramayı önler.",
+      "images": [],
+      "card": {
+        "id": "PER245-1ig9v1l",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Kesintiye hazırlık",
+        "body": "KPB sırasında **el krankı, yedek güç ve yedek gaz** hazır bulunmalıdır; hazırlık, olay başladıktan sonra malzeme aramayı önler.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Ayrılmada ritim ve dolum",
+      "text": "Pompa desteği azaltılırken kalp ritmi, dolum, ventrikül işlevi ve kapakların çalışması birlikte değerlendirilir. Ayrılmada tek bir basınç değeri yeterli kalp işlevini kanıtlamaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-1x319c9",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ayrılmada ritim ve dolum",
+        "body": "Pompa desteği azaltılırken kalp ritmi, dolum, ventrikül işlevi ve kapakların çalışması birlikte değerlendirilir. Ayrılmada tek bir basınç değeri yeterli kalp işlevini kanıtlamaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "KPB'den ayrılmayı yapılandırmada hangi görüntüleme sık kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1hapjfa",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KPB'den ayrılmayı yapılandırmada hangi görüntüleme sık kullanılır?",
+        "options": [
+          "Karotis Doppler",
+          "Akciğer grafisi",
+          "TEE",
+          "Epiaortik ultrason"
+        ],
+        "correct": 2,
+        "explanation": "TEE kalp işlevi, dolum ve rezidüel hava değerlendirmesinde ayrılma sürecine rehberlik eder.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kanın yabancı yüzeyle temasıyla aktive olan sistemin başlangıç faktörü hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1sbkztk",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kanın yabancı yüzeyle temasıyla aktive olan sistemin başlangıç faktörü hangisidir?",
+        "options": [
+          "Faktör II",
+          "Faktör V",
+          "Faktör XIII",
+          "Faktör XII"
+        ],
+        "correct": 3,
+        "explanation": "Kontakt sistemde faktör XII, prekallikrein ve yüksek molekül ağırlıklı kininojen yer alır.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "KPB devre yüzeyleri komplemanın ağırlıkla hangi yolunu uyarır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-17c0n1r",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "question": "KPB devre yüzeyleri komplemanın ağırlıkla hangi yolunu uyarır?",
+        "options": [
+          "Alternatif yol",
+          "Klasik yol",
+          "Lektin yolu",
+          "Terminal ortak yol"
+        ],
+        "correct": 0,
+        "explanation": "Biyomateryal teması komplemanın alternatif yolunu aktive edebilir; pıhtılaşma yolları ayrı sistemdir.",
+        "source": "İnflamasyon, Front Surg 2024"
+      }
+    },
+    {
+      "title": "Düşük MAP ve yüksek CVP'nin hat bağlantısıyla açıklanan nedeni hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-01gjw0c",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Düşük MAP ve yüksek CVP'nin hat bağlantısıyla açıklanan nedeni hangisidir?",
+        "options": [
+          "Arteriyel kanül obstrüksiyonu",
+          "Ters kanülasyon",
+          "Venöz kanül obstrüksiyonu",
+          "Venöz hatta hava kilidi"
+        ],
+        "correct": 1,
+        "explanation": "Arter ve ven hatlarının ters bağlanması sistemik basıncı düşürüp venöz basıncı yükseltebilir.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "KPB sırasında güç kaybına karşı hangi araç mekanik yedek sağlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1mrfqox",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KPB sırasında güç kaybına karşı hangi araç mekanik yedek sağlar?",
+        "options": [
+          "Yedek batarya",
+          "Kesintisiz güç kaynağı",
+          "El krankı",
+          "Acil jeneratör"
+        ],
+        "correct": 2,
+        "explanation": "El krankı uyumlu pompanın elle çevrilmesini sağlayan mekanik yedektir.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "KPB sonrası böbrek hasarı düşük oksijen sunumuyla ilişkili olabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-12zo4kx",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "KPB sonrası böbrek hasarı düşük oksijen sunumuyla ilişkili olabilir.",
+        "isTrue": true,
+        "explanation": "Akım ve hemoglobine bağlı oksijen sunumu böbrek koruma değerlendirmesinin parçasıdır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Güç kesintisine hazırlık için yedek gaz kaynağı gereksizdir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-05a9995",
+        "course": "PER245",
+        "topic": "KPB'den çıkış ve komplikasyonlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Güç kesintisine hazırlık için yedek gaz kaynağı gereksizdir.",
+        "isTrue": false,
+        "explanation": "AmSECT yedek gaz kaynağı, yedek güç ve uygun mekanik yedeğin hazır bulunmasını ister.",
+        "source": "AmSECT 2013"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-096vjv5",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Weaning (KPB'den ayrılma)",
+      "en": "Weaning / separation from CPB",
+      "definition": "Pompa desteğinden kalp ve akciğerin kendi işlevine kademeli geçiş.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1akitv6",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Dekanülasyon",
+      "en": "Decannulation",
+      "definition": "Cerrahi destek sonunda arteriyel ve venöz kanüllerin çıkarılması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-18eqyfy",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "LCOS",
+      "en": "Low cardiac output syndrome",
+      "definition": "Postoperatif düşük kalp debisi sendromu.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0ak3p55",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "IABP",
+      "en": "Intra-aortic balloon pump",
+      "definition": "İnen aortada diyastolde şişip koroner perfüzyonu artıran, sistolde sönerek afterload'u azaltan geçici destek.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-16yd8wp",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "ECMO / ECLS",
+      "en": "Extracorporeal membrane oxygenation / life support",
+      "definition": "Uzun süreli ekstrakorporeal kalp ve/veya akciğer desteği.",
+      "source": "Resmî Gazete 2014"
+    },
+    {
+      "id": "PER245-15xi18i",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 3,
+      "term": "SIRS",
+      "en": "Systemic inflammatory response syndrome",
+      "definition": "KPB'nin kontakt aktivasyon, kompleman, sitokin ve iskemi-reperfüzyon yoluyla tetiklediği sistemik inflamasyon.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-1aakojy",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Kontakt aktivasyon",
+      "en": "Contact activation",
+      "definition": "Kanın yabancı yüzeyle temasıyla faktör XII–kallikrein–bradikinin sisteminin aktivasyonu.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-17o7dj1",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Kompleman aktivasyonu",
+      "en": "Complement activation",
+      "definition": "Kompleman proteinlerinin ardışık aktivasyonuyla C3a ve C5a gibi inflamatuvar mediyatörlerin oluşması.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-15h0sla",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "İskemi-reperfüzyon hasarı",
+      "en": "Ischaemia-reperfusion injury",
+      "definition": "İskemik dokuya kan dönüşüyle artan oksidatif ve inflamatuvar hasar.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-0alwrg3",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Masif hava embolisi",
+      "en": "Massive air embolism",
+      "definition": "Arteriyel hatla hastaya büyük miktarda hava verilmesi.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-077r9eb",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Ters kanülasyon",
+      "en": "Reversed cannulation",
+      "definition": "Arteriyel ve venöz hatların kanüllere ters bağlanması.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0xeb7wm",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 1,
+      "term": "Oksijenatör yetmezliği",
+      "en": "Oxygenator failure",
+      "definition": "Yüksek FiO2 ve gaz akımına rağmen oksijenasyonun bozulması veya yüksek transmembran basınç.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER245-0fz5nbg",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Su–kan kaçağı",
+      "en": "Water-to-blood leak",
+      "definition": "Isı değiştiricideki sızıntıyla suyun kana karışması (volüm artışı, pH ve Hct düşüşü, hemoliz).",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER245-1qw22ge",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 3,
+      "term": "El krankı",
+      "en": "Hand crank",
+      "definition": "Güç kesintisinde roller pompayı elle çevirmeye yarayan aparat.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-0dsr0zd",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Mycobacterium chimaera",
+      "en": "Mycobacterium chimaera",
+      "definition": "Isıtıcı-soğutucu ünitelerle ilişkili tüberküloz dışı mikobakteri enfeksiyonu etkeni.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-02rmw2p",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Pump lung",
+      "en": "Pump lung",
+      "definition": "KPB sonrası pulmoner ödem ve akciğer disfonksiyonu.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1rvtife",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ayrılmada ventilasyon",
+      "body": "KPB'den ayrılma öncesi ventilasyonun yeniden başlatıldığı ve kalbin ritim-işlevinin yeterli olduğu ekipçe doğrulanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0jehw52",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Zor ayrılmayı değerlendirme",
+      "body": "İlk ayrılma denemesinin başarısızlığı veya giderek artan vazoaktif destek gereksinimi, sistematik değerlendirme ve uygun mekanik destek planını gerektirebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0trh5ny",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijenatörde ilk kontrol",
+      "body": "Beklenmedik oksijenasyon kaybında gaz kaynağı, bağlantı ve gazın oksijenatöre ulaşması değerlendirilir; sorun yalnız membrana bağlanmaz.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER245-1537oy9",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hava kilidinin mekanizması",
+      "body": "Venöz hattaki büyük hava birikimi sıvı kolonunu ve sifon etkisini kesebilir; sonuç venöz drenajın durmasıdır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-17p1597",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB sonrası koagülopati",
+      "body": "Hemodilüsyon, hipotermi, trombosit işlev bozukluğu ve fibrinoliz kanamaya birlikte katkıda bulunabilir; tek bir neden varsayılmamalıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0sdkmmg",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Protamin sonrası acil yeniden KPB için hangi koşul tekrar doğrulanır?",
+      "answer": "Yeterli antikoagülasyon sağlandığı; devre ve hastanın yeniden KPB için hazır olduğu ekipçe doğrulanır.",
+      "source": "STS/SCA/AmSECT 2018"
+    },
+    {
+      "id": "PER245-1wtm6kd",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "KPB'deki sistemik inflamatuvar yanıtın başlıca tetikleyicileri nelerdir?",
+      "answer": "Yabancı yüzey teması, cerrahi travma ve iskemi-reperfüzyon; kompleman, lökositler ve sitokinler sürece katılır.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-0zoss1f",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Hava embolisi bir ekip acilidir",
+      "body": "Masif arteriyel hava embolisinde **pompanın durdurulması ve hatların kontrolü** acil protokolün başlangıcıdır; devamı ekip ve kurum prosedürüyle yürütülür.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1ig9v1l",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Kesintiye hazırlık",
+      "body": "KPB sırasında **el krankı, yedek güç ve yedek gaz** hazır bulunmalıdır; hazırlık, olay başladıktan sonra malzeme aramayı önler.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1x319c9",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ayrılmada ritim ve dolum",
+      "body": "Pompa desteği azaltılırken kalp ritmi, dolum, ventrikül işlevi ve kapakların çalışması birlikte değerlendirilir. Ayrılmada tek bir basınç değeri yeterli kalp işlevini kanıtlamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1hapjfa",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB'den ayrılmayı yapılandırmada hangi görüntüleme sık kullanılır?",
+      "options": [
+        "Karotis Doppler",
+        "Akciğer grafisi",
+        "TEE",
+        "Epiaortik ultrason"
+      ],
+      "correct": 2,
+      "explanation": "TEE kalp işlevi, dolum ve rezidüel hava değerlendirmesinde ayrılma sürecine rehberlik eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1sbkztk",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kanın yabancı yüzeyle temasıyla aktive olan sistemin başlangıç faktörü hangisidir?",
+      "options": [
+        "Faktör II",
+        "Faktör V",
+        "Faktör XIII",
+        "Faktör XII"
+      ],
+      "correct": 3,
+      "explanation": "Kontakt sistemde faktör XII, prekallikrein ve yüksek molekül ağırlıklı kininojen yer alır.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-17c0n1r",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "question": "KPB devre yüzeyleri komplemanın ağırlıkla hangi yolunu uyarır?",
+      "options": [
+        "Alternatif yol",
+        "Klasik yol",
+        "Lektin yolu",
+        "Terminal ortak yol"
+      ],
+      "correct": 0,
+      "explanation": "Biyomateryal teması komplemanın alternatif yolunu aktive edebilir; pıhtılaşma yolları ayrı sistemdir.",
+      "source": "İnflamasyon, Front Surg 2024"
+    },
+    {
+      "id": "PER245-01gjw0c",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Düşük MAP ve yüksek CVP'nin hat bağlantısıyla açıklanan nedeni hangisidir?",
+      "options": [
+        "Arteriyel kanül obstrüksiyonu",
+        "Ters kanülasyon",
+        "Venöz kanül obstrüksiyonu",
+        "Venöz hatta hava kilidi"
+      ],
+      "correct": 1,
+      "explanation": "Arter ve ven hatlarının ters bağlanması sistemik basıncı düşürüp venöz basıncı yükseltebilir.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-1mrfqox",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB sırasında güç kaybına karşı hangi araç mekanik yedek sağlar?",
+      "options": [
+        "Yedek batarya",
+        "Kesintisiz güç kaynağı",
+        "El krankı",
+        "Acil jeneratör"
+      ],
+      "correct": 2,
+      "explanation": "El krankı uyumlu pompanın elle çevrilmesini sağlayan mekanik yedektir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-12zo4kx",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB sonrası böbrek hasarı düşük oksijen sunumuyla ilişkili olabilir.",
+      "isTrue": true,
+      "explanation": "Akım ve hemoglobine bağlı oksijen sunumu böbrek koruma değerlendirmesinin parçasıdır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-05a9995",
+      "course": "PER245",
+      "topic": "KPB'den çıkış ve komplikasyonlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Güç kesintisine hazırlık için yedek gaz kaynağı gereksizdir.",
+      "isTrue": false,
+      "explanation": "AmSECT yedek gaz kaynağı, yedek güç ve uygun mekanik yedeğin hazır bulunmasını ister.",
+      "source": "AmSECT 2013"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

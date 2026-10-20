@@ -1,0 +1,20 @@
+{
+  "title": "Çalışma merkezini kullanma",
+  "category": "Başlarken",
+  "tags": [],
+  "kind": "note",
+  "sections": [
+    {
+      "title": "Ders notları",
+      "text": "# Kütüphanen hazır\n\nDers kütüphanesinden konunu seç. Ders ekranında özgün dosyayı açabilir, sayfa ve görselleri büyütebilirsin.\n\n# Sonraki dersler\n\n- Yeni ders ekle düğmesine bas.\n- Başlık, konu ve notlarını gir.\n- Görsellerini veya kaynak dosyalarını seç.\n- Dersi kaydet.\n\n# Çalışmaya devam ederken\n\nDersleri favorilerine ekleyebilir ve tamamlandı olarak işaretleyebilirsin. Kendi notların alanına yazdıklarını Notlarımı kaydet düğmesiyle sakla.\n\n# Yeniden açma ve yedek\n\nMac yeniden başladıktan sonra proje klasöründeki Baslat.command dosyasına çift tıkla. Kenar çubuğundaki Yedek indir ile tüm içeriğinin bir kopyasını saklayabilirsin.",
+      "images": []
+    }
+  ],
+  "attachments": [],
+  "id": "0c5dd00a-240d-4a09-814c-d302b1fd03e3",
+  "personalNotes": "",
+  "favorite": false,
+  "completed": false,
+  "createdAt": "2026-10-20T20:40:42.950Z",
+  "updatedAt": "2026-10-20T20:41:38.578Z"
+}

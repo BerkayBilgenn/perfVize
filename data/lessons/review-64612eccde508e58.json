@@ -1,0 +1,1152 @@
+{
+  "id": "review-64612eccde508e58",
+  "title": "Transfüzyon ve kan koruma",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hasta kan yönetimi",
+      "text": "Patient blood management\nAnemi, kanama ve transfüzyonu azaltmayı amaçlayan kanıta dayalı, hasta merkezli yaklaşım.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ivkr1h",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Hasta kan yönetimi",
+        "en": "Patient blood management",
+        "definition": "Anemi, kanama ve transfüzyonu azaltmayı amaçlayan kanıta dayalı, hasta merkezli yaklaşım.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Eritrosit süspansiyonu",
+      "text": "Packed red blood cells\nOksijen taşıma kapasitesini artırmak amacıyla kullanılan eritrositten zengin kan bileşeni.",
+      "images": [],
+      "card": {
+        "id": "PER243-0sdwfgi",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Eritrosit süspansiyonu",
+        "en": "Packed red blood cells",
+        "definition": "Oksijen taşıma kapasitesini artırmak amacıyla kullanılan eritrositten zengin kan bileşeni.",
+        "source": "Indian J Anaesth 2014: kan bileşenleri"
+      }
+    },
+    {
+      "title": "Taze donmuş plazma",
+      "text": "Fresh frozen plasma\nPıhtılaşma faktörlerini içeren, dondurularak saklanan plazma bileşeni.",
+      "images": [],
+      "card": {
+        "id": "PER243-06wb9ga",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Taze donmuş plazma",
+        "en": "Fresh frozen plasma",
+        "definition": "Pıhtılaşma faktörlerini içeren, dondurularak saklanan plazma bileşeni.",
+        "source": "Indian J Anaesth 2014: kan bileşenleri"
+      }
+    },
+    {
+      "title": "Trombosit süspansiyonu",
+      "text": "Platelet concentrate\nTrombosit desteği sağlamak için kullanılan, uygun sıcaklıkta ajitasyonla saklanan kan bileşeni.",
+      "images": [],
+      "card": {
+        "id": "PER243-08cibtm",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Trombosit süspansiyonu",
+        "en": "Platelet concentrate",
+        "definition": "Trombosit desteği sağlamak için kullanılan, uygun sıcaklıkta ajitasyonla saklanan kan bileşeni.",
+        "source": "Indian J Anaesth 2014: kan bileşenleri"
+      }
+    },
+    {
+      "title": "Kriyopresipitat",
+      "text": "Cryoprecipitate\nPlazmadan elde edilen fibrinojenden zengin çökelti; hipofibrinojenemide kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1qddrag",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Kriyopresipitat",
+        "en": "Cryoprecipitate",
+        "definition": "Plazmadan elde edilen fibrinojenden zengin çökelti; hipofibrinojenemide kullanılır.",
+        "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
+      }
+    },
+    {
+      "title": "Lökodeplesyon",
+      "text": "Leukodepletion\nFiltrasyonla kan bileşenindeki lökositlerin uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1mvw19k",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Lökodeplesyon",
+        "en": "Leukodepletion",
+        "definition": "Filtrasyonla kan bileşenindeki lökositlerin uzaklaştırılması.",
+        "source": "Indian J Anaesth 2014: kan bileşenleri"
+      }
+    },
+    {
+      "title": "Işınlama",
+      "text": "Irradiation\nKan bileşenindeki canlı donör T lenfositlerini etkisizleştirerek transfüzyonla ilişkili graft-versus-host hastalığını önleyen işlem.",
+      "images": [],
+      "card": {
+        "id": "PER243-1fr095n",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Işınlama",
+        "en": "Irradiation",
+        "definition": "Kan bileşenindeki canlı donör T lenfositlerini etkisizleştirerek transfüzyonla ilişkili graft-versus-host hastalığını önleyen işlem.",
+        "source": "Indian J Anaesth 2014: kan bileşenleri"
+      }
+    },
+    {
+      "title": "Akut hemolitik transfüzyon reaksiyonu",
+      "text": "Acute hemolytic transfusion reaction\nÇoğunlukla ABO uyumsuzluğuyla dakikalar içinde gelişen eritrosit yıkımı.",
+      "images": [],
+      "card": {
+        "id": "PER243-11e51dc",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 1,
+        "term": "Akut hemolitik transfüzyon reaksiyonu",
+        "en": "Acute hemolytic transfusion reaction",
+        "definition": "Çoğunlukla ABO uyumsuzluğuyla dakikalar içinde gelişen eritrosit yıkımı.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Febril non-hemolitik reaksiyon",
+      "text": "Febrile non-hemolytic reaction\nTransfüzyon sırasında veya kısa süre sonra başka bir nedenle açıklanamayan ateş artışıyla gelişen, hemolizle ilişkili olmayan reaksiyon.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ejaiui",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 1,
+        "term": "Febril non-hemolitik reaksiyon",
+        "en": "Febrile non-hemolytic reaction",
+        "definition": "Transfüzyon sırasında veya kısa süre sonra başka bir nedenle açıklanamayan ateş artışıyla gelişen, hemolizle ilişkili olmayan reaksiyon.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "TRALI",
+      "text": "Transfusion-related acute lung injury\nTransfüzyonla ilişkili, kardiyojenik olmayan akut akciğer hasarı ve ödem tablosu.",
+      "images": [],
+      "card": {
+        "id": "PER243-1yzcz41",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "TRALI",
+        "en": "Transfusion-related acute lung injury",
+        "definition": "Transfüzyonla ilişkili, kardiyojenik olmayan akut akciğer hasarı ve ödem tablosu.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "TACO",
+      "text": "Transfusion-associated circulatory overload\nTransfüzyonla gelişen hidrostatik dolaşım yüklenmesi ve akciğer ödemi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1gxyhq4",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "TACO",
+        "en": "Transfusion-associated circulatory overload",
+        "definition": "Transfüzyonla gelişen hidrostatik dolaşım yüklenmesi ve akciğer ödemi.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "TRIM",
+      "text": "Transfusion-related immunomodulation\nAllojenik transfüzyonun alıcı bağışıklığını baskılaması (enfeksiyon, nüks riski).",
+      "images": [],
+      "card": {
+        "id": "PER243-11usfcd",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "TRIM",
+        "en": "Transfusion-related immunomodulation",
+        "definition": "Allojenik transfüzyonun alıcı bağışıklığını baskılaması (enfeksiyon, nüks riski).",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "TA-GVHD",
+      "text": "Transfusion-associated graft-versus-host disease\nCanlı donör T lenfositlerinin alıcı dokularına saldırısı; ışınlamayla önlenir.",
+      "images": [],
+      "card": {
+        "id": "PER243-116f0gk",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "TA-GVHD",
+        "en": "Transfusion-associated graft-versus-host disease",
+        "definition": "Canlı donör T lenfositlerinin alıcı dokularına saldırısı; ışınlamayla önlenir.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Sitrat toksisitesi",
+      "text": "Citrate toxicity\nHızlı/masif transfüzyonda sitratın kalsiyumu bağlayarak hipokalsemi yapması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ymhypr",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Sitrat toksisitesi",
+        "en": "Citrate toxicity",
+        "definition": "Hızlı/masif transfüzyonda sitratın kalsiyumu bağlayarak hipokalsemi yapması.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Restriktif transfüzyon stratejisi",
+      "text": "Restrictive transfusion strategy\nTransfüzyon kararında liberal stratejiye göre daha düşük hemoglobin eşiği kullanan yaklaşım; eşik hastanın oksijen dengesinden bağımsız değerlendirilmez.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ozsv8m",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "Restriktif transfüzyon stratejisi",
+        "en": "Restrictive transfusion strategy",
+        "definition": "Transfüzyon kararında liberal stratejiye göre daha düşük hemoglobin eşiği kullanan yaklaşım; eşik hastanın oksijen dengesinden bağımsız değerlendirilmez.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Hücre kurtarıcı",
+      "text": "Cell saver (cell salvage)\nCerrahi kanamanın aspire edilip santrifüj ve yıkamayla yalnız eritrositlerin geri verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0g03njb",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Hücre kurtarıcı",
+        "en": "Cell saver (cell salvage)",
+        "definition": "Cerrahi kanamanın aspire edilip santrifüj ve yıkamayla yalnız eritrositlerin geri verilmesi.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "ANH",
+      "text": "Acute normovolemic hemodilution\nCerrahi başında kan alınıp hacmin sıvıyla korunması ve kanın KPB sonrası geri verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1jfflau",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 2,
+        "term": "ANH",
+        "en": "Acute normovolemic hemodilution",
+        "definition": "Cerrahi başında kan alınıp hacmin sıvıyla korunması ve kanın KPB sonrası geri verilmesi.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "RAP",
+      "text": "Retrograde autologous priming\nKPB başlangıcında priming sıvısının hastanın kendi kanıyla yer değiştirilerek hemodilüsyonun azaltılması.",
+      "images": [],
+      "card": {
+        "id": "PER243-0eehinc",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 1,
+        "term": "RAP",
+        "en": "Retrograde autologous priming",
+        "definition": "KPB başlangıcında priming sıvısının hastanın kendi kanıyla yer değiştirilerek hemodilüsyonun azaltılması.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "MiECC",
+      "text": "Minimally invasive extracorporeal circulation\nDüşük priming hacimli, optimize edilmiş kapalı KPB sistemi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1x9srbo",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 1,
+        "term": "MiECC",
+        "en": "Minimally invasive extracorporeal circulation",
+        "definition": "Düşük priming hacimli, optimize edilmiş kapalı KPB sistemi.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Hemodilüsyon",
+      "text": "Hemodilution\nPriming ve sıvılarla kanın seyrelmesi; Hct ve pıhtılaşma faktörleri azalır.",
+      "images": [],
+      "card": {
+        "id": "PER243-174ejjg",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Hemodilüsyon",
+        "en": "Hemodilution",
+        "definition": "Priming ve sıvılarla kanın seyrelmesi; Hct ve pıhtılaşma faktörleri azalır.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Ultrafiltrasyon",
+      "text": "Ultrafiltration\nBasınç gradyanıyla plazmadan su ve küçük molekülleri uzaklaştırarak hemokonsantrasyon sağlanması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1mvoh5s",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "term",
+        "importance": 3,
+        "term": "Ultrafiltrasyon",
+        "en": "Ultrafiltration",
+        "definition": "Basınç gradyanıyla plazmadan su ve küçük molekülleri uzaklaştırarak hemokonsantrasyon sağlanması.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Transfüzyon sonrası akciğer ödemi",
+      "text": "TRALI\nKardiyojenik olmayan geçirgenlik ödemi\nDolaşım yüklenmesiyle açıklanmaz\n\nTACO\nHidrostatik dolaşım yüklenmesi\nKalp ve böbrek yetersizliği riski artırır",
+      "images": [],
+      "card": {
+        "id": "PER243-075s6pv",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "compare",
+        "importance": 2,
+        "title": "Transfüzyon sonrası akciğer ödemi",
+        "left": {
+          "title": "TRALI",
+          "points": [
+            "Kardiyojenik olmayan geçirgenlik ödemi",
+            "Dolaşım yüklenmesiyle açıklanmaz"
+          ]
+        },
+        "right": {
+          "title": "TACO",
+          "points": [
+            "Hidrostatik dolaşım yüklenmesi",
+            "Kalp ve böbrek yetersizliği riski artırır"
+          ]
+        },
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Otolog kanı geri verme",
+      "text": "ANH\nCerrahi başında tam kan alınır\nKan hacmi sıvıyla korunur ve kan sonra geri verilir\n\nHücre kurtarıcı\nCerrahi alandan kaybedilen kan toplanır\nYıkama sonrası eritrositler geri verilir",
+      "images": [],
+      "card": {
+        "id": "PER243-0h9dmgd",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "compare",
+        "importance": 2,
+        "title": "Otolog kanı geri verme",
+        "left": {
+          "title": "ANH",
+          "points": [
+            "Cerrahi başında tam kan alınır",
+            "Kan hacmi sıvıyla korunur ve kan sonra geri verilir"
+          ]
+        },
+        "right": {
+          "title": "Hücre kurtarıcı",
+          "points": [
+            "Cerrahi alandan kaybedilen kan toplanır",
+            "Yıkama sonrası eritrositler geri verilir"
+          ]
+        },
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Kan korumada priming",
+      "text": "Devrenin priming hacminin azaltılması **hemodilüsyonu azaltır** ve hasta kan yönetiminin bir parçasıdır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1xfve8s",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kan korumada priming",
+        "body": "Devrenin priming hacminin azaltılması **hemodilüsyonu azaltır** ve hasta kan yönetiminin bir parçasıdır.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Rezidüel pompa kanı",
+      "text": "Kardiyopulmoner bypass sonundaki rezidüel devre kanı, kurum yaklaşımına göre işlenmeden, hücre kurtarıcıyla veya ultrafiltrasyon sonrası geri verilebilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-19qjx7n",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "Rezidüel pompa kanı",
+        "body": "Kardiyopulmoner bypass sonundaki rezidüel devre kanı, kurum yaklaşımına göre işlenmeden, hücre kurtarıcıyla veya ultrafiltrasyon sonrası geri verilebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hemolizde laboratuvar yönü",
+      "text": "Akut hemolitik reaksiyonda hemoglobinemi ve hemoglobinüri görülebilir; **haptoglobin azalırken LDH ve indirekt bilirubin artar**.",
+      "images": [],
+      "card": {
+        "id": "PER243-1y5q988",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hemolizde laboratuvar yönü",
+        "body": "Akut hemolitik reaksiyonda hemoglobinemi ve hemoglobinüri görülebilir; **haptoglobin azalırken LDH ve indirekt bilirubin artar**.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Lökosit azaltımı ve deplesyon",
+      "text": "Buffy coat çıkarılmasıyla lökosit azaltımı ile **filtrasyonla lökodeplesyon** aynı işlem değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1a5lvm1",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "Lökosit azaltımı ve deplesyon",
+        "body": "Buffy coat çıkarılmasıyla lökosit azaltımı ile **filtrasyonla lökodeplesyon** aynı işlem değildir.",
+        "source": "Indian J Anaesth 2014: kan bileşenleri"
+      }
+    },
+    {
+      "title": "Transfüzyonda oksijen dengesi",
+      "text": "2024 PBM kılavuzu transfüzyon kararını yalnız sabit hemoglobin eşiğine bağlamaz; **oksijen sunumu ve ekstraksiyon dengesi** değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0ragslp",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 1,
+        "title": "Transfüzyonda oksijen dengesi",
+        "body": "2024 PBM kılavuzu transfüzyon kararını yalnız sabit hemoglobin eşiğine bağlamaz; **oksijen sunumu ve ekstraksiyon dengesi** değerlendirilir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Sitrat içeren kan ürünleri hipokalsemiyi hangi mekanizmayla oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0x1oatj",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "flip",
+        "importance": 1,
+        "question": "Sitrat içeren kan ürünleri hipokalsemiyi hangi mekanizmayla oluşturur?",
+        "answer": "**Sitratın kalsiyumu bağlaması** iyonize kalsiyumu azaltabilir; hızlı ve masif transfüzyonda önemlidir.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Kriyopresipitatın kan koruma açısından temel bileşeni nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1dtcd6s",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kriyopresipitatın kan koruma açısından temel bileşeni nedir?",
+        "answer": "**Fibrinojen**; hipofibrinojenemiye bağlı kanamada pıhtı substratı sağlar.",
+        "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
+      }
+    },
+    {
+      "title": "Işınlama hedefi",
+      "text": "Kan bileşenlerinin ışınlanması, canlı donör T lenfositlerinin oluşturduğu **TA-GVHD'yi** önlemek içindir; lökodeplesyonla eşdeğer değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-170aab6",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "remember",
+        "importance": 3,
+        "title": "Işınlama hedefi",
+        "body": "Kan bileşenlerinin ışınlanması, canlı donör T lenfositlerinin oluşturduğu **TA-GVHD'yi** önlemek içindir; lökodeplesyonla eşdeğer değildir.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "TRICS III'te restriktif eşik",
+      "text": "2024 PBM kılavuzunun aktardığı TRICS III'te **Hb <7,5 g/dL** eşiği kullanan restriktif strateji, çalışmanın hasta ve sonlanım koşullarında liberal stratejiye non-inferior bulunmuştur.",
+      "images": [],
+      "card": {
+        "id": "PER243-0dgwi49",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 2,
+        "title": "TRICS III'te restriktif eşik",
+        "body": "2024 PBM kılavuzunun aktardığı TRICS III'te **Hb <7,5 g/dL** eşiği kullanan restriktif strateji, çalışmanın hasta ve sonlanım koşullarında liberal stratejiye non-inferior bulunmuştur.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "KPB'de hemoglobin ve sunum",
+      "text": "2024 KPB kılavuzu Hb **<6,0 g/dL** için eritrosit desteğini tartışır; oksijen sunumu >273 mL/dk/m² ve serebral oksimetri yeterliyse Hct %21–24 kabul edilebilir. Eşik klinik bağlamla değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ek7vfy",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "fact",
+        "importance": 3,
+        "title": "KPB'de hemoglobin ve sunum",
+        "body": "2024 KPB kılavuzu Hb **<6,0 g/dL** için eritrosit desteğini tartışır; oksijen sunumu >273 mL/dk/m² ve serebral oksimetri yeterliyse Hct %21–24 kabul edilebilir. Eşik klinik bağlamla değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Akut hemolitik transfüzyon reaksiyonunun en sık nedeni hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0cu0gke",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Akut hemolitik transfüzyon reaksiyonunun en sık nedeni hangisidir?",
+        "options": [
+          "ABO uyumsuzluğu",
+          "Rh antijen uyumsuzluğu",
+          "Sitratın kalsiyumu bağlaması",
+          "Plazma proteinine alerji"
+        ],
+        "correct": 0,
+        "explanation": "ABO uyumsuzluğu akut eritrosit yıkımının en sık nedenidir.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Hücre kurtarıcıda yıkama sonrası esas olarak hangi bileşen geri verilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0is2r5g",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Hücre kurtarıcıda yıkama sonrası esas olarak hangi bileşen geri verilir?",
+        "options": [
+          "Trombositler",
+          "Eritrositler",
+          "Tam plazma",
+          "Kriyopresipitat"
+        ],
+        "correct": 1,
+        "explanation": "Hücre kurtarıcı, toplanan kanı yıkayıp eritrositleri geri verir; tam kanın bütün bileşenleri korunmaz.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Otolog priming işlemi hemodilüsyonu nasıl azaltır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1pz88ym",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Otolog priming işlemi hemodilüsyonu nasıl azaltır?",
+        "options": [
+          "Hastanın tam kanı alınır, yerine sıvı verilir",
+          "Devre kanı yıkanarak eritrosit geri verilir",
+          "Priming sıvısı hastanın kanıyla yer değiştirir",
+          "Plazmadan su ve küçük moleküller süzülür"
+        ],
+        "correct": 2,
+        "explanation": "RAP'ta devre priming sıvısı hastanın kendi kanıyla yer değiştirir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    },
+    {
+      "title": "Transfüzyon sırasında hipotermiyi önlemek için uygun araç hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1bcotp0",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Transfüzyon sırasında hipotermiyi önlemek için uygun araç hangisidir?",
+        "options": [
+          "Kontrollü sıcak su banyosu",
+          "Mikrodalga ısıtma cihazı",
+          "Oda tipi sıcak hava ısıtıcısı",
+          "Bu amaçla tasarlanmış kan ısıtıcısı"
+        ],
+        "correct": 3,
+        "explanation": "Kan bileşenleri yalnız bu amaçla tasarlanmış kan ısıtıcılarıyla ısıtılır.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "Transfüzyondaki sitrat iyonize kalsiyumu artırarak hiperkalsemi oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-12u7yno",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "tf",
+        "importance": 3,
+        "statement": "Transfüzyondaki sitrat iyonize kalsiyumu artırarak hiperkalsemi oluşturur.",
+        "isTrue": false,
+        "explanation": "Sitrat kalsiyumu bağlar ve iyonize kalsiyumu azaltarak hipokalsemi oluşturabilir.",
+        "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+      }
+    },
+    {
+      "title": "2024 PBM kılavuzunda kanamayı azaltmak için profilaktik TDP kullanımı desteklenmez.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0t21bma",
+        "course": "PER243",
+        "topic": "Transfüzyon ve kan koruma",
+        "type": "tf",
+        "importance": 1,
+        "statement": "2024 PBM kılavuzunda kanamayı azaltmak için profilaktik TDP kullanımı desteklenmez.",
+        "isTrue": true,
+        "explanation": "TDP belirli kanama/faktör eksikliği endikasyonlarında kullanılır; profilaktik rutin kullanım etkili değildir.",
+        "source": "EACTS/EACTAIC PBM 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1ivkr1h",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Hasta kan yönetimi",
+      "en": "Patient blood management",
+      "definition": "Anemi, kanama ve transfüzyonu azaltmayı amaçlayan kanıta dayalı, hasta merkezli yaklaşım.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0sdwfgi",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Eritrosit süspansiyonu",
+      "en": "Packed red blood cells",
+      "definition": "Oksijen taşıma kapasitesini artırmak amacıyla kullanılan eritrositten zengin kan bileşeni.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "id": "PER243-06wb9ga",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Taze donmuş plazma",
+      "en": "Fresh frozen plasma",
+      "definition": "Pıhtılaşma faktörlerini içeren, dondurularak saklanan plazma bileşeni.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "id": "PER243-08cibtm",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Trombosit süspansiyonu",
+      "en": "Platelet concentrate",
+      "definition": "Trombosit desteği sağlamak için kullanılan, uygun sıcaklıkta ajitasyonla saklanan kan bileşeni.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "id": "PER243-1qddrag",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Kriyopresipitat",
+      "en": "Cryoprecipitate",
+      "definition": "Plazmadan elde edilen fibrinojenden zengin çökelti; hipofibrinojenemide kullanılır.",
+      "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
+    },
+    {
+      "id": "PER243-1mvw19k",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Lökodeplesyon",
+      "en": "Leukodepletion",
+      "definition": "Filtrasyonla kan bileşenindeki lökositlerin uzaklaştırılması.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "id": "PER243-1fr095n",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Işınlama",
+      "en": "Irradiation",
+      "definition": "Kan bileşenindeki canlı donör T lenfositlerini etkisizleştirerek transfüzyonla ilişkili graft-versus-host hastalığını önleyen işlem.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "id": "PER243-11e51dc",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 1,
+      "term": "Akut hemolitik transfüzyon reaksiyonu",
+      "en": "Acute hemolytic transfusion reaction",
+      "definition": "Çoğunlukla ABO uyumsuzluğuyla dakikalar içinde gelişen eritrosit yıkımı.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-1ejaiui",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 1,
+      "term": "Febril non-hemolitik reaksiyon",
+      "en": "Febrile non-hemolytic reaction",
+      "definition": "Transfüzyon sırasında veya kısa süre sonra başka bir nedenle açıklanamayan ateş artışıyla gelişen, hemolizle ilişkili olmayan reaksiyon.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-1yzcz41",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "TRALI",
+      "en": "Transfusion-related acute lung injury",
+      "definition": "Transfüzyonla ilişkili, kardiyojenik olmayan akut akciğer hasarı ve ödem tablosu.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-1gxyhq4",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "TACO",
+      "en": "Transfusion-associated circulatory overload",
+      "definition": "Transfüzyonla gelişen hidrostatik dolaşım yüklenmesi ve akciğer ödemi.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-11usfcd",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "TRIM",
+      "en": "Transfusion-related immunomodulation",
+      "definition": "Allojenik transfüzyonun alıcı bağışıklığını baskılaması (enfeksiyon, nüks riski).",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-116f0gk",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "TA-GVHD",
+      "en": "Transfusion-associated graft-versus-host disease",
+      "definition": "Canlı donör T lenfositlerinin alıcı dokularına saldırısı; ışınlamayla önlenir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-0ymhypr",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Sitrat toksisitesi",
+      "en": "Citrate toxicity",
+      "definition": "Hızlı/masif transfüzyonda sitratın kalsiyumu bağlayarak hipokalsemi yapması.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-0ozsv8m",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "Restriktif transfüzyon stratejisi",
+      "en": "Restrictive transfusion strategy",
+      "definition": "Transfüzyon kararında liberal stratejiye göre daha düşük hemoglobin eşiği kullanan yaklaşım; eşik hastanın oksijen dengesinden bağımsız değerlendirilmez.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0g03njb",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Hücre kurtarıcı",
+      "en": "Cell saver (cell salvage)",
+      "definition": "Cerrahi kanamanın aspire edilip santrifüj ve yıkamayla yalnız eritrositlerin geri verilmesi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1jfflau",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 2,
+      "term": "ANH",
+      "en": "Acute normovolemic hemodilution",
+      "definition": "Cerrahi başında kan alınıp hacmin sıvıyla korunması ve kanın KPB sonrası geri verilmesi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0eehinc",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 1,
+      "term": "RAP",
+      "en": "Retrograde autologous priming",
+      "definition": "KPB başlangıcında priming sıvısının hastanın kendi kanıyla yer değiştirilerek hemodilüsyonun azaltılması.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1x9srbo",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 1,
+      "term": "MiECC",
+      "en": "Minimally invasive extracorporeal circulation",
+      "definition": "Düşük priming hacimli, optimize edilmiş kapalı KPB sistemi.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-174ejjg",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Hemodilüsyon",
+      "en": "Hemodilution",
+      "definition": "Priming ve sıvılarla kanın seyrelmesi; Hct ve pıhtılaşma faktörleri azalır.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1mvoh5s",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "term",
+      "importance": 3,
+      "term": "Ultrafiltrasyon",
+      "en": "Ultrafiltration",
+      "definition": "Basınç gradyanıyla plazmadan su ve küçük molekülleri uzaklaştırarak hemokonsantrasyon sağlanması.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-075s6pv",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "compare",
+      "importance": 2,
+      "title": "Transfüzyon sonrası akciğer ödemi",
+      "left": {
+        "title": "TRALI",
+        "points": [
+          "Kardiyojenik olmayan geçirgenlik ödemi",
+          "Dolaşım yüklenmesiyle açıklanmaz"
+        ]
+      },
+      "right": {
+        "title": "TACO",
+        "points": [
+          "Hidrostatik dolaşım yüklenmesi",
+          "Kalp ve böbrek yetersizliği riski artırır"
+        ]
+      },
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-0h9dmgd",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "compare",
+      "importance": 2,
+      "title": "Otolog kanı geri verme",
+      "left": {
+        "title": "ANH",
+        "points": [
+          "Cerrahi başında tam kan alınır",
+          "Kan hacmi sıvıyla korunur ve kan sonra geri verilir"
+        ]
+      },
+      "right": {
+        "title": "Hücre kurtarıcı",
+        "points": [
+          "Cerrahi alandan kaybedilen kan toplanır",
+          "Yıkama sonrası eritrositler geri verilir"
+        ]
+      },
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1xfve8s",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kan korumada priming",
+      "body": "Devrenin priming hacminin azaltılması **hemodilüsyonu azaltır** ve hasta kan yönetiminin bir parçasıdır.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-19qjx7n",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "Rezidüel pompa kanı",
+      "body": "Kardiyopulmoner bypass sonundaki rezidüel devre kanı, kurum yaklaşımına göre işlenmeden, hücre kurtarıcıyla veya ultrafiltrasyon sonrası geri verilebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1y5q988",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hemolizde laboratuvar yönü",
+      "body": "Akut hemolitik reaksiyonda hemoglobinemi ve hemoglobinüri görülebilir; **haptoglobin azalırken LDH ve indirekt bilirubin artar**.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-1a5lvm1",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "Lökosit azaltımı ve deplesyon",
+      "body": "Buffy coat çıkarılmasıyla lökosit azaltımı ile **filtrasyonla lökodeplesyon** aynı işlem değildir.",
+      "source": "Indian J Anaesth 2014: kan bileşenleri"
+    },
+    {
+      "id": "PER243-0ragslp",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 1,
+      "title": "Transfüzyonda oksijen dengesi",
+      "body": "2024 PBM kılavuzu transfüzyon kararını yalnız sabit hemoglobin eşiğine bağlamaz; **oksijen sunumu ve ekstraksiyon dengesi** değerlendirilir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-0x1oatj",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "flip",
+      "importance": 1,
+      "question": "Sitrat içeren kan ürünleri hipokalsemiyi hangi mekanizmayla oluşturur?",
+      "answer": "**Sitratın kalsiyumu bağlaması** iyonize kalsiyumu azaltabilir; hızlı ve masif transfüzyonda önemlidir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-1dtcd6s",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kriyopresipitatın kan koruma açısından temel bileşeni nedir?",
+      "answer": "**Fibrinojen**; hipofibrinojenemiye bağlı kanamada pıhtı substratı sağlar.",
+      "source": "Indian J Anaesth 2014: transfüzyon endikasyonları"
+    },
+    {
+      "id": "PER243-170aab6",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "remember",
+      "importance": 3,
+      "title": "Işınlama hedefi",
+      "body": "Kan bileşenlerinin ışınlanması, canlı donör T lenfositlerinin oluşturduğu **TA-GVHD'yi** önlemek içindir; lökodeplesyonla eşdeğer değildir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-0dgwi49",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 2,
+      "title": "TRICS III'te restriktif eşik",
+      "body": "2024 PBM kılavuzunun aktardığı TRICS III'te **Hb <7,5 g/dL** eşiği kullanan restriktif strateji, çalışmanın hasta ve sonlanım koşullarında liberal stratejiye non-inferior bulunmuştur.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1ek7vfy",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "fact",
+      "importance": 3,
+      "title": "KPB'de hemoglobin ve sunum",
+      "body": "2024 KPB kılavuzu Hb **<6,0 g/dL** için eritrosit desteğini tartışır; oksijen sunumu >273 mL/dk/m² ve serebral oksimetri yeterliyse Hct %21–24 kabul edilebilir. Eşik klinik bağlamla değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0cu0gke",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Akut hemolitik transfüzyon reaksiyonunun en sık nedeni hangisidir?",
+      "options": [
+        "ABO uyumsuzluğu",
+        "Rh antijen uyumsuzluğu",
+        "Sitratın kalsiyumu bağlaması",
+        "Plazma proteinine alerji"
+      ],
+      "correct": 0,
+      "explanation": "ABO uyumsuzluğu akut eritrosit yıkımının en sık nedenidir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-0is2r5g",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Hücre kurtarıcıda yıkama sonrası esas olarak hangi bileşen geri verilir?",
+      "options": [
+        "Trombositler",
+        "Eritrositler",
+        "Tam plazma",
+        "Kriyopresipitat"
+      ],
+      "correct": 1,
+      "explanation": "Hücre kurtarıcı, toplanan kanı yıkayıp eritrositleri geri verir; tam kanın bütün bileşenleri korunmaz.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1pz88ym",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Otolog priming işlemi hemodilüsyonu nasıl azaltır?",
+      "options": [
+        "Hastanın tam kanı alınır, yerine sıvı verilir",
+        "Devre kanı yıkanarak eritrosit geri verilir",
+        "Priming sıvısı hastanın kanıyla yer değiştirir",
+        "Plazmadan su ve küçük moleküller süzülür"
+      ],
+      "correct": 2,
+      "explanation": "RAP'ta devre priming sıvısı hastanın kendi kanıyla yer değiştirir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    },
+    {
+      "id": "PER243-1bcotp0",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Transfüzyon sırasında hipotermiyi önlemek için uygun araç hangisidir?",
+      "options": [
+        "Kontrollü sıcak su banyosu",
+        "Mikrodalga ısıtma cihazı",
+        "Oda tipi sıcak hava ısıtıcısı",
+        "Bu amaçla tasarlanmış kan ısıtıcısı"
+      ],
+      "correct": 3,
+      "explanation": "Kan bileşenleri yalnız bu amaçla tasarlanmış kan ısıtıcılarıyla ısıtılır.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-12u7yno",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "tf",
+      "importance": 3,
+      "statement": "Transfüzyondaki sitrat iyonize kalsiyumu artırarak hiperkalsemi oluşturur.",
+      "isTrue": false,
+      "explanation": "Sitrat kalsiyumu bağlar ve iyonize kalsiyumu azaltarak hipokalsemi oluşturabilir.",
+      "source": "Indian J Anaesth 2014: transfüzyon reaksiyonları"
+    },
+    {
+      "id": "PER243-0t21bma",
+      "course": "PER243",
+      "topic": "Transfüzyon ve kan koruma",
+      "type": "tf",
+      "importance": 1,
+      "statement": "2024 PBM kılavuzunda kanamayı azaltmak için profilaktik TDP kullanımı desteklenmez.",
+      "isTrue": true,
+      "explanation": "TDP belirli kanama/faktör eksikliği endikasyonlarında kullanılır; profilaktik rutin kullanım etkili değildir.",
+      "source": "EACTS/EACTAIC PBM 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

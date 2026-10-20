@@ -1,0 +1,932 @@
+{
+  "id": "review-ca518830380cb4be",
+  "title": "Pediatrik KPB'nin temelleri",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hemodilüsyon",
+      "text": "Hemodilution\nPrime solüsyonu ile kanın sulandırılması; Hct ve onkotik basınç düşer.\nYun. haima + Lat. dilutio",
+      "images": [],
+      "card": {
+        "id": "PER241-174ejjg",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "term": "Hemodilüsyon",
+        "en": "Hemodilution",
+        "definition": "Prime solüsyonu ile kanın sulandırılması; Hct ve onkotik basınç düşer.",
+        "origin": "Yun. haima + Lat. dilutio"
+      }
+    },
+    {
+      "title": "Kardiyopulmoner bypass",
+      "text": "Cardiopulmonary bypass\nKalp ve akciğer işlevinin kalp-akciğer makinesi (pompa + oksijenatör) ile geçici üstlenilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-0fl3so8",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 3,
+        "source": "Wikipedia",
+        "term": "Kardiyopulmoner bypass",
+        "en": "Cardiopulmonary bypass",
+        "definition": "Kalp ve akciğer işlevinin kalp-akciğer makinesi (pompa + oksijenatör) ile geçici üstlenilmesi."
+      }
+    },
+    {
+      "title": "Ekstrakorporeal dolaşım",
+      "text": "Extracorporeal circulation\nKanın vücut dışındaki bir devrede dolaştırılması.\nLat. extra + corpus = beden dışı",
+      "images": [],
+      "card": {
+        "id": "PER241-0uorstl",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Ekstrakorporeal dolaşım",
+        "en": "Extracorporeal circulation",
+        "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+        "origin": "Lat. extra + corpus = beden dışı"
+      }
+    },
+    {
+      "title": "Prime",
+      "text": "Prime / priming\nKPB devresini havasız doldurmak için kullanılan solüsyon ve işlem.\nİng. prime = hazırlamak",
+      "images": [],
+      "card": {
+        "id": "PER241-1q9pqok",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 3,
+        "source": "Hendrix ve ark. 2021",
+        "term": "Prime",
+        "en": "Prime / priming",
+        "definition": "KPB devresini havasız doldurmak için kullanılan solüsyon ve işlem.",
+        "origin": "İng. prime = hazırlamak"
+      }
+    },
+    {
+      "title": "Kanlı prime",
+      "text": "Blood prime\nHemodilüsyonu sınırlamak için ES ve/veya TDP içeren prime.",
+      "images": [],
+      "card": {
+        "id": "PER241-0rvohjh",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Hendrix ve ark. 2021",
+        "term": "Kanlı prime",
+        "en": "Blood prime",
+        "definition": "Hemodilüsyonu sınırlamak için ES ve/veya TDP içeren prime."
+      }
+    },
+    {
+      "title": "Minyatürizasyon",
+      "text": "Miniaturization\nDevre bileşenlerinin küçültülüp hatların kısaltılarak prime hacminin azaltılması.",
+      "images": [],
+      "card": {
+        "id": "PER241-0iwvxy8",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "term": "Minyatürizasyon",
+        "en": "Miniaturization",
+        "definition": "Devre bileşenlerinin küçültülüp hatların kısaltılarak prime hacminin azaltılması."
+      }
+    },
+    {
+      "title": "RAP",
+      "text": "Retrograde autologous priming\nPrime'ın hastanın kendi kanıyla geriye doğru itilip uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER241-0eehinc",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Hagedorn ve ark. 2019",
+        "term": "RAP",
+        "en": "Retrograde autologous priming",
+        "definition": "Prime'ın hastanın kendi kanıyla geriye doğru itilip uzaklaştırılması."
+      }
+    },
+    {
+      "title": "PBUF",
+      "text": "Pre-bypass ultrafiltration\nKanlı prime'ın KPB öncesi ultrafiltrasyonla \"yıkanması\" (K, laktat, glukoz düşer; pH düzelir).",
+      "images": [],
+      "card": {
+        "id": "PER241-1l2gsb0",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 1,
+        "source": "Valleley ve ark. 2007",
+        "term": "PBUF",
+        "en": "Pre-bypass ultrafiltration",
+        "definition": "Kanlı prime'ın KPB öncesi ultrafiltrasyonla \"yıkanması\" (K, laktat, glukoz düşer; pH düzelir)."
+      }
+    },
+    {
+      "title": "TDP",
+      "text": "Fresh frozen plasma\nPıhtılaşma faktörlerini içeren plazma ürünü; neonatal prime'da kullanılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-00fe0lf",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 1,
+        "source": "Hendrix ve ark. 2021",
+        "term": "TDP",
+        "en": "Fresh frozen plasma",
+        "definition": "Pıhtılaşma faktörlerini içeren plazma ürünü; neonatal prime'da kullanılır."
+      }
+    },
+    {
+      "title": "Eritrosit süspansiyonu",
+      "text": "Packed red blood cells\nPrime'da Hct'yi yükseltmek için kullanılan ürün; metabolik yük nedeniyle yıkanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0sdwfgi",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Valleley ve ark. 2007",
+        "term": "Eritrosit süspansiyonu",
+        "en": "Packed red blood cells",
+        "definition": "Prime'da Hct'yi yükseltmek için kullanılan ürün; metabolik yük nedeniyle yıkanabilir."
+      }
+    },
+    {
+      "title": "Taze tam kan",
+      "text": "Fresh whole blood\nKoagülasyon faktörleri ve trombositleri de içeren, tazelik süresi çalışmanın protokolünde tanımlanan tam kan ürünü.",
+      "images": [],
+      "card": {
+        "id": "PER241-0a8f1lj",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Valleley ve ark. 2007",
+        "term": "Taze tam kan",
+        "en": "Fresh whole blood",
+        "definition": "Koagülasyon faktörleri ve trombositleri de içeren, tazelik süresi çalışmanın protokolünde tanımlanan tam kan ürünü."
+      }
+    },
+    {
+      "title": "VAVD",
+      "text": "Vacuum-assisted venous drainage\nVenöz rezervuara kontrollü negatif basınç uygulayarak drenajı artırma.",
+      "images": [],
+      "card": {
+        "id": "PER241-1b1sttq",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Groom ve ark. 2005",
+        "term": "VAVD",
+        "en": "Vacuum-assisted venous drainage",
+        "definition": "Venöz rezervuara kontrollü negatif basınç uygulayarak drenajı artırma."
+      }
+    },
+    {
+      "title": "Oksijen sunumu",
+      "text": "Oxygen delivery\nBirim zamanda dokulara taşınan oksijen miktarı. Pompa akımı ve kanın oksijen taşıma kapasitesiyle ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0b63frb",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Ramakrishnan ve ark. 2023",
+        "term": "Oksijen sunumu",
+        "en": "Oxygen delivery",
+        "definition": "Birim zamanda dokulara taşınan oksijen miktarı. Pompa akımı ve kanın oksijen taşıma kapasitesiyle ilişkilidir."
+      }
+    },
+    {
+      "title": "Kardiyak indeks",
+      "text": "Cardiac index\nKardiyak debinin BSA'ya bölünmesi (L/dk/m²).",
+      "images": [],
+      "card": {
+        "id": "PER241-0zle485",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 1,
+        "source": "Ramakrishnan ve ark. 2023",
+        "term": "Kardiyak indeks",
+        "en": "Cardiac index",
+        "definition": "Kardiyak debinin BSA'ya bölünmesi (L/dk/m²)."
+      }
+    },
+    {
+      "title": "BSA",
+      "text": "Body surface area\nBoy ve kilodan hesaplanabilen, kardiyak indeks ve pompa akımını değerlendirmede kullanılan vücut büyüklüğü ölçütü.",
+      "images": [],
+      "card": {
+        "id": "PER241-007e9ul",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "BSA",
+        "en": "Body surface area",
+        "definition": "Boy ve kilodan hesaplanabilen, kardiyak indeks ve pompa akımını değerlendirmede kullanılan vücut büyüklüğü ölçütü."
+      }
+    },
+    {
+      "title": "Kalp-akciğer makinesi",
+      "text": "Heart-lung machine\nPompa ve oksijenatörden oluşan KPB cihazı.",
+      "images": [],
+      "card": {
+        "id": "PER241-1v2nsm1",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Kalp-akciğer makinesi",
+        "en": "Heart-lung machine",
+        "definition": "Pompa ve oksijenatörden oluşan KPB cihazı."
+      }
+    },
+    {
+      "title": "Yenidoğan devresinde temel oran",
+      "text": "Devre prime hacmi hastanın kan hacmine yaklaşabilir; **prime/hasta kan hacmi oranı** erişkindekinden çok daha büyüktür.",
+      "images": [],
+      "card": {
+        "id": "PER241-1vglb97",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "remember",
+        "importance": 3,
+        "source": "Draaisma 2009",
+        "title": "Yenidoğan devresinde temel oran",
+        "body": "Devre prime hacmi hastanın kan hacmine yaklaşabilir; **prime/hasta kan hacmi oranı** erişkindekinden çok daha büyüktür."
+      }
+    },
+    {
+      "title": "Minyatürizasyonun hedefi",
+      "text": "Kısa hatlar ve küçük devre bileşenleri **prime hacmini ve hemodilüsyonu azaltmayı** hedefler; donör kan gereksinimi de azalabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0afh78l",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "Minyatürizasyonun hedefi",
+        "body": "Kısa hatlar ve küçük devre bileşenleri **prime hacmini ve hemodilüsyonu azaltmayı** hedefler; donör kan gereksinimi de azalabilir."
+      }
+    },
+    {
+      "title": "İnflamasyonu başlatan temas",
+      "text": "**Kan-devre yüzeyi ve kan-hava teması**, cerrahi travma ve iskemi-reperfüzyonla birlikte inflamatuvar yanıtı tetikleyebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0w6a1i9",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "İnflamasyonu başlatan temas",
+        "body": "**Kan-devre yüzeyi ve kan-hava teması**, cerrahi travma ve iskemi-reperfüzyonla birlikte inflamatuvar yanıtı tetikleyebilir."
+      }
+    },
+    {
+      "title": "Prime büyüklüğünün inflamatuvar ilişkisi",
+      "text": "Büyük prime hacmi ve hemodilüsyon derecesi, **inflamatuvar mediatör artışıyla** ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-18s5ve6",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "title": "Prime büyüklüğünün inflamatuvar ilişkisi",
+        "body": "Büyük prime hacmi ve hemodilüsyon derecesi, **inflamatuvar mediatör artışıyla** ilişkilidir."
+      }
+    },
+    {
+      "title": "Devre boyutlandırmada temel ilke",
+      "text": "Oksijenatör, pompa başlığı ve hat çapı **gereken maksimum akıma göre** seçilir; bu akımı düşük prime ile sağlamak amaçlanır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1uan8uc",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Hendrix ve ark. 2021",
+        "title": "Devre boyutlandırmada temel ilke",
+        "body": "Oksijenatör, pompa başlığı ve hat çapı **gereken maksimum akıma göre** seçilir; bu akımı düşük prime ile sağlamak amaçlanır."
+      }
+    },
+    {
+      "title": "RAP hangi aşamada uygulanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0l0i57n",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "flip",
+        "importance": 2,
+        "source": "Hagedorn ve ark. 2019",
+        "question": "RAP hangi aşamada uygulanır?",
+        "answer": "Heparinizasyon ve aortik kanülasyondan sonra **hastanın kendi kanıyla prime geriye doğru itilerek** uzaklaştırılır."
+      }
+    },
+    {
+      "title": "Saklanmış kanın metabolik yükü",
+      "text": "Bankada saklanmış kanın **potasyum, glukoz ve laktat yükü** ile düşük pH'sı neonatal prime için önem taşır.",
+      "images": [],
+      "card": {
+        "id": "PER241-166un9c",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "remember",
+        "importance": 3,
+        "source": "Draaisma 2009",
+        "title": "Saklanmış kanın metabolik yükü",
+        "body": "Bankada saklanmış kanın **potasyum, glukoz ve laktat yükü** ile düşük pH'sı neonatal prime için önem taşır."
+      }
+    },
+    {
+      "title": "Eritrosit yıkama neden yapılabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-18kntai",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "flip",
+        "importance": 2,
+        "source": "Draaisma 2009",
+        "question": "Eritrosit yıkama neden yapılabilir?",
+        "answer": "Saklanmış eritrositlerin yıkanması **potasyum ve laktat yükünü azaltmak** için kullanılabilir."
+      }
+    },
+    {
+      "title": "Kanlı prime'da bypass öncesi hangi özellikler değerlendirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1vgtfj3",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "flip",
+        "importance": 2,
+        "source": "Hendrix ve ark. 2021",
+        "question": "Kanlı prime'da bypass öncesi hangi özellikler değerlendirilir?",
+        "answer": "Kanlı neonatal prime'ın **elektrolit ve asit-baz bileşimi**, bypass başlamadan değerlendirilir; kullanılan ürünler sonucu etkiler."
+      }
+    },
+    {
+      "title": "Dilüsyonel hematokritin temel hesabı",
+      "text": "Beklenen hematokrit, **toplam eritrosit hacminin toplam dolaşan hacme oranıdır**. Prime'daki eritrosit hacmi de paya eklenir.",
+      "images": [],
+      "card": {
+        "id": "PER241-148zamg",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Egro ve ark. 2020",
+        "title": "Dilüsyonel hematokritin temel hesabı",
+        "body": "Beklenen hematokrit, **toplam eritrosit hacminin toplam dolaşan hacme oranıdır**. Prime'daki eritrosit hacmi de paya eklenir."
+      }
+    },
+    {
+      "title": "Yüksek akım tek bir standart değildir",
+      "text": "Ramakrishnan ve ark. protokolünde yenidoğan akımı **175–200 mL/kg/dk** olarak verilir; bu kurumsal yüksek akım stratejisidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1cvnlfh",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Ramakrishnan ve ark. 2023",
+        "title": "Yüksek akım tek bir standart değildir",
+        "body": "Ramakrishnan ve ark. protokolünde yenidoğan akımı **175–200 mL/kg/dk** olarak verilir; bu kurumsal yüksek akım stratejisidir."
+      }
+    },
+    {
+      "title": "Büyük çocukta kurumsal akım",
+      "text": "Aynı yüksek akım protokolünde büyük çocuk için **2,6 L/dk/m²** kullanılır; hedefler merkez protokolüne göre değişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1rh3olv",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "fact",
+        "importance": 2,
+        "source": "Ramakrishnan ve ark. 2023",
+        "title": "Büyük çocukta kurumsal akım",
+        "body": "Aynı yüksek akım protokolünde büyük çocuk için **2,6 L/dk/m²** kullanılır; hedefler merkez protokolüne göre değişebilir."
+      }
+    },
+    {
+      "title": "Prime terimi hangi hazırlığı ifade eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0wbrt07",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Hendrix ve ark. 2021",
+        "question": "Prime terimi hangi hazırlığı ifade eder?",
+        "options": [
+          "Devrenin kaçak yönünden basınçla sınanması",
+          "Pompa yönünün kontrol edilmesi",
+          "Gaz hattının oksijenatöre bağlanması",
+          "Devrenin solüsyonla havasız doldurulması"
+        ],
+        "correct": 3,
+        "explanation": "Prime devreyi dolaşıma hazır ve havasız hale getiren dolgu ve işlemdir."
+      }
+    },
+    {
+      "title": "VAVD hangi mekanizmayla venöz drenajı destekler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1swtlb9",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Groom ve ark. 2005",
+        "question": "VAVD hangi mekanizmayla venöz drenajı destekler?",
+        "options": [
+          "Rezervuara kontrollü negatif basınç",
+          "Arteriyel kanüle pozitif gaz basıncı",
+          "Koroner sinüse hızlı kardiyopleji",
+          "Pulmoner vene seçici CO2 verilmesi"
+        ],
+        "correct": 0,
+        "explanation": "Vakum yardımlı venöz drenaj rezervuara negatif basınç uygulanmasına dayanır."
+      }
+    },
+    {
+      "title": "Kardiyak indeks hangi oranı ifade eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1rmp3aq",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Ramakrishnan ve ark. 2023",
+        "question": "Kardiyak indeks hangi oranı ifade eder?",
+        "options": [
+          "Kan hacmi / kalp hızı",
+          "Kardiyak debi / vücut yüzey alanı",
+          "Pulmoner akım / sistemik akım",
+          "Eritrosit hacmi / prime hacmi"
+        ],
+        "correct": 1,
+        "explanation": "Kardiyak indeks debinin vücut yüzey alanına göre normalize edilmesidir."
+      }
+    },
+    {
+      "title": "Neonatal kanlı prime eritrosit süspansiyonu ve plazma içerebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1xmmkbc",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "tf",
+        "importance": 3,
+        "source": "Hendrix ve ark. 2021",
+        "statement": "Neonatal kanlı prime eritrosit süspansiyonu ve plazma içerebilir.",
+        "isTrue": true,
+        "explanation": "Kan ürünleri hemodilüsyon ve koagülasyon gereksinimleri göz önüne alınarak kullanılır."
+      }
+    },
+    {
+      "title": "Saklanmış eritrositlerin yıkanması neonatal prime üzerindeki potasyum yükünü artırmayı amaçlar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-12m51de",
+        "course": "PER241",
+        "topic": "Pediatrik KPB'nin temelleri",
+        "type": "tf",
+        "importance": 3,
+        "source": "Draaisma 2009",
+        "statement": "Saklanmış eritrositlerin yıkanması neonatal prime üzerindeki potasyum yükünü artırmayı amaçlar.",
+        "isTrue": false,
+        "explanation": "Eritrosit yıkama potasyum ve laktat yükünü azaltmak için kullanılır."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-174ejjg",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "Hemodilüsyon",
+      "en": "Hemodilution",
+      "definition": "Prime solüsyonu ile kanın sulandırılması; Hct ve onkotik basınç düşer.",
+      "origin": "Yun. haima + Lat. dilutio"
+    },
+    {
+      "id": "PER241-0fl3so8",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 3,
+      "source": "Wikipedia",
+      "term": "Kardiyopulmoner bypass",
+      "en": "Cardiopulmonary bypass",
+      "definition": "Kalp ve akciğer işlevinin kalp-akciğer makinesi (pompa + oksijenatör) ile geçici üstlenilmesi."
+    },
+    {
+      "id": "PER241-0uorstl",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Ekstrakorporeal dolaşım",
+      "en": "Extracorporeal circulation",
+      "definition": "Kanın vücut dışındaki bir devrede dolaştırılması.",
+      "origin": "Lat. extra + corpus = beden dışı"
+    },
+    {
+      "id": "PER241-1q9pqok",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 3,
+      "source": "Hendrix ve ark. 2021",
+      "term": "Prime",
+      "en": "Prime / priming",
+      "definition": "KPB devresini havasız doldurmak için kullanılan solüsyon ve işlem.",
+      "origin": "İng. prime = hazırlamak"
+    },
+    {
+      "id": "PER241-0rvohjh",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "term": "Kanlı prime",
+      "en": "Blood prime",
+      "definition": "Hemodilüsyonu sınırlamak için ES ve/veya TDP içeren prime."
+    },
+    {
+      "id": "PER241-0iwvxy8",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "term": "Minyatürizasyon",
+      "en": "Miniaturization",
+      "definition": "Devre bileşenlerinin küçültülüp hatların kısaltılarak prime hacminin azaltılması."
+    },
+    {
+      "id": "PER241-0eehinc",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Hagedorn ve ark. 2019",
+      "term": "RAP",
+      "en": "Retrograde autologous priming",
+      "definition": "Prime'ın hastanın kendi kanıyla geriye doğru itilip uzaklaştırılması."
+    },
+    {
+      "id": "PER241-1l2gsb0",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 1,
+      "source": "Valleley ve ark. 2007",
+      "term": "PBUF",
+      "en": "Pre-bypass ultrafiltration",
+      "definition": "Kanlı prime'ın KPB öncesi ultrafiltrasyonla \"yıkanması\" (K, laktat, glukoz düşer; pH düzelir)."
+    },
+    {
+      "id": "PER241-00fe0lf",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 1,
+      "source": "Hendrix ve ark. 2021",
+      "term": "TDP",
+      "en": "Fresh frozen plasma",
+      "definition": "Pıhtılaşma faktörlerini içeren plazma ürünü; neonatal prime'da kullanılır."
+    },
+    {
+      "id": "PER241-0sdwfgi",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Valleley ve ark. 2007",
+      "term": "Eritrosit süspansiyonu",
+      "en": "Packed red blood cells",
+      "definition": "Prime'da Hct'yi yükseltmek için kullanılan ürün; metabolik yük nedeniyle yıkanabilir."
+    },
+    {
+      "id": "PER241-0a8f1lj",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Valleley ve ark. 2007",
+      "term": "Taze tam kan",
+      "en": "Fresh whole blood",
+      "definition": "Koagülasyon faktörleri ve trombositleri de içeren, tazelik süresi çalışmanın protokolünde tanımlanan tam kan ürünü."
+    },
+    {
+      "id": "PER241-1b1sttq",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Groom ve ark. 2005",
+      "term": "VAVD",
+      "en": "Vacuum-assisted venous drainage",
+      "definition": "Venöz rezervuara kontrollü negatif basınç uygulayarak drenajı artırma."
+    },
+    {
+      "id": "PER241-0b63frb",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Ramakrishnan ve ark. 2023",
+      "term": "Oksijen sunumu",
+      "en": "Oxygen delivery",
+      "definition": "Birim zamanda dokulara taşınan oksijen miktarı. Pompa akımı ve kanın oksijen taşıma kapasitesiyle ilişkilidir."
+    },
+    {
+      "id": "PER241-0zle485",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 1,
+      "source": "Ramakrishnan ve ark. 2023",
+      "term": "Kardiyak indeks",
+      "en": "Cardiac index",
+      "definition": "Kardiyak debinin BSA'ya bölünmesi (L/dk/m²)."
+    },
+    {
+      "id": "PER241-007e9ul",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "BSA",
+      "en": "Body surface area",
+      "definition": "Boy ve kilodan hesaplanabilen, kardiyak indeks ve pompa akımını değerlendirmede kullanılan vücut büyüklüğü ölçütü."
+    },
+    {
+      "id": "PER241-1v2nsm1",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Kalp-akciğer makinesi",
+      "en": "Heart-lung machine",
+      "definition": "Pompa ve oksijenatörden oluşan KPB cihazı."
+    },
+    {
+      "id": "PER241-1vglb97",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "remember",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "title": "Yenidoğan devresinde temel oran",
+      "body": "Devre prime hacmi hastanın kan hacmine yaklaşabilir; **prime/hasta kan hacmi oranı** erişkindekinden çok daha büyüktür."
+    },
+    {
+      "id": "PER241-0afh78l",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Minyatürizasyonun hedefi",
+      "body": "Kısa hatlar ve küçük devre bileşenleri **prime hacmini ve hemodilüsyonu azaltmayı** hedefler; donör kan gereksinimi de azalabilir."
+    },
+    {
+      "id": "PER241-0w6a1i9",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "İnflamasyonu başlatan temas",
+      "body": "**Kan-devre yüzeyi ve kan-hava teması**, cerrahi travma ve iskemi-reperfüzyonla birlikte inflamatuvar yanıtı tetikleyebilir."
+    },
+    {
+      "id": "PER241-18s5ve6",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "title": "Prime büyüklüğünün inflamatuvar ilişkisi",
+      "body": "Büyük prime hacmi ve hemodilüsyon derecesi, **inflamatuvar mediatör artışıyla** ilişkilidir."
+    },
+    {
+      "id": "PER241-1uan8uc",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "title": "Devre boyutlandırmada temel ilke",
+      "body": "Oksijenatör, pompa başlığı ve hat çapı **gereken maksimum akıma göre** seçilir; bu akımı düşük prime ile sağlamak amaçlanır."
+    },
+    {
+      "id": "PER241-0l0i57n",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "flip",
+      "importance": 2,
+      "source": "Hagedorn ve ark. 2019",
+      "question": "RAP hangi aşamada uygulanır?",
+      "answer": "Heparinizasyon ve aortik kanülasyondan sonra **hastanın kendi kanıyla prime geriye doğru itilerek** uzaklaştırılır."
+    },
+    {
+      "id": "PER241-166un9c",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "remember",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "title": "Saklanmış kanın metabolik yükü",
+      "body": "Bankada saklanmış kanın **potasyum, glukoz ve laktat yükü** ile düşük pH'sı neonatal prime için önem taşır."
+    },
+    {
+      "id": "PER241-18kntai",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "flip",
+      "importance": 2,
+      "source": "Draaisma 2009",
+      "question": "Eritrosit yıkama neden yapılabilir?",
+      "answer": "Saklanmış eritrositlerin yıkanması **potasyum ve laktat yükünü azaltmak** için kullanılabilir."
+    },
+    {
+      "id": "PER241-1vgtfj3",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "flip",
+      "importance": 2,
+      "source": "Hendrix ve ark. 2021",
+      "question": "Kanlı prime'da bypass öncesi hangi özellikler değerlendirilir?",
+      "answer": "Kanlı neonatal prime'ın **elektrolit ve asit-baz bileşimi**, bypass başlamadan değerlendirilir; kullanılan ürünler sonucu etkiler."
+    },
+    {
+      "id": "PER241-148zamg",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Egro ve ark. 2020",
+      "title": "Dilüsyonel hematokritin temel hesabı",
+      "body": "Beklenen hematokrit, **toplam eritrosit hacminin toplam dolaşan hacme oranıdır**. Prime'daki eritrosit hacmi de paya eklenir."
+    },
+    {
+      "id": "PER241-1cvnlfh",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Ramakrishnan ve ark. 2023",
+      "title": "Yüksek akım tek bir standart değildir",
+      "body": "Ramakrishnan ve ark. protokolünde yenidoğan akımı **175–200 mL/kg/dk** olarak verilir; bu kurumsal yüksek akım stratejisidir."
+    },
+    {
+      "id": "PER241-1rh3olv",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "fact",
+      "importance": 2,
+      "source": "Ramakrishnan ve ark. 2023",
+      "title": "Büyük çocukta kurumsal akım",
+      "body": "Aynı yüksek akım protokolünde büyük çocuk için **2,6 L/dk/m²** kullanılır; hedefler merkez protokolüne göre değişebilir."
+    },
+    {
+      "id": "PER241-0wbrt07",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Hendrix ve ark. 2021",
+      "question": "Prime terimi hangi hazırlığı ifade eder?",
+      "options": [
+        "Devrenin kaçak yönünden basınçla sınanması",
+        "Pompa yönünün kontrol edilmesi",
+        "Gaz hattının oksijenatöre bağlanması",
+        "Devrenin solüsyonla havasız doldurulması"
+      ],
+      "correct": 3,
+      "explanation": "Prime devreyi dolaşıma hazır ve havasız hale getiren dolgu ve işlemdir."
+    },
+    {
+      "id": "PER241-1swtlb9",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Groom ve ark. 2005",
+      "question": "VAVD hangi mekanizmayla venöz drenajı destekler?",
+      "options": [
+        "Rezervuara kontrollü negatif basınç",
+        "Arteriyel kanüle pozitif gaz basıncı",
+        "Koroner sinüse hızlı kardiyopleji",
+        "Pulmoner vene seçici CO2 verilmesi"
+      ],
+      "correct": 0,
+      "explanation": "Vakum yardımlı venöz drenaj rezervuara negatif basınç uygulanmasına dayanır."
+    },
+    {
+      "id": "PER241-1rmp3aq",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Ramakrishnan ve ark. 2023",
+      "question": "Kardiyak indeks hangi oranı ifade eder?",
+      "options": [
+        "Kan hacmi / kalp hızı",
+        "Kardiyak debi / vücut yüzey alanı",
+        "Pulmoner akım / sistemik akım",
+        "Eritrosit hacmi / prime hacmi"
+      ],
+      "correct": 1,
+      "explanation": "Kardiyak indeks debinin vücut yüzey alanına göre normalize edilmesidir."
+    },
+    {
+      "id": "PER241-1xmmkbc",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "tf",
+      "importance": 3,
+      "source": "Hendrix ve ark. 2021",
+      "statement": "Neonatal kanlı prime eritrosit süspansiyonu ve plazma içerebilir.",
+      "isTrue": true,
+      "explanation": "Kan ürünleri hemodilüsyon ve koagülasyon gereksinimleri göz önüne alınarak kullanılır."
+    },
+    {
+      "id": "PER241-12m51de",
+      "course": "PER241",
+      "topic": "Pediatrik KPB'nin temelleri",
+      "type": "tf",
+      "importance": 3,
+      "source": "Draaisma 2009",
+      "statement": "Saklanmış eritrositlerin yıkanması neonatal prime üzerindeki potasyum yükünü artırmayı amaçlar.",
+      "isTrue": false,
+      "explanation": "Eritrosit yıkama potasyum ve laktat yükünü azaltmak için kullanılır."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

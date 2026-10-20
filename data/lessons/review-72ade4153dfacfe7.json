@@ -1,0 +1,993 @@
+{
+  "id": "review-72ade4153dfacfe7",
+  "title": "KPB devresi, priming ve hemodilüsyon",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Hemodilüsyon",
+      "text": "Haemodilution\nKan hücresi eklemeden sıvı verilmesiyle hücre ve protein konsantrasyonlarının seyrelmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-174ejjg",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Hemodilüsyon",
+        "en": "Haemodilution",
+        "definition": "Kan hücresi eklemeden sıvı verilmesiyle hücre ve protein konsantrasyonlarının seyrelmesi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Priming (prime)",
+      "text": "Priming\nKPB devresinin kullanım öncesi havasız sıvıyla doldurulması.",
+      "images": [],
+      "card": {
+        "id": "PER245-0jee8o9",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Priming (prime)",
+        "en": "Priming",
+        "definition": "KPB devresinin kullanım öncesi havasız sıvıyla doldurulması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "RAP (retrograd otolog priming)",
+      "text": "Retrograde autologous priming\nArteriyel taraftaki kristaloid prime'ın KPB başlarken hasta kanıyla geriye itilerek uzaklaştırılması.",
+      "images": [],
+      "card": {
+        "id": "PER245-000iv0p",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "RAP (retrograd otolog priming)",
+        "en": "Retrograde autologous priming",
+        "definition": "Arteriyel taraftaki kristaloid prime'ın KPB başlarken hasta kanıyla geriye itilerek uzaklaştırılması.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "VAP (venöz antegrad priming)",
+      "text": "Venous antegrade priming\nVenöz taraftaki prime'ın hastanın venöz kanıyla ileri doğru yer değiştirmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-178ykla",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "VAP (venöz antegrad priming)",
+        "en": "Venous antegrade priming",
+        "definition": "Venöz taraftaki prime'ın hastanın venöz kanıyla ileri doğru yer değiştirmesi.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "MiECC",
+      "text": "Minimal invasive extracorporeal circulation\nKüçük prime'lı, uçtan uca kaplı, kapalı ve santrifüj pompalı KPB sistemi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1x9srbo",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 3,
+        "term": "MiECC",
+        "en": "Minimal invasive extracorporeal circulation",
+        "definition": "Küçük prime'lı, uçtan uca kaplı, kapalı ve santrifüj pompalı KPB sistemi.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Roller pompa",
+      "text": "Roller pump\nEsnek tüpü silindirlerle sıkıştırarak kanı ileri taşıyan oklüzif pompa.",
+      "images": [],
+      "card": {
+        "id": "PER245-1x5r5om",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Roller pompa",
+        "en": "Roller pump",
+        "definition": "Esnek tüpü silindirlerle sıkıştırarak kanı ileri taşıyan oklüzif pompa.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifüj pompa",
+      "text": "Centrifugal pump\nDönen koni/çarkla basınç gradyanı oluşturan, debisi afterload'a bağlı pompa.",
+      "images": [],
+      "card": {
+        "id": "PER245-1tsi251",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Santrifüj pompa",
+        "en": "Centrifugal pump",
+        "definition": "Dönen koni/çarkla basınç gradyanı oluşturan, debisi afterload'a bağlı pompa.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Isıtıcı-soğutucu ünite (HCU)",
+      "text": "Heater-cooler unit\nOksijenatör ve kardiyopleji ısı değiştiricisine sıcaklığı ayarlı su gönderen cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-0qbefu6",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Isıtıcı-soğutucu ünite (HCU)",
+        "en": "Heater-cooler unit",
+        "definition": "Oksijenatör ve kardiyopleji ısı değiştiricisine sıcaklığı ayarlı su gönderen cihaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel hat filtresi",
+      "text": "Arterial line filter\nArteriyel hatta mikroembolileri tutan filtre.",
+      "images": [],
+      "card": {
+        "id": "PER245-0j0ehth",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Arteriyel hat filtresi",
+        "en": "Arterial line filter",
+        "definition": "Arteriyel hatta mikroembolileri tutan filtre.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Kardiyotomi rezervuarı",
+      "text": "Cardiotomy reservoir\nCerrahi sahadan aspiratörle veya ventle gelen kanı toplayan, filtreleme ve köpük giderme bölümleri içeren hazne.",
+      "images": [],
+      "card": {
+        "id": "PER245-1gphfrc",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyotomi rezervuarı",
+        "en": "Cardiotomy reservoir",
+        "definition": "Cerrahi sahadan aspiratörle veya ventle gelen kanı toplayan, filtreleme ve köpük giderme bölümleri içeren hazne.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz rezervuar",
+      "text": "Venous reservoir\nHastadan gelen venöz kanı toplayan açık (sert kabuklu) veya kapalı (torba) hazne.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xvxb1u",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Venöz rezervuar",
+        "en": "Venous reservoir",
+        "definition": "Hastadan gelen venöz kanı toplayan açık (sert kabuklu) veya kapalı (torba) hazne.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Seviye sensörü",
+      "text": "Level sensor\nRezervuar seviyesi kritik düzeye inince alarm veren veya pompayı durduran sensör.",
+      "images": [],
+      "card": {
+        "id": "PER245-0p2pgf3",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 3,
+        "term": "Seviye sensörü",
+        "en": "Level sensor",
+        "definition": "Rezervuar seviyesi kritik düzeye inince alarm veren veya pompayı durduran sensör.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Hava kabarcığı dedektörü",
+      "text": "Bubble detector\nArteriyel hatta havayı algılayıp alarm veren güvenlik cihazı.",
+      "images": [],
+      "card": {
+        "id": "PER245-1augv2f",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "Hava kabarcığı dedektörü",
+        "en": "Bubble detector",
+        "definition": "Arteriyel hatta havayı algılayıp alarm veren güvenlik cihazı.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Gaz mikroembolisi (GME)",
+      "text": "Gaseous microemboli\nDevrede/kanda oluşan mikroskobik gaz kabarcıkları.",
+      "images": [],
+      "card": {
+        "id": "PER245-029ydvd",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Gaz mikroembolisi (GME)",
+        "en": "Gaseous microemboli",
+        "definition": "Devrede/kanda oluşan mikroskobik gaz kabarcıkları.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "CO2 yıkama / insüflasyon",
+      "text": "CO2 flush / insufflation\nDevreyi priming öncesi CO2 ile yıkama veya cerrahi alana CO2 verme.",
+      "images": [],
+      "card": {
+        "id": "PER245-081lh5g",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 2,
+        "term": "CO2 yıkama / insüflasyon",
+        "en": "CO2 flush / insufflation",
+        "definition": "Devreyi priming öncesi CO2 ile yıkama veya cerrahi alana CO2 verme.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hiperkloremik asidoz",
+      "text": "Hyperchloraemic acidosis\nSalin veya dengesiz solüsyonlarla klor yüklenmesine bağlı metabolik asidoz.",
+      "images": [],
+      "card": {
+        "id": "PER245-055nhav",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "term",
+        "importance": 1,
+        "term": "Hiperkloremik asidoz",
+        "en": "Hyperchloraemic acidosis",
+        "definition": "Salin veya dengesiz solüsyonlarla klor yüklenmesine bağlı metabolik asidoz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Akımı üreten mekanizma",
+      "text": "Roller pompa\nTüpü mekanik sıkıştırarak kanı ilerletir\nOklüzif pompa ilkesiyle çalışır\n\nSantrifüj pompa\nDönen koni veya çarkla basınç gradyanı üretir\nNonoklüzif pompa ilkesiyle çalışır",
+      "images": [],
+      "card": {
+        "id": "PER245-14lop9l",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "compare",
+        "importance": 2,
+        "title": "Akımı üreten mekanizma",
+        "left": {
+          "title": "Roller pompa",
+          "points": [
+            "Tüpü mekanik sıkıştırarak kanı ilerletir",
+            "Oklüzif pompa ilkesiyle çalışır"
+          ]
+        },
+        "right": {
+          "title": "Santrifüj pompa",
+          "points": [
+            "Dönen koni veya çarkla basınç gradyanı üretir",
+            "Nonoklüzif pompa ilkesiyle çalışır"
+          ]
+        },
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Prime hacmi ve oksijen",
+      "text": "Kan içermeyen prime hacmi arttığında hematokrit ve kanın oksijen taşıma kapasitesi azalabilir; hacim azaltımı kan korumaya katkı sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ysd9cz",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Prime hacmi ve oksijen",
+        "body": "Kan içermeyen prime hacmi arttığında hematokrit ve kanın oksijen taşıma kapasitesi azalabilir; hacim azaltımı kan korumaya katkı sağlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Mannitolün rutin eklenmesi",
+      "text": "2024 EACTS, prime'a rutin mannitol eklenmesini desteklemez. Bir kardiyopleji formülünde mannitol bulunması ayrı bir konudur.",
+      "images": [],
+      "card": {
+        "id": "PER245-1axzx21",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Mannitolün rutin eklenmesi",
+        "body": "2024 EACTS, prime'a rutin mannitol eklenmesini desteklemez. Bir kardiyopleji formülünde mannitol bulunması ayrı bir konudur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Klor yükünün etkisi",
+      "text": "Normal salin veya dengesiz priming solüsyonları hiperkloremik asidoza katkıda bulunabilir; solüsyon bileşimi önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0apy8ng",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Klor yükünün etkisi",
+        "body": "Normal salin veya dengesiz priming solüsyonları hiperkloremik asidoza katkıda bulunabilir; solüsyon bileşimi önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "MiECC'de hava yönetimi",
+      "text": "Kapalı ve düşük prime hacimli sistemlerde venöz hava yönetimi özellikle önem taşır; küçültülmüş devre güvenlik önlemlerini gereksiz kılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER245-02pg9fw",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "MiECC'de hava yönetimi",
+        "body": "Kapalı ve düşük prime hacimli sistemlerde venöz hava yönetimi özellikle önem taşır; küçültülmüş devre güvenlik önlemlerini gereksiz kılmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kan-gaz ayrımı",
+      "text": "Membran oksijenatörde kan ile gaz doğrudan karıştırılmaz; gaz değişimi ayırıcı membran üzerinden gerçekleşir.",
+      "images": [],
+      "card": {
+        "id": "PER245-05x9qyr",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kan-gaz ayrımı",
+        "body": "Membran oksijenatörde kan ile gaz doğrudan karıştırılmaz; gaz değişimi ayırıcı membran üzerinden gerçekleşir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifüj pompada devir tek başına neden akımı söylemez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0wzhdne",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Santrifüj pompada devir tek başına neden akımı söylemez?",
+        "answer": "Akım ön ve ard yükten etkilenir; devirle birlikte gerçek akım ölçümü gerekir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyotomi kanını ayrı işlemek hangi nedenle değerlidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1ylj3zp",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kardiyotomi kanını ayrı işlemek hangi nedenle değerlidir?",
+        "answer": "Cerrahi saha kanı hemoliz ürünleri, partiküller ve inflamatuvar etkenler içerebilir; yıkama ve ayrı toplama kan yönetimine katkı sağlar.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Santrifüj pompada geri akım",
+      "text": "Pompa durduğunda geri akım olabilir. **Geri akımı önleyen yöntem** güvenlik planının parçasıdır.",
+      "images": [],
+      "card": {
+        "id": "PER245-15fotc4",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "Santrifüj pompada geri akım",
+        "body": "Pompa durduğunda geri akım olabilir. **Geri akımı önleyen yöntem** güvenlik planının parçasıdır.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "Vent hattında valf",
+      "text": "Vent hattındaki **tek yönlü valf**, ters yönde akım ve hava riskine karşı güvenlik önlemidir; hat yönü ve emiş işlevi kontrol edilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1orv6ad",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "remember",
+        "importance": 3,
+        "title": "Vent hattında valf",
+        "body": "Vent hattındaki **tek yönlü valf**, ters yönde akım ve hava riskine karşı güvenlik önlemidir; hat yönü ve emiş işlevi kontrol edilir.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "KPB sırasında sıvı fazlası",
+      "text": "Priming ve eklenen sıvılar dolaşan hacmi artırır. Hemodilüsyon hesabı devam eden kan kaybı, idrar ve transfüzyonla değiştiğinden başlangıç tahmini izlemle güncellenir.",
+      "images": [],
+      "card": {
+        "id": "PER245-03vk4iu",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "fact",
+        "importance": 2,
+        "title": "KPB sırasında sıvı fazlası",
+        "body": "Priming ve eklenen sıvılar dolaşan hacmi artırır. Hemodilüsyon hesabı devam eden kan kaybı, idrar ve transfüzyonla değiştiğinden başlangıç tahmini izlemle güncellenir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel hat filtresinin temel hedefi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1oen31s",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Arteriyel hat filtresinin temel hedefi hangisidir?",
+        "options": [
+          "Mikroembolileri tutmak",
+          "Gaz değişimini sağlamak",
+          "Plazma suyunu uzaklaştırmak",
+          "Dönen kanı depolamak"
+        ],
+        "correct": 0,
+        "explanation": "Filtre embolik materyali tutmaya yöneliktir; diğer seçenekler farklı devre veya ilaç işlevleridir.",
+        "source": "AmSECT 2013"
+      }
+    },
+    {
+      "title": "KPB'de hasta venöz kanını ilk toplayan ana hazne hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0jltans",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "KPB'de hasta venöz kanını ilk toplayan ana hazne hangisidir?",
+        "options": [
+          "Kardiyopleji rezervuarı",
+          "Venöz rezervuar",
+          "Cell saver toplama haznesi",
+          "Ultrafiltrat torbası"
+        ],
+        "correct": 1,
+        "explanation": "Venöz hat hastadan dönen kanı venöz rezervuara taşır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Priming öncesinde devreyi CO2 ile yıkamanın amacı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-174uj7a",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Priming öncesinde devreyi CO2 ile yıkamanın amacı hangisidir?",
+        "options": [
+          "Prime çözeltisini sterilize etmek",
+          "Antikoagülasyon süresini uzatmak",
+          "Rezidüel hava yükünü azaltmak",
+          "Membran geçirgenliğini artırmak"
+        ],
+        "correct": 2,
+        "explanation": "CO2 yıkama devredeki havanın yer değiştirmesini ve hava uzaklaştırmayı destekler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Isıtıcı-soğutucu ünitede hasta kanının sıcaklığı ne aracılığıyla değiştirilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1mfxzfq",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Isıtıcı-soğutucu ünitede hasta kanının sıcaklığı ne aracılığıyla değiştirilir?",
+        "options": [
+          "Kan devresindeki akım hızı değişikliği",
+          "Gaz blenderindeki oksijen oranı",
+          "Venöz rezervuardaki vakum düzeyi",
+          "Isı değiştiriciden geçen su"
+        ],
+        "correct": 3,
+        "explanation": "HCU suyu ısı değiştiricide dolaştırır; sağlam cihazda su hasta kanıyla karışmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Düşük prime hacmi hemodilüsyonun azaltılmasına katkı sağlayabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-07j8jku",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Düşük prime hacmi hemodilüsyonun azaltılmasına katkı sağlayabilir.",
+        "isTrue": true,
+        "explanation": "Kan içermeyen hacim azaldığında başlangıç eritrosit kütlesi daha az seyrelir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Membran oksijenatörde gaz değişimi için kan ve gazın doğrudan kabarcıkla karıştırılması gerekir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0z3xb38",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Membran oksijenatörde gaz değişimi için kan ve gazın doğrudan kabarcıkla karıştırılması gerekir.",
+        "isTrue": false,
+        "explanation": "Membran oksijenatör kan ve gazı ayırır; değişim membran üzerinden olur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Biyouyumlu yüzey kaplamaları devre optimizasyonunun bileşenlerinden olabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-09xtnkq",
+        "course": "PER245",
+        "topic": "KPB devresi, priming ve hemodilüsyon",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Biyouyumlu yüzey kaplamaları devre optimizasyonunun bileşenlerinden olabilir.",
+        "isTrue": true,
+        "explanation": "Yüzey kaplaması kan-yabancı yüzey etkileşimini azaltmayı amaçlar; antikoagülasyon gereksinimini ortadan kaldırmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-174ejjg",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Hemodilüsyon",
+      "en": "Haemodilution",
+      "definition": "Kan hücresi eklemeden sıvı verilmesiyle hücre ve protein konsantrasyonlarının seyrelmesi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0jee8o9",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Priming (prime)",
+      "en": "Priming",
+      "definition": "KPB devresinin kullanım öncesi havasız sıvıyla doldurulması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-000iv0p",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "RAP (retrograd otolog priming)",
+      "en": "Retrograde autologous priming",
+      "definition": "Arteriyel taraftaki kristaloid prime'ın KPB başlarken hasta kanıyla geriye itilerek uzaklaştırılması.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-178ykla",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "VAP (venöz antegrad priming)",
+      "en": "Venous antegrade priming",
+      "definition": "Venöz taraftaki prime'ın hastanın venöz kanıyla ileri doğru yer değiştirmesi.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1x9srbo",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 3,
+      "term": "MiECC",
+      "en": "Minimal invasive extracorporeal circulation",
+      "definition": "Küçük prime'lı, uçtan uca kaplı, kapalı ve santrifüj pompalı KPB sistemi.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1x5r5om",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Roller pompa",
+      "en": "Roller pump",
+      "definition": "Esnek tüpü silindirlerle sıkıştırarak kanı ileri taşıyan oklüzif pompa.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1tsi251",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Santrifüj pompa",
+      "en": "Centrifugal pump",
+      "definition": "Dönen koni/çarkla basınç gradyanı oluşturan, debisi afterload'a bağlı pompa.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0qbefu6",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Isıtıcı-soğutucu ünite (HCU)",
+      "en": "Heater-cooler unit",
+      "definition": "Oksijenatör ve kardiyopleji ısı değiştiricisine sıcaklığı ayarlı su gönderen cihaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0j0ehth",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Arteriyel hat filtresi",
+      "en": "Arterial line filter",
+      "definition": "Arteriyel hatta mikroembolileri tutan filtre.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1gphfrc",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyotomi rezervuarı",
+      "en": "Cardiotomy reservoir",
+      "definition": "Cerrahi sahadan aspiratörle veya ventle gelen kanı toplayan, filtreleme ve köpük giderme bölümleri içeren hazne.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0xvxb1u",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz rezervuar",
+      "en": "Venous reservoir",
+      "definition": "Hastadan gelen venöz kanı toplayan açık (sert kabuklu) veya kapalı (torba) hazne.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0p2pgf3",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 3,
+      "term": "Seviye sensörü",
+      "en": "Level sensor",
+      "definition": "Rezervuar seviyesi kritik düzeye inince alarm veren veya pompayı durduran sensör.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1augv2f",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "Hava kabarcığı dedektörü",
+      "en": "Bubble detector",
+      "definition": "Arteriyel hatta havayı algılayıp alarm veren güvenlik cihazı.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-029ydvd",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Gaz mikroembolisi (GME)",
+      "en": "Gaseous microemboli",
+      "definition": "Devrede/kanda oluşan mikroskobik gaz kabarcıkları.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-081lh5g",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 2,
+      "term": "CO2 yıkama / insüflasyon",
+      "en": "CO2 flush / insufflation",
+      "definition": "Devreyi priming öncesi CO2 ile yıkama veya cerrahi alana CO2 verme.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-055nhav",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "term",
+      "importance": 1,
+      "term": "Hiperkloremik asidoz",
+      "en": "Hyperchloraemic acidosis",
+      "definition": "Salin veya dengesiz solüsyonlarla klor yüklenmesine bağlı metabolik asidoz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-14lop9l",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "compare",
+      "importance": 2,
+      "title": "Akımı üreten mekanizma",
+      "left": {
+        "title": "Roller pompa",
+        "points": [
+          "Tüpü mekanik sıkıştırarak kanı ilerletir",
+          "Oklüzif pompa ilkesiyle çalışır"
+        ]
+      },
+      "right": {
+        "title": "Santrifüj pompa",
+        "points": [
+          "Dönen koni veya çarkla basınç gradyanı üretir",
+          "Nonoklüzif pompa ilkesiyle çalışır"
+        ]
+      },
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0ysd9cz",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Prime hacmi ve oksijen",
+      "body": "Kan içermeyen prime hacmi arttığında hematokrit ve kanın oksijen taşıma kapasitesi azalabilir; hacim azaltımı kan korumaya katkı sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1axzx21",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Mannitolün rutin eklenmesi",
+      "body": "2024 EACTS, prime'a rutin mannitol eklenmesini desteklemez. Bir kardiyopleji formülünde mannitol bulunması ayrı bir konudur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0apy8ng",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Klor yükünün etkisi",
+      "body": "Normal salin veya dengesiz priming solüsyonları hiperkloremik asidoza katkıda bulunabilir; solüsyon bileşimi önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-02pg9fw",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "MiECC'de hava yönetimi",
+      "body": "Kapalı ve düşük prime hacimli sistemlerde venöz hava yönetimi özellikle önem taşır; küçültülmüş devre güvenlik önlemlerini gereksiz kılmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-05x9qyr",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kan-gaz ayrımı",
+      "body": "Membran oksijenatörde kan ile gaz doğrudan karıştırılmaz; gaz değişimi ayırıcı membran üzerinden gerçekleşir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0wzhdne",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Santrifüj pompada devir tek başına neden akımı söylemez?",
+      "answer": "Akım ön ve ard yükten etkilenir; devirle birlikte gerçek akım ölçümü gerekir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1ylj3zp",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyotomi kanını ayrı işlemek hangi nedenle değerlidir?",
+      "answer": "Cerrahi saha kanı hemoliz ürünleri, partiküller ve inflamatuvar etkenler içerebilir; yıkama ve ayrı toplama kan yönetimine katkı sağlar.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-15fotc4",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "Santrifüj pompada geri akım",
+      "body": "Pompa durduğunda geri akım olabilir. **Geri akımı önleyen yöntem** güvenlik planının parçasıdır.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-1orv6ad",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "remember",
+      "importance": 3,
+      "title": "Vent hattında valf",
+      "body": "Vent hattındaki **tek yönlü valf**, ters yönde akım ve hava riskine karşı güvenlik önlemidir; hat yönü ve emiş işlevi kontrol edilir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-03vk4iu",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB sırasında sıvı fazlası",
+      "body": "Priming ve eklenen sıvılar dolaşan hacmi artırır. Hemodilüsyon hesabı devam eden kan kaybı, idrar ve transfüzyonla değiştiğinden başlangıç tahmini izlemle güncellenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1oen31s",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Arteriyel hat filtresinin temel hedefi hangisidir?",
+      "options": [
+        "Mikroembolileri tutmak",
+        "Gaz değişimini sağlamak",
+        "Plazma suyunu uzaklaştırmak",
+        "Dönen kanı depolamak"
+      ],
+      "correct": 0,
+      "explanation": "Filtre embolik materyali tutmaya yöneliktir; diğer seçenekler farklı devre veya ilaç işlevleridir.",
+      "source": "AmSECT 2013"
+    },
+    {
+      "id": "PER245-0jltans",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "KPB'de hasta venöz kanını ilk toplayan ana hazne hangisidir?",
+      "options": [
+        "Kardiyopleji rezervuarı",
+        "Venöz rezervuar",
+        "Cell saver toplama haznesi",
+        "Ultrafiltrat torbası"
+      ],
+      "correct": 1,
+      "explanation": "Venöz hat hastadan dönen kanı venöz rezervuara taşır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-174uj7a",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Priming öncesinde devreyi CO2 ile yıkamanın amacı hangisidir?",
+      "options": [
+        "Prime çözeltisini sterilize etmek",
+        "Antikoagülasyon süresini uzatmak",
+        "Rezidüel hava yükünü azaltmak",
+        "Membran geçirgenliğini artırmak"
+      ],
+      "correct": 2,
+      "explanation": "CO2 yıkama devredeki havanın yer değiştirmesini ve hava uzaklaştırmayı destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-1mfxzfq",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Isıtıcı-soğutucu ünitede hasta kanının sıcaklığı ne aracılığıyla değiştirilir?",
+      "options": [
+        "Kan devresindeki akım hızı değişikliği",
+        "Gaz blenderindeki oksijen oranı",
+        "Venöz rezervuardaki vakum düzeyi",
+        "Isı değiştiriciden geçen su"
+      ],
+      "correct": 3,
+      "explanation": "HCU suyu ısı değiştiricide dolaştırır; sağlam cihazda su hasta kanıyla karışmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-07j8jku",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Düşük prime hacmi hemodilüsyonun azaltılmasına katkı sağlayabilir.",
+      "isTrue": true,
+      "explanation": "Kan içermeyen hacim azaldığında başlangıç eritrosit kütlesi daha az seyrelir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-0z3xb38",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Membran oksijenatörde gaz değişimi için kan ve gazın doğrudan kabarcıkla karıştırılması gerekir.",
+      "isTrue": false,
+      "explanation": "Membran oksijenatör kan ve gazı ayırır; değişim membran üzerinden olur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER245-09xtnkq",
+      "course": "PER245",
+      "topic": "KPB devresi, priming ve hemodilüsyon",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Biyouyumlu yüzey kaplamaları devre optimizasyonunun bileşenlerinden olabilir.",
+      "isTrue": true,
+      "explanation": "Yüzey kaplaması kan-yabancı yüzey etkileşimini azaltmayı amaçlar; antikoagülasyon gereksinimini ortadan kaldırmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

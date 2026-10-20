@@ -1,0 +1,978 @@
+{
+  "id": "review-d7aa78d7f89cb20f",
+  "title": "Güvenlik, monitörizasyon ve acil durumlar",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kabarcık dedektörü",
+      "text": "Bubble (air) detector\nHatta hava algılandığında alarm verip pompayı durduran (ultrasonik) sensör; hastaya giden tüm hatlarda önerilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1u8hdfe",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Kabarcık dedektörü",
+        "definition": "Hatta hava algılandığında alarm verip pompayı durduran (ultrasonik) sensör; hastaya giden tüm hatlarda önerilir.",
+        "en": "Bubble (air) detector",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Basınç transdüseri",
+      "text": "Pressure transducer\nHat basıncını (arteriyel, kardiyopleji, venöz) elektrik sinyaline çeviren sensör.",
+      "images": [],
+      "card": {
+        "id": "PER141-0ql7v4w",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Basınç transdüseri",
+        "definition": "Hat basıncını (arteriyel, kardiyopleji, venöz) elektrik sinyaline çeviren sensör.",
+        "en": "Pressure transducer",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Servo-regülasyon",
+      "text": "Servo-regulation\nSensör sinyaline göre pompa hızının otomatik ayarlanması veya durdurulması.",
+      "images": [],
+      "card": {
+        "id": "PER141-0yzjni1",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Servo-regülasyon",
+        "definition": "Sensör sinyaline göre pompa hızının otomatik ayarlanması veya durdurulması.",
+        "en": "Servo-regulation",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "In-line kan gazı monitörü",
+      "text": "In-line blood gas monitor\nDevre üzerinde sürekli pH, PCO₂, PO₂ (ve SvO₂/hematokrit) ölçen sistem.",
+      "images": [],
+      "card": {
+        "id": "PER141-0tgps1b",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "In-line kan gazı monitörü",
+        "definition": "Devre üzerinde sürekli pH, PCO₂, PO₂ (ve SvO₂/hematokrit) ölçen sistem.",
+        "en": "In-line blood gas monitor",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "SvO₂",
+      "text": "Venous oxygen saturation\nVenöz kandaki oksijen satürasyonu; global oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+      "images": [],
+      "card": {
+        "id": "PER141-181t925",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "SvO₂",
+        "definition": "Venöz kandaki oksijen satürasyonu; global oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+        "en": "Venous oxygen saturation",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "NIRS (rScO₂)",
+      "text": "Near-infrared spectroscopy\nBölgesel serebral doku oksijenasyonunu ölçen non-invaziv yöntem.",
+      "images": [],
+      "card": {
+        "id": "PER141-0pfzi5n",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "NIRS (rScO₂)",
+        "definition": "Bölgesel serebral doku oksijenasyonunu ölçen non-invaziv yöntem.",
+        "en": "Near-infrared spectroscopy",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz oklüder",
+      "text": "Venous occluder\nVenöz hattı kısarak drenajı ayarlayan klemp/cihaz; oklüzyon yüzdesi izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0eie3nf",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Venöz oklüder",
+        "definition": "Venöz hattı kısarak drenajı ayarlayan klemp/cihaz; oklüzyon yüzdesi izlenir.",
+        "en": "Venous occluder",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Kontrol listesi",
+      "text": "Checklist\nKurulum, başlatma, ayrılma ve acil durumlarda adımların atlanmamasını sağlayan liste.",
+      "images": [],
+      "card": {
+        "id": "PER141-1fgqslt",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Kontrol listesi",
+        "definition": "Kurulum, başlatma, ayrılma ve acil durumlarda adımların atlanmamasını sağlayan liste.",
+        "en": "Checklist",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Time-out",
+      "text": "Surgical safety time-out\nCerrahi güvenlik kontrolünde ekip teyidi; perfüzyon checklist'inin tamamlandığı burada bildirilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0zab2b5",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Time-out",
+        "definition": "Cerrahi güvenlik kontrolünde ekip teyidi; perfüzyon checklist'inin tamamlandığı burada bildirilir.",
+        "en": "Surgical safety time-out",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Perfüzyon kaydı",
+      "text": "Perfusion record\nKPB parametrelerinin, olayların ve kullanılan malzemelerin yazılı/elektronik dokümantasyonu.",
+      "images": [],
+      "card": {
+        "id": "PER141-0fv3wti",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Perfüzyon kaydı",
+        "definition": "KPB parametrelerinin, olayların ve kullanılan malzemelerin yazılı/elektronik dokümantasyonu.",
+        "en": "Perfusion record",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "FMEA",
+      "text": "Failure mode and effects analysis\nHata türleri ve etkilerini sistematik inceleyen risk analizi yöntemi.",
+      "images": [],
+      "card": {
+        "id": "PER141-1on47lu",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 1,
+        "term": "FMEA",
+        "definition": "Hata türleri ve etkilerini sistematik inceleyen risk analizi yöntemi.",
+        "en": "Failure mode and effects analysis",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hava embolisi",
+      "text": "Air embolism\nDevreden, sahadan veya damar yolundan damar içine hava girişi; masif olanı acil protokol gerektirir.",
+      "images": [],
+      "card": {
+        "id": "PER141-03ufwaz",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Hava embolisi",
+        "definition": "Devreden, sahadan veya damar yolundan damar içine hava girişi; masif olanı acil protokol gerektirir.",
+        "en": "Air embolism",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "İyatrojenik aort diseksiyonu",
+      "text": "Iatrogenic aortic dissection\nKanülasyon veya klemp uygulaması sırasında oluşabilen, aort duvarı katmanlarının ayrılmasıyla seyreden komplikasyon.",
+      "images": [],
+      "card": {
+        "id": "PER141-16bvmzt",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "İyatrojenik aort diseksiyonu",
+        "definition": "Kanülasyon veya klemp uygulaması sırasında oluşabilen, aort duvarı katmanlarının ayrılmasıyla seyreden komplikasyon.",
+        "en": "Iatrogenic aortic dissection",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "RCP",
+      "text": "Retrograde cerebral perfusion\nvena kava superior yoluyla beyne ters yönde perfüzyon; masif hava embolisinde kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0hqj1yy",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "term",
+        "importance": 2,
+        "term": "RCP",
+        "definition": "vena kava superior yoluyla beyne ters yönde perfüzyon; masif hava embolisinde kullanılabilir.",
+        "en": "Retrograde cerebral perfusion",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Hava güvenliği sensörleri",
+      "text": "Seviye sensörü\nRezervuar kan seviyesindeki düşüşü algılar\nHavanın ana devreye girişini önlemeye yardım eder\n\nKabarcık dedektörü\nHatta bulunan hava kabarcığını algılar\nPompa akımına müdahale ederek hastayı korur",
+      "images": [],
+      "card": {
+        "id": "PER141-1ggw77t",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "compare",
+        "importance": 2,
+        "title": "Hava güvenliği sensörleri",
+        "left": {
+          "title": "Seviye sensörü",
+          "points": [
+            "Rezervuar kan seviyesindeki düşüşü algılar",
+            "Havanın ana devreye girişini önlemeye yardım eder"
+          ]
+        },
+        "right": {
+          "title": "Kabarcık dedektörü",
+          "points": [
+            "Hatta bulunan hava kabarcığını algılar",
+            "Pompa akımına müdahale ederek hastayı korur"
+          ]
+        },
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "İki taraflı basınç izlemi",
+      "text": "EACTS 2024, arteriyel devrede **oksijenatör öncesi ve sonrası** basınç izlemini önerir; kardiyopleji basıncı da ayrıca izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0odtqgw",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "fact",
+        "importance": 3,
+        "title": "İki taraflı basınç izlemi",
+        "body": "EACTS 2024, arteriyel devrede **oksijenatör öncesi ve sonrası** basınç izlemini önerir; kardiyopleji basıncı da ayrıca izlenir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Alarm ile pompa arasındaki ilişki",
+      "text": "Basınç, hava ve düşük seviye sensörleri sesli/görsel uyarının yanında pompayı **servo-kontrol edebilir veya durdurabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER141-0rn45f1",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Alarm ile pompa arasındaki ilişki",
+        "body": "Basınç, hava ve düşük seviye sensörleri sesli/görsel uyarının yanında pompayı **servo-kontrol edebilir veya durdurabilir**.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Akım ölçümünün yeri",
+      "text": "Hastaya yakın akım ölçümü gerçek arteriyel dönüşü daha iyi temsil eder. Açık şantlardan önceki ölçüm oksijen sunumu hesabını yanıltabilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0kugm12",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Akım ölçümünün yeri",
+        "body": "Hastaya yakın akım ölçümü gerçek arteriyel dönüşü daha iyi temsil eder. Açık şantlardan önceki ölçüm oksijen sunumu hesabını yanıltabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "NIRS uyarı örneği",
+      "text": "EACTS 2024'te düşük bazal serebral satürasyon, örneğin **<%50**, veya bazalden >%15 düşüş malperfüzyonu düşündüren bulgular olarak değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0578klb",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "NIRS uyarı örneği",
+        "body": "EACTS 2024'te düşük bazal serebral satürasyon, örneğin **<%50**, veya bazalden >%15 düşüş malperfüzyonu düşündüren bulgular olarak değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kalıcı perfüzyon kaydı",
+      "text": "Her KPB için parametreler, olaylar ve kullanılan bileşenler yazılı veya elektronik kaydedilir; elektronik otomatik kayıt kalite izlemini destekler.",
+      "images": [],
+      "card": {
+        "id": "PER141-0roj8nj",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kalıcı perfüzyon kaydı",
+        "body": "Her KPB için parametreler, olaylar ve kullanılan bileşenler yazılı veya elektronik kaydedilir; elektronik otomatik kayıt kalite izlemini destekler.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "KPB checklist'inin tamamlandığı ekip içinde ne zaman teyit edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0tor6de",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "flip",
+        "importance": 3,
+        "question": "KPB checklist'inin tamamlandığı ekip içinde ne zaman teyit edilir?",
+        "answer": "Cerrahi güvenlik **time-out** sırasında teyit edilir; ayrılma öncesi checklist de ayrıca uygulanır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Elektrik kesintisinde pompa desteğinin yedek zinciri nasıldır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1j91i7j",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "flip",
+        "importance": 3,
+        "question": "Elektrik kesintisinde pompa desteğinin yedek zinciri nasıldır?",
+        "answer": "Konsol bataryası kullanılır; elektrik ve batarya desteği yetersizse **el krankıyla** manuel çalıştırma uygulanır.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "İyatrojenik aort diseksiyonunda erken tanıya hangi görüntüleme yöntemi yardım eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0s4vvog",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "İyatrojenik aort diseksiyonunda erken tanıya hangi görüntüleme yöntemi yardım eder?",
+        "answer": "**Transözofageal ekokardiyografi (TEE)**; kanül veya klemp yerindeki komplikasyonun değerlendirilmesine yardım eder.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Ayrılınca acil devreyi kaldırma",
+      "text": "EACTS 2024'e göre hasta ayrıldıktan sonra devre **göğüs kapanana kadar hazır ve çalışır** tutulur; acil KPB ve ekstrakorporeal destek hazırlığı sürer.",
+      "images": [],
+      "card": {
+        "id": "PER141-0cz5foy",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Ayrılınca acil devreyi kaldırma",
+        "body": "EACTS 2024'e göre hasta ayrıldıktan sonra devre **göğüs kapanana kadar hazır ve çalışır** tutulur; acil KPB ve ekstrakorporeal destek hazırlığı sürer.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Hastaya giden hatlarda hava güvenliği",
+      "text": "EACTS 2024, **hastaya giden tüm hatlarda kabarcık dedektörü**, hard-shell rezervuarda seviye sensörü ve hayati sistemler için yedek düzen önerir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1bciotv",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Hastaya giden hatlarda hava güvenliği",
+        "body": "EACTS 2024, **hastaya giden tüm hatlarda kabarcık dedektörü**, hard-shell rezervuarda seviye sensörü ve hayati sistemler için yedek düzen önerir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "AmSECT'in oku-doğrula checklist yöntemi nasıl uygulanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0i4st77",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "AmSECT'in oku-doğrula checklist yöntemi nasıl uygulanır?",
+        "options": [
+          "Biri sorumlu perfüzyonist olan iki kişiyle",
+          "Cerrahi bitince tek kişiyle",
+          "Yalnız cihaz satıcısıyla",
+          "Hasta ziyaretinde üç kişiyle"
+        ],
+        "correct": 0,
+        "explanation": "AmSECT 2017 checklist'i biri birincil perfüzyonist olmak üzere iki kişinin oku-doğrula yaklaşımıyla tanımlar.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Masif hava embolisi fark edildiğinde devreye yönelik ilk temel yaklaşım hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-058g98z",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Masif hava embolisi fark edildiğinde devreye yönelik ilk temel yaklaşım hangisidir?",
+        "options": [
+          "Pompa devrini en yükseğe çıkarmak",
+          "Ekibi uyarıp pompayı durdurmak ve hatları klemplemek",
+          "Rezervuar alarmını kapatmak",
+          "Hava kaynağı araştırılmadan protamin vermek"
+        ],
+        "correct": 1,
+        "explanation": "Acil protokolde önce yeni hava iletimini durdurmak ve ekibi uyarmak gerekir; sonraki işlemler ekipçe yönetilir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "AmSECT'e göre yardımlı drenajda hangi ek basınç izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0biczym",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "AmSECT'e göre yardımlı drenajda hangi ek basınç izlenir?",
+        "options": [
+          "Gaz tüpünün oda sıcaklığı",
+          "Hasta idrar torbası basıncı",
+          "Venöz rezervuar basıncı",
+          "İlaç şişesinin hava basıncı"
+        ],
+        "correct": 2,
+        "explanation": "Yardımlı drenajda rezervuar basıncı güvenlik izleminin parçasıdır.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "Basınç transdüseri ölçümü hangi biçime dönüştürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-16tfqxj",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Basınç transdüseri ölçümü hangi biçime dönüştürür?",
+        "options": [
+          "Mekanik kan pıhtısına",
+          "Gaz karışımına",
+          "Steril su akımına",
+          "Elektrik sinyaline"
+        ],
+        "correct": 3,
+        "explanation": "Transdüser hat basıncını ölçülebilen elektrik sinyaline çevirir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Perfüzyonun kalite güvencesinde hangi uygulama anlamlıdır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0bsvnnr",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Perfüzyonun kalite güvencesinde hangi uygulama anlamlıdır?",
+        "options": [
+          "Olayların raporlanıp analiz edilmesi",
+          "Olay kayıtlarının silinmesi",
+          "Alarm eşiklerinin belgesiz değiştirilmesi",
+          "Bakım kayıtlarının tutulmaması"
+        ],
+        "correct": 0,
+        "explanation": "Olay raporlaması, analiz ve kalite programına katılım sistem güvenliğini destekler.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Gaz egzozunun açık olduğu KPB öncesi kontrol edilmelidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-176bx4c",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Gaz egzozunun açık olduğu KPB öncesi kontrol edilmelidir.",
+        "isTrue": true,
+        "explanation": "AmSECT checklist gaz hattı bağlantılarıyla birlikte gaz egzozunun açık olduğunu da kontrol eder.",
+        "source": "AmSECT 2017"
+      }
+    },
+    {
+      "title": "KPB sırasında radyal arter basıncı gerçek sistemik basıncı düşük gösterebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-121e70h",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "KPB sırasında radyal arter basıncı gerçek sistemik basıncı düşük gösterebilir.",
+        "isTrue": true,
+        "explanation": "Radyal arter ölçümü bazı KPB koşullarında yanıltıcı olabilir; alternatif arteriyel ölçüm yerleri değerlendirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Sesli ve görsel alarmlar KPB sırasında devre dışı tutulmalıdır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0za44at",
+        "course": "PER141",
+        "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Sesli ve görsel alarmlar KPB sırasında devre dışı tutulmalıdır.",
+        "isTrue": false,
+        "explanation": "Güvenlik alarmları etkin tutulur ve gereken sensörlerde pompaya müdahale bağlantısı sağlanır.",
+        "source": "AmSECT 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-1u8hdfe",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Kabarcık dedektörü",
+      "definition": "Hatta hava algılandığında alarm verip pompayı durduran (ultrasonik) sensör; hastaya giden tüm hatlarda önerilir.",
+      "en": "Bubble (air) detector",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0ql7v4w",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Basınç transdüseri",
+      "definition": "Hat basıncını (arteriyel, kardiyopleji, venöz) elektrik sinyaline çeviren sensör.",
+      "en": "Pressure transducer",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0yzjni1",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Servo-regülasyon",
+      "definition": "Sensör sinyaline göre pompa hızının otomatik ayarlanması veya durdurulması.",
+      "en": "Servo-regulation",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0tgps1b",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "In-line kan gazı monitörü",
+      "definition": "Devre üzerinde sürekli pH, PCO₂, PO₂ (ve SvO₂/hematokrit) ölçen sistem.",
+      "en": "In-line blood gas monitor",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-181t925",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "SvO₂",
+      "definition": "Venöz kandaki oksijen satürasyonu; global oksijen sunumu ile tüketimi arasındaki dengeyi yansıtır.",
+      "en": "Venous oxygen saturation",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0pfzi5n",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "NIRS (rScO₂)",
+      "definition": "Bölgesel serebral doku oksijenasyonunu ölçen non-invaziv yöntem.",
+      "en": "Near-infrared spectroscopy",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0eie3nf",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz oklüder",
+      "definition": "Venöz hattı kısarak drenajı ayarlayan klemp/cihaz; oklüzyon yüzdesi izlenir.",
+      "en": "Venous occluder",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1fgqslt",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Kontrol listesi",
+      "definition": "Kurulum, başlatma, ayrılma ve acil durumlarda adımların atlanmamasını sağlayan liste.",
+      "en": "Checklist",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0zab2b5",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Time-out",
+      "definition": "Cerrahi güvenlik kontrolünde ekip teyidi; perfüzyon checklist'inin tamamlandığı burada bildirilir.",
+      "en": "Surgical safety time-out",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0fv3wti",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Perfüzyon kaydı",
+      "definition": "KPB parametrelerinin, olayların ve kullanılan malzemelerin yazılı/elektronik dokümantasyonu.",
+      "en": "Perfusion record",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-1on47lu",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 1,
+      "term": "FMEA",
+      "definition": "Hata türleri ve etkilerini sistematik inceleyen risk analizi yöntemi.",
+      "en": "Failure mode and effects analysis",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-03ufwaz",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Hava embolisi",
+      "definition": "Devreden, sahadan veya damar yolundan damar içine hava girişi; masif olanı acil protokol gerektirir.",
+      "en": "Air embolism",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-16bvmzt",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "İyatrojenik aort diseksiyonu",
+      "definition": "Kanülasyon veya klemp uygulaması sırasında oluşabilen, aort duvarı katmanlarının ayrılmasıyla seyreden komplikasyon.",
+      "en": "Iatrogenic aortic dissection",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0hqj1yy",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "term",
+      "importance": 2,
+      "term": "RCP",
+      "definition": "vena kava superior yoluyla beyne ters yönde perfüzyon; masif hava embolisinde kullanılabilir.",
+      "en": "Retrograde cerebral perfusion",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1ggw77t",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "compare",
+      "importance": 2,
+      "title": "Hava güvenliği sensörleri",
+      "left": {
+        "title": "Seviye sensörü",
+        "points": [
+          "Rezervuar kan seviyesindeki düşüşü algılar",
+          "Havanın ana devreye girişini önlemeye yardım eder"
+        ]
+      },
+      "right": {
+        "title": "Kabarcık dedektörü",
+        "points": [
+          "Hatta bulunan hava kabarcığını algılar",
+          "Pompa akımına müdahale ederek hastayı korur"
+        ]
+      },
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0odtqgw",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "fact",
+      "importance": 3,
+      "title": "İki taraflı basınç izlemi",
+      "body": "EACTS 2024, arteriyel devrede **oksijenatör öncesi ve sonrası** basınç izlemini önerir; kardiyopleji basıncı da ayrıca izlenir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0rn45f1",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Alarm ile pompa arasındaki ilişki",
+      "body": "Basınç, hava ve düşük seviye sensörleri sesli/görsel uyarının yanında pompayı **servo-kontrol edebilir veya durdurabilir**.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0kugm12",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Akım ölçümünün yeri",
+      "body": "Hastaya yakın akım ölçümü gerçek arteriyel dönüşü daha iyi temsil eder. Açık şantlardan önceki ölçüm oksijen sunumu hesabını yanıltabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0578klb",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "NIRS uyarı örneği",
+      "body": "EACTS 2024'te düşük bazal serebral satürasyon, örneğin **<%50**, veya bazalden >%15 düşüş malperfüzyonu düşündüren bulgular olarak değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0roj8nj",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kalıcı perfüzyon kaydı",
+      "body": "Her KPB için parametreler, olaylar ve kullanılan bileşenler yazılı veya elektronik kaydedilir; elektronik otomatik kayıt kalite izlemini destekler.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0tor6de",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "flip",
+      "importance": 3,
+      "question": "KPB checklist'inin tamamlandığı ekip içinde ne zaman teyit edilir?",
+      "answer": "Cerrahi güvenlik **time-out** sırasında teyit edilir; ayrılma öncesi checklist de ayrıca uygulanır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1j91i7j",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "flip",
+      "importance": 3,
+      "question": "Elektrik kesintisinde pompa desteğinin yedek zinciri nasıldır?",
+      "answer": "Konsol bataryası kullanılır; elektrik ve batarya desteği yetersizse **el krankıyla** manuel çalıştırma uygulanır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-0s4vvog",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "İyatrojenik aort diseksiyonunda erken tanıya hangi görüntüleme yöntemi yardım eder?",
+      "answer": "**Transözofageal ekokardiyografi (TEE)**; kanül veya klemp yerindeki komplikasyonun değerlendirilmesine yardım eder.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0cz5foy",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Ayrılınca acil devreyi kaldırma",
+      "body": "EACTS 2024'e göre hasta ayrıldıktan sonra devre **göğüs kapanana kadar hazır ve çalışır** tutulur; acil KPB ve ekstrakorporeal destek hazırlığı sürer.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1bciotv",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Hastaya giden hatlarda hava güvenliği",
+      "body": "EACTS 2024, **hastaya giden tüm hatlarda kabarcık dedektörü**, hard-shell rezervuarda seviye sensörü ve hayati sistemler için yedek düzen önerir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0i4st77",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "AmSECT'in oku-doğrula checklist yöntemi nasıl uygulanır?",
+      "options": [
+        "Biri sorumlu perfüzyonist olan iki kişiyle",
+        "Cerrahi bitince tek kişiyle",
+        "Yalnız cihaz satıcısıyla",
+        "Hasta ziyaretinde üç kişiyle"
+      ],
+      "correct": 0,
+      "explanation": "AmSECT 2017 checklist'i biri birincil perfüzyonist olmak üzere iki kişinin oku-doğrula yaklaşımıyla tanımlar.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-058g98z",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Masif hava embolisi fark edildiğinde devreye yönelik ilk temel yaklaşım hangisidir?",
+      "options": [
+        "Pompa devrini en yükseğe çıkarmak",
+        "Ekibi uyarıp pompayı durdurmak ve hatları klemplemek",
+        "Rezervuar alarmını kapatmak",
+        "Hava kaynağı araştırılmadan protamin vermek"
+      ],
+      "correct": 1,
+      "explanation": "Acil protokolde önce yeni hava iletimini durdurmak ve ekibi uyarmak gerekir; sonraki işlemler ekipçe yönetilir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0biczym",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "AmSECT'e göre yardımlı drenajda hangi ek basınç izlenir?",
+      "options": [
+        "Gaz tüpünün oda sıcaklığı",
+        "Hasta idrar torbası basıncı",
+        "Venöz rezervuar basıncı",
+        "İlaç şişesinin hava basıncı"
+      ],
+      "correct": 2,
+      "explanation": "Yardımlı drenajda rezervuar basıncı güvenlik izleminin parçasıdır.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-16tfqxj",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Basınç transdüseri ölçümü hangi biçime dönüştürür?",
+      "options": [
+        "Mekanik kan pıhtısına",
+        "Gaz karışımına",
+        "Steril su akımına",
+        "Elektrik sinyaline"
+      ],
+      "correct": 3,
+      "explanation": "Transdüser hat basıncını ölçülebilen elektrik sinyaline çevirir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0bsvnnr",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Perfüzyonun kalite güvencesinde hangi uygulama anlamlıdır?",
+      "options": [
+        "Olayların raporlanıp analiz edilmesi",
+        "Olay kayıtlarının silinmesi",
+        "Alarm eşiklerinin belgesiz değiştirilmesi",
+        "Bakım kayıtlarının tutulmaması"
+      ],
+      "correct": 0,
+      "explanation": "Olay raporlaması, analiz ve kalite programına katılım sistem güvenliğini destekler.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-176bx4c",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Gaz egzozunun açık olduğu KPB öncesi kontrol edilmelidir.",
+      "isTrue": true,
+      "explanation": "AmSECT checklist gaz hattı bağlantılarıyla birlikte gaz egzozunun açık olduğunu da kontrol eder.",
+      "source": "AmSECT 2017"
+    },
+    {
+      "id": "PER141-121e70h",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "KPB sırasında radyal arter basıncı gerçek sistemik basıncı düşük gösterebilir.",
+      "isTrue": true,
+      "explanation": "Radyal arter ölçümü bazı KPB koşullarında yanıltıcı olabilir; alternatif arteriyel ölçüm yerleri değerlendirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0za44at",
+      "course": "PER141",
+      "topic": "Güvenlik, monitörizasyon ve acil durumlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sesli ve görsel alarmlar KPB sırasında devre dışı tutulmalıdır.",
+      "isTrue": false,
+      "explanation": "Güvenlik alarmları etkin tutulur ve gereken sensörlerde pompaya müdahale bağlantısı sağlanır.",
+      "source": "AmSECT 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

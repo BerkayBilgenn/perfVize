@@ -1,0 +1,781 @@
+{
+  "id": "review-ec63125dbb9b85c3",
+  "title": "Filtreler",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Gazlı mikroemboli",
+      "text": "Gaseous microemboli\nÇıplak gözle görülemeyen, dolaşımdaki gaz kabarcıkları; nörolojik hasarla ilişkili.",
+      "images": [],
+      "card": {
+        "id": "PER141-0irocm4",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Gazlı mikroemboli",
+        "definition": "Çıplak gözle görülemeyen, dolaşımdaki gaz kabarcıkları; nörolojik hasarla ilişkili.",
+        "en": "Gaseous microemboli",
+        "source": "GME çalışması 2026"
+      }
+    },
+    {
+      "title": "Embolus",
+      "text": "Embolus / embolism\nDolaşımla taşınıp damarı tıkayan gaz, katı veya yağ parçası; olaya emboli denir.",
+      "images": [],
+      "card": {
+        "id": "PER141-10z1hq4",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Embolus",
+        "definition": "Dolaşımla taşınıp damarı tıkayan gaz, katı veya yağ parçası; olaya emboli denir.",
+        "en": "Embolus / embolism",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "Arteriyel hat filtresi",
+      "text": "Arterial line filter\nPompanın distalinde, hastaya giden kandan partikül ve gazlı mikroembolileri uzaklaştıran filtre.",
+      "images": [],
+      "card": {
+        "id": "PER141-0j0ehth",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Arteriyel hat filtresi",
+        "definition": "Pompanın distalinde, hastaya giden kandan partikül ve gazlı mikroembolileri uzaklaştıran filtre.",
+        "en": "Arterial line filter",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Elek filtre",
+      "text": "Screen filter\nBelirli gözenekli örgüyle süzme.",
+      "images": [],
+      "card": {
+        "id": "PER141-1p5lgm8",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Elek filtre",
+        "definition": "Belirli gözenekli örgüyle süzme.",
+        "en": "Screen filter",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Derinlik filtresi",
+      "text": "Depth filter\nKalın lifli/köpük matris içinde tutarak süzme (kardiyotomi filtrelerinde elekle birlikte).",
+      "images": [],
+      "card": {
+        "id": "PER141-1wdxywz",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Derinlik filtresi",
+        "definition": "Kalın lifli/köpük matris içinde tutarak süzme (kardiyotomi filtrelerinde elekle birlikte).",
+        "en": "Depth filter",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Prebypass filtresi",
+      "text": "Prebypass filter\nPrime ve resirkülasyon sırasında dolum sıvısını süzen, bypass öncesinde devreden çıkarılan filtre.",
+      "images": [],
+      "card": {
+        "id": "PER141-1lk7krm",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Prebypass filtresi",
+        "definition": "Prime ve resirkülasyon sırasında dolum sıvısını süzen, bypass öncesinde devreden çıkarılan filtre.",
+        "en": "Prebypass filter",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Lökosit filtresi",
+      "text": "Leukocyte depletion filter\nKandaki lökositleri tutmak üzere tasarlanan filtre.",
+      "images": [],
+      "card": {
+        "id": "PER141-1cwvsul",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Lökosit filtresi",
+        "definition": "Kandaki lökositleri tutmak üzere tasarlanan filtre.",
+        "en": "Leukocyte depletion filter",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Gaz hattı filtresi",
+      "text": "Gas line filter\nOksijenatöre giden gaz akımındaki bakterileri tutan filtre.",
+      "images": [],
+      "card": {
+        "id": "PER141-0ufdmsp",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Gaz hattı filtresi",
+        "definition": "Oksijenatöre giden gaz akımındaki bakterileri tutan filtre.",
+        "en": "Gas line filter",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Purge hattı",
+      "text": "Purge line\nFiltre veya kabarcık tutucunun tepesinden havayı rezervuara tahliye eden hat.",
+      "images": [],
+      "card": {
+        "id": "PER141-0s6qrhq",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Purge hattı",
+        "definition": "Filtre veya kabarcık tutucunun tepesinden havayı rezervuara tahliye eden hat.",
+        "en": "Purge line",
+        "source": "GME çalışması 2026"
+      }
+    },
+    {
+      "title": "Venöz kabarcık tutucu",
+      "text": "Venous bubble trap / venous air removal device\nVenöz rezervuarsız (MiECC) devrede venöz hattaki havayı ayıran cihaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-0h0o10s",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Venöz kabarcık tutucu",
+        "definition": "Venöz rezervuarsız (MiECC) devrede venöz hattaki havayı ayıran cihaz.",
+        "en": "Venous bubble trap / venous air removal device",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Trombüs",
+      "text": "Thrombus\nDamar veya devre içinde oluşan pıhtı.",
+      "images": [],
+      "card": {
+        "id": "PER141-01jyk2e",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "term",
+        "importance": 2,
+        "term": "Trombüs",
+        "definition": "Damar veya devre içinde oluşan pıhtı.",
+        "en": "Thrombus",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "Filtrenin kullanım evresi",
+      "text": "Arteriyel hat filtresi\nHastaya giden kanı süzer\nKPB sırasında devrede bulunur\n\nPrebypass filtresi\nDolum sıvısını süzer\nKPB başlamadan devreden çıkarılır",
+      "images": [],
+      "card": {
+        "id": "PER141-0k91osv",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "compare",
+        "importance": 2,
+        "title": "Filtrenin kullanım evresi",
+        "left": {
+          "title": "Arteriyel hat filtresi",
+          "points": [
+            "Hastaya giden kanı süzer",
+            "KPB sırasında devrede bulunur"
+          ]
+        },
+        "right": {
+          "title": "Prebypass filtresi",
+          "points": [
+            "Dolum sıvısını süzer",
+            "KPB başlamadan devreden çıkarılır"
+          ]
+        },
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Arteriyel filtre gözeneği",
+      "text": "Basics of CPB arteriyel hat filtresi için yaklaşık **20–40 µm** aralığını verir. Terumo FX örneğinde entegre elek 32 µm'dir; cihaz modeli önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0kbbilv",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "fact",
+        "importance": 2,
+        "title": "Arteriyel filtre gözeneği",
+        "body": "Basics of CPB arteriyel hat filtresi için yaklaşık **20–40 µm** aralığını verir. Terumo FX örneğinde entegre elek 32 µm'dir; cihaz modeli önemlidir.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Kılavuzların ALF dili",
+      "text": "AmSECT 2017, arteriyel hat filtresini **zorunlu** tutar; EACTS 2024 mikroemboli sayısını azaltmak için düşünülebilir der. Bu fark kesin bir test eşiği yapılmaz.",
+      "images": [],
+      "card": {
+        "id": "PER141-1363842",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "fact",
+        "importance": 3,
+        "title": "Kılavuzların ALF dili",
+        "body": "AmSECT 2017, arteriyel hat filtresini **zorunlu** tutar; EACTS 2024 mikroemboli sayısını azaltmak için düşünülebilir der. Bu fark kesin bir test eşiği yapılmaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Prebypass ve gaz filtresi",
+      "text": "National Heart Center/LivaNova örneklerinde prebypass ve gaz hattı filtreleri **0,2 µm**'dir. Biri dolum sıvısı, diğeri gaz akımı içindir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0frq2oh",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "fact",
+        "importance": 2,
+        "title": "Prebypass ve gaz filtresi",
+        "body": "National Heart Center/LivaNova örneklerinde prebypass ve gaz hattı filtreleri **0,2 µm**'dir. Biri dolum sıvısı, diğeri gaz akımı içindir.",
+        "source": "LivaNova tüp seti"
+      }
+    },
+    {
+      "title": "Kardiyopleji filtresinin boyutu",
+      "text": "National Heart Center 2026, kristaloid kardiyopleji filtresini **0,2 µm**, kan kardiyopleji filtresini 40 µm olarak verir; kullanım sıvısı belirtilmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0r8z472",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kardiyopleji filtresinin boyutu",
+        "body": "National Heart Center 2026, kristaloid kardiyopleji filtresini **0,2 µm**, kan kardiyopleji filtresini 40 µm olarak verir; kullanım sıvısı belirtilmelidir.",
+        "source": "National Heart Center 2026"
+      }
+    },
+    {
+      "title": "Entegre filtrenin hacim katkısı",
+      "text": "EACTS 2024, oksijenatöre entegre arteriyel filtreyle prime hacminde **100–250 mL** azalma bildirir; bu her modelin kesin kazanımı değildir.",
+      "images": [],
+      "card": {
+        "id": "PER141-03d3s34",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "fact",
+        "importance": 2,
+        "title": "Entegre filtrenin hacim katkısı",
+        "body": "EACTS 2024, oksijenatöre entegre arteriyel filtreyle prime hacminde **100–250 mL** azalma bildirir; bu her modelin kesin kazanımı değildir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kardiyotomi filtresinde hangi iki filtrasyon ilkesi birlikte kullanılabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-02nepwx",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kardiyotomi filtresinde hangi iki filtrasyon ilkesi birlikte kullanılabilir?",
+        "answer": "**Elek ve derinlik filtrasyonu**; kan hem belirli gözeneklerden hem hacimli bir matristen geçirilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Arteriyel filtrede biriken hava hangi hatla uzaklaştırılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0fzm5mg",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "flip",
+        "importance": 2,
+        "question": "Arteriyel filtrede biriken hava hangi hatla uzaklaştırılır?",
+        "answer": "**Purge hattı** üzerinden hava tahliye edilir.",
+        "source": "GME çalışması 2026"
+      }
+    },
+    {
+      "title": "Rutin lökosit filtresinin kanıtını bil",
+      "text": "EACTS 2024, membran oksijenatörle **rutin lökosit filtresi kullanımını önermez**; klinik yarar gösterilmemiştir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0n2zxt6",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "remember",
+        "importance": 3,
+        "title": "Rutin lökosit filtresinin kanıtını bil",
+        "body": "EACTS 2024, membran oksijenatörle **rutin lökosit filtresi kullanımını önermez**; klinik yarar gösterilmemiştir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Venöz rezervuarı olmayan MiECC'de venöz hava için hangi bileşen kullanılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0nrnqrr",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Venöz rezervuarı olmayan MiECC'de venöz hava için hangi bileşen kullanılır?",
+        "options": [
+          "Venöz kabarcık tutucu",
+          "Prebypass filtresi",
+          "Gaz hattı filtresi",
+          "Kristaloid kardiyopleji filtresi"
+        ],
+        "correct": 0,
+        "explanation": "Venöz kabarcık tutucu veya VARD, rezervuarsız devrede venöz havayı ayırır.",
+        "source": "MiECC derlemesi 2021"
+      }
+    },
+    {
+      "title": "EACTS 2024'ün filtre sınıflamasında gazdan ayrı deforme olabilen mikroemboli örneği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1ou6eli",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "EACTS 2024'ün filtre sınıflamasında gazdan ayrı deforme olabilen mikroemboli örneği hangisidir?",
+        "options": [
+          "Çelik partikülü",
+          "Yağ damlacığı",
+          "Gaz kabarcığı",
+          "Tüp parçası"
+        ],
+        "correct": 1,
+        "explanation": "Filtrasyon sınıflamasında yağ damlacıkları deforme olabilen emboli grubundadır.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Elek filtrasyonunun temel özelliği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1kibhra",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Elek filtrasyonunun temel özelliği hangisidir?",
+        "options": [
+          "Gazı kana doğrudan verme",
+          "Kanı santrifüjle yıkama",
+          "Tanımlı gözeneklerden süzme",
+          "Su tankını dezenfekte etme"
+        ],
+        "correct": 2,
+        "explanation": "Elek filtrede parçacıklar tanımlı gözenek boyutuna göre tutulur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Derinlik filtresi parçacığı nerede tutar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-09o84lx",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Derinlik filtresi parçacığı nerede tutar?",
+        "options": [
+          "Gaz blenderinin girişinde",
+          "Su tankının çıkışında",
+          "Arteriyel kanülün dış yüzünde",
+          "Lifli matrisin içinde"
+        ],
+        "correct": 3,
+        "explanation": "Derinlik filtrasyonunda parçacıklar kalın matris boyunca tutulur.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Kaplamasız elek filtreler trombosit aktivasyonuna katkı yapabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1mbae31",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Kaplamasız elek filtreler trombosit aktivasyonuna katkı yapabilir.",
+        "isTrue": true,
+        "explanation": "Kan-yabancı yüzey teması nedeniyle kaplamasız elek filtre trombositleri aktive edebilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Gazlı mikroemboli tutma verimi filtre gözenekleri büyüdükçe artar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-05pmiqr",
+        "course": "PER141",
+        "topic": "Filtreler",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Gazlı mikroemboli tutma verimi filtre gözenekleri büyüdükçe artar.",
+        "isTrue": false,
+        "explanation": "EACTS değerlendirmesinde gazlı mikroemboli tutma verimi gözenek boyutuyla ters ilişkilidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0irocm4",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Gazlı mikroemboli",
+      "definition": "Çıplak gözle görülemeyen, dolaşımdaki gaz kabarcıkları; nörolojik hasarla ilişkili.",
+      "en": "Gaseous microemboli",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "id": "PER141-10z1hq4",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Embolus",
+      "definition": "Dolaşımla taşınıp damarı tıkayan gaz, katı veya yağ parçası; olaya emboli denir.",
+      "en": "Embolus / embolism",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-0j0ehth",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Arteriyel hat filtresi",
+      "definition": "Pompanın distalinde, hastaya giden kandan partikül ve gazlı mikroembolileri uzaklaştıran filtre.",
+      "en": "Arterial line filter",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1p5lgm8",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Elek filtre",
+      "definition": "Belirli gözenekli örgüyle süzme.",
+      "en": "Screen filter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1wdxywz",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Derinlik filtresi",
+      "definition": "Kalın lifli/köpük matris içinde tutarak süzme (kardiyotomi filtrelerinde elekle birlikte).",
+      "en": "Depth filter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1lk7krm",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Prebypass filtresi",
+      "definition": "Prime ve resirkülasyon sırasında dolum sıvısını süzen, bypass öncesinde devreden çıkarılan filtre.",
+      "en": "Prebypass filter",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-1cwvsul",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Lökosit filtresi",
+      "definition": "Kandaki lökositleri tutmak üzere tasarlanan filtre.",
+      "en": "Leukocyte depletion filter",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0ufdmsp",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Gaz hattı filtresi",
+      "definition": "Oksijenatöre giden gaz akımındaki bakterileri tutan filtre.",
+      "en": "Gas line filter",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-0s6qrhq",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Purge hattı",
+      "definition": "Filtre veya kabarcık tutucunun tepesinden havayı rezervuara tahliye eden hat.",
+      "en": "Purge line",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "id": "PER141-0h0o10s",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Venöz kabarcık tutucu",
+      "definition": "Venöz rezervuarsız (MiECC) devrede venöz hattaki havayı ayıran cihaz.",
+      "en": "Venous bubble trap / venous air removal device",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-01jyk2e",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "term",
+      "importance": 2,
+      "term": "Trombüs",
+      "definition": "Damar veya devre içinde oluşan pıhtı.",
+      "en": "Thrombus",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-0k91osv",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "compare",
+      "importance": 2,
+      "title": "Filtrenin kullanım evresi",
+      "left": {
+        "title": "Arteriyel hat filtresi",
+        "points": [
+          "Hastaya giden kanı süzer",
+          "KPB sırasında devrede bulunur"
+        ]
+      },
+      "right": {
+        "title": "Prebypass filtresi",
+        "points": [
+          "Dolum sıvısını süzer",
+          "KPB başlamadan devreden çıkarılır"
+        ]
+      },
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-0kbbilv",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "fact",
+      "importance": 2,
+      "title": "Arteriyel filtre gözeneği",
+      "body": "Basics of CPB arteriyel hat filtresi için yaklaşık **20–40 µm** aralığını verir. Terumo FX örneğinde entegre elek 32 µm'dir; cihaz modeli önemlidir.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-1363842",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "fact",
+      "importance": 3,
+      "title": "Kılavuzların ALF dili",
+      "body": "AmSECT 2017, arteriyel hat filtresini **zorunlu** tutar; EACTS 2024 mikroemboli sayısını azaltmak için düşünülebilir der. Bu fark kesin bir test eşiği yapılmaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0frq2oh",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "fact",
+      "importance": 2,
+      "title": "Prebypass ve gaz filtresi",
+      "body": "National Heart Center/LivaNova örneklerinde prebypass ve gaz hattı filtreleri **0,2 µm**'dir. Biri dolum sıvısı, diğeri gaz akımı içindir.",
+      "source": "LivaNova tüp seti"
+    },
+    {
+      "id": "PER141-0r8z472",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kardiyopleji filtresinin boyutu",
+      "body": "National Heart Center 2026, kristaloid kardiyopleji filtresini **0,2 µm**, kan kardiyopleji filtresini 40 µm olarak verir; kullanım sıvısı belirtilmelidir.",
+      "source": "National Heart Center 2026"
+    },
+    {
+      "id": "PER141-03d3s34",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "fact",
+      "importance": 2,
+      "title": "Entegre filtrenin hacim katkısı",
+      "body": "EACTS 2024, oksijenatöre entegre arteriyel filtreyle prime hacminde **100–250 mL** azalma bildirir; bu her modelin kesin kazanımı değildir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-02nepwx",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyotomi filtresinde hangi iki filtrasyon ilkesi birlikte kullanılabilir?",
+      "answer": "**Elek ve derinlik filtrasyonu**; kan hem belirli gözeneklerden hem hacimli bir matristen geçirilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0fzm5mg",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "flip",
+      "importance": 2,
+      "question": "Arteriyel filtrede biriken hava hangi hatla uzaklaştırılır?",
+      "answer": "**Purge hattı** üzerinden hava tahliye edilir.",
+      "source": "GME çalışması 2026"
+    },
+    {
+      "id": "PER141-0n2zxt6",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "remember",
+      "importance": 3,
+      "title": "Rutin lökosit filtresinin kanıtını bil",
+      "body": "EACTS 2024, membran oksijenatörle **rutin lökosit filtresi kullanımını önermez**; klinik yarar gösterilmemiştir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-0nrnqrr",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Venöz rezervuarı olmayan MiECC'de venöz hava için hangi bileşen kullanılır?",
+      "options": [
+        "Venöz kabarcık tutucu",
+        "Prebypass filtresi",
+        "Gaz hattı filtresi",
+        "Kristaloid kardiyopleji filtresi"
+      ],
+      "correct": 0,
+      "explanation": "Venöz kabarcık tutucu veya VARD, rezervuarsız devrede venöz havayı ayırır.",
+      "source": "MiECC derlemesi 2021"
+    },
+    {
+      "id": "PER141-1ou6eli",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "EACTS 2024'ün filtre sınıflamasında gazdan ayrı deforme olabilen mikroemboli örneği hangisidir?",
+      "options": [
+        "Çelik partikülü",
+        "Yağ damlacığı",
+        "Gaz kabarcığı",
+        "Tüp parçası"
+      ],
+      "correct": 1,
+      "explanation": "Filtrasyon sınıflamasında yağ damlacıkları deforme olabilen emboli grubundadır.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1kibhra",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Elek filtrasyonunun temel özelliği hangisidir?",
+      "options": [
+        "Gazı kana doğrudan verme",
+        "Kanı santrifüjle yıkama",
+        "Tanımlı gözeneklerden süzme",
+        "Su tankını dezenfekte etme"
+      ],
+      "correct": 2,
+      "explanation": "Elek filtrede parçacıklar tanımlı gözenek boyutuna göre tutulur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-09o84lx",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Derinlik filtresi parçacığı nerede tutar?",
+      "options": [
+        "Gaz blenderinin girişinde",
+        "Su tankının çıkışında",
+        "Arteriyel kanülün dış yüzünde",
+        "Lifli matrisin içinde"
+      ],
+      "correct": 3,
+      "explanation": "Derinlik filtrasyonunda parçacıklar kalın matris boyunca tutulur.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-1mbae31",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Kaplamasız elek filtreler trombosit aktivasyonuna katkı yapabilir.",
+      "isTrue": true,
+      "explanation": "Kan-yabancı yüzey teması nedeniyle kaplamasız elek filtre trombositleri aktive edebilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER141-05pmiqr",
+      "course": "PER141",
+      "topic": "Filtreler",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Gazlı mikroemboli tutma verimi filtre gözenekleri büyüdükçe artar.",
+      "isTrue": false,
+      "explanation": "EACTS değerlendirmesinde gazlı mikroemboli tutma verimi gözenek boyutuyla ters ilişkilidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

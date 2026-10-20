@@ -1,0 +1,809 @@
+{
+  "id": "review-d029fc939adc3988",
+  "title": "Koroner sistem anatomisi ve fizyolojisi",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "LAD",
+      "text": "Left anterior descending artery\nÖn interventriküler olukta seyreden, diyagonal ve septal dallar veren sol koroner dalı.",
+      "images": [],
+      "card": {
+        "id": "PER141-0kwibvm",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "LAD",
+        "definition": "Ön interventriküler olukta seyreden, diyagonal ve septal dallar veren sol koroner dalı.",
+        "en": "Left anterior descending artery",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "LCx",
+      "text": "Left circumflex artery\nSol AV olukta seyreden, obtus marjinal dalları veren sol koroner dalı.",
+      "images": [],
+      "card": {
+        "id": "PER141-0iof7bw",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "LCx",
+        "definition": "Sol AV olukta seyreden, obtus marjinal dalları veren sol koroner dalı.",
+        "en": "Left circumflex artery",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "RCA",
+      "text": "Right coronary artery\nSağ aortik sinüsten çıkan; konus, SA nodal, akut marjinal ve (çoğu kişide) PDA dallarını veren arter.",
+      "images": [],
+      "card": {
+        "id": "PER141-0dkp0kd",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "RCA",
+        "definition": "Sağ aortik sinüsten çıkan; konus, SA nodal, akut marjinal ve (çoğu kişide) PDA dallarını veren arter.",
+        "en": "Right coronary artery",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner dominans",
+      "text": "Coronary dominance\nPDA'yı veren arterin belirlediği baskınlık; en sık sağ dominans.",
+      "images": [],
+      "card": {
+        "id": "PER141-0jo0t8i",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Koroner dominans",
+        "definition": "PDA'yı veren arterin belirlediği baskınlık; en sık sağ dominans.",
+        "en": "Coronary dominance",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner sinüs",
+      "text": "Coronary sinus\nKalp venlerini toplayıp sağ atriyuma boşaltan ven; ağzında Thebesian kapak; retrograd kardiyopleji yolu.",
+      "images": [],
+      "card": {
+        "id": "PER141-1xdj4yu",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Koroner sinüs",
+        "definition": "Kalp venlerini toplayıp sağ atriyuma boşaltan ven; ağzında Thebesian kapak; retrograd kardiyopleji yolu.",
+        "en": "Coronary sinus",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Thebesian venler",
+      "text": "Thebesian veins (venae cordis minimae)\nDoğrudan kalp boşluklarına (en çok sağ atriyuma) açılan en küçük kalp venleri.",
+      "images": [],
+      "card": {
+        "id": "PER141-0n0zyxu",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Thebesian venler",
+        "definition": "Doğrudan kalp boşluklarına (en çok sağ atriyuma) açılan en küçük kalp venleri.",
+        "en": "Thebesian veins (venae cordis minimae)",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Anterior kardiyak venler",
+      "text": "Anterior cardiac veins\nsağ ventrikül ön yüzünü drene edip doğrudan sağ atriyuma açılan venler; retrograd kardiyoplejide sağ ventrikül korumasının zayıf olma nedeni.",
+      "images": [],
+      "card": {
+        "id": "PER141-0q2c1i5",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Anterior kardiyak venler",
+        "definition": "sağ ventrikül ön yüzünü drene edip doğrudan sağ atriyuma açılan venler; retrograd kardiyoplejide sağ ventrikül korumasının zayıf olma nedeni.",
+        "en": "Anterior cardiac veins",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner",
+      "text": "Coronary\nKalbi taç gibi saran damarlarla ilgili.",
+      "images": [],
+      "card": {
+        "id": "PER141-1fayg8p",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 1,
+        "term": "Koroner",
+        "definition": "Kalbi taç gibi saran damarlarla ilgili.",
+        "en": "Coronary",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "İskemi",
+      "text": "Ischemia\nDokuya kan akımının yetersizliği.",
+      "images": [],
+      "card": {
+        "id": "PER141-17ao9hz",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "İskemi",
+        "definition": "Dokuya kan akımının yetersizliği.",
+        "en": "Ischemia",
+        "source": "Wiktionary: Tıp etimolojisi"
+      }
+    },
+    {
+      "title": "Diyastol ve sistol",
+      "text": "Diastole / systole\nKalbin gevşeme / kasılma evresi; koroner akımın çoğu diyastolde gerçekleşir.",
+      "images": [],
+      "card": {
+        "id": "PER141-01u94in",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Diyastol ve sistol",
+        "definition": "Kalbin gevşeme / kasılma evresi; koroner akımın çoğu diyastolde gerçekleşir.",
+        "en": "Diastole / systole",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Sol ana koroner arter",
+      "text": "Left main coronary artery (LMCA)\nSol aortik sinüsten çıkan ve temel olarak ön inen arter ile sirkumfleks artere ayrılan ana koroner gövde.",
+      "images": [],
+      "card": {
+        "id": "PER141-1bo8bpv",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 3,
+        "term": "Sol ana koroner arter",
+        "definition": "Sol aortik sinüsten çıkan ve temel olarak ön inen arter ile sirkumfleks artere ayrılan ana koroner gövde.",
+        "en": "Left main coronary artery (LMCA)",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Posterior desendan arter",
+      "text": "Posterior descending artery (PDA)\nArka interventriküler bölgede seyreden, köken aldığı arterin koroner dominansı belirlediği koroner dal.",
+      "images": [],
+      "card": {
+        "id": "PER141-0karni6",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 2,
+        "term": "Posterior desendan arter",
+        "definition": "Arka interventriküler bölgede seyreden, köken aldığı arterin koroner dominansı belirlediği koroner dal.",
+        "en": "Posterior descending artery (PDA)",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Ramus intermedius",
+      "text": "Ramus intermedius\nSol ana koroner arterden ön inen arter ile sirkumfleks arter arasından çıkabilen ek dal.",
+      "images": [],
+      "card": {
+        "id": "PER141-1j08h5k",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "term",
+        "importance": 1,
+        "term": "Ramus intermedius",
+        "definition": "Sol ana koroner arterden ön inen arter ile sirkumfleks arter arasından çıkabilen ek dal.",
+        "en": "Ramus intermedius",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner arterlerin başlangıcı",
+      "text": "Koroner arterler aort kapağının hemen üzerindeki **aortik sinüslerden** çıkar. Kardiyoplejinin ostial uygulanması bu ağızları hedefler.",
+      "images": [],
+      "card": {
+        "id": "PER141-0w2hsvu",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Koroner arterlerin başlangıcı",
+        "body": "Koroner arterler aort kapağının hemen üzerindeki **aortik sinüslerden** çıkar. Kardiyoplejinin ostial uygulanması bu ağızları hedefler.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "LAD'nin dalları",
+      "text": "Ön inen arterin **diyagonal dalları** ve septal perforatörleri vardır; dal isimleri ön interventriküler seyirle birlikte öğrenilmelidir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0z944cm",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "LAD'nin dalları",
+        "body": "Ön inen arterin **diyagonal dalları** ve septal perforatörleri vardır; dal isimleri ön interventriküler seyirle birlikte öğrenilmelidir.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Sirkumfleksin dalları",
+      "text": "Sol sirkumfleks arter sol atriyoventriküler olukta ilerler ve **obtus marjinal** dallar verir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ctkeag",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Sirkumfleksin dalları",
+        "body": "Sol sirkumfleks arter sol atriyoventriküler olukta ilerler ve **obtus marjinal** dallar verir.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner akımın zamanlaması",
+      "text": "Özellikle sol ventrikülde sistolik damar dışı bası, koroner akımı sınırlar. Koroner kan akımının büyük kısmı **diyastolde** gerçekleşir.",
+      "images": [],
+      "card": {
+        "id": "PER141-0yhisgr",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "fact",
+        "importance": 3,
+        "title": "Koroner akımın zamanlaması",
+        "body": "Özellikle sol ventrikülde sistolik damar dışı bası, koroner akımı sınırlar. Koroner kan akımının büyük kısmı **diyastolde** gerçekleşir.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Endokardın kırılganlığı",
+      "text": "Endokard, iskemiye daha duyarlıdır. Taşikardinin diyastolü kısaltması koroner dolum için kullanılabilen süreyi azaltır.",
+      "images": [],
+      "card": {
+        "id": "PER141-0now5b3",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "fact",
+        "importance": 2,
+        "title": "Endokardın kırılganlığı",
+        "body": "Endokard, iskemiye daha duyarlıdır. Taşikardinin diyastolü kısaltması koroner dolum için kullanılabilen süreyi azaltır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Büyük kardiyak ven hangi koroner artere eşlik eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1q841vg",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Büyük kardiyak ven hangi koroner artere eşlik eder?",
+        "answer": "Büyük kardiyak ven, **ön inen artere (LAD)** eşlik eder.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Orta kardiyak ven hangi arterle birlikte seyreder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-173ir0j",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Orta kardiyak ven hangi arterle birlikte seyreder?",
+        "answer": "Orta kardiyak ven, **posterior desendan artere (PDA)** eşlik eder.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner sinüs ostiumunu kısmen örten kapak hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1hks2hb",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "flip",
+        "importance": 2,
+        "question": "Koroner sinüs ostiumunu kısmen örten kapak hangisidir?",
+        "answer": "**Thebesian kapak**; koroner sinüsün sağ atriyuma açıldığı ağızda bulunur.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Şişen ventrikülün oksijen gereksinimi",
+      "text": "Ventrikül distansiyonu duvar gerilimini ve miyokardın oksijen gereksinimini artırır. KPB'de **yeterli venting**, miyokard korumasının parçasıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-139qtnd",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "remember",
+        "importance": 3,
+        "title": "Şişen ventrikülün oksijen gereksinimi",
+        "body": "Ventrikül distansiyonu duvar gerilimini ve miyokardın oksijen gereksinimini artırır. KPB'de **yeterli venting**, miyokard korumasının parçasıdır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Koroner dominansın anatomik ölçütü hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0220hz4",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Koroner dominansın anatomik ölçütü hangisidir?",
+        "options": [
+          "Ön inen arterin toplam uzunluğu",
+          "Koroner sinüsün çapı",
+          "Posterior desendan arterin kökeni",
+          "Sol ana koronerin dallanma açısı"
+        ],
+        "correct": 2,
+        "explanation": "Dominans PDA'yı veren koroner arterle tanımlanır.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Koroner sinüs hangi boşluğa açılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-137zlla",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Koroner sinüs hangi boşluğa açılır?",
+        "options": [
+          "Sol atriyum",
+          "Sağ ventrikül",
+          "Sol ventrikül",
+          "Sağ atriyum"
+        ],
+        "correct": 3,
+        "explanation": "Koroner sinüs kalbin venöz kanını sağ atriyuma boşaltır.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Anterior kardiyak venlerin karakteristik drenajı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1ukipcm",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Anterior kardiyak venlerin karakteristik drenajı hangisidir?",
+        "options": [
+          "Doğrudan sağ atriyuma",
+          "Doğrudan sol atriyuma",
+          "Pulmoner venlere",
+          "Aort köküne"
+        ],
+        "correct": 0,
+        "explanation": "Anterior kardiyak venler koroner sinüse uğramadan sağ atriyuma açılır.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Taşikardi koroner perfüzyon süresini hangi mekanizmayla kısaltır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1evab4o",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Taşikardi koroner perfüzyon süresini hangi mekanizmayla kısaltır?",
+        "options": [
+          "Koroner ostiumu kapatarak",
+          "Diyastol süresini azaltarak",
+          "Venöz kanı arteriyelleştirerek",
+          "Kanül çapını büyüterek"
+        ],
+        "correct": 1,
+        "explanation": "Koroner akımın önemli bölümü diyastolde olur; taşikardi bu süreyi kısaltır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Koroner sinüs sol atriyumun arka tarafı boyunca sol atriyoventriküler olukta seyreder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0x53yis",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Koroner sinüs sol atriyumun arka tarafı boyunca sol atriyoventriküler olukta seyreder.",
+        "isTrue": true,
+        "explanation": "Koroner sinüsün seyri sol atriyumun arka duvarı boyunca sol AV oluktadır.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    },
+    {
+      "title": "Thebesian venlerin tamamı koroner sinüste birleşir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0k8wmps",
+        "course": "PER141",
+        "topic": "Koroner sistem anatomisi ve fizyolojisi",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Thebesian venlerin tamamı koroner sinüste birleşir.",
+        "isTrue": false,
+        "explanation": "Thebesian venler doğrudan kalp boşluklarına açılır; koroner sinüse uğramaz.",
+        "source": "Radiopaedia: Koroner anatomi"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0kwibvm",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "LAD",
+      "definition": "Ön interventriküler olukta seyreden, diyagonal ve septal dallar veren sol koroner dalı.",
+      "en": "Left anterior descending artery",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0iof7bw",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "LCx",
+      "definition": "Sol AV olukta seyreden, obtus marjinal dalları veren sol koroner dalı.",
+      "en": "Left circumflex artery",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0dkp0kd",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "RCA",
+      "definition": "Sağ aortik sinüsten çıkan; konus, SA nodal, akut marjinal ve (çoğu kişide) PDA dallarını veren arter.",
+      "en": "Right coronary artery",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0jo0t8i",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner dominans",
+      "definition": "PDA'yı veren arterin belirlediği baskınlık; en sık sağ dominans.",
+      "en": "Coronary dominance",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1xdj4yu",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Koroner sinüs",
+      "definition": "Kalp venlerini toplayıp sağ atriyuma boşaltan ven; ağzında Thebesian kapak; retrograd kardiyopleji yolu.",
+      "en": "Coronary sinus",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0n0zyxu",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Thebesian venler",
+      "definition": "Doğrudan kalp boşluklarına (en çok sağ atriyuma) açılan en küçük kalp venleri.",
+      "en": "Thebesian veins (venae cordis minimae)",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0q2c1i5",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Anterior kardiyak venler",
+      "definition": "sağ ventrikül ön yüzünü drene edip doğrudan sağ atriyuma açılan venler; retrograd kardiyoplejide sağ ventrikül korumasının zayıf olma nedeni.",
+      "en": "Anterior cardiac veins",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1fayg8p",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 1,
+      "term": "Koroner",
+      "definition": "Kalbi taç gibi saran damarlarla ilgili.",
+      "en": "Coronary",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-17ao9hz",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "İskemi",
+      "definition": "Dokuya kan akımının yetersizliği.",
+      "en": "Ischemia",
+      "source": "Wiktionary: Tıp etimolojisi"
+    },
+    {
+      "id": "PER141-01u94in",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Diyastol ve sistol",
+      "definition": "Kalbin gevşeme / kasılma evresi; koroner akımın çoğu diyastolde gerçekleşir.",
+      "en": "Diastole / systole",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1bo8bpv",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 3,
+      "term": "Sol ana koroner arter",
+      "definition": "Sol aortik sinüsten çıkan ve temel olarak ön inen arter ile sirkumfleks artere ayrılan ana koroner gövde.",
+      "en": "Left main coronary artery (LMCA)",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0karni6",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 2,
+      "term": "Posterior desendan arter",
+      "definition": "Arka interventriküler bölgede seyreden, köken aldığı arterin koroner dominansı belirlediği koroner dal.",
+      "en": "Posterior descending artery (PDA)",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1j08h5k",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "term",
+      "importance": 1,
+      "term": "Ramus intermedius",
+      "definition": "Sol ana koroner arterden ön inen arter ile sirkumfleks arter arasından çıkabilen ek dal.",
+      "en": "Ramus intermedius",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0w2hsvu",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Koroner arterlerin başlangıcı",
+      "body": "Koroner arterler aort kapağının hemen üzerindeki **aortik sinüslerden** çıkar. Kardiyoplejinin ostial uygulanması bu ağızları hedefler.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0z944cm",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "LAD'nin dalları",
+      "body": "Ön inen arterin **diyagonal dalları** ve septal perforatörleri vardır; dal isimleri ön interventriküler seyirle birlikte öğrenilmelidir.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1ctkeag",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Sirkumfleksin dalları",
+      "body": "Sol sirkumfleks arter sol atriyoventriküler olukta ilerler ve **obtus marjinal** dallar verir.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0yhisgr",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "fact",
+      "importance": 3,
+      "title": "Koroner akımın zamanlaması",
+      "body": "Özellikle sol ventrikülde sistolik damar dışı bası, koroner akımı sınırlar. Koroner kan akımının büyük kısmı **diyastolde** gerçekleşir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0now5b3",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "fact",
+      "importance": 2,
+      "title": "Endokardın kırılganlığı",
+      "body": "Endokard, iskemiye daha duyarlıdır. Taşikardinin diyastolü kısaltması koroner dolum için kullanılabilen süreyi azaltır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1q841vg",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Büyük kardiyak ven hangi koroner artere eşlik eder?",
+      "answer": "Büyük kardiyak ven, **ön inen artere (LAD)** eşlik eder.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-173ir0j",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Orta kardiyak ven hangi arterle birlikte seyreder?",
+      "answer": "Orta kardiyak ven, **posterior desendan artere (PDA)** eşlik eder.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1hks2hb",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "flip",
+      "importance": 2,
+      "question": "Koroner sinüs ostiumunu kısmen örten kapak hangisidir?",
+      "answer": "**Thebesian kapak**; koroner sinüsün sağ atriyuma açıldığı ağızda bulunur.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-139qtnd",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "remember",
+      "importance": 3,
+      "title": "Şişen ventrikülün oksijen gereksinimi",
+      "body": "Ventrikül distansiyonu duvar gerilimini ve miyokardın oksijen gereksinimini artırır. KPB'de **yeterli venting**, miyokard korumasının parçasıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0220hz4",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Koroner dominansın anatomik ölçütü hangisidir?",
+      "options": [
+        "Ön inen arterin toplam uzunluğu",
+        "Koroner sinüsün çapı",
+        "Posterior desendan arterin kökeni",
+        "Sol ana koronerin dallanma açısı"
+      ],
+      "correct": 2,
+      "explanation": "Dominans PDA'yı veren koroner arterle tanımlanır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-137zlla",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Koroner sinüs hangi boşluğa açılır?",
+      "options": [
+        "Sol atriyum",
+        "Sağ ventrikül",
+        "Sol ventrikül",
+        "Sağ atriyum"
+      ],
+      "correct": 3,
+      "explanation": "Koroner sinüs kalbin venöz kanını sağ atriyuma boşaltır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1ukipcm",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Anterior kardiyak venlerin karakteristik drenajı hangisidir?",
+      "options": [
+        "Doğrudan sağ atriyuma",
+        "Doğrudan sol atriyuma",
+        "Pulmoner venlere",
+        "Aort köküne"
+      ],
+      "correct": 0,
+      "explanation": "Anterior kardiyak venler koroner sinüse uğramadan sağ atriyuma açılır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-1evab4o",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Taşikardi koroner perfüzyon süresini hangi mekanizmayla kısaltır?",
+      "options": [
+        "Koroner ostiumu kapatarak",
+        "Diyastol süresini azaltarak",
+        "Venöz kanı arteriyelleştirerek",
+        "Kanül çapını büyüterek"
+      ],
+      "correct": 1,
+      "explanation": "Koroner akımın önemli bölümü diyastolde olur; taşikardi bu süreyi kısaltır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0x53yis",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Koroner sinüs sol atriyumun arka tarafı boyunca sol atriyoventriküler olukta seyreder.",
+      "isTrue": true,
+      "explanation": "Koroner sinüsün seyri sol atriyumun arka duvarı boyunca sol AV oluktadır.",
+      "source": "Radiopaedia: Koroner anatomi"
+    },
+    {
+      "id": "PER141-0k8wmps",
+      "course": "PER141",
+      "topic": "Koroner sistem anatomisi ve fizyolojisi",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Thebesian venlerin tamamı koroner sinüste birleşir.",
+      "isTrue": false,
+      "explanation": "Thebesian venler doğrudan kalp boşluklarına açılır; koroner sinüse uğramaz.",
+      "source": "Radiopaedia: Koroner anatomi"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

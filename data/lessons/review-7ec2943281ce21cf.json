@@ -1,0 +1,1203 @@
+{
+  "id": "review-7ec2943281ce21cf",
+  "title": "Soldan sağa şantlı lezyonlar",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "S2'nin fiks çiftlenmesi",
+      "text": "Fixed splitting of S2\nASD'de solunumla değişmeyen geniş S2 çiftlenmesi.",
+      "images": [],
+      "card": {
+        "id": "PER241-1j0tz6a",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "S2'nin fiks çiftlenmesi",
+        "en": "Fixed splitting of S2",
+        "definition": "ASD'de solunumla değişmeyen geniş S2 çiftlenmesi."
+      }
+    },
+    {
+      "title": "Makine üfürümü",
+      "text": "Machinery murmur\nPDA'ya özgü, sistol ve diyastolde süren sürekli üfürüm.",
+      "images": [],
+      "card": {
+        "id": "PER241-1w90h9v",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Makine üfürümü",
+        "en": "Machinery murmur",
+        "definition": "PDA'ya özgü, sistol ve diyastolde süren sürekli üfürüm."
+      }
+    },
+    {
+      "title": "ASD",
+      "text": "Atrial septal defect\nİnteratriyal septumda açıklık; sağ atriyum ve ventrikülde hacim yükü.",
+      "images": [],
+      "card": {
+        "id": "PER241-1m4pnc7",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "ASD",
+        "en": "Atrial septal defect",
+        "definition": "İnteratriyal septumda açıklık; sağ atriyum ve ventrikülde hacim yükü."
+      }
+    },
+    {
+      "title": "Sekundum ASD",
+      "text": "Ostium secundum ASD\nFossa ovalis bölgesindeki, en sık ASD tipi.",
+      "images": [],
+      "card": {
+        "id": "PER241-0zihm7p",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "Sekundum ASD",
+        "en": "Ostium secundum ASD",
+        "definition": "Fossa ovalis bölgesindeki, en sık ASD tipi."
+      }
+    },
+    {
+      "title": "Primum ASD",
+      "text": "Ostium primum ASD\nÖn-alt septumdaki ASD; parsiyel AVSD'nin parçası, mitral yarık eşlik eder.",
+      "images": [],
+      "card": {
+        "id": "PER241-0c85007",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Primum ASD",
+        "en": "Ostium primum ASD",
+        "definition": "Ön-alt septumdaki ASD; parsiyel AVSD'nin parçası, mitral yarık eşlik eder."
+      }
+    },
+    {
+      "title": "Sinüs venozus ASD",
+      "text": "Sinus venosus ASD\nArka septumda, sıklıkla parsiyel anormal pulmoner venöz dönüşle birlikte olan ASD.",
+      "images": [],
+      "card": {
+        "id": "PER241-0is9nzw",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Sinüs venozus ASD",
+        "en": "Sinus venosus ASD",
+        "definition": "Arka septumda, sıklıkla parsiyel anormal pulmoner venöz dönüşle birlikte olan ASD."
+      }
+    },
+    {
+      "title": "PFO",
+      "text": "Patent foramen ovale\nForamen ovale kapakçığının doğum sonrasında karşı septumla kaynaşmaması sonucu kalan iletişim.",
+      "images": [],
+      "card": {
+        "id": "PER241-0kgogzk",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "PFO",
+        "en": "Patent foramen ovale",
+        "definition": "Foramen ovale kapakçığının doğum sonrasında karşı septumla kaynaşmaması sonucu kalan iletişim."
+      }
+    },
+    {
+      "title": "Lutembacher sendromu",
+      "text": "Lutembacher syndrome\nSekundum ASD + edinsel mitral stenoz.\nR. Lutembacher (eponim)",
+      "images": [],
+      "card": {
+        "id": "PER241-0dxocjc",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Wikipedia",
+        "term": "Lutembacher sendromu",
+        "en": "Lutembacher syndrome",
+        "definition": "Sekundum ASD + edinsel mitral stenoz.",
+        "origin": "R. Lutembacher (eponim)"
+      }
+    },
+    {
+      "title": "VSD",
+      "text": "Ventricular septal defect\nİnterventriküler septumda açıklık.",
+      "images": [],
+      "card": {
+        "id": "PER241-1lsqgwi",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "VSD",
+        "en": "Ventricular septal defect",
+        "definition": "İnterventriküler septumda açıklık."
+      }
+    },
+    {
+      "title": "Perimembranöz VSD",
+      "text": "Perimembranous VSD\nMembranöz septum çevresinde bulunan ventriküler septal açıklık; en sık görülen VSD tipidir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1yt2r12",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Perimembranöz VSD",
+        "en": "Perimembranous VSD",
+        "definition": "Membranöz septum çevresinde bulunan ventriküler septal açıklık; en sık görülen VSD tipidir."
+      }
+    },
+    {
+      "title": "Musküler VSD",
+      "text": "Muscular VSD\nÇevresi tümüyle kas dokusundan oluşan ventriküler septal açıklık.",
+      "images": [],
+      "card": {
+        "id": "PER241-12cic0v",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Musküler VSD",
+        "en": "Muscular VSD",
+        "definition": "Çevresi tümüyle kas dokusundan oluşan ventriküler septal açıklık."
+      }
+    },
+    {
+      "title": "Çıkış VSD",
+      "text": "Outlet (subarterial) VSD\nSemilunar kapakların altında yer alan ventriküler septal açıklık.",
+      "images": [],
+      "card": {
+        "id": "PER241-1e9yoir",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Çıkış VSD",
+        "en": "Outlet (subarterial) VSD",
+        "definition": "Semilunar kapakların altında yer alan ventriküler septal açıklık."
+      }
+    },
+    {
+      "title": "PDA",
+      "text": "Patent ductus arteriosus\nDoğumdan sonra açık kalan duktus; aortadan pulmoner artere şant.",
+      "images": [],
+      "card": {
+        "id": "PER241-0romnmk",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 3,
+        "source": "Merck Manual",
+        "term": "PDA",
+        "en": "Patent ductus arteriosus",
+        "definition": "Doğumdan sonra açık kalan duktus; aortadan pulmoner artere şant."
+      }
+    },
+    {
+      "title": "AVSD",
+      "text": "Atrioventricular septal defect\nPrimum ASD + ortak atriyoventriküler kapak ± inlet VSD; komplet formu sıklıkla Down sendromunda.",
+      "images": [],
+      "card": {
+        "id": "PER241-0fhep91",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 1,
+        "source": "Merck Manual",
+        "term": "AVSD",
+        "en": "Atrioventricular septal defect",
+        "definition": "Primum ASD + ortak atriyoventriküler kapak ± inlet VSD; komplet formu sıklıkla Down sendromunda."
+      }
+    },
+    {
+      "title": "Mitral yarık",
+      "text": "Cleft mitral valve\nParsiyel AVSD'de mitral ön yaprakçıktaki yarık.",
+      "images": [],
+      "card": {
+        "id": "PER241-1u7927k",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "Mitral yarık",
+        "en": "Cleft mitral valve",
+        "definition": "Parsiyel AVSD'de mitral ön yaprakçıktaki yarık."
+      }
+    },
+    {
+      "title": "AP pencere",
+      "text": "Aortopulmonary window\nÇıkan aorta ile ana pulmoner arter arasında doğrudan iletişim; iki ayrı semilunar kapak vardır.",
+      "images": [],
+      "card": {
+        "id": "PER241-11mxhl2",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Merck Manual",
+        "term": "AP pencere",
+        "en": "Aortopulmonary window",
+        "definition": "Çıkan aorta ile ana pulmoner arter arasında doğrudan iletişim; iki ayrı semilunar kapak vardır."
+      }
+    },
+    {
+      "title": "Scimitar sendromu",
+      "text": "Scimitar syndrome\nHipoplastik sağ akciğerin anormal pulmoner veniyle vena kava inferior'ya drenajı; grafide \"Türk kılıcı\" görüntüsü.\nscimitar = pala",
+      "images": [],
+      "card": {
+        "id": "PER241-19hmboa",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "term",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "term": "Scimitar sendromu",
+        "en": "Scimitar syndrome",
+        "definition": "Hipoplastik sağ akciğerin anormal pulmoner veniyle vena kava inferior'ya drenajı; grafide \"Türk kılıcı\" görüntüsü.",
+        "origin": "scimitar = pala"
+      }
+    },
+    {
+      "title": "Atriyal iletişimin yapısı",
+      "text": "ASD\nSeptal doku eksikliği vardır\nSağ kalpte hacim yüküne neden olabilir\n\nPFO\nKapakçık ile septumun kaynaşması eksiktir\nDoğum sonrası fetal geçidin kalıntısıdır",
+      "images": [],
+      "card": {
+        "id": "PER241-0rxqo3z",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Atriyal iletişimin yapısı",
+        "left": {
+          "title": "ASD",
+          "points": [
+            "Septal doku eksikliği vardır",
+            "Sağ kalpte hacim yüküne neden olabilir"
+          ]
+        },
+        "right": {
+          "title": "PFO",
+          "points": [
+            "Kapakçık ile septumun kaynaşması eksiktir",
+            "Doğum sonrası fetal geçidin kalıntısıdır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Arterler arasındaki iki açıklık",
+      "text": "PDA\nBağlantı fetal duktus düzeyindedir\nBüyük arterler ayrı yapılarını korur\n\nAortopulmoner pencere\nÇıkan aorta ile ana pulmoner arter arasında delik vardır\nİki ayrı semilunar kapak bulunur",
+      "images": [],
+      "card": {
+        "id": "PER241-0t10778",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "compare",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Arterler arasındaki iki açıklık",
+        "left": {
+          "title": "PDA",
+          "points": [
+            "Bağlantı fetal duktus düzeyindedir",
+            "Büyük arterler ayrı yapılarını korur"
+          ]
+        },
+        "right": {
+          "title": "Aortopulmoner pencere",
+          "points": [
+            "Çıkan aorta ile ana pulmoner arter arasında delik vardır",
+            "İki ayrı semilunar kapak bulunur"
+          ]
+        }
+      }
+    },
+    {
+      "title": "ASD'de hacim yükü",
+      "text": "Atriyal soldan sağa şant özellikle **sağ atriyum ve sağ ventrikülde** hacim yüküne yol açar.",
+      "images": [],
+      "card": {
+        "id": "PER241-0nyndzo",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "ASD'de hacim yükü",
+        "body": "Atriyal soldan sağa şant özellikle **sağ atriyum ve sağ ventrikülde** hacim yüküne yol açar."
+      }
+    },
+    {
+      "title": "ASD üfürümünün yeri",
+      "text": "ASD'de pulmoner akım artışıyla ilişkili yumuşak midsistolik üfürüm **üst sol sternal kenarda** duyulabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-19quql7",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "ASD üfürümünün yeri",
+        "body": "ASD'de pulmoner akım artışıyla ilişkili yumuşak midsistolik üfürüm **üst sol sternal kenarda** duyulabilir."
+      }
+    },
+    {
+      "title": "Küçük restriktif VSD pulmoner basıncı nasıl etkiler?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1k32y22",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Küçük restriktif VSD pulmoner basıncı nasıl etkiler?",
+        "answer": "Küçük restriktif VSD'de açıklık akımı sınırlar; **pulmoner basınç normal kalabilir**."
+      }
+    },
+    {
+      "title": "VSD üfürümünün tipik yeri ve zamanlaması nasıldır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0tcun5u",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "VSD üfürümünün tipik yeri ve zamanlaması nasıldır?",
+        "answer": "VSD üfürümü tipik olarak **alt sol sternal kenarda holosistolik** karakterdedir."
+      }
+    },
+    {
+      "title": "Şant semptomları neden gecikebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1d6jd46",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "Şant semptomları neden gecikebilir?",
+        "answer": "Doğum sonrası yüksek pulmoner direnç şantı sınırlar; **direnç düştükçe soldan sağa akım artar** ve kalp yetmezliği belirginleşir."
+      }
+    },
+    {
+      "title": "PDA'da nabız basıncı",
+      "text": "Büyük PDA, diyastolik aortik kaçak nedeniyle **geniş nabız basıncı ve zıplayan nabızlara** yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-01fusqg",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "PDA'da nabız basıncı",
+        "body": "Büyük PDA, diyastolik aortik kaçak nedeniyle **geniş nabız basıncı ve zıplayan nabızlara** yol açabilir."
+      }
+    },
+    {
+      "title": "Komplet AVSD'nin odacık etkisi",
+      "text": "Atriyal ve ventriküler düzeyde büyük şantla **dört odacıkta genişleme** görülebilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-1ura9cp",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Komplet AVSD'nin odacık etkisi",
+        "body": "Atriyal ve ventriküler düzeyde büyük şantla **dört odacıkta genişleme** görülebilir."
+      }
+    },
+    {
+      "title": "Parsiyel AVSD'de ventriküler septum",
+      "text": "Parsiyel AVSD'de primum ASD ve sol atriyoventriküler kapak yarığı bulunur; **ventriküler septum sağlamdır**.",
+      "images": [],
+      "card": {
+        "id": "PER241-0jtas3v",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Parsiyel AVSD'de ventriküler septum",
+        "body": "Parsiyel AVSD'de primum ASD ve sol atriyoventriküler kapak yarığı bulunur; **ventriküler septum sağlamdır**."
+      }
+    },
+    {
+      "title": "AVSD onarımı sonrası hangi sorunlar izlenir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1vu3xwb",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "flip",
+        "importance": 2,
+        "source": "Merck Manual",
+        "question": "AVSD onarımı sonrası hangi sorunlar izlenir?",
+        "answer": "**Rezidüel VSD, sol atriyoventriküler kapak yetersizliği ve ileti bozuklukları** önemli postoperatif sorunlardır."
+      }
+    },
+    {
+      "title": "AP pencerenin anatomik ayrımı",
+      "text": "Aortopulmoner pencerede büyük arterler arasında açıklık olsa da **iki ayrı semilunar kapak vardır**; bunu trunkusla karıştırma.",
+      "images": [],
+      "card": {
+        "id": "PER241-1ulfsxa",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "remember",
+        "importance": 3,
+        "source": "Merck Manual",
+        "title": "AP pencerenin anatomik ayrımı",
+        "body": "Aortopulmoner pencerede büyük arterler arasında açıklık olsa da **iki ayrı semilunar kapak vardır**; bunu trunkusla karıştırma."
+      }
+    },
+    {
+      "title": "Scimitar'da anormal drenaj",
+      "text": "Scimitar sendromunda hipoplastik sağ akciğerin anormal veni en sık **vena kava inferiora** açılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-0m77y0r",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Radiopaedia",
+        "title": "Scimitar'da anormal drenaj",
+        "body": "Scimitar sendromunda hipoplastik sağ akciğerin anormal veni en sık **vena kava inferiora** açılır."
+      }
+    },
+    {
+      "title": "Sinüs venozus ASD'nin eşlikçisi",
+      "text": "Sinüs venozus ASD'ye **parsiyel anormal pulmoner venöz dönüş** sık eşlik eder.",
+      "images": [],
+      "card": {
+        "id": "PER241-0shezqm",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "Sinüs venozus ASD'nin eşlikçisi",
+        "body": "Sinüs venozus ASD'ye **parsiyel anormal pulmoner venöz dönüş** sık eşlik eder."
+      }
+    },
+    {
+      "title": "Fossa ovalis bölgesindeki ASD tipi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-07tz1gw",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Fossa ovalis bölgesindeki ASD tipi hangisidir?",
+        "options": [
+          "Primum ASD",
+          "Sinüs venozus ASD",
+          "Sekundum ASD",
+          "Koroner sinüs tipi ASD"
+        ],
+        "correct": 2,
+        "explanation": "Sekundum defekt fossa ovalis bölgesinde yer alır."
+      }
+    },
+    {
+      "title": "Çevresi tümüyle kas dokusundan oluşan VSD tipi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1xivy57",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Çevresi tümüyle kas dokusundan oluşan VSD tipi hangisidir?",
+        "options": [
+          "Perimembranöz VSD",
+          "İnlet VSD",
+          "Çıkış VSD",
+          "Musküler VSD"
+        ],
+        "correct": 3,
+        "explanation": "Musküler defektin bütün kenarları ventriküler kas dokusudur."
+      }
+    },
+    {
+      "title": "En sık görülen VSD tipi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1vanhts",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "En sık görülen VSD tipi hangisidir?",
+        "options": [
+          "Perimembranöz VSD",
+          "Trabeküler musküler VSD",
+          "İnlet VSD",
+          "Subpulmoner VSD"
+        ],
+        "correct": 0,
+        "explanation": "Membranöz septum çevresindeki defekt en sık tiptir."
+      }
+    },
+    {
+      "title": "Sistol ve diyastol boyunca süren makine üfürümü hangi lezyonu düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1mkx3z8",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Sistol ve diyastol boyunca süren makine üfürümü hangi lezyonu düşündürür?",
+        "options": [
+          "Sekundum ASD",
+          "PDA",
+          "İzole VSD",
+          "Pulmoner stenoz"
+        ],
+        "correct": 1,
+        "explanation": "PDA tipik olarak sürekli makine üfürümüyle ilişkilidir."
+      }
+    },
+    {
+      "title": "Restriktif inlet VSD içeren AVSD formu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-17qvcm8",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Merck Manual",
+        "question": "Restriktif inlet VSD içeren AVSD formu hangisidir?",
+        "options": [
+          "Komplet form",
+          "Parsiyel form",
+          "Geçiş formu",
+          "İzole sekundum form"
+        ],
+        "correct": 2,
+        "explanation": "Geçiş AVSD'de inlet VSD küçük veya orta boyutlu ve restriktiftir."
+      }
+    },
+    {
+      "title": "Lutembacher sendromunda ASD'ye hangi kapak hastalığı eşlik eder?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0m1l4rh",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "mcq",
+        "importance": 3,
+        "source": "Wikipedia",
+        "question": "Lutembacher sendromunda ASD'ye hangi kapak hastalığı eşlik eder?",
+        "options": [
+          "Pulmoner stenoz",
+          "Aort atrezisi",
+          "Triküspit atrezisi",
+          "Edinsel mitral stenoz"
+        ],
+        "correct": 3,
+        "explanation": "Lutembacher sendromu sekundum ASD ile edinsel mitral stenoz birlikteliğidir."
+      }
+    },
+    {
+      "title": "Komplet AVSD'de ortak atriyoventriküler kapak bulunur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0kucf11",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "Komplet AVSD'de ortak atriyoventriküler kapak bulunur.",
+        "isTrue": true,
+        "explanation": "Komplet form primum ASD, inlet VSD ve ortak atriyoventriküler kapağı içerir."
+      }
+    },
+    {
+      "title": "İzole PDA'da normal doğum sonrası basınç ilişkisiyle akım pulmoner arterden aortaya yönelir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-14o1cbv",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Merck Manual",
+        "statement": "İzole PDA'da normal doğum sonrası basınç ilişkisiyle akım pulmoner arterden aortaya yönelir.",
+        "isTrue": false,
+        "explanation": "İzole PDA'da tipik şant aortadan pulmoner artere, yani soldan sağadır."
+      }
+    },
+    {
+      "title": "Scimitar sendromundaki anormal ven grafide sol kalp kenarına paralel pala görünümü oluşturur.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-12gm3wt",
+        "course": "PER241",
+        "topic": "Soldan sağa şantlı lezyonlar",
+        "type": "tf",
+        "importance": 3,
+        "source": "Radiopaedia",
+        "statement": "Scimitar sendromundaki anormal ven grafide sol kalp kenarına paralel pala görünümü oluşturur.",
+        "isTrue": false,
+        "explanation": "Tipik pala görünümü sağ kalp kenarına paralel anormal pulmoner venle ilişkilidir."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-1j0tz6a",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "S2'nin fiks çiftlenmesi",
+      "en": "Fixed splitting of S2",
+      "definition": "ASD'de solunumla değişmeyen geniş S2 çiftlenmesi."
+    },
+    {
+      "id": "PER241-1w90h9v",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Makine üfürümü",
+      "en": "Machinery murmur",
+      "definition": "PDA'ya özgü, sistol ve diyastolde süren sürekli üfürüm."
+    },
+    {
+      "id": "PER241-1m4pnc7",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "ASD",
+      "en": "Atrial septal defect",
+      "definition": "İnteratriyal septumda açıklık; sağ atriyum ve ventrikülde hacim yükü."
+    },
+    {
+      "id": "PER241-0zihm7p",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "Sekundum ASD",
+      "en": "Ostium secundum ASD",
+      "definition": "Fossa ovalis bölgesindeki, en sık ASD tipi."
+    },
+    {
+      "id": "PER241-0c85007",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Primum ASD",
+      "en": "Ostium primum ASD",
+      "definition": "Ön-alt septumdaki ASD; parsiyel AVSD'nin parçası, mitral yarık eşlik eder."
+    },
+    {
+      "id": "PER241-0is9nzw",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Sinüs venozus ASD",
+      "en": "Sinus venosus ASD",
+      "definition": "Arka septumda, sıklıkla parsiyel anormal pulmoner venöz dönüşle birlikte olan ASD."
+    },
+    {
+      "id": "PER241-0kgogzk",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "PFO",
+      "en": "Patent foramen ovale",
+      "definition": "Foramen ovale kapakçığının doğum sonrasında karşı septumla kaynaşmaması sonucu kalan iletişim."
+    },
+    {
+      "id": "PER241-0dxocjc",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Wikipedia",
+      "term": "Lutembacher sendromu",
+      "en": "Lutembacher syndrome",
+      "definition": "Sekundum ASD + edinsel mitral stenoz.",
+      "origin": "R. Lutembacher (eponim)"
+    },
+    {
+      "id": "PER241-1lsqgwi",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "VSD",
+      "en": "Ventricular septal defect",
+      "definition": "İnterventriküler septumda açıklık."
+    },
+    {
+      "id": "PER241-1yt2r12",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Perimembranöz VSD",
+      "en": "Perimembranous VSD",
+      "definition": "Membranöz septum çevresinde bulunan ventriküler septal açıklık; en sık görülen VSD tipidir."
+    },
+    {
+      "id": "PER241-12cic0v",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Musküler VSD",
+      "en": "Muscular VSD",
+      "definition": "Çevresi tümüyle kas dokusundan oluşan ventriküler septal açıklık."
+    },
+    {
+      "id": "PER241-1e9yoir",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Çıkış VSD",
+      "en": "Outlet (subarterial) VSD",
+      "definition": "Semilunar kapakların altında yer alan ventriküler septal açıklık."
+    },
+    {
+      "id": "PER241-0romnmk",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 3,
+      "source": "Merck Manual",
+      "term": "PDA",
+      "en": "Patent ductus arteriosus",
+      "definition": "Doğumdan sonra açık kalan duktus; aortadan pulmoner artere şant."
+    },
+    {
+      "id": "PER241-0fhep91",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 1,
+      "source": "Merck Manual",
+      "term": "AVSD",
+      "en": "Atrioventricular septal defect",
+      "definition": "Primum ASD + ortak atriyoventriküler kapak ± inlet VSD; komplet formu sıklıkla Down sendromunda."
+    },
+    {
+      "id": "PER241-1u7927k",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "Mitral yarık",
+      "en": "Cleft mitral valve",
+      "definition": "Parsiyel AVSD'de mitral ön yaprakçıktaki yarık."
+    },
+    {
+      "id": "PER241-11mxhl2",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Merck Manual",
+      "term": "AP pencere",
+      "en": "Aortopulmonary window",
+      "definition": "Çıkan aorta ile ana pulmoner arter arasında doğrudan iletişim; iki ayrı semilunar kapak vardır."
+    },
+    {
+      "id": "PER241-19hmboa",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "term",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "term": "Scimitar sendromu",
+      "en": "Scimitar syndrome",
+      "definition": "Hipoplastik sağ akciğerin anormal pulmoner veniyle vena kava inferior'ya drenajı; grafide \"Türk kılıcı\" görüntüsü.",
+      "origin": "scimitar = pala"
+    },
+    {
+      "id": "PER241-0rxqo3z",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Atriyal iletişimin yapısı",
+      "left": {
+        "title": "ASD",
+        "points": [
+          "Septal doku eksikliği vardır",
+          "Sağ kalpte hacim yüküne neden olabilir"
+        ]
+      },
+      "right": {
+        "title": "PFO",
+        "points": [
+          "Kapakçık ile septumun kaynaşması eksiktir",
+          "Doğum sonrası fetal geçidin kalıntısıdır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0t10778",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "compare",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Arterler arasındaki iki açıklık",
+      "left": {
+        "title": "PDA",
+        "points": [
+          "Bağlantı fetal duktus düzeyindedir",
+          "Büyük arterler ayrı yapılarını korur"
+        ]
+      },
+      "right": {
+        "title": "Aortopulmoner pencere",
+        "points": [
+          "Çıkan aorta ile ana pulmoner arter arasında delik vardır",
+          "İki ayrı semilunar kapak bulunur"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0nyndzo",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "ASD'de hacim yükü",
+      "body": "Atriyal soldan sağa şant özellikle **sağ atriyum ve sağ ventrikülde** hacim yüküne yol açar."
+    },
+    {
+      "id": "PER241-19quql7",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "ASD üfürümünün yeri",
+      "body": "ASD'de pulmoner akım artışıyla ilişkili yumuşak midsistolik üfürüm **üst sol sternal kenarda** duyulabilir."
+    },
+    {
+      "id": "PER241-1k32y22",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Küçük restriktif VSD pulmoner basıncı nasıl etkiler?",
+      "answer": "Küçük restriktif VSD'de açıklık akımı sınırlar; **pulmoner basınç normal kalabilir**."
+    },
+    {
+      "id": "PER241-0tcun5u",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "VSD üfürümünün tipik yeri ve zamanlaması nasıldır?",
+      "answer": "VSD üfürümü tipik olarak **alt sol sternal kenarda holosistolik** karakterdedir."
+    },
+    {
+      "id": "PER241-1d6jd46",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "Şant semptomları neden gecikebilir?",
+      "answer": "Doğum sonrası yüksek pulmoner direnç şantı sınırlar; **direnç düştükçe soldan sağa akım artar** ve kalp yetmezliği belirginleşir."
+    },
+    {
+      "id": "PER241-01fusqg",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "PDA'da nabız basıncı",
+      "body": "Büyük PDA, diyastolik aortik kaçak nedeniyle **geniş nabız basıncı ve zıplayan nabızlara** yol açabilir."
+    },
+    {
+      "id": "PER241-1ura9cp",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Komplet AVSD'nin odacık etkisi",
+      "body": "Atriyal ve ventriküler düzeyde büyük şantla **dört odacıkta genişleme** görülebilir."
+    },
+    {
+      "id": "PER241-0jtas3v",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Parsiyel AVSD'de ventriküler septum",
+      "body": "Parsiyel AVSD'de primum ASD ve sol atriyoventriküler kapak yarığı bulunur; **ventriküler septum sağlamdır**."
+    },
+    {
+      "id": "PER241-1vu3xwb",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "flip",
+      "importance": 2,
+      "source": "Merck Manual",
+      "question": "AVSD onarımı sonrası hangi sorunlar izlenir?",
+      "answer": "**Rezidüel VSD, sol atriyoventriküler kapak yetersizliği ve ileti bozuklukları** önemli postoperatif sorunlardır."
+    },
+    {
+      "id": "PER241-1ulfsxa",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "remember",
+      "importance": 3,
+      "source": "Merck Manual",
+      "title": "AP pencerenin anatomik ayrımı",
+      "body": "Aortopulmoner pencerede büyük arterler arasında açıklık olsa da **iki ayrı semilunar kapak vardır**; bunu trunkusla karıştırma."
+    },
+    {
+      "id": "PER241-0m77y0r",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Radiopaedia",
+      "title": "Scimitar'da anormal drenaj",
+      "body": "Scimitar sendromunda hipoplastik sağ akciğerin anormal veni en sık **vena kava inferiora** açılır."
+    },
+    {
+      "id": "PER241-0shezqm",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "Sinüs venozus ASD'nin eşlikçisi",
+      "body": "Sinüs venozus ASD'ye **parsiyel anormal pulmoner venöz dönüş** sık eşlik eder."
+    },
+    {
+      "id": "PER241-07tz1gw",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Fossa ovalis bölgesindeki ASD tipi hangisidir?",
+      "options": [
+        "Primum ASD",
+        "Sinüs venozus ASD",
+        "Sekundum ASD",
+        "Koroner sinüs tipi ASD"
+      ],
+      "correct": 2,
+      "explanation": "Sekundum defekt fossa ovalis bölgesinde yer alır."
+    },
+    {
+      "id": "PER241-1xivy57",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Çevresi tümüyle kas dokusundan oluşan VSD tipi hangisidir?",
+      "options": [
+        "Perimembranöz VSD",
+        "İnlet VSD",
+        "Çıkış VSD",
+        "Musküler VSD"
+      ],
+      "correct": 3,
+      "explanation": "Musküler defektin bütün kenarları ventriküler kas dokusudur."
+    },
+    {
+      "id": "PER241-1vanhts",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "En sık görülen VSD tipi hangisidir?",
+      "options": [
+        "Perimembranöz VSD",
+        "Trabeküler musküler VSD",
+        "İnlet VSD",
+        "Subpulmoner VSD"
+      ],
+      "correct": 0,
+      "explanation": "Membranöz septum çevresindeki defekt en sık tiptir."
+    },
+    {
+      "id": "PER241-1mkx3z8",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Sistol ve diyastol boyunca süren makine üfürümü hangi lezyonu düşündürür?",
+      "options": [
+        "Sekundum ASD",
+        "PDA",
+        "İzole VSD",
+        "Pulmoner stenoz"
+      ],
+      "correct": 1,
+      "explanation": "PDA tipik olarak sürekli makine üfürümüyle ilişkilidir."
+    },
+    {
+      "id": "PER241-17qvcm8",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Merck Manual",
+      "question": "Restriktif inlet VSD içeren AVSD formu hangisidir?",
+      "options": [
+        "Komplet form",
+        "Parsiyel form",
+        "Geçiş formu",
+        "İzole sekundum form"
+      ],
+      "correct": 2,
+      "explanation": "Geçiş AVSD'de inlet VSD küçük veya orta boyutlu ve restriktiftir."
+    },
+    {
+      "id": "PER241-0m1l4rh",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "mcq",
+      "importance": 3,
+      "source": "Wikipedia",
+      "question": "Lutembacher sendromunda ASD'ye hangi kapak hastalığı eşlik eder?",
+      "options": [
+        "Pulmoner stenoz",
+        "Aort atrezisi",
+        "Triküspit atrezisi",
+        "Edinsel mitral stenoz"
+      ],
+      "correct": 3,
+      "explanation": "Lutembacher sendromu sekundum ASD ile edinsel mitral stenoz birlikteliğidir."
+    },
+    {
+      "id": "PER241-0kucf11",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "Komplet AVSD'de ortak atriyoventriküler kapak bulunur.",
+      "isTrue": true,
+      "explanation": "Komplet form primum ASD, inlet VSD ve ortak atriyoventriküler kapağı içerir."
+    },
+    {
+      "id": "PER241-14o1cbv",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Merck Manual",
+      "statement": "İzole PDA'da normal doğum sonrası basınç ilişkisiyle akım pulmoner arterden aortaya yönelir.",
+      "isTrue": false,
+      "explanation": "İzole PDA'da tipik şant aortadan pulmoner artere, yani soldan sağadır."
+    },
+    {
+      "id": "PER241-12gm3wt",
+      "course": "PER241",
+      "topic": "Soldan sağa şantlı lezyonlar",
+      "type": "tf",
+      "importance": 3,
+      "source": "Radiopaedia",
+      "statement": "Scimitar sendromundaki anormal ven grafide sol kalp kenarına paralel pala görünümü oluşturur.",
+      "isTrue": false,
+      "explanation": "Tipik pala görünümü sağ kalp kenarına paralel anormal pulmoner venle ilişkilidir."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

@@ -1,0 +1,833 @@
+{
+  "id": "review-310e0a59f56b5ec1",
+  "title": "Kalp, büyük damarlar ve koroner dolaşım",
+  "category": "Perfüzyon",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER245",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Perikard",
+      "text": "Pericardium\nKalbi ve büyük damar köklerini saran, fibröz ve seröz (parietal + visseral/epikard) katmanlı kese.",
+      "images": [],
+      "card": {
+        "id": "PER245-0ydsc3p",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Perikard",
+        "en": "Pericardium",
+        "definition": "Kalbi ve büyük damar köklerini saran, fibröz ve seröz (parietal + visseral/epikard) katmanlı kese.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Kardiyak tamponad",
+      "text": "Cardiac tamponade\nEsnemeyen perikard içinde biriken sıvı/kanın kalbi sıkıştırıp debiyi düşürmesi.",
+      "images": [],
+      "card": {
+        "id": "PER245-1q58zj1",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Kardiyak tamponad",
+        "en": "Cardiac tamponade",
+        "definition": "Esnemeyen perikard içinde biriken sıvı/kanın kalbi sıkıştırıp debiyi düşürmesi.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Transvers perikardiyal sinüs",
+      "text": "Transverse pericardial sinus\nAorta–truncus pulmonalis ile VCS–pulmoner venler arasındaki perikard geçidi.",
+      "images": [],
+      "card": {
+        "id": "PER245-0oasn01",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 3,
+        "term": "Transvers perikardiyal sinüs",
+        "en": "Transverse pericardial sinus",
+        "definition": "Aorta–truncus pulmonalis ile VCS–pulmoner venler arasındaki perikard geçidi.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Valsalva sinüsü (aort sinüsü)",
+      "text": "Aortic sinus\nAort kapak kusplarının arkasındaki genişlemeler.",
+      "images": [],
+      "card": {
+        "id": "PER245-0n33iw8",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 1,
+        "term": "Valsalva sinüsü (aort sinüsü)",
+        "en": "Aortic sinus",
+        "definition": "Aort kapak kusplarının arkasındaki genişlemeler.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Korda tendinea",
+      "text": "Chordae tendineae\nAV kapak yaprakçıklarını papiller kaslara bağlayan, prolapsusu önleyen fibröz kirişler.",
+      "images": [],
+      "card": {
+        "id": "PER245-1hejjeo",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Korda tendinea",
+        "en": "Chordae tendineae",
+        "definition": "AV kapak yaprakçıklarını papiller kaslara bağlayan, prolapsusu önleyen fibröz kirişler.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Semilunar kapak",
+      "text": "Semilunar valve\nVentrikül çıkışlarındaki üç kusplu aort ve pulmoner kapaklar.",
+      "images": [],
+      "card": {
+        "id": "PER245-00peun1",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Semilunar kapak",
+        "en": "Semilunar valve",
+        "definition": "Ventrikül çıkışlarındaki üç kusplu aort ve pulmoner kapaklar.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Sinüs koronaryus (koroner sinüs)",
+      "text": "Coronary sinus\nKardiyak venlerin çoğunu toplayıp sağ atriyuma açılan büyük ven.",
+      "images": [],
+      "card": {
+        "id": "PER245-03nv5mh",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 3,
+        "term": "Sinüs koronaryus (koroner sinüs)",
+        "en": "Coronary sinus",
+        "definition": "Kardiyak venlerin çoğunu toplayıp sağ atriyuma açılan büyük ven.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Thebesius venleri",
+      "text": "Thebesian veins (venae cordis minimae)\nDoğrudan kalp boşluklarına açılan küçük venler.",
+      "images": [],
+      "card": {
+        "id": "PER245-0wczfme",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Thebesius venleri",
+        "en": "Thebesian veins (venae cordis minimae)",
+        "definition": "Doğrudan kalp boşluklarına açılan küçük venler.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Koroner dominans",
+      "text": "Coronary dominance\nArka inen arteri (PDA) veren arterin adıyla tanımlanan baskınlık.",
+      "images": [],
+      "card": {
+        "id": "PER245-0jo0t8i",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 1,
+        "term": "Koroner dominans",
+        "en": "Coronary dominance",
+        "definition": "Arka inen arteri (PDA) veren arterin adıyla tanımlanan baskınlık.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Sol ön inen arter (LAD)",
+      "text": "Left anterior descending artery\nSol koroner arterin ön interventriküler olukta apekse inen dalı.",
+      "images": [],
+      "card": {
+        "id": "PER245-03rik4b",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Sol ön inen arter (LAD)",
+        "en": "Left anterior descending artery",
+        "definition": "Sol koroner arterin ön interventriküler olukta apekse inen dalı.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Fossa ovalis",
+      "text": "Fossa ovalis\nİnteratriyal septumun sağ yüzünde, kapanmış foramen ovalenin kalıntısı olan çukur.",
+      "images": [],
+      "card": {
+        "id": "PER245-0aga16t",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 2,
+        "term": "Fossa ovalis",
+        "en": "Fossa ovalis",
+        "definition": "İnteratriyal septumun sağ yüzünde, kapanmış foramen ovalenin kalıntısı olan çukur.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Persistan sol VCS (PLSVC)",
+      "text": "Persistent left superior vena cava\nSol anterior kardinal venin gerilememesi; çoğunlukla koroner sinüse açılır ve retrograd kardiyoplejiyi bozar.",
+      "images": [],
+      "card": {
+        "id": "PER245-170nwyb",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "term",
+        "importance": 1,
+        "term": "Persistan sol VCS (PLSVC)",
+        "en": "Persistent left superior vena cava",
+        "definition": "Sol anterior kardinal venin gerilememesi; çoğunlukla koroner sinüse açılır ve retrograd kardiyoplejiyi bozar.",
+        "source": "PLSVC, Life 2026"
+      }
+    },
+    {
+      "title": "PDA kısaltmasının iki kullanımı",
+      "text": "Arka inen arter\nKoroner dolaşımın bir dalı\nArka interventriküler olukta seyreder\n\nPatent duktus arteriyozus\nFetal aort-pulmoner bağlantının açık kalması\nSistemik ve pulmoner dolaşım arasında şant yapar",
+      "images": [],
+      "card": {
+        "id": "PER245-0hqxqiw",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "compare",
+        "importance": 2,
+        "title": "PDA kısaltmasının iki kullanımı",
+        "left": {
+          "title": "Arka inen arter",
+          "points": [
+            "Koroner dolaşımın bir dalı",
+            "Arka interventriküler olukta seyreder"
+          ]
+        },
+        "right": {
+          "title": "Patent duktus arteriyozus",
+          "points": [
+            "Fetal aort-pulmoner bağlantının açık kalması",
+            "Sistemik ve pulmoner dolaşım arasında şant yapar"
+          ]
+        },
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Perikardın iki yaprağı",
+      "text": "Seröz perikardın parietal ve visseral yaprakları arasında kayganlaştırıcı sıvı bulunur; visseral yaprağa epikard denir.",
+      "images": [],
+      "card": {
+        "id": "PER245-15z95mu",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Perikardın iki yaprağı",
+        "body": "Seröz perikardın parietal ve visseral yaprakları arasında kayganlaştırıcı sıvı bulunur; visseral yaprağa epikard denir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Kapak ve kalp sesi",
+      "text": "Atriyoventriküler kapakların kapanması S1'i, aort ve pulmoner kapakların kapanması S2'yi oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER245-02xpzay",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kapak ve kalp sesi",
+        "body": "Atriyoventriküler kapakların kapanması S1'i, aort ve pulmoner kapakların kapanması S2'yi oluşturur.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Papiller kasların işi",
+      "text": "Papiller kaslar korda tendineaları gererek AV kapak yaprakçıklarının sistolde atriyuma prolabe olmasını sınırlar; kapağı açan kaslar değildir.",
+      "images": [],
+      "card": {
+        "id": "PER245-1sm6571",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Papiller kasların işi",
+        "body": "Papiller kaslar korda tendineaları gererek AV kapak yaprakçıklarının sistolde atriyuma prolabe olmasını sınırlar; kapağı açan kaslar değildir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Koroner dolum zamanı",
+      "text": "Koroner perfüzyonun önemli bölümü diyastolde gerçekleşir. Aort sinüsleri ile koroner ağızların anatomisi miyokard korumasında önem taşır.",
+      "images": [],
+      "card": {
+        "id": "PER245-1wiz2qy",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Koroner dolum zamanı",
+        "body": "Koroner perfüzyonun önemli bölümü diyastolde gerçekleşir. Aort sinüsleri ile koroner ağızların anatomisi miyokard korumasında önem taşır.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Pulmoner venöz dönüş",
+      "text": "Normal anatomide sağ ve sol akciğerlerden gelen pulmoner venler sol atriyuma açılır; venöz anomaliler kanülasyon planını değiştirebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-0xsoatk",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "fact",
+        "importance": 2,
+        "title": "Pulmoner venöz dönüş",
+        "body": "Normal anatomide sağ ve sol akciğerlerden gelen pulmoner venler sol atriyuma açılır; venöz anomaliler kanülasyon planını değiştirebilir.",
+        "source": "UMN Kalp Anatomisi Atlası"
+      }
+    },
+    {
+      "title": "Sol ana koronerin başlıca iki dalı hangileridir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-16jd6o6",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "flip",
+        "importance": 2,
+        "question": "Sol ana koronerin başlıca iki dalı hangileridir?",
+        "answer": "Sol ön inen arter (LAD) ve sirkumfleks arter (Cx).",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Oblik perikardiyal sinüs nerede bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1qo78qu",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "flip",
+        "importance": 2,
+        "question": "Oblik perikardiyal sinüs nerede bulunur?",
+        "answer": "Sol atriyumun arkasında, pulmoner venler arasında yer alan kör perikard boşluğudur.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Normal anatomide VCS’yi hangi iki ven oluşturur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1vbnk3x",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "flip",
+        "importance": 2,
+        "question": "Normal anatomide VCS’yi hangi iki ven oluşturur?",
+        "answer": "Sağ ve sol brakiyosefalik venlerin birleşmesi; superior vena kava buradan sağ atriyuma kan taşır.",
+        "source": "Kumar, J Thorac Dis 2020"
+      }
+    },
+    {
+      "title": "Dominansın ölçütü",
+      "text": "Koroner dominansı arterin büyüklüğüyle değil, **arka inen arteri veren damar** ile tanımla. Popülasyondaki yüzdeler kaynaklara göre değişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER245-02xlqi4",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "remember",
+        "importance": 3,
+        "title": "Dominansın ölçütü",
+        "body": "Koroner dominansı arterin büyüklüğüyle değil, **arka inen arteri veren damar** ile tanımla. Popülasyondaki yüzdeler kaynaklara göre değişebilir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Sağ ve sol koroner arter ağızları normalde hangi yapıdan çıkar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-197xd4v",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Sağ ve sol koroner arter ağızları normalde hangi yapıdan çıkar?",
+        "options": [
+          "Aort sinüsleri",
+          "Pulmoner sinüsler",
+          "Koroner sinüs",
+          "İnteratriyal septum"
+        ],
+        "correct": 0,
+        "explanation": "Koroner arterler sağ ve sol aort sinüslerinden başlar; koroner sinüs venöz toplama yapısıdır.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Kalbin büyük venlerinin çoğunu birleştiren ve sağ atriyuma açılan ana toplayıcı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1c5e8m0",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Kalbin büyük venlerinin çoğunu birleştiren ve sağ atriyuma açılan ana toplayıcı hangisidir?",
+        "options": [
+          "Anterior kardiyak venler",
+          "Koroner sinüs",
+          "Büyük kardiyak ven",
+          "Vena kava inferior"
+        ],
+        "correct": 1,
+        "explanation": "Koroner sinüs kardiyak venlerin büyük bölümünün ortak drenaj yoludur.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Arka interventriküler olukta seyreden koroner dal hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-0mm6ih6",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Arka interventriküler olukta seyreden koroner dal hangisidir?",
+        "options": [
+          "Sol ana koroner arter",
+          "Sağ marjinal arter",
+          "Arka inen arter",
+          "Sol ön inen arter"
+        ],
+        "correct": 2,
+        "explanation": "Arka inen arter, posterior interventriküler arter olarak da adlandırılır.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Aorta ile truncus pulmonalis çevresinden askı geçirmeye yarayan perikard geçidi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1f7dtwy",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aorta ile truncus pulmonalis çevresinden askı geçirmeye yarayan perikard geçidi hangisidir?",
+        "options": [
+          "Oblik sinüs",
+          "Koroner sinüs",
+          "Valsalva sinüsü",
+          "Transvers sinüs"
+        ],
+        "correct": 3,
+        "explanation": "Transvers perikardiyal sinüs arteriyel çıkışı venöz giriş yapılarından ayıran geçittir.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Fibröz perikard diyaframın santral tendonuyla devamlılık gösterir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-01qxv58",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Fibröz perikard diyaframın santral tendonuyla devamlılık gösterir.",
+        "isTrue": true,
+        "explanation": "Fibröz perikard kalbi sabitleyen dış tabakadır ve diyafram santral tendonuna tutunur.",
+        "source": "TeachMeAnatomy"
+      }
+    },
+    {
+      "title": "Sol ön inen koroner arter arka interventriküler olukta seyreder.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER245-1h45vlv",
+        "course": "PER245",
+        "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Sol ön inen koroner arter arka interventriküler olukta seyreder.",
+        "isTrue": false,
+        "explanation": "LAD ön interventriküler olukta seyreder; arka olukta posterior inen arter yer alır.",
+        "source": "TeachMeAnatomy"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER245",
+  "cards": [
+    {
+      "id": "PER245-0ydsc3p",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Perikard",
+      "en": "Pericardium",
+      "definition": "Kalbi ve büyük damar köklerini saran, fibröz ve seröz (parietal + visseral/epikard) katmanlı kese.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1q58zj1",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Kardiyak tamponad",
+      "en": "Cardiac tamponade",
+      "definition": "Esnemeyen perikard içinde biriken sıvı/kanın kalbi sıkıştırıp debiyi düşürmesi.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0oasn01",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 3,
+      "term": "Transvers perikardiyal sinüs",
+      "en": "Transverse pericardial sinus",
+      "definition": "Aorta–truncus pulmonalis ile VCS–pulmoner venler arasındaki perikard geçidi.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0n33iw8",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 1,
+      "term": "Valsalva sinüsü (aort sinüsü)",
+      "en": "Aortic sinus",
+      "definition": "Aort kapak kusplarının arkasındaki genişlemeler.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1hejjeo",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Korda tendinea",
+      "en": "Chordae tendineae",
+      "definition": "AV kapak yaprakçıklarını papiller kaslara bağlayan, prolapsusu önleyen fibröz kirişler.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-00peun1",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Semilunar kapak",
+      "en": "Semilunar valve",
+      "definition": "Ventrikül çıkışlarındaki üç kusplu aort ve pulmoner kapaklar.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-03nv5mh",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 3,
+      "term": "Sinüs koronaryus (koroner sinüs)",
+      "en": "Coronary sinus",
+      "definition": "Kardiyak venlerin çoğunu toplayıp sağ atriyuma açılan büyük ven.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0wczfme",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Thebesius venleri",
+      "en": "Thebesian veins (venae cordis minimae)",
+      "definition": "Doğrudan kalp boşluklarına açılan küçük venler.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-0jo0t8i",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 1,
+      "term": "Koroner dominans",
+      "en": "Coronary dominance",
+      "definition": "Arka inen arteri (PDA) veren arterin adıyla tanımlanan baskınlık.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-03rik4b",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Sol ön inen arter (LAD)",
+      "en": "Left anterior descending artery",
+      "definition": "Sol koroner arterin ön interventriküler olukta apekse inen dalı.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0aga16t",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 2,
+      "term": "Fossa ovalis",
+      "en": "Fossa ovalis",
+      "definition": "İnteratriyal septumun sağ yüzünde, kapanmış foramen ovalenin kalıntısı olan çukur.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-170nwyb",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "term",
+      "importance": 1,
+      "term": "Persistan sol VCS (PLSVC)",
+      "en": "Persistent left superior vena cava",
+      "definition": "Sol anterior kardinal venin gerilememesi; çoğunlukla koroner sinüse açılır ve retrograd kardiyoplejiyi bozar.",
+      "source": "PLSVC, Life 2026"
+    },
+    {
+      "id": "PER245-0hqxqiw",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "compare",
+      "importance": 2,
+      "title": "PDA kısaltmasının iki kullanımı",
+      "left": {
+        "title": "Arka inen arter",
+        "points": [
+          "Koroner dolaşımın bir dalı",
+          "Arka interventriküler olukta seyreder"
+        ]
+      },
+      "right": {
+        "title": "Patent duktus arteriyozus",
+        "points": [
+          "Fetal aort-pulmoner bağlantının açık kalması",
+          "Sistemik ve pulmoner dolaşım arasında şant yapar"
+        ]
+      },
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-15z95mu",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Perikardın iki yaprağı",
+      "body": "Seröz perikardın parietal ve visseral yaprakları arasında kayganlaştırıcı sıvı bulunur; visseral yaprağa epikard denir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-02xpzay",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kapak ve kalp sesi",
+      "body": "Atriyoventriküler kapakların kapanması S1'i, aort ve pulmoner kapakların kapanması S2'yi oluşturur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1sm6571",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Papiller kasların işi",
+      "body": "Papiller kaslar korda tendineaları gererek AV kapak yaprakçıklarının sistolde atriyuma prolabe olmasını sınırlar; kapağı açan kaslar değildir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1wiz2qy",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Koroner dolum zamanı",
+      "body": "Koroner perfüzyonun önemli bölümü diyastolde gerçekleşir. Aort sinüsleri ile koroner ağızların anatomisi miyokard korumasında önem taşır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0xsoatk",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "fact",
+      "importance": 2,
+      "title": "Pulmoner venöz dönüş",
+      "body": "Normal anatomide sağ ve sol akciğerlerden gelen pulmoner venler sol atriyuma açılır; venöz anomaliler kanülasyon planını değiştirebilir.",
+      "source": "UMN Kalp Anatomisi Atlası"
+    },
+    {
+      "id": "PER245-16jd6o6",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "flip",
+      "importance": 2,
+      "question": "Sol ana koronerin başlıca iki dalı hangileridir?",
+      "answer": "Sol ön inen arter (LAD) ve sirkumfleks arter (Cx).",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1qo78qu",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "flip",
+      "importance": 2,
+      "question": "Oblik perikardiyal sinüs nerede bulunur?",
+      "answer": "Sol atriyumun arkasında, pulmoner venler arasında yer alan kör perikard boşluğudur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1vbnk3x",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "flip",
+      "importance": 2,
+      "question": "Normal anatomide VCS’yi hangi iki ven oluşturur?",
+      "answer": "Sağ ve sol brakiyosefalik venlerin birleşmesi; superior vena kava buradan sağ atriyuma kan taşır.",
+      "source": "Kumar, J Thorac Dis 2020"
+    },
+    {
+      "id": "PER245-02xlqi4",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "remember",
+      "importance": 3,
+      "title": "Dominansın ölçütü",
+      "body": "Koroner dominansı arterin büyüklüğüyle değil, **arka inen arteri veren damar** ile tanımla. Popülasyondaki yüzdeler kaynaklara göre değişebilir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-197xd4v",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Sağ ve sol koroner arter ağızları normalde hangi yapıdan çıkar?",
+      "options": [
+        "Aort sinüsleri",
+        "Pulmoner sinüsler",
+        "Koroner sinüs",
+        "İnteratriyal septum"
+      ],
+      "correct": 0,
+      "explanation": "Koroner arterler sağ ve sol aort sinüslerinden başlar; koroner sinüs venöz toplama yapısıdır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1c5e8m0",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Kalbin büyük venlerinin çoğunu birleştiren ve sağ atriyuma açılan ana toplayıcı hangisidir?",
+      "options": [
+        "Anterior kardiyak venler",
+        "Koroner sinüs",
+        "Büyük kardiyak ven",
+        "Vena kava inferior"
+      ],
+      "correct": 1,
+      "explanation": "Koroner sinüs kardiyak venlerin büyük bölümünün ortak drenaj yoludur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-0mm6ih6",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Arka interventriküler olukta seyreden koroner dal hangisidir?",
+      "options": [
+        "Sol ana koroner arter",
+        "Sağ marjinal arter",
+        "Arka inen arter",
+        "Sol ön inen arter"
+      ],
+      "correct": 2,
+      "explanation": "Arka inen arter, posterior interventriküler arter olarak da adlandırılır.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1f7dtwy",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aorta ile truncus pulmonalis çevresinden askı geçirmeye yarayan perikard geçidi hangisidir?",
+      "options": [
+        "Oblik sinüs",
+        "Koroner sinüs",
+        "Valsalva sinüsü",
+        "Transvers sinüs"
+      ],
+      "correct": 3,
+      "explanation": "Transvers perikardiyal sinüs arteriyel çıkışı venöz giriş yapılarından ayıran geçittir.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-01qxv58",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Fibröz perikard diyaframın santral tendonuyla devamlılık gösterir.",
+      "isTrue": true,
+      "explanation": "Fibröz perikard kalbi sabitleyen dış tabakadır ve diyafram santral tendonuna tutunur.",
+      "source": "TeachMeAnatomy"
+    },
+    {
+      "id": "PER245-1h45vlv",
+      "course": "PER245",
+      "topic": "Kalp, büyük damarlar ve koroner dolaşım",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Sol ön inen koroner arter arka interventriküler olukta seyreder.",
+      "isTrue": false,
+      "explanation": "LAD ön interventriküler olukta seyreder; arka olukta posterior inen arter yer alır.",
+      "source": "TeachMeAnatomy"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER245"
+}

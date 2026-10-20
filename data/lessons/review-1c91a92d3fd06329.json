@@ -1,0 +1,765 @@
+{
+  "id": "review-1c91a92d3fd06329",
+  "title": "ECCO2R ve neonatal/pediatrik ECMO",
+  "category": "ECMO",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER207",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "ECCO2R",
+      "text": "Extracorporeal CO2 removal\nEsas olarak karbondioksit uzaklaştırmayı amaçlayan ekstrakorporeal destek. Tam oksijenasyon desteğine göre daha düşük kan akımlarıyla çalışabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bnjglb",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 2,
+        "term": "ECCO2R",
+        "en": "Extracorporeal CO2 removal",
+        "definition": "Esas olarak karbondioksit uzaklaştırmayı amaçlayan ekstrakorporeal destek. Tam oksijenasyon desteğine göre daha düşük kan akımlarıyla çalışabilir.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Pompasız AV-ECCO2R",
+      "text": "Pumpless arteriovenous ECCO2R\nArter-ven basınç farkıyla pompasız düşük akımlı CO2 uzaklaştırma; adlandırması (pl)A-V.",
+      "images": [],
+      "card": {
+        "id": "PER207-1goim0i",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 2,
+        "term": "Pompasız AV-ECCO2R",
+        "en": "Pumpless arteriovenous ECCO2R",
+        "definition": "Arter-ven basınç farkıyla pompasız düşük akımlı CO2 uzaklaştırma; adlandırması (pl)A-V.",
+        "source": "ELSO Genel 2017"
+      }
+    },
+    {
+      "title": "Oksijenasyon indeksi",
+      "text": "Oxygenation index (OI)\nOrtalama hava yolu basıncı, solunan oksijen fraksiyonu ve arteriyel oksijen parsiyel basıncından hesaplanan solunum yetmezliği göstergesi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1avcy3j",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 3,
+        "term": "Oksijenasyon indeksi",
+        "en": "Oxygenation index (OI)",
+        "definition": "Ortalama hava yolu basıncı, solunan oksijen fraksiyonu ve arteriyel oksijen parsiyel basıncından hesaplanan solunum yetmezliği göstergesi.",
+        "source": "ELSO Neonatal 2013"
+      }
+    },
+    {
+      "title": "KDH",
+      "text": "Congenital diaphragmatic hernia\nDiyaframdaki doğumsal açıklıkla karın organlarının göğüs boşluğuna geçmesi; akciğer hipoplazisi ve pulmoner hipertansiyona yol açabilir.",
+      "images": [],
+      "card": {
+        "id": "PER207-04y7x2a",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 2,
+        "term": "KDH",
+        "en": "Congenital diaphragmatic hernia",
+        "definition": "Diyaframdaki doğumsal açıklıkla karın organlarının göğüs boşluğuna geçmesi; akciğer hipoplazisi ve pulmoner hipertansiyona yol açabilir.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "MAS",
+      "text": "Meconium aspiration syndrome\nMekonyumun hava yollarına aspirasyonuyla oluşan; obstrüksiyon, sürfaktan bozukluğu ve pulmoner hipertansiyonla seyreden yenidoğan hastalığı.",
+      "images": [],
+      "card": {
+        "id": "PER207-1qq6s9g",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 2,
+        "term": "MAS",
+        "en": "Meconium aspiration syndrome",
+        "definition": "Mekonyumun hava yollarına aspirasyonuyla oluşan; obstrüksiyon, sürfaktan bozukluğu ve pulmoner hipertansiyonla seyreden yenidoğan hastalığı.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "PPHN",
+      "text": "Persistent pulmonary hypertension of the newborn\nDoğumdan sonra pulmoner damar direncinin düşmemesi; sağdan sola şant ve ağır hipoksemi.",
+      "images": [],
+      "card": {
+        "id": "PER207-1r3n20n",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 2,
+        "term": "PPHN",
+        "en": "Persistent pulmonary hypertension of the newborn",
+        "definition": "Doğumdan sonra pulmoner damar direncinin düşmemesi; sağdan sola şant ve ağır hipoksemi.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "HİE",
+      "text": "Hypoxic-ischemic encephalopathy\nPerinatal dönemde yetersiz oksijenlenme ve kanlanmaya bağlı beyin hasarı.",
+      "images": [],
+      "card": {
+        "id": "PER207-16vdnmx",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 1,
+        "term": "HİE",
+        "en": "Hypoxic-ischemic encephalopathy",
+        "definition": "Perinatal dönemde yetersiz oksijenlenme ve kanlanmaya bağlı beyin hasarı.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "İntraventriküler kanama",
+      "text": "Intraventricular hemorrhage\nBeyin ventriküllerine kanama; neonatal ECMO değerlendirmesinde beyin ultrasonuyla araştırılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1exxbgc",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 2,
+        "term": "İntraventriküler kanama",
+        "en": "Intraventricular hemorrhage",
+        "definition": "Beyin ventriküllerine kanama; neonatal ECMO değerlendirmesinde beyin ultrasonuyla araştırılır.",
+        "source": "ELSO Neonatal 2013"
+      }
+    },
+    {
+      "title": "EXIT-to-ECMO",
+      "text": "Ex utero intrapartum treatment to ECMO\nKordon klemplenmeden, plasental destek sürerken kanülasyon ve ECMO başlatılması.",
+      "images": [],
+      "card": {
+        "id": "PER207-1yc8mpg",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "term",
+        "importance": 1,
+        "term": "EXIT-to-ECMO",
+        "en": "Ex utero intrapartum treatment to ECMO",
+        "definition": "Kordon klemplenmeden, plasental destek sürerken kanülasyon ve ECMO başlatılması.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Oksijenasyon indeksi formülü",
+      "text": "**Oİ = (ortalama hava yolu basıncı × FiO2 × 100) / PaO2**. Ortalama hava yolu basıncı cmH2O, PaO2 mmHg ve FiO2 0–1 kesir olarak kullanılır; PaO2 postduktal arteriyel örnekten alınır.",
+      "images": [],
+      "card": {
+        "id": "PER207-0em4mqs",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "Oksijenasyon indeksi formülü",
+        "body": "**Oİ = (ortalama hava yolu basıncı × FiO2 × 100) / PaO2**. Ortalama hava yolu basıncı cmH2O, PaO2 mmHg ve FiO2 0–1 kesir olarak kullanılır; PaO2 postduktal arteriyel örnekten alınır.",
+        "source": "ELSO Neonatal 2017"
+      }
+    },
+    {
+      "title": "Neonatal Oİ eşiğinin bağlamı",
+      "text": "ELSO neonatal 2017, optimal tedaviye rağmen **Oİ > 40’ın 4 saatten uzun** sürmesini değerlendirme ölçütü verir. Endikasyon; tanı, geri dönüşebilirlik ve diğer bulgularla birlikte kararlaştırılır.",
+      "images": [],
+      "card": {
+        "id": "PER207-1ulki0o",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "Neonatal Oİ eşiğinin bağlamı",
+        "body": "ELSO neonatal 2017, optimal tedaviye rağmen **Oİ > 40’ın 4 saatten uzun** sürmesini değerlendirme ölçütü verir. Endikasyon; tanı, geri dönüşebilirlik ve diğer bulgularla birlikte kararlaştırılır.",
+        "source": "ELSO Neonatal 2017"
+      }
+    },
+    {
+      "title": "Neonatal beyin izlemi",
+      "text": "ELSO Neonatal 2020’de ECMO öncesi kraniyal ultrason ve ilk **3–5 gün günlük** ultrason birçok protokolde kullanılır; kanama ve iskemik hasar aranır.",
+      "images": [],
+      "card": {
+        "id": "PER207-131gqfl",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "Neonatal beyin izlemi",
+        "body": "ELSO Neonatal 2020’de ECMO öncesi kraniyal ultrason ve ilk **3–5 gün günlük** ultrason birçok protokolde kullanılır; kanama ve iskemik hasar aranır.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Gestasyon sınırı tarihsel olarak değişti",
+      "text": "< 34 hafta ECMO için tarihsel risk sınırıdır. ELSO Neonatal 2020, 29–33 haftalık hastalarda sonuçları ayrıca tartışır; yaş tek başına değişmez bir dışlama kuralına çevrilmez.",
+      "images": [],
+      "card": {
+        "id": "PER207-0cq2nd4",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "Gestasyon sınırı tarihsel olarak değişti",
+        "body": "< 34 hafta ECMO için tarihsel risk sınırıdır. ELSO Neonatal 2020, 29–33 haftalık hastalarda sonuçları ayrıca tartışır; yaş tek başına değişmez bir dışlama kuralına çevrilmez.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "REST çalışmasının sonucu",
+      "text": "REST (JAMA 2021) çalışmasında 412 hastada ECCO2R ile daha düşük tidal hacim stratejisi, standart ventilasyona göre **90 günlük mortaliteyi azaltmadı**; ciddi advers olaylar daha fazlaydı.",
+      "images": [],
+      "card": {
+        "id": "PER207-071cw42",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "REST çalışmasının sonucu",
+        "body": "REST (JAMA 2021) çalışmasında 412 hastada ECCO2R ile daha düşük tidal hacim stratejisi, standart ventilasyona göre **90 günlük mortaliteyi azaltmadı**; ciddi advers olaylar daha fazlaydı.",
+        "source": "REST, JAMA 2021"
+      }
+    },
+    {
+      "title": "ECCO2R ile daha düşük tidal hacim kullanmanın fizyolojik amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0y394zk",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "flip",
+        "importance": 2,
+        "question": "ECCO2R ile daha düşük tidal hacim kullanmanın fizyolojik amacı nedir?",
+        "answer": "CO2 uzaklaştırmanın bir bölümünü devreye aktararak mekanik ventilasyonun **hacim ve basınç yükünü** azaltmaktır; mortalite yararı ayrıca kanıt gerektirir.",
+        "source": "ECCO2R cihaz çalışmaları"
+      }
+    },
+    {
+      "title": "Neonatal ECMO’da aşırı oksijenasyondan neden kaçınılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0kiwtkb",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "flip",
+        "importance": 2,
+        "question": "Neonatal ECMO’da aşırı oksijenasyondan neden kaçınılır?",
+        "answer": "Hiperoksi, özellikle küçük ve prematüre hastada oksijen kaynaklı doku hasarı riskini artırır; gaz değişimi hedefleri hastaya göre değerlendirilir.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Trizomi 21 ile ölümcül anomaliler ayrı",
+      "text": "Eski neonatal kılavuz trizomi 13/18 gibi ölümcül anomalileri dışlama bağlamında sayar; **trizomi 21 tek başına aynı dışlama kategorisi değildir**.",
+      "images": [],
+      "card": {
+        "id": "PER207-1bb3fkh",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "remember",
+        "importance": 3,
+        "title": "Trizomi 21 ile ölümcül anomaliler ayrı",
+        "body": "Eski neonatal kılavuz trizomi 13/18 gibi ölümcül anomalileri dışlama bağlamında sayar; **trizomi 21 tek başına aynı dışlama kategorisi değildir**.",
+        "source": "ELSO Neonatal 2017"
+      }
+    },
+    {
+      "title": "Neonatal eski dışlama ölçütlerinin bağlamı",
+      "text": "ELSO Neonatal 2017, **evre III ve üzeri İVK**, geri dönüşsüz beyin hasarı ve kontrolsüz kanamayı dışlama bağlamında sayar. < 2 kg ve < 34 hafta ise göreceli risk ölçütleridir; güncel değerlendirme hastaya özgüdür.",
+      "images": [],
+      "card": {
+        "id": "PER207-0bhz4lp",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "Neonatal eski dışlama ölçütlerinin bağlamı",
+        "body": "ELSO Neonatal 2017, **evre III ve üzeri İVK**, geri dönüşsüz beyin hasarı ve kontrolsüz kanamayı dışlama bağlamında sayar. < 2 kg ve < 34 hafta ise göreceli risk ölçütleridir; güncel değerlendirme hastaya özgüdür.",
+        "source": "ELSO Neonatal 2017"
+      }
+    },
+    {
+      "title": "Tanıya göre neonatal sonuçlar",
+      "text": "ELSO Neonatal 2020 Tablo 3’te MAS sağkalımı **%92**, KDH sağkalımı yaklaşık %50 olarak verilir; KDH en sık neonatal ECMO endikasyonu olarak anılır. Bunlar kaynak yılının tanıya özgü kayıt verileridir, bireysel prognoz değildir.",
+      "images": [],
+      "card": {
+        "id": "PER207-1mupgxs",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "fact",
+        "importance": 2,
+        "title": "Tanıya göre neonatal sonuçlar",
+        "body": "ELSO Neonatal 2020 Tablo 3’te MAS sağkalımı **%92**, KDH sağkalımı yaklaşık %50 olarak verilir; KDH en sık neonatal ECMO endikasyonu olarak anılır. Bunlar kaynak yılının tanıya özgü kayıt verileridir, bireysel prognoz değildir.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "PPHN’de doğumdan sonra hangi fizyolojik değişim gerçekleşmez?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0vewa6x",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "mcq",
+        "importance": 2,
+        "question": "PPHN’de doğumdan sonra hangi fizyolojik değişim gerçekleşmez?",
+        "options": [
+          "Sağ ventrikülün kan pompalaması",
+          "Arteriyel kanın dokulara ulaşması",
+          "Pulmoner damar direncinin düşmesi",
+          "Sistemik venöz kanın kalbe dönmesi"
+        ],
+        "correct": 2,
+        "explanation": "Yenidoğanın persistan pulmoner hipertansiyonunda pulmoner direnç düşmez; sağdan sola şant sürdürülebilir.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Konjenital diyafragma hernisinde ECMO gereksinimine katkıda bulunan ikili hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-12lcju2",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Konjenital diyafragma hernisinde ECMO gereksinimine katkıda bulunan ikili hangisidir?",
+        "options": [
+          "Akciğer büyümesi ve pulmoner hipotansiyon",
+          "Bronş genişlemesi ve sistemik hipertansiyon",
+          "Plevral sıvı azalması ve renal hipotansiyon",
+          "Akciğer hipoplazisi ve pulmoner hipertansiyon"
+        ],
+        "correct": 3,
+        "explanation": "KDH’de akciğer gelişimi kısıtlanır ve yüksek pulmoner direnç ciddi solunum/dolaşım sorununa yol açabilir.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Mekonyum aspirasyonu akciğeri hangi mekanizmayla etkileyebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1x101ah",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Mekonyum aspirasyonu akciğeri hangi mekanizmayla etkileyebilir?",
+        "options": [
+          "Hava yolu obstrüksiyonu ve sürfaktan bozukluğu",
+          "Hava yolu genişlemesi ve sürfaktan artışı",
+          "Pulmoner ven dilatasyonu ve hemoglobin artışı",
+          "Aort daralması ve eritrosit üretiminde artış"
+        ],
+        "correct": 0,
+        "explanation": "MAS’ta hava yolu tıkanması, sürfaktan bozukluğu ve pulmoner hipertansiyon gaz değişimini bozar.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "EXIT-to-ECMO sırasında ECMO kurulurken hangi destek henüz sürmektedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-05idu90",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "mcq",
+        "importance": 2,
+        "question": "EXIT-to-ECMO sırasında ECMO kurulurken hangi destek henüz sürmektedir?",
+        "options": [
+          "İzole serebral perfüzyon",
+          "Plasental dolaşım",
+          "İABP karşı-atımı",
+          "LVAD destinasyon desteği"
+        ],
+        "correct": 1,
+        "explanation": "EXIT yaklaşımında kordon klemplenmeden plasental destek sürerken kanülasyon ve ECMO başlatılır.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Düşük akımlı ECCO2R’de hedeflenen gaz değişimi hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-0xp5rgl",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Düşük akımlı ECCO2R’de hedeflenen gaz değişimi hangisidir?",
+        "options": [
+          "Nativ kardiyak ejeksiyonun yerine geçilmesi",
+          "Koroner arterlere pulsatif akım verilmesi",
+          "Esas olarak CO2 uzaklaştırılması",
+          "Tam sistemik oksijenasyon sağlanması"
+        ],
+        "correct": 2,
+        "explanation": "ECCO2R esas olarak CO2 uzaklaştırmak için planlanır; tam oksijenasyon desteğiyle aynı değildir.",
+        "source": "ECCO2R cihaz çalışmaları"
+      }
+    },
+    {
+      "title": "ELSO Neonatal 2020’de başlangıç gaz akımı kan akımına eşit ayarlanıp PaCO2 40–45 mmHg olacak biçimde titre edilebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-1leik84",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "tf",
+        "importance": 2,
+        "statement": "ELSO Neonatal 2020’de başlangıç gaz akımı kan akımına eşit ayarlanıp PaCO2 40–45 mmHg olacak biçimde titre edilebilir.",
+        "isTrue": true,
+        "explanation": "Bu tarihli kılavuz neonatal başlangıç gaz yönetimini böyle tanımlar; hastanın kan gazı ve klinik durumu izlenir.",
+        "source": "ELSO Neonatal 2020"
+      }
+    },
+    {
+      "title": "Eski neonatal ELSO kılavuzunda trizomi 21, trizomi 13 ve 18 ile aynı ölümcül anomali dışlama grubundadır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER207-12cfwhb",
+        "course": "PER207",
+        "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Eski neonatal ELSO kılavuzunda trizomi 21, trizomi 13 ve 18 ile aynı ölümcül anomali dışlama grubundadır.",
+        "isTrue": false,
+        "explanation": "Trizomi 21 tek başına trizomi 13/18 gibi ölümcül anomali dışlama kategorisine girmez.",
+        "source": "ELSO Neonatal 2017"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER207",
+  "cards": [
+    {
+      "id": "PER207-1bnjglb",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 2,
+      "term": "ECCO2R",
+      "en": "Extracorporeal CO2 removal",
+      "definition": "Esas olarak karbondioksit uzaklaştırmayı amaçlayan ekstrakorporeal destek. Tam oksijenasyon desteğine göre daha düşük kan akımlarıyla çalışabilir.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1goim0i",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 2,
+      "term": "Pompasız AV-ECCO2R",
+      "en": "Pumpless arteriovenous ECCO2R",
+      "definition": "Arter-ven basınç farkıyla pompasız düşük akımlı CO2 uzaklaştırma; adlandırması (pl)A-V.",
+      "source": "ELSO Genel 2017"
+    },
+    {
+      "id": "PER207-1avcy3j",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 3,
+      "term": "Oksijenasyon indeksi",
+      "en": "Oxygenation index (OI)",
+      "definition": "Ortalama hava yolu basıncı, solunan oksijen fraksiyonu ve arteriyel oksijen parsiyel basıncından hesaplanan solunum yetmezliği göstergesi.",
+      "source": "ELSO Neonatal 2013"
+    },
+    {
+      "id": "PER207-04y7x2a",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 2,
+      "term": "KDH",
+      "en": "Congenital diaphragmatic hernia",
+      "definition": "Diyaframdaki doğumsal açıklıkla karın organlarının göğüs boşluğuna geçmesi; akciğer hipoplazisi ve pulmoner hipertansiyona yol açabilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-1qq6s9g",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 2,
+      "term": "MAS",
+      "en": "Meconium aspiration syndrome",
+      "definition": "Mekonyumun hava yollarına aspirasyonuyla oluşan; obstrüksiyon, sürfaktan bozukluğu ve pulmoner hipertansiyonla seyreden yenidoğan hastalığı.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-1r3n20n",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 2,
+      "term": "PPHN",
+      "en": "Persistent pulmonary hypertension of the newborn",
+      "definition": "Doğumdan sonra pulmoner damar direncinin düşmemesi; sağdan sola şant ve ağır hipoksemi.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-16vdnmx",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 1,
+      "term": "HİE",
+      "en": "Hypoxic-ischemic encephalopathy",
+      "definition": "Perinatal dönemde yetersiz oksijenlenme ve kanlanmaya bağlı beyin hasarı.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-1exxbgc",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 2,
+      "term": "İntraventriküler kanama",
+      "en": "Intraventricular hemorrhage",
+      "definition": "Beyin ventriküllerine kanama; neonatal ECMO değerlendirmesinde beyin ultrasonuyla araştırılır.",
+      "source": "ELSO Neonatal 2013"
+    },
+    {
+      "id": "PER207-1yc8mpg",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "term",
+      "importance": 1,
+      "term": "EXIT-to-ECMO",
+      "en": "Ex utero intrapartum treatment to ECMO",
+      "definition": "Kordon klemplenmeden, plasental destek sürerken kanülasyon ve ECMO başlatılması.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-0em4mqs",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "Oksijenasyon indeksi formülü",
+      "body": "**Oİ = (ortalama hava yolu basıncı × FiO2 × 100) / PaO2**. Ortalama hava yolu basıncı cmH2O, PaO2 mmHg ve FiO2 0–1 kesir olarak kullanılır; PaO2 postduktal arteriyel örnekten alınır.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "id": "PER207-1ulki0o",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "Neonatal Oİ eşiğinin bağlamı",
+      "body": "ELSO neonatal 2017, optimal tedaviye rağmen **Oİ > 40’ın 4 saatten uzun** sürmesini değerlendirme ölçütü verir. Endikasyon; tanı, geri dönüşebilirlik ve diğer bulgularla birlikte kararlaştırılır.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "id": "PER207-131gqfl",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "Neonatal beyin izlemi",
+      "body": "ELSO Neonatal 2020’de ECMO öncesi kraniyal ultrason ve ilk **3–5 gün günlük** ultrason birçok protokolde kullanılır; kanama ve iskemik hasar aranır.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-0cq2nd4",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "Gestasyon sınırı tarihsel olarak değişti",
+      "body": "< 34 hafta ECMO için tarihsel risk sınırıdır. ELSO Neonatal 2020, 29–33 haftalık hastalarda sonuçları ayrıca tartışır; yaş tek başına değişmez bir dışlama kuralına çevrilmez.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-071cw42",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "REST çalışmasının sonucu",
+      "body": "REST (JAMA 2021) çalışmasında 412 hastada ECCO2R ile daha düşük tidal hacim stratejisi, standart ventilasyona göre **90 günlük mortaliteyi azaltmadı**; ciddi advers olaylar daha fazlaydı.",
+      "source": "REST, JAMA 2021"
+    },
+    {
+      "id": "PER207-0y394zk",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "flip",
+      "importance": 2,
+      "question": "ECCO2R ile daha düşük tidal hacim kullanmanın fizyolojik amacı nedir?",
+      "answer": "CO2 uzaklaştırmanın bir bölümünü devreye aktararak mekanik ventilasyonun **hacim ve basınç yükünü** azaltmaktır; mortalite yararı ayrıca kanıt gerektirir.",
+      "source": "ECCO2R cihaz çalışmaları"
+    },
+    {
+      "id": "PER207-0kiwtkb",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "flip",
+      "importance": 2,
+      "question": "Neonatal ECMO’da aşırı oksijenasyondan neden kaçınılır?",
+      "answer": "Hiperoksi, özellikle küçük ve prematüre hastada oksijen kaynaklı doku hasarı riskini artırır; gaz değişimi hedefleri hastaya göre değerlendirilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-1bb3fkh",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "remember",
+      "importance": 3,
+      "title": "Trizomi 21 ile ölümcül anomaliler ayrı",
+      "body": "Eski neonatal kılavuz trizomi 13/18 gibi ölümcül anomalileri dışlama bağlamında sayar; **trizomi 21 tek başına aynı dışlama kategorisi değildir**.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "id": "PER207-0bhz4lp",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "Neonatal eski dışlama ölçütlerinin bağlamı",
+      "body": "ELSO Neonatal 2017, **evre III ve üzeri İVK**, geri dönüşsüz beyin hasarı ve kontrolsüz kanamayı dışlama bağlamında sayar. < 2 kg ve < 34 hafta ise göreceli risk ölçütleridir; güncel değerlendirme hastaya özgüdür.",
+      "source": "ELSO Neonatal 2017"
+    },
+    {
+      "id": "PER207-1mupgxs",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "fact",
+      "importance": 2,
+      "title": "Tanıya göre neonatal sonuçlar",
+      "body": "ELSO Neonatal 2020 Tablo 3’te MAS sağkalımı **%92**, KDH sağkalımı yaklaşık %50 olarak verilir; KDH en sık neonatal ECMO endikasyonu olarak anılır. Bunlar kaynak yılının tanıya özgü kayıt verileridir, bireysel prognoz değildir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-0vewa6x",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "mcq",
+      "importance": 2,
+      "question": "PPHN’de doğumdan sonra hangi fizyolojik değişim gerçekleşmez?",
+      "options": [
+        "Sağ ventrikülün kan pompalaması",
+        "Arteriyel kanın dokulara ulaşması",
+        "Pulmoner damar direncinin düşmesi",
+        "Sistemik venöz kanın kalbe dönmesi"
+      ],
+      "correct": 2,
+      "explanation": "Yenidoğanın persistan pulmoner hipertansiyonunda pulmoner direnç düşmez; sağdan sola şant sürdürülebilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-12lcju2",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Konjenital diyafragma hernisinde ECMO gereksinimine katkıda bulunan ikili hangisidir?",
+      "options": [
+        "Akciğer büyümesi ve pulmoner hipotansiyon",
+        "Bronş genişlemesi ve sistemik hipertansiyon",
+        "Plevral sıvı azalması ve renal hipotansiyon",
+        "Akciğer hipoplazisi ve pulmoner hipertansiyon"
+      ],
+      "correct": 3,
+      "explanation": "KDH’de akciğer gelişimi kısıtlanır ve yüksek pulmoner direnç ciddi solunum/dolaşım sorununa yol açabilir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-1x101ah",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Mekonyum aspirasyonu akciğeri hangi mekanizmayla etkileyebilir?",
+      "options": [
+        "Hava yolu obstrüksiyonu ve sürfaktan bozukluğu",
+        "Hava yolu genişlemesi ve sürfaktan artışı",
+        "Pulmoner ven dilatasyonu ve hemoglobin artışı",
+        "Aort daralması ve eritrosit üretiminde artış"
+      ],
+      "correct": 0,
+      "explanation": "MAS’ta hava yolu tıkanması, sürfaktan bozukluğu ve pulmoner hipertansiyon gaz değişimini bozar.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-05idu90",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "mcq",
+      "importance": 2,
+      "question": "EXIT-to-ECMO sırasında ECMO kurulurken hangi destek henüz sürmektedir?",
+      "options": [
+        "İzole serebral perfüzyon",
+        "Plasental dolaşım",
+        "İABP karşı-atımı",
+        "LVAD destinasyon desteği"
+      ],
+      "correct": 1,
+      "explanation": "EXIT yaklaşımında kordon klemplenmeden plasental destek sürerken kanülasyon ve ECMO başlatılır.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-0xp5rgl",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Düşük akımlı ECCO2R’de hedeflenen gaz değişimi hangisidir?",
+      "options": [
+        "Nativ kardiyak ejeksiyonun yerine geçilmesi",
+        "Koroner arterlere pulsatif akım verilmesi",
+        "Esas olarak CO2 uzaklaştırılması",
+        "Tam sistemik oksijenasyon sağlanması"
+      ],
+      "correct": 2,
+      "explanation": "ECCO2R esas olarak CO2 uzaklaştırmak için planlanır; tam oksijenasyon desteğiyle aynı değildir.",
+      "source": "ECCO2R cihaz çalışmaları"
+    },
+    {
+      "id": "PER207-1leik84",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "tf",
+      "importance": 2,
+      "statement": "ELSO Neonatal 2020’de başlangıç gaz akımı kan akımına eşit ayarlanıp PaCO2 40–45 mmHg olacak biçimde titre edilebilir.",
+      "isTrue": true,
+      "explanation": "Bu tarihli kılavuz neonatal başlangıç gaz yönetimini böyle tanımlar; hastanın kan gazı ve klinik durumu izlenir.",
+      "source": "ELSO Neonatal 2020"
+    },
+    {
+      "id": "PER207-12cfwhb",
+      "course": "PER207",
+      "topic": "ECCO2R ve neonatal/pediatrik ECMO",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Eski neonatal ELSO kılavuzunda trizomi 21, trizomi 13 ve 18 ile aynı ölümcül anomali dışlama grubundadır.",
+      "isTrue": false,
+      "explanation": "Trizomi 21 tek başına trizomi 13/18 gibi ölümcül anomali dışlama kategorisine girmez.",
+      "source": "ELSO Neonatal 2017"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER207"
+}

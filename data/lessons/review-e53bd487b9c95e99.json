@@ -1,0 +1,803 @@
+{
+  "id": "review-e53bd487b9c95e99",
+  "title": "Akışkan dinamiği ve hemodinami",
+  "category": "Perfüzyon temelleri",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER141",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Akışkan dinamiği",
+      "text": "Fluid dynamics\nAkışkanların hareketini ve basınç–akım–direnç ilişkisini inceleyen fizik dalı.",
+      "images": [],
+      "card": {
+        "id": "PER141-0b1hca3",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Akışkan dinamiği",
+        "definition": "Akışkanların hareketini ve basınç–akım–direnç ilişkisini inceleyen fizik dalı.",
+        "en": "Fluid dynamics",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Laminer akım",
+      "text": "Laminar flow\nParalel katmanlar hâlinde, parabolik hız profilli düzenli akım.",
+      "images": [],
+      "card": {
+        "id": "PER141-1mw2tcd",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Laminer akım",
+        "definition": "Paralel katmanlar hâlinde, parabolik hız profilli düzenli akım.",
+        "en": "Laminar flow",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Türbülan akım",
+      "text": "Turbulent flow\nKatmanların bozulduğu kaotik akım; enerji kaybı fazladır.",
+      "images": [],
+      "card": {
+        "id": "PER141-08cbydw",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Türbülan akım",
+        "definition": "Katmanların bozulduğu kaotik akım; enerji kaybı fazladır.",
+        "en": "Turbulent flow",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Reynolds sayısı",
+      "text": "Reynolds number\nRe = ρVD/η; laminerden türbülansa geçişi öngören boyutsuz sayı.",
+      "images": [],
+      "card": {
+        "id": "PER141-1uu9511",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Reynolds sayısı",
+        "definition": "Re = ρVD/η; laminerden türbülansa geçişi öngören boyutsuz sayı.",
+        "en": "Reynolds number",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Poiseuille yasası",
+      "text": "Poiseuille's law\nLaminer akımda akımın r⁴ ve basınç farkıyla doğru, viskozite ve uzunlukla ters orantılı olması.",
+      "images": [],
+      "card": {
+        "id": "PER141-1ytrx5e",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 3,
+        "term": "Poiseuille yasası",
+        "definition": "Laminer akımda akımın r⁴ ve basınç farkıyla doğru, viskozite ve uzunlukla ters orantılı olması.",
+        "en": "Poiseuille's law",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Viskozite",
+      "text": "Viscosity\nAkışkan katmanları arasındaki iç sürtünme; kanda hematokrit artışı ve soğumayla artar.",
+      "images": [],
+      "card": {
+        "id": "PER141-0yikm6t",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Viskozite",
+        "definition": "Akışkan katmanları arasındaki iç sürtünme; kanda hematokrit artışı ve soğumayla artar.",
+        "en": "Viscosity",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Newtonyen olmayan sıvı",
+      "text": "Non-Newtonian fluid\nViskozitesi akım hızına göre değişen sıvı (kan: düşük akımda viskozite artar).",
+      "images": [],
+      "card": {
+        "id": "PER141-1fl10ju",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Newtonyen olmayan sıvı",
+        "definition": "Viskozitesi akım hızına göre değişen sıvı (kan: düşük akımda viskozite artar).",
+        "en": "Non-Newtonian fluid",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Bernoulli ilkesi",
+      "text": "Bernoulli principle\nAkışta kinetik + basınç enerjisinin korunması; hız artınca lateral basınç düşer (Venturi).",
+      "images": [],
+      "card": {
+        "id": "PER141-12x40n8",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Bernoulli ilkesi",
+        "definition": "Akışta kinetik + basınç enerjisinin korunması; hız artınca lateral basınç düşer (Venturi).",
+        "en": "Bernoulli principle",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Laplace yasası",
+      "text": "Law of Laplace\nDuvar gerilimi ∝ basınç × yarıçap; dilate ventrikülde gerilim ve O₂ ihtiyacı artar.",
+      "images": [],
+      "card": {
+        "id": "PER141-0pcahll",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "term",
+        "importance": 2,
+        "term": "Laplace yasası",
+        "definition": "Duvar gerilimi ∝ basınç × yarıçap; dilate ventrikülde gerilim ve O₂ ihtiyacı artar.",
+        "en": "Law of Laplace",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Akım düzeni",
+      "text": "Laminer akım\nParalel katmanlar; düzenli hız profili\nEnerji kaybı daha az\n\nTürbülan akım\nDüzensiz, kaotik hareket\nAynı akım için daha fazla basınç gerekir",
+      "images": [],
+      "card": {
+        "id": "PER141-0lf2efz",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "compare",
+        "importance": 2,
+        "title": "Akım düzeni",
+        "left": {
+          "title": "Laminer akım",
+          "points": [
+            "Paralel katmanlar; düzenli hız profili",
+            "Enerji kaybı daha az"
+          ]
+        },
+        "right": {
+          "title": "Türbülan akım",
+          "points": [
+            "Düzensiz, kaotik hareket",
+            "Aynı akım için daha fazla basınç gerekir"
+          ]
+        },
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Akımın fiziksel açıklaması",
+      "text": "Poiseuille\nDirenci çap, uzunluk ve viskoziteyle ilişkilendirir\nUzun düz tüpte laminer akım varsayar\n\nBernoulli\nKinetik enerji ile basınç enerjisini ilişkilendirir\nDarlıkta hız artışı ve lateral basınç düşüşünü açıklar",
+      "images": [],
+      "card": {
+        "id": "PER141-14vuanh",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "compare",
+        "importance": 2,
+        "title": "Akımın fiziksel açıklaması",
+        "left": {
+          "title": "Poiseuille",
+          "points": [
+            "Direnci çap, uzunluk ve viskoziteyle ilişkilendirir",
+            "Uzun düz tüpte laminer akım varsayar"
+          ]
+        },
+        "right": {
+          "title": "Bernoulli",
+          "points": [
+            "Kinetik enerji ile basınç enerjisini ilişkilendirir",
+            "Darlıkta hız artışı ve lateral basınç düşüşünü açıklar"
+          ]
+        },
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Sürücü basınç",
+      "text": "Temel ilişki **akım = basınç farkı / direnç** biçimindedir. Basınç farkı sabitken direnç artışı akımı azaltır.",
+      "images": [],
+      "card": {
+        "id": "PER141-09khspf",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "fact",
+        "importance": 3,
+        "title": "Sürücü basınç",
+        "body": "Temel ilişki **akım = basınç farkı / direnç** biçimindedir. Basınç farkı sabitken direnç artışı akımı azaltır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Çapın büyük etkisi",
+      "text": "Poiseuille varsayımları altında tüp çapı iki katına çıkarsa direnç **16 kat azalır**. Uzunluk ve viskozitenin etkisi doğrusal, çapın etkisi dördüncü kuvvettendir.",
+      "images": [],
+      "card": {
+        "id": "PER141-1haonw4",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "fact",
+        "importance": 3,
+        "title": "Çapın büyük etkisi",
+        "body": "Poiseuille varsayımları altında tüp çapı iki katına çıkarsa direnç **16 kat azalır**. Uzunluk ve viskozitenin etkisi doğrusal, çapın etkisi dördüncü kuvvettendir.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Kan için model sınırlaması",
+      "text": "Poiseuille eşitliği uzun ve düz tüp, Newtonyen sıvı ve sabit laminer akım varsayar. **Kan Newtonyen olmayan** bir sıvı olduğundan gerçek devre tam olarak bu modeli izlemez.",
+      "images": [],
+      "card": {
+        "id": "PER141-0dh3frd",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "fact",
+        "importance": 2,
+        "title": "Kan için model sınırlaması",
+        "body": "Poiseuille eşitliği uzun ve düz tüp, Newtonyen sıvı ve sabit laminer akım varsayar. **Kan Newtonyen olmayan** bir sıvı olduğundan gerçek devre tam olarak bu modeli izlemez.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Süreklilik ilişkisi",
+      "text": "**Akım = ortalama hız × kesit alanı**. Aynı akım daha dar kesitten geçtiğinde hız yükselir; kanül ucundaki jet bu ilişkiyle anlaşılır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1yig2ce",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "fact",
+        "importance": 2,
+        "title": "Süreklilik ilişkisi",
+        "body": "**Akım = ortalama hız × kesit alanı**. Aynı akım daha dar kesitten geçtiğinde hız yükselir; kanül ucundaki jet bu ilişkiyle anlaşılır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Hipotermi ve viskozite",
+      "text": "Soğuma kanın viskozitesini artırır. Hemodilüsyon viskoziteyi düşürerek hipotermide akışın sürdürülmesine katkı sağlar.",
+      "images": [],
+      "card": {
+        "id": "PER141-131o8rq",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "fact",
+        "importance": 2,
+        "title": "Hipotermi ve viskozite",
+        "body": "Soğuma kanın viskozitesini artırır. Hemodilüsyon viskoziteyi düşürerek hipotermide akışın sürdürülmesine katkı sağlar.",
+        "source": "Basics of CPB 2017"
+      }
+    },
+    {
+      "title": "Poiseuille modelinde Newtonyen sıvının düz, dairesel tüpte tam gelişmiş laminer akım hız profili nasıldır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0mzy2ej",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "flip",
+        "importance": 2,
+        "question": "Poiseuille modelinde Newtonyen sıvının düz, dairesel tüpte tam gelişmiş laminer akım hız profili nasıldır?",
+        "answer": "Hız tüpün merkezinde en yüksek, duvarında sıfırdır; profil **paraboliktir**.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Reynolds sayısında hangi değişkenler yer alır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-013iny8",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "flip",
+        "importance": 2,
+        "question": "Reynolds sayısında hangi değişkenler yer alır?",
+        "answer": "Yoğunluk, ortalama hız, çap ve viskozite: **Re = ρ × V × D / η**.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Laplace ilişkisine göre ventrikül duvar stresi kalınlıkla nasıl değişir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0xq7bt0",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "flip",
+        "importance": 2,
+        "question": "Laplace ilişkisine göre ventrikül duvar stresi kalınlıkla nasıl değişir?",
+        "answer": "Aynı basınç ve yarıçapta duvar kalınlığı arttıkça duvar stresi azalır; ilişki **σ ∝ P × r / h** biçimindedir.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Akım ile hız aynı büyüklük değildir",
+      "text": "Akım birim zamanda taşınan hacimdir; hız, kanın ilerleme süratidir. **Kesit daralınca hız artabilir**, aynı akımın korunması bu artışa bağlıdır.",
+      "images": [],
+      "card": {
+        "id": "PER141-1p0j9iv",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "remember",
+        "importance": 3,
+        "title": "Akım ile hız aynı büyüklük değildir",
+        "body": "Akım birim zamanda taşınan hacimdir; hız, kanın ilerleme süratidir. **Kesit daralınca hız artabilir**, aynı akımın korunması bu artışa bağlıdır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Diğer koşullar aynıyken tüp uzunluğunun iki katına çıkması dirençte ne yapar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1kc69q3",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Diğer koşullar aynıyken tüp uzunluğunun iki katına çıkması dirençte ne yapar?",
+        "options": [
+          "İki kat azalış",
+          "Dört kat azalış",
+          "İki kat artış",
+          "On altı kat artış"
+        ],
+        "correct": 2,
+        "explanation": "Poiseuille ilişkisinde direnç uzunlukla doğru orantılıdır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Sabit akımda tüp yarıçapı yarıya inerse ortalama hız nasıl değişir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-0b3dbn6",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Sabit akımda tüp yarıçapı yarıya inerse ortalama hız nasıl değişir?",
+        "options": [
+          "Yarıya iner",
+          "İki katına çıkar",
+          "On altı katına çıkar",
+          "Dört katına çıkar"
+        ],
+        "correct": 3,
+        "explanation": "Kesit alanı yarıçapın karesiyle değişir. Alan dörtte bire inince hız dört kat olur.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Diğer Reynolds değişkenleri sabitken hangi değişiklik türbülansı kolaylaştırır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-02obtqj",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Diğer Reynolds değişkenleri sabitken hangi değişiklik türbülansı kolaylaştırır?",
+        "options": [
+          "Kan viskozitesinin azalması",
+          "Akım hızının azalması",
+          "Yoğunluğun azalması",
+          "Tüp çapının azalması"
+        ],
+        "correct": 0,
+        "explanation": "Diğer Reynolds değişkenleri sabitken viskozitenin azalması Reynolds sayısını ve türbülans eğilimini artırır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Darlıkta hız yükselirken lateral basıncın düşmesi hangi ilkeyle açıklanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-091q8g4",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Darlıkta hız yükselirken lateral basıncın düşmesi hangi ilkeyle açıklanır?",
+        "options": [
+          "Laplace yasası",
+          "Bernoulli ilkesi",
+          "Dalton yasası",
+          "Starling filtrasyonu"
+        ],
+        "correct": 1,
+        "explanation": "Bernoulli, akımdaki kinetik enerji ile basınç enerjisi arasındaki ilişkiyi açıklar.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Poiseuille varsayımlarında viskozitenin iki katına çıkması direnci iki kat artırır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-1pz50fg",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Poiseuille varsayımlarında viskozitenin iki katına çıkması direnci iki kat artırır.",
+        "isTrue": true,
+        "explanation": "Direnç viskoziteyle doğru orantılıdır; diğer değişkenler sabit tutulmalıdır.",
+        "source": "Klabunde: CV Physiology"
+      }
+    },
+    {
+      "title": "Düşük akımda kanın viskozitesi azalır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER141-17rqjum",
+        "course": "PER141",
+        "topic": "Akışkan dinamiği ve hemodinami",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Düşük akımda kanın viskozitesi azalır.",
+        "isTrue": false,
+        "explanation": "Düşük akımda eritrositlerin rulo oluşturması kanın viskozitesini artırabilir.",
+        "source": "Klabunde: CV Physiology"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER141",
+  "cards": [
+    {
+      "id": "PER141-0b1hca3",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Akışkan dinamiği",
+      "definition": "Akışkanların hareketini ve basınç–akım–direnç ilişkisini inceleyen fizik dalı.",
+      "en": "Fluid dynamics",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1mw2tcd",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Laminer akım",
+      "definition": "Paralel katmanlar hâlinde, parabolik hız profilli düzenli akım.",
+      "en": "Laminar flow",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-08cbydw",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Türbülan akım",
+      "definition": "Katmanların bozulduğu kaotik akım; enerji kaybı fazladır.",
+      "en": "Turbulent flow",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1uu9511",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Reynolds sayısı",
+      "definition": "Re = ρVD/η; laminerden türbülansa geçişi öngören boyutsuz sayı.",
+      "en": "Reynolds number",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1ytrx5e",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 3,
+      "term": "Poiseuille yasası",
+      "definition": "Laminer akımda akımın r⁴ ve basınç farkıyla doğru, viskozite ve uzunlukla ters orantılı olması.",
+      "en": "Poiseuille's law",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0yikm6t",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Viskozite",
+      "definition": "Akışkan katmanları arasındaki iç sürtünme; kanda hematokrit artışı ve soğumayla artar.",
+      "en": "Viscosity",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1fl10ju",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Newtonyen olmayan sıvı",
+      "definition": "Viskozitesi akım hızına göre değişen sıvı (kan: düşük akımda viskozite artar).",
+      "en": "Non-Newtonian fluid",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-12x40n8",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Bernoulli ilkesi",
+      "definition": "Akışta kinetik + basınç enerjisinin korunması; hız artınca lateral basınç düşer (Venturi).",
+      "en": "Bernoulli principle",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0pcahll",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "term",
+      "importance": 2,
+      "term": "Laplace yasası",
+      "definition": "Duvar gerilimi ∝ basınç × yarıçap; dilate ventrikülde gerilim ve O₂ ihtiyacı artar.",
+      "en": "Law of Laplace",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0lf2efz",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "compare",
+      "importance": 2,
+      "title": "Akım düzeni",
+      "left": {
+        "title": "Laminer akım",
+        "points": [
+          "Paralel katmanlar; düzenli hız profili",
+          "Enerji kaybı daha az"
+        ]
+      },
+      "right": {
+        "title": "Türbülan akım",
+        "points": [
+          "Düzensiz, kaotik hareket",
+          "Aynı akım için daha fazla basınç gerekir"
+        ]
+      },
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-14vuanh",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "compare",
+      "importance": 2,
+      "title": "Akımın fiziksel açıklaması",
+      "left": {
+        "title": "Poiseuille",
+        "points": [
+          "Direnci çap, uzunluk ve viskoziteyle ilişkilendirir",
+          "Uzun düz tüpte laminer akım varsayar"
+        ]
+      },
+      "right": {
+        "title": "Bernoulli",
+        "points": [
+          "Kinetik enerji ile basınç enerjisini ilişkilendirir",
+          "Darlıkta hız artışı ve lateral basınç düşüşünü açıklar"
+        ]
+      },
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-09khspf",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "fact",
+      "importance": 3,
+      "title": "Sürücü basınç",
+      "body": "Temel ilişki **akım = basınç farkı / direnç** biçimindedir. Basınç farkı sabitken direnç artışı akımı azaltır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1haonw4",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "fact",
+      "importance": 3,
+      "title": "Çapın büyük etkisi",
+      "body": "Poiseuille varsayımları altında tüp çapı iki katına çıkarsa direnç **16 kat azalır**. Uzunluk ve viskozitenin etkisi doğrusal, çapın etkisi dördüncü kuvvettendir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0dh3frd",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "fact",
+      "importance": 2,
+      "title": "Kan için model sınırlaması",
+      "body": "Poiseuille eşitliği uzun ve düz tüp, Newtonyen sıvı ve sabit laminer akım varsayar. **Kan Newtonyen olmayan** bir sıvı olduğundan gerçek devre tam olarak bu modeli izlemez.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1yig2ce",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "fact",
+      "importance": 2,
+      "title": "Süreklilik ilişkisi",
+      "body": "**Akım = ortalama hız × kesit alanı**. Aynı akım daha dar kesitten geçtiğinde hız yükselir; kanül ucundaki jet bu ilişkiyle anlaşılır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-131o8rq",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "fact",
+      "importance": 2,
+      "title": "Hipotermi ve viskozite",
+      "body": "Soğuma kanın viskozitesini artırır. Hemodilüsyon viskoziteyi düşürerek hipotermide akışın sürdürülmesine katkı sağlar.",
+      "source": "Basics of CPB 2017"
+    },
+    {
+      "id": "PER141-0mzy2ej",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "flip",
+      "importance": 2,
+      "question": "Poiseuille modelinde Newtonyen sıvının düz, dairesel tüpte tam gelişmiş laminer akım hız profili nasıldır?",
+      "answer": "Hız tüpün merkezinde en yüksek, duvarında sıfırdır; profil **paraboliktir**.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-013iny8",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "flip",
+      "importance": 2,
+      "question": "Reynolds sayısında hangi değişkenler yer alır?",
+      "answer": "Yoğunluk, ortalama hız, çap ve viskozite: **Re = ρ × V × D / η**.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0xq7bt0",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "flip",
+      "importance": 2,
+      "question": "Laplace ilişkisine göre ventrikül duvar stresi kalınlıkla nasıl değişir?",
+      "answer": "Aynı basınç ve yarıçapta duvar kalınlığı arttıkça duvar stresi azalır; ilişki **σ ∝ P × r / h** biçimindedir.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1p0j9iv",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "remember",
+      "importance": 3,
+      "title": "Akım ile hız aynı büyüklük değildir",
+      "body": "Akım birim zamanda taşınan hacimdir; hız, kanın ilerleme süratidir. **Kesit daralınca hız artabilir**, aynı akımın korunması bu artışa bağlıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1kc69q3",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diğer koşullar aynıyken tüp uzunluğunun iki katına çıkması dirençte ne yapar?",
+      "options": [
+        "İki kat azalış",
+        "Dört kat azalış",
+        "İki kat artış",
+        "On altı kat artış"
+      ],
+      "correct": 2,
+      "explanation": "Poiseuille ilişkisinde direnç uzunlukla doğru orantılıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-0b3dbn6",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Sabit akımda tüp yarıçapı yarıya inerse ortalama hız nasıl değişir?",
+      "options": [
+        "Yarıya iner",
+        "İki katına çıkar",
+        "On altı katına çıkar",
+        "Dört katına çıkar"
+      ],
+      "correct": 3,
+      "explanation": "Kesit alanı yarıçapın karesiyle değişir. Alan dörtte bire inince hız dört kat olur.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-02obtqj",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Diğer Reynolds değişkenleri sabitken hangi değişiklik türbülansı kolaylaştırır?",
+      "options": [
+        "Kan viskozitesinin azalması",
+        "Akım hızının azalması",
+        "Yoğunluğun azalması",
+        "Tüp çapının azalması"
+      ],
+      "correct": 0,
+      "explanation": "Diğer Reynolds değişkenleri sabitken viskozitenin azalması Reynolds sayısını ve türbülans eğilimini artırır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-091q8g4",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Darlıkta hız yükselirken lateral basıncın düşmesi hangi ilkeyle açıklanır?",
+      "options": [
+        "Laplace yasası",
+        "Bernoulli ilkesi",
+        "Dalton yasası",
+        "Starling filtrasyonu"
+      ],
+      "correct": 1,
+      "explanation": "Bernoulli, akımdaki kinetik enerji ile basınç enerjisi arasındaki ilişkiyi açıklar.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-1pz50fg",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Poiseuille varsayımlarında viskozitenin iki katına çıkması direnci iki kat artırır.",
+      "isTrue": true,
+      "explanation": "Direnç viskoziteyle doğru orantılıdır; diğer değişkenler sabit tutulmalıdır.",
+      "source": "Klabunde: CV Physiology"
+    },
+    {
+      "id": "PER141-17rqjum",
+      "course": "PER141",
+      "topic": "Akışkan dinamiği ve hemodinami",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Düşük akımda kanın viskozitesi azalır.",
+      "isTrue": false,
+      "explanation": "Düşük akımda eritrositlerin rulo oluşturması kanın viskozitesini artırabilir.",
+      "source": "Klabunde: CV Physiology"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER141"
+}

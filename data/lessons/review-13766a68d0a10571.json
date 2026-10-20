@@ -1,0 +1,1045 @@
+{
+  "id": "review-13766a68d0a10571",
+  "title": "Kardiyovasküler embriyoloji",
+  "category": "Anatomi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER241",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Kardiyojenik alan",
+      "text": "Cardiogenic area\nKalbin gelişiminin başladığı mezoderm bölgesi.\nYun. kardia + genes = oluşturan",
+      "images": [],
+      "card": {
+        "id": "PER241-0mb46pn",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Kardiyojenik alan",
+        "en": "Cardiogenic area",
+        "definition": "Kalbin gelişiminin başladığı mezoderm bölgesi.",
+        "origin": "Yun. kardia + genes = oluşturan"
+      }
+    },
+    {
+      "title": "Primitif kalp tüpü",
+      "text": "Primitive heart tube\nEmbriyoda endokardiyal tüplerin birleşmesiyle oluşan, daha sonra kalp odacıklarına ve çıkış yollarına farklılaşan yapı.",
+      "images": [],
+      "card": {
+        "id": "PER241-1esmfsv",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Primitif kalp tüpü",
+        "en": "Primitive heart tube",
+        "definition": "Embriyoda endokardiyal tüplerin birleşmesiyle oluşan, daha sonra kalp odacıklarına ve çıkış yollarına farklılaşan yapı."
+      }
+    },
+    {
+      "title": "Sinüs venozus",
+      "text": "Sinus venosus\nKalp tüpünün kaudal ucu; sağ atriyum düz duvarı, SA düğüm ve koroner sinüse dönüşür.\nLat. sinus + vena",
+      "images": [],
+      "card": {
+        "id": "PER241-02c5ymo",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Sinüs venozus",
+        "en": "Sinus venosus",
+        "definition": "Kalp tüpünün kaudal ucu; sağ atriyum düz duvarı, SA düğüm ve koroner sinüse dönüşür.",
+        "origin": "Lat. sinus + vena"
+      }
+    },
+    {
+      "title": "Bulbus kordis",
+      "text": "Bulbus cordis\nPrimitif ventrikülün kranialindeki segment; sağ ventrikül ve çıkış yollarını (konus) oluşturur.\nLat. bulbus = soğan, cor = kalp",
+      "images": [],
+      "card": {
+        "id": "PER241-1p6tgqm",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 1,
+        "source": "OpenStax A&P 2e",
+        "term": "Bulbus kordis",
+        "en": "Bulbus cordis",
+        "definition": "Primitif ventrikülün kranialindeki segment; sağ ventrikül ve çıkış yollarını (konus) oluşturur.",
+        "origin": "Lat. bulbus = soğan, cor = kalp"
+      }
+    },
+    {
+      "title": "Embriyonik trunkus arteriyozus",
+      "text": "Truncus arteriosus\nKalp tüpünün kranial ucu; aort ve pulmoner trunkusa ayrılır.\nLat. truncus = gövde",
+      "images": [],
+      "card": {
+        "id": "PER241-0kdx4of",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Embriyonik trunkus arteriyozus",
+        "en": "Truncus arteriosus",
+        "definition": "Kalp tüpünün kranial ucu; aort ve pulmoner trunkusa ayrılır.",
+        "origin": "Lat. truncus = gövde"
+      }
+    },
+    {
+      "title": "Kardiyak kıvrılma",
+      "text": "Cardiac looping\nPrimitif kalp tüpünün sağa kıvrılıp odacıkların yerleşimine katkıda bulunduğu gelişim süreci.",
+      "images": [],
+      "card": {
+        "id": "PER241-1krhuyo",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "term": "Kardiyak kıvrılma",
+        "en": "Cardiac looping",
+        "definition": "Primitif kalp tüpünün sağa kıvrılıp odacıkların yerleşimine katkıda bulunduğu gelişim süreci."
+      }
+    },
+    {
+      "title": "Endokardiyal yastıklar",
+      "text": "Endocardial cushions\natriyoventriküler kanalı bölen ve membranöz septuma katılan dokular; gelişim bozukluğu AVSD'dir.",
+      "images": [],
+      "card": {
+        "id": "PER241-01o31su",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "Endokardiyal yastıklar",
+        "en": "Endocardial cushions",
+        "definition": "atriyoventriküler kanalı bölen ve membranöz septuma katılan dokular; gelişim bozukluğu AVSD'dir."
+      }
+    },
+    {
+      "title": "Septum primum",
+      "text": "Septum primum\nAtriyum tavanından yastıklara uzanan ilk ince septum; doğumdan sonra foramen ovalenin kapakçığı olur.\nLat. primus = birinci",
+      "images": [],
+      "card": {
+        "id": "PER241-1wqkapr",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "Septum primum",
+        "en": "Septum primum",
+        "definition": "Atriyum tavanından yastıklara uzanan ilk ince septum; doğumdan sonra foramen ovalenin kapakçığı olur.",
+        "origin": "Lat. primus = birinci"
+      }
+    },
+    {
+      "title": "Ostium primum",
+      "text": "Ostium primum\nSeptum primum ile endokardiyal yastıklar arasındaki ilk açıklık.\nLat. ostium = ağız, giriş",
+      "images": [],
+      "card": {
+        "id": "PER241-0adp07c",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 1,
+        "source": "Kenhub embriyoloji",
+        "term": "Ostium primum",
+        "en": "Ostium primum",
+        "definition": "Septum primum ile endokardiyal yastıklar arasındaki ilk açıklık.",
+        "origin": "Lat. ostium = ağız, giriş"
+      }
+    },
+    {
+      "title": "Ostium sekundum",
+      "text": "Ostium secundum\nSeptum primumun ortasında apoptozla açılan ikinci açıklık.\nLat. secundus = ikinci",
+      "images": [],
+      "card": {
+        "id": "PER241-1nd6bs2",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "Ostium sekundum",
+        "en": "Ostium secundum",
+        "definition": "Septum primumun ortasında apoptozla açılan ikinci açıklık.",
+        "origin": "Lat. secundus = ikinci"
+      }
+    },
+    {
+      "title": "Septum sekundum",
+      "text": "Septum secundum\nSeptum primumun sağında gelişen kaslı septum; foramen sekundumu örter.",
+      "images": [],
+      "card": {
+        "id": "PER241-1vkri9l",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "Septum sekundum",
+        "en": "Septum secundum",
+        "definition": "Septum primumun sağında gelişen kaslı septum; foramen sekundumu örter."
+      }
+    },
+    {
+      "title": "Foramen ovale",
+      "text": "Foramen ovale\nSeptum primum ve sekundum arasında, fetusta sağdan sola akıma izin veren eğik geçit.\nLat. foramen = delik",
+      "images": [],
+      "card": {
+        "id": "PER241-1cxr8m6",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 3,
+        "source": "Kenhub embriyoloji",
+        "term": "Foramen ovale",
+        "en": "Foramen ovale",
+        "definition": "Septum primum ve sekundum arasında, fetusta sağdan sola akıma izin veren eğik geçit.",
+        "origin": "Lat. foramen = delik"
+      }
+    },
+    {
+      "title": "Aortikopulmoner septum",
+      "text": "Aorticopulmonary septum\nEmbriyonik çıkış yolunu aort ve pulmoner trunkusa ayıran, spiral seyirli septum.",
+      "images": [],
+      "card": {
+        "id": "PER241-1aaf3c4",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "Aortikopulmoner septum",
+        "en": "Aorticopulmonary septum",
+        "definition": "Embriyonik çıkış yolunu aort ve pulmoner trunkusa ayıran, spiral seyirli septum."
+      }
+    },
+    {
+      "title": "Nöral krista",
+      "text": "Neural crest\nÇıkış yolu septasyonuna katılan embriyonik hücre topluluğu; bozukluğu konotrunkal anomalilerle (22q11) ilişkili.",
+      "images": [],
+      "card": {
+        "id": "PER241-1z0i0su",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 1,
+        "source": "Kenhub embriyoloji",
+        "term": "Nöral krista",
+        "en": "Neural crest",
+        "definition": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu; bozukluğu konotrunkal anomalilerle (22q11) ilişkili."
+      }
+    },
+    {
+      "title": "Faringeal ark arterleri",
+      "text": "Pharyngeal arch arteries\nEmbriyonik dönemde gelişen ve karotisler, aortik ark, pulmoner arterler ile duktusun oluşumuna katılan damarlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-0rortt0",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "term",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "term": "Faringeal ark arterleri",
+        "en": "Pharyngeal arch arteries",
+        "definition": "Embriyonik dönemde gelişen ve karotisler, aortik ark, pulmoner arterler ile duktusun oluşumuna katılan damarlar."
+      }
+    },
+    {
+      "title": "Atriyal septaların gelişimi",
+      "text": "Septum primum\nİlk gelişen, ince septum\nForamen ovalenin kapakçığını oluşturur\n\nSeptum sekundum\nDaha sonra gelişen, kaslı septum\nForamen sekundumu örter",
+      "images": [],
+      "card": {
+        "id": "PER241-1eahzra",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "compare",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "title": "Atriyal septaların gelişimi",
+        "left": {
+          "title": "Septum primum",
+          "points": [
+            "İlk gelişen, ince septum",
+            "Foramen ovalenin kapakçığını oluşturur"
+          ]
+        },
+        "right": {
+          "title": "Septum sekundum",
+          "points": [
+            "Daha sonra gelişen, kaslı septum",
+            "Foramen sekundumu örter"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Kalp tüpünün çıkış segmentleri",
+      "text": "Bulbus kordis\nPrimitif ventrikülün kranialindedir\nSağ ventrikül ve çıkış yollarına katılır\n\nEmbriyonik trunkus\nKalp tüpünün kranial ucundadır\nAort ve pulmoner trunkusa ayrılır",
+      "images": [],
+      "card": {
+        "id": "PER241-11xz33s",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "compare",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Kalp tüpünün çıkış segmentleri",
+        "left": {
+          "title": "Bulbus kordis",
+          "points": [
+            "Primitif ventrikülün kranialindedir",
+            "Sağ ventrikül ve çıkış yollarına katılır"
+          ]
+        },
+        "right": {
+          "title": "Embriyonik trunkus",
+          "points": [
+            "Kalp tüpünün kranial ucundadır",
+            "Aort ve pulmoner trunkusa ayrılır"
+          ]
+        }
+      }
+    },
+    {
+      "title": "Kalbin embriyolojik kökeni",
+      "text": "Kalbin gelişimi **mezodermdeki kardiyojenik alanda** başlar.",
+      "images": [],
+      "card": {
+        "id": "PER241-0eiwfum",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "fact",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "title": "Kalbin embriyolojik kökeni",
+        "body": "Kalbin gelişimi **mezodermdeki kardiyojenik alanda** başlar."
+      }
+    },
+    {
+      "title": "Primitif tüpte kan hangi yönde akar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1boeg6m",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "flip",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Primitif tüpte kan hangi yönde akar?",
+        "answer": "**Sinüs venozustan trunkus arteriyozusa**, yani kaudal uçtan kranial uca doğru akar."
+      }
+    },
+    {
+      "title": "Kalp tüpünün segment sırası",
+      "text": "Kranialden kaudale: trunkus arteriyozus, bulbus kordis, **primitif ventrikül**, primitif atriyum ve sinüs venozus.",
+      "images": [],
+      "card": {
+        "id": "PER241-06uhgzg",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "remember",
+        "importance": 3,
+        "source": "OpenStax A&P 2e",
+        "title": "Kalp tüpünün segment sırası",
+        "body": "Kranialden kaudale: trunkus arteriyozus, bulbus kordis, **primitif ventrikül**, primitif atriyum ve sinüs venozus."
+      }
+    },
+    {
+      "title": "Primitif ventrikül hangi ventrikülün gelişimine katılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0e0xhdq",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "flip",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Primitif ventrikül hangi ventrikülün gelişimine katılır?",
+        "answer": "**Primitif ventrikül**, sol ventrikülün gelişimine katılır."
+      }
+    },
+    {
+      "title": "Atriyumun trabeküllü bölümleri",
+      "text": "Primitif atriyum, atriyumların **ön ve trabeküllü bölümleri ile aurikulaları** oluşturur.",
+      "images": [],
+      "card": {
+        "id": "PER241-0u7397v",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "fact",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "title": "Atriyumun trabeküllü bölümleri",
+        "body": "Primitif atriyum, atriyumların **ön ve trabeküllü bölümleri ile aurikulaları** oluşturur."
+      }
+    },
+    {
+      "title": "Sinüs venozusun sol boynuzu neye dönüşür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-13vhsz7",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "flip",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Sinüs venozusun sol boynuzu neye dönüşür?",
+        "answer": "**Koroner sinüse** dönüşür; sağ boynuz sağ atriyumun düz duvarına katılır."
+      }
+    },
+    {
+      "title": "Ostium sekundum embriyolojik olarak nasıl oluşur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0vcpygr",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "flip",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Ostium sekundum embriyolojik olarak nasıl oluşur?",
+        "answer": "Septum primum içinde **apoptozla oluşan açıklıkların birleşmesi**, ostium sekundumu meydana getirir."
+      }
+    },
+    {
+      "title": "Membranöz septumun oluşumu",
+      "text": "**Endokardiyal yastıklarla bulbar sırtların kaynaşması** membranöz ventriküler septumun oluşumuna katılır.",
+      "images": [],
+      "card": {
+        "id": "PER241-1j9jy6r",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "fact",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "title": "Membranöz septumun oluşumu",
+        "body": "**Endokardiyal yastıklarla bulbar sırtların kaynaşması** membranöz ventriküler septumun oluşumuna katılır."
+      }
+    },
+    {
+      "title": "TAPVR'nin embriyolojik bağlantısı",
+      "text": "Pulmoner venlerin **sol atriyuma bağlanamaması**, pulmoner venöz dönüşün sistemik venöz bağlantılara yönelmesiyle sonuçlanabilir.",
+      "images": [],
+      "card": {
+        "id": "PER241-0lrjg43",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "fact",
+        "importance": 2,
+        "source": "Merck Manual",
+        "title": "TAPVR'nin embriyolojik bağlantısı",
+        "body": "Pulmoner venlerin **sol atriyuma bağlanamaması**, pulmoner venöz dönüşün sistemik venöz bağlantılara yönelmesiyle sonuçlanabilir."
+      }
+    },
+    {
+      "title": "Kalbin ilk atımı",
+      "text": "OpenStax'a göre kalp, döllenmeden sonra **21–22. günde** atmaya başlar; gelişim zamanını kaynakla birlikte öğren.",
+      "images": [],
+      "card": {
+        "id": "PER241-0pf0gxr",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "fact",
+        "importance": 1,
+        "source": "OpenStax A&P 2e",
+        "title": "Kalbin ilk atımı",
+        "body": "OpenStax'a göre kalp, döllenmeden sonra **21–22. günde** atmaya başlar; gelişim zamanını kaynakla birlikte öğren."
+      }
+    },
+    {
+      "title": "Endokardiyal yastıkların gelişim bozukluğu en çok hangi lezyonla ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1gglllj",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Endokardiyal yastıkların gelişim bozukluğu en çok hangi lezyonla ilişkilidir?",
+        "options": [
+          "Aort koarktasyonu",
+          "Koroner arter fistülü",
+          "Pulmoner ven stenozu",
+          "Atriyoventriküler septal defekt"
+        ],
+        "correct": 3,
+        "explanation": "Endokardiyal yastıklar atriyoventriküler kanal septasyonuna katılır."
+      }
+    },
+    {
+      "title": "Ostium primum hangi iki yapı arasında bulunur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1b87fz1",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Ostium primum hangi iki yapı arasında bulunur?",
+        "options": [
+          "Septum primum ve endokardiyal yastıklar",
+          "Septum sekundum ve aort kökü",
+          "Bulbus kordis ve pulmoner kapak",
+          "Koroner sinüs ve aortik ark"
+        ],
+        "correct": 0,
+        "explanation": "İlk atriyal açıklık, büyüyen septum primumun alt kenarıyla yastıklar arasındadır."
+      }
+    },
+    {
+      "title": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-13c6f2z",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu hangisidir?",
+        "options": [
+          "Somit miyotomu",
+          "Nöral krista",
+          "Nefrojenik kord",
+          "Endodermal pankreas tomurcuğu"
+        ],
+        "correct": 1,
+        "explanation": "Nöral krista hücreleri konotrunkal septasyonla ilişkilidir."
+      }
+    },
+    {
+      "title": "Embriyonik aortikopulmoner septumun normal seyri nasıldır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0xu8wr1",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "question": "Embriyonik aortikopulmoner septumun normal seyri nasıldır?",
+        "options": [
+          "Düz paralel seyirlidir",
+          "Atriyum tavanına yönelir",
+          "Spiral seyirlidir",
+          "İnteratriyal septumla sınırlıdır"
+        ],
+        "correct": 2,
+        "explanation": "Spiral septum embriyonik çıkış yolunu aort ve pulmoner trunkusa ayırır."
+      }
+    },
+    {
+      "title": "Kalp tüpünün en kaudal segmenti hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0hy6pz4",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "mcq",
+        "importance": 2,
+        "source": "OpenStax A&P 2e",
+        "question": "Kalp tüpünün en kaudal segmenti hangisidir?",
+        "options": [
+          "Trunkus arteriyozus",
+          "Bulbus kordis",
+          "Primitif ventrikül",
+          "Sinüs venozus"
+        ],
+        "correct": 3,
+        "explanation": "Sinüs venozus kalp tüpünün kaudal giriş segmentidir."
+      }
+    },
+    {
+      "title": "Septum primum doğumdan sonra foramen ovalenin kapakçığı işlevini görür.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-0oaq5ht",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "tf",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "statement": "Septum primum doğumdan sonra foramen ovalenin kapakçığı işlevini görür.",
+        "isTrue": true,
+        "explanation": "İlk ince septum, foramen ovale kapakçığının anatomik temelidir."
+      }
+    },
+    {
+      "title": "Sağ atriyumun düz bölümüne sinüs venozusun sol boynuzu katılır.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER241-1adc292",
+        "course": "PER241",
+        "topic": "Kardiyovasküler embriyoloji",
+        "type": "tf",
+        "importance": 2,
+        "source": "Kenhub embriyoloji",
+        "statement": "Sağ atriyumun düz bölümüne sinüs venozusun sol boynuzu katılır.",
+        "isTrue": false,
+        "explanation": "Sağ boynuz sağ atriyuma katılır; sol boynuz koroner sinüse dönüşür."
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER241",
+  "cards": [
+    {
+      "id": "PER241-0mb46pn",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Kardiyojenik alan",
+      "en": "Cardiogenic area",
+      "definition": "Kalbin gelişiminin başladığı mezoderm bölgesi.",
+      "origin": "Yun. kardia + genes = oluşturan"
+    },
+    {
+      "id": "PER241-1esmfsv",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Primitif kalp tüpü",
+      "en": "Primitive heart tube",
+      "definition": "Embriyoda endokardiyal tüplerin birleşmesiyle oluşan, daha sonra kalp odacıklarına ve çıkış yollarına farklılaşan yapı."
+    },
+    {
+      "id": "PER241-02c5ymo",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Sinüs venozus",
+      "en": "Sinus venosus",
+      "definition": "Kalp tüpünün kaudal ucu; sağ atriyum düz duvarı, SA düğüm ve koroner sinüse dönüşür.",
+      "origin": "Lat. sinus + vena"
+    },
+    {
+      "id": "PER241-1p6tgqm",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "term": "Bulbus kordis",
+      "en": "Bulbus cordis",
+      "definition": "Primitif ventrikülün kranialindeki segment; sağ ventrikül ve çıkış yollarını (konus) oluşturur.",
+      "origin": "Lat. bulbus = soğan, cor = kalp"
+    },
+    {
+      "id": "PER241-0kdx4of",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Embriyonik trunkus arteriyozus",
+      "en": "Truncus arteriosus",
+      "definition": "Kalp tüpünün kranial ucu; aort ve pulmoner trunkusa ayrılır.",
+      "origin": "Lat. truncus = gövde"
+    },
+    {
+      "id": "PER241-1krhuyo",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "term": "Kardiyak kıvrılma",
+      "en": "Cardiac looping",
+      "definition": "Primitif kalp tüpünün sağa kıvrılıp odacıkların yerleşimine katkıda bulunduğu gelişim süreci."
+    },
+    {
+      "id": "PER241-01o31su",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Endokardiyal yastıklar",
+      "en": "Endocardial cushions",
+      "definition": "atriyoventriküler kanalı bölen ve membranöz septuma katılan dokular; gelişim bozukluğu AVSD'dir."
+    },
+    {
+      "id": "PER241-1wqkapr",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Septum primum",
+      "en": "Septum primum",
+      "definition": "Atriyum tavanından yastıklara uzanan ilk ince septum; doğumdan sonra foramen ovalenin kapakçığı olur.",
+      "origin": "Lat. primus = birinci"
+    },
+    {
+      "id": "PER241-0adp07c",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 1,
+      "source": "Kenhub embriyoloji",
+      "term": "Ostium primum",
+      "en": "Ostium primum",
+      "definition": "Septum primum ile endokardiyal yastıklar arasındaki ilk açıklık.",
+      "origin": "Lat. ostium = ağız, giriş"
+    },
+    {
+      "id": "PER241-1nd6bs2",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Ostium sekundum",
+      "en": "Ostium secundum",
+      "definition": "Septum primumun ortasında apoptozla açılan ikinci açıklık.",
+      "origin": "Lat. secundus = ikinci"
+    },
+    {
+      "id": "PER241-1vkri9l",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Septum sekundum",
+      "en": "Septum secundum",
+      "definition": "Septum primumun sağında gelişen kaslı septum; foramen sekundumu örter."
+    },
+    {
+      "id": "PER241-1cxr8m6",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 3,
+      "source": "Kenhub embriyoloji",
+      "term": "Foramen ovale",
+      "en": "Foramen ovale",
+      "definition": "Septum primum ve sekundum arasında, fetusta sağdan sola akıma izin veren eğik geçit.",
+      "origin": "Lat. foramen = delik"
+    },
+    {
+      "id": "PER241-1aaf3c4",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Aortikopulmoner septum",
+      "en": "Aorticopulmonary septum",
+      "definition": "Embriyonik çıkış yolunu aort ve pulmoner trunkusa ayıran, spiral seyirli septum."
+    },
+    {
+      "id": "PER241-1z0i0su",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 1,
+      "source": "Kenhub embriyoloji",
+      "term": "Nöral krista",
+      "en": "Neural crest",
+      "definition": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu; bozukluğu konotrunkal anomalilerle (22q11) ilişkili."
+    },
+    {
+      "id": "PER241-0rortt0",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "term",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "term": "Faringeal ark arterleri",
+      "en": "Pharyngeal arch arteries",
+      "definition": "Embriyonik dönemde gelişen ve karotisler, aortik ark, pulmoner arterler ile duktusun oluşumuna katılan damarlar."
+    },
+    {
+      "id": "PER241-1eahzra",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "compare",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "title": "Atriyal septaların gelişimi",
+      "left": {
+        "title": "Septum primum",
+        "points": [
+          "İlk gelişen, ince septum",
+          "Foramen ovalenin kapakçığını oluşturur"
+        ]
+      },
+      "right": {
+        "title": "Septum sekundum",
+        "points": [
+          "Daha sonra gelişen, kaslı septum",
+          "Foramen sekundumu örter"
+        ]
+      }
+    },
+    {
+      "id": "PER241-11xz33s",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "compare",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalp tüpünün çıkış segmentleri",
+      "left": {
+        "title": "Bulbus kordis",
+        "points": [
+          "Primitif ventrikülün kranialindedir",
+          "Sağ ventrikül ve çıkış yollarına katılır"
+        ]
+      },
+      "right": {
+        "title": "Embriyonik trunkus",
+        "points": [
+          "Kalp tüpünün kranial ucundadır",
+          "Aort ve pulmoner trunkusa ayrılır"
+        ]
+      }
+    },
+    {
+      "id": "PER241-0eiwfum",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "fact",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalbin embriyolojik kökeni",
+      "body": "Kalbin gelişimi **mezodermdeki kardiyojenik alanda** başlar."
+    },
+    {
+      "id": "PER241-1boeg6m",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "flip",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Primitif tüpte kan hangi yönde akar?",
+      "answer": "**Sinüs venozustan trunkus arteriyozusa**, yani kaudal uçtan kranial uca doğru akar."
+    },
+    {
+      "id": "PER241-06uhgzg",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "remember",
+      "importance": 3,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalp tüpünün segment sırası",
+      "body": "Kranialden kaudale: trunkus arteriyozus, bulbus kordis, **primitif ventrikül**, primitif atriyum ve sinüs venozus."
+    },
+    {
+      "id": "PER241-0e0xhdq",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Primitif ventrikül hangi ventrikülün gelişimine katılır?",
+      "answer": "**Primitif ventrikül**, sol ventrikülün gelişimine katılır."
+    },
+    {
+      "id": "PER241-0u7397v",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "fact",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "title": "Atriyumun trabeküllü bölümleri",
+      "body": "Primitif atriyum, atriyumların **ön ve trabeküllü bölümleri ile aurikulaları** oluşturur."
+    },
+    {
+      "id": "PER241-13vhsz7",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Sinüs venozusun sol boynuzu neye dönüşür?",
+      "answer": "**Koroner sinüse** dönüşür; sağ boynuz sağ atriyumun düz duvarına katılır."
+    },
+    {
+      "id": "PER241-0vcpygr",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "flip",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Ostium sekundum embriyolojik olarak nasıl oluşur?",
+      "answer": "Septum primum içinde **apoptozla oluşan açıklıkların birleşmesi**, ostium sekundumu meydana getirir."
+    },
+    {
+      "id": "PER241-1j9jy6r",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "fact",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "title": "Membranöz septumun oluşumu",
+      "body": "**Endokardiyal yastıklarla bulbar sırtların kaynaşması** membranöz ventriküler septumun oluşumuna katılır."
+    },
+    {
+      "id": "PER241-0lrjg43",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "fact",
+      "importance": 2,
+      "source": "Merck Manual",
+      "title": "TAPVR'nin embriyolojik bağlantısı",
+      "body": "Pulmoner venlerin **sol atriyuma bağlanamaması**, pulmoner venöz dönüşün sistemik venöz bağlantılara yönelmesiyle sonuçlanabilir."
+    },
+    {
+      "id": "PER241-0pf0gxr",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "fact",
+      "importance": 1,
+      "source": "OpenStax A&P 2e",
+      "title": "Kalbin ilk atımı",
+      "body": "OpenStax'a göre kalp, döllenmeden sonra **21–22. günde** atmaya başlar; gelişim zamanını kaynakla birlikte öğren."
+    },
+    {
+      "id": "PER241-1gglllj",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Endokardiyal yastıkların gelişim bozukluğu en çok hangi lezyonla ilişkilidir?",
+      "options": [
+        "Aort koarktasyonu",
+        "Koroner arter fistülü",
+        "Pulmoner ven stenozu",
+        "Atriyoventriküler septal defekt"
+      ],
+      "correct": 3,
+      "explanation": "Endokardiyal yastıklar atriyoventriküler kanal septasyonuna katılır."
+    },
+    {
+      "id": "PER241-1b87fz1",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Ostium primum hangi iki yapı arasında bulunur?",
+      "options": [
+        "Septum primum ve endokardiyal yastıklar",
+        "Septum sekundum ve aort kökü",
+        "Bulbus kordis ve pulmoner kapak",
+        "Koroner sinüs ve aortik ark"
+      ],
+      "correct": 0,
+      "explanation": "İlk atriyal açıklık, büyüyen septum primumun alt kenarıyla yastıklar arasındadır."
+    },
+    {
+      "id": "PER241-13c6f2z",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Çıkış yolu septasyonuna katılan embriyonik hücre topluluğu hangisidir?",
+      "options": [
+        "Somit miyotomu",
+        "Nöral krista",
+        "Nefrojenik kord",
+        "Endodermal pankreas tomurcuğu"
+      ],
+      "correct": 1,
+      "explanation": "Nöral krista hücreleri konotrunkal septasyonla ilişkilidir."
+    },
+    {
+      "id": "PER241-0xu8wr1",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "question": "Embriyonik aortikopulmoner septumun normal seyri nasıldır?",
+      "options": [
+        "Düz paralel seyirlidir",
+        "Atriyum tavanına yönelir",
+        "Spiral seyirlidir",
+        "İnteratriyal septumla sınırlıdır"
+      ],
+      "correct": 2,
+      "explanation": "Spiral septum embriyonik çıkış yolunu aort ve pulmoner trunkusa ayırır."
+    },
+    {
+      "id": "PER241-0hy6pz4",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "mcq",
+      "importance": 2,
+      "source": "OpenStax A&P 2e",
+      "question": "Kalp tüpünün en kaudal segmenti hangisidir?",
+      "options": [
+        "Trunkus arteriyozus",
+        "Bulbus kordis",
+        "Primitif ventrikül",
+        "Sinüs venozus"
+      ],
+      "correct": 3,
+      "explanation": "Sinüs venozus kalp tüpünün kaudal giriş segmentidir."
+    },
+    {
+      "id": "PER241-0oaq5ht",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "tf",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "statement": "Septum primum doğumdan sonra foramen ovalenin kapakçığı işlevini görür.",
+      "isTrue": true,
+      "explanation": "İlk ince septum, foramen ovale kapakçığının anatomik temelidir."
+    },
+    {
+      "id": "PER241-1adc292",
+      "course": "PER241",
+      "topic": "Kardiyovasküler embriyoloji",
+      "type": "tf",
+      "importance": 2,
+      "source": "Kenhub embriyoloji",
+      "statement": "Sağ atriyumun düz bölümüne sinüs venozusun sol boynuzu katılır.",
+      "isTrue": false,
+      "explanation": "Sağ boynuz sağ atriyuma katılır; sol boynuz koroner sinüse dönüşür."
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER241"
+}

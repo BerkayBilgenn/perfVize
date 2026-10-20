@@ -1,0 +1,697 @@
+{
+  "id": "review-571762778a0e1704",
+  "title": "Premedikasyon, indüksiyon ve idame",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Premedikasyon",
+      "text": "Premedication\nAnestezi öncesi anksiyoliz, amnezi, analjezi, sekresyon azaltma ve aspirasyon profilaksisi için ilaç verilmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-02chx82",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 2,
+        "term": "Premedikasyon",
+        "en": "Premedication",
+        "definition": "Anestezi öncesi anksiyoliz, amnezi, analjezi, sekresyon azaltma ve aspirasyon profilaksisi için ilaç verilmesi.",
+        "source": "DailyMed: midazolam"
+      }
+    },
+    {
+      "title": "İndüksiyon",
+      "text": "Induction\nGenel kabul gören tanımıyla, anestezinin başlatılması ve bilincin kaybettirilmesi evresi.",
+      "images": [],
+      "card": {
+        "id": "PER243-1r2g3gf",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 1,
+        "term": "İndüksiyon",
+        "en": "Induction",
+        "definition": "Genel kabul gören tanımıyla, anestezinin başlatılması ve bilincin kaybettirilmesi evresi.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "İdame",
+      "text": "Maintenance\nGenel kabul gören tanımıyla, cerrahi boyunca anestezinin istenen derinlikte sürdürülmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0nkt1e1",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 1,
+        "term": "İdame",
+        "en": "Maintenance",
+        "definition": "Genel kabul gören tanımıyla, cerrahi boyunca anestezinin istenen derinlikte sürdürülmesi.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Derlenme",
+      "text": "Emergence / recovery\nGenel kabul gören tanımıyla, anestezik ajanlar kesildikten sonra bilincin ve koruyucu reflekslerin geri dönmesi.",
+      "images": [],
+      "card": {
+        "id": "PER243-0yugdf9",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 3,
+        "term": "Derlenme",
+        "en": "Emergence / recovery",
+        "definition": "Genel kabul gören tanımıyla, anestezik ajanlar kesildikten sonra bilincin ve koruyucu reflekslerin geri dönmesi.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Hızlı seri indüksiyon",
+      "text": "Rapid sequence induction\nHavayolu koruyucu reflekslerinin kaybıyla kaflı trakeal tüp yerleştirilmesi arasındaki süreyi kısaltarak aspirasyon riskini azaltmayı amaçlayan indüksiyon tekniği.",
+      "images": [],
+      "card": {
+        "id": "PER243-1yb6g9e",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 3,
+        "term": "Hızlı seri indüksiyon",
+        "en": "Rapid sequence induction",
+        "definition": "Havayolu koruyucu reflekslerinin kaybıyla kaflı trakeal tüp yerleştirilmesi arasındaki süreyi kısaltarak aspirasyon riskini azaltmayı amaçlayan indüksiyon tekniği.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "Preoksijenasyon",
+      "text": "Preoxygenation\nAnestezi indüksiyonundan önce oksijen solutularak akciğerdeki azotun oksijenle değiştirilmesi ve oksijen rezervinin artırılması.",
+      "images": [],
+      "card": {
+        "id": "PER243-06b7ezl",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 2,
+        "term": "Preoksijenasyon",
+        "en": "Preoxygenation",
+        "definition": "Anestezi indüksiyonundan önce oksijen solutularak akciğerdeki azotun oksijenle değiştirilmesi ve oksijen rezervinin artırılması.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "Kapnografi",
+      "text": "Capnography\nSoluk havasındaki karbondioksit'nin dalga formuyla sürekli ölçümü; tüp yerinin doğrulanmasında şarttır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1j3pxnt",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "term",
+        "importance": 3,
+        "term": "Kapnografi",
+        "en": "Capnography",
+        "definition": "Soluk havasındaki karbondioksit'nin dalga formuyla sürekli ölçümü; tüp yerinin doğrulanmasında şarttır.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "Sternotominin fizyolojik etkisi",
+      "text": "Sternotomi ve laringoskopi taşikardi ve hipertansiyon oluşturarak **miyokard oksijen tüketimini artırabilir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ujakl9",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 2,
+        "title": "Sternotominin fizyolojik etkisi",
+        "body": "Sternotomi ve laringoskopi taşikardi ve hipertansiyon oluşturarak **miyokard oksijen tüketimini artırabilir**.",
+        "source": "Front Surg 2022: OPCAB"
+      }
+    },
+    {
+      "title": "RSI gerektiren risk",
+      "text": "Hızlı seri indüksiyonun gerekçelerinden biri **aspirasyon riskidir**; aç olmayan acil hasta ve reflü gibi riskler değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0mk2fkp",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 2,
+        "title": "RSI gerektiren risk",
+        "body": "Hızlı seri indüksiyonun gerekçelerinden biri **aspirasyon riskidir**; aç olmayan acil hasta ve reflü gibi riskler değerlendirilir.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "Krikoid basının kanıtı",
+      "text": "Hızlı seri indüksiyonda krikoid basının etkinliği **tartışmalıdır**. Havayolunu zorlaştırırsa bırakılması gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1hnf712",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 2,
+        "title": "Krikoid basının kanıtı",
+        "body": "Hızlı seri indüksiyonda krikoid basının etkinliği **tartışmalıdır**. Havayolunu zorlaştırırsa bırakılması gerekir.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "Açlık: berrak sıvı",
+      "text": "ASA 2017'de sağlıklı elektif hastada berrak sıvılar için **2 saat** açlık önerilir. Aspirasyon riski olan hastada plan bireyselleştirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-004ohp8",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 3,
+        "title": "Açlık: berrak sıvı",
+        "body": "ASA 2017'de sağlıklı elektif hastada berrak sıvılar için **2 saat** açlık önerilir. Aspirasyon riski olan hastada plan bireyselleştirilir.",
+        "source": "ASA 2017: preoperatif açlık"
+      }
+    },
+    {
+      "title": "Açlık: anne sütü",
+      "text": "ASA 2017'de sağlıklı elektif bebekte anne sütü için **4 saat** açlık önerilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-02irfc9",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 3,
+        "title": "Açlık: anne sütü",
+        "body": "ASA 2017'de sağlıklı elektif bebekte anne sütü için **4 saat** açlık önerilir.",
+        "source": "ASA 2017: preoperatif açlık"
+      }
+    },
+    {
+      "title": "Açlık: hafif öğün",
+      "text": "ASA 2017'de sağlıklı elektif hastada hafif yemek, mama ve insan dışı süt için **6 saat** açlık önerilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1r1je8r",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 3,
+        "title": "Açlık: hafif öğün",
+        "body": "ASA 2017'de sağlıklı elektif hastada hafif yemek, mama ve insan dışı süt için **6 saat** açlık önerilir.",
+        "source": "ASA 2017: preoperatif açlık"
+      }
+    },
+    {
+      "title": "Açlık: yağlı yemek",
+      "text": "ASA 2017'de yağlı/kızartılmış yemek ve et için **en az 8 saat** gerekebilir; yenilen miktar ve içerik de değerlendirilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0undffg",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "fact",
+        "importance": 3,
+        "title": "Açlık: yağlı yemek",
+        "body": "ASA 2017'de yağlı/kızartılmış yemek ve et için **en az 8 saat** gerekebilir; yenilen miktar ve içerik de değerlendirilir.",
+        "source": "ASA 2017: preoperatif açlık"
+      }
+    },
+    {
+      "title": "Aort darlığında premedikasyonun taşikardi açısından amacı nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0w27bu9",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "flip",
+        "importance": 2,
+        "question": "Aort darlığında premedikasyonun taşikardi açısından amacı nedir?",
+        "answer": "Anksiyeteyi azaltarak **anksiyeteye bağlı taşikardiyi önlemeye** yardımcı olmaktır.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Mitral darlıkta aşırı sedasyon pulmoner dolaşımı nasıl etkileyebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1f7m205",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "flip",
+        "importance": 2,
+        "question": "Mitral darlıkta aşırı sedasyon pulmoner dolaşımı nasıl etkileyebilir?",
+        "answer": "Hipoventilasyon ve hiperkarbi oluşturarak **pulmoner hipertansiyonu artırabilir**.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Kardiyak indüksiyonda opioidin güçlü uyaranlara karşı işlevi nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0mcodvd",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "flip",
+        "importance": 2,
+        "question": "Kardiyak indüksiyonda opioidin güçlü uyaranlara karşı işlevi nedir?",
+        "answer": "Laringoskopi ve sternotomi gibi uyaranların oluşturduğu **taşikardi ve hipertansiyon yanıtını baskılamaktır**.",
+        "source": "Front Surg 2022: OPCAB"
+      }
+    },
+    {
+      "title": "Tüpü dalga formuyla doğrula",
+      "text": "Hızlı seri indüksiyonda trakeal tüp yerinin doğrulanması için **dalga formlu kapnografi** gerekir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1f1vora",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "remember",
+        "importance": 3,
+        "title": "Tüpü dalga formuyla doğrula",
+        "body": "Hızlı seri indüksiyonda trakeal tüp yerinin doğrulanması için **dalga formlu kapnografi** gerekir.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "RSI preoksijenasyonunda hedef FeO2 değeri BJA Education 2022'ye göre hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-04a97pj",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "mcq",
+        "importance": 2,
+        "question": "RSI preoksijenasyonunda hedef FeO2 değeri BJA Education 2022'ye göre hangisidir?",
+        "options": [
+          "En az 0,85",
+          "En çok 0,21",
+          "Tam 0,50",
+          "En çok 0,30"
+        ],
+        "correct": 0,
+        "explanation": "End-tidal oksijenin en az 0,85 olması preoksijenasyon yeterliliğini gösteren hedeflerden biridir.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "RSI preoksijenasyonunda kullanılan maske özelliği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0w3l7nj",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "mcq",
+        "importance": 2,
+        "question": "RSI preoksijenasyonunda kullanılan maske özelliği hangisidir?",
+        "options": [
+          "Gaz çıkışının açıkta kalması",
+          "Yüze sıkı oturması",
+          "Yalnız ağız köşesini kapatması",
+          "Devreden ayrılmış olması"
+        ],
+        "correct": 1,
+        "explanation": "Sıkı oturan maske oksijenin havayla seyrelmesini azaltır ve preoksijenasyonun etkinliğini artırır.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    },
+    {
+      "title": "Aort darlığında indüksiyon öncesi hangi hazırlık özellikle anılır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1yttf44",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Aort darlığında indüksiyon öncesi hangi hazırlık özellikle anılır?",
+        "options": [
+          "Pulmoner arter kateteri yerleştirme",
+          "Geçici transvenöz pil yerleştirme",
+          "Harici defibrilatör pedleri",
+          "Sol atriyum kateteri yerleştirme"
+        ],
+        "correct": 2,
+        "explanation": "Ciddi aort darlığında şoklanabilir ritim için defibrilatör pedlerinin önceden yerleştirilmesi uygun hazırlıktır.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Akciğer koruyucu ventilasyonda tidal volüm hangi ağırlığa göre hesaplanır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1y7dh4x",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Akciğer koruyucu ventilasyonda tidal volüm hangi ağırlığa göre hesaplanır?",
+        "options": [
+          "Aktüel toplam vücut ağırlığı",
+          "Kuru vücut ağırlığı",
+          "Son ölçülen vücut ağırlığı",
+          "Tahmini vücut ağırlığı"
+        ],
+        "correct": 3,
+        "explanation": "2019 uzlaşısı akciğer koruyucu tidal volümü tahmini vücut ağırlığına göre 6–8 mL/kg olarak önerir.",
+        "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+      }
+    },
+    {
+      "title": "İndüksiyonda hemodinamik değerlendirme miyokard oksijen sunum-tüketim dengesini de kapsar.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1qjq9g2",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "tf",
+        "importance": 2,
+        "statement": "İndüksiyonda hemodinamik değerlendirme miyokard oksijen sunum-tüketim dengesini de kapsar.",
+        "isTrue": true,
+        "explanation": "Kalp hızı ve basınç değişimleri hem oksijen gereksinimini hem koroner sunumu etkileyebilir.",
+        "source": "Indian J Anaesth 2017: kapak hastalıkları"
+      }
+    },
+    {
+      "title": "Hızlı seri indüksiyon, koruyucu refleks kaybı ile kaflı tüp yerleştirme arasındaki süreyi uzatmayı hedefler.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1fpyeeb",
+        "course": "PER243",
+        "topic": "Premedikasyon, indüksiyon ve idame",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Hızlı seri indüksiyon, koruyucu refleks kaybı ile kaflı tüp yerleştirme arasındaki süreyi uzatmayı hedefler.",
+        "isTrue": false,
+        "explanation": "Bu süreyi kısaltarak aspirasyon riskini azaltmayı amaçlar.",
+        "source": "BJA Education 2022: hızlı seri indüksiyon"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-02chx82",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 2,
+      "term": "Premedikasyon",
+      "en": "Premedication",
+      "definition": "Anestezi öncesi anksiyoliz, amnezi, analjezi, sekresyon azaltma ve aspirasyon profilaksisi için ilaç verilmesi.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "id": "PER243-1r2g3gf",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 1,
+      "term": "İndüksiyon",
+      "en": "Induction",
+      "definition": "Genel kabul gören tanımıyla, anestezinin başlatılması ve bilincin kaybettirilmesi evresi.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-0nkt1e1",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 1,
+      "term": "İdame",
+      "en": "Maintenance",
+      "definition": "Genel kabul gören tanımıyla, cerrahi boyunca anestezinin istenen derinlikte sürdürülmesi.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-0yugdf9",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 3,
+      "term": "Derlenme",
+      "en": "Emergence / recovery",
+      "definition": "Genel kabul gören tanımıyla, anestezik ajanlar kesildikten sonra bilincin ve koruyucu reflekslerin geri dönmesi.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-1yb6g9e",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 3,
+      "term": "Hızlı seri indüksiyon",
+      "en": "Rapid sequence induction",
+      "definition": "Havayolu koruyucu reflekslerinin kaybıyla kaflı trakeal tüp yerleştirilmesi arasındaki süreyi kısaltarak aspirasyon riskini azaltmayı amaçlayan indüksiyon tekniği.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-06b7ezl",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 2,
+      "term": "Preoksijenasyon",
+      "en": "Preoxygenation",
+      "definition": "Anestezi indüksiyonundan önce oksijen solutularak akciğerdeki azotun oksijenle değiştirilmesi ve oksijen rezervinin artırılması.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-1j3pxnt",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "term",
+      "importance": 3,
+      "term": "Kapnografi",
+      "en": "Capnography",
+      "definition": "Soluk havasındaki karbondioksit'nin dalga formuyla sürekli ölçümü; tüp yerinin doğrulanmasında şarttır.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-1ujakl9",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 2,
+      "title": "Sternotominin fizyolojik etkisi",
+      "body": "Sternotomi ve laringoskopi taşikardi ve hipertansiyon oluşturarak **miyokard oksijen tüketimini artırabilir**.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "id": "PER243-0mk2fkp",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 2,
+      "title": "RSI gerektiren risk",
+      "body": "Hızlı seri indüksiyonun gerekçelerinden biri **aspirasyon riskidir**; aç olmayan acil hasta ve reflü gibi riskler değerlendirilir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-1hnf712",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 2,
+      "title": "Krikoid basının kanıtı",
+      "body": "Hızlı seri indüksiyonda krikoid basının etkinliği **tartışmalıdır**. Havayolunu zorlaştırırsa bırakılması gerekir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-004ohp8",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: berrak sıvı",
+      "body": "ASA 2017'de sağlıklı elektif hastada berrak sıvılar için **2 saat** açlık önerilir. Aspirasyon riski olan hastada plan bireyselleştirilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "id": "PER243-02irfc9",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: anne sütü",
+      "body": "ASA 2017'de sağlıklı elektif bebekte anne sütü için **4 saat** açlık önerilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "id": "PER243-1r1je8r",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: hafif öğün",
+      "body": "ASA 2017'de sağlıklı elektif hastada hafif yemek, mama ve insan dışı süt için **6 saat** açlık önerilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "id": "PER243-0undffg",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "fact",
+      "importance": 3,
+      "title": "Açlık: yağlı yemek",
+      "body": "ASA 2017'de yağlı/kızartılmış yemek ve et için **en az 8 saat** gerekebilir; yenilen miktar ve içerik de değerlendirilir.",
+      "source": "ASA 2017: preoperatif açlık"
+    },
+    {
+      "id": "PER243-0w27bu9",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "flip",
+      "importance": 2,
+      "question": "Aort darlığında premedikasyonun taşikardi açısından amacı nedir?",
+      "answer": "Anksiyeteyi azaltarak **anksiyeteye bağlı taşikardiyi önlemeye** yardımcı olmaktır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1f7m205",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "flip",
+      "importance": 2,
+      "question": "Mitral darlıkta aşırı sedasyon pulmoner dolaşımı nasıl etkileyebilir?",
+      "answer": "Hipoventilasyon ve hiperkarbi oluşturarak **pulmoner hipertansiyonu artırabilir**.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-0mcodvd",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "flip",
+      "importance": 2,
+      "question": "Kardiyak indüksiyonda opioidin güçlü uyaranlara karşı işlevi nedir?",
+      "answer": "Laringoskopi ve sternotomi gibi uyaranların oluşturduğu **taşikardi ve hipertansiyon yanıtını baskılamaktır**.",
+      "source": "Front Surg 2022: OPCAB"
+    },
+    {
+      "id": "PER243-1f1vora",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "remember",
+      "importance": 3,
+      "title": "Tüpü dalga formuyla doğrula",
+      "body": "Hızlı seri indüksiyonda trakeal tüp yerinin doğrulanması için **dalga formlu kapnografi** gerekir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-04a97pj",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "mcq",
+      "importance": 2,
+      "question": "RSI preoksijenasyonunda hedef FeO2 değeri BJA Education 2022'ye göre hangisidir?",
+      "options": [
+        "En az 0,85",
+        "En çok 0,21",
+        "Tam 0,50",
+        "En çok 0,30"
+      ],
+      "correct": 0,
+      "explanation": "End-tidal oksijenin en az 0,85 olması preoksijenasyon yeterliliğini gösteren hedeflerden biridir.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-0w3l7nj",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "mcq",
+      "importance": 2,
+      "question": "RSI preoksijenasyonunda kullanılan maske özelliği hangisidir?",
+      "options": [
+        "Gaz çıkışının açıkta kalması",
+        "Yüze sıkı oturması",
+        "Yalnız ağız köşesini kapatması",
+        "Devreden ayrılmış olması"
+      ],
+      "correct": 1,
+      "explanation": "Sıkı oturan maske oksijenin havayla seyrelmesini azaltır ve preoksijenasyonun etkinliğini artırır.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    },
+    {
+      "id": "PER243-1yttf44",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Aort darlığında indüksiyon öncesi hangi hazırlık özellikle anılır?",
+      "options": [
+        "Pulmoner arter kateteri yerleştirme",
+        "Geçici transvenöz pil yerleştirme",
+        "Harici defibrilatör pedleri",
+        "Sol atriyum kateteri yerleştirme"
+      ],
+      "correct": 2,
+      "explanation": "Ciddi aort darlığında şoklanabilir ritim için defibrilatör pedlerinin önceden yerleştirilmesi uygun hazırlıktır.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1y7dh4x",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Akciğer koruyucu ventilasyonda tidal volüm hangi ağırlığa göre hesaplanır?",
+      "options": [
+        "Aktüel toplam vücut ağırlığı",
+        "Kuru vücut ağırlığı",
+        "Son ölçülen vücut ağırlığı",
+        "Tahmini vücut ağırlığı"
+      ],
+      "correct": 3,
+      "explanation": "2019 uzlaşısı akciğer koruyucu tidal volümü tahmini vücut ağırlığına göre 6–8 mL/kg olarak önerir.",
+      "source": "BJA 2019: koruyucu ventilasyon uzlaşısı"
+    },
+    {
+      "id": "PER243-1qjq9g2",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "tf",
+      "importance": 2,
+      "statement": "İndüksiyonda hemodinamik değerlendirme miyokard oksijen sunum-tüketim dengesini de kapsar.",
+      "isTrue": true,
+      "explanation": "Kalp hızı ve basınç değişimleri hem oksijen gereksinimini hem koroner sunumu etkileyebilir.",
+      "source": "Indian J Anaesth 2017: kapak hastalıkları"
+    },
+    {
+      "id": "PER243-1fpyeeb",
+      "course": "PER243",
+      "topic": "Premedikasyon, indüksiyon ve idame",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Hızlı seri indüksiyon, koruyucu refleks kaybı ile kaflı tüp yerleştirme arasındaki süreyi uzatmayı hedefler.",
+      "isTrue": false,
+      "explanation": "Bu süreyi kısaltarak aspirasyon riskini azaltmayı amaçlar.",
+      "source": "BJA Education 2022: hızlı seri indüksiyon"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

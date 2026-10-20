@@ -1,0 +1,1156 @@
+{
+  "id": "review-fd6c1cf21e3f686a",
+  "title": "IV anestezikler, opioidler ve antagonistleri",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Propofol",
+      "text": "Propofol\nLipid emülsiyonu halinde kısa etkili intravenöz hipnotik; belirgin hipotansiyon yapar.",
+      "images": [],
+      "card": {
+        "id": "PER243-1dpd7ku",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Propofol",
+        "en": "Propofol",
+        "definition": "Lipid emülsiyonu halinde kısa etkili intravenöz hipnotik; belirgin hipotansiyon yapar.",
+        "source": "DailyMed: propofol"
+      }
+    },
+    {
+      "title": "Propofol infüzyon sendromu",
+      "text": "Propofol infusion syndrome\nUzun süre yüksek doz propofolle metabolik asidoz, hiperkalemi, rabdomiyoliz, kalp ve böbrek yetersizliği.",
+      "images": [],
+      "card": {
+        "id": "PER243-1q3f5ui",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Propofol infüzyon sendromu",
+        "en": "Propofol infusion syndrome",
+        "definition": "Uzun süre yüksek doz propofolle metabolik asidoz, hiperkalemi, rabdomiyoliz, kalp ve böbrek yetersizliği.",
+        "source": "DailyMed: propofol"
+      }
+    },
+    {
+      "title": "Etomidat",
+      "text": "Etomidate\nİntravenöz hipnotik; miyokard ve dolaşım üzerine görece az etki göstererek hemodinamik stabilite sağlayabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-01kkv7c",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Etomidat",
+        "en": "Etomidate",
+        "definition": "İntravenöz hipnotik; miyokard ve dolaşım üzerine görece az etki göstererek hemodinamik stabilite sağlayabilir.",
+        "source": "DailyMed: etomidat"
+      }
+    },
+    {
+      "title": "Ketamin",
+      "text": "Ketamine\nNMDA reseptörünü antagonize eden disosiyatif anestezik; kan basıncı ve kalp hızını artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0l8nslq",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Ketamin",
+        "en": "Ketamine",
+        "definition": "NMDA reseptörünü antagonize eden disosiyatif anestezik; kan basıncı ve kalp hızını artırabilir.",
+        "source": "DailyMed: ketamin"
+      }
+    },
+    {
+      "title": "Tiyopental",
+      "text": "Thiopental\ngama-aminobütirik asit aracılı etki gösteren intravenöz barbitürat hipnotik; kısa etkisinin sonlanması redistribüsyonla ilişkilidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0pyv086",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Tiyopental",
+        "en": "Thiopental",
+        "definition": "gama-aminobütirik asit aracılı etki gösteren intravenöz barbitürat hipnotik; kısa etkisinin sonlanması redistribüsyonla ilişkilidir.",
+        "source": "Tiyopental SmPC"
+      }
+    },
+    {
+      "title": "Redistribüsyon",
+      "text": "Redistribution\nİlacın beyinden kas/yağ gibi dokulara yeniden dağılarak etkisinin sonlanması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1pxvvrm",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Redistribüsyon",
+        "en": "Redistribution",
+        "definition": "İlacın beyinden kas/yağ gibi dokulara yeniden dağılarak etkisinin sonlanması.",
+        "source": "Tiyopental SmPC"
+      }
+    },
+    {
+      "title": "Midazolam",
+      "text": "Midazolam\nKısa etkili benzodiazepin; sedasyon, amnezi, premedikasyon; antidotu flumazenil.",
+      "images": [],
+      "card": {
+        "id": "PER243-0hrrvk3",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Midazolam",
+        "en": "Midazolam",
+        "definition": "Kısa etkili benzodiazepin; sedasyon, amnezi, premedikasyon; antidotu flumazenil.",
+        "source": "DailyMed: midazolam"
+      }
+    },
+    {
+      "title": "Deksmedetomidin",
+      "text": "Dexmedetomidine\nSantral α2-adrenerjik agonist sedatif; bradikardi ve hipotansiyon oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1st8k5t",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Deksmedetomidin",
+        "en": "Dexmedetomidine",
+        "definition": "Santral α2-adrenerjik agonist sedatif; bradikardi ve hipotansiyon oluşturabilir.",
+        "source": "DailyMed: deksmedetomidin"
+      }
+    },
+    {
+      "title": "Opioid",
+      "text": "Opioid\nOpioid reseptörlerine (özellikle µ) bağlanan analjezik; solunum depresyonu, bradikardi ve rijidite yapabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-16hnohf",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 1,
+        "term": "Opioid",
+        "en": "Opioid",
+        "definition": "Opioid reseptörlerine (özellikle µ) bağlanan analjezik; solunum depresyonu, bradikardi ve rijidite yapabilir.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "Fentanil",
+      "text": "Fentanyl\nSentetik µ-opioid reseptör agonisti analjezik; kardiyak anestezide cerrahi stres yanıtını baskılamak için kullanılabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ici5kw",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Fentanil",
+        "en": "Fentanyl",
+        "definition": "Sentetik µ-opioid reseptör agonisti analjezik; kardiyak anestezide cerrahi stres yanıtını baskılamak için kullanılabilir.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "Sufentanil",
+      "text": "Sufentanil\nFentanilden daha güçlü sentetik µ-opioid reseptör agonisti analjezik.",
+      "images": [],
+      "card": {
+        "id": "PER243-1m40660",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Sufentanil",
+        "en": "Sufentanil",
+        "definition": "Fentanilden daha güçlü sentetik µ-opioid reseptör agonisti analjezik.",
+        "source": "DailyMed: sufentanil"
+      }
+    },
+    {
+      "title": "Remifentanil",
+      "text": "Remifentanil\nNonspesifik kan ve doku esterazlarıyla yıkılan, çok kısa etkili µ-opioid reseptör agonisti.",
+      "images": [],
+      "card": {
+        "id": "PER243-0zobqpv",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Remifentanil",
+        "en": "Remifentanil",
+        "definition": "Nonspesifik kan ve doku esterazlarıyla yıkılan, çok kısa etkili µ-opioid reseptör agonisti.",
+        "source": "DailyMed: remifentanil"
+      }
+    },
+    {
+      "title": "Bağlama duyarlı yarılanma süresi",
+      "text": "Context-sensitive half-time\nİnfüzyon kesildikten sonra plazma ilaç düzeyinin yarıya inmesi için gereken süre; infüzyon süresine bağlı olarak değişebilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-166p56k",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Bağlama duyarlı yarılanma süresi",
+        "en": "Context-sensitive half-time",
+        "definition": "İnfüzyon kesildikten sonra plazma ilaç düzeyinin yarıya inmesi için gereken süre; infüzyon süresine bağlı olarak değişebilir.",
+        "source": "Local Reg Anesth 2010: remifentanil"
+      }
+    },
+    {
+      "title": "Göğüs duvarı rijiditesi",
+      "text": "Opioid-induced muscle rigidity\nHızlı/yüksek doz opioidle solunum kaslarının sertleşmesi; ventilasyonu güçleştirir, kas gevşeticiyle düzelir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0r966yh",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 2,
+        "term": "Göğüs duvarı rijiditesi",
+        "en": "Opioid-induced muscle rigidity",
+        "definition": "Hızlı/yüksek doz opioidle solunum kaslarının sertleşmesi; ventilasyonu güçleştirir, kas gevşeticiyle düzelir.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "Nalokson",
+      "text": "Naloxone\nKompetitif opioid antagonisti; etkisi bazı opioidlerden kısa sürebilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-07a4n0m",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Nalokson",
+        "en": "Naloxone",
+        "definition": "Kompetitif opioid antagonisti; etkisi bazı opioidlerden kısa sürebilir.",
+        "source": "DailyMed: nalokson"
+      }
+    },
+    {
+      "title": "Flumazenil",
+      "text": "Flumazenil\nBenzodiazepin reseptör antagonisti; nöbet riski ve yeniden sedasyon olabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0kjl2i4",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "term",
+        "importance": 3,
+        "term": "Flumazenil",
+        "en": "Flumazenil",
+        "definition": "Benzodiazepin reseptör antagonisti; nöbet riski ve yeniden sedasyon olabilir.",
+        "source": "DailyMed: flumazenil"
+      }
+    },
+    {
+      "title": "Etomidat ve analjezi",
+      "text": "Etomidat hipnotiktir; **analjezik etkisi yoktur**. Bilinç kaybı, ağrılı uyaranın analjezisini tek başına karşılamaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1qtyy1q",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Etomidat ve analjezi",
+        "body": "Etomidat hipnotiktir; **analjezik etkisi yoktur**. Bilinç kaybı, ağrılı uyaranın analjezisini tek başına karşılamaz.",
+        "source": "DailyMed: etomidat"
+      }
+    },
+    {
+      "title": "Ketamin ve sekresyon",
+      "text": "Ketamin **salivasyonu artırabilir**; disosiyatif anestezi ve korunan havayolu refleksleri sekresyon değerlendirmesini ortadan kaldırmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1snzm6t",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Ketamin ve sekresyon",
+        "body": "Ketamin **salivasyonu artırabilir**; disosiyatif anestezi ve korunan havayolu refleksleri sekresyon değerlendirmesini ortadan kaldırmaz.",
+        "source": "DailyMed: ketamin"
+      }
+    },
+    {
+      "title": "Tiyopentalin damar riski",
+      "text": "Tiyopentalin yanlışlıkla intraarteriyel verilmesi **arteriyospazm ve şiddetli ağrı** oluşturabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-05bps8h",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 3,
+        "title": "Tiyopentalin damar riski",
+        "body": "Tiyopentalin yanlışlıkla intraarteriyel verilmesi **arteriyospazm ve şiddetli ağrı** oluşturabilir.",
+        "source": "Tiyopental SmPC"
+      }
+    },
+    {
+      "title": "Midazolamın metabolizması",
+      "text": "Midazolam **CYP3A4** yoluyla α-hidroksimidazolama metabolize edilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1qjae2x",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Midazolamın metabolizması",
+        "body": "Midazolam **CYP3A4** yoluyla α-hidroksimidazolama metabolize edilir.",
+        "source": "DailyMed: midazolam"
+      }
+    },
+    {
+      "title": "Deksmedetomidin yükleme yanıtı",
+      "text": "Deksmedetomidin yüklemesi sırasında geçici **hipertansiyon** görülebilir; idamede bradikardi ve hipotansiyon da izlenir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1itxleh",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 1,
+        "title": "Deksmedetomidin yükleme yanıtı",
+        "body": "Deksmedetomidin yüklemesi sırasında geçici **hipertansiyon** görülebilir; idamede bradikardi ve hipotansiyon da izlenir.",
+        "source": "DailyMed: deksmedetomidin"
+      }
+    },
+    {
+      "title": "Fentanilin metabolizması",
+      "text": "Fentanilin metabolizmasında **CYP3A4** rol oynar; remifentanilden farklı olarak başlıca nonspesifik esteraz yıkımına dayanmaz.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ve0zl7",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 3,
+        "title": "Fentanilin metabolizması",
+        "body": "Fentanilin metabolizmasında **CYP3A4** rol oynar; remifentanilden farklı olarak başlıca nonspesifik esteraz yıkımına dayanmaz.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "KPB'de serbest ilaç fraksiyonu",
+      "text": "Kardiyopulmoner bypassta plazma proteinlerinin azalması, proteine bağlı ilacın **serbest aktif fraksiyonunu artırabilir**. Total düzey düşüşü tek başına etki kaybını göstermez.",
+      "images": [],
+      "card": {
+        "id": "PER243-16jqi97",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "KPB'de serbest ilaç fraksiyonu",
+        "body": "Kardiyopulmoner bypassta plazma proteinlerinin azalması, proteine bağlı ilacın **serbest aktif fraksiyonunu artırabilir**. Total düzey düşüşü tek başına etki kaybını göstermez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Akciğerde opioid tutulması",
+      "text": "Fentanil ve sufentanil akciğerde tutulabilir; kardiyopulmoner bypasstan ayrılmada tekrar dolaşıma geçmeleri plazma düzeyini artırabilir.",
+      "images": [],
+      "card": {
+        "id": "PER243-08ygm4k",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 2,
+        "title": "Akciğerde opioid tutulması",
+        "body": "Fentanil ve sufentanil akciğerde tutulabilir; kardiyopulmoner bypasstan ayrılmada tekrar dolaşıma geçmeleri plazma düzeyini artırabilir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Flumazenil sonrası yeniden sedasyon neden görülebilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0vmdp7j",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "flip",
+        "importance": 3,
+        "question": "Flumazenil sonrası yeniden sedasyon neden görülebilir?",
+        "answer": "Flumazenilin etkisi benzodiazepinden **daha kısa sürebilir**; antagonist etkisi biterken sedatif etki sürebilir.",
+        "source": "DailyMed: flumazenil"
+      }
+    },
+    {
+      "title": "Naloksonla opioid etkisini aniden geri çevirmek hangi dolaşım sorunlarını doğurabilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0o64sm5",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Naloksonla opioid etkisini aniden geri çevirmek hangi dolaşım sorunlarını doğurabilir?",
+        "answer": "**Taşikardi, hipertansiyon ve ciddi aritmiler** gelişebilir; kontrollü titrasyonun klinik gerekçelerinden biridir.",
+        "source": "DailyMed: nalokson"
+      }
+    },
+    {
+      "title": "Etomidat sonrasında kortizol yanıtı hangi mekanizmayla azalır?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1py1ur5",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "flip",
+        "importance": 2,
+        "question": "Etomidat sonrasında kortizol yanıtı hangi mekanizmayla azalır?",
+        "answer": "Adrenal steroid sentezinde **11β-hidroksilasyonun baskılanması** kortizol yanıtını azaltır.",
+        "source": "DailyMed: etomidat"
+      }
+    },
+    {
+      "title": "Hipotermik KPB ilaç etkisini neden yalnız total düzeyle açıklayamaz?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-15nv49c",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "flip",
+        "importance": 1,
+        "question": "Hipotermik KPB ilaç etkisini neden yalnız total düzeyle açıklayamaz?",
+        "answer": "Hemodilüsyon, protein bağlanması ve sıcaklık değişimi **serbest fraksiyonu ve eliminasyonu** etkiler; total plazma düzeyi bütün etkiyi göstermez.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Tiyopental ve porfiri",
+      "text": "**Tiyopental porfiride kontrendikedir**; indüksiyon ajanları bu hastalık açısından eşdeğer değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0jew2oj",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "remember",
+        "importance": 3,
+        "title": "Tiyopental ve porfiri",
+        "body": "**Tiyopental porfiride kontrendikedir**; indüksiyon ajanları bu hastalık açısından eşdeğer değildir.",
+        "source": "Tiyopental SmPC"
+      }
+    },
+    {
+      "title": "Remifentanil kesilmeden önce",
+      "text": "Çok kısa etkili remifentanil kesilmeden önce **devam eden analjezi planlanmalıdır**; infüzyon sonrası hızlı etki kaybı beklenir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1dinndq",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "remember",
+        "importance": 3,
+        "title": "Remifentanil kesilmeden önce",
+        "body": "Çok kısa etkili remifentanil kesilmeden önce **devam eden analjezi planlanmalıdır**; infüzyon sonrası hızlı etki kaybı beklenir.",
+        "source": "DailyMed: remifentanil"
+      }
+    },
+    {
+      "title": "Remifentanil uygulama yolu",
+      "text": "Remifentanil formülasyonundaki **glisin** nedeniyle epidural veya intratekal uygulama kontrendikedir.",
+      "images": [],
+      "card": {
+        "id": "PER243-01she9h",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "remember",
+        "importance": 3,
+        "title": "Remifentanil uygulama yolu",
+        "body": "Remifentanil formülasyonundaki **glisin** nedeniyle epidural veya intratekal uygulama kontrendikedir.",
+        "source": "DailyMed: remifentanil"
+      }
+    },
+    {
+      "title": "Tiyopental çözeltisinin pH'ı",
+      "text": "Tiyopental SmPC'sinde klinik çözeltinin pH'ı **10–11** olarak verilir. Bu yüksek alkalinite, damar dışına kaçıştaki kimyasal doku hasarını açıklayan etkenlerdendir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1bixp34",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 3,
+        "title": "Tiyopental çözeltisinin pH'ı",
+        "body": "Tiyopental SmPC'sinde klinik çözeltinin pH'ı **10–11** olarak verilir. Bu yüksek alkalinite, damar dışına kaçıştaki kimyasal doku hasarını açıklayan etkenlerdendir.",
+        "source": "Tiyopental SmPC"
+      }
+    },
+    {
+      "title": "Fentanil etiketindeki anestezik teknik",
+      "text": "DailyMed fentanil etiketinde ek anestezik ajan kullanılmadan oksijen ve kas gevşeticiyle uygulanan teknik için **50–100 µg/kg** bildirilir; bu aralık bütün kardiyak tekniklerin standart dozu değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1y29s11",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "fact",
+        "importance": 3,
+        "title": "Fentanil etiketindeki anestezik teknik",
+        "body": "DailyMed fentanil etiketinde ek anestezik ajan kullanılmadan oksijen ve kas gevşeticiyle uygulanan teknik için **50–100 µg/kg** bildirilir; bu aralık bütün kardiyak tekniklerin standart dozu değildir.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "Ketaminin temel reseptör mekanizması hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-06jjl04",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Ketaminin temel reseptör mekanizması hangisidir?",
+        "options": [
+          "Muskarinik agonizm",
+          "NMDA antagonizması",
+          "β1 antagonizması",
+          "V2 antagonizması"
+        ],
+        "correct": 1,
+        "explanation": "Ketamin nonkompetitif NMDA reseptör antagonisti disosiyatif anesteziktir.",
+        "source": "DailyMed: ketamin"
+      }
+    },
+    {
+      "title": "Uzun süre benzodiazepin kullanan hastada flumazenilin önemli riski nedir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0oun9zw",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Uzun süre benzodiazepin kullanan hastada flumazenilin önemli riski nedir?",
+        "options": [
+          "Hiperkalemi",
+          "Siyanür toksisitesi",
+          "Nöbet",
+          "Malign hipertermi"
+        ],
+        "correct": 2,
+        "explanation": "Flumazenil uzun süre benzodiazepin kullanan hastada nöbeti tetikleyebilir.",
+        "source": "DailyMed: flumazenil"
+      }
+    },
+    {
+      "title": "Fentanilin solunum depresyonu ile analjezi süresi nasıl ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-09fsufe",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Fentanilin solunum depresyonu ile analjezi süresi nasıl ilişkilidir?",
+        "options": [
+          "Analjezi solunum depresyonunu sona erdirir",
+          "İki etki aynı anda zorunlu olarak biter",
+          "Solunum depresyonu yalnız infüzyonda görülür",
+          "Solunum depresyonu daha uzun sürebilir"
+        ],
+        "correct": 3,
+        "explanation": "Ürün bilgisi solunum depresyonunun analjeziden daha uzun sürebileceğini belirtir.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "Opioid sonrası ventilasyonu zorlaştıran kas sertleşmesi hangi tablodur?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0h1avpx",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Opioid sonrası ventilasyonu zorlaştıran kas sertleşmesi hangi tablodur?",
+        "options": [
+          "Göğüs duvarı rijiditesi",
+          "Laringospazm",
+          "Bronkospazm",
+          "Rezidüel nöromüsküler blok"
+        ],
+        "correct": 0,
+        "explanation": "Yüksek veya hızlı opioid uygulaması solunum kaslarında rijidite oluşturabilir.",
+        "source": "DailyMed: fentanil"
+      }
+    },
+    {
+      "title": "DIPRIVAN ürün bilgisine göre kardiyak anestezi indüksiyonunun tam doz aralığı hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0dsr6n9",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "mcq",
+        "importance": 3,
+        "question": "DIPRIVAN ürün bilgisine göre kardiyak anestezi indüksiyonunun tam doz aralığı hangisidir?",
+        "options": [
+          "1–1,5 mg/kg",
+          "0,5–1,5 mg/kg",
+          "2–2,5 mg/kg",
+          "2,5–3,5 mg/kg"
+        ],
+        "correct": 1,
+        "explanation": "DIPRIVAN etiketinde kardiyak indüksiyon için 0,5–1,5 mg/kg yavaş titrasyonla verilir; sağlıklı genç erişkin dozu farklıdır.",
+        "source": "DailyMed: propofol"
+      }
+    },
+    {
+      "title": "Ketamin bronkodilatör etki gösterebilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0mpo6kq",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Ketamin bronkodilatör etki gösterebilir.",
+        "isTrue": true,
+        "explanation": "Ketaminin bronkodilatör özelliği ürün bilgisinde belirtilen etkilerindendir.",
+        "source": "DailyMed: ketamin"
+      }
+    },
+    {
+      "title": "Nalokson benzodiazepin reseptörlerinin kompetitif antagonistidir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0rrf6ve",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Nalokson benzodiazepin reseptörlerinin kompetitif antagonistidir.",
+        "isTrue": false,
+        "explanation": "Nalokson opioid antagonistidir; benzodiazepin etkisini geri çeviren ajan flumazenildir.",
+        "source": "DailyMed: nalokson"
+      }
+    },
+    {
+      "title": "Deksmedetomidin önerilen dozlarda belirgin solunum depresyonu oluşturmadan sedasyon sağlayabilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1u9mcnn",
+        "course": "PER243",
+        "topic": "IV anestezikler, opioidler ve antagonistleri",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Deksmedetomidin önerilen dozlarda belirgin solunum depresyonu oluşturmadan sedasyon sağlayabilir.",
+        "isTrue": true,
+        "explanation": "Ürün bilgisinde önerilen dozlarda belirgin solunum depresyonu bulunmadığı belirtilir; hemodinamik izlem yine gerekir.",
+        "source": "DailyMed: deksmedetomidin"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1dpd7ku",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Propofol",
+      "en": "Propofol",
+      "definition": "Lipid emülsiyonu halinde kısa etkili intravenöz hipnotik; belirgin hipotansiyon yapar.",
+      "source": "DailyMed: propofol"
+    },
+    {
+      "id": "PER243-1q3f5ui",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Propofol infüzyon sendromu",
+      "en": "Propofol infusion syndrome",
+      "definition": "Uzun süre yüksek doz propofolle metabolik asidoz, hiperkalemi, rabdomiyoliz, kalp ve böbrek yetersizliği.",
+      "source": "DailyMed: propofol"
+    },
+    {
+      "id": "PER243-01kkv7c",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Etomidat",
+      "en": "Etomidate",
+      "definition": "İntravenöz hipnotik; miyokard ve dolaşım üzerine görece az etki göstererek hemodinamik stabilite sağlayabilir.",
+      "source": "DailyMed: etomidat"
+    },
+    {
+      "id": "PER243-0l8nslq",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Ketamin",
+      "en": "Ketamine",
+      "definition": "NMDA reseptörünü antagonize eden disosiyatif anestezik; kan basıncı ve kalp hızını artırabilir.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "id": "PER243-0pyv086",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Tiyopental",
+      "en": "Thiopental",
+      "definition": "gama-aminobütirik asit aracılı etki gösteren intravenöz barbitürat hipnotik; kısa etkisinin sonlanması redistribüsyonla ilişkilidir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "id": "PER243-1pxvvrm",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Redistribüsyon",
+      "en": "Redistribution",
+      "definition": "İlacın beyinden kas/yağ gibi dokulara yeniden dağılarak etkisinin sonlanması.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "id": "PER243-0hrrvk3",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Midazolam",
+      "en": "Midazolam",
+      "definition": "Kısa etkili benzodiazepin; sedasyon, amnezi, premedikasyon; antidotu flumazenil.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "id": "PER243-1st8k5t",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Deksmedetomidin",
+      "en": "Dexmedetomidine",
+      "definition": "Santral α2-adrenerjik agonist sedatif; bradikardi ve hipotansiyon oluşturabilir.",
+      "source": "DailyMed: deksmedetomidin"
+    },
+    {
+      "id": "PER243-16hnohf",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 1,
+      "term": "Opioid",
+      "en": "Opioid",
+      "definition": "Opioid reseptörlerine (özellikle µ) bağlanan analjezik; solunum depresyonu, bradikardi ve rijidite yapabilir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-1ici5kw",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Fentanil",
+      "en": "Fentanyl",
+      "definition": "Sentetik µ-opioid reseptör agonisti analjezik; kardiyak anestezide cerrahi stres yanıtını baskılamak için kullanılabilir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-1m40660",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Sufentanil",
+      "en": "Sufentanil",
+      "definition": "Fentanilden daha güçlü sentetik µ-opioid reseptör agonisti analjezik.",
+      "source": "DailyMed: sufentanil"
+    },
+    {
+      "id": "PER243-0zobqpv",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Remifentanil",
+      "en": "Remifentanil",
+      "definition": "Nonspesifik kan ve doku esterazlarıyla yıkılan, çok kısa etkili µ-opioid reseptör agonisti.",
+      "source": "DailyMed: remifentanil"
+    },
+    {
+      "id": "PER243-166p56k",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Bağlama duyarlı yarılanma süresi",
+      "en": "Context-sensitive half-time",
+      "definition": "İnfüzyon kesildikten sonra plazma ilaç düzeyinin yarıya inmesi için gereken süre; infüzyon süresine bağlı olarak değişebilir.",
+      "source": "Local Reg Anesth 2010: remifentanil"
+    },
+    {
+      "id": "PER243-0r966yh",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 2,
+      "term": "Göğüs duvarı rijiditesi",
+      "en": "Opioid-induced muscle rigidity",
+      "definition": "Hızlı/yüksek doz opioidle solunum kaslarının sertleşmesi; ventilasyonu güçleştirir, kas gevşeticiyle düzelir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-07a4n0m",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Nalokson",
+      "en": "Naloxone",
+      "definition": "Kompetitif opioid antagonisti; etkisi bazı opioidlerden kısa sürebilir.",
+      "source": "DailyMed: nalokson"
+    },
+    {
+      "id": "PER243-0kjl2i4",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "term",
+      "importance": 3,
+      "term": "Flumazenil",
+      "en": "Flumazenil",
+      "definition": "Benzodiazepin reseptör antagonisti; nöbet riski ve yeniden sedasyon olabilir.",
+      "source": "DailyMed: flumazenil"
+    },
+    {
+      "id": "PER243-1qtyy1q",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Etomidat ve analjezi",
+      "body": "Etomidat hipnotiktir; **analjezik etkisi yoktur**. Bilinç kaybı, ağrılı uyaranın analjezisini tek başına karşılamaz.",
+      "source": "DailyMed: etomidat"
+    },
+    {
+      "id": "PER243-1snzm6t",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Ketamin ve sekresyon",
+      "body": "Ketamin **salivasyonu artırabilir**; disosiyatif anestezi ve korunan havayolu refleksleri sekresyon değerlendirmesini ortadan kaldırmaz.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "id": "PER243-05bps8h",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 3,
+      "title": "Tiyopentalin damar riski",
+      "body": "Tiyopentalin yanlışlıkla intraarteriyel verilmesi **arteriyospazm ve şiddetli ağrı** oluşturabilir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "id": "PER243-1qjae2x",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Midazolamın metabolizması",
+      "body": "Midazolam **CYP3A4** yoluyla α-hidroksimidazolama metabolize edilir.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "id": "PER243-1itxleh",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 1,
+      "title": "Deksmedetomidin yükleme yanıtı",
+      "body": "Deksmedetomidin yüklemesi sırasında geçici **hipertansiyon** görülebilir; idamede bradikardi ve hipotansiyon da izlenir.",
+      "source": "DailyMed: deksmedetomidin"
+    },
+    {
+      "id": "PER243-1ve0zl7",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 3,
+      "title": "Fentanilin metabolizması",
+      "body": "Fentanilin metabolizmasında **CYP3A4** rol oynar; remifentanilden farklı olarak başlıca nonspesifik esteraz yıkımına dayanmaz.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-16jqi97",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "KPB'de serbest ilaç fraksiyonu",
+      "body": "Kardiyopulmoner bypassta plazma proteinlerinin azalması, proteine bağlı ilacın **serbest aktif fraksiyonunu artırabilir**. Total düzey düşüşü tek başına etki kaybını göstermez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-08ygm4k",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 2,
+      "title": "Akciğerde opioid tutulması",
+      "body": "Fentanil ve sufentanil akciğerde tutulabilir; kardiyopulmoner bypasstan ayrılmada tekrar dolaşıma geçmeleri plazma düzeyini artırabilir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0vmdp7j",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "flip",
+      "importance": 3,
+      "question": "Flumazenil sonrası yeniden sedasyon neden görülebilir?",
+      "answer": "Flumazenilin etkisi benzodiazepinden **daha kısa sürebilir**; antagonist etkisi biterken sedatif etki sürebilir.",
+      "source": "DailyMed: flumazenil"
+    },
+    {
+      "id": "PER243-0o64sm5",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Naloksonla opioid etkisini aniden geri çevirmek hangi dolaşım sorunlarını doğurabilir?",
+      "answer": "**Taşikardi, hipertansiyon ve ciddi aritmiler** gelişebilir; kontrollü titrasyonun klinik gerekçelerinden biridir.",
+      "source": "DailyMed: nalokson"
+    },
+    {
+      "id": "PER243-1py1ur5",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "flip",
+      "importance": 2,
+      "question": "Etomidat sonrasında kortizol yanıtı hangi mekanizmayla azalır?",
+      "answer": "Adrenal steroid sentezinde **11β-hidroksilasyonun baskılanması** kortizol yanıtını azaltır.",
+      "source": "DailyMed: etomidat"
+    },
+    {
+      "id": "PER243-15nv49c",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "flip",
+      "importance": 1,
+      "question": "Hipotermik KPB ilaç etkisini neden yalnız total düzeyle açıklayamaz?",
+      "answer": "Hemodilüsyon, protein bağlanması ve sıcaklık değişimi **serbest fraksiyonu ve eliminasyonu** etkiler; total plazma düzeyi bütün etkiyi göstermez.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0jew2oj",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "remember",
+      "importance": 3,
+      "title": "Tiyopental ve porfiri",
+      "body": "**Tiyopental porfiride kontrendikedir**; indüksiyon ajanları bu hastalık açısından eşdeğer değildir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "id": "PER243-1dinndq",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "remember",
+      "importance": 3,
+      "title": "Remifentanil kesilmeden önce",
+      "body": "Çok kısa etkili remifentanil kesilmeden önce **devam eden analjezi planlanmalıdır**; infüzyon sonrası hızlı etki kaybı beklenir.",
+      "source": "DailyMed: remifentanil"
+    },
+    {
+      "id": "PER243-01she9h",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "remember",
+      "importance": 3,
+      "title": "Remifentanil uygulama yolu",
+      "body": "Remifentanil formülasyonundaki **glisin** nedeniyle epidural veya intratekal uygulama kontrendikedir.",
+      "source": "DailyMed: remifentanil"
+    },
+    {
+      "id": "PER243-1bixp34",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 3,
+      "title": "Tiyopental çözeltisinin pH'ı",
+      "body": "Tiyopental SmPC'sinde klinik çözeltinin pH'ı **10–11** olarak verilir. Bu yüksek alkalinite, damar dışına kaçıştaki kimyasal doku hasarını açıklayan etkenlerdendir.",
+      "source": "Tiyopental SmPC"
+    },
+    {
+      "id": "PER243-1y29s11",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "fact",
+      "importance": 3,
+      "title": "Fentanil etiketindeki anestezik teknik",
+      "body": "DailyMed fentanil etiketinde ek anestezik ajan kullanılmadan oksijen ve kas gevşeticiyle uygulanan teknik için **50–100 µg/kg** bildirilir; bu aralık bütün kardiyak tekniklerin standart dozu değildir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-06jjl04",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Ketaminin temel reseptör mekanizması hangisidir?",
+      "options": [
+        "Muskarinik agonizm",
+        "NMDA antagonizması",
+        "β1 antagonizması",
+        "V2 antagonizması"
+      ],
+      "correct": 1,
+      "explanation": "Ketamin nonkompetitif NMDA reseptör antagonisti disosiyatif anesteziktir.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "id": "PER243-0oun9zw",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Uzun süre benzodiazepin kullanan hastada flumazenilin önemli riski nedir?",
+      "options": [
+        "Hiperkalemi",
+        "Siyanür toksisitesi",
+        "Nöbet",
+        "Malign hipertermi"
+      ],
+      "correct": 2,
+      "explanation": "Flumazenil uzun süre benzodiazepin kullanan hastada nöbeti tetikleyebilir.",
+      "source": "DailyMed: flumazenil"
+    },
+    {
+      "id": "PER243-09fsufe",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Fentanilin solunum depresyonu ile analjezi süresi nasıl ilişkilidir?",
+      "options": [
+        "Analjezi solunum depresyonunu sona erdirir",
+        "İki etki aynı anda zorunlu olarak biter",
+        "Solunum depresyonu yalnız infüzyonda görülür",
+        "Solunum depresyonu daha uzun sürebilir"
+      ],
+      "correct": 3,
+      "explanation": "Ürün bilgisi solunum depresyonunun analjeziden daha uzun sürebileceğini belirtir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-0h1avpx",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Opioid sonrası ventilasyonu zorlaştıran kas sertleşmesi hangi tablodur?",
+      "options": [
+        "Göğüs duvarı rijiditesi",
+        "Laringospazm",
+        "Bronkospazm",
+        "Rezidüel nöromüsküler blok"
+      ],
+      "correct": 0,
+      "explanation": "Yüksek veya hızlı opioid uygulaması solunum kaslarında rijidite oluşturabilir.",
+      "source": "DailyMed: fentanil"
+    },
+    {
+      "id": "PER243-0dsr6n9",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "mcq",
+      "importance": 3,
+      "question": "DIPRIVAN ürün bilgisine göre kardiyak anestezi indüksiyonunun tam doz aralığı hangisidir?",
+      "options": [
+        "1–1,5 mg/kg",
+        "0,5–1,5 mg/kg",
+        "2–2,5 mg/kg",
+        "2,5–3,5 mg/kg"
+      ],
+      "correct": 1,
+      "explanation": "DIPRIVAN etiketinde kardiyak indüksiyon için 0,5–1,5 mg/kg yavaş titrasyonla verilir; sağlıklı genç erişkin dozu farklıdır.",
+      "source": "DailyMed: propofol"
+    },
+    {
+      "id": "PER243-0mpo6kq",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Ketamin bronkodilatör etki gösterebilir.",
+      "isTrue": true,
+      "explanation": "Ketaminin bronkodilatör özelliği ürün bilgisinde belirtilen etkilerindendir.",
+      "source": "DailyMed: ketamin"
+    },
+    {
+      "id": "PER243-0rrf6ve",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Nalokson benzodiazepin reseptörlerinin kompetitif antagonistidir.",
+      "isTrue": false,
+      "explanation": "Nalokson opioid antagonistidir; benzodiazepin etkisini geri çeviren ajan flumazenildir.",
+      "source": "DailyMed: nalokson"
+    },
+    {
+      "id": "PER243-1u9mcnn",
+      "course": "PER243",
+      "topic": "IV anestezikler, opioidler ve antagonistleri",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Deksmedetomidin önerilen dozlarda belirgin solunum depresyonu oluşturmadan sedasyon sağlayabilir.",
+      "isTrue": true,
+      "explanation": "Ürün bilgisinde önerilen dozlarda belirgin solunum depresyonu bulunmadığı belirtilir; hemodinamik izlem yine gerekir.",
+      "source": "DailyMed: deksmedetomidin"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}

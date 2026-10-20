@@ -1,0 +1,730 @@
+{
+  "id": "review-b277bd038807efaf",
+  "title": "Anesteziye giriş ve temel kavramlar",
+  "category": "Kardiyak anestezi",
+  "kind": "revision",
+  "order": 100,
+  "tags": [
+    "PER243",
+    "Tekrar arşivi"
+  ],
+  "sections": [
+    {
+      "title": "Anestezi",
+      "text": "Anesthesia\nGenel kabul gören tanımıyla, cerrahi veya girişimsel işlem için duyuların, özellikle ağrının, ilaçlarla geri dönüşlü olarak ortadan kaldırılması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ywrnz8",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Anestezi",
+        "en": "Anesthesia",
+        "definition": "Genel kabul gören tanımıyla, cerrahi veya girişimsel işlem için duyuların, özellikle ağrının, ilaçlarla geri dönüşlü olarak ortadan kaldırılması.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Genel anestezi",
+      "text": "General anesthesia\nGenel kabul gören bileşenleri bilinç kaybı, amnezi, analjezi, hareketsizlik ve otonom yanıtların baskılanması olan, ilaçla oluşturulmuş geri dönüşlü durum.",
+      "images": [],
+      "card": {
+        "id": "PER243-03m38ld",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Genel anestezi",
+        "en": "General anesthesia",
+        "definition": "Genel kabul gören bileşenleri bilinç kaybı, amnezi, analjezi, hareketsizlik ve otonom yanıtların baskılanması olan, ilaçla oluşturulmuş geri dönüşlü durum.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Hipnoz",
+      "text": "Hypnosis\nGenel kabul gören tanımıyla, bilincin ve dış uyaranlara yanıtın kaybı; anestezi derinliğinin bilinçle ilgili boyutu.",
+      "images": [],
+      "card": {
+        "id": "PER243-0q62toh",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Hipnoz",
+        "en": "Hypnosis",
+        "definition": "Genel kabul gören tanımıyla, bilincin ve dış uyaranlara yanıtın kaybı; anestezi derinliğinin bilinçle ilgili boyutu.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Analjezi",
+      "text": "Analgesia\nGenel kabul gören tanımıyla, ağrı algısının ve nosiseptif fizyolojik yanıtların baskılanması.",
+      "images": [],
+      "card": {
+        "id": "PER243-1gm399j",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Analjezi",
+        "en": "Analgesia",
+        "definition": "Genel kabul gören tanımıyla, ağrı algısının ve nosiseptif fizyolojik yanıtların baskılanması.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Amnezi",
+      "text": "Amnesia\nOlayların belleğe kaydedilmemesi/hatırlanamaması; benzodiazepinlerin belirgin etkisi.",
+      "images": [],
+      "card": {
+        "id": "PER243-08cvl17",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 2,
+        "term": "Amnezi",
+        "en": "Amnesia",
+        "definition": "Olayların belleğe kaydedilmemesi/hatırlanamaması; benzodiazepinlerin belirgin etkisi.",
+        "source": "DailyMed: midazolam"
+      }
+    },
+    {
+      "title": "Dengeli anestezi",
+      "text": "Balanced anesthesia\nHipnotik, opioid, kas gevşetici ve volatil ajanın birlikte kullanıldığı teknik; Guedel belirtilerini maskeler.",
+      "images": [],
+      "card": {
+        "id": "PER243-12gnsyg",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Dengeli anestezi",
+        "en": "Balanced anesthesia",
+        "definition": "Hipnotik, opioid, kas gevşetici ve volatil ajanın birlikte kullanıldığı teknik; Guedel belirtilerini maskeler.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "TİVA",
+      "text": "Total intravenous anesthesia\nAnestezi idamesinin yalnız intravenöz ilaçlarla yapılması; plazma düzeyi ölçülemediği için EEG temelli derinlik izlemi önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0r4qm4n",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "TİVA",
+        "en": "Total intravenous anesthesia",
+        "definition": "Anestezi idamesinin yalnız intravenöz ilaçlarla yapılması; plazma düzeyi ölçülemediği için EEG temelli derinlik izlemi önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Guedel evreleri",
+      "text": "Guedel's stages\nEter anestezisinde klinik derinliği analjezi, eksitasyon, cerrahi anestezi ve doz aşımı dönemlerine ayıran tarihsel sınıflama.",
+      "images": [],
+      "card": {
+        "id": "PER243-1aaa7dr",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Guedel evreleri",
+        "en": "Guedel's stages",
+        "definition": "Eter anestezisinde klinik derinliği analjezi, eksitasyon, cerrahi anestezi ve doz aşımı dönemlerine ayıran tarihsel sınıflama.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Eksitasyon evresi",
+      "text": "Stage 2 (excitement)\nBilinç kaybından düzenli otomatik solunuma kadar süren, laringospazm riskinin en yüksek olduğu evre.",
+      "images": [],
+      "card": {
+        "id": "PER243-1gfgk67",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Eksitasyon evresi",
+        "en": "Stage 2 (excitement)",
+        "definition": "Bilinç kaybından düzenli otomatik solunuma kadar süren, laringospazm riskinin en yüksek olduğu evre.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Laringospazm",
+      "text": "Laryngospasm\nSes tellerinin refleks kapanmasıyla gelişen havayolu tıkanıklığı.",
+      "images": [],
+      "card": {
+        "id": "PER243-0bazddc",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Laringospazm",
+        "en": "Laryngospasm",
+        "definition": "Ses tellerinin refleks kapanmasıyla gelişen havayolu tıkanıklığı.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Farkındalık",
+      "text": "Intraoperative awareness\nGenel anestezi sırasında bilincin geri gelmesi ve olayların hatırlanması; kardiyak anestezide daha sık.",
+      "images": [],
+      "card": {
+        "id": "PER243-0z9y5yh",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "term",
+        "importance": 3,
+        "term": "Farkındalık",
+        "en": "Intraoperative awareness",
+        "definition": "Genel anestezi sırasında bilincin geri gelmesi ve olayların hatırlanması; kardiyak anestezide daha sık.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Anestezinin geri dönüşlülüğü",
+      "text": "Genel kabul gören anestezi tanımında duyuların kaybı **geri dönüşlüdür**; kalıcı sinir hasarı anestezinin hedefi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1peban7",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Anestezinin geri dönüşlülüğü",
+        "body": "Genel kabul gören anestezi tanımında duyuların kaybı **geri dönüşlüdür**; kalıcı sinir hasarı anestezinin hedefi değildir.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Dengeli anestezide klinik belirtiler",
+      "text": "Birden fazla ajanın birlikte kullanılması Guedel'in klinik derinlik belirtilerini **maskeleyebilir**.",
+      "images": [],
+      "card": {
+        "id": "PER243-1gpebui",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Dengeli anestezide klinik belirtiler",
+        "body": "Birden fazla ajanın birlikte kullanılması Guedel'in klinik derinlik belirtilerini **maskeleyebilir**.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "TİVA'da ölçüm sınırı",
+      "text": "Total intravenöz anestezide idame ilaçlarının plazma konsantrasyonu volatil ajan konsantrasyonu gibi doğrudan izlenemez; işlenmiş EEG bu nedenle önemlidir.",
+      "images": [],
+      "card": {
+        "id": "PER243-0halieq",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "TİVA'da ölçüm sınırı",
+        "body": "Total intravenöz anestezide idame ilaçlarının plazma konsantrasyonu volatil ajan konsantrasyonu gibi doğrudan izlenemez; işlenmiş EEG bu nedenle önemlidir.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Guedel evrelerinin bağlamı",
+      "text": "Guedel sınıflaması **eter anestezisi** için geliştirilmiştir. Modern çok ilaçlı tekniklerde bu klinik işaretler tek başına güvenilir derinlik göstergesi değildir.",
+      "images": [],
+      "card": {
+        "id": "PER243-1ujf4ya",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "fact",
+        "importance": 2,
+        "title": "Guedel evrelerinin bağlamı",
+        "body": "Guedel sınıflaması **eter anestezisi** için geliştirilmiştir. Modern çok ilaçlı tekniklerde bu klinik işaretler tek başına güvenilir derinlik göstergesi değildir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Guedel evre 1 hangi olayla sona erer?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0dpg9r4",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Guedel evre 1 hangi olayla sona erer?",
+        "answer": "**Bilinç kaybıyla** sona erer; başlangıcı ilk anestezik ilacın verilmesidir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Guedel evre 3 hangi klinik olayla başlar?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0p8k0ma",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "flip",
+        "importance": 1,
+        "question": "Guedel evre 3 hangi klinik olayla başlar?",
+        "answer": "**Düzenli spontan solunumun yeniden başlamasıyla** cerrahi anestezi evresine girilir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Guedel evre 4 neden tehlikeli kabul edilir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-135gicq",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "flip",
+        "importance": 2,
+        "question": "Guedel evre 4 neden tehlikeli kabul edilir?",
+        "answer": "**Apne, refleks kaybı ve dolaşım baskılanması** doz aşımını gösterir; medüller paraliziyle ilişkilidir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Eksitasyonda havayolu",
+      "text": "Guedel'in **eksitasyon evresinde** laringospazm riski yüksektir; havayolu uyarımı ve ekstübasyondan kaçınılır.",
+      "images": [],
+      "card": {
+        "id": "PER243-1atbeu7",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "remember",
+        "importance": 3,
+        "title": "Eksitasyonda havayolu",
+        "body": "Guedel'in **eksitasyon evresinde** laringospazm riski yüksektir; havayolu uyarımı ve ekstübasyondan kaçınılır.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Guedel evre 1'de beklenen hasta özelliği hangisidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0abmr67",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Guedel evre 1'de beklenen hasta özelliği hangisidir?",
+        "options": [
+          "Konuşabilme",
+          "Sabit geniş pupiller",
+          "Solunum paralizisi",
+          "Tüm reflekslerin kaybı"
+        ],
+        "correct": 0,
+        "explanation": "Evre 1 bilinç kaybından önceki dönemdir; hasta konuşabilir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Guedel sınıflamasında düzensiz solunum ve amaçsız hareket hangi evreyi düşündürür?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0nve32n",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Guedel sınıflamasında düzensiz solunum ve amaçsız hareket hangi evreyi düşündürür?",
+        "options": [
+          "Analjezi",
+          "Eksitasyon",
+          "Cerrahi anestezi",
+          "Doz aşımı"
+        ],
+        "correct": 1,
+        "explanation": "Eksitasyon döneminde düzensiz solunum ve kontrolsüz hareket görülebilir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Guedel evre 3'te havayolu refleksleri nasıl değişir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0jhvy0v",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "mcq",
+        "importance": 2,
+        "question": "Guedel evre 3'te havayolu refleksleri nasıl değişir?",
+        "options": [
+          "Belirgin artar",
+          "Düzenli aralıklarla güçlenir",
+          "Baskılanır",
+          "Bilinçli olarak kontrol edilir"
+        ],
+        "correct": 2,
+        "explanation": "Cerrahi anestezi evresinde havayolu reflekslerinin baskılanması havayolu girişimine olanak verir.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    },
+    {
+      "title": "Kardiyak anestezide farkındalık riski hangi uygulamayla ilişkilidir?",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0tpa5j6",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "mcq",
+        "importance": 3,
+        "question": "Kardiyak anestezide farkındalık riski hangi uygulamayla ilişkilidir?",
+        "options": [
+          "Isı monitörizasyonu",
+          "Arter basıncı izlemi",
+          "Kan gazı örneklemesi",
+          "Kas gevşetici kullanımı"
+        ],
+        "correct": 3,
+        "explanation": "Kas gevşetici kullanımı farkındalık riskinin değerlendirilmesinde önemlidir; hareket görülmemesi bilinç kaybını kanıtlamaz.",
+        "source": "EACTS/EACTAIC/EBCP 2024"
+      }
+    },
+    {
+      "title": "Genel kabul gören anestezi türleri arasında spinal, epidural ve periferik sinir blokları rejyonel anestezi içinde değerlendirilir.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-0s7njt9",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "tf",
+        "importance": 2,
+        "statement": "Genel kabul gören anestezi türleri arasında spinal, epidural ve periferik sinir blokları rejyonel anestezi içinde değerlendirilir.",
+        "isTrue": true,
+        "explanation": "Rejyonel anestezi, belirli bir bölgenin sinir iletimini bloke eden spinal, epidural ve periferik blokları kapsar.",
+        "source": "Genel kabul (PER243 araştırması)"
+      }
+    },
+    {
+      "title": "Guedel evre 2, ilk anestezik uygulamasından bilinç kaybına kadar sürer.",
+      "text": "",
+      "images": [],
+      "card": {
+        "id": "PER243-1rm6rqc",
+        "course": "PER243",
+        "topic": "Anesteziye giriş ve temel kavramlar",
+        "type": "tf",
+        "importance": 1,
+        "statement": "Guedel evre 2, ilk anestezik uygulamasından bilinç kaybına kadar sürer.",
+        "isTrue": false,
+        "explanation": "Bu sınırlar evre 1'e aittir. Evre 2 bilinç kaybından düzenli otomatik solunumun başlamasına kadar sürer.",
+        "source": "OpenAnesthesia: anestezi evreleri"
+      }
+    }
+  ],
+  "attachments": [],
+  "favorite": false,
+  "completed": false,
+  "personalNotes": "",
+  "createdAt": "2026-10-20T20:30:52.278403+00:00",
+  "updatedAt": "2026-10-20T20:30:52.278403+00:00",
+  "course": "PER243",
+  "cards": [
+    {
+      "id": "PER243-1ywrnz8",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Anestezi",
+      "en": "Anesthesia",
+      "definition": "Genel kabul gören tanımıyla, cerrahi veya girişimsel işlem için duyuların, özellikle ağrının, ilaçlarla geri dönüşlü olarak ortadan kaldırılması.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-03m38ld",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Genel anestezi",
+      "en": "General anesthesia",
+      "definition": "Genel kabul gören bileşenleri bilinç kaybı, amnezi, analjezi, hareketsizlik ve otonom yanıtların baskılanması olan, ilaçla oluşturulmuş geri dönüşlü durum.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-0q62toh",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Hipnoz",
+      "en": "Hypnosis",
+      "definition": "Genel kabul gören tanımıyla, bilincin ve dış uyaranlara yanıtın kaybı; anestezi derinliğinin bilinçle ilgili boyutu.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-1gm399j",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Analjezi",
+      "en": "Analgesia",
+      "definition": "Genel kabul gören tanımıyla, ağrı algısının ve nosiseptif fizyolojik yanıtların baskılanması.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-08cvl17",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 2,
+      "term": "Amnezi",
+      "en": "Amnesia",
+      "definition": "Olayların belleğe kaydedilmemesi/hatırlanamaması; benzodiazepinlerin belirgin etkisi.",
+      "source": "DailyMed: midazolam"
+    },
+    {
+      "id": "PER243-12gnsyg",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Dengeli anestezi",
+      "en": "Balanced anesthesia",
+      "definition": "Hipnotik, opioid, kas gevşetici ve volatil ajanın birlikte kullanıldığı teknik; Guedel belirtilerini maskeler.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0r4qm4n",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "TİVA",
+      "en": "Total intravenous anesthesia",
+      "definition": "Anestezi idamesinin yalnız intravenöz ilaçlarla yapılması; plazma düzeyi ölçülemediği için EEG temelli derinlik izlemi önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1aaa7dr",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Guedel evreleri",
+      "en": "Guedel's stages",
+      "definition": "Eter anestezisinde klinik derinliği analjezi, eksitasyon, cerrahi anestezi ve doz aşımı dönemlerine ayıran tarihsel sınıflama.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-1gfgk67",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Eksitasyon evresi",
+      "en": "Stage 2 (excitement)",
+      "definition": "Bilinç kaybından düzenli otomatik solunuma kadar süren, laringospazm riskinin en yüksek olduğu evre.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0bazddc",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Laringospazm",
+      "en": "Laryngospasm",
+      "definition": "Ses tellerinin refleks kapanmasıyla gelişen havayolu tıkanıklığı.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0z9y5yh",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "term",
+      "importance": 3,
+      "term": "Farkındalık",
+      "en": "Intraoperative awareness",
+      "definition": "Genel anestezi sırasında bilincin geri gelmesi ve olayların hatırlanması; kardiyak anestezide daha sık.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1peban7",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Anestezinin geri dönüşlülüğü",
+      "body": "Genel kabul gören anestezi tanımında duyuların kaybı **geri dönüşlüdür**; kalıcı sinir hasarı anestezinin hedefi değildir.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-1gpebui",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Dengeli anestezide klinik belirtiler",
+      "body": "Birden fazla ajanın birlikte kullanılması Guedel'in klinik derinlik belirtilerini **maskeleyebilir**.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0halieq",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "TİVA'da ölçüm sınırı",
+      "body": "Total intravenöz anestezide idame ilaçlarının plazma konsantrasyonu volatil ajan konsantrasyonu gibi doğrudan izlenemez; işlenmiş EEG bu nedenle önemlidir.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-1ujf4ya",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "fact",
+      "importance": 2,
+      "title": "Guedel evrelerinin bağlamı",
+      "body": "Guedel sınıflaması **eter anestezisi** için geliştirilmiştir. Modern çok ilaçlı tekniklerde bu klinik işaretler tek başına güvenilir derinlik göstergesi değildir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0dpg9r4",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Guedel evre 1 hangi olayla sona erer?",
+      "answer": "**Bilinç kaybıyla** sona erer; başlangıcı ilk anestezik ilacın verilmesidir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0p8k0ma",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "flip",
+      "importance": 1,
+      "question": "Guedel evre 3 hangi klinik olayla başlar?",
+      "answer": "**Düzenli spontan solunumun yeniden başlamasıyla** cerrahi anestezi evresine girilir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-135gicq",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "flip",
+      "importance": 2,
+      "question": "Guedel evre 4 neden tehlikeli kabul edilir?",
+      "answer": "**Apne, refleks kaybı ve dolaşım baskılanması** doz aşımını gösterir; medüller paraliziyle ilişkilidir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-1atbeu7",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "remember",
+      "importance": 3,
+      "title": "Eksitasyonda havayolu",
+      "body": "Guedel'in **eksitasyon evresinde** laringospazm riski yüksektir; havayolu uyarımı ve ekstübasyondan kaçınılır.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0abmr67",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Guedel evre 1'de beklenen hasta özelliği hangisidir?",
+      "options": [
+        "Konuşabilme",
+        "Sabit geniş pupiller",
+        "Solunum paralizisi",
+        "Tüm reflekslerin kaybı"
+      ],
+      "correct": 0,
+      "explanation": "Evre 1 bilinç kaybından önceki dönemdir; hasta konuşabilir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0nve32n",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Guedel sınıflamasında düzensiz solunum ve amaçsız hareket hangi evreyi düşündürür?",
+      "options": [
+        "Analjezi",
+        "Eksitasyon",
+        "Cerrahi anestezi",
+        "Doz aşımı"
+      ],
+      "correct": 1,
+      "explanation": "Eksitasyon döneminde düzensiz solunum ve kontrolsüz hareket görülebilir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0jhvy0v",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "mcq",
+      "importance": 2,
+      "question": "Guedel evre 3'te havayolu refleksleri nasıl değişir?",
+      "options": [
+        "Belirgin artar",
+        "Düzenli aralıklarla güçlenir",
+        "Baskılanır",
+        "Bilinçli olarak kontrol edilir"
+      ],
+      "correct": 2,
+      "explanation": "Cerrahi anestezi evresinde havayolu reflekslerinin baskılanması havayolu girişimine olanak verir.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    },
+    {
+      "id": "PER243-0tpa5j6",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "mcq",
+      "importance": 3,
+      "question": "Kardiyak anestezide farkındalık riski hangi uygulamayla ilişkilidir?",
+      "options": [
+        "Isı monitörizasyonu",
+        "Arter basıncı izlemi",
+        "Kan gazı örneklemesi",
+        "Kas gevşetici kullanımı"
+      ],
+      "correct": 3,
+      "explanation": "Kas gevşetici kullanımı farkındalık riskinin değerlendirilmesinde önemlidir; hareket görülmemesi bilinç kaybını kanıtlamaz.",
+      "source": "EACTS/EACTAIC/EBCP 2024"
+    },
+    {
+      "id": "PER243-0s7njt9",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "tf",
+      "importance": 2,
+      "statement": "Genel kabul gören anestezi türleri arasında spinal, epidural ve periferik sinir blokları rejyonel anestezi içinde değerlendirilir.",
+      "isTrue": true,
+      "explanation": "Rejyonel anestezi, belirli bir bölgenin sinir iletimini bloke eden spinal, epidural ve periferik blokları kapsar.",
+      "source": "Genel kabul (PER243 araştırması)"
+    },
+    {
+      "id": "PER243-1rm6rqc",
+      "course": "PER243",
+      "topic": "Anesteziye giriş ve temel kavramlar",
+      "type": "tf",
+      "importance": 1,
+      "statement": "Guedel evre 2, ilk anestezik uygulamasından bilinç kaybına kadar sürer.",
+      "isTrue": false,
+      "explanation": "Bu sınırlar evre 1'e aittir. Evre 2 bilinç kaybından düzenli otomatik solunumun başlamasına kadar sürer.",
+      "source": "OpenAnesthesia: anestezi evreleri"
+    }
+  ],
+  "sourceName": "Önceki yerel Perf-zyon çalışması · PER243"
+}
