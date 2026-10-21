@@ -24,6 +24,8 @@ const lessons=(await readdir(lessonDir)).filter(f=>f.endsWith('.json'));
 if(!lessons.length)throw new Error('data/lessons içinde ders bulunamadı.');
 let report={};
 try{report=JSON.parse(await readFile(join(root,'sources','report.json'),'utf8'));}catch{}
+// Sunucusuz işlev tek bir glob ile paketlensin: rapor da data/ altında tutulur.
+await writeFile(join(root,'data','report.json'),JSON.stringify(report));
 await writeFile(
  join(dist,'library.json'),
  JSON.stringify({lessons:lessons.length,report,generatedAt:new Date().toISOString()})

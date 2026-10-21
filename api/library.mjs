@@ -20,7 +20,8 @@ async function loadLibrary(){
   return value;
  })));
  let report={};
- try{report=JSON.parse(await readFile(join(root,'sources','report.json'),'utf8'));}catch{}
+ try{report=JSON.parse(await readFile(join(root,'data','report.json'),'utf8'));}
+ catch{try{report=JSON.parse(await readFile(join(root,'sources','report.json'),'utf8'));}catch{}}
  cached={lessons,report,mode:'static',readOnly:true};
  return cached;
 }
