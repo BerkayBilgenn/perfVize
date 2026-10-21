@@ -13,9 +13,11 @@ async function request(path,options={}){let r;try{r=await fetch(path,{...options
 export async function localLibrary(){return {lessons:(await read('lessons')).sort((a,b)=>(a.order??999)-(b.order??999)||String(b.createdAt).localeCompare(String(a.createdAt))),report:(await read('meta','report'))?.value||{}};}
 export async function status(){const ops=await read('outbox'),files=await read('files');return {pending:ops.length+files.filter(f=>f.pending).length,rejected:ops.filter(o=>o.error).map(o=>({id:o.id,lessonId:o.lessonId,message:o.error})),rejectedFiles:files.filter(f=>f.pending&&f.error).map(f=>({url:f.url,name:f.name,message:f.error})),lastSync:(await read('meta','lastSync'))?.value,mode,readOnly,online:navigator.onLine,lessons:(await read('lessons')).length};}
 export function subscribe(fn){listeners.add(fn);return()=>listeners.delete(fn);}
-export async function synchronize(){if(working)return working;working=(async()=>{
+export async function synchronize(force=false){if(working)return working;working=(async()=>{
  try{
   notify({type:'syncing'});
+  const savedAt=(await read('meta','lastSync'))?.value;
+  if(!force&&readOnly&&mode==='static'&&savedAt&&Date.now()-new Date(savedAt).getTime()<10*60*1000){notify({type:'updated',...await status()});return;}
   const catalog=await request('/api/library');
   mode=catalog.mode||'local';readOnly=!!catalog.readOnly;
   await put('meta',{key:'mode',value:mode});await put('meta',{key:'readOnly',value:readOnly});
