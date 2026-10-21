@@ -2,7 +2,7 @@
 
 Kalıcı proje: `/Users/kberkaybilgenn/Documents/ChatGPT/Perfüzyon`
 
-GitHub deposu: [BerkayBilgenn/perfVize](https://github.com/BerkayBilgenn/perfVize). Kullanıcının güncel tercihi bu depoyu Vercel’e bağlayıp sonraki ders güncellemelerini push ile yayınlamaktır. Dersler, görseller ve kaynak arşivi projeyle birlikte depoya dahil edilir. Vercel bağlantısı ve Vercel’e uygun kalıcı kayıt altyapısı henüz kurulmadı; aşağıdaki Sites hazırlığı önceki, yayımlanmamış alternatiftir.
+GitHub deposu: [BerkayBilgenn/perfVize](https://github.com/BerkayBilgenn/perfVize). Depo Vercel’e bağlıdır; `main` dalına yapılan her push otomatik yayınlanır: **https://perf-vize.vercel.app**. Vercel yayını, depodaki derslerden oluşan **salt okunur katalog** olarak çalışır; dersler ve görseller her cihazda açılır, yeni ders/not/dosyalar o cihazın tarayıcısında saklanır. Kalıcı Mac arşivi ve yazılabilir eşitleme yerel sunucuda (`/Users/kberkaybilgenn/Documents/ChatGPT/Perfüzyon`) devam eder.
 
 Mac uygulaması **http://localhost:3000** üzerinden çalışır. **Baslat.command** dosyasına çift tıklamak sunucuyu arka planda başlatır ve Chrome’u açar. Mac yeniden başladıktan sonra başlatıcıyı yeniden açabilirsin. Node.js 22 veya üzeri dışında kurulum gerekmez.
 
@@ -11,7 +11,9 @@ Mac uygulaması **http://localhost:3000** üzerinden çalışır. **Baslat.comma
 - Ders kütüphanesi, yeni ders ekleme, kişisel notlar, favoriler ve tekrar kartları çalışıyor.
 - Uygulama ve ders metinleri tarayıcıda da saklanıyor. Bağlantı olmadan yeni ders ve not kaydedilebilir; yerel sunucu tekrar geldiğinde bekleyen değişiklikler kalıcı Mac arşivine aktarılır.
 - **Cihazlar ve çevrimdışı → Tüm dersleri ve görselleri bu cihaza indir**, görselleri ve özgün dosyaları o tarayıcıya indirir. Chrome ve Safari’nin yerel kopyaları ayrıdır; her cihazda ve tarayıcıda bir kez indirmek gerekir.
-- Cihazlar arası internet eşitlemesinin kodu ve özel yayın paketi hazırlandı; **yayın ve dışarı içerik aktarımı henüz yapılmadı**. Tablet/telefon bağlantısı ve ChatGPT’den kayıt aracı henüz etkinleştirilmiş sayılmaz.
+- Cihazlar arası internet eşitlemesi Vercel yayınında kapalıdır; yayın salt okunur katalogdur. Telefon, tablet ve bilgisayarda dersler açılır; yeni notlar ve dosyalar yalnızca o cihazda saklanır. Yerel Mac sunucusunda yazma ve eşitleme çalışmaya devam eder.
+
+Vercel yapılandırması `vercel.json` ve `scripts/build-vercel.mjs` içindedir. Yayın çıktısı `dist/` klasörüne kopyalanır (`public/` + `assets/`); kitaplık `/api/library` sunucusuz işlevinden okunur. Yayını elle yapmak için `node scripts/build-vercel.mjs` çalıştırılabilir. Kalıcı yazma eklenirse (`Vercel Blob` vb.) `api/` ve `public/offline-store.js` içindeki `readOnly` akışı güncellenmelidir.
 
 Özel yayın için ayrılan adres: `https://perfuzyon-kisisel-calisma-merkezi.earlymouse1.chatgpt.site`. Bu adres yayın onayına kadar çalışır bir uygulama olarak sunulmamalıdır. İçerik envanteri `artifacts/publish-inventory.json` içindedir. Otomatik onay incelemesi bu belirli hedefe özel ders verilerini yüklemek için ayrıca kullanıcı onayı istedi.
 

@@ -1,6 +1,6 @@
 import {cleanLesson,applyChange,validateUpload} from './sync-core.js';
 const DB_NAME='perfuzyon-device-v2', DB_VERSION=1;
-let connection,working=null,mode='local';
+let connection,working=null,mode='local',readOnly=false;
 const listeners=new Set();
 const notify=detail=>{for(const fn of listeners)fn(detail);};
 function openDB(){return connection||(connection=new Promise((ok,no)=>{const r=indexedDB.open(DB_NAME,DB_VERSION);r.onupgradeneeded=()=>{for(const name of ['lessons','outbox','files','meta'])if(!r.result.objectStoreNames.contains(name))r.result.createObjectStore(name,{keyPath:name==='meta'?'key':name==='files'?'url':'id'});};r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error);}));}
@@ -11,21 +11,25 @@ function optimistic(l,op){if(op.type==='create')return clean(op.lesson);if(!l)re
 async function merge(data,acked=[]){const db=await openDB();return new Promise((ok,no)=>{const tx=db.transaction(['lessons','outbox','meta'],'readwrite');const out=tx.objectStore('outbox');for(const id of acked)out.delete(id);const q=out.getAll();q.onsuccess=()=>{const map=new Map(data.lessons.map(l=>[l.id,l]));for(const op of q.result.sort((a,b)=>a.sequence-b.sequence))map.set(op.lessonId,optimistic(map.get(op.lessonId),op));for(const lesson of map.values())if(lesson)tx.objectStore('lessons').put(lesson);tx.objectStore('meta').put({key:'report',value:data.report||{}});tx.objectStore('meta').put({key:'lastSync',value:new Date().toISOString()});tx.objectStore('meta').put({key:'mode',value:data.mode||mode});};tx.oncomplete=()=>ok();tx.onabort=tx.onerror=()=>no(tx.error);});}
 async function request(path,options={}){let r;try{r=await fetch(path,{...options,redirect:'error',signal:AbortSignal.timeout(25000)});}catch{throw new Error('Bağlantı kurulamadı. Değişikliklerin bu cihazda korunuyor.');}if(!r.ok){let d={};try{d=await r.json();}catch{}throw Object.assign(new Error(r.status===401||r.status===403?'Hesap bağlantısını yenilemen gerekiyor.':d.error||'Eşitleme tamamlanamadı. Değişikliklerin bu cihazda korunuyor.'),{status:r.status});}return r.json();}
 export async function localLibrary(){return {lessons:(await read('lessons')).sort((a,b)=>(a.order??999)-(b.order??999)||String(b.createdAt).localeCompare(String(a.createdAt))),report:(await read('meta','report'))?.value||{}};}
-export async function status(){const ops=await read('outbox'),files=await read('files');return {pending:ops.length+files.filter(f=>f.pending).length,rejected:ops.filter(o=>o.error).map(o=>({id:o.id,lessonId:o.lessonId,message:o.error})),rejectedFiles:files.filter(f=>f.pending&&f.error).map(f=>({url:f.url,name:f.name,message:f.error})),lastSync:(await read('meta','lastSync'))?.value,mode,online:navigator.onLine,lessons:(await read('lessons')).length};}
+export async function status(){const ops=await read('outbox'),files=await read('files');return {pending:ops.length+files.filter(f=>f.pending).length,rejected:ops.filter(o=>o.error).map(o=>({id:o.id,lessonId:o.lessonId,message:o.error})),rejectedFiles:files.filter(f=>f.pending&&f.error).map(f=>({url:f.url,name:f.name,message:f.error})),lastSync:(await read('meta','lastSync'))?.value,mode,readOnly,online:navigator.onLine,lessons:(await read('lessons')).length};}
 export function subscribe(fn){listeners.add(fn);return()=>listeners.delete(fn);}
 export async function synchronize(){if(working)return working;working=(async()=>{
  try{
   notify({type:'syncing'});
+  const catalog=await request('/api/library');
+  mode=catalog.mode||'local';readOnly=!!catalog.readOnly;
+  await put('meta',{key:'mode',value:mode});await put('meta',{key:'readOnly',value:readOnly});
+  if(readOnly){await merge(catalog);notify({type:'updated',...await status()});return;}
   for(const file of (await read('files')).filter(f=>f.pending&&!f.error)){try{const r=await fetch('/api'+file.url,{method:'PUT',headers:{'Content-Type':file.type},body:file.blob,redirect:'error',signal:AbortSignal.timeout(120000)});if(!r.ok){if([400,409,413,415].includes(r.status)){await put('files',{...file,error:'Dosya aktarımı reddedildi. Doğru dosyayı yeniden seç.'});notify({type:'rejected',message:'Bir dosya aktarımı durdu. Cihazlar ekranından yenisini seçebilirsin.'});}continue;}await put('files',{...file,pending:false});}catch{/* A failed file must not prevent independent notes from syncing. */}}
   const pendingOperations=async()=>{const waiting=(await read('files')).filter(f=>f.pending).map(f=>JSON.stringify(f.url));return (await read('outbox')).filter(o=>!o.error&&!waiting.some(url=>JSON.stringify(o.lesson||o.sections||o.patch||{}).includes(url))).sort((a,b)=>a.sequence-b.sequence);};
   let pending=await pendingOperations();
-  if(!pending.length){const data=await request('/api/library');mode=data.mode||'local';await merge(data);}
+  if(!pending.length)await merge(catalog);
   else while(pending.length){const op=pending[0];let data;try{data=await request('/api/sync',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({operations:[op]})});}catch(e){if(e.status===400){await put('outbox',{...op,error:e.message});notify({type:'rejected',message:'Bir kayıt eşitlenemedi. İçeriği bu cihazda korunuyor; Cihazlar ekranından düzeltebilirsin.'});pending=await pendingOperations();continue;}throw e;}mode=data.mode||'local';await merge(data,data.results.map(r=>r.id));if(data.results.some(r=>r.conflict))notify({type:'conflict',message:'İki cihazda farklı yazılan notlar ayrı ders kopyalarında korundu.'});pending=await pendingOperations();}
   notify({type:'updated',...await status()});
  }catch(e){notify({type:'offline',message:navigator.onLine?e.message:'Çevrimdışısın. Yeni notların bu cihazda saklanıyor.',...await status()});throw e;}
  finally{working=null;}
 })();return working;}
-export async function initialize(){await openDB();mode=(await read('meta','mode'))?.value||'local';const saved=await localLibrary();if(saved.lessons.length){synchronize().catch(()=>{});return saved;}await synchronize();return localLibrary();}
+export async function initialize(){await openDB();mode=(await read('meta','mode'))?.value||'local';readOnly=!!(await read('meta','readOnly'))?.value;const saved=await localLibrary();if(saved.lessons.length){synchronize().catch(()=>{});return saved;}await synchronize();return localLibrary();}
 export async function createLesson(data){const stamp=new Date().toISOString(),id=crypto.randomUUID();const lesson=cleanLesson({...data,id,createdAt:stamp,updatedAt:stamp,personalNotes:'',favorite:false,completed:false,_rev:0});await queueMutation(id,{id:crypto.randomUUID(),lessonId:id,type:'create',lesson},lesson);return lesson;}
 function sequence(tx,op){const meta=tx.objectStore('meta'),r=meta.get('sequence');r.onsuccess=()=>{op.sequence=op.sequence??Math.max(Date.now(),(r.result?.value||0)+1);meta.put({key:'sequence',value:Math.max(op.sequence,r.result?.value||0)});tx.objectStore('outbox').put(op);};}
 async function queueMutation(id,op,lesson){const db=await openDB();await new Promise((ok,no)=>{const tx=db.transaction(['lessons','outbox','meta'],'readwrite');tx.objectStore('lessons').put(clean(lesson));sequence(tx,op);tx.oncomplete=ok;tx.onabort=tx.onerror=()=>no(tx.error);});notify({type:'pending',...await status()});synchronize().catch(()=>{});}

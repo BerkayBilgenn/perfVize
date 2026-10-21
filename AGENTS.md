@@ -5,7 +5,7 @@ Bu klasör kullanıcının tek kalıcı Perfüzyon uygulamasıdır. Kullanıcı 
 ## Güncel dağıtım durumu
 
 - Kullanıcının güncel yayın tercihi GitHub + Vercel’dir. Yetkilendirdiği herkese açık depo: https://github.com/BerkayBilgenn/perfVize. Dersler, görseller ve kaynak arşivi de depoya dahil edilmelidir. Gün sonunda yeni içeriği aynı projeye ekleyip kullanıcı push istediğinde bu depoya gönder; yeni proje üretme.
-- Vercel yayını henüz kurulmadı. GitHub’a push yapılmasını Vercel’de yayının veya cihazlar arası canlı not eşitlemesinin tamamlandığı şeklinde sunma. Mevcut Mac sunucusunun disk kayıt yapısı Vercel’e uyarlanmalı. Daha önce hazırlanan Sites kodu alternatif uygulama olarak korunuyor; kullanıcının yeni tercihiyle Sites yayını başlatma.
+- Vercel yayını kuruldu: **https://perf-vize.vercel.app**. `main` dalına push otomatik yayın üretir (`vercel.json`, `scripts/build-vercel.mjs`, `api/library.mjs`). Yayın **salt okunur katalog** olarak çalışır: dersler ve görseller tüm cihazlarda açılır; yeni ders, kişisel not ve dosyalar yalnızca o cihazın tarayıcısında (IndexedDB) saklanır. Cihazlar arası canlı eşitleme yayında YOKTUR; bunu çalışıyor gibi sunma. Kalıcı yazma için Vercel Blob/Neon gibi bir depolama bağlanmalı ve `readOnly` akışı güncellenmelidir. Mac sunucusu (`localhost:3000`) yazılabilir arşiv olarak korunur.
 - Mac: http://localhost:3000. Başlatıcı Baslat.command; arka planda `node scripts/start.mjs --no-open`.
 - Cihaz içi IndexedDB, çevrimdışı kayıt/kuyruk, dosya indirme, çakışma koruması uygulanmış durumda.
 - Özel Site kaydı var: appgprj_6ad7d6079d508191a2a6ed7e6798d828. Ayrılan adres: https://perfuzyon-kisisel-calisma-merkezi.earlymouse1.chatgpt.site.

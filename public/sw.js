@@ -1,4 +1,4 @@
-const SHELL='perfuzyon-shell-v3',MEDIA='perfuzyon-media-v2';
+const SHELL='perfuzyon-shell-v4',MEDIA='perfuzyon-media-v2';
 const CORE=['/','/index.html','/styles.css','/app.js','/offline-store.js','/sync-core.js','/manifest.webmanifest','/icon.svg'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{const cache=await caches.open(SHELL);for(const url of CORE){const r=await fetch(url,{cache:'reload',redirect:'error'});if(!r.ok||r.redirected)throw new Error('Uygulama dosyası alınamadı.');await cache.put(url,r);}await self.skipWaiting();})()));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{for(const key of await caches.keys())if(key.startsWith('perfuzyon-shell-')&&key!==SHELL)await caches.delete(key);await self.clients.claim();})()));
